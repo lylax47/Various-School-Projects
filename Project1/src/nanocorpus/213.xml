@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На «правительственный <Node id="23"/>час<Node id="26"/>» 218-го пленарного заседания Совета Федерации, которое состоится <Node id="92"/>19 марта<Node id="100"/>, для информации «О ходе реализации стратегии развития нанотехнологий в Российской Федерации» приглашены вице-премьер Сергей Иванов и министр образования и науки Андрей Фурсенко.
+
+Об этом сообщила сегодня, <Node id="306"/>20 февраля<Node id="316"/>, на пленарном 217-м заседании верхней палаты вице-спикер Светлана Орлова.
+
+Проведение «правительственного <Node id="423"/>часа<Node id="427"/>» по указанной теме поддержали единогласно 104 сенатора.
+
+Орлова также сообщила, что в <Node id="514"/>полдень 22 февраля<Node id="532"/> в Совете Федерации состоится торжественный прием по случаю <Node id="592"/>Дня<Node id="595"/> защитника отечества.
+
+Представитель президента в Совете Федерации Александр Котенков<Node id="680"/> <Node id="681"/>сообщил о награждении орденом «За заслуги перед Отечеством» третьей степени председателя верхней палаты Сергея Миронова<Node id="800"/>.<Node id="801"/> <Node id="802"/>Котенков отметил, что «орден ему президент вручит сам<Node id="855"/>».
+
+По окончании заседания вице-спикер Орлова отказалась комментировать вопрос о том, как решится вопрос о приглашении конкретных членов <Node id="992"/>кабинета министров<Node id="1010"/> в случае смены правительства до <Node id="1043"/>19 марта<Node id="1051"/>.
+Собкор KMNews Глеб Васильков</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="800" EndNode="801">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="680" EndNode="681">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="802" EndNode="855">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="23" EndNode="26">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="306" EndNode="316">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="514" EndNode="532">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="1043" EndNode="1051">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="423" EndNode="427">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="800" EndNode="801">
+</Annotation>
+<Annotation Id="19" Type="работает" StartNode="680" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="92" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Властная_Структура" StartNode="992" EndNode="1010">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">кабинета министров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="автор" StartNode="802" EndNode="855">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="592" EndNode="595">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

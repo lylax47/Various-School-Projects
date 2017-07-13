@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сверли по-новомуИжевские и немецкие ученые разработали <Node id="55"/>наноматериал<Node id="67"/> для обработки камняВ Ижевском государственном техническом университете побывал профессор Университета г. Люнебурга (Германия) Антимос Георгиадис<Node id="212"/>.<Node id="213"/> Университет г. Люнебурга – деловой партнер ИжГТУ по совместным образовательным и научным проектам, ему всего <Node id="323"/>два года<Node id="331"/>, а создан он на основе двух университетов (технического и классического).
+Ижевский Государственный Технический Университет
+Целью визита профессора Георгиадиса была совместная работа с коллегами из ИжГТУ по созданию бинациональной программы магистерского обучения, выпускники которой будут получать двойные – российский и немецкий – дипломы. Эта программа финансируется Немецкой службой академических обменов (DAАD), прием студентов планируется начать в <Node id="785"/>2009 году<Node id="794"/>.
+Благодаря <Node id="806"/>А.Георгиадису<Node id="819"/> ижевские специалисты получили доступ к одному из крупных проектов Евросоюза в области создания инструментов и оборудования. ИжГТУ – участник консорциума 30 европейских партнеров, который занимается реструктуризацией рынка изделий из натурального камня (от добычи и обработки до сбыта).
+
+Исследования ижевских ученых направлены на создание исходных <Node id="1168"/>наноматериалов<Node id="1182"/> и компонентов структур многослойных покрытий, а также технологии их нанесения на высокопрочные инструменты для обработки камня. Партнерами ИжГТУ в этом проекте стали Университет г. Люнебурга и Ижевский инструментальный завод.
+Серия «Blue Granite» для гранита и прочих твердых камней
+Совместно с заводом была изготовлена первая партия прототипов инструмента нового поколения – это сверла сухого (без смазочных и охлаждающих жидкостей) высокоскоростного сверления камня (мрамор или гранит), которые сейчас будут проходить испытания в Университете г. Люнебурга.
+<Node id="1742"/>http://www.poisknews.ru/…onovomu.htmlХорошее<Node id="1786"/> дело… Наши выходлят на «их» рынок, появляется новое, очень производительное оборудование. И всё это – на базе нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="323" EndNode="331">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="785" EndNode="794">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="55" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="212" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1742" EndNode="1786">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="785" EndNode="794">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="806" EndNode="819">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="212" EndNode="213">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="1168" EndNode="1182">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

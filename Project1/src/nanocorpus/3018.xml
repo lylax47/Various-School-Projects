@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Физики из UC Riverside показали, что графеновые листы могут выступать в роли атомных бильярдных столов, по которым движутся электрические заряды-шары. Оказалось, что электроны, свободно перемещающиеся в «плоскости» листа, отражаются от единственного препятствия – границы. 
+ 
+Было показано, что отраженный и исходный электроны интерферируют, т.е. проявляют волновые свойства. Результаты были получены при измерении электропроводности листов <Node id="442"/>графена<Node id="449"/> при экстремально низких температурах (0.26 К), при которых легче наблюдать квантовые электронные эффекты. 
+ 
+Напомним, что совсем недавно открытый углеродный материал <Node id="617"/>графен<Node id="623"/> представляет огромный интерес. Во-первых, эксперименты с <Node id="681"/>графеном<Node id="689"/> позволяют проверить множество теоретических предположений из областей квантовой физики и теории относительности. Во-вторых, выдающиеся физические свойства <Node id="845"/>графена<Node id="852"/> (электропроводность, теплопроводность и др.) могут оказаться полезными для создания различных устройств микроэлектроники. 
+ 
+Работа "Phase-Coherent Transport in Graphene Quantum Billiards" была опубликована в Science. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="617" EndNode="623">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="442" EndNode="449">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="681" EndNode="689">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="845" EndNode="852">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

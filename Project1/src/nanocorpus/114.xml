@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>На сегодняшний день<Node id="21"/> интерес к <Node id="32"/>графену<Node id="39"/> как к новому материалу для наноэлектроники, технологий NEMS и MEMS, а также как к объекту фундаментальных исследований всё больше и больше возрастает. Это связано с малой степенью изученности материалов на основе монослоёв графита. Значительную роль в изменении электрических, термических и механических свойств играют дефекты структуры. И если <Node id="385"/>нанотрубки<Node id="395"/>, <Node id="397"/>фуллерены<Node id="406"/> и дефекты в них уже подверглись серьёзным исследованиям, то аналогичные дефекты (дефекты <Node id="496"/>Стоун<Node id="501"/>-Уэльса, т.е. образование из двух шестичленных колец одного пяти- и одного семичленного, например) и их динамика в <Node id="616"/>графене<Node id="623"/> до сих пор оставались неизученными. 
+ 
+Авторы работы, опубликованной в NanoLetters, разработали методику съемки на просвечивающем электронном микроскопе, которая позволяет получить субангстремное разрешение при достаточно низком напряжении – 80 кВ. 
+ 
+На рисунке 1 представлены микрофотографии подготовленных образцов. На рисунке 2 в полной мере продемонстрированы возможности использованного подхода для TEM. Когда удалось зафиксировать необходимые параметры съёмки, приступили к самому интересному – созданию дефектов и отслеживанию их динамики. Выбранное место на <Node id="1191"/>графене<Node id="1198"/> подвергалось нагреву электронным пучком, в результате чего образовывались дефекты <Node id="1281"/>Стоун<Node id="1286"/>-Уэльса (рис.3). Было установлено, что множественные дефекты такого рода живут достаточно долго (~20 сек) и после процесса релаксации исчезают, так как монослой закреплён на подложке. Подробное изучение такого рода процессов позволит понять основы формирования <Node id="1547"/>нанотрубок<Node id="1557"/> и <Node id="1560"/>фуллеренов<Node id="1570"/> из <Node id="1574"/>графена<Node id="1581"/>. 
+ 
+Как сообщают авторы, разработанная ими методика TEM позволит исследовать с максимальным разрешением те структуры, которые являются неустойчивыми при использовании "обычной" электронной просвечивющей микроскопии с высоким напряжением, а также использовать плёнки <Node id="1848"/>графена<Node id="1855"/> в качестве калибровочных образцов. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="32" EndNode="39">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="397" EndNode="406">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="616" EndNode="623">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="385" EndNode="395">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1281" EndNode="1286">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стоун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="496" EndNode="501">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стоун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="1848" EndNode="1855">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="1574" EndNode="1581">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="1560" EndNode="1570">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2" EndNode="21">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1547" EndNode="1557">
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="1191" EndNode="1198">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

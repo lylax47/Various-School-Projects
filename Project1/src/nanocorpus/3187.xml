@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Швеции и Японии сообщили о создании с помощью нанотехнологии нового типа сверхпрочной бумаги, названной «целлюлозная нанобумага».
+
+Ларс Берглунг (Lars A. Berglund) и <Node id="184"/>его<Node id="187"/> коллеги взяли за основу нанобумаги обычную целлюлозу. Но в составе материала эти биологические макромолекулы находятся в виде <Node id="314"/>нановолокон<Node id="325"/>. А это существенно увеличивает прочность готового материала.
+
+По проведенным исследованиям стало известно, что хорошо натянутая нанобумага по прочности не уступает стали!
+
+Ларс и <Node id="505"/>его<Node id="508"/> коллеги уверен, что нанобумага в недалеком будущем станет одним из конструкционных материалов. Легкость и необычайно высокая жесткость позволит использовать нанобумагу в качестве армирующих элементов в строительстве.
+
+Также Ларс и коллеги планируют добиться большей жесткости нанобумаги, изменяя ее внешнюю форму.
+
+О своих достижениях ученые сообщили в выпуске ACS' Biomacromolecules от <Node id="896"/>9 июня<Node id="902"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="505" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="184" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нановолокно" StartNode="314" EndNode="325">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="896" EndNode="902">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Микромир постоянно удивляет нас красотой и гармонией. Потому так много замечательных изображений в нашей галерее, а также на конкурсе научной фотографии, который мы завершим к <Node id="178"/>25 октября<Node id="188"/> (к этому сроку будут напечатаны призы - альбомы научной фотографии для победителей).
+ 
+Недавно были объявлены победители конкурса научной фотографии, состоявшегося в рамках конференции 34th International Conference on Micro and Nanoengineering (MNE08). С потрясающими картинками можно ознакомиться на сайте конференции.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="178" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

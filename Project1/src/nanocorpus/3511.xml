@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Донской государственный технический университет в Ростове-на-Дону планирует направить на создание факультета нанотехнологий <Node id="125"/>10 млн руб.<Node id="136"/>, сообщает ИА «МедиаЮг» со ссылкой на проректора по информатизации вуза Александра Кужарова.
+
+«Сегодня государственная политика связана с приоритетным развитием нанотехнологий. Этим обусловлено создание подобного факультета в нашем вузе», — пояснил собеседник агентства.
+
+По его словам, сейчас идет подготовка документов для лицензирования нового факультета.
+
+<Node id="496"/>По словам Кужарова, на факультете планируется ввести 2 специальности – «<Node id="568"/>наноматериалы<Node id="581"/>» и «материаловедение»<Node id="603"/>. По каждой из специальностей предусматривается 25 учебных мест. «<Node id="669"/>Планируется, что уже с <Node id="692"/>сентября 2008 г.<Node id="708"/> начнется набор студентов на новый факультет. Предполагаемый конкурс составит 3 человека на место», — сообщил Александр Кужаров<Node id="835"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="125" EndNode="136">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="496" EndNode="603">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="692" EndNode="708">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="496" EndNode="603">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="568" EndNode="581">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="669" EndNode="835">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="669" EndNode="835">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

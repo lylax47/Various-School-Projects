@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+На строительство нанотехнологического корпуса Самарского государственного аэрокосмического университета выделят <Node id="113"/>15 млн рублей<Node id="126"/>.
+
+Такое решение приняло правительство Самарской области <Node id="183"/>21 ноября<Node id="192"/>. Государственным заказчиком выступит министерство экономического развития, инвестиций и торговли. Ведомство и университет заключат соглашение об оформлении права собственности области на часть здания. Оно будет эквивалентно вложенным средствам облбюджета.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="113" EndNode="126">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="183" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

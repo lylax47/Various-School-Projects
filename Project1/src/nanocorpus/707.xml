@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Расширенное и пересмотренное издание успешной Германской версии свидетельствует о популярности учебной литературы по нанотехнологии- многие университеты уже давно ввели курсы по этой дисциплине, многие – готовят материалы и программы.
+
+Новое издание книги <Node id="257"/>Хорста-Гюнтера<Node id="271"/> Рубана (Horst-Günter Rubahn) – является великолепно структурированным и легко читаемым введением в нанотехнологию. Книга написана автором с известным и проверенным опытом ученого-исследователя. Монография содержит огромный экспериментальный материал и глубокий анализ <Node id="540"/>наноструктур<Node id="552"/>.
+
+Эта монография представляет собой дальнейшее развитие авторских курсов по нанофизике и нанотехнологии, охватываает фундаментальную физику <Node id="693"/>наноструктур<Node id="705"/>; методы выращивания и управления ростом <Node id="746"/>наночастиц<Node id="756"/>; методы характеризации с акцентом на методы оптического анализа и нанооптику. Существенное место в книге уделено дискуссии наноархитектур и новейших приложений нанотехнологии в оптике, электронике, вкантовых компьютерах, молекулярных <Node id="991"/>наноструктурах<Node id="1005"/>, биологии и мягкой материи. Это издание также включает в себя расширенное описание квантовых и классических эффектов, равно как и описание <Node id="1145"/>магнитных <Node id="1155"/>наноструктур<Node id="1167"/>.
+
+С учетом широкого круга проблем, обсуждаемых в целях глубокого понимания читателем, книга преимущественно расчитана на выпускников университетов с основами знаний в области физики твердого тела, но также может быть использована в качестве базового источника сведений профессионалами в физике, химии и материаловедении, работающими над разработкой наносистем, мягких веществ или биофизических материалов.
+
+Автор монографии – <Node id="1594"/>Хорст-Гюнтер<Node id="1606"/> Рубан <Node id="1613"/>является<Node id="1621"/> профессором Mads Clausen Institute of the University of Southern Denmark – SDU) в Дании, где возглавляет департамент нанотехнологии, имея огромный опыт преподавания курсов нелинейной оптики и спектроскопии, химии и физики поверхности, а также нанотехнологии. Проф. Рубан в своей научной деятельности концентрируется на разработке новых методов разработки нанотехнологий и методах фотоники, включая нелинейную оптическую микроскопию и современные методы лазерной обработки материалов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="540" EndNode="552">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="693" EndNode="705">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="257" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хорст-Гюнтер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="1613" EndNode="1621">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="991" EndNode="1005">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1594" EndNode="1606">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хорст-Гюнтер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="746" EndNode="756">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="1155" EndNode="1167">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="1613" EndNode="1621">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Магнитная+наноструктура" StartNode="1145" EndNode="1167">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

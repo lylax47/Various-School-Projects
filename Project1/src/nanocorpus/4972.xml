@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из Политехнического Института Ренслеера (Rensselaer Polytechnic Institute) удалось разработать простую технику исправления микроскопических дефектов в материалах, изготовленных из полимерных композитов, с помощью <Node id="221"/>нанотрубок<Node id="231"/>.
+
+Этот метод также будет полезен при исправлении опасных микродефектов крыльев высокоскоростных самолетов.
+
+Сперва ученые сделали полимерный <Node id="373"/>нанокомпозит<Node id="385"/> с включением электропроводящих <Node id="417"/>углеродных <Node id="428"/>нанотрубок<Node id="438"/>. Далее происходит мониторинг электропроводимости материала: если где-то появляется микротрещина, то она меняется. Так можно сразу же определить месторасположение и длину трещины.
+
+Но это не самое интересное достижение профессора <Node id="668"/>Нихила<Node id="674"/> Кораткара (Nikhil A. Koratkar) из Ренсслеера. Достаточно мощным коротким электрическим импульсом, направленным в область микротрещины, можно добиться нагрева <Node id="833"/>нанотрубок<Node id="843"/> и частичного плавления полимерного материала, который затянет повреждение.
+
+Как говорят ученые, при этом произойдет <Node id="960"/>70%<Node id="963"/>-ное восстановление прочности материала. Это достаточно неплохо для того, чтобы некоторое время использовать поврежденный материал.
+
+Мониторинг повреждений в реальном времени и возможность быстрого восстановления конструкционных материалов найдут широкое применение в современных машинах и механизмах: от легкового авто до авиа- и судостроения.
+
+Проект находился в работе <Node id="1335"/>более 18 месяцев<Node id="1351"/>. Сейчас Кораткар и его коллеги собираются совершенствовать систему мониторинга поверхности и пытаются создать цельный полимерный <Node id="1481"/>нанокомпозит<Node id="1493"/> больших размеров.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="428" EndNode="438">
+</Annotation>
+<Annotation Id="1" Type="Нанокомпозит" StartNode="373" EndNode="385">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="221" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="668" EndNode="674">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Нихил</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1335" EndNode="1351">
+</Annotation>
+<Annotation Id="8" Type="Нанокомпозит" StartNode="1481" EndNode="1493">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="960" EndNode="963">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="417" EndNode="438">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="833" EndNode="843">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

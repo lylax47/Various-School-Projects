@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Рынок электронных органических материалов, например, органических транзисторов или соединительных основ для гибких экранов, имеет высокий потенциал роста, утверждает исследовательское агентство NanoMarkets в недавно опубликованном отчете «Возможности рынка электронной органики».
+
+К <Node id="284"/>2015 году<Node id="293"/> общий объем продаваемых электронных органических материалов достигнет уровня <Node id="371"/>15,8 миллиарда долларов<Node id="394"/> США.
+
+Согласно прогнозу агентства Nano Markets, к <Node id="445"/>2015 году<Node id="454"/> <Node id="455"/>более 80%<Node id="464"/> органических электронных материалов будет направлено на производство трех основных типов устройств: электронных меток RFID, объединительных панелей для гибких дисплеев и <Node id="635"/>OLED<Node id="639"/>-экранов. При этом самой многочисленной станет первая группа, на чей счет в <Node id="715"/>2015 году<Node id="724"/> будет записано порядка <Node id="748"/>6,9 миллиарда долларов<Node id="770"/> США. Лидирующие на данный момент на рынке соединительные панели для <Node id="839"/>OLED<Node id="843"/>-экранов уступят главенствующие позиции RFID-приложениям в <Node id="902"/>2012 году<Node id="911"/>, и к <Node id="917"/>2015 году<Node id="926"/> их объем продаж составит <Node id="952"/>5,6 миллиарда долларов<Node id="974"/> США.
+
+По мнению аналитиков агентства, нынешний уровень полупроводниковых органических материалов не отвечает требованиям, необходимым для быстрого роста сектора. Помимо ограничений в производительности, их большая часть доступна лишь в небольших количествах и очень дорога в производстве. Однако появление новых видов сырья, например, гибридных материалов с применением <Node id="1345"/>углеродных <Node id="1356"/>нанотрубок<Node id="1366"/>, позволят данному сектору дотянуться к <Node id="1406"/>2015 году<Node id="1415"/> до отметки в <Node id="1429"/>4,9 миллиарда долларов<Node id="1451"/> США.
+
+Для обеспечения устойчивого роста, органической промышленности необходимо брать пример с кремниевой полупроводниковой индустрии и разработать свой аналог КМОП-микросхемы с устойчивым и доступным набором компонентов, и в первую очередь органических полупроводников и диэлектриков, полагают аналитики агентства.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="917" EndNode="926">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1429" EndNode="1451">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="1345" EndNode="1366">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="715" EndNode="724">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="284" EndNode="293">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="445" EndNode="454">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="902" EndNode="911">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1406" EndNode="1415">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="748" EndNode="770">
+</Annotation>
+<Annotation Id="9" Type="Органический+светодиод" StartNode="635" EndNode="639">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="902" EndNode="911">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="917" EndNode="926">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="715" EndNode="724">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="371" EndNode="394">
+</Annotation>
+<Annotation Id="14" Type="Органический+светодиод" StartNode="839" EndNode="843">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1406" EndNode="1415">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="455" EndNode="464">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="445" EndNode="454">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="1356" EndNode="1366">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="284" EndNode="293">
+</Annotation>
+<Annotation Id="20" Type="Деньги" StartNode="952" EndNode="974">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

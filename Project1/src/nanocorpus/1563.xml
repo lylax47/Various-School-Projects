@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователям из General Electric (GE) удалось создать новый тип высокотемпературной и надежной <Node id="98"/>нанокерамики<Node id="110"/>, которая будет востребована в энергетической, авиационной и химической промышленности. 
+ 
+Обычно производство керамики методом наноструктурной самосборки требует формирования первичной подложки, которую обычно делают на основе полимеров. Однако это связано с рядом технологических трудностей, учесть которые достаточно сложно, поэтому керамика зачастую получается с дефектами наноструктурного порядка организации материала. 
+ 
+Патрик Мэйленфант (Patrick Malenfant) и Джулин Вон (Julin Wan)из GE предложили новый, более простой и производительный метод формирования полимерной матрицы, на которой происходит самосборка <Node id="729"/>нанокерамики<Node id="741"/>. 
+ 
+Суть нововведения состоит в создании гибридного неорганически-органического сополимера, который сразу же формирует готовый «шаблон» для дальнейшего производства керамики. Результат – наноструктурированная керамика может выдерживать нагрев до 1400 градусов <Node id="1002"/>Цельсия<Node id="1009"/>.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Керамический+наноматериал" StartNode="729" EndNode="741">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Керамический+наноматериал" StartNode="98" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1002" EndNode="1009">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Создана ткань, убивающая бактерииОдин из ведущих специалистов по созданию уникальных тканей Стефен Микельсен (Stephen Michielsen) из Технологического института штата Джорджия (Georgia Institute of Technology in Atlanta), США, подал патентную заявку на ткань, обладающую антивирусными свойствами, сообщает New Scientist.
+
+Ткань способна убивать вирусы различных заболеваний при помощи высокореактивных красителей, в частности, профиринов (prophyrins), которые синтезируются из глицина, и флюоресцеинов (fluoresceines). При облучении светом эти соединения высвобождают свободные атомы кислорода, способные инактивировать вирусы и, до некоторой степени, бактерии.
+
+По мнению разработчиков, ткань с красителями может найти применение в различных учреждениях здравоохранения, например в качестве фильтрующего материала в системах вентиляции и в медицинских марлевых масках, а также в обивке кресел для салонов самолетов, в военной форме и в различной спецодежде.
+
+Напомним, что <Node id="973"/>в начале 2007 года<Node id="991"/> американский ученый <Node id="1012"/>Джеф<Node id="1016"/> Оуэнс объявил об изобретении ткани с аналогичными свойствами, которая обладает способностью убивать бактерии и даже споры такой опасной болезни, как сибирская язва. Помимо антибактериальных свойств, она разлагает грязь и сама ликвидирует следы пота. Сшитые из этой ткани футболки и нижнее белье, можно носить, не снимая в течение многих <Node id="1354"/>недель<Node id="1360"/>.
+
+Лондонская компания Alexium получила разрешения на использование этой технологии для создания товаров — спортивной одежды, постельного белья для больниц и одежды для медперсонала.
+
+А японские ученые ещё в <Node id="1568"/>2005 году<Node id="1577"/> создали ткань, способную полностью уничтожить вирус птичьего гриппа H5N1. При попадании на поверхность ткани вирус птичьего гриппа уничтожается <Node id="1722"/>более чем на 99%<Node id="1738"/> за <Node id="1742"/>1 минуту<Node id="1750"/>. Фрагмент ткани сохраняет свои защитные свойства <Node id="1800"/>в течение 30 дней<Node id="1817"/>.
+
+Дезинфицирующее действие ткани основано на свойствах нанесенного на поверхность материи антивирусного вещества доломита — породообразующего минерала класса карбонатов, подвергнутого специальной обработке с использованием последних достижений нанотехнологий.
+<Node id="2078"/>http://www.vokrugsveta.ru/news/?…Soon<Node id="2115"/> fabrics with virus-killing qualityhttp://<Node id="2157"/>www.topnews.in/…uality-26665Antivirus-resistant<Node id="2204"/> and waterproof fabric
+United States Patent 20070010149
+<Node id="2260"/>http://www.freepatentsonline.com/…0010149.htmlСоздание<Node id="2314"/> бактерицидных тканей – это магистральный путь применения нанотехнологий и <Node id="2389"/>наноматериалов<Node id="2403"/> – с учётом их массового спроса. Поэтому учёные во многих странах успешно штурмуют эту «цитадель» и, как видим, добиваются определённых успехов…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1742" EndNode="1750">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1800" EndNode="1817">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="973" EndNode="991">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1012" EndNode="1016">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джеф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1568" EndNode="1577">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1354" EndNode="1360">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2260" EndNode="2314">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="2389" EndNode="2403">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1722" EndNode="1738">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2078" EndNode="2115">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2157" EndNode="2204">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1568" EndNode="1577">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Изобретение получит коммерческое применение примерно через пару летРезультатом изысканий <Node id="89"/>Пуликеля Аджаяна<Node id="105"/> и <Node id="108"/>его<Node id="111"/> коллег по Политехническому институту Ренселера в городе Трой, штат Нью-Йорк, занимающихся исследованиями в области нанотехнологий, стала тонкая и гибкая бумажная батарея. Основу разработки составляет целлюлоза: ученым удалось вживить в нее <Node id="352"/>нанотрубки<Node id="362"/>, которые используются в качестве электродов.
+
+Целлюлоза не реагирует на большинство растворителей, что создает сложности для внедрения <Node id="498"/>нанотрубок<Node id="508"/>. Для решения этой проблемы <Node id="536"/>Аджаян<Node id="542"/> использовал ионную жидкость, способную растворить древесный материал, что в свою очередь позволяет наполнить его многослойными <Node id="670"/>углеродными <Node id="682"/>нанотрубками<Node id="694"/>, сообщает журнал Nature.
+
+После того, как бумага из целлюлозы и <Node id="759"/>нанотрубок<Node id="769"/> готова, ионную жидкость можно удалить полностью. Получившийся в результате лист можно разрезать, сгибать, сворачивать или скручивать, но он с легкостью возвращает свою первоначальную форму. Остается соединить бумагу с тонким слоем металлического лития, и батарея готова.
+
+Если ионную жидкость полностью не удалить, она может работать как встроенный электролит, превращая кипу бумаги в конденсатор большой емкости.
+
+Батареи, как и конденсаторы, имеют свои плюсы и минусы. Батарея способны хранить больше энергии, но для перемещения электронов необходима химическая реакция. В свою очередь конденсаторам это не нужно – они используют электростатическое взаимодействие и поэтому могут заряжаться и отдавать энергию очень быстро.
+Pulickel M. Ajayan
+<Node id="1515"/>Аджаян<Node id="1521"/> полагает, что если оставлять в бумаге немного ионной жидкости, она можно получит «идеальный компромисс» между этими вариантами<Node id="1648"/>. Его изобретение может сочетать способности батареи сохранять энергию и некоторые свойства выделения энергии конденсаторами.
+ 
+«Устройство способно сохранять эффективное количество электричества, которое будет очень быстро отдаваться», – говорит он.
+ 
+Испытания показали, что бумажные батареи способны функционировать при самых различных температурах. Они даже не деформируются при оттаивании после заморозки. При комнатной температуре устройство способно выделять 13 ватт-часов на килограмм – намного меньше, чем привычные никель-кадмиевые или литиевые батареи, но в два раза больше, чем конденсатор большой емкости.
+<Node id="2267"/>Аджаян<Node id="2273"/> уверен, что через пару <Node id="2297"/>лет<Node id="2300"/> его изобретение ждет коммерческий успех<Node id="2340"/>.
+<Node id="2342"/>http://gzt.ru/…/161505.htmlhttp://www.nanotech-now.com/news.cgi?…Ну<Node id="2409"/> вот, ещё одна вершина «пала» под натиском пытливых исследователей. Энергия – это «хлеб» промышленности и необходимый элемент любой аппаратуры. Со временем учёные научатся встраивать эти батареи в живой организм, и содержащиеся в нём жидкости будут играть роль электролитов…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2297" EndNode="2300">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="2267" EndNode="2340">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="352" EndNode="362">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="536" EndNode="542">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1515" EndNode="1521">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="1515" EndNode="1648">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="89" EndNode="105">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="1515" EndNode="1648">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="682" EndNode="694">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="108" EndNode="111">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="2267" EndNode="2340">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="2342" EndNode="2409">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="498" EndNode="508">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2267" EndNode="2273">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="670" EndNode="694">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="759" EndNode="769">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

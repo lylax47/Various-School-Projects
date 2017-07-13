@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+МГУ и IBM вчера сообщили о деталях подписанного <Node id="49"/>контракта<Node id="58"/> на поставку суперкомпьютеров IBM BlueGene/P. Новый суперкомпьютер будет установлен на Факультете математики и кибернетики МГУ, кроме того, данный суперкомпьютер станет первым BlueGene/P, поставленным в Россию, сообщили в IBM. Использоваться суперкомпьютер будет для различных фундаментальных исследований в области нанотехнологий, новых материалов и прикладных исследований.
+
+<Node id="435"/>По словам ректора МГУ Виктора Садовничего<Node id="476"/>,<Node id="477"/> <Node id="478"/>МГУ, как ведущий ВУЗ в России, будет очень рад присоединится ведущим мировым исследовательским организациям за счет использования наиболее продвинутой на сегодня суперкомпьютерной архитектуры в мире<Node id="676"/>. «Это соглашение провозглашает новый этап эры суперкомпьютерных вычислений в России», – говорит Садовничий.
+
+По условиям соглашения, МГУ купит 2-стоечный вариант BlueGene/P, содержащий 8 192 процессора, пиковая производительность машины составит 27,8 трлн операций в <Node id="944"/>секунду<Node id="951"/> (терафлоп). По словам представителей IBM, мощность такого решения примерно в 2 600 раз выше самого быстрого из доступных на сегодня многоядерных домашних ПК. Согласно данным последнего списка 500 мощнейших компьютеров мира, новый суперкомпьютер МГУ попадает в первые 50 суперкомпьютеров.
+
+Кирилл Корнилиев, генеральный менеджер по России подразделения IBM East Europe &amp; Asia, отметил, что благодаря уникальной архитектуре, суперкомпьютеры BlueGene/P предоставляют максимум вычислительных возможностей при минимуме занимаемого пространства. Одна стойка суперкомпьютера сравнима по размерам со средним холодильником, кроме того, подобная система масштабируема, что означает возможность покупки в МГУ дополнительных стоек для наращивания мощности.
+
+Напомним, что BlueGen/P представляет собой второе поколение суперкомпьютеров BlueGene, первое было представлено еще в <Node id="1816"/>2004 году<Node id="1825"/> и с тех пор эти машины возглавляют список мощнейших суперкомпьютеров мира.
+
+Ожидается, что в МГУ BlueGene/P будет введен в эксплуатацию в <Node id="1964"/>апреле 2008 года<Node id="1980"/>. Стоимость контракта в компании не сообщили.
+
+Одновременно с новый BlueGene/P в МГУ также ведут строительство нового суперкомпьютерного комплекса «СКИФ». Подрядчиками по данному проекту выступают компании «Т-платформы» и Intel, также в проекте принимает участие и Институт программных систем РАН.
+
+Этот суперкомпьютер будет введен в строй в <Node id="2322"/>марте 2008 года<Node id="2337"/> и станет основной суперкомпьютерного парка Научно-исследовательского вычислительного центра МГУ. Кластер имеет пиковую производительность 60 TFlops и работает на базе 1250 четырехъядерных процессоров Intel Xeon, произведенных по 45-нм техпроцессу.
+
+По оценкам экспертов, к моменту поставки эта система станет самой мощной законченной суперкомпьютерной установкой в России и СНГ, а также позволит МГУ занять место в десятке самых мощных научно-образовательных вычислительных центров мира. Основу суперкомпьютера МГУ составят blade-системы собственной разработки российской компании «Т-Платформы».
+
+Шасси T-Blade имеет высоту 5U и вмещает 20 четырехъядерных процессоров, позволяя достичь концентрации вычислительной мощности в 7.68 терафлоп в стандартной 19” стойке. Это на <Node id="3110"/>18%<Node id="3113"/> лучше, чем у самого плотного на данный момент конкурирующего blade-решения на базе процессоров Intel западного производства. Системы T-Blade также являются единственными <Node id="3284"/>на сегодняшний день<Node id="3303"/> blade-решениями в отрасли, интегрирующими поддержку нового чипсета Intel 5400 с увеличенной до 1600МГц частотой системной шины и поддержкой памяти DDR2–800. Это позволит решению обеспечивать выигрыш до <Node id="3506"/>30%<Node id="3509"/> в производительности реальных приложений по сравнению с представленными на рынке вычислительными системами мировых производителей.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="944" EndNode="951">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="3284" EndNode="3303">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1816" EndNode="1825">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="476" EndNode="477">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="3110" EndNode="3113">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="478" EndNode="676">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="темы" StartNode="478" EndNode="676">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="476" EndNode="477">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="3506" EndNode="3509">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="478" EndNode="676">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="1964" EndNode="1980">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="1816" EndNode="1825">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="2322" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Партнеры_Клиенты" StartNode="49" EndNode="58">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="24" Type="упоминается_с" StartNode="478" EndNode="676">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="478" EndNode="676">
+</Annotation>
+<Annotation Id="26" Type="упоминается" StartNode="435" EndNode="676">
+</Annotation>
+<Annotation Id="28" Type="цитаты" StartNode="478" EndNode="676">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

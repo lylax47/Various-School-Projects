@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ОПТИЧЕСКИЙ ПИНЦЕТКаждому знаком пинцет – нехитрый инструмент, которым удерживают и перемещают мелкие детали. Но как быть, если приходится иметь дело с частицами микронных размеров или, скажем, хромосомами в живой клетке, к которым нельзя прикасаться, иначе они разрушатся? Использовать обычный, даже сверхминиатюрный пинцет нельзя. А возможность захватить и переместить микрообъект – насущная задача современной микро- и нанотехнологии. Решение этой задачи пришло из лазерной техники <Node id="484"/>последних лет<Node id="497"/>.
+Механическое устройство для управления микроскопическими объектами создать невозможно. Но достаточные для этого усилия способны создавать лазерные лучи. Сама идея лазерных методов манипулирования атомами восходит к работам российских физиков: в <Node id="744"/>1979 году<Node id="753"/> в Институте спектроскопии АН СССР доктор физико-математических наук В. С. Летохов с сотрудниками осуществили первый удачный эксперимент по торможению светом пучка атомов натрия (см. «Наука и жизнь» № 11, <Node id="958"/>1980 г.<Node id="965"/>; № 9, <Node id="972"/>1995 г.<Node id="979"/>).
+Однако устройство, названное оптическим пинцетом, впервые продемонстрировали в <Node id="1061"/>1986 году<Node id="1070"/> американские исследователи из знаменитого научного центра «Белл-лаб».
+ Принцип действия оптического пинцета основан на том, что световой поток обладает импульсом и при изменении его направления возникает сила, связанная с этим изменением… <Node id="1310"/>А. ГОЛУБЕВ<Node id="1320"/>, доктор технических <Node id="1341"/>наукhttp://www.nkj.ru/…ticles/2965/«Наука<Node id="1382"/> и жизнь» – замечательный научно-популярный журнал. Время от времени там появляются очень интересные статьи также и по «нашей» тематике. Вот на сей раз популярно и доходчиво рассказывается об оптических пинцетах (это их часто называют «нанопинцетами»?)… Я думаю всем (а особенно – студентам и школьникам), кто интересуется вопросами нанотехнологий, будет интересно прочитать об этом удивительном изобретении… Приятного чтения!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="972" EndNode="979">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="484" EndNode="497">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="958" EndNode="965">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1061" EndNode="1070">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1061" EndNode="1070">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="744" EndNode="753">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1310" EndNode="1320">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Голубев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="744" EndNode="753">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1341" EndNode="1382">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

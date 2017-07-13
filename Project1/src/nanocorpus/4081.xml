@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>МОСКВА, <Node id="8"/>7 августа<Node id="17"/> – Министр образования и науки РФ Андрей Фурсенко проинформировал сегодня президента России Владимира Путина о решении министерством вопросов, связанных с инновационным характером развития экономики РФ.А.Фурсенко в гостях у президента
+<Node id="252"/>По словам А.Фурсенко, <Node id="274"/>передает ИТАР-ТАСС, развитие идет по трем основным направлениям: ресурсное обеспечение, правовое обеспечение и организационно-структурные изменения<Node id="421"/>.
+ 
+«По ресурсному обеспечению – тут реально существенно увеличилось финансирование не только науки, но и инновационной деятельности», – подчеркнул он.
+ 
+<Node id="575"/>А.Фурсенко напомнил, что действуют несколько федеральных целевых программ, одна из которых позволяет создать базу для реальных инновационных экономических прорывов, в том числе в области нанотехнологий<Node id="776"/>.
+Вторая нацелена на развитие инфраструктуры нанотехнологий и создает базу для технического перевооружения.
+Третья программа только разработана и начнет действовать <Node id="941"/>с 2009 г.<Node id="950"/> Она касается научных и научно-педагогических кадров инновационной России.
+
+Что касается правового обеспечения, то, по словам А.Фурсенко,
+ 
+«в первом чтении принят закон об уровневой системе подготовки кадров России, а также подготовлен законопроект о структуре государственных образовательных стандартов».
+  
+«Подготовка сегодня не в полной мере удовлетворяет требованиям экономики и социального развития», – посетовал он.
+ 
+Говоря об организационно-структурных изменениях, министр отметил развитие крупного проекта – создание совместно с европейскими, прежде всего, с немецкими коллегами лазера на свободных электронах.
+ 
+«<Node id="1575"/>Рассчитываем, что к вашей встрече с канцлером ФРГ (в Германии <Node id="1637"/>осенью<Node id="1643"/>) мы сможем подготовить первые документы<Node id="1683"/>», – сказал А.Фурсенко<Node id="1705"/>.
+ <Node id="1708"/>http://www.prime-tass.ru/news/show.asp?…Ну<Node id="1750"/> вот, после отпуска начались рабочие будни. Начальник вызвал товарища и попросил отчитаться. Теперь выясняется, что и средства есть, и оборудование вроде на подходе, а вот с кадрами и преподавателями – пока неувязочка вышла: надо (почему-то) ждать <Node id="1998"/>до 2009 года<Node id="2010"/>. То есть и оборудование будет, и деньги подвезли, а вот работать некому… Опять непорядок в Датском королевстве…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="8" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1575" EndNode="1705">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="575" EndNode="776">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="274" EndNode="421">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1637" EndNode="1643">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1998" EndNode="2010">
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="1575" EndNode="1683">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="252" EndNode="421">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="252" EndNode="1705">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="575" EndNode="776">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="252" EndNode="1705">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="252" EndNode="421">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="1575" EndNode="1683">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="941" EndNode="950">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="252" EndNode="1705">
+</Annotation>
+<Annotation Id="17" Type="цитаты" StartNode="274" EndNode="421">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1708" EndNode="1750">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="252" EndNode="1705">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1575" EndNode="1705">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

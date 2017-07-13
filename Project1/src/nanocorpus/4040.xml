@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Американские ученые из исследовательского центра IBM (IBM's Almaden Research Center) в Сан-Хосе совершили прорыв в понимании интригующего явления фундаментальной физики – эффекта <Node id="180"/>Кондо<Node id="185"/>. Свое открытие они опубликовали в журнале Nature Physics.
+
+Эффект <Node id="252"/>Кондо<Node id="257"/>, открытый в <Node id="270"/>1964 году<Node id="279"/> и вот уже почти <Node id="296"/>сто лет<Node id="303"/> остававшийся хорошо описанным, но не объясненным, представляет собой один из примеров физических явлений когда совокупность большого количества частиц проявляет свойства единого объекта (одного квантовомеханического тела). Эффект <Node id="534"/>Кондо<Node id="539"/> описывается как аномальная зависимость сопротивления немагнитных металлов с относительно небольшой добавкой магнитных примесей (атомов переходных или редкоземельных элементов) от температуры. И вот сейчас, с использованием новейшей технологии, исследователи из корпорации IBM впервые показали, когда именно может наблюдаться эффект <Node id="872"/>Кондо<Node id="877"/> и объяснили почему это возможно.
+
+Ключом к загадке оказалась геометрия ближайшего магнитного окружения примесного атома. Тщательное изучение влияния магнитного поля вокруг атома на его магнитный момент (спин) прояснило причины возникновения эффекта <Node id="1127"/>Кондо<Node id="1132"/> и дало возможность предсказать и понять его. Этот результат стоит считать действительно важным продвижением в фундаментальной физике.
+
+Данное исследовательское достижение – одно из последних открытий ученых IBM, которые уже <Node id="1357"/>более двух десятилетий<Node id="1379"/> удерживают лидирующее положение в нанотехнологии и исследованиях явлений магнетизма в атомном масштабе. Начав с изобретения сканирующего туннельного микроскопа в <Node id="1542"/>1981 году<Node id="1551"/>, IBM является форпостом в поле исследований, расширяющих возможности изучения структуры вещества и манипуляций с атомами.
+Что же такое эффект <Node id="1694"/>Кондо<Node id="1699"/>?
+Когда один магнитный атом помещен в металл, свободные электроны металла начинают «экранировать» этот атом, и все электронное облако, образующееся вокруг этого атома, становится намагниченным. Если металл охладить до сверхнизких температур, атомный спин переходит в так называемое состояние «квантовой суперпозиции», то есть в состояние суперпозиции альтернативных (взаимоисключающих с классической точки зрения) состояний, которое не может быть реализовано в классической физике. В этом состоянии один и тот же магнитный полюс существует в двух противоположных направлениях. В результате этого электронное облако в области спина также может становиться намагниченным в двух направлениях одновременно.
+На рис. 1 – данные <Node id="2421"/>сканирующей туннельной микроскопии<Node id="2455"/> – вблизи примесного атома наблюдается крестообразное затемнение, связанное с изменением локальной плотности состояний</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="252" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1357" EndNode="1379">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="270" EndNode="279">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="270" EndNode="279">
+</Annotation>
+<Annotation Id="4" Type="Сканирующая+туннельная+микроскопия" StartNode="2421" EndNode="2455">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1127" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="872" EndNode="877">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="534" EndNode="539">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1542" EndNode="1551">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1694" EndNode="1699">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="180" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="1542" EndNode="1551">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="296" EndNode="303">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

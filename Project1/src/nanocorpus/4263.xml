@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Freescale Semiconductor Inc. (Austin, шт. Техас) решила перескочить через 65-нм поколение чипов и двигаться от 90-нм сразу к 45-нм, а затем к 32-нм [1].
+
+Не последнюю роль в этом решении сыграло присоединение Freescale к Fishkill alliance, возглавляемому IBM, в <Node id="263"/>январе 2007 г.<Node id="277"/> Альянс объединил усилия семи ведущих мировых компьютерных компаний в разработке 45– и 32-нм технологии. Freescale совместно с двумя другими членами альянса – Advanced Micro Devices и IBM Corp. сосредоточилась на технологии «кремний-на-изоляторе» (SOI), имеющей преимущества в сравнении с кремнием по мощности. В отличие от других компаний, использующих в 45-нм технологии в качестве подзатворного диэлектрика материалы с высокой диэлектрической постоянной (high-k), Freescale сохраняет традиционный оксинитрид кремния. На новые исследования и разработки Freescale выделяет <Node id="851"/>20%<Node id="854"/> от своего дохода, который в <Node id="883"/>2007 г.<Node id="890"/> составил <Node id="900"/>5,72 млрд. долл.<Node id="916"/>
+
+Advanced Micro Devices (AMD, Sunnyvale, штат Калифорния) продемонстрирует свой первый 45-нм микропроцессорный чип на выставке CeBit в Ганновере (Германия). Серийное производство 45-нм чипов компания начнет на своей 300-мм фабрике (Fab 36) в Дрездене [2]. В технологии используется иммерсионная <Node id="1212"/>литография<Node id="1222"/> и слои напряженного кремния.
+
+Texas Instruments (TI) планирует начать производство 45-нм чипов во <Node id="1321"/>второй половине 2008 года<Node id="1346"/> и включить их в процессор ARM11, работающий с тактовой частотой 840 МГц [3].
+
+Intel включает свои 45-нм чипы, производство которых началось во <Node id="1490"/>второй половине 2007 г.<Node id="1513"/>, в семейство процессоров c новым брендовым названием «Атом». Процессор имеет рекордно низкую потребляемую мощность (в диапазоне от 0,6 до 2,5 Вт) и высокое быстродействие (1,8 ГГц). «Атом» предназначен для мобильных Интернет-приборов, ультрадешевых и небольших ноутбуков и настольных персональных компьютеров (компания называет цену – <Node id="1849"/>около 250 долларов<Node id="1867"/>!).
+
+«Атом – наш самый маленький процессор, построенный на самых маленьких в мире транзисторах» – сказал Sean Maloney, вице-президент Intel [4].
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1321" EndNode="1346">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="900" EndNode="916">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="883" EndNode="890">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="263" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1490" EndNode="1513">
+</Annotation>
+<Annotation Id="5" Type="Литография" StartNode="1212" EndNode="1222">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1849" EndNode="1867">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="851" EndNode="854">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

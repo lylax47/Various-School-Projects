@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Coolink представляет термопасту с керамическими наночастицамиПортрет идеальной термопасты составить достаточно просто: она должна обладать высокой эффективностью, хорошо наноситься и легко удаляться, сохранять эффективность и консистенцию в широком диапазоне температур, не требовать начальной «приработки», не проводить электрический ток, а также не разъедать компоненты материнской платы. Хорошо было бы, если сочетание этих качеств предлагалось по приемлемой цене, но тут порой и возникает главный недостаток претендентов на звание идеальной термопасты.
+Компания Coolink вчера анонсировала термопасту Chillaramic, в состав которой входят керамические <Node id="654"/>наночастицы<Node id="665"/>. Приставка «нано-» чрезвычайно популярна в наши <Node id="714"/>дни<Node id="717"/>, но производитель не предоставляет никаких подробностей о свойствах этих частиц. Скорее всего, под громкой вывеской скрываются мелкие частицы кремния.
+ Паста Chillaramic не проводит электрический ток, легко наносится и удаляется. Шприца с 10 гр. пасты в среднем хватает на 30 установок кулера на процессор. Температурный диапазон достаточно широк – от минус 35 до плюс 85 градусов <Node id="1099"/>Цельсия<Node id="1106"/>. Это позволяет использовать её и при криогенном охлаждении процессора. Паста не требует первоначальной «приработки», и сразу выходит на максимальную эффективность.  
+Рекомендованная розничная стоимость одной упаковки Chillaramic равна <Node id="1342"/>$8.9<Node id="1346"/>, то есть, на одну установку будет израсходовано <Node id="1395"/>примерно 30 центов<Node id="1413"/>.
+ <Node id="1416"/>http://www.overclockers.ru/…/29597.shtmlKolink<Node id="1462"/> International <Node id="1477"/>Coporationhttp://www.coolink-europe.com/main.php?…Ну<Node id="1529"/> вот, вроде и пустячок, а вещь в хозяйстве нужная, полезная, необходимая. И недорогая!.. Вот так и надо осваивать рынок НТ малым фирмам, выпуская полезные и нужные МНОГИМ вещи… Давайте догонять!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1342" EndNode="1346">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1395" EndNode="1413">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1477" EndNode="1529">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1416" EndNode="1462">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1099" EndNode="1106">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="654" EndNode="665">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="714" EndNode="717">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

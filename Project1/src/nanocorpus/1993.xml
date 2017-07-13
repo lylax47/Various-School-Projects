@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Физики-теоретики из University of St. Andrews профессор Ulf Leonhardt и доктор Thomas Philbin предсказали возможность эффекта левитации для нанообъектов. Причиной возникновения столь необычного эффекта должна стать сила, которая в нормальном состоянии приводит к слипанию объектов между собой. Учёные надеются, что обратив квантовый явление, известное как эффект <Node id="364"/>Казимира<Node id="372"/>, удастся решить проблему слипания крошечных объектов, которая возникает при создании наномеханизмов. Эффект <Node id="481"/>Казимира<Node id="489"/> был открыт в <Node id="503"/>1948 году<Node id="512"/> и впервые измерен в <Node id="533"/>1997 году<Node id="542"/>. Это явление из квантовой физики вызывает взаимное притяжение крошечных объектов в вакууме. В нанотехнологии эффект <Node id="659"/>Казимира<Node id="667"/> приводит к слипанию частиц между собой. Поэтому любые способы решения этой проблемы представляют большой интерес. Кроме слипания частиц наличие эффекта <Node id="820"/>Казимира<Node id="828"/> вызывает сильное трение в наномире, в частности в некоторых  микроэлектромеханических системах (MEMS). Таким образом, возможность контроля над эффектом <Node id="981"/>Казимира<Node id="989"/> позволит понизить трение или даже избавиться от него. Учёные считают, что можно обратить действие эффекта <Node id="1096"/>Казимира<Node id="1104"/>, поместив между объектами специально разработанную линзу. «Вместо того чтобы слипаться, друг с другом, частицы будут левитировать», ­– говорит профессор Leonhardt. Предсказанный эффект можно использовать только по отношению к микрообъектам, т.к. влияние эффекта <Node id="1367"/>Казимира<Node id="1375"/> быстро спадает с увеличением расстояния. Поэтому, как считают исследователи, левитация человека по-прежнему останется только в мультфильмах и сказках. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="820" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="981" EndNode="989">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1096" EndNode="1104">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="503" EndNode="512">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1367" EndNode="1375">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="533" EndNode="542">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="364" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="659" EndNode="667">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="533" EndNode="542">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="481" EndNode="489">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="503" EndNode="512">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

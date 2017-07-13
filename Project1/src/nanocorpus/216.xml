@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Университета Вирджинии использовали <Node id="54"/>углеродные <Node id="65"/>нанотрубки<Node id="75"/> для создания сверхлёгкого проводящего композитного материала.
+
+Такие электронные устройства, как сотовые телефоны и компьютеры, нуждаются в экранировании для защиты от внешних электромагнитных помех. Материал для экранирующего покрытия должен быть хорошим проводником электричества, поэтому эти покрытия обычно делаются из металлов. Однако, использование металлов, обладающих значительным весом, затрудняет миниатюризацию и облегчение устройств. Кроме того, металлические покрытия подвержены коррозии.
+
+С другой стороны, пластмассы обладают небольшим весом и химически устойчивы, поэтому учёные из Вирджинии поставили перед собой задачу взять пластик и заставить его проводить электричество. После неудачных экспериментов с добавлением порошков металлов в пластиковую матрицу исследователи обратились к <Node id="879"/>углеродным <Node id="890"/>нанотрубкам<Node id="901"/>.
+
+Как известно, <Node id="918"/>углеродные <Node id="929"/>нанотрубки<Node id="939"/> обладают великолепными механическими, электро- и теплопроводными свойствами. Кроме того, их большая длина и малый диаметр приводят к тому, что уже при добавлении 1–<Node id="1104"/>2%<Node id="1106"/> <Node id="1107"/>нанотрубок<Node id="1117"/> в матрицу, они образуют единую сеть, которая и делает материал проводящим (перколяция). Добавление <Node id="1217"/>нанотрубок<Node id="1227"/> повысило электропроводность пластика на десять порядков величины.
+
+После достижения электропроводности учёные пошли дальше и попытались уменьшить вес материала. Для этого они добавили в материал пенообразующее вещество, что снизило плотность композита в два раза.
+
+Таким образом, исследователи создали нанокомпозитный материал, который позволит создать лёгкие и инертные экранирующие покрытия. Помимо этого, улучшенная теплопроводность позволит лучше рассеивать тепло, неизбежно выделяющееся при работе устройств.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1107" EndNode="1117">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="918" EndNode="939">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1217" EndNode="1227">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="879" EndNode="901">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="54" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="65" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="890" EndNode="901">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="929" EndNode="939">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1104" EndNode="1106">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как недавно установили ученые, для измерения степени загрязнения воздуха искусственно произведенными <Node id="102"/>наноматериалами<Node id="117"/>, потребуются новые методы и средства измерения.
+
+По данным журнала Nanotoxicology (<Node id="201"/>http://www.nanotoxicology.net)<Node id="231"/> к <Node id="234"/>2014 году<Node id="243"/> количество людей, занятых в сфере производства <Node id="291"/>наноматериалов<Node id="305"/> будет более 10 миллионов, поэтому риск, исходящий от <Node id="359"/>наноразмерных структур<Node id="381"/> следует учитывать уже сегодня.
+
+Ученые Эндрю Мэйнард (Andrew Maynard) и Роберт Эйткен (Robert Aitken) из различных исследовательских центров Соединенного Королевства, недавно опубликовали статью, в которой они раскрывают некоторые риски, связанные с производством <Node id="646"/>наноструктур<Node id="658"/>.
+
+Одним из таких рисков является появление воздушных взвесей <Node id="720"/>наночастиц<Node id="730"/>, как побочный продукт производства. В большинстве своем они токсичны для человека, и могут вызывать ряд заболеваний.
+
+<Node id="849"/>Мэйнард<Node id="856"/> и Эйткен даже разделили все возможные типы искусственно созданных <Node id="923"/>наночастиц<Node id="933"/> на девять категорий – от простых сферических частиц до сложных супрамолекулярных комплексов. Далее, были исследованы эффекты, которые различные <Node id="1078"/>наночастицы<Node id="1089"/> производят на организм. В результате исследователями получена система, показывающая, какие типы <Node id="1186"/>наночастиц<Node id="1196"/> и их комбинаций наиболее опасны для здоровья.
+
+Этот анализ показал, что для определения степени опасности того или иного атмосферного окружения на предприятии будет недостаточно какого-либо одного теста для того, чтобы узнать, насколько рискованно находиться в нем.
+
+Инструменты для проведения подобного анализа будут довольно сложными и многофункциональными, так как им нужно будет распознать несколько типов <Node id="1607"/>наночастиц<Node id="1617"/> сразу, и определить их концентрацию в окружающей среде.
+
+Сейчас ученые заняты разработкой подобного инструмента – его предварительно назвали «универсальный аэрозольный мониторинг». Эта система будет способна детально анализировать воздух и делать заключение о том, насколько опасно находиться в этой среде людям.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1607" EndNode="1617">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="102" EndNode="117">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="849" EndNode="856">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мэйнард</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1078" EndNode="1089">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="720" EndNode="730">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="234" EndNode="243">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="646" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="923" EndNode="933">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1186" EndNode="1196">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="291" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="201" EndNode="231">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="234" EndNode="243">
+</Annotation>
+<Annotation Id="24" Type="Наноструктура" StartNode="359" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

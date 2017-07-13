@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Генеральный директор ОАО «Северсталь» Алексей Мордашов<Node id="55"/> <Node id="56"/>вошел в состав оргкомитета первого Международного форума по нанотехнологиям, который состоится <Node id="151"/>3–5 декабря 2008 года<Node id="172"/> в Москве, сообщает пресс-служба ОАО «Северсталь».
+
+А. Мордашов является членом правительственного Совета по нанотехнологиям и руководителем секции, созданной для научно-информационной поддержки работ, касающихся этого направления в металлургии и материаловедении.
+
+В состав секции наряду с руководителями ЧерМК «Северсталь» вошли ученные крупных научных и образовательных центров.
+
+Сообщается, что этим составом в <Node id="587"/>настоящее время<Node id="602"/> ведется работа по организации проектов, направленных на освоение серийного производства и широкое внедрение наноструктурированных конструкционных сталей и сплавов для кардинального(!) переоснащения отечественной энергетики, транспортного и общего машиностроения, судостроения, железнодорожного транспорта, нефтедобывающей отрасли.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="587" EndNode="602">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="151" EndNode="172">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="55" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="55" EndNode="56">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

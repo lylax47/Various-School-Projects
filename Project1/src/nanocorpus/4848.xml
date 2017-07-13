@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Исследователи из института Бернхема в Калифорнии разработали новый метод борьбы с раком с помощью нанотехнологий. Ученым удалось лишить опухоль кровоснабжения, закупорив подходящие к ней кровеносные сосуды <Node id="208"/>наночастицами<Node id="221"/>. 
+ 
+Как только специально сконструированные <Node id="266"/>наночастицы<Node id="277"/> попадают в «тело опухоли», то благодаря специальным белковым маркерам они остаются внутри и осаждаются на стенках сосудов, вызывая тем самым закупоривание сосудов в тканях опухоли. 
+ 
+Благодаря этому <Node id="478"/>около 20%<Node id="487"/> сосудов опухоли оказываются закупоренными, что приводит к остановке ракообразования. 
+ 
+Cейчас ученые пытаются с помощью <Node id="609"/>наночастиц<Node id="619"/> не только блокировать сосуды, но и доставлять внутрь опухоли разрушающие ее медицинские препараты.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="478" EndNode="487">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="266" EndNode="277">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="609" EndNode="619">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="208" EndNode="221">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

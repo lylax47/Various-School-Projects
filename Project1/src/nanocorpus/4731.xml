@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Тайна рождения <Node id="17"/>фуллеренов<Node id="27"/> - сфероидальных молекул из атомов углерода - до сих пор до конца не раскрыта. Исследователи из Rice University, где, собственно, <Node id="157"/>фуллерены<Node id="166"/> были впервые обнаружены, придерживаются модели shrink-wrapping, согласно которой <Node id="248"/>фуллерены<Node id="257"/> образуются из нестабильных деформированных листов графита. Такие листы, содержащие несколько тысяч атомов углерода, сворачиваются в крупные замкнутые образования (hot giants), которые впоследствии распадаются на устойчивые молекулы <Node id="490"/>фуллеренов<Node id="500"/> - C60, С70 и др. До сих пор такая картина формирования <Node id="556"/>фуллеренов<Node id="566"/> подтверждалась только компьютерными расчетами.
+ 
+Недавно команде ученых из Rice University и Sandia National Laboratory удалось заснять видео, демонстрирующее, как "гигантские" <Node id="744"/>фуллерены<Node id="753"/> из более чем 2000 атомов постепенно уменьшаются в размерах. Для этого пришлось сконструировать контейнер из <Node id="862"/>нанотрубки<Node id="872"/> толщиной 10 нм, в который позволил очень точно контролировать температуру. Видео было получено при помощи просвечивающего электронного микроскопа.
+ 
+Подробности будут опубликованы в ближайшем номере Physical Review Letters. Статья "Real Time Microscopy, Kinetics, and Mechanism of Giant Fullerene Evaporation" получила статус "Выбор редакции".
+ 
+ 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="556" EndNode="566">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="248" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="862" EndNode="872">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="744" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Фуллерен" StartNode="490" EndNode="500">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="17" EndNode="27">
+</Annotation>
+<Annotation Id="12" Type="Фуллерен" StartNode="157" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

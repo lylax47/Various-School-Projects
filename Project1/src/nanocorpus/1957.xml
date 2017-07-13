@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>РОСНАНО и Intel провели лекцию по проблемам и перспективам промышленной наноэлектроники<Node id="87"/>23 октября<Node id="97"/> состоялась лекция ведущих специалистов корпорации Intel, первая из цикла научно-популярных лекций по нанонауке и нанотехнологиям. Лекция, прошедшая в Российской корпорации нанотехнологий, была посвящена промышленной наноэлектронике, ее проблемам и перспективам развития.
+На фотографии, слева направо: Александр Костинский, директор по подготовке контента научно-популярных и образовательных программ РОСНАНО, Александр Козлинский, директор по развитию бизнеса Intel в России и СНГ, Леонид Левкович-Маслюк, менеджер по подготовке контента экономических программ РОСНАНО, Николай Суетин<Node id="682"/>,<Node id="683"/> менеджер по развитию новых проектов Intel в России и СНГ.
+Лекция состояла из двух частей. В первой части доктор физико-математических наук, менеджер по развитию новых проектов Intel в России и СНГ Николай Суетин рассказал о новых технологических решениях, внедряемых в индустрии, о методах создания <Node id="983"/>наноструктур<Node id="995"/>, об их экономической эффективности и дальнейших перспективах развития полупроводниковой отрасли. Во второй части кандидат физико-математических наук, директор по развитию бизнеса Intel в России и СНГ Александр Козлинский, дал краткий обзор ожидаемых направлений развития цифровых и коммуникационных технологий на <Node id="1309"/>ближайшие 10 лет<Node id="1325"/>. 
+С материалами лекции можно ознакомиться, пройдя по ссылке.
+<Node id="1387"/>http://www.rosnano.ru<Node id="1408"/>/…ication.aspx?…Да, молодцы ребята. Я имею в виду специалистов из корпорации Intel. Наверняка они знают русскую поговорку: «Готовь сани <Node id="1544"/>летом<Node id="1549"/>, а телегу – <Node id="1562"/>зимой<Node id="1567"/>». Действительно, пахать и сеять нужно задолго до сбора урожая. Некоторые же (из «наших нОнешних») искренне считают, что все продукты «растут» в супермаркетах, где их всегда купить можно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1387" EndNode="1408">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="682" EndNode="683">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1562" EndNode="1567">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1544" EndNode="1549">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="87" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1309" EndNode="1325">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="983" EndNode="995">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="работает" StartNode="682" EndNode="683">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">менеджер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

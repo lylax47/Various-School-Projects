@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Каждый <Node id="8"/>день<Node id="12"/>, куда бы мы ни шли, что бы мы ни делали, знаем мы это или нет, наш организм подвергается воздействию <Node id="114"/>наноматериалов<Node id="128"/>. Их можно найти в косметике, солнцезащитных кремах, фармацевтических препаратах, тканях и в воздухе, которым мы дышим.
+
+Серьезная проблема – измерить, как часто мы встречаемся с этими повседневными кусочками материи, почти не имеющими размера, и понять, имеют ли они какое-то влияние на наш организм и, если имеют, то какое.
+
+Группа ученых из Университета Джона Хопкинса (Johns Hopkins University), работающие по программе Института НаноБио Технологии (Institute for NanoBioTechnology) надеются получить полезную информацию об этих эффектах путем исследования способности нанометаллов воздействоать на легочную ткань, их потенциал в возбуждении воспалительных процессов в клетках, находящихся в дыхательных путях, и даже степень таких эффектов воздействия на работников, работающих в производстве, связанном с <Node id="939"/>наноматериалами<Node id="954"/>.
+
+Национальный научный фонд США (National Science Foundation) выделил <Node id="1025"/>около 400 тысяч долларов<Node id="1049"/> на исследования токсических эффектов влияния на здоровье человека оксидов нанометаллов, которыми совместно занимаются факультетские профессора Шиам Бисвал (Shyam Biswal), Патрик Брийсе (Patrick Breysse) и Джастин Хейнс (Justin Hanes). Дозировки <Node id="1295"/>наночастиц<Node id="1305"/>, которым подвергаются работники в производственных условиях, можно замерить. В то же время такие дозировки в повседневной жизни характеризовать очень трудно. Проект, поставленный в Институте Здравоохранения Блумберга (Bloomberg School of Public Health), призван помочь в понимании процессов распространения <Node id="1613"/>наночастиц<Node id="1623"/> металлов, взаимодействия их с организмом и эффектов, которые могут встречаться в повседневной жизни.
+
+<Node id="1726"/>Наноматериалы<Node id="1739"/>, используемые в потребительских товарах, предлагают множество преимуществ по сравнению с их аналогами, и поэтому использование <Node id="1867"/>наноматериалов<Node id="1881"/> находится на подъеме. Национальный научный фонд предполагает, что в <Node id="1950"/>последующие 15 лет<Node id="1968"/> количество работников, которые будут нужны для обслуживания нанотехнологических отраслей промышленности, достигнет 2 млн. Человек. Уже имеются многочисленные исследования, как влияют металлы на организм человека и животных, связывая это влияние с заболеваемостью воспалениями различных дыхательных органов, таких, как астма, муковисцидоз, хроническая обструктивная болезнь лёгких.
+
+Однако данных таких же исследований, проведенных с <Node id="2402"/>наночастицами<Node id="2415"/> металлов, практически нет, и мало известно о токсичности нанометаллов. Ученые из Университета Джона Хопкинса планируют исследовать процессы экспонирования работников потокам <Node id="2590"/>наночастиц<Node id="2600"/> или отдельным <Node id="2615"/>наночастицам<Node id="2627"/> металлов, процессам транспортирования <Node id="2666"/>наночастиц<Node id="2676"/> в организме, процессы, вызывающие нежелательное влияние на здоровье работников. Одной из главных целей проекта является установление основных физических и химических параметров сконструированных оксидов нанометаллов. Другая важная цель проекта – какие <Node id="2929"/>наночастицы<Node id="2940"/> металлов, какого размера и в каком количестве присутствуют в продуктах выдоха работников.
+
+Финансируемый прокт, по-видимому, будет прекрасным представителем многоотраслевого сотрудничества, объединяя специалистов в различных областях науки и техники, в том числе, специалистов по эргономике, науках об аэрозолях, нанотехнологии, профилактике легочных заболеваний и т.д. Исследования, которые будут проведены на <Node id="3352"/>наночастицах<Node id="3364"/> металлов, помогут составить представление об общих закономерностях воздействия <Node id="3444"/>наночастиц<Node id="3454"/> на организм и будут полезны в дальнейших исследованиях любых <Node id="3516"/>наночастиц<Node id="3526"/>.
+Johns Hopkins University</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="2590" EndNode="2600">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="114" EndNode="128">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1025" EndNode="1049">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="939" EndNode="954">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="3444" EndNode="3454">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1867" EndNode="1881">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1613" EndNode="1623">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="2402" EndNode="2415">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="2615" EndNode="2627">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="1950" EndNode="1968">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="2929" EndNode="2940">
+</Annotation>
+<Annotation Id="26" Type="Наноматериал" StartNode="1726" EndNode="1739">
+</Annotation>
+<Annotation Id="29" Type="Наночастица" StartNode="1295" EndNode="1305">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="3516" EndNode="3526">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Период_времени" StartNode="8" EndNode="12">
+</Annotation>
+<Annotation Id="33" Type="Наночастица" StartNode="2666" EndNode="2676">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Наночастица" StartNode="3352" EndNode="3364">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+Микроэлектронная промышленность не перестает радовать наступлениями на литографические рубежи. 45-нм фабрики уже не новость, более того – ведутся работы по промышленному производству чипов по 25-нм техпроцессу. Также следует отметить ряд событий, произошедших за <Node id="486"/>прошлую неделю<Node id="500"/> – встреч и конференций.
+Итак, – nanoWeek 25 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="486" EndNode="500">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

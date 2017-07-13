@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Россия и Украина договорились о тесном взаимодействии в области нанотехнологий и совместном финансировании инновационных проектов, сообщил министр образования и науки РФ Андрей Фурсенко по итогам второго заседания подкомитета по вопросам гуманитарного сотрудничества российско-украинской Межгоскомиссии «Путин—Ющенко».
+
+По словам министра, в <Node id="343"/>июле<Node id="347"/> <Node id="348"/>текущего года<Node id="361"/> будет объявлен конкурс о поддержке инновационных проектов.
+
+Кроме того, будет создана совместная рабочая группа по нанотехнологиям, в задачи которой войдет определение общих приоритетов для обеспечения финансирования проектов и формирования рынка нанотехнологической продукции.
+
+Фурсенко сообщил также, что в <Node id="671"/>августе<Node id="678"/> правительство представит проекты соглашений России и Украины о признании качества медицинских препаратов, о реадмиссии, о культурном сотрудничестве, а также о взаимодействии в туристической сфере.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="348" EndNode="361">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="671" EndNode="678">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="343" EndNode="347">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

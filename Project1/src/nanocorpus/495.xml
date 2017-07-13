@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На Международном форуме по нанотехнологиям в секционном заседании по теме «Нанодиагностика» программы начно-технических секций прозвучал доклад, разработанный д.ф.-м.н. В.П. Гавриленко, Ю.А. Новиковым, А.В. Раковым, <Node id="217"/>П.А. Тодуа<Node id="227"/> (ОАО «Научно-исследовательский центр по изучению свойств поверхности и вакуума»).
+
+После прочтения доклада, прошла живая дискуссия под руководством <Node id="376"/>Ковальчука<Node id="386"/>. Предлагаем вашему вниманию аудио-версию данного выступления </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="376" EndNode="386">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ковальчук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="217" EndNode="227">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

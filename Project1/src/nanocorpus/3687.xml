@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Физики из Соединенного Королевства впервые изготовили оптический элемент памяти, информация в которых зависит от фазового состояния <Node id="133"/>наночастиц<Node id="143"/> галлия.
+
+Как сообщает Nanotechweb, новый элемент памяти создан Бруно Соаресом (Bruno Soares) и <Node id="239"/>его<Node id="242"/> коллегами из Университета Саусхэмптона (University of Southampton). Как установили ученые, <Node id="334"/>наночастицы<Node id="345"/> галлия могут находиться в четырех различных оптических состояниях, в то время как для записи информации в традиционных DVD дисках используются только два.
+
+Поэтому нет ничего удивительного в том, что новый метод позволяет как минимум вдвое увеличить емкость оптических дисков.
+
+При помощи коротких оптических импульсов мощностью 1.5 пикоДж от лазера небольшой мощности ученым удалось добиться устойчивого «переключения» фаз <Node id="770"/>наночастицы<Node id="781"/>.
+
+Также для переключения фазового состояния <Node id="826"/>наночастицы<Node id="837"/> требуется гораздо меньше энергии, чем в аналогичном случае для ячеек памяти в DVD-дисках.
+
+Размер <Node id="936"/>наночастицы<Node id="947"/> галлия, которую использовали ученые – 80 нанометров. Их ученые смогли вырастить на оптическом волокне, покрытом золотой пленкой.
+
+Как далее комментирует <Node id="1101"/>Соарес<Node id="1107"/>, так как с <Node id="1119"/>наночастицей<Node id="1131"/> Ga можно обращаться так же, как и с обычной ячейкой памяти, и фазовые состояния можно «пролистать» с помощью лазера, то, возможно, у flash-памяти появился простой оптический аналог.
+
+Как оценивают ученые, «оптическая память» может достигать плотности до 0,2 терабайт на квадратный дюйм (Тб/in^^2^^). Емкость современных дисков Blu-ray DVD – 0,015 Тб/in^^2^^. Оказывается, что «диски на <Node id="1518"/>наночастицах<Node id="1530"/>» могут хранить в 12 раз больше высокотехнологичных Blu-ray. А это очень и очень много.
+
+Как далее отметил <Node id="1637"/>Соарес<Node id="1643"/>, серьезных технологических преград для развития Ge-дисков не наблюдается, поэтому можно ожидать появления в недалеком будущем подобные средства хранения данных.
+
+В дальнейшие планы ученых входит изучение других типов <Node id="1861"/>наночастиц<Node id="1871"/> для того, чтобы выбрать максимально «информационно емкие» <Node id="1930"/>наноматериалы<Node id="1943"/>, пригодные для оптической записи данных.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="239" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="1930" EndNode="1943">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="936" EndNode="947">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1861" EndNode="1871">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="133" EndNode="143">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="826" EndNode="837">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="334" EndNode="345">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1101" EndNode="1107">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Соарес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1518" EndNode="1530">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="770" EndNode="781">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1119" EndNode="1131">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1637" EndNode="1643">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Соарес</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

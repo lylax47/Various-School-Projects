@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Полимерные пленки и их применение в производстве современной упаковкиМосковский государственный университет печати приглашает <Node id="126"/>17–18 декабря 2007<Node id="144"/> принять участие в двухдневном семинаре «Полимерные пленки и их применение в производстве современной упаковки».
+Лекторы:
+Е.Б. Баблюк, д.т.н., зав. кафедрой управления качеством <Node id="322"/>МГУП<Node id="326"/>; В.В. Ананьев, к.т.н., зав. кафедрой технологии упаковки и переработки высокомолекулярных соединений МГУПБ
+
+Начало семинара в 10.00. Регистрация с 9.30. Окончание семинара: 17.00
+Программа семинара:
+
+= Современный уровень применения полимерных пленок в производстве тары и упаковки
+
+= Полимеры
+
+= Основные типы промышленных полимеров, используемые в упаковочном производстве
+
+= Технология получения и свойства полимерных пленок
+
+= Свойства полимерных пленок и методы испытаний
+
+= Особенности применения полимерных пленок в производстве мягкой тары и упаковки.
+
+= Многослойные пленочные системы, их свойства и преимущества.
+
+= Перспективы применения нанотехнологий в производстве упаковки.
+Практическое занятие: оценка физико-механических, оптических свойств и свойств поверхности полимерных пленок на образцах участников семинара.
+
+Стоимость участия в семинаре…
+
+Заявки на участие в семинаре принимаются до <Node id="1234"/>12 декабря 2007 г.<Node id="1252"/> по тел/факс: 976–33–76, 977–80–70 или e-mail: <Node id="1299"/>cdo@mgup.ru<Node id="1310"/>
+Место проведения семинара: г. Москва, ул. <Node id="1353"/>Прянишникова<Node id="1365"/>, д. 2а, комн. 1233.
+<Node id="1386"/>http://press.unipack.ru/20831/Казалось<Node id="1424"/> бы, упаковка… Эка невидаль!.. Однако на самом деле это очень важный аспект современной экономики. Ведь без упаковки теперь нельзя представить ни одного товара, а во многих случаях именно от качества упаковки будет зависеть дальнейшая «судьба» товара… Отрадно, что и в эту область приходят высокие технологии, в частности, нанотехнологии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1386" EndNode="1424">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1353" EndNode="1365">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Прянишникова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1234" EndNode="1252">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1299" EndNode="1310">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="126" EndNode="144">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="322" EndNode="326">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мгуп</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

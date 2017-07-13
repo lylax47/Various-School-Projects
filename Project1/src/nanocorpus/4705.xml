@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Наночастицы<Node id="12"/> оксида марганца способны увеличивать контрастность изображений, полученных магнитно-резонансным методом, и позволять наблюдать анатомические структуры в мозгу живых мышей.
+
+Новый метод, разработанный исследователями Сеульского Национального Университета, может найти применение в фундаментальной нейробиологии, а также помочь в борьбе с такими заболеваниями нервной системы, как синдром <Node id="400"/>Альцгеймера<Node id="411"/> или болезнь <Node id="424"/>Паркинсона<Node id="434"/>.
+
+Магнитно-резонансная визуализация является чрезвычайно эффективным методом наблюдения анатомических структур в мягких тканях. Для повышения качества изображений используются контрастные агенты, позволяющие в реальном времени наблюдать физиологические процессы. Однако, современные агенты, основанные на комплексах гадолиния, не всегда могут давать ясную картину.
+
+Исследователи из Кореи нашли возможное решение этой проблемы. С помощью инъекции в организм мыши <Node id="898"/>наночастиц<Node id="908"/> оксида марганца, которые являются биосовместимыми, они смогли получить детальные изображения различных частей её мозга (рис. 1). В чёткости изображений новый метод не уступает традиционным гистологическим исследованиям, в которых мышь умерщвляют и изучают срезы мозга. Впрочем, метод может быть использован и в других тканях, таких как печень и почки.
+
+Чёткая анатомическая визуализация различных структур мозга необходима не только для фундаментальной нейробиологии, но и для лечения таких заболеваний, как болезнь <Node id="1425"/>Альцгеймера<Node id="1436"/>, болезнь <Node id="1446"/>Паркинсона<Node id="1456"/>, а также эпилепсия и кортикальная дисплазия.
+
+Более того, исследователи смогли присоединить к <Node id="1551"/>наночастицам<Node id="1563"/> антитела, специфично связывающиеся с клетками рака груди, что делает возможными диагностику и лечение болезни уже на ранних стадиях (рис. 2). В ближайшие планы учёных входит подтверждение безопасности использования <Node id="1779"/>наночастиц<Node id="1789"/> оксида марганца in vivo, необходимое для начала клинических испытаний на людях.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1425" EndNode="1436">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альцгеймер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="424" EndNode="434">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1779" EndNode="1789">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="898" EndNode="908">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1" EndNode="12">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1446" EndNode="1456">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="400" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альцгеймер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1551" EndNode="1563">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

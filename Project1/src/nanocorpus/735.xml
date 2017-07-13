@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Международный симпозиум по <Node id="27"/>наноструктурам<Node id="41"/> откроется во ВладивостокеВЛАДИВОСТОК, 14 июл – Международный симпозиум «<Node id="114"/>Наноструктуры<Node id="127"/>: физика и технология» откроется во Владивостоке в понедельник, сообщил РИА Новости представитель пресс-службы <Node id="238"/>администрации Приморского<Node id="263"/> края.
+Научное собрание пройдет под эгидой Российской академии наук (РАН). Сопредседатели научного форума – лауреат Нобелевской и Ленинской премий, академик <Node id="420"/>Жорес<Node id="425"/> <Node id="426"/>Алферов<Node id="433"/> и лауреат Нобелевской премии профессор Лео Есаки (Япония).
+ В работе 16-го Международного симпозиума «<Node id="536"/>Наноструктуры<Node id="549"/>: физика и технология» также примут участие вице-президент РАН, академик Александр Асеев, действительные члены РАН и члены-корреспонденты РАН, ведущие и молодые российские ученые, аспиранты, а также известные иностранные ученые из стран Азиатско-Тихоокеанского региона, Европы, Азии и США. В рамках симпозиума, работа которого продолжится до <Node id="891"/>18 июля<Node id="898"/>, пройдут «круглые столы», научные секции, награждение лауреатов премии для молодых ученых.
+
+Важным аргументом в пользу проведения этого масштабного форума во Владивостоке стали интенсивное развитие исследований в области нанотехнологий в научно-исследовательских институтах Дальневосточного отделения РАН и в университетах Дальневосточного Федерального округа, а также предстоящий в Приморье саммит АТЭС в <Node id="1305"/>2012 году<Node id="1314"/>.
+Организаторы уверены, что симпозиум расширит сотрудничество ученых России с научными организациями стран АТЭС, а его итоги будут работать на развитие сферы национальной наноиндустрии – наукоемкой экономики знаний и высоких технологий.
+<Node id="1551"/>http://www.rian.ru/…3875487.htmlПоследнее<Node id="1592"/> напоминание. Ранее уже сообщалось об этом солидном мероприятии – <Node id="1658"/>http://www.nanonewsnet.ru/…ekhnologiyam.<Node id="1698"/> Желаем успехов всем участникам симпозиума и новых им свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="426" EndNode="433">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="114" EndNode="127">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1658" EndNode="1698">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1305" EndNode="1314">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="536" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="891" EndNode="898">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="238" EndNode="263">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">администрации</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1551" EndNode="1592">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1305" EndNode="1314">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноструктура" StartNode="27" EndNode="41">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="420" EndNode="425">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

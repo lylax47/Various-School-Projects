@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>НАНОскоп №3Что предложат ученые нарождающемуся нанорынку?
+Еженедельник «ПОИСК» опубликовал очередное приложение – подборку материалов по нанотехнологиям. В частности, в предисловии там говорится:
+
+Как мы и предполагали, с наступлением <Node id="235"/>весны<Node id="240"/> отечественное нанополе заметно оживилось. То, что сейчас происходит, можно сравнить с посевной кампанией. Щедро разбросанные по стране зерна в виде нанотехнологических лабораторий, научно-образовательных центров и даже новых производств раньше или позже должны дать урожай.
+
+Насколько богатым он будет? Это зависит от множества факторов и от множества людей, в том числе и от ученых. Что могут они предложить нарождающемуся нанорынку сегодня и что предложат завтра?
+
+Об этом и многом другом рассказывает наш “Наноскоп”.
+
+Материал представлен в формате PDF.
+ po13_a3_11.pdf [126.71 Kb] po13_a3_12.pdf [171.09 Kb] po13_a3_13.pdf [159.31 Kb] po13_a3_14.pdf [232.81 Kb] Спецвыпуск подготовили: <Node id="931"/>Екатерина БЕЛОМИРСКАЯ<Node id="952"/>, <Node id="954"/>Надежда ВОЛЧКОВА<Node id="970"/>, <Node id="972"/>Светлана КРЫМОВА<Node id="988"/>, Аркадий СОСНОВ, <Node id="1006"/>Фирюза<Node id="1012"/> <Node id="1013"/>ЯНЧИЛИНАhttp://www.poisknews.ru/…oskop_3.htmlИнтересная<Node id="1068"/> подборка материалов по нанотехнологиям. Её можно посмотреть, перейдя по ссылке на сайт еженедельника «Поиск» и открыв на нём представленные PDF-файлы…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1006" EndNode="1012">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фирюза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1013" EndNode="1068">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="235" EndNode="240">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="931" EndNode="952">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Екатерина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="954" EndNode="970">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Надежда</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="972" EndNode="988">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Светлана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

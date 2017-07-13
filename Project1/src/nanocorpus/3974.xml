@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Центра космических полетов NASA Goddard Space Flight Center в Гинбелте (Greenbelt) предложили новый метод производства высококачественных <Node id="149"/>углеродных <Node id="160"/>нанотрубок<Node id="170"/>.
+
+Новый метод, предложенный учеными настолько нов и перспективен, что получил приз на третьем ежегодном конкурсе Nanotech Briefs Nano 50 awards, проходившем <Node id="328"/>14 ноября<Node id="337"/> на конференции NASA Tech Briefs National Nano Engineering Conference (NNEC 2007) в Бостоне.
+
+Автор новой технологии, Жанетт Бенавидес (Jeannette Benavides), говорит, что метод производства однослойных <Node id="539"/>углеродных <Node id="550"/>нанотрубок<Node id="560"/>, предложенный ею и ее коллегами намного проще и безопаснее современного.
+
+Основа инновации Жанетт состоит в производстве пучков <Node id="689"/>нанотрубок<Node id="699"/> без использования металлического катализатора. Все основные методы производства <Node id="780"/>нанотрубок<Node id="790"/>: <Node id="792"/>химического осаждения<Node id="813"/> пара, лазерной абляции, конверсии монооксида углерода под высоким давлением, используют металлы-катализаторы для формирования <Node id="940"/>нанотрубок<Node id="950"/>.
+
+После производства <Node id="972"/>нанотрубок<Node id="982"/> вышеуказанными методами возникает необходимость удаления частиц металла, поэтому при использовании технологии Жанетт готовый продукт получается намного чище и дешевле.
+
+Высококачественные углеродные <Node id="1182"/>однослойные <Node id="1194"/>нанотрубки<Node id="1204"/>, изготовленные по новому технологическому процессу, из-за отсутствия в их составе токсичных металлов уже нашли применение в медицине.
+
+Кроме того, высококачественные <Node id="1371"/>нанотрубки<Node id="1381"/> будут востребованы в производстве новых материалов. Так, полимерный пластик, армированный <Node id="1472"/>нанотрубками<Node id="1484"/>, по прочности не уступает стали, при том, что его вес в шесть раз легче.
+
+<Node id="1559"/>Как говорит Жанетт, процесс коммерциализации новой технологии уже начался<Node id="1632"/>. Лицензию на ее использование уже приобрели компании, работающие в области производства <Node id="1721"/>нанотрубок<Node id="1731"/>: Idaho Space Materials, Nanotailor, E-City NanoTechnologies.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="539" EndNode="560">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="1559" EndNode="1632">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1559" EndNode="1632">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1371" EndNode="1381">
+</Annotation>
+<Annotation Id="8" Type="Однослойная+нанотрубка" StartNode="1182" EndNode="1204">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="780" EndNode="790">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="972" EndNode="982">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="940" EndNode="950">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1721" EndNode="1731">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="689" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Химическое+осаждение" StartNode="792" EndNode="813">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1472" EndNode="1484">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="550" EndNode="560">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Углеродная+нанотрубка" StartNode="149" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="160" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="1194" EndNode="1204">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Дата" StartNode="328" EndNode="337">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Фестиваль популярной науки пройдет в Иркутске 3—6 апреляФестиваль популярной науки «<Node id="84"/>Дни<Node id="87"/> науки в Иркутске» проводится Иркутским государственным университетом. В его рамках состоится круглый стол, посвященный проблеме молодых кадров в науке, мастер-классы для учителей физики и математики, научно-популярные лекции по нанотехнологиям и физике атмосферных явлений.
+Ученые обсудят вопрос глобальных климатических изменений.
+
+В <Node id="423"/>эти дни<Node id="430"/> можно побывать на открытых встречах с учеными Иркутска, Москвы и Санкт-Петербурга.
+
+<Node id="515"/>Дни<Node id="518"/> науки пройдут сразу на нескольких площадках в Иркутске и Ангарске. Лекции будут читать ученые ИГУ, ИНЦ СО РАН, математического института им. В. А. Стеклова РАН, МГУ им. М. В. Ломоносова (Москва), Петергофской гимназии (Санкт-Петербург), Российского государственного университета <Node id="798"/>И. Канта<Node id="806"/> (Калининград).
+
+URL: <Node id="828"/>http://www.irk.ru/…science.htmlХорошее<Node id="866"/> это дело!.. Не только эстрадные певцы и театральные коллективы должны приезжать в «глубинку». Никто не знает, где и когда могут появиться наши новые ломоносовы, софьи ковалевские и лобачевские. Отрадно, что в наше время – <Node id="1089"/>век<Node id="1092"/> глобализации и Интернета – дуют как «центробежные», так и «центростремительные» <Node id="1173"/>(http://www.nanonewsnet.ru/…ekhnologiyam)<Node id="1214"/> ветры. И это «перемешивание» идёт на пользу отечественным науке и технике…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="84" EndNode="87">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="828" EndNode="866">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="515" EndNode="518">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1173" EndNode="1214">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="423" EndNode="430">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1089" EndNode="1092">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="798" EndNode="806">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

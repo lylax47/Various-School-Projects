@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>После создания корпорации Роснанотех и выделения из бюджета <Node id="60"/>130 миллиардов рублей<Node id="81"/> на освоение отечественной наноиндустрии, российский малый и средний бизнес с интересом изучает новое поле для деятельности.
+Виктор Быков
+О том, какие направления, с использованием нанотехнологий, сегодня считаются самыми перспективными в медицине, рассказывает генеральный директор компании «NT – MDT» Виктор Быков<Node id="396"/>.<Node id="397"/>
+Видеоинтервью на ТВ-канале ПЕРВЫЙ КАНАЛ БИЗНЕСА см. здесь (на сайте):
+
+[Видео для модема]
+
+[Видео для выделенной линии]
+<Node id="518"/>http://amtv.ru/…ediaclip.asp?…Вот<Node id="551"/> какой-то новый ТВ-канал, разработанный компанией «Альянс Медиа ТВ. Москва» (в рамках Комплексной программы развития и поддержки малого предпринимательства в г. Москве). Там можно прослушать/посмотреть разные актуальные интервью – в частности и вот это интервью с Виктором БЫКОВЫМ. Очень прикольно: <Node id="850"/>минуты<Node id="856"/> 3–4 он выступает как будто по телевизору. И хотя <Node id="906"/>он<Node id="908"/> не сказал что-то уж особо сенсационное, сама манера подачи материала довольно интересна…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="906" EndNode="908">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="396" EndNode="397">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="60" EndNode="81">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="396" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="850" EndNode="856">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="518" EndNode="551">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

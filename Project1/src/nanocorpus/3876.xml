@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+"На конкурс научной фотографии"
+ 
+На приведенной микрофотографии изображена эволюция NaCl в  <Node id="95"/>нанокомпозите<Node id="108"/> Гидроксокарбонат Цинка/Хлорид Натрия (система солевой прекурсор-матрица для термического роста <Node id="204"/>наностержней<Node id="216"/> ZnO) при нагревании.  NaCl являтся средой для формирования <Node id="276"/>наностержней<Node id="288"/> оксида цинка.
+ 
+Данная микрофотография получена с помощью  <Node id="348"/>Высокотемпературной <Node id="368"/>Растровой<Node id="377"/> Электронной микроскопии<Node id="401"/> in situ при  T=600 оC и вакууме 1,5 мм рт. ст. 
+ 
+Можно отметить, что с ростом температуры на гранях кристалликов NaCl происходит формирование микротеррас. 
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Растровая+электронная+микроскопия" StartNode="368" EndNode="401">
+</Annotation>
+<Annotation Id="1" Type="Нанокомпозит" StartNode="95" EndNode="108">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="348" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Растрова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="204" EndNode="216">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="276" EndNode="288">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

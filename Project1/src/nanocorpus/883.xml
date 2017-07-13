@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Американским исследователям (Rensselaer Polytechnic Institute) удалось получить гибридные структуры, совмещающие лучшие свойства <Node id="130"/>углеродных <Node id="141"/>нанотрубок<Node id="151"/> и металлических <Node id="168"/>нанопроволок<Node id="180"/>. Это достижение может решить проблемы внедрения <Node id="229"/>углеродных <Node id="240"/>нанотрубок<Node id="250"/> в производство компьютерных чипов, дисплеев и <Node id="297"/>сенсоров<Node id="305"/>. 
+ 
+Производители чипов постоянно борются за повышение вычислительной мощи, ищут возможности разработки чипов на наноуровне. <Node id="431"/>Углеродные <Node id="442"/>нанотрубки<Node id="452"/> и <Node id="455"/>нанопроволоки<Node id="468"/> являются многообещающими кандидатами на роль соединяющих контактов, благодаря своим исключительным механическим, электрическим и оптическим свойствам. 
+ 
+Ранее было возможно лишь прикреплять пучки <Node id="666"/>нанотрубок<Node id="676"/> к макроскопическим металлическим контактам, и до сих пор не было никакой возможности присоединить металлические контакты к отдельной <Node id="810"/>нанотрубке<Node id="820"/>. Теперь же можно не только соединять <Node id="858"/>нанотрубки<Node id="868"/> и металлические иглы, но и получать многосегментные гибридные нанотрубочно-нанопроволочные структуры. 
+ 
+Синтез начинается с алюминиевой матрицы, содержащей наноразмерные поры. В эти поры исследователи осаждают медь или золото, после чего полученный композит помещается в печь, в которой размещены богатые углеродом соединения. В условиях высоких температур атомы углерода попадают в поры и формируют <Node id="1270"/>нанотрубки<Node id="1280"/>, растущие непосредственно на концах находящихся там металлических <Node id="1347"/>нанопроволок<Node id="1359"/>. 
+Эта технология очень проста и может использоваться для синтеза многих других материалов. Исходные алюминиевые матрицы в <Node id="1482"/>настоящее время<Node id="1497"/> широко применяются для производства фильтров, поэтому вполне доступны, что позволяет расширить технологию до промышленных масштабов. 
+ 
+Пока получены гибридные <Node id="1658"/>нанопроволоки<Node id="1671"/>, состоящие из <Node id="1686"/>углеродных <Node id="1697"/>нанотрубок<Node id="1707"/>, меди и золота, но ученые уже работают над присоединением <Node id="1766"/>углеродных <Node id="1777"/>нанотрубок<Node id="1787"/> к полупроводникам. 
+ 
+Работа опубликована в Applied Physics Letters. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="666" EndNode="676">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="130" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="810" EndNode="820">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="1686" EndNode="1707">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="229" EndNode="250">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="297" EndNode="305">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="141" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанопроволока" StartNode="455" EndNode="468">
+</Annotation>
+<Annotation Id="12" Type="Нанопроволока" StartNode="1347" EndNode="1359">
+</Annotation>
+<Annotation Id="13" Type="Нанопроволока" StartNode="1658" EndNode="1671">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="431" EndNode="452">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="442" EndNode="452">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1697" EndNode="1707">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1482" EndNode="1497">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="1766" EndNode="1787">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="1777" EndNode="1787">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="858" EndNode="868">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="1270" EndNode="1280">
+</Annotation>
+<Annotation Id="22" Type="Нанопроволока" StartNode="168" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="240" EndNode="250">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

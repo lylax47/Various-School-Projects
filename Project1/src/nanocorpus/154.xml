@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компания Unilever (производитель таких брендов, как Timotei, Calve, Dove, Lipton, Rama, Rexona, Axe, Пышка и других) Объявляет о том, что: 
+<Node id="142"/>23 марта 2007 года<Node id="160"/> состоится ежегодная конференция, посвящённая программе набора и развития молодых специалистов (Unilever Graduate Recruitment and Development Program Conference). 
+На конференции Вы сможете познакомиться с корпоративной культурой, структурой компании Unilever, задать интересующие вопросы. Студентам пятых курсов будет предложено пройти стажировку в компании с возможностью последующего трудоустройства.
+ 
+Вопросы и контакты: Е.В.Якубович (kate@market.chem.msu.ru)
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="142" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

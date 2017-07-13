@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Микрофотография кристалла <Node id="28"/>фуллеренов<Node id="38"/> С70, полученного кристаллизацией из раствора.
+ 
+ПЭМ, JEOL 100 CX, x20000
+ 
+ 
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="28" EndNode="38">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

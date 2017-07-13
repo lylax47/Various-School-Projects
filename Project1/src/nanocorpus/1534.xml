@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>18 января<Node id="11"/> факультет наук о материалах МГУ им. М.В. Ломоносова подписал <Node id="73"/>договор<Node id="80"/> дарения с компанией “Токио Боэки”, по которому компания назначает 6 именных стипендий на <Node id="170"/>один семестр<Node id="182"/> в объеме <Node id="192"/>30000 руб.<Node id="202"/> Стипендии назначаются лучшим студентам, аспирантам и/или молодым ученым факультета наук о материалах за большие успехи в учебе и/или научной деятельности в течение указанных <Node id="377"/>семестров<Node id="386"/>, нашедшие отражение в экзаменационных оценках, опубликованных научных работах, докладах на конференциях. 
+  
+ 
+В ходе подписания договора генеральный директор российского представительства компании г-н Uchida Kazuei сообщил также, что в планах компании стоит организация конференции по нанотехнологиям для молодых российских и японских ученых в МГУ в <Node id="738"/>октябре 2008 года<Node id="755"/>. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="377" EndNode="386">
+</Annotation>
+<Annotation Id="1" Type="Партнеры_Клиенты" StartNode="73" EndNode="80">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="170" EndNode="182">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="192" EndNode="202">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="738" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="2" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

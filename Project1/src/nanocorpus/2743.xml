@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Интересные результаты были недавно получены в Фордемском Университете (Fordham University) в области бионанотехнологий.
+
+Группа Ипситы Банерджи (Ipsita Banerjee) исследовали взаимодействие живых клеток с <Node id="205"/>нанокристаллами<Node id="220"/> фосфата кальция (основного материала, входящего в состав костной ткани), которые были приготовлены на пептидных <Node id="333"/>нанотрубках<Node id="344"/>.
+
+После полугода проб и ошибок исследователям удалось наконец добиться того, чтобы клетки не просто не гибли, но начали размножаться.
+
+Таким образом, было продемонстрировано, что искусственно выращенные <Node id="548"/>нанокристаллы<Node id="561"/> фосфата кальция могут включаться в состав живой ткани – а в будущем, вероятно, и в человеческие кости.
+
+Группа Банерджи занимается разработкой биомедицинских приложений <Node id="731"/>нанотрубок<Node id="741"/>, в частности – для регенерации костной ткани, а также для борьбы с болезнью <Node id="818"/>Альцгеймера<Node id="829"/>. Помимо этого, они работают над промышленным использованием <Node id="890"/>нанотрубок<Node id="900"/> – для создания <Node id="916"/>наносенсоров<Node id="928"/>, способных обнаруживать присутствие бактерий, вирусов и газов.
+
+<Node id="993"/>На сегодняшний день<Node id="1012"/> исследователи работают с мышиными фибробластами; <Node id="1062"/>в течение ближайших лет<Node id="1085"/> они планируют начать эксперименты на человеческих тканях.
+
+Если подобные синтетические вещества окажутся способными помочь в регенерации костей, восстановлении мышц или предотвращении заболеваний, это может открыть новую эру в лечении заболеваний, начиная с остеопороза и заканчивая болезнью <Node id="1378"/>Паркинсона<Node id="1388"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="333" EndNode="344">
+</Annotation>
+<Annotation Id="1" Type="Нанокристалл" StartNode="205" EndNode="220">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанокристалл" StartNode="548" EndNode="561">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="818" EndNode="829">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альцгеймер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="993" EndNode="1012">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1062" EndNode="1085">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="890" EndNode="900">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="731" EndNode="741">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1378" EndNode="1388">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Сенсор" StartNode="916" EndNode="928">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из США разработали методику, позволяющую получать <Node id="65"/>графен<Node id="71"/> в больших количествах. Листы <Node id="101"/>графена<Node id="108"/> формируются в газовой фазе без участия каких-либо подложек. 
+ 
+Для получения <Node id="186"/>графена<Node id="193"/> ученые применили метод плазменного осаждения из паровой фазы (PECVD). Для этого в аргоновую плазму впрыскивались капельки этанола. В таких условиях за чрезвычайно малое время этанол разлагался, образуя твердый углеродный материал, который отлично диспергировался в метаноле при помощи ультразвуковой обработки. 
+ 
+При ближайшем рассмотрении оказалось, что суспензия образована  листами <Node id="580"/>графена<Node id="587"/> – индивидуальными слоями графита. Метод позволяет получать материал, состоящий в основном из однослойных и двуслойных листов <Node id="713"/>графена<Node id="720"/>. Расстояние между слоями составило 0.335 нм, что как раз совпадает с таковым для графита. <Node id="811"/>Рамановская спектроскопия<Node id="836"/> и электронная дифракция показали, что полученный <Node id="886"/>графен<Node id="892"/> отличается очень высоким качеством. Таким образом, предложенный метод может сыграть важную роль в становлении графеновой наноэлектроники. 
+ 
+Работа «Substrate-Free Gas-Phase Synthesis of Graphene Sheets» опубликована в журнале Nano Letters.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="65" EndNode="71">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="886" EndNode="892">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="580" EndNode="587">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="713" EndNode="720">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="101" EndNode="108">
+</Annotation>
+<Annotation Id="5" Type="Рамановская+спектроскопия" StartNode="811" EndNode="836">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="186" EndNode="193">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

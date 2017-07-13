@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Новый класс созданных специальным образом <Node id="43"/>наночастиц<Node id="53"/>, которые находят, показывают и уничтожают опухоль может быть мощным оружием против рака. Данные <Node id="150"/>наночастицы<Node id="161"/>, полученные Джеймсом Бейкером (James Baker) с коллегами (University of Michigan) представляют собой <Node id="262"/>наночастицы<Node id="273"/> золота<Node id="280"/>, на поверхности которых находятся разветвленные полимеры – дендримеры. Дендримеры могут нести различные молекулы – находящие раковые опухоли, флуоресцирующие, и, соответственно показывающие их, а также лекарства, способные убивать клетки. Также раковую опухоль можно уничтожить, нагрев частицу золота при помощи лазера или инфракрасного излучения. 
+ 
+В работе, опубликованной в журнале Small исследователи продемонстрировали нахождение и визуализацию раковых клеток в лабораторных условиях при помощи частиц золота, покрытых дендримерами. К каждому отростку дендримера были присоединены четыре или пять молекул фолиевой кислоты и флуоресцирующих молекул. Раковые клетки, имеющие значительно больше рецепторов на фолиевую кислоту, чем здоровые клетки, проглатывали <Node id="1045"/>наночастицы<Node id="1056"/> покрытые дендримеами. При помощи микроскопии исследователи наблюдали частицы, накопленные в клетках, а конкретно, в лизосомах. 
+ 
+Следующим шагом ученых будут тесты на животных. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1045" EndNode="1056">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="43" EndNode="53">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица+золота" StartNode="262" EndNode="280">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="150" EndNode="161">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="262" EndNode="273">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

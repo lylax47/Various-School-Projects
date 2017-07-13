@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Управление морфологией <Node id="24"/>нанокристаллов<Node id="38"/> является важной задачей, поскольку многие их физические и химические свойства сильно зависят от формы. В работе исследователей из Университета Калифорнии в Беркли были синтезированы палладиевые <Node id="233"/>наночастицы<Node id="244"/> трёх различных форм с помощью использования кубических <Node id="300"/>нанокристаллов<Node id="314"/> платины. 
+ 
+Платиновые кубы со стороной 13 нм, все грани которых имеют индексы (100), использовались для выделения из реакционной смеси палладия, который обладает таким же периодом кристаллической решётки, как и платина, и «достраивает» <Node id="552"/>наночастицы<Node id="563"/>-«зёрна». 
+ 
+В зависимости от условий проведения реакции (содержания диоксида азота, влияющего на скорость роста палладия), исследователи смогли получить частицы трёх различных форм — кубической, октаэдрической и кубооктаэдрической — с разными типами поверхностей. Типу (100) соответствует кубическая форма, а октаэдрические частицы имеют грани типа (111). Кубооктаэдрические частицы обладают гранями обоих типов. Структуры наблюдались электронной микроскопией (см. рисунок). 
+ 
+В отсутствие платиновых зёрен, однако, результатом реакции являлась смесь крупных частиц, содержашая неполиэдрические частицы, <Node id="1169"/>наностержни<Node id="1180"/> и многогранные <Node id="1196"/>наночастицы<Node id="1207"/>. Таким образом, роль нанокубов платины состоит в создании поверхности для наращивания палладия и в задании формы конечных частиц. Согласно авторам работы, такой метод может применяться и для других металлических систем — примерами могут стать рутений, железо-платина, кобальт-платина. 
+ 
+ Василий Артюхов  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Управление морфологией нанокристаллов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанокристалл" StartNode="24" EndNode="38">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="233" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1196" EndNode="1207">
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="300" EndNode="314">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наностержень" StartNode="1169" EndNode="1180">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="552" EndNode="563">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

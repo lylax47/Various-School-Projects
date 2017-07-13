@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В Санкт-Петербурге <Node id="20"/>30 июля–3 августа 2007 г.<Node id="45"/> состоится Topical Meeting of the European Ceramic Society “Geometry, Information and Theoretical Crystallography of the Nanoworld”.   Организаторы - European Ceramic Society, Russian Academy of Sciences, Russian Foundation for Basic Research, Institute of Silicate Chemistry of RAS (проф. A.L.Mackay (UK), академик В.Я.Шевченко). 
+ 
+ Адрес для переписки: Institute of Silicate Chemistry RAS, Nab. Makarova 2, Saint-Petersburg 199034, Russia     
+Сайт <Node id="497"/>http://www.isc.nw.ru/Eng/Conferences.htm<Node id="537"/> 
+Электронная почта: gitc-nano@isc.nw.ru, 
+ 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="20" EndNode="45">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="497" EndNode="537">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

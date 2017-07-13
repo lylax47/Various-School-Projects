@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+ Среди главных тем публикаций в СМИ - международное сотрудничество. В центре внимания - визиты делегации ГК «Роснанотех» в Китай и США, в ходе которых были сделаны интересные заявления. Также в дайджесте приводятся наиболее интересные публикации минувшего <Node id="258"/>месяца<Node id="264"/> о научных достижениях в сфере нанотехнологий и о событиях наноиндустрии.
+ 
+ Полный текст - тут.
+     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="258" EndNode="264">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

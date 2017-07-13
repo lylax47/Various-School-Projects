@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Издательство Elsevier открывает доступ к 36 статьям Нобелевских лауреатов <Node id="76"/>2007 г.<Node id="83"/> по физике, химии, биологии, медицине и экономике. 
+Доступ к статьям здесь. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="76" EndNode="83">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Инженеры из Массачусетского Технологического Института (MIT) показали, что <Node id="76"/>наножидкости<Node id="88"/>, которым пророчили возможности «суперхладагента», не имеют многих особенных свойств.<Node id="173"/>Наножидкости<Node id="185"/> — суспензия нанометровых частиц. Когда <Node id="225"/>наножидкости<Node id="237"/> были получены в <Node id="254"/>начале 1990<Node id="265"/>-ых, эксперименты показали, что их теплопроводность намного выше ожидаемой. В <Node id="343"/>последние годы<Node id="357"/> предлагалось несколько новых теорий, чтобы объяснить это аномальное поведение. Среди них есть и теория «микроконвекции», предсказывающая аномальное увеличение теплопроводности на несколько порядков при добавлении легких <Node id="578"/>наночастиц<Node id="588"/>, радиусом меньше 10 нм.
+
+Исследователи MIT недавно провели эксперименты, чтобы проверить эффект микроконвекции, и нашли, что <Node id="714"/>наножидкости<Node id="726"/> фактически не имеют особенных способностей к охлаждению, приписанными им. Ученые сообщают о полученных результатах в выпуске <Node id="852"/>31 авг.<Node id="859"/> Physical Review Letters.
+
+«<Node id="887"/>Мы сделали заключение, что нет никакого ‹волшебства› в <Node id="942"/>наножидкостях<Node id="955"/>, и обещание, что <Node id="973"/>наножидкости<Node id="985"/> станут ‘наноинжинерным хладагентом’, остается в значительной степени невыполненным и вероятно останется таким в <Node id="1098"/>последующие годы<Node id="1114"/>,» — сказал Джекоб Ипен<Node id="1137"/> (Jacob Eapen), ведущий автор статьи. Жидкости часто используются для индустриального охлаждения, особенно в ядерных и угольных электростанциях. Автомобильные двигатели, кондиционеры и рефрижераторы также охлаждаются жидкостями. Однако, твердые частицы имеют более высокую теплопроводность, чем жидкости. Исследователи долго экспериментировали с улучшением теплопроводности жидкостей, диспергируя в них твердые частицы. В теории это должно улучшить эффективность охлаждающихся устройств.
+
+В 1960-ых инженеры пробовали данный подход с использованием микронных частиц, но большой размер частиц приводил к эрозии труб и повреждению насоса. Только в 1990-ых исследователи стали в состоянии использовать частицы наноразмера. Начальные эксперименты были очень многообещающими, показывая увеличение теплопроводности <Node id="1946"/>наножидкостей<Node id="1959"/> на несколько порядков по сравнению с предсказаниями теории <Node id="2019"/>Максвелла<Node id="2028"/>. В теории микроконвекции, которая пробовала объяснить это поведение, выдвигалась гипотеза, что «<Node id="2125"/>случайное движение диффундирующих <Node id="2159"/>наночастиц<Node id="2169"/> — эффективный источник конвекции в жидкости, которое может увеличить теплопередачу окружающей жидкости,» — говорит Ипен<Node id="2289"/>.
+
+Исследовательская группа из MIT решила проверить теорию микроконвекции, испытывая одно из ее предсказаний: легкие <Node id="2406"/>наночастицы<Node id="2417"/> увеличат теплопроводность <Node id="2444"/>наножидкости<Node id="2456"/>. Исследователи использовали сильно диспергированный кварц и частицы тефлона, оба материала легче, чем обычно используемый глинозем и окись меди. Наблюдаемые теплопроводности были намного ниже, чем предсказывает теория микроконвекции. «Таким образом, мы смогли экспериментально показать, что микроконвекции не существует,« — говорит Ипен. Полученные результаты действительно хорошо согласуются с теорией <Node id="2860"/>Максвелла<Node id="2869"/>. Фактически, теплопроводность <Node id="2900"/>наножидкостей<Node id="2913"/> подобна таковой для неоднородных материалов. Описание такого поведения как "аномального» было неудачным последствием применения теории <Node id="3049"/>Максвелла<Node id="3058"/>, которая является верной только для хорошо диспергированных <Node id="3119"/>наночастиц<Node id="3129"/>. В большинстве <Node id="3145"/>наножидкостей<Node id="3158"/> диспергированные частицы формируют линейные цепочки, и классическая теория действительно предсказывает большую теплопроводность.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1098" EndNode="1114">
+</Annotation>
+<Annotation Id="1" Type="Наножидкость" StartNode="173" EndNode="185">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наножидкость" StartNode="2900" EndNode="2913">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="3119" EndNode="3129">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наножидкость" StartNode="3145" EndNode="3158">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2860" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Максвелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="2159" EndNode="2169">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="2125" EndNode="2289">
+</Annotation>
+<Annotation Id="10" Type="Наножидкость" StartNode="225" EndNode="237">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наножидкость" StartNode="942" EndNode="955">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="254" EndNode="265">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2019" EndNode="2028">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Максвелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="2125" EndNode="2289">
+</Annotation>
+<Annotation Id="20" Type="Наножидкость" StartNode="714" EndNode="726">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="3049" EndNode="3058">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Максвелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Наножидкость" StartNode="76" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Наночастица" StartNode="2406" EndNode="2417">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="автор" StartNode="887" EndNode="1137">
+</Annotation>
+<Annotation Id="31" Type="Наночастица" StartNode="578" EndNode="588">
+</Annotation>
+<Annotation Id="30" Type="Наножидкость" StartNode="973" EndNode="985">
+</Annotation>
+<Annotation Id="34" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Наножидкость" StartNode="2444" EndNode="2456">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="Наножидкость" StartNode="1946" EndNode="1959">
+</Annotation>
+<Annotation Id="39" Type="Дата" StartNode="852" EndNode="859">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">авг.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="высказывания_заявления" StartNode="887" EndNode="1137">
+</Annotation>
+<Annotation Id="37" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="Период_времени" StartNode="343" EndNode="357">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

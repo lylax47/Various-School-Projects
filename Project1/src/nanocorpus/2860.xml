@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Профессор Омар Ягхи (Omar Yaghi) и <Node id="36"/>его<Node id="39"/> коллеги из университета Калифорнии в Лос-Анджелесе (UCLA) и Калифорнийского института наносистем (California NanoSystems Institute) создали <Node id="180"/>нанокристалл<Node id="192"/> с самой низкой плотностью в мире.
+
+Как предполагают ученые, этот удивительный <Node id="271"/>наноматериал<Node id="283"/> найдет широкое применение в промышленности, а также — в качестве системы хранения газов, в частности — водорода (в роли автомобильного топлива).
+
+Кристаллическая структура, названная COF-108, обладает плотностью всего в 0,17 грамма на кубический сантиметр. Кристалл составлен из таких элементов, как водород, бор, углерод и кислород.
+
+Интересно, что COF-108 является органическим кристаллом, или кристаллом-пластмассой: членом сравнительного нового класса веществ, называемых учеными COF, то есть «ковалентные органические каркасы».
+
+Этот класс веществ, как и специализированную химию для их синтеза (названную ретикулярной химией — reticular chemistry), развила команда ученых UCLA во главе с Яги, в сотрудничестве со специалистами из университета Мичигана (University of Michigan).
+
+Теперь Омар Яги с сотоварищами разработал несколько новых таких веществ — трехмерных структур, составленных из стандартных молекулярных блоков.
+
+Как пишут авторы работы в своей статье в Science, «поскольку эти материалы полностью построены из сильных ковалентных связей (C-C, C-O, C-B, и B-O), они имеют высокую тепловую стабильность (400–500 градусов по <Node id="1424"/>Цельсию<Node id="1431"/>) и высокую площадь поверхностности, и чрезвычайно низкий удельный вес».
+
+К примеру, площадь поверхности COF-102 и COF-103 составляет 3472 и 4210 квадратных метра на грамм, соответственно. А для COF-108 этот параметр превышает 4500 «квадратов» на грамм. «Один грамм COF-108, будучи "распутанным», мог бы покрыть площадь приблизительно в 30 теннисных кортов", — рассказал Яги.
+
+Он считает, что новые кристаллы из-за своей чрезвычайной пористости идеально подходят для улавливания или хранения газов: водорода или метана в автомобиле, углекислого газа из выбросов электростанций. Подробнее вы можете прочесть в пресс-релизе университета.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1424" EndNode="1431">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="36" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="180" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="271" EndNode="283">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

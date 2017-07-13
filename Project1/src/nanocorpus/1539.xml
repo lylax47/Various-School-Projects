@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Сверхтвердый и стойкий материал, пригодный к тому же для практического применения в промышленности, уступающий по твердости только монокристаллическому алмазу, но, что удивительно, не основанный на углероде, создала группа ученых из университетов Германии и Франции под руководством Натальи Дубровинской из университета Гейдельберга (Ruprecht-Karls-Universität Heidelberg). О чем и поведала в Applied Physics Letters.
+
+Твердость по Виккерсу монокристаллического алмаза составляет около 100 гигапаскалей (100 тысяч единиц HV). До сих пор самый твердый, после алмаза, материал показывал значение в 40–50 гигапаскалей (примерно). Это был кубический нитрид бора (cBN) — монокристалл. Теперь, похоже, у изготовителей режущих инструментов и абразивных кругов появился новый суперматериал.
+
+Дубровинская и <Node id="800"/>ее<Node id="802"/> коллеги создали так называемый агрегированный <Node id="849"/>нанокомпозит<Node id="861"/> нитрида бора (aggregated boron nitride nanocomposite — ABNNC). Он является поликристаллическим материалом, состоящим из мириадов зерен нитрида бора, с поперечником в 14 нанометров каждое. Причем внутри каждого из зерен формировались сразу две фазы нитрида бора — с шестиугольными и кубическими структурами.
+
+Сочетание их, как пишут авторы материала, на нано— и субнаноуровне, а также — точно подобранный размер зерна в поликристаллическом куске, и обеспечили ABNNC твердость по Виккерсу в 85 гигапаскалей!
+
+Этому способствовали как малый размер зерна, пресекающий распространение дислокаций в решетке, так и квантовые эффекты внутри зерна, сообщают исследователи в NanotechWeb.org.
+
+ABNNC, как показали тесты, имеет также высокие, для столь твердого материала, прочность и износостойкость. И что еще важнее – он термически стабилен на воздухе при температуре более 1600 градусов по <Node id="1744"/>Кельвину<Node id="1752"/> (алмаз — только до 950 Кельвинов). Все эти качества вместе делают ABNNC идеальным материалом для изготовления режущего инструмента.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1744" EndNode="1752">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кельвин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанокомпозит" StartNode="849" EndNode="861">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="800" EndNode="802">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

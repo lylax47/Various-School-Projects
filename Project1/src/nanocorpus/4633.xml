@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Материаловеды из США и Испании придумали новый способ получения длинных аморфных <Node id="82"/>нановолокон<Node id="93"/>. Технология, названная «laser spinning», позволяет получить волокна длиной несколько сантиметров и всего 35 нм в диаметре. 
+ 
+ Квазиодномерные структуры (<Node id="248"/>нанопроволоки<Node id="261"/>, <Node id="263"/>наноленты<Node id="272"/>, <Node id="274"/>наностержни<Node id="285"/> и <Node id="288"/>нанотрубки<Node id="298"/>) обладают уникальными электрическими и механическими свойствами и могут найти применение в электронике, катализе, биомедицине, использоваться для изготовления различных <Node id="468"/>сенсоров<Node id="476"/> и композитов. В <Node id="493"/>настоящее время<Node id="508"/> такие структуры обычно получают из паровой фазы или из растворов. 
+ 
+ Исследователям из  University of Vigo и Rutgers University удалось получить очень длинные аморфные <Node id="678"/>нановолокна<Node id="689"/>, используя простой процесс, не требующий участия катализаторов, шаблонов и каких-либо других реагентов, кроме материала будущего волокна. Технология позволяет получать волокна из довольно тугоплавких веществ, что невозможно достичь другими методами, например, при помощи электроспиннинга. 
+ 
+ Методика «laser spinning» основана на использовании мощного лазера для локального нагрева поверхности исходного керамического материала (кварца или оксида алюминия), т.е. только очень малый его объем находится в расплавленном состоянии. Далее под действием сильной струи газа расплав вытягивается в волокно и застывает. В результате формируется неупорядоченная сеть из микро- и <Node id="1361"/>нановолокон<Node id="1372"/>. Ученые утверждают, что такая технология позволит получать очень длинные аморфные волокна требуемого состава. 
+ 
+ Работа «Rapid production of  ultralong amorphous ceramic nanofibers by laser spinning» была опубликована в журнале Applied Physics Letters. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нановолокно" StartNode="82" EndNode="93">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="288" EndNode="298">
+</Annotation>
+<Annotation Id="2" Type="Нановолокно" StartNode="678" EndNode="689">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="468" EndNode="476">
+</Annotation>
+<Annotation Id="4" Type="Нанолента" StartNode="263" EndNode="272">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанопроволока" StartNode="248" EndNode="261">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="493" EndNode="508">
+</Annotation>
+<Annotation Id="8" Type="Наностержень" StartNode="274" EndNode="285">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нановолокно" StartNode="1361" EndNode="1372">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

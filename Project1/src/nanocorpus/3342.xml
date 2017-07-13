@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Компания НПО "КвинтТех" совместно с финской компанией Beneq Оу организует семинар по технологиям молекулярной сборки (ALD, SILAR). Семинар будет проходить в Международном деловом центре "Святогор" <Node id="198"/>3 июня 2008<Node id="209"/>. Для участия в семинаре необходимо ознакомиться с информационным письмом и заполнить регистрационную форму (раздел новости). Прием заявок происходит по <Node id="362"/>8 мая 2008<Node id="372"/>.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="198" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="362" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

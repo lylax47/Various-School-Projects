@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Британский Институт Нанотехнологии (Institute of Nanotechnology) сообщил о презентации и запуске новой официальной вебсайт проекта Framing Nano (<Node id="146"/>http://www.framingnano.eu/).<Node id="174"/> Проект Framing Nano- это двухлетний проект в рамках Европейского Сообщества (ЕС), посвященной вопросам законодательного международного регулирования в нанотехнологиях. Проект направлен на унификацию и стандартизацию отношений среди разработчиков нанотехнологий с целью последующей подготовки руководящей документной базы ЕС для ответственных и безопасных процессов разработки и внедрения нанотехнологий.
+
+Проект включает шесть европейских партнеров из шести европейских стран: Итальянский Центр Нанотехнологий (Italian Centre for Nanotechnology), Британский Институт Нанотехнологии, Голландский Национальный Институт Здравоохранения и Окружающей Среды (Dutch National Institute for Public Health and the Environment (RIVM), Технологический Центр Академии Наук Чешской Республики (Technology Centre of the Academy of Sciences of the CR), Независимая Группа Консультантов Innovation Society Ltd. (базирующаяся в Швейцарии) и Независимый Медиа Портал EurActive. Каждый из участников проекта обладает большим опытом разработки и освещения нанотехнологий и <Node id="1227"/>наноматериалов<Node id="1241"/>. Сам по себе проект Framing Nano должен состоять из следующих основных фаз:
+ Анализ настоящей ситуации с документами, руководящими и регулирующими разработку и внедрение нанотехнологий; Идентификация основных «держателей акций» в нанотехнологиях; Двух-этапные консультации с наиболее значительными «игроками»; Разработка руководящего Плана становления процесса управления и регулирования разработками и внедрением в нанонауке и нанотехнологии на Европейском уровне и за его пределами; Публичные консультации по поводу разрабатываемого Плана; Обсуждение с заинтересованными сторонами проблем, возникающих при разработке Плана и результатов выполнения проекта, равно как и информации, относящейся к разработке руководящих документов. 
+The FramingNano website will be a key tool in this process and will be a primary means of engaging key nanotechnology stakeholders, communicating information concerning the progress of the project, providing a repository of relevant documents and links concerning all aspects of nanotechnology governance and regulation, and of informing the wider community of the importance of achieving an appropriate governance framework in order to encourage and facilitate the safe and responsible development of nanotechnologies across a wider range of industries within the European Union. Further information on the aims and objectives of the FramingNano Project, its timetable and key stages, and about the six project partners is available on the new website: <Node id="2729"/>www.framingnano.eu<Node id="2747"/>
+Вебсайт FramingNano должен стать ключевым инструментом в разрабатываемом процессе и быть одним из основных средств вовлечения обладателей и разработчиков нанотехнологий в необходимые дискуссии и обмен информацией. Вебсайт становится основным местом демонстрации и обсуждения прогресса проекта, поддерживая базы данных соответствующих документов и связей со всеми первоисточниками информации, относящейся к проекту. Важной задачей вебсайта становится широкая информация публики о необходимости создания руководящей структуры для поддержания и облегчения разработки безопасных нанотехнологий в широком спектре отраслей промышленности внутри ЕС.
+
+На вебсайте размещена более подробная информация об участниках проекта, основных событиях, разработках и документах. Координатор Проекта Доктор <Node id="3536"/>Элвио Мантовани<Node id="3551"/> (Dr Elvio Mantovani ) – представитель итальянского партнера.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="3536" EndNode="3551">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мантовани</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1227" EndNode="1241">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2729" EndNode="2747">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="146" EndNode="174">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

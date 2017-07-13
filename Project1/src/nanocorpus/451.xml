@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Всероссийский Центр Исследования Общественного Мнения (ВЦИОМ) подвел результаты опроса общественного мнения, проведенного по заказу государственной корпорации «Российская корпорация нанотехнологий». Целью опроса являлось определение уровня осведомленности россиян о нанотехнологиях и о создании ГК «Роснанотех». 
+ 
+В опросе, прошедшем в <Node id="339"/>апреле<Node id="345"/>, приняли участие 1600 граждан Российской Федерации в возрасте <Node id="408"/>18 лет<Node id="414"/> и старше, постоянно проживающих на территории России. В опросе приняли участие жители 153 населенных пунктов из 46 регионов РФ. 
+ 
+Доля респондентов, слышавших о понятии «нанотехнологии», составила <Node id="613"/>43%<Node id="616"/> из всех опрошенных. Среди основных областей применения нанотехнологий респонденты называют: электронику – <Node id="723"/>43%<Node id="726"/>, медицину – <Node id="739"/>39%<Node id="742"/> и космическую промышленность – <Node id="774"/>31%<Node id="777"/>. Наиболее популярным источником информации о нанотехнологиях называются телевизионные программы – именно на них указали <Node id="898"/>81%<Node id="901"/> участников опроса. <Node id="921"/>26%<Node id="924"/> респондентов ВЦИОМ назвали в качестве источника информации о нанотехнологиях периодические издания, <Node id="1025"/>10%<Node id="1028"/> - радиопрограммы и <Node id="1048"/>10%<Node id="1051"/> - Интернет. 
+ 
+Большая часть опрошенных, <Node id="1093"/>74%<Node id="1096"/>, считают, что нанотехнологии в России так или иначе развиваются, а более трети, <Node id="1177"/>41%<Node id="1180"/>, интересуются их развитием. Подавляющее большинство участников опроса, <Node id="1252"/>81%<Node id="1255"/>, считают, что нанотехнологии принесут людям пользу. Половина опрошенных, <Node id="1329"/>52%<Node id="1332"/>, купили бы продукцию, в которой используются нанотехнологии. 
+ 
+Доля респондентов, слышавших о создании ГК «Роснанотех», составляет <Node id="1465"/>24%<Node id="1468"/>. Из них большинство, <Node id="1490"/>85%<Node id="1493"/>, относится к решению Правительства РФ о создании госкорпорации положительно.
+ 
+Более подробно о результатах опроса можно почитать на сайте ГК "Роснанотех". 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="408" EndNode="414">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1093" EndNode="1096">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="613" EndNode="616">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="1048" EndNode="1051">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="1177" EndNode="1180">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="339" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="898" EndNode="901">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="408" EndNode="414">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1025" EndNode="1028">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1252" EndNode="1255">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1490" EndNode="1493">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="723" EndNode="726">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="921" EndNode="924">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1329" EndNode="1332">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="1465" EndNode="1468">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="774" EndNode="777">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="739" EndNode="742">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

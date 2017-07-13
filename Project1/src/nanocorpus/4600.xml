@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>В прошлом<Node id="10"/> номере «Перста» рассказывалось, как электронной бумаге можно придать магнитные свойства [1]. Идею «омагнитить» основу другого типа дисплеев – жидкие кристаллы – предложили тайваньские ученые [2].
+
+Они добавили магнитные <Node id="231"/>наностержни<Node id="242"/> в нематический жидкий кристалл (диаметр стержней 6 нм, длина 50 нм, концентрация 1013 см-3), создав, таким образом, композитный материал, сочетающий в себе свойства жидкого кристалла и магнитной среды.
+
+Одним из самых характерных свойств жидкого кристалла является эффект Фредерикса – поляризация молекул в электрическом поле и ориентация вдоль него. На этом эффекте основана работа жидкокристаллических мониторов: при переориентации молекул меняются оптические свойства среды и, как следствие, цвет жидкокристаллической ячейки (в простейшей версии жидкокристаллических дисплеев – с серебристого на черный). Это свойство было использовано учеными для того, чтобы достичь эффекта управления намагниченностью композита с помощью электрического поля: магнитные <Node id="1001"/>наностержни<Node id="1012"/> в жидкокристаллической среде ориентируются вдоль направления молекул жидкого кристалла и поворачиваются вместе с ними в электрическом поле (рис. 1)
+
+Стоит отметить, что в отличие от частиц электронной бумаги, время поворота которых составляло величины порядка <Node id="1273"/>секунды<Node id="1280"/>, молекулы жидкого кристалла гораздо живее реагируют на электрическое поле. В результате частота переключения намагниченности в жидкокристаллическом композите составляет килогерцы, что намного перспективнее для практических приложений, хотя, конечно, ограничения, связанные с инерционностью вращательного движения и вязкостью среды, не позволяют говорить об использовании такого материала в вычислительной технике.
+<Node id="1695"/>А. Пятаков<Node id="1705"/> 1. <Node id="1709"/>А. Пятаков<Node id="1719"/>, ПерсТ 15, вып. 21, стр.6 (2008) 2. Tsung-Ju Lin et al, Appl. Phys. Lett. 93, 013108 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1" EndNode="10">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1273" EndNode="1280">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1709" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пятаков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1695" EndNode="1705">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пятаков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="1001" EndNode="1012">
+</Annotation>
+<Annotation Id="5" Type="Наностержень" StartNode="231" EndNode="242">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

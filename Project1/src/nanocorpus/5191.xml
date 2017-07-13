@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>5 марта 2008 года<Node id="18"/> генеральный директор Государственной корпорации по атомной энергии «Росатом» <Node id="96"/>Сергей Кириенко<Node id="111"/> <Node id="112"/>и генеральный директор Государственной корпорации «Российская корпорация нанотехнологий» Леонид Меламед<Node id="215"/> <Node id="216"/>подписали<Node id="225"/> Соглашение о сотрудничестве.
+
+Предметом сотрудничества определено взаимодействие сторон в области нанотехнологий, <Node id="340"/>наноматериалов<Node id="354"/> и наносистем, научно-технологического прогнозирования и определения перспективных рынков, сохранение научных школ, развитие международного научно-технического сотрудничества в данной сфере деятельности.
+
+Соглашением открывается новый этап в реализации программы развития российской наноиндустрии, позволяющий сосредоточить усилия обеих корпораций на приоритетных направлениях деятельности и обеспечить формирование инновационной инфраструктуры для внедрения в производство наукоемких технологий.
+
+В рамках подписанного Соглашения стороны обязались осуществлять согласованные действия во всех вопросах, относящихся к предмету сотрудничества, и в пределах своих полномочий активно участвовать в реализации единой государственной научно-технической и инновационной политики.
+
+В <Node id="1130"/>настоящее время<Node id="1145"/> начата проработка ряда крупных проектов, совместная реализация которых позволит создать необходимые условия для успешного продвижения научно-технической продукции предприятий и организаций участников Соглашения на внутренний и международный рынки.
+
+Подписание Соглашения о <Node id="1419"/>сотрудничестве<Node id="1433"/> между ГК «Росатом» и ГК «Роснанотех» подчеркивает стремление участников использовать все преимущества современных подходов к организации научно-производственной и управленческой деятельности.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="215" EndNode="216">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="111" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="111" EndNode="112">
+</Annotation>
+<Annotation Id="3" Type="Партнеры_Клиенты" StartNode="1419" EndNode="1433">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="340" EndNode="354">
+</Annotation>
+<Annotation Id="5" Type="встречи_и_переговоры" StartNode="96" EndNode="225">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="215" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1130" EndNode="1145">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

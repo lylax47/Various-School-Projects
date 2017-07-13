@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Сегодня, <Node id="10"/>30 сентября<Node id="21"/>, в Челябинске проходит областная научно-практическая конференция «Развитие нанотехнологий в Челябинской области». Мероприятие проводится министерством экономического развития совместно с ЧелГУ в рамках целевой программы «Развитие инновационной деятельности в Челябинской области» на <Node id="305"/>2008 – 2010 годы<Node id="321"/>.
+
+Обсудить актуальные проблемы наноиндустрии и перспективы нанотехнологий собрались ученые, представители ведущих предприятий и органов власти всего региона. Особым же гостем стала Яна Стрельцова – инвестиционный менеджер госкорпорации «Российская корпорация нанотехнологий» (РОСНАНО), которая занимается развитием инновационной инфраструктуры в сфере нанотехнологий. Визит представителей РОСНАНО в Челябинск имеет целью презентовать свою работу, рассмотреть передовой опыт, накопленный областью, и выработать предложения по взаимодействию и дальнейшему сотрудничеству.
+
+<Node id="893"/>По словам Яны Стрельцовой, <Node id="920"/>Южный Урал входит в пятерку самых активных регионов по развитию нанотехнологий<Node id="998"/>. Высокий уровень научных достижений подтверждает и статистика минэкономразвития Челябинской области, согласно которой в <Node id="1119"/>2007 году<Node id="1128"/> численность работников, выполняющих научные исследования и разработки в этой сфере, составила 136 человек, <Node id="1236"/>58 процентов<Node id="1248"/> из которых имеют ученую степень. В исследования вовлечены как высшие учебные заведения, так и отраслевые научно-исследовательские институты.
+
+<Node id="1391"/>В течение дня<Node id="1404"/> участники конференции делятся опытом использования нанотехнологий и разработками в этой сфере, обсуждают вопросы государственной поддержки инновационных проектов и направления деятельности вузов. Кстати, с достижениями двух из них – ЧелГУ и ЮУрГУ – собравшиеся смогут познакомиться непосредственно: университеты выступают площадками для проведения встречи.
+
+<Node id="1763"/>Как отметил проректор по научной работе Челябинского госуниверситета Андрей Мельников, сегодня работа в сфере наноиндустрии имеет высокий статус, и задача научного сообщества, государства и промышленности – объединить усилия в достижении успеха в реализации передовых проектов<Node id="2039"/>.
+<Node id="2041"/>Анастасия ГусенковаФото<Node id="2064"/> Елены Озорниной</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1763" EndNode="2039">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1119" EndNode="1128">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1236" EndNode="1248">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="893" EndNode="998">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="893" EndNode="2039">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1119" EndNode="1128">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="305" EndNode="321">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1391" EndNode="1404">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="893" EndNode="2039">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="1763" EndNode="2039">
+</Annotation>
+<Annotation Id="11" Type="темы" StartNode="920" EndNode="998">
+</Annotation>
+<Annotation Id="12" Type="цитаты" StartNode="920" EndNode="998">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="10" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="893" EndNode="998">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2041" EndNode="2064">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анастасия</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

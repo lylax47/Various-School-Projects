@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учеными из IBM, AMD, Freescale, STMicroelectronics, Toshiba и Колледжа наноразмерных наук и технологий (College of Nanoscale Science and Engineering) создана наименьшая ячейка SRAM-памяти по 22 нанометровому техпроцессу.
+
+Это означает, что отдельные составляющие SRAM-ячейки (или же СОЗУ – статическое оперативное запоминающее устройство), например, нанотранзисторы-ключи, имеют размер около 22 нанометров. Нанотехнологи предрекали медленное продвижение до 13-нм техпроцесса <Node id="476"/>в течение следующей декады<Node id="502"/>, однако никто не ожидал, что наноэлектроника так быстро преодолеет рубеж 22 нанометров.
+
+Память была изготовлена на опытном производстве IBM в Олбани, штат Нью-Йорк, работающем со стандартными 300-мм пластинами.
+
+В новой ячейке ее основа – кластер из шести нанотранзисторов умещается на площади в 0,1 квадратных микрона! Можно сказать, что этот прорыв обязан достижениям в нанолитографии и нанотехнологиях в целом.
+
+Как сообщил доктор <Node id="938"/>Чен<Node id="941"/> (T.C. Chen), руководящий исследованиями и производством прототипа, – «эта разработка является важным достижением на пути дальнейшей миниатюризации в электронике».
+
+Традиционно уменьшение размеров памяти SRAM достигалось путем миниатюризации ее базовых элементов. IBM и партнеры компании оптимизировали дизайн и архитектуру памяти для того, чтобы улучшить надежность ее работы, а также изобрели несколько новых технологических приемов для того, чтобы сделать разработку осуществимой.
+
+Для создания памяти использовалась технология иммерсионной <Node id="1485"/>литографии<Node id="1495"/> с числовой апертурой. Именно благодаря этой технологии удалось достигнуть высокой плотности компонентов и сделать самую компактную память SRAM в мире. Память SRAM используется в микропроцессорах и хранит данные перед их обработкой.
+
+В <Node id="1731"/>настоящее время<Node id="1746"/> чипы производятся по техпроцессу 45 нм. Следующее поколение микросхем будет выпускаться на базе 32-нм техпроцесса, и только потом — на базе 22-нм. По мнению ученых из IBM, первые процессоры на базе 22-нм технологии появятся в <Node id="1973"/>2011 г.<Node id="1980"/> Ранее предполагалось, что принятие 22-нм технологии произойдет не ранее <Node id="2053"/>2016 г.<Node id="2060"/>
+
+«<Node id="2063"/>Мы работаем на абсолютно возможном минимуме размерной шкалы и прогрессируем в сторону следующего поколения полупроводниковых технологий. Новая разработка безусловно является критическим достижением в процессе миниатюризации микроэлектроники»- отмечает <Node id="2315"/>Д-р Чен<Node id="2322"/> (Dr. T.C. Chen), вице-президент научно-исследовательского подразделения IBM (vice president of Science and Technology, IBM Research)- « 22 нм, по нашим представлениям, это еще через одно будущее поколение чипов. Следующее поколение это 32 нм».
+
+Таким образом, разработчики чипов в IBM ушли намного вперед по сравнению с существующей шкалой размерных поколений интегральных схем. IBM и их партнеры ушли далеко вперед от конкурентов, благодаря используемой технологии. Традиционно технологи IBM уплотняют чип SRAM, сжимая его основной блок, известный как Сell (процессор Сell, имеющий архитектуру, разработанную cовместно IBM, Sony и Toshiba). Научно-исследователький альянс под эгидой IBM на сей раз пошел дальше и оптимизировал дизайн и конфигурацию процессора для улучшения стабильности и разработал несколько новых технологий изготовления с целью изготовления нового процессора SRAM. Разработчики использовали процесс иммерсионной <Node id="3256"/>литографии<Node id="3266"/> с большой численной апертурой для печати схем со столь агрессивными размерами и плотностью.
+
+Размеры процессора SRAM обычно являются ключевым показателем технологии в поупроводниковой промышленности. Данная работа продемонстрировала продолжающуюся лидирующую роль IBM и их партнеров в передовых современных технологиях. Ключевые параметры нового процессора SRAM включают в себя размеры и точность выполнения high-K вентилей, транзисторов с длиной менее 25 нм, тонких спейсеров, новых ко-имплантов, новые методы активации, исключительно тонкие пластинки силицида и медные контакты с примесью благородных металлов.
+
+Дополнительные детали разработки будут представлены докладом на ежегодном техническом собрании международной секции электронных систем IEEE (International Electron Devices — IEDM) <Node id="4061"/>15—17 декабря с.г.<Node id="4079"/> в Сан <Node id="4086"/>Франциско<Node id="4095"/> <Node id="4096"/>(http://www.wikicfp.com/…vent.showcfp?…)<Node id="4136"/>
+Свидиненко Юрий, Евгений Биргер</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="1485" EndNode="1495">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="4086" EndNode="4095">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Франциско</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="4096" EndNode="4136">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="2053" EndNode="2060">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="4061" EndNode="4079">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1731" EndNode="1746">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Литография" StartNode="3256" EndNode="3266">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="938" EndNode="941">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="2063" EndNode="2322">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="1973" EndNode="1980">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2315" EndNode="2322">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="476" EndNode="502">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="2063" EndNode="2322">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

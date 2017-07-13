@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Визит руководства ГК «Роснанотех» на ЗАО НПП «ВМП»<Node id="50"/>16 мая<Node id="56"/> делегация во главе с генеральным директором ГК «Роснанотех» Леонидом Меламедом<Node id="135"/> <Node id="136"/>приняла участие в работе круглого стола «Региональная политика по развитию и поддержке нанотехнологий», который проводился в рамках XIII Российского экономического форума.
+
+Во время визита в Екатеринбург делегация ГК «Роснанотех» в сопровождении заместителя министра промышленности и науки Свердловской области Ю.П. Зибарева посетила Научно-производственное предприятие «Высокодисперсные металлические порошки» и ознакомилась с исследовательскими работами, промышленным производством <Node id="620"/>наноматериалов<Node id="634"/> и перспективами развития нанотехнологий.
+Генеральный директор ГК «Роснанотех» Л.Б. Меламед отметил эффективную работу предприятия по организации реального промышленного производства <Node id="817"/>наноматериалов<Node id="831"/> на основе собственных научных и технологических разработок.
+<Node id="892"/>http://www.coldzinc.ru/news/106.shtmlХо!<Node id="932"/> Исторические кадры! Прошло вон почти <Node id="970"/>две недели<Node id="980"/>, и они, наконец-то, появились в Сети… Можно бы посоветовать уральцам пошустрее «орудовать» фотокамерами и пером, чтобы уж так не затягивать с актуальным репортажем… Мы уже раньше сообщали об этом передовом предприятии, которое ведёт беспощадную войну с коррозией металла <Node id="1252"/>(http://www.nanonewsnet.ru/…roziyu-iznos).<Node id="1294"/> Теперь вот и руководство ГК «Роснанотех» лично убедилось в эффективности и пользе этой работы. Молодцы ребята! Так держать!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="50" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1252" EndNode="1294">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="892" EndNode="932">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="135" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="620" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="970" EndNode="980">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="135" EndNode="136">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="817" EndNode="831">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

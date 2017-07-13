@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>На основе нанотехнологий британскими учеными разработан новый подход к борьбе с раковыми заболеваниямЛОНДОН, <Node id="109"/>3 мая<Node id="114"/> – Новая технология борьбы с раковыми заболеваниями, основанная на впрыскивании намагниченных <Node id="208"/>наночастиц<Node id="218"/> в организм человека, создана британскими учеными. Об этом сообщила лондонская газета Evening Standard.Prof. Quentin Pankhurst
+Получившие название «магнитные роботы», эти частницы направляются с помощью магнитной дистанционной системы управления движением в те участники организма, где находятся канцерогенные клетки. <Node id="536"/>Затем<Node id="541"/> на данные места направляют мощный луч света, который нагревает «магнитных роботов», и они «выжигают» пораженные раком клетки, не нанося вред здоровым (ну, фактически температура повышается на 1–5 градусов <Node id="747"/>Цельсия<Node id="754"/>).
+Предполагается, что эта методика будет пригодна для лечения самых разнообразных типов рака. Первоначально исследователи сосредоточатся на излечении рака молочной железы.
+
+Методика, разработанная новой лондонской исследовательской лабораторией Королевского института, подтверждает огромный потенциал для современной медицины нанотехнологий. Благодаря ей ученые получают возможность действовать на молекулярном уровне, и, как в случае с «магнитными роботами», атаковать лишь пораженные клетки, отмечают специалисты.
+В <Node id="1273"/>настоящее время<Node id="1288"/> в мире несколько групп исследователей занимаются разработкой подобной методики. Но у лондонцев есть одно важное преимущество: они изобрели тот самый мощный «световой прожектор» («light box»), который активирует магнитные частицы и позволяет селективно уничтожать раковые клетки, оставляя нетронутыми здоровые клетки.
+
+В группе имеется 15 постоянных исследователей и около 35 учёных, работающих над какой-то частной проблемой.
+<Node id="1715"/>http://www.ami-tass.ru/…e/35428.htmlNew<Node id="1754"/> cure using ‹nano robots› <Node id="1780"/>evolvedhttp://robotic-4-future.blogspot.com/…evolved.htmlLondon<Node id="1843"/> Centre for <Node id="1855"/>Nanotechnologyhttp://www.london-nano.com/…ory/quentin/Целый<Node id="1914"/> ряд исследовательских групп в мире используют аналогичную или несколько видоизменённую методику борьбы с раковыми клетками <Node id="2038"/>(http://www.nanonewsnet.ru/…otekhnologii<Node id="2078"/> // <Node id="2082"/>http://www.nanonewsnet.ru/…shok-ot-raka).<Node id="2123"/> В качестве «активных» <Node id="2146"/>наночастиц<Node id="2156"/> исползуются и магнитные частицы, и <Node id="2192"/>наночастицы<Node id="2203"/> золота<Node id="2210"/>, и <Node id="2214"/>наноалмазы<Node id="2224"/>. В качастве «активатора»: свет, в том числе от лазера, микроволновое излучение и т.п. Очевидно, что учёные широким фронтом ведут наступление на самую страшную болезнь человека – рак, и большую помощь в этом деле им могут оказать нанотехнологии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноалмаз" StartNode="2214" EndNode="2224">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="2146" EndNode="2156">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="747" EndNode="754">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица+золота" StartNode="2192" EndNode="2210">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1780" EndNode="1843">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2082" EndNode="2123">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="109" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2192" EndNode="2203">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2038" EndNode="2078">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="208" EndNode="218">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1715" EndNode="1754">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1273" EndNode="1288">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1855" EndNode="1914">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="536" EndNode="541">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии позволят очищать плазму крови в спортзалеДЕНВЕР, <Node id="64"/>22 июля<Node id="71"/> – Нанотехнологии в скором времени позволят любому желающему за относительно небольшую плату пройти процедуру очистки плазмы крови – плазмаферез, сообщил на переговорах со своими американскими коллегами глава ГК «Роснанотех» Леонид Меламед<Node id="310"/> <Node id="311"/>в ходе визита в США.
+
+Сейчас для очистки организма требуется несколько сеансов плазмафереза, стоимость одного такого сеанса в российских клиниках колеблется от 4 до <Node id="476"/>5 тысяч рублей<Node id="490"/>. Один сеанс длится порядка <Node id="518"/>двух часов<Node id="528"/>. Во время процедуры проводится коррекция метаболических расстройств, удаление с плазмой токсинов и шлаков.
+ 
+«Одно из направлений, традиционно связанных с мембранными технологиями – очистка плазмы крови. Например, у нас есть очень интересная заявка по каскадному плазмаферезу, которая позволяет сделать эту процедуру быстрой и значительно снизить ее стоимость», – сказал Меламед.
+ 
+По его словам, благодаря нанотехнологиям процедура плазмафереза может проводиться уже не в специализированном лечебном заведении, а, например, в спортзале или салоне красоты.
+ 
+«Раз в <Node id="1095"/>неделю<Node id="1101"/> в фитнес-зале <Node id="1116"/>сорок минут<Node id="1127"/> почитал книжку и очистил плазму крови», – сказал Меламед.
+ 
+Он отметил, что новая технология позволяет на <Node id="1234"/>30%<Node id="1237"/> снизить риск сердечно-сосудистых заболеваний, превратив эту процедуру из медицинской в профилактическую.
+ 
+«Может быть, в <Node id="1360"/>декабре<Node id="1367"/>, у вас будет возможность опробовать эту технологию», – сказал Меламед, приглашая своего коллегу – директора Бюро по координации национальной политики в области нанотехнологий США Клейтона Тига – на Международный форум по нанотехнологиям, который пройдет в Москве <Node id="1631"/>3–5 декабря 2008 года<Node id="1652"/>.
+ В <Node id="1657"/>настоящее время<Node id="1672"/> делегация ГК «Роснанотех» находится в Денвере (штат Колорадо), где проходит Международный Саммит по нанотехнологиям возобновляемых источников энергии.
+
+Ранее заместитель гендиректора «Роснанотеха» по международному сотрудничеству <Node id="1903"/>Александр Лосюков заявил, что «одна из наших задач – представить корпорацию нашим американским коллегам, обозначить направления конкретного сотрудничества и перспектив реализации совместных проектов<Node id="2101"/>».
+
+Саммит, который проходит в денверском Кейбл Центре завершится <Node id="2167"/>22 июля<Node id="2174"/> посещением Национальной лаборатории по возобновляемым источникам энергии (NREL).
+ В <Node id="2259"/>первый день<Node id="2270"/> работы саммита старший советник по финансам офиса эффективной энергетики и возобновляемой энергии министерства энергетики США Майкл Брюс (Senior Advisor for Finance, US Department of Energy's Office of Energy Efficiency and Renewable Energy (EERE) Michael Bruce) заявил, что «это очень важный сектор, как с точки зрения национальной безопасности, так и с точки зрения финансов и защиты окружающей среды». <Node id="2676"/>http://www.rian.ru/…4593958.htmlНанотехнологии<Node id="2722"/> на службе <Node id="2733"/>здоровьюhttp://www.nanonewsnet.ru/…hbe-zdorovyuhttp://www.nanonewsnet.ru<Node id="2805"/>/…proizvodstvoДа, вот абсолютно беспроигрышный ход: говорить с людьми о времени, кошельке и здоровье… И это – правильно! Чтобы привлечь деньги американских толстосумов, нужно вспомнить, что, как правило, эти ребята уже не очень молодые и не шибко здоровые. Опять же и – «время – деньги». А тут можно замутить ТАКОЙ бизнес: «Раз в <Node id="3135"/>неделю<Node id="3141"/> в фитнес-зале <Node id="3156"/>сорок минут<Node id="3167"/> почитал книжку и очистил плазму крови». Не нужно специально посещать этих «вампиров-врачей». И вся процедура превращается из медицинской в чисто профилактическую… Великолепно!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1234" EndNode="1237">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="1903" EndNode="2101">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2259" EndNode="2270">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1095" EndNode="1101">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1903" EndNode="2101">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="64" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="3156" EndNode="3167">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1631" EndNode="1652">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="518" EndNode="528">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2676" EndNode="2722">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="3135" EndNode="3141">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="2167" EndNode="2174">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1657" EndNode="1672">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="2733" EndNode="2805">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="310" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="476" EndNode="490">
+</Annotation>
+<Annotation Id="21" Type="сотрудники" StartNode="310" EndNode="311">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1116" EndNode="1127">
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="1360" EndNode="1367">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт тепломассообменных процессов в ядерно-энергетических установках лиофобные системы, <Node id="94"/>наноструктура<Node id="107"/>, ядерный реактор    <Node id="128"/>Наноматериалы<Node id="141"/> Теплофизика ядерных реакторов   Изучение теплообмена и устойчивости циркуляции при кипении щелочных металлов с модельных сборках в обоснование безопасности и самозащищенности реакторов на быстрых нейтронах изучение физических закономерностей процессов в лиофобных матричных нано- и микроструктурах обоснование температурных режимов работы активной зоны и узлов реакторов с жидкометаллическим охлаждением для номинальных, неноминальных и аварийных режимов проведение численного моделирования процессов гидродинамики и теплообмена в одно- и двухфазных потоках в каналах сложной формы, в лиофобных матричных нано- и микроструктурах разработка кодов теплогидравлического расчета процессов в активной зоне и проточных частях реакторов для однофазных и двухфазных потоков жидких металлов разработка научно-технических основ создания высокоэффективных устройств для энергетики на основе лиофобных капиллярно-пористых систем (аккумуляторов, демпферов, компенсаторов давления и т.д.) экспериментальное обоснование принципов теплогидравлического моделирования процессов естественной конвекции в контурах и камерах смешения ядерных реакторов                             А.В.Жуков, доктор наук А.П.Сорокин, доктор наук В.А.Ухов, кандидат наук Г.П.Богословская, кандидат наук <Node id="1405"/>Е.Н. Сердунь<Node id="1417"/>, кандидат наук Е.Ф.Иванов, кандидат наук Сорокин Александр Павлович, заведующий лабораторией, доктор наук Ю.А.Кузина, кандидат наук 
+Лаборатория моделирования теплогидравлических процессов в ЯЭУ с жидкометаллическими теплоносителями была создана в <Node id="1666"/>1956 году<Node id="1675"/> для проведения экспериментальных, теоретических и численных исследований гидродинамики и теплообмена в активных зонах и узлах ядерных установок различного назначения, охлаждаемых жидкими металлами. 
+За время существования получены обширные экспериментальные и практические результаты. В <Node id="1963"/>настоящее время<Node id="1978"/> Лаборатория обладает уникальной экспериментальной базой. Разработаны ригинальные экспериментальные методы и методики измерений, которые широко используются при работе с жидкими металлами. Например, программы теплогидравлического расчета заложены в основу обоснования работы и безопасности энергетических установок, охлаждаемых жидкими металлами 
+В Лаборатории получены обширные фундаментальные и прикладные результаты исследований теплогидравлики в жидкометаллических теплоносителях   Белоярский АЭС , Заречный Научно исследовательский и конструкторский институт энерготехники , Москва НИИ <Node id="2569"/>Атомных Реакторов<Node id="2586"/> , Димитровград ОКБ Машиностроения , Нижний Новгород Токийский Технологический Институт, Япония Центр Ядерных исследований Кадараш , Франция    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1666" EndNode="1675">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="94" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="1666" EndNode="1675">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1963" EndNode="1978">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2569" EndNode="2586">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Реакторов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1405" EndNode="1417">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Наноматериал" StartNode="128" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

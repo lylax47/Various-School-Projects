@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Не так давно стало известно, что неизвестный европейский заказчик купил нанотехнологическое оборудование производства завода AMD в Дрездене. Вчера источники, близкие к компании, рассказали о деталяхъ сделки, сообщает Fudzilla.
+
+Удивительно, но покупателем оказалось… <Node id="268"/>правительство<Node id="281"/> Росии. Уже приобретено оборудование на сумму от <Node id="330"/>$300<Node id="334"/> до <Node id="338"/>$500 млн.<Node id="347"/>, всего же будет потрачено <Node id="374"/>$5 млрд.<Node id="382"/> Такая сделка – часть инициативы российского <Node id="427"/>правительства<Node id="440"/> по исследованиям в области нанотехнологий и накопления ресурсов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="268" EndNode="281">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="427" EndNode="440">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="374" EndNode="382">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="338" EndNode="347">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="330" EndNode="334">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

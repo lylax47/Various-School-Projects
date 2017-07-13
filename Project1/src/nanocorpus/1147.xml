@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Научный центр волновых исследований при Институте Общей Физики РАН абляция твердых тел, лазерное излучение, <Node id="110"/>наночастицы<Node id="121"/>, пленки   <Node id="132"/>Наноматериалы<Node id="145"/> Физика твердого тела   Абляция прозрачных материалов лазерная абляция твердых тел в жидкостях <Node id="240"/>лазерное осаждение<Node id="258"/> пленок моделирование самоорганизующихся структур при лазерном воздействии на твердые тела образование <Node id="361"/>наночастиц<Node id="371"/> при лазерной абляции в жидкостях физические и химические модификации вещества под действием лазерного излучения в микронном и нанометровом масштабе                             А.В. Симакин  В.А. Бобырев , кандидат наук Г.А. Шафеев , Зав.лабораторией, доктор наук Н.А. Кириченко , доктор наук С.И. Долгаев , кандидат наук 
+ВАЖНЕЙШИЕ РЕЗУЛЬТАТЫ 
+ 
+  Детальное исследование лазерной активации диэлектриков для каталитического осаждения металлов  Установление основных механизмов лазерной абляции твердых тел в жидкостях  Реализация трехмерных периодических структур при лазерной абляции твердых тел  Реализация и исследование осаждения тонких пленок при лазерном облучении границы раздела твердое тело-жидкость  Обнаружение образования <Node id="1105"/>наночастиц<Node id="1115"/> при лазерной абляции твердых тел в жидкостях     вакуумное оборудование лазер на парах меди с прецизионным столом лазерный эллипсометр механический профилометр непрерывный Nd:YAG лазер оптический микроскоп   Космический Центр вакуумной эпитаксии , Хьюстон ,США Университет Париж-7, Франция Физический Институт РАН им. П.Н. Лебедева,    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="361" EndNode="371">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="лазерное+физическое+осаждение" StartNode="240" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="132" EndNode="145">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1105" EndNode="1115">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="110" EndNode="121">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

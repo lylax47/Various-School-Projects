@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Американский ученый изобрел новый способ печати<Node id="47"/>15 августа<Node id="57"/>, Минск – Ученый из Северо-Западного университета в американском штате Иллинойс Чад <Node id="141"/>А. Миркин<Node id="150"/> изобрел новый способ печати – <Node id="181"/>литографию<Node id="191"/> с помощью полимерного стержня, сообщают информагентства.
+Dr. Chad A. MirkinС помощью метода полимерной <Node id="295"/>литографии<Node id="305"/> можно писать в нано-, микро- и миллиметром масштабе, используя только одно устройство. Изменяя давление (величину деформации маркера), могут быть получены точки различных диаметров. Это – быстрый, недорогой и простой способ печати.
+
+Благодаря изобретению <Node id="561"/>Миркин<Node id="567"/> и <Node id="570"/>его<Node id="573"/> коллеги менее чем за 40 мин. напечатали 15 тыс.логотипов для летней Олимпиады-2008. В качестве чернил ученые использовали молекулы органической кислоты. Логотип настолько маленький, что 2,5 тыс. штук можно поместить на одном рисовом зерне.
+ Новый метод печати может быть использован в вычислительных инструментах, медицинской диагностике, фармацевтической промышленности, а также в других областях. <Node id="973"/>http://www.belta.by/…ews/cis_balt?…Polymer<Node id="1015"/> Pen <Node id="1020"/>Lithographyhttp://www.sciencemag.org/…ract/1162193?…Mirkin<Node id="1078"/> Research <Node id="1088"/>Grouphttp://chemgroups.northwestern.edu/mirkingroup/Dr.<Node id="1143"/> Mirkin is the Director of the International Institute for <Node id="1202"/>Nanotechnologyhttp://www.iinano.org<Node id="1237"/>/Да, как говорится, голь на выдумки хитра (в хорошем, разумеется, смысле). Причём данное изобретение, несмотря на его достоинства, является лишь малой частью его коллекции блистательных изобретений. И знакомство с ними и работами самого д-ра <Node id="1479"/>Миркина<Node id="1486"/> и членов его группы наверняка окажется полезным для коллег и последователей учёного…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="570" EndNode="573">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="973" EndNode="1015">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1020" EndNode="1078">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="141" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Миркин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Литография" StartNode="181" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1088" EndNode="1143">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="47" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1479" EndNode="1486">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Миркин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Литография" StartNode="295" EndNode="305">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="561" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Миркин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1202" EndNode="1237">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

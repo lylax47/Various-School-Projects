@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Уральские промышленники представят свои инновационные достижения на Международной ярмарке высоких технологий в КитаеВиктор Кокшаров
+ЕКАТЕРИНБУРГ, <Node id="146"/>9 сентября<Node id="156"/> – Промышленники Среднего Урала представят свои инновационные достижения на Международной ярмарке высоких технологий «CHTF-2008», которая пройдет <Node id="302"/>с 12 по 17 октября<Node id="320"/> в китайском городе Шеньчжэнь.
+
+Как сообщили сегодня ИТАР-ТАСС в министерстве внешнеэкономических связей Свердловской области, возглавит уральскую делегацию председатель областного правительства Виктор Кокшаров.
+ Основными темами нынешней ярмарки, которая проводится уже в десятый раз, станут информатика и телекоммуникации, энергетика и энергосбережение, материаловедение и нанотехнологии, ядерные реакторы и ядерный синтез. Свердловскую область на ярмарке будут представлять 11 предприятий. <Node id="813"/>http://www.itartass.ur.ru<Node id="838"/>/news/?…Ну, у уральцев есть что показать в любой из этих областей. Демонстрация достижений ведёт и к заключению новых экономических соглашений, и к получению новых заказов – а это выгодно всем нам. Успехов в работе!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="146" EndNode="156">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="813" EndNode="838">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="302" EndNode="320">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

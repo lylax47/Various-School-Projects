@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Эрик Дрекслер отрекся от серой слизи – одной из популярнейших нанострашилок. Сегодня <Node id="86"/>он<Node id="88"/> считает, что наномашины, обладающие способностью к саморепликации, вряд ли когда-нибудь получат широкое распространение<Node id="208"/>. 
+ 
+По его словам, высказывая свои предположения в 80е, он и представить не мог, какой народной любовью будут пользоваться орды нанороботов, ставшие частыми героями научной фантастики и популярных изданий. 
+ 
+В книге «Машины созидания» Дрекслер предложил гипотетический сценарий того, что произойдет, если самореплицирующиеся наномашины выйдут из-под контроля.  Теперь <Node id="578"/>он<Node id="580"/> объясняет - он всего лишь хотел показать, что нанотехнологии могут быть не только выгодными, но и опасными. Однако тогда Дрекслер почему-то не упомянул, что, согласно современным физическим  представлениям, такое развитие событий невозможно. 
+ 
+Полный текст заметки на сайте BBC News. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="86" EndNode="208">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="86" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="578" EndNode="580">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="86" EndNode="208">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

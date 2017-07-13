@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Этанол получил широкую популярность в наши <Node id="44"/>дни<Node id="47"/>. И несмотря на то, что мы употребляем его уже очень <Node id="100"/>много лет<Node id="109"/>, недавний интерес к нему был вызван применением его в качестве возобновляемого топлива, альтернативного бензину. Использование биомасс для проиводства топлива на основе этанола порождает бурные разногласия, связанные с экономическими и экологическими преимуществами данного метода. Кажется, что <Node id="405"/>углеродные <Node id="416"/>нанотрубки<Node id="426"/> могли бы помочь в решении этой проблемы. 
+ 
+<Node id="471"/>Углеродные <Node id="482"/>нанотрубки<Node id="492"/> (УНТ) широко известны как перспективные и многообещающие материалы для катализа: в качестве непосредственно катализаторов, каталитических добавок или носителей. Исследователи из Китая (Dalian Institute of Chemical Physics, Chinese Academy of Sciences) совсем недавно применили <Node id="770"/>углеродные <Node id="781"/>нанотрубки<Node id="791"/>, внутри которых были добавлены <Node id="823"/>наночастицы<Node id="834"/> родия (Rh), как реактор для превращения газовой смеси монооксида углерода и водорода в этанол. Это первый пример, когда активность и селективность газофазной метал-катализируемой реакции существенно повышаются в результате проведения ее в таком реакционном сосуде, как <Node id="1104"/>нанотрубки<Node id="1114"/>. 
+ 
+По мнению исследователей, наблюдаемый эффект объясняется уникальным распределением электроной плотности внутри <Node id="1230"/>нанотрубок<Node id="1240"/>. Когда углеродный лист сворачивается в трубку, образуются деформации, которые "выталкивают" большую часть электронов наружу <Node id="1365"/>нанотрубки<Node id="1375"/>. Такое распределение электронов позволяет катализатору более эффективно расщеплять связи между молекулами углерода и кислорода. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="44" EndNode="47">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="482" EndNode="492">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="100" EndNode="109">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="823" EndNode="834">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="770" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1365" EndNode="1375">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="416" EndNode="426">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1104" EndNode="1114">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="781" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="405" EndNode="426">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1230" EndNode="1240">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="471" EndNode="492">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

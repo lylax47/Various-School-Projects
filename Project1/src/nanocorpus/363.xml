@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В номере: 
+ 
+- Интервью с директором Института физической химии и электрохимии им. А.Н. Фрумкина РАН, академиком А.Ю.Цивадзе о развитии нанотехнологий в России и проблемах образования
+ 
+- <Node id="190"/>Весна<Node id="195"/> нанотехнологического образования ("круглый стол" на конференции NANO2007)
+ 
+- Ломоносов-2007
+ 
+- <Node id="293"/>Нанотрубки<Node id="303"/> и фуллерено-подобные частицы дисульфидов вольфрама и молибдена
+ 
+- Факультет наук о материалах покоряет небо
+    
+ 
+            
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="293" EndNode="303">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="190" EndNode="195">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

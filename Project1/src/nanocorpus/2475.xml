@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сегодня в Экспоцентре на Красной Пресне открылся Первый Международный Форум по нанотехнологиям. Организатором Форума выступила Российская корпорация нанотехнологий (РОСНАНО)На Форуме выступят заместитель Председателя Правительства РФ Сергей Иванов<Node id="247"/>,<Node id="248"/> Министр образования и науки РФ Андрей Фурсенко, Министр экономического развития РФ Эльвира Набиуллина, Генеральный Директор РОСНАНО Анатолий Чубайс<Node id="396"/>,<Node id="397"/> Директор ФГУ РНЦ «Курчатовский институт» Михаил Ковальчук, лауреат Нобелевской премии, вице-президент РАН, академик <Node id="514"/>Жорес<Node id="519"/> <Node id="520"/>Алферов<Node id="527"/>, Исполнительный директор Института лазеров, фотоники и биофотоники Парас Прасад (США).
+
+В работе Форума, который продлится до <Node id="654"/>5 декабря 2008 г.<Node id="671"/>, примут участие более 3 000 человек из 33 стран мира. Среди них – ученые, бизнесмены и представители органов государственной власти.
+Международный Форум по нанотехнологиям – один из первых шагов по созданию в России глобальной площадки, где представители науки и бизнеса смогут обсуждать практические вопросы развития нанотехнологий, являющихся одним из ведущих направлений перевода экономики страны на инновационный путь развития.
+ В деловой части Форума обсуждается широкий круг тем: от зарубежного опыта по формированию национальных инновационных систем до мер, призванных стимулировать развитие финансовой, производственно-технологической, информационной и образовательной инфраструктуры, поддержки фундаментальной науки, совершенствования нормативно-правовой базы. Отдельное внимание уделяется перспективам применения нанотехнологий в различных отраслях экономики: от электроники, медицины и биотехнологий до машиностроения, нефтегазовой и химической промышленности, а также региональным программам их развития в России.
+ Научно-технологическая программа Форума включает 29 заседаний научно-технологических секций, на которых будет сделано 263 доклада и презентации. Секции охватывают 18 основных направлений развития нанотехнологий и создания <Node id="1921"/>наноматериалов<Node id="1935"/>. 
+В рамках Форума представлено свыше 300 проектов молодых российских ученых в наносфере. Авторы 50 лучших работ станут лауреатами премии для молодых исследователей, которую планируется вручать ежегодно.
+ Одновременно с Форумом на территории Экспоцентра работает выставка, на которой демонстрируются передовые разработки в области нанотехнологий. В экспозиции будут представлены проекты 80 фирм и организаций из России, Австрии, Германии, Латвии, США, Финляндии. Видеотрансляцию с Форума можно посмотреть <Node id="2440"/>здесь:http://www.rusnanoforum.ru/cgi-bin/show.pl?…http://rusnano.com<Node id="2508"/>/…ication.aspx?…Ну, как говорится, праздник начался… А новости и развитие событий можно будет либо по радио и ТВ, либо с помощью видео трансляции здесь… Либо уж (при возможности) самому посетить выставку. Она работает для посетителей – сегодня – с 14–00 по 18–30, завтра – с 10–00 по 18–30 и 5-го числа: с 10–00 по 17–00. Поздравляем с открытием Форума и желаем новых успехов и свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="654" EndNode="671">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="1921" EndNode="1935">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="247" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="396" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="520" EndNode="527">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="сотрудники" StartNode="396" EndNode="397">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2440" EndNode="2508">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="514" EndNode="519">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="сотрудники" StartNode="247" EndNode="248">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

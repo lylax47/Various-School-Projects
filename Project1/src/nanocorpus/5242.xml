@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Наночастицы<Node id="11"/> могут накапливаться в растенияхСогласно результатам исследований, опубликованных в журнале Journal of Environmental Monitoring, <Node id="140"/>наночастицы<Node id="151"/> магнетита могут накапливаться в тканях некоторых растений. Накопившиеся в выращенных на влажной почве тыквах частицы попадут в пищевую цепочку, переходя к другим организмам, и условия такого накопления нуждаются в дополнительном изучении.
+Порошок из гранул магнетита размером меньше десяти нанометров (нанометр – миллионная доля миллиметра) попадал из водного субстрата в ткани выращиваемых исследователями тыкв. При этом мексиканские бобы или выращенные на другом грунте тыквы были менее подвержены эффекту.
+
+Магнетит легко обнаруживался магнитометром в высушенных при помощи вакуумной камеры частях растений. Как утверждает один из авторов исследования, <Node id="808"/>Джон Сяо<Node id="816"/> (John Xiao), этот высокоточный метод позволит продолжить исследования в этой области и дальше.
+
+Также в университетской газете UDaily он говорит, что пока рано поднимать тревогу по поводу полученных результатов.
+ 
+«Мы рассмотрели самый худший случай для того, чтобы проверить саму методику», – сообщается в статье.
+  Тем не менее, вопрос о токсичности или ином негативном эффекте <Node id="1197"/>наночастиц<Node id="1207"/> весьма актуален, и потому изучение их круговорота в природе представляет значительный интерес. <Node id="1303"/>http://www.lenta.ru/…/11/12/nano/UD<Node id="1338"/> researchers show that plants can accumulate nanoparticles in <Node id="1400"/>tissueshttp://www.udel.edu/…s111108.htmlПроблема<Node id="1448"/> токсичности <Node id="1461"/>наночастиц<Node id="1471"/>, возможности их попадания во внешнюю среду и передачи по пищевой цепочке – всё это важные и весьма актуальные вопросы, связанные с широким использованием <Node id="1626"/>наночастиц<Node id="1636"/> и других нанопродуктов в <Node id="1662"/>настоящее время<Node id="1677"/> и в предстоящий период. Поэтому исследования этих исследователей имеют действительно важное значение… Наверняка и нашим исследователям следовало бы проводить такого рода исследования…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1400" EndNode="1448">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1197" EndNode="1207">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="808" EndNode="816">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1303" EndNode="1338">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1461" EndNode="1471">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="140" EndNode="151">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1662" EndNode="1677">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1626" EndNode="1636">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

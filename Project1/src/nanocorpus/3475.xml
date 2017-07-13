@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Ученые из Великобритании создали новый класс пористых металлоорганических каркасных структур [metal-organic framework (MOF)] с гибкими лигандами. 
+ 
+ Металлоорганические каркасные структуры состоят из металлов, связанных с помощью полидентатных лигандов. Пористая структура таких материалов удобна для решения многих практических задач, например для улавливания и хранения таких газов как водород или углекислый газ. Как правило, металлоорганические каркасные структуры синтезируют, используя жесткие лигандные системы, однако <Node id="528"/>Ли Брэммер<Node id="538"/> (Lee Brammer) из Университета Шеффилда использовал для получения цинксодержащих координационных полимеров конформационно гибкие тетракарбоксилатные лиганды. Гибкость лигандов позволяет новому материалу обратимо менять форму при поглощении или при испускании диоксида углерода. 
+ 
+ Брэммер отмечает, что металлоорганические каркасные структуры обладают огромным потенциалом во многих практически полезных областях: хранение молекул, сенсорная техника, отделение веществ друг от друга и катализ. Он добавляет, что разработанная в его группе стратегия может оказаться особенно удачной для хранения газов, так как гибкость структуры может обеспечить дополнительное связывание пойманных молекул. 
+ 
+ Стюарт Джеймс (Stuart James), специалист по химии металлоорганических каркасных структур из Королевского Университета Белфаста высоко оценивает работу Бреммера. <Node id="1395"/>Он<Node id="1397"/> отмечает: «Эта работа вносит новое понимание в реакционную способность таких материалов. Несмотря на то, что особенности конформационной подвижности металлоорганических каркасных структур еще не выяснены до конца, уже заметно, что изменение топологии материала в процессе сорбции газа существенно влияет на поглощение CO2<Node id="1719"/>». 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1395" EndNode="1719">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="528" EndNode="538">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1395" EndNode="1397">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1395" EndNode="1719">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

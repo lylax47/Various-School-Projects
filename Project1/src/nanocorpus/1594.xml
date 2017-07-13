@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>6 июня<Node id="7"/> пройдут съемки теледебатов на канале "Столица" по теме "Нанотехнологии - факты и мифы".Основные темы для обсуждения: 
+   Что такое нанотехнологии?   Где применяются нанотехнологии?   Что такое наномедицина?   Роль нанотехнологий в развитии человечества.   Нанотехнологии в образовании.   Мифы и заблуждения вокруг нанотехнологий.   
+Приглашаем всех интересующихся нанотехнологиями и наномедициной к участию в съемках. Для отбора участников необходимо прислать резюме с указанием интересующих вопросов по электронному адресу: <Node id="533"/>tv@nano-medicine.ru<Node id="552"/> .
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="533" EndNode="552">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

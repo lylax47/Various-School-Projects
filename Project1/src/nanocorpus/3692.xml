@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На базе Саратовского госуниверситета откроется международный исследовательский центрНа базе Саратовского госуниверситета откроется международный исследовательский центр, сообщили корреспонденту ИА REGNUM-ВолгаИнформ в службе новостей СГУ. <Node id="239"/>24 июня<Node id="246"/>, завершился визит турецкой делегации в Саратовский государственный университет.В рамках визита был подписан протокол о создании совместного научно-исследовательского центра в области нанотехнологий на базе Саратовского университета. Турецкие гости выступили с предложением проводить совместные исследования, медицинские операции.
+
+Ректор <Node id="585"/>СГУ Леонид Юрьевич<Node id="603"/> <Node id="604"/>Коссович<Node id="612"/> подчеркнул, что сотрудничество двух университетов уже дает хорошие результаты. Он поддержал предложение делегатов Анкарского университета о создании на базе турецкого вуза центра изучения российской культуры и истории, в котором будут осуществляться совместные проекты по культурологии, праву, общественным наукам.
+<Node id="928"/>www.regnum.ru/…1019386.htmlНу<Node id="957"/> что же, для Саратовского госуниверситета – это большое достижение. То же, наверное, и для турецкой стороны. Будем надеяться, что совместное сотрудничество в данной области принесёт хорошие плоды. И пожелаем им новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="604" EndNode="612">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Коссович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="928" EndNode="957">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="239" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="585" EndNode="603">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Юрьевич</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Леонид</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

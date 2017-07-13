@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Предпринимателям, производящим продукцию, полученную с использованием нанотехнологий, рекомендовано информировать потребителей о том, что их товар содержит <Node id="157"/>наноматериалы<Node id="170"/> и гарантировать безопасность продукта для человека.
+
+Соответствующее постановление подписал главный государственный врач Иркутской области Петр Кауров.
+
+Ученые считают перспективным использование нанотехнологий в различных отраслях деятельности — промышленности, сельском хозяйстве, медицине. При этом вопрос о безопасности применения таких материалов пока находится на стадии изучения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="157" EndNode="170">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

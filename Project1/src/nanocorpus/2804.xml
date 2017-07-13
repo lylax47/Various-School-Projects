@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Несколько групп исследователей в США занимаются разработкой имплантируемого биочипа, который будет способен диагностировать состояние раненого солдата и управлять подачей медикаментов в реальном масштабе времени. Выживаемость раненых непосредственно на поле боя часто зависит от возможности оказать им помощь в <Node id="312"/>первые 30 минут<Node id="327"/> после ранения. Первая помощь раненым солдатам, оказанная до прибытия медика может существенно повысить их шансы на выживание.
+
+Больших успехов в этом направлении добился тандем ученых- <Node id="513"/>Евгений Кац<Node id="524"/> (Evgeny Katz) из Clarkson University (город Потсдам штат Нью Йорк) и Джозеф Ванг (Joseph Wang) из University of California (<Node id="649"/>Сан Диего<Node id="658"/>, Калифорния), которые получили грант от Офиса Военно-морских исследований США (US Office of Naval Research) в сумме <Node id="775"/>1 млн 600 тыс долларов<Node id="797"/> сроком на <Node id="808"/>четыре года<Node id="819"/>. <Node id="821"/>Грант<Node id="826"/> выделен на исследования и создание высокотехнологичного миниатюрного полевого госпиталя.
+Разрабытываемая компактная управляющая система должна непрерывно отслеживать состав крови, продуктов слезотечения и потовые выделения солдата. Результаты измерений будут поступать на сравнение с биомаркерами для данного индивидуума. При серьезных изменениях химического состава исследуемых жидкостей, которые сигнализируют о типовых боевых ранениях (например, травма, шок, повреждение или контузия мозга), автоматическое устройство должно управлять подачей соответствующего медикамента.
+<Node id="1403"/>Евгений Кац<Node id="1414"/>, один их двух ведущих исследователей в проекте, будет руководить группой ученых, занятых разработкой ферментов (ферме́нты или энзи́мы – белковые молекулы или их комплексы, ускоряющие химические реакции в живых системах), ответственных за измерения биомаркеров и предоставление логики определения и фильтрации ограниченного набора диагнозов, построенных на нескольких биологических переменных параметрах. По словам руководителя программы, ученые уже разработали биоэлектроды и ячейки биотоплива (для преобразования энергии химических реакций в электрическую энергию), которые реагируют на множественные биохимические сигналы достаточно системно и логично. Ученые предполагают, что в будущем можно будет ожидать подобные имплантируемые устройства, контролируемые физиологическими сигналами, что позволит реагировать на различные потребности организма, в частности, человеческого организма.
+
+Джозеф Ванг, который <Node id="2325"/>является<Node id="2333"/> лидером проекта, будет руководить группой нанотехнологии в Университете Калифорнии, <Node id="2418"/>Сан Диего<Node id="2427"/>. Задачей этой группы является разработка имплантируемой системы с минимально возможным объемом внедрения в тело военнослужащего. При этом, система должна отрабатывать информацию от биомаркеров, ставить диагноз и начинать управление соответствующими медицинскими препаратами.
+Разработчики надеются, что результирующая чувствительная система с ферментной логикой диагностики сможет революционизировать мониторинг и лечение раненых солдат и приведет к исключительному повышению их выживаемоcти.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="2325" EndNode="2333">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">лидер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="649" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="2325" EndNode="2333">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="312" EndNode="327">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="2418" EndNode="2427">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1403" EndNode="1414">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Евгений</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="821" EndNode="826">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Грант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="808" EndNode="819">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="513" EndNode="524">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Евгений</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Деньги" StartNode="775" EndNode="797">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

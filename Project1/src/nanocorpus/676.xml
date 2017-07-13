@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Интернет-олимпиада по нанотехнологиям закономерно слилась с другим важнейшим апрельским событием, ежегодно привлекающим лучших студентов и молодых ученых не только Российской федерации, но и СНГ, а также зарубежных стран - форумом "Ломоносов". 
+Форум «Ломоносов» является научным феноменом, проводимым ежегодно <Node id="312"/>с 1994 года<Node id="323"/> Студенческим Союзом МГУ имени М. В. Ломоносова. Основным событием форума является Международная научная конференция студентов, аспирантов и молодых ученых «Ломоносов», которая пройдет в <Node id="510"/>2008 г.<Node id="517"/> <Node id="518"/>с 7 по 11 апреля<Node id="534"/> в Московском государственном университете имени М.В. Ломоносова. Основная цель конференции «Ломоносов» — развитие творческой активности студентов, аспирантов и молодых ученых, привлечение их к решению актуальных задач современной науки, сохранение и развитие единого научно-образовательного пространства, установление контактов между будущими коллегами. В <Node id="891"/>2008 году<Node id="900"/> работа конференции будет проходить по 28 секциям и более чем 200 подсекциям, отражающим основные направления современной науки. Экспертные советы секций возглавляют ведущие ученые МГУ имени М.В. Ломоносова и РАН. 
+ Для участия в Форуме и Олимпиаде приглашены студенты, аспиранты, молодые ученые российских и зарубежных университетов и институтов.  Наш сайт будет следить за развитием событий и даст информацию о наиболее интересных работах Форума.  
+Дополнительно напоминаем о графике проведения туров Олимпиады:
+   до <Node id="1420"/>5 апреля<Node id="1428"/> - утверждение регистрационных форм школьников   с <Node id="1479"/>6 апреля<Node id="1487"/> - открытие задач школьного тура на всеобщее обозрение (задачи будут находится на сайте всегда)   прием решений только зарегистрированных участников Олимпиады - с <Node id="1650"/>7 апреля<Node id="1658"/> (участники должны подготовить решения в одном из общедоступных тестовых редакторов или в виде PDF файлов, графических изображений, сканов, фотографий)   окончание регистрации "взрослых" (студентов, аспирантов, участников форума "Ломоносов" и т.д.) - <Node id="1909"/>11 апреля<Node id="1918"/>   с <Node id="1923"/>12 апреля<Node id="1932"/> - открытие задач "взрослого тура" на обозрение всем пользователям Интернета (и эти задачи тоже так и останутся на сайте)   <Node id="2056"/>13 апреля<Node id="2065"/> - завершение приема решений "школьного тура", начало приема решений от "взрослых"   <Node id="2150"/>22 апреля<Node id="2159"/> - окончание приема решений от "взрослых", включая участников форума "Ломоносов"   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="891" EndNode="900">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1479" EndNode="1487">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1650" EndNode="1658">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="891" EndNode="900">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="510" EndNode="517">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1909" EndNode="1918">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1923" EndNode="1932">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1420" EndNode="1428">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="518" EndNode="534">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="312" EndNode="323">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="2056" EndNode="2065">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="2150" EndNode="2159">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

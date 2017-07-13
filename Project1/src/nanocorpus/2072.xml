@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>23 июня<Node id="8"/>, Санкт-Петербург, – Делегация ГК «Роснанотех» во главе с генеральным директором Леонидом Меламедом приняла участие в научном форуме «Наука и общество», проходящем в <Node id="174"/>эти дни<Node id="181"/> в Санкт-Петербурге.
+
+В <Node id="205"/>этом году<Node id="214"/> форум посвящен теме «Нанотехнологии: исследования и образование».
+
+Выступая на форуме с приветственным словом, <Node id="326"/>Леонид Меламед подчеркнул, что реализация разработок, создаваемых учеными, должна изменить окружающий нас мир к лучшему<Node id="445"/>.
+- У людей складываются очень высокие ожидания относительно инноваций и высоких технологий. Мы не имеем права эти ожидания обмануть, – сказал генеральный директор ГК «Роснанотех».
+
+Завершая свое выступление, Леонид Меламед пригласил ученых к участию в Международном форуме по нанотехнологиям, который пройдет <Node id="755"/>с 3 по 5 декабря 2008 г.<Node id="779"/> в выставочном комплексе «Экспоцентр», отметив, что комитет по подготовке научных программ форума возглавляет вице-президент РАН <Node id="908"/>Жорес Иванович Алферов<Node id="930"/>.
+
+Государственная корпорация «Российская корпорация нанотехнологий» (ГК «Роснанотех») учреждена федеральным законом №139-ФЗ <Node id="1055"/>19 июля 2007 года<Node id="1072"/> для «реализации государственной политики в сфере нанотехнологий, развития инновационной инфраструктуры в сфере нанотехнологий, реализации проектов создания перспективных нанотехнологий и наноиндустрии».
+
+Корпорация решает эту задачу, выступая соинвестором в нанотехнологических проектах со значительным экономическим или социальным потенциалом. Финансовое участие корпорации на ранних стадиях проектов снижает риски ее партнеров – частных инвесторов.
+
+Корпорация участвует в создании объектов нанотехнологической инфраструктуры, таких как центры коллективного пользования, бизнес – инкубаторы и фонды раннего инвестирования. ГК «Роснанотех» выбирает приоритетные направления инвестирования на основе долгосрочных прогнозов развития (форсайт), к разработке которых привлекаются ведущие российские и мировые эксперты.
+
+В <Node id="1892"/>2007 году<Node id="1901"/> на деятельность корпорации Правительством Российской Федерации выделено <Node id="1974"/>130 млрд. рублей<Node id="1990"/>. Генеральный директор ГК «Роснанотех» – Леонид Борисович Меламед.
+ГК «Роснанотех»</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1892" EndNode="1901">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="205" EndNode="214">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="326" EndNode="445">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1974" EndNode="1990">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1892" EndNode="1901">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1055" EndNode="1072">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="174" EndNode="181">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="908" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="755" EndNode="779">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="326" EndNode="445">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

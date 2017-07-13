@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Вышел в свет очередной, пятый номер дайджеста российской и зарубежной прессыГлавным информационным поводом <Node id="107"/>сентября<Node id="115"/> стали кадровые перестановки в руководстве Российской корпорации нанотехнологий.
+ «Воспринимаю свое назначение как новый масштабный и интересный вызов, который прямо связан с исторической задачей перевода России на инновационный путь развития. Мне близки и понятны миссия и главная цель корпорации — завоевание Россией лидирующих позиций на мировом рынке нанотехнологической продукции» – так прокомментировал свое назначение на пост генерального директора РОСНАНО Анатолий Чубайс.
+  Вторым важнейшим событием <Node id="624"/>месяца<Node id="630"/>, не прошедшим мимо внимания СМИ, стало утверждение правлением Российской корпорации нанотехнологий очередного инвестиционного проекта – создание предприятия по производству металлорежущего инструмента с наноструктурированным покрытием. Объем <Node id="873"/>инвестиций<Node id="883"/> в проект составит <Node id="902"/>1 млрд рублей<Node id="915"/>, из которых 500 млн выделит РОСНАНО, 250 млн – Гапромбанк и столько же – НПО «Сатурн». С о д е р ж а н и е
+ЦИТАТЫ <Node id="1030"/>МЕСЯЦА<Node id="1036"/> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+
+<Node id="1105"/>ТЕМЫ<Node id="1109"/> В ФОКУСЕ . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . 4
+
+НАУКА . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+
+БИЗНЕС . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+
+ОБЩЕСТВО . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32
+
+КАЛЕНДАРЬ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+ Более подробно с дайджестом российской и зарубежной прессы можно ознакомиться здесь: <Node id="1628"/>http://www.rusnanotekh.ru/…ownload.aspx?…http://www.nanometer.ru/…o_54017.htmlНу<Node id="1708"/> что ж пересказывать? Самим читать нужно… Могу только сказать, что помещены данные и сведения в основном за <Node id="1816"/>прошедший месяц<Node id="1831"/>. Однако некоторые сведения/цитаты (к примеру, о назначении нового руководителя РОСНАНО) составители сумели вставить, очевидно, в последний момент… В целом – интересно.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1105" EndNode="1109">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тема</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Инвестиции" StartNode="873" EndNode="883">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="107" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1628" EndNode="1708">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1816" EndNode="1831">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1030" EndNode="1036">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="902" EndNode="915">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="624" EndNode="630">
+</Annotation>
+<Annotation Id="8" Type="Инвестиции" StartNode="873" EndNode="883">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

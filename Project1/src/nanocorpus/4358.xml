@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Учёные создали молекулу-гигантаГруппе ученых под руководством профессора <Node id="73"/>Улриха<Node id="79"/> Кортца из университета Джейкобса удалось синтезировать молекулу полиоксометалата, содержащую 100 атомов вольфрама и 20 атомов церия.
+Ее молекулярная масса составляет приблизительно 30 килодальтон, а максимальный диаметр этой неорганической молекулы равен 4,2 нм, что сравнимо с размерами крупных биомолекул и даже небольших вирусов.
+
+Полиоксометалаты представляют собой анионные металл-кислородные кластеры, которые широко используются в качестве катализаторов и применяются в нанотехнологиях.
+
+Новая молекула, по оценкам ученых, имеет такой же высокий каталитический потенциал, как и у биологических катализаторов, но в отличие от них менее чувствительна к изменению температуры и воздействию окислителей.
+<Node id="787"/>http://newsinfo.ru/…s1366737.php?…Оп-па.<Node id="827"/> Как всё просто, взяли – и синетзировали? Давай подробности!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="787" EndNode="827">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="73" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Улрих</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

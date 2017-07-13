@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Евросоюз организовал общественную дискуссию о перспективах использования нанотехнологийЛЮКСЕМБУРГ, <Node id="99"/>17 июня<Node id="106"/> – Евросоюз организовал общественную дискуссию о перспективах использования нанотехнологий. Решение об этом приняла сегодня Европейская комиссия. О важности, которая предается этому обсуждению, свидетельствует тот факт, что его будут курировать сразу три еврокомиссара: по вопросам промышленности и предпринимательства Гюнтер Ферхойген, по охране окружающей среды – Ставрос Димас и по вопросам здравоохранения Андрулла Вассилиу. <Node id="535"/>Еврокомиссия<Node id="547"/> призывает к участию в этом открытом обсуждении всех граждан 27 стран ЕС. По оценкам <Node id="632"/>Еврокомиссии<Node id="644"/>, объем мирового рынка товаров, созданных с использованием нанотехнологий, к <Node id="721"/>2015 году<Node id="730"/> может достигнуть 2 трлн евро и в этой сфере будут заняты до 10 млн человек.
+ Необходимость такого обсуждения <Node id="840"/>Еврокомиссия<Node id="852"/> объясняет быстрым ростом исследований в этой сфере и все большим количеством нанопродукции, попадающей на потребительский рынок. В этой связи <Node id="995"/>Еврокомиссия<Node id="1007"/> намерена сформировать необходимое законодательство для регулирования процесса исследований, создания технологий, их коммерциализации, создания конечных товаров и защиты прав потребителей. <Node id="1196"/>http://www.ami-tass.ru/…e/37202.htmlEU<Node id="1234"/> to Pace <Node id="1243"/>Nanotechnologyhttp://online.wsj.com/…2027389.html?…Засуетились<Node id="1305"/> и в Европе. И действительно: все большее количество нанопродукции попадает на потребительский рынок. И нет никаких берегов для этой полноводной реки. Законодатели уже не успевают поставить такие ограничения. В этой связи <Node id="1527"/>Еврокомиссия<Node id="1539"/> намерена сформировать необходимое законодательство для регулирования процесса исследований, создания технологий, их коммерциализации, создания конечных товаров и защиты прав потребителей. Для этого они и затеяли эту общественную дискуссию. Ну что ж, как говорится, карты им в руки…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="721" EndNode="730">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1527" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Еврокомиссии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="840" EndNode="852">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Еврокомиссии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="632" EndNode="644">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Еврокомиссии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="99" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1243" EndNode="1305">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1196" EndNode="1234">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="535" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Еврокомиссии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Властная_Структура" StartNode="995" EndNode="1007">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Еврокомиссии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="721" EndNode="730">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Южный Федеральный университет <Node id="32"/>Наноразмерная структура<Node id="55"/> вещества, XANES, EELS   <Node id="80"/>Наноматериалы<Node id="93"/>   спектральные методы анализа <Node id="124"/>наноразмерной структуры<Node id="147"/> вещества                             Евсюкова М. А., аспирант Кравцова А. Н., ст. преподаватель, кандидат наук Мазалова В. Л., научный сотрудник Положенцев О. Е., аспирант Смоленцев Г. Ю., научный сотрудник, кандидат наук Солдатов А. В., Директор научно-образовательного центра, профессор, доктор наук Сухарина Г. Б., аспирант <Node id="475"/>Файн М. Б.<Node id="485"/>, ассистент Штехин И. Е., доцент, доцент, кандидат наук <Node id="541"/>Яловега Г. Э.<Node id="554"/>, доцент, доцент, кандидат наук 
+Основной целью исследований является определение трехмерной атомарной локальной наноразмерной геометрии и электронной структуры в различных типах новых перспективных материалов с пространственным разрешением на субатомном уровне (в том числе определение межатомных расстояний с точносттью до 0.02 ангстрем и определение углов связи с точностью до нескольких градусов). 
+ 
+Разрабатываемый метод основан на новом методе анализа тонкой структуры экспериментальных спектров высокого разрешения: рентгеновского поглощения (международный термин XANES) и потерь энергии электронов ( международный термин EELS). 
+ 
+Наиболее важными объектами для исследования разрабатываемым методом являются материалы в наноразмерном состоянии: <Node id="1308"/>нанокластеры<Node id="1320"/>, <Node id="1322"/>нанотрубки<Node id="1332"/>, и др. а также дефекты и примеси в твердых телах, активные центры в белках, металлические комплексы, катализаторы. 
+      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="541" EndNode="554">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1322" EndNode="1332">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="80" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="124" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="32" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="475" EndNode="485">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">аспирант</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Нанокластер" StartNode="1308" EndNode="1320">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

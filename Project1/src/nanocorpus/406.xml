@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как известно, <Node id="15"/>углеродные <Node id="26"/>нанотрубки<Node id="36"/> – идеальные кандидаты для использовании в наноэлектронике, в частности, в составе нанотранзисторов. Однако из-за множества пространственных неточностей, связанных с их расположением на чипе, о массовом производстве нанотранзисторов нет речи – всегда есть возможность того, что <Node id="314"/>нанотрубки<Node id="324"/> будут пересекаться или запутываться.
+
+Как сообщает PhysOrg, на <Node id="388"/>этой неделе<Node id="399"/> на конференции Design Automation Conference в Сан <Node id="450"/>Диего<Node id="455"/>, группа инженеров из Стэнфорда предложила алгоритм разработки чипов с содержанием <Node id="538"/>нанотрубок<Node id="548"/>, который должен упростить процесс производства нанотранзисторов и обеспечить их надежность.
+
+Как говорит Субхашиш Митра (Subhasish Mitra), и <Node id="690"/>его<Node id="693"/> коллеги из Университета Южной Калифорнии (University of Southern California), новый алгоритм позволит учесть факт расположения <Node id="821"/>нанотрубок<Node id="831"/> на чипе.
+
+То есть, алгоритм вычисляет, насколько будет зависеть работа устройства от отклонения в расположении <Node id="943"/>нанотрубок<Node id="953"/>. Далее, вычисляются «запрещенные» области, в которым <Node id="1007"/>нанотрубкам<Node id="1018"/> не место, и именно эти регионы вытравливаются, что обеспечивает работу устройства в целом.
+
+В разрешенных же регионах <Node id="1137"/>нанотрубки<Node id="1147"/> должны быть по определению, поэтому после нанесения <Node id="1200"/>нанотрубок<Node id="1210"/> на производственную сетку дело остается за правильным <Node id="1265"/>травлением<Node id="1275"/> или фотолитографией.
+
+Также ученые пошли дальше – алгоритм может проанализировать расположение <Node id="1371"/>нанотрубок<Node id="1381"/> и выдать наиболее «оптимальные» варианты расположения разрешенных и запрещенных участков, которые сформируют готовое устройство.
+
+Пока ученые опробовали свой метод на проектировании простой NAND-ячейки. <Node id="1585"/>Как говорит Митра, потенциал <Node id="1614"/>углеродных <Node id="1625"/>наноматериалов<Node id="1639"/> в электронике еще не раскрыт, и с помощью нового алгоритма удастся создать много новых полупроводниковых устройств<Node id="1754"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1585" EndNode="1754">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Углеродный+наноматериал" StartNode="1614" EndNode="1639">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="388" EndNode="399">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1200" EndNode="1210">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="821" EndNode="831">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="943" EndNode="953">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1137" EndNode="1147">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1007" EndNode="1018">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="15" EndNode="36">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="538" EndNode="548">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1585" EndNode="1754">
+</Annotation>
+<Annotation Id="16" Type="Травление" StartNode="1265" EndNode="1275">
+</Annotation>
+<Annotation Id="19" Type="Наноматериал" StartNode="1625" EndNode="1639">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="314" EndNode="324">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="690" EndNode="693">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="450" EndNode="455">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="26" EndNode="36">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="1371" EndNode="1381">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Институт химии твердого тела УрО РАН и факультет строительного материаловедения УГТУ-УПИ совместно с Университетами Германии проводит школу по физике и химии <Node id="160"/>наноструктурированных материалов<Node id="192"/>. Для участия в школе приглашаются студенты старших курсов и молодые ученые без степени.
+ 
+Для включения в число слушателей школы необходимо пройти конкурс заявок. В заявках необходимо сообщить о себе следующую информацию: 
+  фамилия имя отчество, 
+ место жительства, 
+ контактный e-mail адрес, 
+ место учебы или место работы и высшее учебное заведение, которое оканчивали, 
+ средний балл по всем предметам, а также оценки по физике, химии, английскому или немецкому языку. 
+  
+Эту информацию надо представить на двух языках, на русском и на английском или немецком.
+ 
+Кроме того, в заявке на английском или немецком языке надо четко указать, чем вызван интерес к тематике школы, что Вы уже знаете и что хотели бы узнать в области <Node id="923"/>наноматериалов<Node id="937"/> и нанотехнологий, где собираетесь в дальнейшем использовать, приобретенные на школе знания, собираетесь ли поступать в аспирантуру. Заявку в объеме около трех страниц текста необходимо прислать до <Node id="1135"/>15 апреля 2008<Node id="1149"/> на e-mail: <Node id="1161"/>rempel.nano@mail.ru<Node id="1180"/> 
+Финансирование школы осуществляется Немецкой Службой Академических Обменов (DAAD) и включает оплату проезда, проживания и питания
+ Instructors:  Prof. Dr. M. Huth (University of Frankfurt am Main, Germany)  Prof. Dr. A. Magerl (University of Erlangen-Nürnberg, Germany) Prof. Dr. R. Neder (University of Würzburg, Germany) Prof. Dr. A. A. Rempel (Ural Division, Russian Academy of Sciences   &amp; Ural State Technical University, Russia)  Structure: 
+7 lectures by each instructor 
+in English Talks on the univeristies, society, culture, and history in 
+Germany 
+Talks by former DAAD and Alexander von Humboldt scholars 
+  
+Ample 
+time for discussions with the teachers 
+Field trips related to Alexander 
+von Humboldt 
+Дополнительную информацию можно найти в прикрепленных файлах (объявление, постер) и на сайте школы.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1135" EndNode="1149">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="160" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="923" EndNode="937">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1161" EndNode="1180">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

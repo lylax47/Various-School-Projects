@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из университета <Node id="24"/>Райса<Node id="29"/> удалось получить возбужденные атомы калия диаметром около миллиметра. Это примерно в десять миллиардов раз больше, чем диаметр невозбужденного атома. «Гиганты» являются наиболее точной реализацией модели атома <Node id="240"/>Бора<Node id="244"/>. Работа опубликована в Physical Review Letters.
+Взаимодействие с фотоном переводит атом в возбужденное состояние. При этом диаметр его электронной оболочки увеличивается. В эксперименте ученые облучали лазером атомы калия. Им удалось добиться такого уровня возбуждения, при котором диаметр его электронной оболочки составил около одного миллиметра.
+
+Красным показаны зоны наиболее вероятного расположения электрона. В центре орбиты находится невидимое из-за своего размера ядро.
+
+C точки зрения современной физики электрон описывается так называемой волновой функцией. Эта функция определяет, какова вероятность обнаружить электрон в данной области пространства. В классической модели электрон представлялся частицей. Используя магнитные импульсы, ученым удалось добиться того, что в определенный момент времени вероятность нахождения электрона в окрестности фиксированной точки пространства была близка к единице. Кроме того, параметры импульсов зависели от времени так, что точка локализации электрона двигалась по орбите с определенной скоростью. Таким образом в этом атоме электрон можно с достаточной степенью достоверности считать частицей, координаты которой совпадают с координатами движущейся точки. В результате получился атом, который является практической реализацией классической модели <Node id="1545"/>Бора<Node id="1549"/>.
+
+В 1913 Нильс Бор положил начало квантовой механике, добавив несколько постулатов к модели атома <Node id="1648"/>Резерфорда<Node id="1658"/>. В модели <Node id="1669"/>Резерфорда<Node id="1679"/> атом представлялся подобием Солнечной системы: вокруг ядра, состоящего из нейтронов и протонов, по орбитам двигались электроны. Такая модель вступала в противоречие с классической электродинамикой. Движущийся по орбите электрон обязан был излучать электромагнитные волны и, следовательно, терять энергию. Расчетное время жизни атома оказывалось ничтожно мало. Бор предложил считать, что электрон – это такая специальная частица, которая может двигаться не по произвольным орбитам, а только по некоторым особым. Эта модель принесла Бору Нобелевскую премию по физике в <Node id="2247"/>1922 году<Node id="2256"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1648" EndNode="1658">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Резерфорд</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="2247" EndNode="2256">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="24" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2247" EndNode="2256">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1545" EndNode="1549">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">модель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="240" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1669" EndNode="1679">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Резерфорд</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

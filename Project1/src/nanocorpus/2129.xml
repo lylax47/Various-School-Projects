@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Эрманно Борра (Ermanno Borra) и его коллеги из канадского университета Лаваля (Université Laval (<Node id="98"/>http://www.ulaval.ca/…anglais.html))<Node id="134"/> построили прототип жидкого зеркала для лунного телескопа, применив в нём нетрадиционный подход.
+
+Жидкость во вращающейся ёмкости приобретает параболическую форму, так что может сыграть роль главного зеркала телескопа. Если саму жидкость подобрать соответствующую. Собственно такие зеркала уже создавали и не раз. Из жидкой ртути.
+
+Эти зеркала легко изготовить, они в 100 раз более дёшевы, чем зеркала традиционные, и обладают более совершенной поверхностью, которая будет особенно гладкой в условиях низкой гравитации на Луне.
+
+Однако, если мы хотим создать на нашем естественном спутнике подобный телескоп, возможно, следует подобрать иной материал. Ртуть токсична и тяжела.
+
+Да, сама по себе идея создания на Луне телескопа с жидким зеркалом не нова. В частности, такой проект давно разрабатывается <Node id="936"/>(http://www.membrana.ru/…/233300.html)<Node id="974"/> на средства Института перспективных концепций NASA (NIAC) <Node id="1033"/>(http://www.niac.usra.edu<Node id="1058"/>/), среди множества других не менее смелых идей.
+
+Только температура на Луне падает до –147 по <Node id="1153"/>Цельсию<Node id="1160"/>, что намного ниже точки замерзания ртути (-38). Как быть? Борра со товарищи утверждает, что жидкое зеркало можно сделать из другого материала, и получится оно ещё лучше: устойчивее, качественнее и намного легче (попробуйте доставить на <Node id="1397"/>Селену<Node id="1403"/> ртуть хотя бы для 10-метрового зеркала).
+
+В опытном образце канадские учёные сумели нанести (изготовление шло в вакууме) очень тонкий слой серебра (в виде сомна <Node id="1565"/>наночастиц<Node id="1575"/>, хорошо отражающих в инфракрасном диапазоне) на миллиметровый слой, сделанный из так называемой ионной жидкости — соли, которая остаётся жидкой при очень низкой температуре.
+
+Ионные жидкости к тому же плохо испаряются, так как если отрицательный ион оставляет её поверхность, соседние положительные ионы возвращают беглеца обратно, и наоборот. Для Луны это важно, так как в вакууме материалы испаряются гораздо легче, чем в атмосфере.
+
+Впервые ионная жидкость была использована для такой цели. В данном случае, как сообщает New Scientist <Node id="2114"/>(http://space.newscientist.com<Node id="2144"/>/…lescope.html), это был имидазола этилсульфат (imidazolium ethylsulphate), замерзающий при минус 98 градусах по <Node id="2257"/>Цельсию<Node id="2264"/>. Необычное зеркало отлично показало себя <Node id="2306"/>в течение нескольких месяцев<Node id="2334"/> испытаний.
+
+«Никто ещё не пытался депонировать металл на жидкость», — отмечает Борра, добавляя, что пока неизвестно — почему <Node id="2460"/>наночастицы<Node id="2471"/> серебра так хорошо прилипли к ионной жидкости. Но в планах учёного — попытаться выяснить это, а ещё — добиться снижения точки замерзания зеркала ещё на 50 градусов и ещё сильнее повысить его отражательную способность в инфракрасном диапазоне.
+
+По оценке Борры, лунное зеркало на основе ионной жидкости и серебра будет обладать хорошим оптическим качеством и может быть сделано большого диаметра (от 20 до 100 метров), что позволит гораздо дальше заглянуть в прошлое Вселенной. Интересно, что пока жидкие зеркала глядят только вверх, но Эрманно обдумывает, как сделать их наклоняющимися.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2257" EndNode="2264">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="2460" EndNode="2471">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="936" EndNode="974">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2306" EndNode="2334">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1565" EndNode="1575">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1397" EndNode="1403">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Селена</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1033" EndNode="1058">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1153" EndNode="1160">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2114" EndNode="2144">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="98" EndNode="134">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

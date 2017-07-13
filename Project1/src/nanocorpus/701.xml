@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Как использовать простую детскую забаву — пускание мыльных пузырей — для производства нанотехнологических изделий догадались <Node id="126"/>Гуйхуа Юй<Node id="135"/> (Guihua Yu) и Чарльз Либер (Charles M. Lieber) из Гарвардского университета (Harvard University), а также — Аньюань Цао (Anyuan Cao) из университета Гавайев в Маноа (University of Hawaii at Manoa). 
+ 
+ 
+Новые опыты похожи на выдувание мыльных пузырей, но сами пузыри – сделаны вовсе не из мыла. Учёные создали специальные жидкости на основе полимеров, в которые поместили огромное количество <Node id="528"/>нанотрубок<Node id="538"/> (использовались <Node id="555"/>нанотрубки<Node id="565"/> из кремния, а также — из сульфида кадмия, как с однослойными, так и с многослойными стенками). 
+ 
+ 
+Аккуратно повышая давление внутри пузыря, исследователи добивались его роста до десятков сантиметров. При этом <Node id="777"/>нанотрубки<Node id="787"/> очень равномерно распределялись по площади всего пузыря, плавая в стенках толщиной несколько сотен нанометров. 
+ 
+ 
+Напротив растущего пузыря авторы необычной технологии помещали различные предметы — кремниевую пластину 20-сантиметрового диаметра, гибкий пластмассовый лист (22,5 х 30 сантиметров), цилиндр 2,5 сантиметров в диаметре и 6 сантиметров длиной. При соприкосновении пузыря с этими предметами <Node id="1192"/>нанотрубки<Node id="1202"/> равномерно переносились на новую поверхность. 
+ 
+ 
+Используя этот метод нанесения <Node id="1285"/>нанотрубок<Node id="1295"/>, авторы продемонстрировали возможность создания больших массивов нанотрубочных транзисторов на полимерной подложке. Причём, утверждают авторы изобретения, в серийном производстве можно будет выдувать такие пузыри диаметром до нескольких метров, так что становится возможным быстрое и сравнительно недорогое изготовление очень крупных пластиковых листов с нанотранзисторами на поверхности. 
+ 
+ 
+Листы эти могут, в свою очередь, служить заготовками для экранов, биологических датчиков и других изделий. 
+ 
+ 
+Статья авторов этого метода опубликована в журнале Nature Nanotechnology. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1285" EndNode="1295">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="126" EndNode="135">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Гуйхуа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1192" EndNode="1202">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="777" EndNode="787">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="528" EndNode="538">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="555" EndNode="565">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

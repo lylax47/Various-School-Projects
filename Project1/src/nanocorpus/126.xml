@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ПРИКАЗ Минфина РФ от <Node id="21"/>06.11.2007<Node id="31"/> N 99н «О ПОРЯДКЕ ВВЕДЕНИЯ В ДЕЙСТВИЕ ПРИКАЗА МИНИСТЕРСТВА ФИНАНСОВ РОССИЙСКОЙ ФЕДЕРАЦИИ ОТ <Node id="123"/>9 ОКТЯБРЯ 2007<Node id="137"/> Г. N 85Н»Внесены изменения и дополнения в разделы IV «Целевые статьи функциональной классификации расходов бюджетов Российской Федерации», V «Виды расходов функциональной классификации расходов бюджетов Российской Федерации», VI «Экономическая классификация расходов бюджетов Российской Федерации» Указаний о порядке применения бюджетной классификации Российской Федерации, утвержденных Приказом Минфина РФ от <Node id="548"/>08.12.2006<Node id="558"/> N 168н.Алексей КудринИзменения, в частности, касаются дополнения классификаций расходов бюджетов Российской Федерации статьями расходов, связанных с реализацией государственной политики в сфере нанотехнологий, развития инновационной инфраструктуры в сфере нанотехнологий, реализации проектов создания перспективных нанотехнологий и наноиндустрии; расходов на пополнение уставных фондов государственных унитарных предприятий в целях приобретения имущества государственных унитарных предприятий.
+
+Также внесены изменения и дополнения в приложение 3 «Перечень целевых статей функциональной классификации расходов бюджетов Российской Федерации», 4 «Перечень видов расходов функциональной классификации расходов бюджетов Российской Федерации» Указаний.
+
+Приказ Минфина РФ от <Node id="1329"/>09.10.2007<Node id="1339"/> N 85н введен в действие со <Node id="1367"/>дня<Node id="1370"/> его подписания.
+<Node id="1387"/>http://www.consultant.ru<Node id="1411"/>/…/227134.htmlДокумент, так сказать, для протокола. Кому-то, глядишь, и пригодится… А уж для бюрократов-чиновников это – главная ценность!.. ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1387" EndNode="1411">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1329" EndNode="1339">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="548" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="21" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="123" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ОКТЯБРЯ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1367" EndNode="1370">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

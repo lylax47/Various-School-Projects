@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Samsung откроет в Зеленограде сборочное производствоПерспективы <Node id="64"/>сотрудничества<Node id="78"/> между Государственной корпорацией нанотехнологий (РОСНАНО) и Samsung Electronics обсуждались в <Node id="174"/>октябре<Node id="181"/> во время визита главы РОСНАНО Анатолия Чубайса<Node id="228"/> <Node id="229"/>в Республику Корея, как сообщил журнал «Финанс». Samsung Electronics и несколько корейских компаний заявили о своем желании финансировать проекты с участием российской госкорпорации. В <Node id="414"/>настоящее время<Node id="429"/> Samsung рассматривает вопрос о создании совместного с РОСНАНО предприятия на базе российских нанотехнологий.
+
+Как считают аналитики компании «Риком Траста», сотрудничество между компаниями будет взаимовыгодным:
+
+«Samsung Electronics поделится своими технологиями, а РОСНАНО предоставит доступ корейской продукции на российский рынок. Возможно, на имеющихся площадках в Самаре и Зеленограде будет налажено сборочное производство. В любом случае, без поддержки крупного иностранного холдинга совершить качественный скачок в области микроэлектроники России не совершить», – приводит «Финанс» мнение экспертов.
+
+Возможно, что Samsung станет первым из многих зарубежных, в частности, корейских компаний, которые будут участвовать в <Node id="1157"/>совместных проектах<Node id="1176"/> с РОСНАНО.
+ Интерес к этому проявили представители корейской Ассоциации нанотехнологий, членами которой являются, в частности, такие промышленные гиганты, как LG Electronics и Samsung Electronics, а также малые и средние венчурные компании, работающие в нанотехнологической области. ГК «Российская корпорация нанотехнологий» учреждена для реализации государственной политики в сфере нанотехнологий, в том числе для развития инновационной инфраструктуры в сфере нанотехнологий. Корпорация выступает соинвестором в нанотехнологических проектах со значительным экономическим или социальным потенциалом, что на ранних этапах проекта снижает риски ее партнеров – частных инвесторов. Корпорация также участвует в создании центров коллективного пользования, бизнес-инкубаторов и фондов раннего инвестирования, направленных на поддержку и развитие нанотехнологий в России.
+<Node id="2042"/>http://www.zelenograd.ru/news/view.php3?…Samsung<Node id="2090"/> <Node id="2091"/>Electronicshttp://www.samsung.ru/Мы<Node id="2126"/> уже писали ранее о возможном <Node id="2156"/>сотрудничестве<Node id="2170"/> компании Samsung и РОСНАНО. Теперь, очевидно, эта идея, как круги по воде, достигла и Подмосковья… Если эта идея окажется плодотворной, то наверняка её реализация не займёт много времени… В добрый путь и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2091" EndNode="2126">
+</Annotation>
+<Annotation Id="4" Type="Партнеры_Клиенты" StartNode="2156" EndNode="2170">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2042" EndNode="2090">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="414" EndNode="429">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="228" EndNode="229">
+</Annotation>
+<Annotation Id="11" Type="Партнеры_Клиенты" StartNode="1157" EndNode="1176">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="174" EndNode="181">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="работает" StartNode="228" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Партнеры_Клиенты" StartNode="64" EndNode="78">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

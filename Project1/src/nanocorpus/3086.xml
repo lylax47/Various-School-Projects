@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Чувашия направит на развитие био-и нанотехнологий <Node id="51"/>до 2011 года<Node id="63"/> <Node id="64"/>17 млрд 172,8 млн рублей<Node id="88"/> из всех источников, говорится в сообщении министерства промышленности и энергетики республики
+
+Правительство Чувашии на заседании в среду внесло соответствующие изменения в комплексную программу инновационного развития республики на <Node id="322"/>2006–2010 годы<Node id="336"/>.
+
+Рентабельность программы составит <Node id="373"/>20%<Node id="376"/>. В систему программных мероприятий, в частности, входят организация производства инноваций для отраслей промышленного комплекса, осуществление географической диверсификации, создание и развитие микробиологической промышленности, поиск и привлечение иностранных инвесторов для финансирования проектов малых инновационных предприятий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="64" EndNode="88">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="322" EndNode="336">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="373" EndNode="376">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="51" EndNode="63">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

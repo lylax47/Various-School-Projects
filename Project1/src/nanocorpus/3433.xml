@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  
+ 
+Институт Передовых Технологий компании Samsung приглашает на работу специалистов в следующих областях: 
+  полупроводниковые материалы  материалы для дисплеев  люминофоры  материалы для топливных элементов  материалы для батарей и аккумуляторов  биоматериалы, биочипы  системы связи  оптический дизайн системы обработки и отображения информации  разработка пользовательских интерфейсов  Требования к кандидатам:  степень кандидата наук  опыт работы в данной области от <Node id="473"/>5 лет<Node id="478"/>  владение английским языком на уровне достаточном для профессионального общения  
+Резюме принимаются в свободной форме на английском языке. 
+Файлы отправлять на электронный адрес ilya.goldt@samsung.com. 
+ 
+По всем дополнительным вопросам можно обращаться к Илье Гольдту 
+по тел. (495) 797 2591 
+или электронной почте <Node id="796"/>ilya.goldt@samsung.com<Node id="818"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="796" EndNode="818">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="473" EndNode="478">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

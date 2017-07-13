@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Материалы круглого стола "Образование в области <Node id="50"/>наноматериалов<Node id="64"/> и нанотехнологий" на II Всероссийской конференции конференции NANO2007, <Node id="137"/>13-16 марта<Node id="148"/>, г.Новосибирск
+ <Node id="165"/>http://www.nanometer.ru/2007/03/14/nanomateriali.html<Node id="218"/>    
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="165" EndNode="218">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="50" EndNode="64">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="137" EndNode="148">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

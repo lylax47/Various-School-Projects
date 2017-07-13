@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ФГУП РФЯЦ-ВНИИЭФРоссийский федеральный ядерный центр – Всероссийский научно-исследовательский институт экспериментальной физики (ФГУП «РФЯЦ-ВНИИЭФ»)– крупнейший в стране научно-исследовательский институт, решающий сложные задачи оборонного, научного и народнохозяйственного значения.
+В состав РФЯЦ-ВНИИЭФ входят несколько институтов: теоретической и математической физики, экспериментальной газодинамики и физики взрыва, ядерной радиационной физики, лазерно-физических исследований, научно-технический центр физики высоких плотностей энергии и направленных потоков излучений, а также конструкторские бюро и тематические центры, объединенные общим научным и административным руководством. В РФЯЦ-ВНИИЭФ активно ведутся работы в области нанотехнологий, <Node id="751"/>наноматериалов<Node id="765"/> и наносистем – как в интересах совершенствования ядерного оружия, так и по открытой тематике. За это время получены значительные результаты. В том числе, разработаны объемно наноструктурированные и нанопленочные материалы, отработаны технологии их получения и диагностики, проводится их внедрение.
+ В Саровском физико-техническом институте при поддержке РФЯЦ-ВНИИЭФ и Миннауки в <Node id="1145"/>2002 г.<Node id="1152"/> создана научно-исследовательская лаборатория «Дисперсные системы и <Node id="1220"/>наноматериалы<Node id="1233"/>». Директор РФЯЦ-ВНИИЭФ Костюков Валентин ЕфимовичРФЯЦ – ВНИИЭФ основан в <Node id="1307"/>1946 году<Node id="1316"/> для реализации советского атомного проекта. Здесь были разработаны первые отечественные атомная и водородная бомбы.
+Контакты
+607188, <Node id="1450"/>г.Саров, Нижегородской обл.<Node id="1477"/>, пр. Мира, д. 37
+Тел./факс: (83130) 5–45–65
+Сайт: <Node id="1528"/>http://www.vniief.ruE-mail:<Node id="1555"/> <Node id="1556"/>staff@vniief.ruhttp://www.nanoportal.ru<Node id="1595"/>/…bers/vniief/Ну вот, вроде бы ребята делают атомные и водородные бомбы, а в промежутках между сменами они также активно ведут работы в области нанотехнологий, <Node id="1755"/>наноматериалов<Node id="1769"/> и наносистем — как в интересах совершенствования этого ядерного оружия, так и по открытой тематике. Причём за это время ими уже получены значительные результаты. В том числе, разработаны объемно наноструктури­рованные и нанопленочные материалы, отработаны технологии их получения и диагностики, проводится их внедрение. Какие всё-таки они молодцы! А теперь, когда у них там создана научно-исследовательская лаборатория «Дисперсные системы и <Node id="2211"/>наноматериалы<Node id="2224"/>», дело явно пойдёт веселее. Новых им успехов и достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="2211" EndNode="2224">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1528" EndNode="1555">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1145" EndNode="1152">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1307" EndNode="1316">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="751" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1307" EndNode="1316">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="1755" EndNode="1769">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1220" EndNode="1233">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Электронная_почта" StartNode="1556" EndNode="1595">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="расположение" StartNode="1450" EndNode="1477">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

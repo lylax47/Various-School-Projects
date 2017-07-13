@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Солдатская форма, способная залечивать раныПоле боя после окончания битвы — категорически безрадостное зрелище, раненым жизненно необходима срочная постановка диагноза и немедленное лечение либо операция. Однако ближайший госпиталь, даже полевой, может находиться слишком далеко, и часто такая ситуация становится критичной для жизни человека.
+
+По статистике большинство летальных исходов имеют место <Node id="401"/>в течение 30 минут<Node id="419"/> после получения ранения, и за это время успеть можно было бы немало. Именно поэтому Джозеф Вонг (Joseph Wang) с командой специалистов по нанотехнологиям из университета Калифорнии в Сан-Диего заключили контракт на <Node id="634"/>1,6 миллионов долларов<Node id="656"/> с Управлением военно-морских исследований США ( U.S. Office of Naval Research – ONR). В рамках договора планируется создание уникального «полевого госпиталя на чипе» (Field Hospital on a Chip).
+
+Все мы прекрасно знаем, что все существующие технологии самолечения серьезно ограничены в своих возможностях, но только не на сей раз. Система проводит мониторинг потовых выделений, слез и крови, что в комплексе позволяет отслеживать характер травм, шок, поражения головного мозга и прочие ранения, а лечение будет осуществляться немедленно с участием наноэлементов, включенных в ткань, из которой изготовлена форма.
+Олег <Node id="1274"/>Федоровhttp://www.mobiledevice.ru/…-monito.aspxNano<Node id="1325"/> Engineers to Create «Field Hospital on a <Node id="1367"/>Chip»http://www.azom.com/news.asp?…В<Node id="1403"/> США уже давно и в различных НИИ проводятся такого рода исследования. Так что не следует удивляться той сравнительно небольшой сумме, выделенной ONR наиболее цитируемому в мировой печати инженеру, перешедшему недавно в Калифорнийский университет в Сан-Диего. Заявленная цель научных исследований выглядит довольно «глобальной». Очевидно, что на пути создания подобных универсальных систем – попутно, так сказать – будут разработаны и новые датчики/<Node id="1851"/>сенсоры<Node id="1858"/>, в области создания которых Joseph Wang – признанный авторитет…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="634" EndNode="656">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="1851" EndNode="1858">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1367" EndNode="1403">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1274" EndNode="1325">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="401" EndNode="419">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

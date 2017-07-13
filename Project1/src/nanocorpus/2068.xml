@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания Lattice Power Corporation (Nanchang, Китай) основана в <Node id="65"/>начале 2006 г.<Node id="79"/> с участием исследователей Nanchang University с целью продвинуть до серийного выпуска нитридгаллиевые (GaN) <Node id="188"/>светодиоды<Node id="198"/> на кремниевой подложке.
+
+Проект “Si Substrate <Node id="245"/>LED<Node id="248"/> Materials and Devices” («Материалы для <Node id="288"/>светодиодов<Node id="299"/> на кремниевой подложке и приборы») получил техническую поддержку от Министерства образования Китая и финансовую поддержку в размере <Node id="432"/>50 млн. долл.<Node id="445"/> от ряда венчурных фондов [1].
+
+Первая фаза проекта (закладка первого камня) была начата в <Node id="536"/>2007 г.<Node id="543"/> Цель компании – организация массового производства голубых и зеленых <Node id="613"/>светодиодов<Node id="624"/> на кремниевой подложке с годовым объемом выпуска в 3 млрд. приборов. Во вторую фазу проекта будет дополнительно инвестировано <Node id="751"/>137 млн. долл.<Node id="765"/> для расширения выпуска до 10 млрд. приборов в <Node id="812"/>год<Node id="815"/>. Третья фаза имеет конечной целью выпуск <Node id="857"/>светодиодов<Node id="868"/> для освещения. Недавно компания освоила выпуск плоских экранов для мониторов на основе голубых и зеленых <Node id="974"/>светодиодов<Node id="985"/> собственного производства и красных <Node id="1022"/>светодиодов<Node id="1033"/>, получаемых от других компаний.
+
+Компания заявляет, что технология GaN <Node id="1105"/>светодиодов<Node id="1116"/> на Si подложках – это ее собственная разработка, защищенная несколькими зарегистрированными патентами, и что она первая в мире создала такую технологию. Китайское <Node id="1280"/>правительство<Node id="1293"/> всемерно заинтересовано в поддержке производств, технология которых основана на интеллектуальной собственности китайских исследователей. Муниципальные власти провинции Nanchang осознают принципиальную важность реализации этого проекта и активно поддерживают компанию (см. на фото – закладка первого камня в строительство производственных зданий компании с участием представителей муниципального <Node id="1689"/>правительства<Node id="1702"/> [2]).
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="1105" EndNode="1116">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="65" EndNode="79">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="432" EndNode="445">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="613" EndNode="624">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="974" EndNode="985">
+</Annotation>
+<Annotation Id="6" Type="Светодиод" StartNode="857" EndNode="868">
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="1022" EndNode="1033">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="812" EndNode="815">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="536" EndNode="543">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="288" EndNode="299">
+</Annotation>
+<Annotation Id="11" Type="Светодиод" StartNode="245" EndNode="248">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="751" EndNode="765">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="1280" EndNode="1293">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Властная_Структура" StartNode="1689" EndNode="1702">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Светодиод" StartNode="188" EndNode="198">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В конкурсе Европейской академии при участии издательства МАИК НАУКА приглашаются участвовать молодые ученые (<Node id="111"/>до 35 лет<Node id="120"/>). Премии будут присуждаться за фундаментальные научные исследования, выполненные в России, оформленные в виде статей (книг) в ведущих научных журналах. В <Node id="275"/>2008 г.<Node id="282"/> будет присуждено 23 премии (по <Node id="314"/>$ 1000<Node id="320"/>) по следующим областям знаний : химия, физика, математика, биология, медицина, науки о Земле, гуманитарные науки. Вместе с премией лауреат получит почетный диплом и медаль Европейской академии. Срок подачи заявок - до <Node id="539"/>01 марта 2008 г.<Node id="555"/>  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="275" EndNode="282">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="314" EndNode="320">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="111" EndNode="120">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="539" EndNode="555">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

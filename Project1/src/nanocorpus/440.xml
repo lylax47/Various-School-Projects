@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+По сообщениям газеты "Поиск", прошло Совместное заседание Президиума РАН и Российского совета ректоров (РСР), посвященное теме “Университеты на пути к новому качеству образования”, которое открыл вице-президент РАН, ректор МГУ им. М.В.Ломоносова, президент РСР Виктор Садовничий<Node id="280"/>.<Node id="281"/> В его докладе нашли отражение все этапы становления российской высшей школы, происходившего в тесной связи с развитием академической науки. 
+ 
+Дополнительный материал приводился ранее.
+       </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="280" EndNode="281">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="280" EndNode="281">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

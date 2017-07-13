@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Название изображения: Танцующая в облаках.
+
+Образец подготовили Синицына и <Node id="75"/>Фетисова Ольги<Node id="89"/>.
+Изображения получены Мешковым Егором.
+
+Синицына Ольга и Егор Мешков работают в ООО НПП «Центр перспективных технологий». Фетисова Ольга – сотрудница НИФХИ им. Л.Я. Карпова.
+
+Изображение получено на сканирующем зондовом микроскопе «ФемтоСкан» (ООО НПП «Центр перспективных технологий», Россия), <Node id="385"/>атомно-силовая микроскопия<Node id="411"/>.
+
+Объект на изображениях – одностенная <Node id="451"/>углеродная <Node id="462"/>нанотрубка<Node id="472"/>. Показано, как в процессе сканирования игла смещает отдельные фрагменты <Node id="545"/>нанотрубки<Node id="555"/>. Исследование, в рамках которого были получены изображения, проводилось с целью определения концентрации одностенных <Node id="673"/>углеродных <Node id="684"/>нанотрубок<Node id="694"/> в образцах оптических модуляторов. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="684" EndNode="694">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="545" EndNode="555">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="673" EndNode="694">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Атомно-силовая+микроскопия" StartNode="385" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="75" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ольга</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="451" EndNode="472">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="462" EndNode="472">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

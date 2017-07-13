@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Исследователи из Дельфтского Технологического Университета (Delft University of Technology) и Фонда фундаментальных исследований вещества (FOM Foundation) в Нидерландах успешно изготовили и «настроили» самое миниатюрное пианино в мире.
+
+Работа опубликована в научном журнале Nano Letters. Струны из <Node id="301"/>углеродных <Node id="312"/>нанотрубок<Node id="322"/> длиной приблизительно 1 мкм и диаметром около 2 нм изготовлены следующим образом: сначала <Node id="413"/>нанотрубки<Node id="423"/> присоединили к электродам и поместили на слой оксида кремния. Этот слой затем частично вытравили кислотой и <Node id="532"/>нанотрубки<Node id="542"/> свободно повисли. Под слоем оксида кремния располагался слой кремния. На него воздействовали сильным переменным током, и подвешенные струны начинали вибрировать. <Node id="705"/>Нанотрубка<Node id="715"/> то притягивается то отталкивается. Максимальное измеренное отклонение одной трубки составляет 8 нм. Расстояние от <Node id="830"/>нанотрубки<Node id="840"/> до слоя кремния влияет на электроемкость кремния, что, в свою очередь, приводит к перезарядке, которая воздействует на движение <Node id="969"/>нанопроволок<Node id="981"/>. 
+
+Когда частота приложенного тока достигала уровня собственной частоты колебаний <Node id="1064"/>нанотрубки<Node id="1074"/>, эти колебания усиливались. Колебания происходят на частоте порядка нескольких десятков MHz. При изменении силы и частоты тока через трубку, меняется частота вибрации. Ученые «настраивали» <Node id="1264"/>нанотрубки<Node id="1274"/>, как настраивают пианино или гитару. 
+
+Ученые разработали модель, которая довольно достоверно прогнозирует вибрацию <Node id="1391"/>нанотрубок<Node id="1401"/>. Вибрирующие <Node id="1415"/>нанотрубки<Node id="1425"/> представляют интерес не только с чисто научной точки зрения: в будущем им найдется практическое применение. Например, в сверхточных приборах для измерения массы, а также различных областях, связанных с GSM (в которых используются резонаторы с частотой ГГц.) 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1391" EndNode="1401">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="830" EndNode="840">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="413" EndNode="423">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1415" EndNode="1425">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1264" EndNode="1274">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="532" EndNode="542">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="969" EndNode="981">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1064" EndNode="1074">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="705" EndNode="715">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="301" EndNode="322">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="312" EndNode="322">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

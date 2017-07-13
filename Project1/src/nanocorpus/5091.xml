@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Редколлегия Международного научного журнала «Альтернативная энергетика и экология» объявляет конкурс, посвященный 100-летию академику Г.К. Борескову «катализ в альтернативной энергетике». Конкурс проводится редколлегией Международного научного журнала «Альтернативная энергетика и экология» совместно с Научно-техническим центром «ТАТА» а/я 687, <Node id="347"/>г. Саров, Нижегородская область<Node id="378"/>, Россия, 607183.  Редакция принимает статьи <Node id="423"/>с 1 февраля 2007 г. до 20 июля 2007 г.<Node id="461"/> по адресу: а/я 687, <Node id="482"/>г. Саров, Нижегородская область<Node id="513"/>, Россия, 607183 (с пометкой на конверте «на конкурс «Катализ в альтернативной энергетике»), или по одному из электронных адресов: gusev@hydrogen.ru, kondirina@hydrogen.ru.  Работы принимаются как на русском, так и на английском языках. Вопросы и дополнительная информация - по тем же электронным адресам и на сайте <Node id="829"/>www.hydrogen.ru.<Node id="845"/> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="423" EndNode="461">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="расположение" StartNode="482" EndNode="513">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="829" EndNode="845">
+</Annotation>
+<Annotation Id="4" Type="расположение" StartNode="347" EndNode="378">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

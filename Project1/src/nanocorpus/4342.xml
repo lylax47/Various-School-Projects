@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>В министерстве промышленности и науки Свердловской области появится отдел нанотехнологийЕкатеринбург  – В министерстве промышленности и науки Свердловской области в скором времени может появиться новый отдел по развитию нанотехнологий.
+
+Об этом сегодня заявил глава ведомства Владимир Молчанов на заседании коллегии министерства. Помимо нанотехнологий, главными направлениями будут развитие энергетики, дорожное строительство, модернизация машиностроения. Кроме того, большое внимание будет уделяться внедрению наукоемких ресурсосберегающих технологий.
+<Node id="553"/>http://www.ean66.ru/news/?…Ну<Node id="582"/> и правильно! Хозяйство-то разрастается и усложняется <Node id="636"/>(http://www.nanonewsnet.ru<Node id="662"/>/…prodolzhenie), за всем нужен глаз да глаз. Тем более что и начальство вон уже проявляет нетерпение: <Node id="764"/>http://www.nanonewsnet.ru/…e-federatsii…<Node id="804"/> По всему чувствуется, что скоро в нашей отечественной отрасли НТ начнутся бурные и значительные перемены. Надеемся, что к лучшему…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="553" EndNode="582">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="764" EndNode="804">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="636" EndNode="662">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

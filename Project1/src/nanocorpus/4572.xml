@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Университет КAUST (King Abdullah University of Science and Technology), Саудовская Аравия, предлагает стипендии таланливым иностранным студентам, обучающихся в балаклавриате или закончивших его (на время обучения в вузе своей страны). 
+ После окончания   для обучения в своем вузе студентам будет предоставлена: 
+- возможность обучаться в магистратуре KAUST бесплатно; 
+-  оплата проеза и проживания  в Саудовской Аравии. 
+ 
+Соискателям необходимо : 
+- заполнить Он-лайн форму заявления; 
+-  предоставить рекомендации (научного руководителя/преподавателя); 
+- ведомость успеваемости (с переводом на английский язык); 
+- сертификат TOEFL/IELTS. 
+ 
+Подробности на сайте <Node id="669"/>http://www.kaust.edu.sa/students/discovery-apply.aspx<Node id="722"/> 
+ 
+ 
+Срок подачи  документов - <Node id="754"/>25 мая<Node id="760"/>. 
+Источник -  <Node id="775"/>http://www.studyabroad.ru/news.php?ID-9363<Node id="817"/> 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="754" EndNode="760">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="775" EndNode="817">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="669" EndNode="722">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

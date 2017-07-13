@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Томский инновационный форум. <Node id="29"/>День<Node id="33"/> первыйЗаместитель генерального директора ГК «Роснанотех», Андрей Малышев поведал о планах России на будущее в области нанотехнологий.
+
+К <Node id="171"/>2015 г.<Node id="178"/> государство рассчитывает выйти на показатель <Node id="224"/>3%<Node id="226"/> мирового рынка этой сферы, но, как он посетовал, финансовый кризис уже вносит свои коррективы – часть инвесторов, которые собирались вкладывать средства в определенные фонды отказались от этого, и госкорпорации приходится покрывать проекты из своих средств…
+<Node id="485"/>http://obzor.westsib.ru/article/263580«Роснанотех»<Node id="535"/> почувствовала последствия мирового кризисаГосударственная корпорация «Роснанотех» получила отказ от некоторых частных вкладчиков участвовать в совместных проектах из-за мирового финансового кризиса.
+
+Об этом сообщает «Интерфакс».
+ «<Node id="768"/>Кризис внесет поправки, и уже внес. Часть вкладчиков, которые предполагали (участвовать) — это инвестиционные фонды, управляющие компании, — сказали, что они сегодня не могут войти. В данном случае мы проекты не останавливаем, закрываем это своими деньгами», — заявил заместитель генерального директора «Роснанотеха» Андрей Малышев<Node id="1099"/>.<Node id="1100"/>
+ 
+По его словам, задача «Роснанотеха» заключается не только во вхождении в проект, но и в привлечении в него частных компаний.
+ 
+«<Node id="1231"/>Бизнес сегодня не сориентирован на высокотехнологичные проекты, это мы чувствуем, мы с ним работаем каждый <Node id="1338"/>день<Node id="1342"/>, и это является пока проблемой», — отметил Малышев<Node id="1393"/>.
+ Инновационные сообщества также не готовы работать в области продаж разработок, считает замгендиректора.
+ 
+«Все-таки уровень готовности многих разработок не соответствует тому, чтобы сегодня же можно было их использовать для производства новой продукции», — подчеркнул он.
+ «Роснанотех» испытывает затруднения в продаже имеющейся интеллектуальной собственности госучреждений из-за недостатков законодательства.
+ 
+«<Node id="1809"/>Сегодня обладатели таких передовых разработок, в основном академические институты, которые являются госучреждениями и не имеют прав на возможность продажи, это ФГУПы. Конечно, принята поправка к Гражданскому кодексу, но она не дает ответа на все вопросы», — добавил Малышев<Node id="2082"/>.
+  Российская корпорация нанотехнологий («Роснанотех») создана для развития нанотехнологий в <Node id="2176"/>июле 2007 года<Node id="2190"/> специальным федеральным законом. Бюджет компании, рассчитанный на <Node id="2257"/>пять лет<Node id="2265"/>, составляет <Node id="2278"/>130 млрд рублей<Node id="2293"/>. <Node id="2295"/>http://www.akado.com/…cument30976/Да<Node id="2331"/> уж… Интересно, и надолго ли тогда хватит средств, выделенных для «Роснанотех» в «более спокойные» времена, если этот кризис затянется или ещё, не дай бог, углубится?.. Уж не приведёт ли всё это к полному прекращению данного амбициозного «проекта»?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1338" EndNode="1342">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2295" EndNode="2331">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="1099" EndNode="1100">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="1099" EndNode="1100">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1231" EndNode="1393">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1231" EndNode="1393">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="224" EndNode="226">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1809" EndNode="2082">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="29" EndNode="33">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="171" EndNode="178">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="768" EndNode="1099">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="485" EndNode="535">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1809" EndNode="2082">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="2278" EndNode="2293">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="2176" EndNode="2190">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2257" EndNode="2265">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="768" EndNode="1099">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

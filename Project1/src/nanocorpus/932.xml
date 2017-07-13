@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ГК «Роснанотех» примет участие в выставке «Метрология-2008»ГК «Роснанотех» приглашает всех посетить свой стенд на Международной выставке средств измерений, испытательного и лабораторного оборудования «Метрология-2008» <Node id="218"/>с 3 по 5 июня 2008 года<Node id="241"/>, ВВЦ. Экспозиция затронет вопросы метрологии и сертификации нанотехнологической продукции.
+Андрей <Node id="340"/>Малышевhttp://www.rusnanotekh.ru/…8_04_17.htmlВсероссийская<Node id="399"/> выставочно-конкурсная программа «За единство измерений»
+Уважаемые господа!
+
+Федеральное агентство по техническому регулированию и метрологии, Российский центр испытаний и сертификации Ростест-Москва при поддержке Департамента оборонной промышленности и высоких технологий Правительства РФ, Министерства промышленности и энергетики РФ и Федерального агентства по науке и инновациям РФ приглашают вас и вашу организацию принять участие в мероприятиях ежегодного Московского метрологического форума «Метрология-2008».
+Выставка-конкурс средств измерений, испытательного и лабораторного оборудования и научно-практическая конференция состоятся в период <Node id="1048"/>с 3 по 5 июня 2008 года<Node id="1071"/> в павильоне №55 Всероссийского Выставочного Центра (ВВЦ).
+<Node id="1130"/>http://metrol.expoprom.ru/…Федеральное<Node id="1168"/> агентство по техническому регулированию и метрологии и Государственная корпорация «Российская корпорация нанотехнологий» выступили с инициативой организации на выставке специализированного раздела, отражающего современное состояние измерений и испытаний <Node id="1423"/>наноматериалов<Node id="1437"/> и созданной на основе <Node id="1460"/>наноматериалов<Node id="1474"/> продукции … Хорошее это дело. Подробности можно посмотреть, перейдя по выше приведённой ссылке…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1130" EndNode="1168">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="218" EndNode="241">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1423" EndNode="1437">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="1460" EndNode="1474">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="340" EndNode="399">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1048" EndNode="1071">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

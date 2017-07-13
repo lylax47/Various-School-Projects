@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Электронные спины рассматриваются как вероятные кандидаты в носители квантовой информации. Логические состояния спинового <Node id="123"/>кубита<Node id="129"/> «0» и «1» соответствуют двум противоположным ориентациям спина электрона. В <Node id="206"/>последние годы<Node id="220"/> теоретически и экспериментально изучается возможность организации квантовых вычислений со спиновыми <Node id="321"/>кубитами<Node id="329"/> в полупроводниковых <Node id="350"/>квантовых точках<Node id="366"/> на основе GaAs.
+
+При этом основными источниками декогеренции являются спин-орбитальное взаимодействие и сверхтонкое взаимодействие спина электрона с <Node id="516"/>ядерными спинами<Node id="532"/>. Чтобы увеличить время сохранения когерентности спиновых состояний, нужно изготавливать <Node id="621"/>квантовые точки<Node id="636"/> из других материалов, в которых эти взаимодействия значительно слабее, чем в GaAs. Например, в <Node id="732"/>углеродных <Node id="743"/>нанотрубках<Node id="754"/> и <Node id="757"/>графене<Node id="764"/> спин-орбитальное взаимодействие сравнительно невелико, а сверхтонкое взаимодействие в изотопе 12C с нулевым <Node id="873"/>ядерным спином<Node id="887"/> вообще отсутствует (концентрация примеси 13C, как правило, очень мала).
+
+В теоретической работе [1] физиков из Университета Базеля предложен способ формирования спиновых <Node id="1058"/>кубитов<Node id="1065"/> в <Node id="1068"/>квантовых точках<Node id="1084"/> на основе <Node id="1095"/>графена<Node id="1102"/>. Для этого из графенового слоя нужно вырезать узкую полоску со слегка изогнутыми краями (в результате чего снимается присущее <Node id="1229"/>графену<Node id="1236"/> двукратное вырождение зоны проводимости и валентной зоны) и приложить соответствующие напряжения на электроды, расположенные вдоль полоски, см. рисунок.
+
+Такие <Node id="1397"/>квантовые точки<Node id="1412"/> имеют прямоугольную форму. В них имеются дискретные уровни энергии, которым отвечают локализованные волновые функции. Расчеты показали, что если поперечные размеры <Node id="1577"/>квантовых точек<Node id="1592"/> составляют около 30 нм, и в каждой из них находится по одному электрону (поверх заполненной валентной зоны), то энергия обменного взаимодействия между спинами электронов в двух соседних <Node id="1779"/>квантовых точках<Node id="1795"/> составляет J ~ (0.1 ¸ 1.5) мэВ. При этом возникает возможность организовать (с помощью управляющих <Node id="1895"/>кубитов<Node id="1902"/>) даже взаимодействие между спинами достаточно удаленных друг от друга точек, не затрагивая промежуточные спины. Это является следствием «квазирелятивистского» конусообразного закона дисперсии, в результате которого в <Node id="2120"/>графене<Node id="2127"/> имеет место аналог эффекта <Node id="2155"/>Клейна<Node id="2161"/> (заключающегося в проникновении электрона через потенциальный барьер, высота которого более чем в два раза превышает энергию покоя электрона, с близкой к единице вероятностью [2], подробнее см. [1]). Такие нелокальные взаимодействия между <Node id="2401"/>кубитами<Node id="2409"/> важны, в частности, для квантовой коррекции ошибок.
+
+Хотя система <Node id="2476"/>квантовых точек<Node id="2491"/> в графеновой <Node id="2505"/>наноленте<Node id="2514"/> допускает масштабирование, с практической точки зрения ее существенным недостатком является одномерность. Альтернативу представляют два параллельных друг другу слоя <Node id="2680"/>графена<Node id="2687"/>, в которых можно попробовать сформировать двумерный массив <Node id="2747"/>квантовых точек<Node id="2762"/> [3].
+Л.Опенов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Кубит" StartNode="321" EndNode="329">
+</Annotation>
+<Annotation Id="1" Type="Нанолента" StartNode="2505" EndNode="2514">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="732" EndNode="754">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="1779" EndNode="1795">
+</Annotation>
+<Annotation Id="4" Type="Кубит" StartNode="2401" EndNode="2409">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="2476" EndNode="2491">
+</Annotation>
+<Annotation Id="7" Type="Квантовая+точка" StartNode="350" EndNode="366">
+</Annotation>
+<Annotation Id="8" Type="Кубит" StartNode="1058" EndNode="1065">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="2120" EndNode="2127">
+</Annotation>
+<Annotation Id="12" Type="Кубит" StartNode="123" EndNode="129">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="743" EndNode="754">
+</Annotation>
+<Annotation Id="14" Type="Квантовая+точка" StartNode="621" EndNode="636">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="206" EndNode="220">
+</Annotation>
+<Annotation Id="16" Type="Графен" StartNode="757" EndNode="764">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="1229" EndNode="1236">
+</Annotation>
+<Annotation Id="18" Type="Квантовая+точка" StartNode="2747" EndNode="2762">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2155" EndNode="2161">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Клейн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Кубит" StartNode="1895" EndNode="1902">
+</Annotation>
+<Annotation Id="22" Type="Квантовая+точка" StartNode="1577" EndNode="1592">
+</Annotation>
+<Annotation Id="25" Type="Квантовая+точка" StartNode="1397" EndNode="1412">
+</Annotation>
+<Annotation Id="24" Type="Графен" StartNode="2680" EndNode="2687">
+</Annotation>
+<Annotation Id="27" Type="Квантовая+точка" StartNode="1068" EndNode="1084">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Графен" StartNode="1095" EndNode="1102">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Ядерный+спин" StartNode="873" EndNode="887">
+</Annotation>
+<Annotation Id="30" Type="Ядерный+спин" StartNode="516" EndNode="532">
+</Annotation>
+<Annotation Id="32" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

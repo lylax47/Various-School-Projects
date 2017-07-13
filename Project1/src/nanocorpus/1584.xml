@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Глава правительства России Михаил Фрадков<Node id="42"/> <Node id="43"/>подписал постановление, в соответствии с которым образован совет по нанотехнологиям и утверждено положение о нем.
+
+<Node id="158"/>Правительственный совет<Node id="181"/> является постоянно действующим совещательным органом, образованным в целях обеспечения взаимодействия федеральных органов исполнительной власти с представителями предпринимательского сообщества и научной общественности по выработке предложений – по реализации государственной политики в области нанотехнологий и наноиндустрии.
+
+Председателем совета является первый заместитель премьер-министра, у него есть два заместителя, состав совета утверждается правительством.
+Сергей Иванов
+Основными задачами совета являются предварительное рассмотрение, проведение экспертной оценки и подготовка предложений, носящих рекомендательный характер, связанных с разработкой и практическим использованием достижений науки в области нанотехнологии, развитием наноиндустрии, а также формированием рынка нанопродукции и наноуслуг с целью реализации интеллектуального, организационного и финансового потенциала страны.
+
+Как сообщили в пресс-службе правительства, соответствующим распоряжением утвержден непосредственно состав правительственного совета, который возглавил первый вице-премьер Сергей Иванов.
+Всего в состав совета вошли 38 человек, в том числе: министр образования и науки Андрей Фурсенко, руководитель Роспрома Борис Алешин<Node id="1401"/>,<Node id="1402"/> президент «Роснефти» Сергей Богданчиков<Node id="1442"/>,<Node id="1443"/> министр экономического развития и торговли Герман Греф, начальник экспертного управления президента Аркадий <Node id="1552"/>Дворкович<Node id="1561"/>, вице-премьер Александр Жуков, руководитель Росатома Сергей Кириенко<Node id="1630"/>,<Node id="1631"/> министр информационных технологий и связи Леонид Рейман, министр обороны Анатолий Сердюков, министр промышленности и энергетики Виктор Христенко, президент ОАО «РЖД» Владимир Якунин<Node id="1813"/>,<Node id="1814"/> гендиректор ОАО «Северсталь» Алексей Мордашов<Node id="1860"/>,<Node id="1861"/> президент Российской академии наук Юрий Осипов<Node id="1908"/>,<Node id="1909"/> руководители научных учреждений..
+<Node id="1944"/>http://www.kreml.org/news/152330732Ха!<Node id="1982"/> Знакомые все лица… Теперь остаётся поглядеть, КАК будет действовать Совет и С КЕМ взаимодействовать, каковы будут к.п.д. и эффективность нового образования. Сдаётся мне, что этих «советчиков» будет очень и очень много: и в Курчатовском институте, и в Минобрнауке, и в Российской корпорации нанотехнологий и др. Как они смогут все ужиться друг с другом и, главное, как они будут делить (между собой?) этот огромный финансовый «пирог»… А то, что уже у многих при мысли о нём потекли обильные, липкие слюни ;-))), не подлежит никакому сомнению… Ну, как говорится, доживём – увидим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="1401" EndNode="1402">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1944" EndNode="1982">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="1908" EndNode="1909">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="1813" EndNode="1814">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="работает" StartNode="1630" EndNode="1631">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="работает" StartNode="42" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="работает" StartNode="1908" EndNode="1909">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="сотрудники" StartNode="1442" EndNode="1443">
+</Annotation>
+<Annotation Id="25" Type="сотрудники" StartNode="1860" EndNode="1861">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="1552" EndNode="1561">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">начальник</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дворкович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Властная_Структура" StartNode="158" EndNode="181">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительственный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="работает" StartNode="1442" EndNode="1443">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="работает" StartNode="1401" EndNode="1402">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="работает" StartNode="1860" EndNode="1861">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="работает" StartNode="1813" EndNode="1814">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="сотрудники" StartNode="1630" EndNode="1631">
+</Annotation>
+<Annotation Id="37" Type="сотрудники" StartNode="42" EndNode="43">
+</Annotation>
+<Annotation Id="42" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

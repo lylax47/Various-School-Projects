@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> ГК «Роснанотех» начинает прием проектов в соответствии с требованиями корпорации
+ (материалы с сайта ГК "Роснанотех" от <Node id="121"/>1 апреля 2008 г.<Node id="137"/>) :  
+"С <Node id="146"/>1 апреля 2008 года<Node id="164"/> ГК «Роснанотех» начинает прием и рассмотрение проектов в области нанотехнологий, предлагаемых к финансированию из средств корпорации. Проекты принимаются в форме, соответствующей требованиям корпорации. 
+ 
+До этого, <Node id="381"/>с сентября 2007 по март 2008 года<Node id="414"/> было получено около 330 обращений в корпорацию, поданных в инициативном порядке. Из них - <Node id="505"/>более 75%<Node id="514"/> предложений о финансировании <Node id="544"/>НИР<Node id="547"/> и НИОКР, <Node id="557"/>около 10%<Node id="566"/> - предложения о создании или развитии производства нанопродукции. 
+ 
+В результате анализа поступивших обращений, изучения лучшей отечественной и зарубежной практики экспертизы инновационных проектов, корпорацией подготовлен необходимый пакет документов, регламентирующий прием, отбор и экспертизу проектов, порядок и условия их финансирования. 
+ 
+С требованиями к составу и содержанию проектов, форматом и порядком подачи материалов заявители могут ознакомиться на сайте корпорации в разделе «Проекты».
+ Заявитель может получить доступ к электронным формам заявки проекта после регистрации на сайте Корпорации и получения регистрационного номера." (ГК "Роснанотех")         </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="121" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="557" EndNode="566">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="146" EndNode="164">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="381" EndNode="414">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="544" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="505" EndNode="514">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

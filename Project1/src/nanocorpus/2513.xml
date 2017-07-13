@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Абсолютно черное тело поглощает весь свет, падающий на него, и, соответственно, ничего не отражает. Практическая реализация таких объектов затруднена, т.к. необходимо создать материалы с показателем преломления, близким к единице. 
+ 
+Недавно было теоретически показано, что массивы <Node id="284"/>углеродных <Node id="295"/>нанотрубок<Node id="305"/> могут иметь очень низкие показатели преломления в интервале 1.01-1.10. Кроме того, отражение может быть снижено за счет диффузного рассеяния от таких шероховатых поверхностей, что особенно важно при больших углах падения света. 
+ 
+Исследователи из Rensselaer Polytechnic Institute изготовили материал на основе массивов вертикально ориентированных <Node id="654"/>углеродных <Node id="665"/>нанотрубок<Node id="675"/> (VA-CNT, vertically aligned carbon nanotubes) диаметром 8-11 нм, который обладает низким показателем преломления для видимого света. Длина <Node id="815"/>нанотрубок<Node id="825"/> составляет от 10 до 800 мкм. Выращенную методом CVD пленку из <Node id="888"/>нанотрубок<Node id="898"/> можно в дальнейшем легко отделить от подложки. <Node id="946"/>Нанотрубки<Node id="956"/> образуют пористую <Node id="975"/>наноструктуру<Node id="988"/> с шероховатой поверхностью. Свойства пленки определяются диаметром <Node id="1056"/>нанотрубок<Node id="1066"/> и расстоянием между ними. 
+ 
+Ученым удалось изготовить образцы, которые отражают только <Node id="1155"/>0.045%<Node id="1161"/> падающего на них света (длина волны 633 нм), что в 3 раза меньше предыдущих рекордсменов. 
+ 
+Работа  «Experimental Observation of an Extremely Dark Material Made By a Low-Density Nanotube Array» опубликована в журнале Nano Letters. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="295" EndNode="305">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="946" EndNode="956">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="665" EndNode="675">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="284" EndNode="305">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="815" EndNode="825">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="654" EndNode="675">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1155" EndNode="1161">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="888" EndNode="898">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="975" EndNode="988">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1056" EndNode="1066">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

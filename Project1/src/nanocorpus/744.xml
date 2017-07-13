@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В связи с подготовкой раздела сайта "Нанометр", посвященного "Наноазбуке", глоссарию и довузовскому образованию, мы размещаем ряд статей, посвященных этой благородной тематике и призываем авторов - популяризаторов примкнуть к этой инициативе. Новый раздел, который будет открыт после проведения Интернет-олимпиады <Node id="315"/>2008 г.<Node id="322"/>, будет являться "народным" проектом, который позволит создать библиотеку статей и других учебных материалов, которые мог бы читать любой начинающий. 
+В разделе "Публикации" размещены статьи (автор - К.Ю.Богданов):
+ Почему цвет <Node id="550"/>наночастиц<Node id="560"/> может зависеть от их размера? Почему <Node id="598"/>нанопроволоки<Node id="611"/> такие прочные? Закон <Node id="633"/>Ома<Node id="636"/> для <Node id="641"/>углеродных <Node id="652"/>нанотрубок<Node id="662"/> Почему <Node id="670"/>наночастицы<Node id="681"/> плавятся при низкой температуре? Нанотрибология: трение под микроскопом Ссылки на другие публикации - на личной страничке автора </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="315" EndNode="322">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="598" EndNode="611">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="641" EndNode="662">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="550" EndNode="560">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="633" EndNode="636">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="652" EndNode="662">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="670" EndNode="681">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

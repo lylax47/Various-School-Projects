@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ФГУП «Красная Звезда»ФГУП «Красная Звезда» создано <Node id="51"/>28 ноября 1972 года<Node id="70"/>.
+Предприятие является единственным в мире производителем космических ядерных энергетических установок и обладает опытом эксплуатации 32 таких изделий. <Node id="222"/>Более 17 лет<Node id="234"/> предприятие работает в области создания ультрадисперсных кристалов и материалов на их основе.
+ ФГУП «Красная Звезда» в кооперации с другими организациями создан весь комплекс технологий и оборудования, обеспечивающий проектирование, изготовление, испытания, запуск на орбиту, эксплуатацию, вывод из эксплуатации, слежение за выработавшими ресурс изделиями и утилизацию неиспользованных установок на Земле. В создании ядерных энергетических установок для космоса предприятие опережает аналогичные разработки США и других развитых стран. В рамках Отраслевой программы «Получение, исследование свойств и применение <Node id="847"/>ультрадисперсных материалов<Node id="874"/> – <Node id="877"/>нанокристаллов<Node id="891"/>» в ФГУП «Красная Звезда» в <Node id="919"/>1996 г.<Node id="926"/> был создан, а в <Node id="943"/>1997 г.<Node id="950"/> модернизирован участок по производству порошков никеля, меди, аллюминия, железа, серебра, магния, молибдена и др. на основе установок «ИНДУС». Порошки с размером от 10 до 100 нм и средним отклонением от номинального размера <Node id="1175"/>не более 10%<Node id="1187"/> получались по принципу конденсации испаренного металла.
+ ФГУП «Красная Звезда» разрабатывает и производит металлокерамические мембраны (МКМ) – тонкие трубчатые или плоские металлокерамические фильтры, которые работают в нано-, ультра- или микрофильтрационной областях с размером пор в диапазоне от 0,03 мкм до 5 мкм. Васильковский Владимир Сергеевич, Генеральный директор ФГУП «Красная Звезда»<Node id="1581"/>НПО<Node id="1584"/> <Node id="1585"/>(впоследствии ФГУП) «Красная Звезда» было организовано на базе двух предприятий – ОКБ «Заря» и МКБ «Красная Звезда». Основными мотивами при создании НПО в системе предприятий <Node id="1760"/>Министерства среднего машиностроения<Node id="1796"/> (впоследствии Минатома России) были сосредоточение руководства работами по созданию ядерных энергетических установок (ЯЭУ) для космических объектов. На НПО «Красная Звезда» были возложены функции головной организации по разработке, изготовлению и поставке ЯЭУ «БУК» и «ТОПАЗ-1». Впоследствии тематика работ была значительно расширена за счет включении в нее ряда разработок изделий как космического, так и наземного применения.
+Контакты
+115230, Москва, Электролитный пр., д. 1а
+Tел.: (495) 113–23–09**
+Cайт: <Node id="2305"/>http://www.redstaratom.ru/E-mail:<Node id="2338"/> <Node id="2339"/>info@redstaratom.ruhttp://www.nanoportal.ru<Node id="2382"/>/…ers/redstar/Ну вот, уже <Node id="2408"/>более 17 лет<Node id="2420"/> это предприятие работает в области создания ультрадисперсных кристалов и материалов на их основе. Производит порошки никеля, меди, аллюминия, железа, серебра, магния, молибдена и др. на основе установок «ИНДУС». Порошки с размером от 10 до 100 нм и средним отклонением от номинального размера <Node id="2714"/>не более 10%<Node id="2726"/> получались по принципу конденсации испаренного металла. То есть вот уже почти <Node id="2805"/>два десятилетия<Node id="2820"/> ребята занимаются нанотехнологиями. А нам говорят, что у нас нет наноиндустрии, и ещё не скоро она у нас появится. Неправда всё это! Плюньте в лицо тому, кто ещё раз заявит вам это… ;-))) А мы желаем коллективу ФГУП «Красная Звезда» новых побед и свершений на благо любимой Родины и новых тонн <Node id="3115"/>нанопорошков<Node id="3127"/> для народного хозяйства и экспорта!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="847" EndNode="874">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="943" EndNode="950">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="2339" EndNode="2382">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="222" EndNode="234">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="51" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="2714" EndNode="2726">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанокристалл" StartNode="877" EndNode="891">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="1584" EndNode="1585">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="1175" EndNode="1187">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2805" EndNode="2820">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="919" EndNode="926">
+</Annotation>
+<Annotation Id="18" Type="работает" StartNode="1584" EndNode="1585">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="1760" EndNode="1796">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства среднего машиностроения</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="2408" EndNode="2420">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Url" StartNode="2305" EndNode="2338">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Нанопорошок" StartNode="3115" EndNode="3127">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="1581" EndNode="1584">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Механические резонаторы широко используются для “взвешивания” небольшого количества адсорбированного на них вещества. Принцип действия таких устройств основан на уменьшении частоты колебаний при увеличении массы адсорбента.
+
+В отличие от стандартных масс-спектрометров, они не требуют предварительной ионизации частиц и позволяют определить именно массу, а не отношение массы к заряду. Их чувствительность тем выше, чем меньше масса самого резонатора. Обычно для изготовления нанорезонаторов используют <Node id="504"/>литографию<Node id="514"/> и <Node id="517"/>травление<Node id="526"/>. При этом, однако, они остаются довольно крупными по меркам наномира: их минимальные поперечные размеры составляют десятки нанометров, что не позволяет взвесить, например, одну биологическую макромолекулу. Американские специалисты из University of California at Berkeley и Lawrence Berkeley National Laboratory сконструировали “нановесы” [1], в которых функцию резонатора выполняла <Node id="909"/>углеродная <Node id="920"/>нанотрубка<Node id="930"/> длиной 254 нм и диаметром около 2 нм (см. рис.).
+
+Один конец <Node id="992"/>нанотрубки<Node id="1002"/> жестко фиксировали на отрицательном электроде, а другой располагали на небольшом расстоянии d от положительного электрода. Поскольку ток автоэмиссии I чрезвычайно чувствителен к величине d, то соответствующая модуляция напряжения на электроде приводит к колебаниям <Node id="1268"/>нанотрубки<Node id="1278"/>, которые, в свою очередь, изменяют I.
+
+Эксперимент проводили в сверхвысоком вакууме при комнатной температуре. Чувствительность устройства при определении суммарной массы адсорбированных на <Node id="1469"/>нанотрубке<Node id="1479"/> атомов золота составила 1.3×10-25 кг×Гц-1/2, что эквивалентно 0.4MAu×Гц-1/2, где MAu – масса одного атома золота. Предыдущий рекорд чувствительности улучшен сразу на четыре порядка.
+<Node id="1662"/>Л. Опенов<Node id="1671"/> 1. K.Jensen et al., Nature Nanotechn. 3, 533 (2008). </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1268" EndNode="1278">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="992" EndNode="1002">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Литография" StartNode="504" EndNode="514">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="920" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1469" EndNode="1479">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="909" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1662" EndNode="1671">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Опенов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Травление" StartNode="517" EndNode="526">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

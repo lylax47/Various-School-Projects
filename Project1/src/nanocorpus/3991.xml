@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Учёные Белгорода и Бремена совместно обсудят риски использования наноматериаловБелгородский государственный университет выиграл грант Российского фонда фундаментальных исследований на проведение семинара по наноматериаловедению. Семинар «Перспективы и риски использования <Node id="272"/>наноматериалов<Node id="286"/> в природных и технических системах» запланирован на начало <Node id="346"/>октября<Node id="353"/> <Node id="354"/>нынешнего года<Node id="368"/>. Предполагается, что в нём примут участие не только учёные БелГУ, но и их немецкие коллеги из Бременского университета.
+ Стороны пришли к выводу, что такое сотрудничество является обоюдовыгодным по целому ряду направлений – например, в области применения нанотехнологий в экологических системах, – сообщают в пресс-службе Белгородского госуниверситета.
+  На международном семинаре учёные планируют обсудить получение и применение <Node id="799"/>наноматериалов<Node id="813"/> на практике – от медицинской физики до диагностики агроэкологических рисков в районах добычи полезных ископаемых. <Node id="928"/>http://www.bel.ru/…6/32004.htmlЧто<Node id="962"/> ж, как говорится, со стороны виднее. Наверняка немецкие коллеги свежим глазом смогут увидеть многое из того, к чему, скажем, местные, белгородские, коллеги уже пригляделись. Я полагаю, что от участия в данном семинаре смогут выиграть коллеги и из других городов нашей необъятной Родины чудесной…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="799" EndNode="813">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="354" EndNode="368">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="928" EndNode="962">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="272" EndNode="286">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="346" EndNode="353">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

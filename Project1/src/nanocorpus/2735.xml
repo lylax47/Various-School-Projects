@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В <Node id="3"/>этом году<Node id="12"/> American Scientific Publishers начнёт выпуск нового журнала «Нано Образование» (The Journal of Nano Education, JNE). JNE - это рецензируемый международный журнал, цель которого предоставлять наиболее полную и проверенную информацию об образования в области нано- науки, техники, инженерии и медицины. 
+ 
+Сейчас JNE проводит поиск рукописей для рассмотрения и публикации в его первом выпуске, запланированном на <Node id="424"/>2007 год<Node id="432"/>. С более подробной информацией о целях и тематике журнала, инструкциями для авторов и составом редакционной коллегии JNE можно ознакомиться на сайте JNE. 
+ 
+Все рукописи, представленные для рассмотрения должны быть посвящены вопросам преподавания и обучения нано- науке, технике, инженерии и медицине. 
+ 
+Первый выпуск JNE будет размещён в сети в свободном доступе. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="424" EndNode="432">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="424" EndNode="432">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="3" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

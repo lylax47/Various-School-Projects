@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Нанотехнологии все больше и больше проникают в промышленность. Если ранее нанотехнологии применялись только в обработке лакокрасочного покрытия автомобиля, то теперь технологии позволяют и другие применения <Node id="208"/>наноматериалов<Node id="222"/>.
+
+Договор о сотрудничестве был подписан между «Cummins Filtration» и чешской компанией «Elmarco», которая занимается развитием нанотехнологий в промышленных условиях. Целью заключения этого договора является создание <Node id="440"/>нановолокна<Node id="451"/> для использования в автомобильной индустрии, в частности для производства фильтров.
+
+Ученые из Технического университета города Либерца разработали уникальную технологию промышленного производства <Node id="649"/>нановолокна<Node id="660"/>, которое тоньше человеческого волоса примерно в десять тысяч раз. <Node id="727"/>Нановолокна<Node id="738"/> радикально улучшают качество всех материалов. Всего три сотых грамма <Node id="808"/>нановолокна<Node id="819"/> на квадратный метр автомобильных фильтров, и фильтрация увеличивается в два раза. <Node id="902"/>В будущем<Node id="911"/> запланировано производство высокоэффективных фильтров уникальной формы с продолжительным сроком службы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="902" EndNode="911">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="208" EndNode="222">
+</Annotation>
+<Annotation Id="3" Type="Нановолокно" StartNode="440" EndNode="451">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нановолокно" StartNode="727" EndNode="738">
+</Annotation>
+<Annotation Id="6" Type="Нановолокно" StartNode="808" EndNode="819">
+</Annotation>
+<Annotation Id="7" Type="Нановолокно" StartNode="649" EndNode="660">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

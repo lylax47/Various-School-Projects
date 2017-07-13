@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>3D-нанопринтер позволяет получить наноскульптуры из оксидовИсследователи из Университета Иллинойса разработали «чернила», с помощью которых можно получать трехмерные наноформы с помощью оксидов металлов. Разработанный состав позволяет быстро получать микроразмерные топливные ячейки, <Node id="284"/>сенсоры<Node id="291"/> и фотонные кристаллы.
+Сложные 3D структуры могут быть легко «напечатаны» с помощью новых «чернил»
+Использование обычной литографической техники для получения трехмерных структур обычно требует большого времени благодаря тому, что для получения каждого слоя требуется отдельный шаблон. Однако новый состав чернил практически немедленно высыхает на воздухе, даже при наличии очень небольших промежутков между 3D-слоями.
+
+Роботизированный манипулятор автоматически распределяет чернила, автоматически создавая необходимое количество слоев, существенно сокращая время на получение требуемой наноконструкции.
+
+Впервые разработанные исследователями золь-гель чернила (sol-gel ink) представляют собой высококонцентрированные растворы комплексов титана, затвердевающие на воздухе и сохраняющие форму.
+
+Исследователи прогрели чернила до 700°C, это привело к кальцинированию комплекса и формированию оксида титана (TiO2).
+
+Выполнявшая работу над проектом Дженифер Льюис (Jennifer Lewis), профессор химии и инженерии из Университета Иллинойса отмечает, что исследователями получены образцы наноустройств размерами до 225 нм.
+Professor Jennifer Lewis
+Комментируя работу, Марк Велланд (Mark Welland), директор <Node id="1489"/>Кембриджского<Node id="1502"/> Центра Нанонауки отмечает, что масштабируемость процессов долгое время была жупелом нанотехнологии, и удобные, экономические доступные методы получения <Node id="1655"/>наноструктур<Node id="1667"/> всегда приветствуются исследователями и технологами наномира<Node id="1728"/>.
+<Node id="1730"/>http://www.chemport.ru<Node id="1752"/>/datenews.php?…Ну, как говорится, голь на выдумки хитра. Талантливые ребята: всё время ищут и находят что-то новое, необычное. В этом и состоят особенности изобретателей-первопроходцев. И пусть первые образцы созданных с помощью этого метода приборов выглядят довольно убого и неказисто (стОит вспомнить, как выглядели первый «грозоприёмник» А.С.Попова, первый транзистор Шекли, первый персональный компьютер и т.п.), шлюзы открыты, показан путь и направление работ. А охотников усовершенствовать и рафинировать эти приборы найдётся немало…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1489" EndNode="1728">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1489" EndNode="1502">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кембриджского</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="284" EndNode="291">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1489" EndNode="1728">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="1655" EndNode="1667">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1730" EndNode="1752">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

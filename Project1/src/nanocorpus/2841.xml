@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+РЕТРОСПЕКТИВА!
+  
+НАНОМЕТР публикует (перепубликует в соотвествиями с правилами) несколько научно-популярных статей с сайта VIVOVOCO, который является неплохим интегратором интересных научно-популярных материалов.  
+ 
+Дополнительно, эта "ретроспектива" вызвана повышенным интересом общественности к работам ученых Института Кристаллографии им. А.В.Шубникова РАН и РНЦ "Курчатовский Институт", в частности, в разделе "Публикации" нашего сайта добавлены "старые" статьи и.о. вице-президента РАН по нанотехнологиям члена-корреспондента РАН М.В.Ковальчука: 
+ 
+М.В. Ковальчук, В.В. Клечковская, Л.А. Фейгин "Молекулярный конструктор <Node id="630"/>Ленгмюра<Node id="638"/>-Блоджетт" 
+ 
+М.В.Ковальчук "Органические <Node id="680"/>наноматериалы<Node id="693"/>, <Node id="695"/>наноструктуры<Node id="708"/> и нанодиагностика" (более новая версия того же самого опубликована недавно в журнале "Российские нанотехнологии"), 
+ 
+а также статью-рассуждение Ю.И. Головина (Тамбовский Госуниверстет, который сейчас относится к победителям федерального конкурса инновационных ВУЗов) "Нанотехнологическая революция стартовала!" 
+ 
+Поскольку НАНОМЕТР публиковал также рассуждения о нанофлуктуациях состава в высокотемпературных сверхпроводниках и их роли в формировании сверхпроводящих свойств, добавлена "немолодая" статья Е.А.Гудилина, Ю.Д.Третьякова "Синтез левитирующих ВТСП-материалов: от фантастики к реальности", которая, помимо сверхпроводимости как таковой, пытается определить и пояснить понятие "материал" - чем он отличается от "просто вещества". Тем более, что интерес к высокотемпературным сверхпроводникам совсем еще не пропал. 
+ 
+Приятного прочтения! </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="695" EndNode="708">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="680" EndNode="693">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="630" EndNode="638">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">конструктор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ленгмюра</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Группа исследователей под руководством Ричарда Суперфайна (Richard Superfine) из университета Северной Каролины (University of North Carolina) создала гибкие <Node id="159"/>наностержни<Node id="170"/>, похожие на биологические реснички, а также смоделировала с их помощью процесс самоочищения легких.     Поверхность легких покрыта слизью, которая передвигается с помощью ресничек, что ведет к удалению случайно попавших в легкие микрочастиц. Исследователи смогли сформировать гибкие железные <Node id="463"/>наностержни<Node id="474"/> около 10 микрометров длиной и 200 нанометров шириной, что соответствует размерам биологических ресничек. <Node id="580"/>Затем<Node id="585"/> ученые поместили <Node id="603"/>наночастицы<Node id="614"/> в жидкий полимер полидиметилсилоксен (polydimethylsiloxane), имитирующий слизь, и заставили <Node id="707"/>наностержни<Node id="718"/> изгибаться под действием переменного магнитного поля. В такой системе "слизь" могла передвигаться и, как показали компьютерные модели, система оказалась близкой к своему биологическому аналогу.     Реснички являются важной частью множества органов, например, уха, почек, мозга и т.д. По мнению исследователей, разработанная система сможет моделировать биологические процессы, происходящие в организме, а также ее можно использовать для эффективного смешивания вязких жидкостей. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наностержень" StartNode="463" EndNode="474">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="159" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="580" EndNode="585">
+</Annotation>
+<Annotation Id="9" Type="Наностержень" StartNode="707" EndNode="718">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="603" EndNode="614">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

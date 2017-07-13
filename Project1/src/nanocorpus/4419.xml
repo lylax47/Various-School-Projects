@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Уральский научно-образовательный центр "Перспективные материалы" нанометрическое разрешение, твердое тело   Сканирующая зондовая микроскопия   Экспериментальное изучение локальных свойств твердых тел с нанометрическим разрешением                             <Node id="260"/>Шур Владимир Яковлевич<Node id="282"/>, заведующий лабораторией, профессор 
+Лаборатория создана в <Node id="342"/>2002 году<Node id="351"/> 
+ 
+ 
+Образовательная деятельность лабораториии 
+ 
+  Проводятся занятия специального практикума по СЗМ  Постоянно действует семинар по СЗМ 
+ 
+Поддержка молодых ученых 
+ 
+  Финансовая поддержка стажировки в НОЦ СЗМ Нижегородского университета  Получено четыре Travel Grant Уральского НОЦ для участия в международных конференциях (Int. Workshop PMNOPM'2001 (1), Madrid, Spain, IMF'2001, Madrid, Spain (1); ISFD'2002, Giens, France (2  Получено два гранта Уральского НОЦ на выполнение научной работы     Атомно-силовой микроскоп Explorer, ThermoMicroscopes, USA   Department of Electrical Engineering, Stanford University, USA Institut fur Werkstoffe der Elektrotechnik der Rhein.-Westfallische Technischen Hochschule Aachen, Germany National Institute of Material Science, Japan Universite de Nice Sophia Antipolis, France Universite de Toulon et du Var, France Научно-Образовательный Центр Сканирующей Зондовой Микроскопии Нижегородского государственного университета им. Н.И. Лобачевского, </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="342" EndNode="351">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="342" EndNode="351">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="260" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Яковлевич</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Владимир</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

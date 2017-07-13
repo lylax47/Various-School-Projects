@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотранзистор шириной десять атомовУченые создали транзистор шириной в 10 атомов, а толщиной всего в один, сообщает BBC News.
+Нанотранзистор, являющийся, по большому счету, переключателем, использует <Node id="201"/>графен<Node id="207"/>, одноатомный слой графита. Этот материал создан <Node id="256"/>4 года назад<Node id="268"/> (*). Он обладает уникальными свойствами: носители очень подвижны при комнатной температуре, поэтому для канала КМОП транзисторов материал не имеет <Node id="416"/>на сегодняшний день<Node id="435"/> альтернативы. Его прозрачность во всем видимом диапазоне спектра при высокой проводимости может открыть новые возможности в области уменьшения объемов транзисторов.
+Dr Leonid Ponomarenko показывает прибор со встроенным транзистором
+Напомним, что транзистор – это полупроводниковый прибор, предназначенный для усиления электрического тока и управления им. Чем меньше транзисторы, тем меньше цифровая техника.
+
+В <Node id="847"/>1959 году<Node id="856"/> ученый <Node id="864"/>Фейнман<Node id="871"/> в своей лекции «Внизу полным-полно места: приглашение в новый мир физики» показал, что законы квантовой механики не препятствуют созданию нужных людям структур из совсем небольшого числа атомов. Когда электронный микроскоп был практически единственным инструментом, позволяющим хоть что-то разглядеть в наномасштабе, идеи <Node id="1194"/>Фейнмана<Node id="1202"/> казались фантастикой.
+Короткие и узкие наномостики в <Node id="1256"/>графене<Node id="1263"/> могут действовать как прекрасные транзисторы
+Сейчас исследования <Node id="1329"/>Андрэ Гейма<Node id="1340"/> (Andre Geim) и Кости Новоселова (Kostya Novoselov) из Манчестерского университета (University of Manchester), Великобритания, позволяют говорить о потенциальных приложениях <Node id="1514"/>графенов<Node id="1522"/> в электронике.
+
+Кстати, это не единственная группа в мире, занимающаяся нанотехнологиями. Так, в Каталонии создали первый в мире монорельсовый нанопоезд. В России в последнее время также обострился интерес к нанотехнологиям. В <Node id="1750"/>январе<Node id="1756"/> в Российской академии наук было создано отделение нанотехнологий и информационных технологий.
+<Node id="1851"/>http://www.vokrugsveta.ru/news/3752/<Node id="1887"/>
+(*) Неточность перевода: На самом деле <Node id="1927"/>К.Новосёлов сказал следующее: «Given the material was first obtained by us four years ago, we are making good progress.<Node id="2046"/>» (С учётом того, что этот материал был получен нами <Node id="2099"/>4 года тому назад<Node id="2116"/>, мы уже многого достигли… – См. Novoselov K. S. et al. «Electric Field Effect in Atomically Thin Carbon Films», Science 306, 666 (2004)).
+Nano switch hints at future chipsAndre Geim
+…Dr Kostya Novoselov and Professor Andre Geim from The School of Physics and Astronomy at The University of Manchester presented their findings in the 17 April issue of Science.
+<Node id="2477"/>http://news.bbc.co.uk<Node id="2498"/>/…/7352464.stmДа, это большое достижение!.. Самое забавное, что, в то время как «коренные» британцы тяжким трудом зарабатывают свой нелёгкий фунт стерлингов, «понаехавшие тут» «иностранцы» (как называют их в Великой Британии) занимаются наукой в университетах и всё время чего-то открывают, изобретают, создают… А ведь могли бы делать ЭТО и у себя дома… Или не могли?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="847" EndNode="856">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1329" EndNode="1340">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Андрэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1927" EndNode="2046">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="201" EndNode="207">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1851" EndNode="1887">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1927" EndNode="2046">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="256" EndNode="268">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="416" EndNode="435">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="1514" EndNode="1522">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="864" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фейнман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="847" EndNode="856">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Графен" StartNode="1256" EndNode="1263">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="1194" EndNode="1202">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фейнман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="2099" EndNode="2116">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Url" StartNode="2477" EndNode="2498">
+</Annotation>
+<Annotation Id="22" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="1750" EndNode="1756">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

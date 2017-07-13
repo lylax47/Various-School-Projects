@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из США создали новый метод нанесения пленок оксида <Node id="59"/>графена<Node id="66"/> на различные подложки при комнатной температуре. По-видимому, новый метод пригодится в «гибкой» наноэлектронике и нанотехнологиях вообще.
+
+<Node id="206"/>Маниш Човалла (Manish Chhowalla) из Университета Рутгерса (Rutgers University) объяснил, что электропроводящие свойства полученных прозрачных графеновых пленок могут задаваться исследователями<Node id="398"/>. Так, можно получить как металлические, так и полупроводниковые графеновые пленки, изменяя количество графеновых слоев. Эта технология как нельзя лучше подходит для изготовления недорогих и высоко эффективных солнечных панелей.
+
+Технология основана на методе вакуумной фильтрации, в которой суспензия графеновых пленок проходит через фильтр с диаметром пор 25 нанометров.
+
+<Node id="772"/>Затем<Node id="777"/> на фильтре образуется слой графеновых пленок толщиной 1–5 нанометра. Чем больше суспензии фильтруется, тем толще получается слой. Фильтрующая бумага удаляется с помощью ацетона. <Node id="956"/>Затем<Node id="961"/> полученную многослойную структуру интегрируют в основу – пластик, стекло или кремний.
+
+Так можно получить гибкие прозрачные микроэлектронные устройства, например солнечные батареи, или матрицы нанотранзисторов.
+
+В <Node id="1176"/>настоящее время<Node id="1191"/> ученые исследуют степень мобильности зарядов внутри полученных композитов.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="956" EndNode="961">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="206" EndNode="398">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1176" EndNode="1191">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="206" EndNode="398">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="772" EndNode="777">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="59" EndNode="66">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

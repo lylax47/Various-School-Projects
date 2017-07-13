@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Помощник сенатора от Удмуртии будет руководить центром наноиндустрииВ Ижевске состоялось собрание учредителей Республиканского центра наноиндустрии. На нем, в частности, состоялись выборы руководителя этой автономной некоммерческой организации. Директором Республиканского центра наноиндустрии стал Михаил Плетнев – доктор химических наук, начальник управления по инновационной работе ИжГТУ, помощник члена Совета Федерации РФ Виктора Шудегова<Node id="443"/>.<Node id="444"/>
+Михаил Плетнев окончил УдГУ и аспирантуру Московского государственного педагогического университета, преподавал, был доцентом кафедры физической и органической химии, руководителем научного департамента и проректором по инновационной деятельности УдГУ. <Node id="698"/>Затем<Node id="703"/> возглавлял Ижевский филиал Современной гуманитарной академии, в <Node id="768"/>настоящее время<Node id="783"/> работает в ИжГТУ. Автор более чем ста научных работ, заслуженный деятель науки Удмуртии.
+С п р а в к аРеспубликанский центр наноиндустрии создан в <Node id="931"/>2007 году<Node id="940"/>. Среди его учредителей – научно-исследовательские институты Российской академии наук и крупные промышленные предприятия Ижевска (Ижевский физико-технический институт УрО РАН, Институт прикладной механики УрО РАН, Ижевский электромеханический завод «Купол» и др.) Своей задачей организаторы центра считают содействие внедрению современных нанотехнологий в производство.
+<Node id="1310"/>http://www.udm-info.ru/…8/anano.htmlНу<Node id="1348"/> что ж, вполне достойный, опытный и весьма квалифицированный руководитель. Будем надеяться, что Удмуртия будет в первых рядах движения за всемерное развития отечественной отрасли нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="443" EndNode="444">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="768" EndNode="783">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="698" EndNode="703">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="931" EndNode="940">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1310" EndNode="1348">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="443" EndNode="444">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="931" EndNode="940">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

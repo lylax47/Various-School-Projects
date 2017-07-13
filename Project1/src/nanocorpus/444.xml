@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Целью данной стипендиальной программы является единовременная финансовая поддержка талантливых студентов и аспирантов.
+
+Являясь талантливым молодым ученым, Вы можете получить стипендию Intel, если:
+– Вы ведете научные исследования в сфере, которую Intel считает актуальной для развития информационных и телекоммуникационных технологий;
+– Вы являетесь студентом или аспирантом;
+– Ваше исследование является оригинальной научной разработкой;
+– Вы ведете активную научную деятельность;
+– Вы имеете хорошую академическую успеваемость;
+
+Срок подачи заявок – до <Node id="557"/>20 ноября 2006 г.<Node id="574"/> Рассмотрение заявок и объявление победителей будет проведено в <Node id="638"/>декабре 2006 г.<Node id="653"/>
+
+Сферы, которые Intel считаем актуальными для развития информационных и телекоммуникационных технологий:
+– Параллельное программирование и высокопроизводительные вычислительные системы (Parallel Programming and High Performance Computing).
+– Разработка программных средств для оптимизации производительности систем и кросс-архитектурных средств.
+– Разработка архитектур процессоров и вычислительных систем и средства их проектирования.
+– Java, бинарная трансляция.
+– Обработка потоков данных и сигналов (Media &amp; Signal processing).
+– Компиляторы (Compilers).
+– Технологии беспроводной связи (Wireless Communications).
+– Моделирование материалов, процессов и приборов полупроводникового производства.
+
+Подробности на сайте компании </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="638" EndNode="653">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="557" EndNode="574">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

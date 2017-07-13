@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> "<Node id="2"/>Месяц<Node id="7"/>, прошедший после выхода в свет предыдущего “Наноскопа”, принес немало новостей, главной из которых стал президентский указ о пилотном проекте по созданию национального исследовательского центра на базе Курчатовского института. Тем самым власть в очередной раз подчеркнула свою благосклонность к нанотехнологиям вообще и к их научной составляющей в частности. Это прекрасно. Но что ждет тех, кто остается за пределами высочайшего внимания?" - "Наноскоп - 5"            </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2" EndNode="7">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

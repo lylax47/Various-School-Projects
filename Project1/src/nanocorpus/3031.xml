@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Как сообщает Science Now, специалисты из Северо-Западного университета в Эванстоне (Northwestern University in Evanston), США, создали сверхпрочный материал, способный дать начало целому классу нанокомпозитных материалов.
+«Супербумага»
+Материал, созданный из <Node id="259"/>графена<Node id="266"/> (<Node id="268"/>Графен<Node id="274"/> (англ. graphene) — слой атомов углерода, соединённых посредством sp2 связей в гексагональную двумерную кристаллическую решётку. Его можно представить как одну плоскость графита, отделённую от объёмного кристалла. По оценкам, <Node id="500"/>графен<Node id="506"/> обладает большой механической жёсткостью и хорошей теплопроводностью), представляет собой тонкий слой, гибкость которого сравнима с аналогичным слоем из <Node id="660"/>углеродных <Node id="671"/>нанотрубок<Node id="681"/>, а прочность даже выше.
+«Микроскопический» вид среза новой бумаги
+Но главное состоит в том, что новый материал гораздо дешевле всех аналогов, полученных к настоящему времени. «Бумага» из такого материала может применяться в различных отраслях, от электроники до обертки.
+
+Тем не менее, у супербумаги есть один недостаток – при соприкосновении с водой ее прочность постепенно теряется. В ближайшее время исследователи будут решать эту проблему, что по их оценкам, отдалит коммерциализацию проекта еще на 5–<Node id="1187"/>10 лет<Node id="1193"/>.
+<Node id="1195"/>http://www.polit.ru/…erpaper.htmlhttp://sciencenow.sciencemag.org<Node id="1260"/>/…l/2007/725/2?…Ну, поскольку при изготовлении новой бумаги применялась вода, то… Как говорится, «я тебя породил, я тебя и убью». Теперь им придётся поискать какой-то новый растворитель для изготовления такой бумаги (ибо вода есть повсюду и даже в окружающем нас воздухе). Но уже даже и попытка создания такого «продукта» – значительно более дешёвого и прочного – уже заслуживает одобрения. Тем более, что наверняка можно будет найти для него какое-то специфическое применение (например, в качестве временного носителя информации).</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="259" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="268" EndNode="274">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="500" EndNode="506">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="671" EndNode="681">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="660" EndNode="681">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1195" EndNode="1260">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1187" EndNode="1193">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1187" EndNode="1193">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

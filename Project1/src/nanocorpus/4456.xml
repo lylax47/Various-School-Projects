@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Академиков РАН станет большеЧисленность академиков и членкоров Российской академии наук увеличится на 30 человек. Такое распоряжение подписал премьер-министр Виктор Зубков. Теперь в РАН будет 506 действительных членов и 749 членкоров (раньше было 496 и 729).
+Увеличение количества академиков связано с открытием в РАН нового отделения — нано- и IT-технологий, образованного из отделения информационных технологий и вычислительных систем. Его возглавил лауреат Нобелевской премии по физике вице-президент РАН <Node id="508"/>Жорес<Node id="513"/> <Node id="514"/>Алферов<Node id="521"/>. Постановление <Node id="537"/>правительства<Node id="550"/> определило и предельную численность академиков и членкоров РАН — 510 и 770 человек соответственно.
+Справка “МК”. Госфинансирование в сфере нанотехнологий составит в <Node id="716"/>2008 году<Node id="725"/> <Node id="726"/>10 млрд. руб.<Node id="739"/>, а в 2009-м — 12 млрд. Сегодня 75 российских предприятий производят нанопродукцию на <Node id="825"/>7 млрд. руб.<Node id="837"/> в <Node id="840"/>год<Node id="843"/>. К <Node id="847"/>2015 году<Node id="856"/> этот объем должен возрасти до <Node id="887"/>900 млрд. руб.<Node id="901"/>
+<Node id="902"/>http://www.mk.ru<Node id="918"/>/…aily/338080/Фактически, эта новость является продолжением уже объявленных изменений в структуре РАН: <Node id="1021"/>http://www.nanonewsnet.ru/…hnologii-ran<Node id="1060"/> и <Node id="1063"/>http://www.nanonewsnet.ru/…ozdano-v-ran<Node id="1102"/> . Причём, утверждается, что бОльшая часть вакансий достанется «провинции» и что все новые академики/член-корры будут заниматься именно нанотехнологиями… Ну, как говорится, дай то бог!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="514" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="825" EndNode="837">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="716" EndNode="725">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1021" EndNode="1060">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="726" EndNode="739">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="887" EndNode="901">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="716" EndNode="725">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="847" EndNode="856">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="508" EndNode="513">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="537" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="847" EndNode="856">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1063" EndNode="1102">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="840" EndNode="843">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="902" EndNode="918">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

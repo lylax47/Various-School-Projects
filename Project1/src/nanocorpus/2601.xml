@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Журнал R&amp;D Magazine включил настольный микроскоп – разработку совместной группы исследователей Университета Штата Колорадо (Colorado State University) и Инженерно-Исследовательского Центра Науки и Технологии Национального Научного Фонда США (National Science Foundation Engineering Research Center for Science and Technology) в список 100 наиболее значительных технологических новинок <Node id="386"/>2008 года<Node id="395"/>.
+
+Научная группа разработчиков микроскопа, которая включает в себя несколько студентов –выпускников, получила награду на ежегодной церемонии журнала R&amp;D Magazine <Node id="558"/>16 октября<Node id="568"/> в Чикаго. Газета Чикаго Трибюн (Chicago Tribune) назвала эту церемонию «Оскаром изобретений». Выиграв эту награду, Университет Штата Колорадо вошел в элитную группу победителей конкурса, которая включает ряд университетов, национальных лабораторий, национальных (США) и международных компаний. Список 100 лауреатов журнала R&amp;D Magazine означает престижный статус среди мировых лидеров в новейших исследованиях, получение такой награды является очень престижным.
+
+Руководила группой исследователей и конструкторов, которые разработали микроскоп, профессор Университета Штата Колорадо <Node id="1152"/>Кармен Менони<Node id="1165"/> <Node id="1166"/>(Carmen Menoni). Разработчики использовали излучение уникального сверх-ультрафиолетового лазера (СУФЛ), который также был создан в Университете. СУФЛ несколько ранее изготовила группа профессора Хорхе Рокка (Jorge Rocca) в сотрудничестве с Национальной Лабораторией <Node id="1432"/>Лоуренс<Node id="1439"/> в Беркли (Lawrence Berkeley National Laboratory), которая предоставила специальные линзы для системы. Большой вклад в проект внесли ученые Московского Физического Института им. Лебедева (ФИАН), которые разработали и изготовили зеркала для микроскопа.
+
+В микроскопе используются остронаправленные лазерные пучки излучения с длиной волны в 10 раз более короткой, чем длина волны видимого света, известного как сверх-ультрафиолетовое излучение. При этом, микроскоп способен «различать» объекты в 1000 меньшего размера, чем толщина человеческого волоса (который имеет толщину порядка нескольких десятков мкм. ЕБ).
+
+Микроскоп, разработанный группой из Университета Штата Колорадо с активным участием и содействием упомянутых организаций, имеет целый ряд уникальных характеристик, важных при исследовании и характеризации нано-объектоав. С помощью этого микроскопа можно также делать фотоснимки <Node id="2329"/>наноструктур<Node id="2341"/> с одиночной вспышкой, что открывает перспективу съемки фильмов для изучения динамики нанопроцессов. Исключительно высокая яркость СУФЛ способствует регистрации изображений с очень малой выдержкой – порядка одной миллиардной доли <Node id="2571"/>секунды<Node id="2578"/> (одна наносекунда. В отличие от электронных микроскопов, регистрация изображений возможна даже при приложении электромагнитного поля. Ни один из известных столь компактных инструментов не имеет подобных возможностей при сравнимой разрешающей способности.
+
+Исследовательская работа, приведшая к созданию чудо-микроскопа, является частью проекта Инженерно-Исследовательского Центра, финансируемого грантом Национального Фонда Науки (США), размером <Node id="3025"/>4 млн. долларов<Node id="3040"/> в <Node id="3043"/>год<Node id="3046"/>. Работа, как отметили руководители Центра, стала возможной благодаря огромной поддержке ряда исследовательких групп Университета, <Node id="3177"/>Лаборатории Лоуренс<Node id="3196"/> из Беркли, а также нескольких организаций –лидеров в области нанонауки, нанотехнологии, компьютерной технологии, лазерной техники и фотоники.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="3025" EndNode="3040">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="558" EndNode="568">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1432" EndNode="1439">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоуренс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="3043" EndNode="3046">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1152" EndNode="1165">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кармен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="1165" EndNode="1166">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="2329" EndNode="2341">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="1165" EndNode="1166">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="386" EndNode="395">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="3177" EndNode="3196">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоуренс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2571" EndNode="2578">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="386" EndNode="395">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Постановление от <Node id="17"/>29 января 2007 г.<Node id="34"/> N 54 О федеральной целевой программе «Национальная технологическая база» на <Node id="111"/>2007 – 2011 годы<Node id="127"/>
+Правительство Российской Федерации постановляет:
+
+Председатель Правительства Российской Федерации М.Фрадков
+
+Москва,
+
+<Node id="246"/>8 февраля 2007 г.<Node id="263"/>,
+
+N 0178
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="17" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="246" EndNode="263">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="111" EndNode="127">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

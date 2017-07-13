@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Метрология-2008<Node id="15"/>С 3 по 5 июня 2008 года<Node id="38"/> на территории Всероссийского выставочного центра пройдет Международная выставка средств измерений, испытательного и лабораторного оборудования «Метрология-2008».Специальный приз выставки «Метрология»Федеральное агентство по техническому регулированию и метрологии и Государственная корпорация «Российская корпорация нанотехнологий» выступили с инициативой организации на выставке специализированного раздела, отражающего современное состояние измерений и испытаний <Node id="504"/>наноматериалов<Node id="518"/> и созданной на основе <Node id="541"/>наноматериалов<Node id="555"/> продукции, перспективы создания системы оценки и подтверждения соответствия и обеспечения безопасности использования нанотехнологий и продукции наноиндустрии, а также пути развития стандартизации и нормативного обеспечения в сфере нанотехнологий и <Node id="804"/>наноматериалов<Node id="818"/>.
+
+Приглашаются все заинтересованные организации и предприятия представить разработки, обеспечивающие решение проблем измерений и подтверждения соответствия продукции наноиндустрии, в разделе нанотехнологий на выставке «Метрология-2008», которые могут стать для его участников основой долгосрочного сотрудничества и будут способствовать успешному развитию работ в этом перспективном направлении науки и техники.
+Информацию об условиях можно получить по телефону: (495) 937–40–23, по электронной почте: <Node id="1320"/>metrol@expoprom.ru<Node id="1338"/> и на сайте: <Node id="1351"/>metrol.expoprom.ru<Node id="1369"/> <Node id="1370"/>http://www.nanometer.ru/…4_52126.html<Node id="1407"/>
+См. также здесь:
+ГК «Роснанотех» примет участие в выставке <Node id="1467"/>«Метрология-2008»http://www.nanonewsnet.ru/…ologiya-2008Ещё<Node id="1526"/> одно напоминание о предстоящей выставке. Если ещё не приняли решение об участии в ней, то поторопитесь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1351" EndNode="1369">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="504" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="804" EndNode="818">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="541" EndNode="555">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Электронная_почта" StartNode="1320" EndNode="1338">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1467" EndNode="1526">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="15" EndNode="38">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1370" EndNode="1407">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

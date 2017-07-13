@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Южный научный центр РАН гетерофазные системы, кластеры, многокомпонентные гетероструктуры, <Node id="93"/>наноструктуры<Node id="106"/>, твердотельные матрицы, твердые растворы, фазовые осцилляции   Нанотехнологии Твердательная электроника   Описание процессов зародышеообразования твердых растворов из многокомпонентных расплавов в градиентном поле заданной конфигурации получение температурных и концентрационных зависимостей параметров взаимодействия компонентов гетерофазных систем, имеющих важное значение в расчете фазовых диаграмм разработка теории формирования упорядоченных твердотельных матриц с иерархической субструктурой разработка технологических маршрутов стратегически значимых электронных устройств на основе висмутсодержащих твердых растворов, в полной мере учитывающих и использующих наблюдаемые в них новые физические явления разработка фундаментальных основ процессов кристаллизации многокомпонентных гетероструктур электронной техники топологическое описание симметрии фазовых осцилляций в рамках моделей случайного распределения атомов, квазихимического приближения регулярных растворов и ассоциирования кластеров в ростовой среде экспериментальное и теоретическое исследование условий формирования <Node id="1193"/>наноструктур<Node id="1205"/> в поле температурного градиента, в зондовых электрических и атомно-силовых полях                             Баранник Алексей Анатольевич , старший научный сотрудник, кандидат наук Благин Анатолий Вячеславович, заведующий лабораторией, профессор, доктор наук Шукшунов Валентин Ефимович , научный руководитель, профессор, доктор наук  установка градиентной кристаллизации “РАДУГА” установка ионного напыления многокомпонентных пленок (в оперативном управлении Волгодонского института ЮРГТУ(НПИ))   Северо-Кавказский государственный технический университет , Ставрополь ФТИ им. А.Ф.Иоффе РАН ,      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="93" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="1193" EndNode="1205">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

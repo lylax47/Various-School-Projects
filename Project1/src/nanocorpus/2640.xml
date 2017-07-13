@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>nanoTX USA – международная выставка и конференция, которая будет проходить <Node id="75"/>в начале осени<Node id="89"/> в Далласе, штат Техас, в рамках Международной <Node id="136"/>Недели<Node id="142"/> Нанотехнологии и, безусловно, являться центральным ее событием.
+
+Будучи одним из основных событий в нанонауке, nanoTX 2008 позволяет увидеть, как нанотехнологии используется сегодня и какое влияние они будут оказывать в дальнейшем на такие отрасли промышленности, как: электроника, космос, безопасность, биомедицина, робототехника, химия и пр. Данная конференция является центральным событием в Америке в области нанотехнологий и главным партнером ее, безусловно, является выставка нанотехнологий в Японии – стране, достигших прекрасных успехов в этой области, что было доказано на предыдущей выставке в Токио <Node id="753"/>год назад<Node id="762"/>.
+
+Конференция будет проводиться в Далласе (Dallas Convention Center)
+
+В ней примет участие известный американский ученый Эрик Дрекслер.
+
+Сайт конференции: http://nanotx.biz</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="136" EndNode="142">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="753" EndNode="762">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="75" EndNode="89">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

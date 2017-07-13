@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Институт статистических исследований и экономики знаний и <Node id="59"/>Форсайт<Node id="66"/>-центр Государственного университета – Высшей школы экономики (ГУ-ВШЭ) проводят конкурс «СОЗДАДИМ БУДУЩЕЕ». По договоренности с организаторами, в переработанном в соответствии с правилами конкурса виде можно подавать эссе и минипроекты, которые посылались участниками Олимпиады на творческие туры. Конкурсные темы:    «<Node id="385"/>Один день<Node id="394"/> россиянина в <Node id="408"/>2025 году<Node id="417"/>»    «2025: нанотехнологии в повседневной жизни»    
+Подготовку работ предлагается проводить с учетом перечня повседневных потребностей человека:
+   Жилье   Работа (где, кто, как)   Образование   Транспорт, связь   Здоровье   Досуг   Питание   Среда обитания   
+Предложенные темы могут быть рассмотрены с любой точки зрения. Основным «героем» первой темы может быть человек любого возраста: младенец или пожилой человек, школьник, студент, активно работающий молодой человек или человек средних <Node id="912"/>лет<Node id="915"/> на пике карьеры, мужчина или женщина; а также любой профессии: врач, певец, учитель, продавец (лекарь, пекарь, аптекарь и т.п.).
+ 
+При раскрытии второй темы особенно важно показать возможности практического применения нанотехнологий в разных сферах человеческой жизни – главной темой может быть выбрана любая сфера: образование, труд, досуг, организация любого времени <Node id="1285"/>дня<Node id="1288"/> (утро, <Node id="1296"/>день<Node id="1300"/>, вечер), транспорт и т.п. Формат проведения:
+   принимаются тексты в электронном виде (WinWord)   объем – не более 2 500 слов.   
+В конкурсе могут участвовать студенты и аспиранты российских вузов.
+ РАБОТЫ СЛЕДУЕТ ОТПРАВЛЯТЬ ПО ЭЛЕКТРОННОЙ ПОЧТЕ  на адрес <Node id="1557"/>foresight@hse.ru<Node id="1573"/> с пометкой «КОНКУРС». Не забывайте указывать свое имя, контактные данные, вуз, факультет и курс. РАБОТЫ ПРИНИМАЮТСЯ ДО <Node id="1693"/>30 МАЯ 2008 г.<Node id="1707"/>
+Требования к работам
+   оригинальность   соответствие заявленной теме   обоснованность высказываемых предположений (автор объясняет, почему приведенный вариант представляется вероятным)   
+Награды
+   Денежный приз: 1-е место – <Node id="1935"/>30 000 руб.<Node id="1946"/>, 2-е место – <Node id="1960"/>20 000 руб.<Node id="1971"/>, 3-е место – <Node id="1985"/>10 000 руб.<Node id="1996"/>   Публикация наиболее интересных и оригинальных работ в журнале «Форсайт» (журнал включен в перечень ВАК)   Участие победителей конкурса в групповом экспертном обсуждении, посвященном выработке наиболее вероятных сценариев будущего развития страны   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="385" EndNode="394">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1693" EndNode="1707">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">МАЯ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="59" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Форсайт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1935" EndNode="1946">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1960" EndNode="1971">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1985" EndNode="1996">
+</Annotation>
+<Annotation Id="8" Type="Электронная_почта" StartNode="1557" EndNode="1573">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="408" EndNode="417">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="912" EndNode="915">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="408" EndNode="417">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1285" EndNode="1288">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1296" EndNode="1300">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

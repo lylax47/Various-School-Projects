@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В свете обсуждения целесообразности создания «Нанотехнологического сообщества»:
+<Node id="81"/>http://www.nanonewsnet.ru/…-obshchestva<Node id="120"/>
+Просматривая материалы по отечественным сообществам (в данном случае ОСОАВИАХИМ) наткнулся на сайт, где представлены фотографии Капкова Юрия Николаевича (Декан (<Node id="282"/>с 1967 по 1987 год<Node id="300"/>) Геофизического Факультета и преподаватель Ленинградского Горного Института.): <Node id="380"/>http://www.gff-lgi.spb.ru/pr-kapkov.htm<Node id="419"/>
+В начале галереи есть интересная фотография «Друзья ОСОАВИАХИМа». Я её немного подправил (без разрешения владельца (!), надеюсь это будет воспринято с добрым юмором):
+
+В данном случае я иллюстрировал спорное мнение (высказанное во время обсуждения идеи Нанотехнологического сообщества) о целесообразности привлечения к его финансированию широких масс: «девчонок и мальчишек, а также их родителей».
+
+Ну юмор юмором, а однако ж не следует забывать, что из этой «голоштанной команды» с фотографии, в итоге наверняка появилось не мало отличных граждан, которые внесли свой вклад в защиту и развитие нашей Родины, в том числе на полях сражений, народном хозяйстве и в науке. Во многом, благодаря людям с этой фотографии, мы сейчас и имеем возможность обсуждать идею создания Нанотехнологического сообщества. Так что не нужно забывать уроки истории, тем более недавние.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="81" EndNode="120">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="282" EndNode="300">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="380" EndNode="419">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

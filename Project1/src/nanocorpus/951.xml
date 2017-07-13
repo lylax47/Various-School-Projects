@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Разделение разных видов <Node id="25"/>углеродных <Node id="36"/>нанотрубок<Node id="46"/> имеет большое значение, т.к. их электрические, механические и оптические свойства тесно связаны с их структурой. Недавно группа ученых из Японии сделала большой шаг вперед к изготовлению <Node id="234"/>углеродных <Node id="245"/>нанотрубок<Node id="255"/> одного типа: впервые были разделены оптические изомеры <Node id="311"/>нанотрубок<Node id="321"/> [Peng et al., Nat. Nanotechnol. (2007) doi:10.1038/ nnano.2007.142]. Для разделения <Node id="406"/>нанотрубок<Node id="416"/> по размеру может использоваться хроматография, но до сих пор мало внимания уделялось тому, что в получаемых образцах лево- и правоспиральные <Node id="558"/>нанотрубки<Node id="568"/> распределялись равномерно, утверждает г-н Наоки Комацу (Naoki Komatsu) из Университета медицинских наук г. Шига (Shiga University of Medical Science), работавший в сотрудничестве с коллегами из Киотского университета (Kyoto University) и Осакского университета электрокоммуникаций (Osaka Electro-Communication University). Эти зеркально противоположные формы, или оптические изомеры, могут обнаруживать разные химические или оптические свойства. Для разделения лево- и правоспиральных <Node id="1054"/>нанотрубок<Node id="1064"/> группа использовала хиральное поверхностно-активное вещество — цинк(II)дипорфирины, соединенные метафениленовыми мостиками. Сначала по отдельности синтезировались зеркально противоположные формы этих «хиральных нанопинцетов». <Node id="1291"/>После этого<Node id="1302"/> одна из полученных форм вводится в суспензию <Node id="1348"/>нанотрубок<Node id="1358"/> в метаноле, где хиральное ПАВ образует с <Node id="1400"/>нанотрубками<Node id="1412"/> растворимый комплекс. После удаления нерастворимого компонента, а затем и ПАВ, остается раствор, обогащенный <Node id="1522"/>нанотрубками<Node id="1534"/> с одним направлением вращения спирали. Эксперименты, проведенные методом циркулярного дихроизма, подтверждают оптическую активность полученного образца. Дальнейшие исследования будут направлены на получение «оптически чистого» образца <Node id="1770"/>нанотрубок<Node id="1780"/> с одним направлением вращения спирали. <Node id="1820"/>По словам г-на Комацу, это даст возможность получать надежные и точные физические данные о структуре <Node id="1921"/>углеродных <Node id="1932"/>нанотрубок<Node id="1942"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="1820" EndNode="1942">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1522" EndNode="1534">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="558" EndNode="568">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="234" EndNode="255">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="1921" EndNode="1942">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1400" EndNode="1412">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="311" EndNode="321">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="245" EndNode="255">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1770" EndNode="1780">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1932" EndNode="1942">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1291" EndNode="1302">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="406" EndNode="416">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="1348" EndNode="1358">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="36" EndNode="46">
+</Annotation>
+<Annotation Id="27" Type="Углеродная+нанотрубка" StartNode="25" EndNode="46">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="1054" EndNode="1064">
+</Annotation>
+<Annotation Id="29" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="автор" StartNode="1820" EndNode="1942">
+</Annotation>
+<Annotation Id="33" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

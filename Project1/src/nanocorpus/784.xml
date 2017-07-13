@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как известно, <Node id="15"/>квантовые точки<Node id="30"/>, присоединенные к биомолекулам и антителам, могут помочь точно идентифицировать их и проследить их внутри организма. Однако до нынешнего времени исследовались только лабораторные образцы <Node id="218"/>квантовых точек<Node id="233"/>. О массовом внедрении в клиническую практику <Node id="279"/>квантовых точек<Node id="294"/> пока не было речи.
+
+Но недавно учеными из нанотехнологичекого центра предиктивной онкологии при Эмори-Джорджии (Emory-Georgia Tech Nanotechnology Center for Personalized and Predictive Oncology) было установлено, что биологически связанные <Node id="535"/>квантовые точки<Node id="550"/> можно легко «настроить» на обнаружение биомолекул, характерных только для раковых клеток.
+
+Как сообщает PhysOrg, нововведение состоит в том, что ассоциированные с <Node id="714"/>квантовыми точками<Node id="732"/> биомаркеры могут присоединяться к нескольким видам биомолекеул, что обеспечивает гибкость подобной диагностики.
+
+Команда ученых во главе с <Node id="872"/>Шумин Ни<Node id="880"/> (Shuming Nie) описала также способы обработки образцов тканей для диагностики <Node id="959"/>квантовыми точками<Node id="977"/>. Как следует из работы, лабораторная подготовка <Node id="1026"/>квантовых точек<Node id="1041"/> и ткани занимает всего <Node id="1065"/>один день<Node id="1074"/>. Клиническая же будет происходить несколько дольше – от двух <Node id="1136"/>до трех дней<Node id="1148"/>. Также благодаря тому, что <Node id="1176"/>квантовые точки<Node id="1191"/> разноцветны, можно диагностировать различные биомолекулы.
+
+Компьютерный анализ картины <Node id="1279"/>флуоресценции<Node id="1292"/> <Node id="1293"/>квантовых точек<Node id="1308"/> в ткани в конце исследования покажет наличие или же отсутствие раковых клеток.
+
+Как говорят исследователи, новая лабораторная практика может появиться в клиническом использовании уже <Node id="1492"/>через несколько лет<Node id="1511"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Квантовая+точка" StartNode="959" EndNode="977">
+</Annotation>
+<Annotation Id="2" Type="Квантовая+точка" StartNode="1293" EndNode="1308">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="1026" EndNode="1041">
+</Annotation>
+<Annotation Id="4" Type="Квантовая+точка" StartNode="714" EndNode="732">
+</Annotation>
+<Annotation Id="5" Type="Квантовая+точка" StartNode="218" EndNode="233">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="15" EndNode="30">
+</Annotation>
+<Annotation Id="7" Type="Флуоресценция" StartNode="1279" EndNode="1292">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Квантовая+точка" StartNode="1176" EndNode="1191">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="872" EndNode="880">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шумин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1492" EndNode="1511">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1065" EndNode="1074">
+</Annotation>
+<Annotation Id="13" Type="Квантовая+точка" StartNode="279" EndNode="294">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Квантовая+точка" StartNode="535" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1136" EndNode="1148">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> «<Node id="2"/>Дифракционные методы<Node id="22"/> исследования вещества:от молекул к кристаллам и <Node id="71"/>наноматериалам<Node id="85"/>»Черноголовка, <Node id="100"/>30 июня-3 июля 2008 г.<Node id="122"/> 
+ 
+Информационное письмо №1 
+ 
+ 
+Глубокоуважаемые коллеги! 
+        
+<Node id="192"/>http://www.icp.ac.ru/conferences/dif2008/index.html<Node id="243"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="100" EndNode="122">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="192" EndNode="243">
+</Annotation>
+<Annotation Id="2" Type="Дифракционный+метод" StartNode="2" EndNode="22">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="71" EndNode="85">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

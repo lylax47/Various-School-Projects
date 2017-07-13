@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Американские ученые создали новый тип <Node id="40"/>нанокристаллов<Node id="54"/>, которые могут быть использованы как материалы для лазеров.  
+ 
+Ученые сообщают, что их <Node id="143"/>нанокристаллы<Node id="156"/> могут быть получены из раствора. Они могут быть использованы при разработке лазеров, микросхем и квантовых информационных устройств.  
+ 
+Полупроводниковые <Node id="312"/>нанокристаллы<Node id="325"/> характеризуются отличными светоизлучающими свойствами, что делает их перспективными кандидатами для разработки лазеров. Но достижение критических условий для генерации излучения достаточно сложно. Обычно <Node id="530"/>нанокристаллы<Node id="543"/> должны иметь, по крайней мере, два экситона или две электрон-дырочные пары, за счет которых осуществляется светоизлучение в полупроводниках. Но из-за того, что <Node id="704"/>нанокристаллы<Node id="717"/> имеют небольшие размеры, экситоны аннигилируют друг с другом до того, как происходит светоизлучение.  
+ 
+Виктор Климов с коллегами из Los Alamos National Laboratory получили <Node id="892"/>нанокристаллы<Node id="905"/>, состоящие из ядра из сульфида кадмия и оболочки из селенида цинка. В таких <Node id="982"/>нанокристаллах<Node id="996"/> электроны и дырки физически изолированы друг от друга. Ученые говорят, что в подобных <Node id="1083"/>нанокристаллах<Node id="1097"/> для оптического излучения требуется только один экситон. Это открывает возможность для практического использования их в получении лазеров. Работа Single-exciton optical gain in semiconductor nanocrystals опубликована в Nature.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокристалл" StartNode="704" EndNode="717">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанокристалл" StartNode="143" EndNode="156">
+</Annotation>
+<Annotation Id="3" Type="Нанокристалл" StartNode="1083" EndNode="1097">
+</Annotation>
+<Annotation Id="4" Type="Нанокристалл" StartNode="312" EndNode="325">
+</Annotation>
+<Annotation Id="5" Type="Нанокристалл" StartNode="530" EndNode="543">
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="892" EndNode="905">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Нанокристалл" StartNode="982" EndNode="996">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанокристалл" StartNode="40" EndNode="54">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+При уменьшении размеров и увеличении числа транзисторов на чипе необходимо пропорционально уменьшать толщину и ширину межсоединений, что приводит к увеличению их сопротивления, а, следовательно, снижению быстродействия схемы. Благодаря нанотехнологии становится актуальной замена меди в межсоединениях на материал с меньшим удельным сопротивлением. Как перспектива, рассматриваются металлические <Node id="397"/>углеродные <Node id="408"/>нанотрубки<Node id="418"/>.
+
+В совместной работе исследователей Стэнфордского университета (Stanford Univ.) и компании Toshiba впервые на кремниевой подложке изготовлены интегральные схемы (<Node id="582"/>ИС<Node id="584"/>), содержащие кремниевые транзисторы и межсоединения, выполненные из металлических <Node id="667"/>углеродных <Node id="678"/>нанотрубок<Node id="688"/> [1,2]. Мы уже писали об этом, но стали известны интересные технические детали, поэтому расскажем об открытии подробнее.
+
+Схемы работали на частоте 1 ГГц, совместимой с современными коммерческими <Node id="884"/>ИС<Node id="886"/>. Для сравнения процессоры персональных компьютеров работают на частотах 2–3ГГц, а процессор в iPhone на 700 МГц. Технология изготовления нанотрубных межсоединений вписывается в стандартную микроэлектронную технологию, используемую чипмейкерами сегодня.
+
+Кремниевый чип представлял собой матрицу из кольцевых осцилляторов, содержащих 11000 транзисторов, традиционно используемых при оценке бысродействия чипа. Трубки имели диаметр 50–100 нм и длину до 5 мкм. Качество <Node id="1354"/>нанотрубок<Node id="1364"/> было неодинаковым, но 19 осцилляторов были соединены успешно.
+
+Конечно, авторы работы не надеются, что их технология позволит перейти на нанотрубные межсоединения в <Node id="1530"/>следующем году<Node id="1544"/>. До коммерческого использования нужно решить еще много задач, среди них – улучшение качества <Node id="1638"/>нанотрубок<Node id="1648"/>, однородности размеров, их очистка и уменьшение числа дефектов в них. Но демонстрация группы Стэнфорд-Тошиба доказывает, что есть смысл двигаться вперед по нанотрубному пути.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="582" EndNode="584">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="408" EndNode="418">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="397" EndNode="418">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="678" EndNode="688">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="884" EndNode="886">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1530" EndNode="1544">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1354" EndNode="1364">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="667" EndNode="688">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1638" EndNode="1648">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компания Malvern проводит бесплатные вебинары (презентации с живым звуком) в <Node id="79"/>феврале 2008 г.<Node id="94"/> : 
+ 
+<Node id="100"/>05.02.2008<Node id="110"/> "The Optimization of Cement Quality by analitical methods and the extension of these methods to "green" cements" 
+<Node id="225"/>13.02.2008<Node id="235"/> "Particle Sizing by Dynamic Light Scattering and Zetasizer Nano Instrumentation" 
+<Node id="318"/>19.02.2008<Node id="328"/> " Comparing Near Infrared Chemical Imaging to traditional single point NIR spectroscopy" 
+<Node id="419"/>20.02.2008<Node id="429"/> "Introduction to Protein Applications" (1.30 pm EST) 
+<Node id="484"/>28.02.2008<Node id="494"/> "Nanoparticle and macromolecular charaterizatio using Dual Polarization Interferometry and Light Scattering 
+ 
+(полный перечень вебинаров, и др. обучающих курсов можно найти на сайте) 
+ 
+Для участия в вебинаре необходимо предварительно зарегистрироваться на сайте и при необходимости загрузить программное обеспечение (бесплатно). Подтверждение регистрации и инструкции по подключению к вебинару приходят на указанный вами адрес электронной почты. Вебинары (продолжительностью <Node id="972"/>1 час<Node id="977"/>) проводятся на английском языке в режиме on-line , возможно задавать лектору вопросы в письменном виде. Начало большинства вебинаров - 1030 EST. По окончании вебинаров вам вышлют демонстрационные материалы в виде pdf-файлов. Также можно повторно прослушать и просмотреть презентацию вебинара (полностью или отдельные слайды) 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="100" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="79" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">феврале</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="225" EndNode="235">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="318" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="419" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="972" EndNode="977">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="484" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

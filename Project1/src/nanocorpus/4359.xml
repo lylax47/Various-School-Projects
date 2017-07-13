@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Massachusetts Institute of Technology представили устройство, которое может взвешивать <Node id="105"/>наночастицы<Node id="116"/> и живые клетки, диспергированные в жидкости. 
+ 
+ В предложенном методе сверхточное измерение массы частиц производится с помощью наномеханического резонатора, меняющего частоту своих колебаний в зависимости от массы образца. Таким способом ранее были взвешены частицы массой 7 цептограммов (<Node id="408"/>10-21 г<Node id="415"/>). Однако тогда для проведения точных измерений был необходим вакуум, т.к. вязкость жидкости нарушала резонансные условия и понижала точность. 
+ 
+ Ученые смогли элегантно решить эту проблему – вместо того, чтобы помещать резонатор в жидкость, они поместили жидкость внутрь резонатора. В новом микрорезонаторе расположен канал. Он позволяет измерять массу с точностью <Node id="782"/>до 10-15 г<Node id="792"/> – в качестве демонстрации были успешно взвешены <Node id="841"/>наночастицы<Node id="852"/> и бактерии. 
+ 
+ Исследователи надеются, что они смогут не только взвешивать частицы и клетки, но и различать их. Можно утяжелять определенные клетки, прикрепляя к ним <Node id="1020"/>наночастицы<Node id="1031"/>. Так можно легко выделить по массе, например, клетки CD4, число которых отражает развитие ВИЧ-инфекции. Такой подход может существенно понизить стоимость диагностического оборудования. 
+ 
+ Работа «Weighing of biomolecules, single cells and single nanoparticles in fluid» была опубликована в Nature. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="105" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="408" EndNode="415">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="841" EndNode="852">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="782" EndNode="792">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1020" EndNode="1031">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

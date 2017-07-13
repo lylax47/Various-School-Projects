@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ющенко<Node id="6"/> требует от <Node id="18"/>Тимошенко<Node id="27"/> заняться развитием новых технологийОб этом говорится в указе N 827 от <Node id="98"/>11 сентября<Node id="109"/>.
+
+<Node id="112"/>Ющенко<Node id="118"/> поручил <Node id="127"/>Кабмину при участии Национальной академии наук<Node id="173"/> проработать вопрос утверждения государственных целевых программ развития новейших технологий, проведения перспективных для Украины научных исследований по приоритетным направлениям естественных, общественных и гуманитарных наук.
+ В частности, президент призывает <Node id="437"/>правительство<Node id="450"/> проработать вопрос создания госпрограмм по применению современных генных и клеточных технологий в биомедицине и фармакологии, предупреждению и борьбе с биоугрозами, развитию нанотехнологий, внедрению и применению грид-технологий. Он поручил <Node id="692"/>Кабмину<Node id="699"/> принять меры по созданию биотехнологического центра для потребностей современной медицины, ветеринарии, генетического и экологического мониторинга, развитию полиграфической базы НАН, созданию на базе Национальной библиотеки имени <Node id="930"/>Вернадского<Node id="941"/> электронной базы данных украинского библиографического архива.
+ Напомним, премьер-министр Юлия Тимошенко выступает за усиление сотрудничества Кабинета Министров с Национальной академией наук. <Node id="1134"/>http://www.segodnya.ua/…2065537.htmlНу<Node id="1172"/> что ж, как говорится, лучше поздно, чем никогда. Ведь президенты приходят и уходят, а науку развивать нужно всегда. Поглядим – увидим, как будут реализовываться эти указания… Во всяком случае – желаем новых удачи новых достижений нашим украинским коллегам! Надеемся на тесное и плодотворное сотрудничество между нашими учёными и специалистами…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="437" EndNode="450">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="930" EndNode="941">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вернадский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="112" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ющенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="692" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Кабмину</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="98" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="18" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тимошенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ющенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1134" EndNode="1172">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="127" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Кабмину при участии Национальной академии наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

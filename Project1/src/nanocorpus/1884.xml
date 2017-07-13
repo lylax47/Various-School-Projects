@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В рамках визита Президента России Дмитрия Медведева в Республику Казахстан подписано Соглашение о взаимодействии между ГК «Роснанотех» и Фондом устойчивого развития «Казына»
+
+Соглашение о взаимодействии подписано генеральным директором ГК «Роснанотех» Леонидом Меламедом<Node id="271"/> <Node id="272"/>и Председателем Правления АО «Фонд устойчивого развития «Казына» Арманом Дунаевым<Node id="353"/>.<Node id="354"/>
+
+Целью Соглашения является установление <Node id="395"/>сотрудничества<Node id="409"/> между ГК «Роснанотех» и АО «Фонд устойчивого развития «Казына» в сфере коммерциализации нанотехнологий, а также формирования конкурентоспособной наноиндустрии в Российской Федерации и Республике Казахстан.
+
+В соответствии с Соглашением стороны планируют осуществлять сотрудничество в рамках совместных проектов и венчурных фондов для инвестирования в области нанотехнологий и наноиндустрии в обеих странах.
+
+В качестве пилотного обсуждается проект создания совместного производства солнечных батарей наземного и космического базирования на технологиях российского научно-производственного предприятия (НПП) «КВАНТ».
+
+Государственная корпорация «Российская корпорация нанотехнологий» (ГК «Роснанотех») учреждена федеральным законом №139-ФЗ <Node id="1149"/>19 июля 2007 года<Node id="1166"/> для реализации государственной политики в сфере нанотехнологий, развития инновационной инфраструктуры в сфере нанотехнологий, реализации проектов создания перспективных нанотехнологий и наноиндустрии.
+
+Корпорация решает эту задачу, выступая соинвестором в нанотехнологических проектах со значительным экономическим или социальным потенциалом. Финансовое участие корпорации на ранних стадиях проектов снижает риски ее партнеров – частных инвесторов.
+
+Корпорация участвует в создании объектов нанотехнологической инфраструктуры, таких как центры коллективного пользования, бизнес – инкубаторы и фонды раннего инвестирования. ГК «Роснанотех» выбирает приоритетные направления инвестирования на основе долгосрочных прогнозов развития (форсайт), к разработке которых привлекаются ведущие российские и мировые эксперты.
+
+В <Node id="1984"/>2007 году<Node id="1993"/> на деятельность корпорации Правительством Российской Федерации выделено <Node id="2066"/>130 млрд. рублей<Node id="2082"/>.
+Фонд устойчивого развития «Казына», управляющая компания, которая является единственным акционером Институтов Развития (АО «Банк развития Казахстана», АО «Инвестиционный Фонд Казахстана», АО «Национальный Инновационный Фонд», АО «Фонд развития малого предпринимательства», АО «Центр маркетингово-аналитических исследований», ТОО «Казахстанский центр содействия инвестициям», АО «Государственная страховая корпорация по страхованию экспортных кредитов и инвестиций»)был создан в <Node id="2562"/>апреле 2006 года<Node id="2578"/> для увеличения инвестиций и инновационной деятельности в несырьевом секторе экономики Республики Казахстан с целью достижения диверсификации и конкурентоспособности экономики.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1984" EndNode="1993">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="353" EndNode="354">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="271" EndNode="272">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1984" EndNode="1993">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="2562" EndNode="2578">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="2066" EndNode="2082">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="353" EndNode="354">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="работает" StartNode="271" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Партнеры_Клиенты" StartNode="395" EndNode="409">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="1149" EndNode="1166">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Нанотехнологии являются приоритетным направлением развития науки в <Node id="68"/>XXI веке<Node id="76"/>. Для того чтобы обеспечить нашей стране лидерство в новом постиндустриальном мире, необходимо объединить усилия государства, научного сообщества и бизнеса для создания и развития национальной наноиндустрии. Свидетельством серьезной заинтересованности руководства страны в развитии нанотехнологий в России явился визит <Node id="395"/>в среду 18 апреля<Node id="412"/> в Российский научный центр "Курчатовский институт" Президента Российской Федерации В.В.Путина, где он провёл совещание по вопросу развития нанотехнологий в России. 
+ 
+ <Node id="581"/>Владимир Путин пообещал, что государство не будет жалеть деньги на нанотехнологии, однако требует эффективно их использовать<Node id="705"/>. "Это то направление деятельности, на которое государство не будет жалеть никаких средств", - сказал президент РФ. "<Node id="822"/>Вопрос только в том, чтобы эта работа была правильным образом организована и чтобы средства, которые будут запрашиваться на реализацию программы, эффективно расходовались и приносили результат", - сказал Путин<Node id="1031"/>. 
+ 
+ Глава Минобрнауки РФ <Node id="1058"/>Андрей Фурсенко<Node id="1073"/> <Node id="1074"/>сообщил, что его ведомство разработало программу развития наноиндустрии <Node id="1146"/>до 2015 года<Node id="1158"/>. Министр отметил, что определена головная научная организация по развитию наноиндустрии - это Курчатовский институт. "<Node id="1277"/>Мы совместно с Курчатовским институтом подготовили предложение по созданию научно-исследовательского центра. Это будет пилотный проект<Node id="1411"/>", - сказал Фурсенко<Node id="1431"/>. По <Node id="1436"/>его<Node id="1439"/> словам, уже понятно, как будет работать такой центр, и в ближайшее время положения по поводу этого центра будут утверждены, и он заработает. Кроме того, <Node id="1593"/>Фурсенко сообщил, что <Node id="1615"/>подготовлен и внесен в правительство проект федеральной целевой программы развития инфраструктуры наноиндустрии в РФ на <Node id="1735"/>2007-2010 годы<Node id="1749"/>, которая подразумевает оснащение таких центров самой передовой научной базой<Node id="1826"/>. "<Node id="1829"/>За счет развития инфраструктуры, метрологии, новых подходов мы сумеем к окончанию программы - к <Node id="1925"/>2015 году<Node id="1934"/> - выйти на объем продукции в наноиндустрии в районе один триллион рублей", - считает Фурсенко<Node id="2028"/>. 
+ 
+ Президент поручил первому вице-премьеру РФ Сергею Иванову контролировать правильность расходования государственных средств, выделяемых на развитие наноиндустрии. На развитие инфраструктуры наноиндустрии государство намерено выделить <Node id="2267"/>28 миллиардов рублей<Node id="2287"/>, сообщил Сергей Иванов. "Сумма в 28 миллиардов - это только по вновь принимаемой федеральной целевой программе на приобретение оборудования и создание инфраструктуры", - отметил первый вице-премьер. "<Node id="2488"/>Всего за <Node id="2497"/>последние годы<Node id="2511"/> государство уже вложило по разным программам <Node id="2557"/>примерно 150 миллиардов рублей<Node id="2587"/>", - сказал <Node id="2599"/>он<Node id="2601"/>. Наноиндустрия - одно из приоритетных направлений науки, технологий и техники. В России в <Node id="2692"/>настоящее время<Node id="2707"/> ведутся научно-исследовательские и опытно-конструкторские работы в области нанотехнологий и <Node id="2800"/>наноматериалов<Node id="2814"/> в рамках таких федеральных целевых программ, как "Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на <Node id="2973"/>2007-2012 годы<Node id="2987"/>", "Развитие оборонно-промышленного комплекса на <Node id="3036"/>2007-2010 годы<Node id="3050"/> и на период <Node id="3063"/>до 2015 года<Node id="3075"/>" и "Национальная технологическая база" на <Node id="3118"/>2007-2011 годы<Node id="3132"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="395" EndNode="412">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="1615" EndNode="1826">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2973" EndNode="2987">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="581" EndNode="705">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="2557" EndNode="2587">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="68" EndNode="76">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="2488" EndNode="2601">
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="1277" EndNode="1411">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="1073" EndNode="1074">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="3118" EndNode="3132">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="581" EndNode="705">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2497" EndNode="2511">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1925" EndNode="1934">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="2488" EndNode="2601">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1058" EndNode="1158">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="822" EndNode="1031">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="1615" EndNode="1826">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="1829" EndNode="2028">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="822" EndNode="1031">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="1146" EndNode="1158">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="3063" EndNode="3075">
+</Annotation>
+<Annotation Id="26" Type="высказывания_заявления" StartNode="1277" EndNode="1431">
+</Annotation>
+<Annotation Id="29" Type="упоминает" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="3036" EndNode="3050">
+</Annotation>
+<Annotation Id="31" Type="высказывания_заявления" StartNode="1593" EndNode="1826">
+</Annotation>
+<Annotation Id="30" Type="Деньги" StartNode="2267" EndNode="2287">
+</Annotation>
+<Annotation Id="34" Type="цитаты" StartNode="1615" EndNode="1826">
+</Annotation>
+<Annotation Id="35" Type="Период_времени" StartNode="2692" EndNode="2707">
+</Annotation>
+<Annotation Id="32" Type="автор" StartNode="1277" EndNode="1431">
+</Annotation>
+<Annotation Id="33" Type="автор" StartNode="1829" EndNode="2028">
+</Annotation>
+<Annotation Id="38" Type="автор" StartNode="1593" EndNode="1826">
+</Annotation>
+<Annotation Id="39" Type="Год" StartNode="1925" EndNode="1934">
+</Annotation>
+<Annotation Id="36" Type="сотрудники" StartNode="1073" EndNode="1074">
+</Annotation>
+<Annotation Id="37" Type="автор" StartNode="1058" EndNode="1158">
+</Annotation>
+<Annotation Id="42" Type="цитаты" StartNode="1277" EndNode="1411">
+</Annotation>
+<Annotation Id="43" Type="Персона" StartNode="2599" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Наноматериал" StartNode="2800" EndNode="2814">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="Период_времени" StartNode="1735" EndNode="1749">
+</Annotation>
+<Annotation Id="47" Type="упоминается" StartNode="581" EndNode="2601">
+</Annotation>
+<Annotation Id="44" Type="упоминается_с" StartNode="1277" EndNode="1826">
+</Annotation>
+<Annotation Id="45" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="49" Type="Персона" StartNode="1436" EndNode="1439">
+</Annotation>
+<Annotation Id="48" Type="цитаты" StartNode="1615" EndNode="1826">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

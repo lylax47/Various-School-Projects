@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учеными созданы магнитные материалы наноразмерного диапазона, которые могут быть использованы при создании нано-памяти и логических цепей, работающих при комнатных температурах.
+
+Как сообщает Nanotechweb, Торстеном Хеседалем (Thorsten Hesjedal) и <Node id="248"/>его<Node id="251"/> коллегами из Университета Ватерлоо, Канада (University of Waterloo), были проведены исследования магнитных свойств наноразмерных точек. Как оказалось, <Node id="403"/>наноструктуры<Node id="416"/> в виде галстука-бабочки характеризуются особенными магнитными свойствами.
+
+Элементарным блоком любой магнитологического устройства – памяти или логики является наноразмерный магнит. Эта <Node id="603"/>наноструктура<Node id="616"/> кроме магнитных свойств, должна при внешнем воздействии «переключать» свое состояние с логического «0» на логическую «1» и наоборот.
+
+Эти отдельные нано-домены собираются затем в логику необходимой структуры, которая выполняет требуемые операции, проходящие благодаря магнитостатическому взаимодействию между доменами. Эти внутренние взаимодействия между магнитными доменами наиболее всего интересуют ученых.
+
+Торстен и <Node id="1037"/>его<Node id="1040"/> коллеги провели ряд исследований с помощью компьютерного моделирования, взяв за основу <Node id="1128"/>наноточки<Node id="1137"/> из специального сплава Permalloy (это никелево-железный сплав, часто применяющийся в радиотехнической индустрии под кодом LLG).
+
+Компания IBM использует сплав LLG довольно часто для производства элементов с гигантским магнитосопротивлением. Ученым хотелось точно узнать, как будут вести себя в составе логики нано-магниты разной формы: прямоугольной, эллипсоидной и в виде галстука-бабочки. Все <Node id="1533"/>наноструктуры<Node id="1546"/> были одинакового объема и имели толщину 12 нанометров.
+
+Исследуя петлю гистерезиса всех типов <Node id="1641"/>наноструктур<Node id="1653"/>, Хеседаль и <Node id="1666"/>его<Node id="1669"/> коллеги вычислили их коэрцитивную силу и остаточную намагниченность. Как оказалось, комбинация эллипсов и прямоугольников дает уменьшение коэрцитивной силы, а «нано-бабочки» вообще характеризуются ее наименьшим значением.
+
+Далее ученые начали комбинировать наностуркуты в составе магнитной матрицы, для того, чтобы найти их оптимальное расположение в составе магнитологического устройства.
+
+В результате команда подобрала наиболее удобоваримое сочетание форм <Node id="2129"/>наночастиц<Node id="2139"/> и их расположения на плоской поверхности.
+
+Как говорит Хеседаль – следующим шагом исследователей будет создание конкретного логического устройства на основе магнитных нано-бабочек.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="2129" EndNode="2139">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="1533" EndNode="1546">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1037" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="248" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Наноточка" StartNode="1128" EndNode="1137">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноструктура" StartNode="603" EndNode="616">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="403" EndNode="416">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="1666" EndNode="1669">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="1641" EndNode="1653">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Поле экспериментов Опытный завод СО РАН переживает второе рождение
+Причин тому несколько: общее оживление промышленности, обновление управленческой команды предприятия, рост заказов на изготовление наукоемкой продукции для институтов. О техническом перевооружении предприятия, взаимодействии с институтами СО РАН и видах на приход новейших технологий — беседа корреспондента «Известий» Андрея Красикова<Node id="402"/> <Node id="403"/>с заместителем директора ИТПМ СО РАН, директором Опытного завода, кандидатом экономических наук Станиславом Иваницким.
+
+.................
+В: Насколько быстро в промышленность придут нанотехнологии, о которых сейчас не говорит только ленивый?
+О: Должны прийти. Если раньше об этом были только разговоры, то теперь начались реальные дела. Например, напыление в высоком вакууме. В России такие установки делает только один институт в СО РАН и один собирает из импортных деталей в Питере.
+
+По сути, идея не нова. Эту тему вели еще <Node id="930"/>лет 20<Node id="936"/> назад ученые Института полупроводников, а мы как опытный завод участвовали в этой работе. Нанотехнологии дороги, но это качественный скачок в промышленности. И важно понимать, что если мы не внедрим существующие разработки сейчас, то уже не сделаем этого никогда — люди, их создавшие, уходят.
+<Node id="1230"/>http://www.izvestia.ru<Node id="1252"/>/…icle3105683/Да, фактор времени важен был всегда. А в развитии Н-технологий он стократ более важен…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="930" EndNode="936">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1230" EndNode="1252">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="402" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">корреспондент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="402" EndNode="403">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

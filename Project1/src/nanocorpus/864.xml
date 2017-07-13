@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Турки изобрели нанолампочку
+Анталия, <Node id="37"/>2 июня<Node id="43"/>, «Татар-информ» – Инженеры университета Билькент изобрели новый электрический осветительный прибор, который поможет сократить потребление электроэнергии вдвое. Об этом сообщает газета «Реферанс». В этой лампочке, которая сможет соперничать с лампочкой <Node id="296"/>Эдисона<Node id="303"/>, были применены нанотехнологиии, а изобретением уже заинтересовались некоторые иностранные компании, в том числе «Sharp».
+
+Благодаря светодиодной системе освещения, спроектированной преподавателем физического факультета и электроинженерного отделения университета Билькент, помощником доцента доктором Волканом Демиром совместно с тремя студентами: Седатом Низамоглу, Тунджаем Озелем и Эмре Сары, затраты на оплату освещения могут снизиться на <Node id="748"/>90 процентов<Node id="760"/>. На данный момент проектом активно интересуется немецкая фирма, не пожелавшая раскрыть свое имя, а также компания «Sharp», которая предложила инженерам «совместно продолжить разработку».
+
+Д-р наук <Node id="958"/>Волкан Демир считает, что разработанная им технология найдет широкий отклик как в мире науки, так и у производителей электрооборудования<Node id="1094"/>.
+ 
+«<Node id="1099"/>К нам поступает масса предложений о сотрудничестве, – сказал <Node id="1160"/>Демир<Node id="1165"/>. – Лампочки <Node id="1178"/>Эдисона<Node id="1185"/> переводят тепловую энергию в световую, а наши светодиодные, созданные при помощи нанотехнологий, переводят в свет непосредственно электрическую энергию. Эта технология способна изменить подход к освещению везде: от закрытых помещений до автомобилей».
+ 
+Еще одно преимущество новой светодиодной лампочки в том, что срок ее горения – <Node id="1518"/>23 года<Node id="1525"/> или 100 тысяч <Node id="1540"/>часов<Node id="1545"/>, в противовес <Node id="1560"/>1000 часов<Node id="1570"/> обычной лампы накаливания.
+<Node id="1598"/>http://tatar-inform.ru<Node id="1620"/>/news/hitech/?…Смотри-ка, турки, турки… а вот изобрели. Молодцы!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="958" EndNode="1094">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1560" EndNode="1570">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1540" EndNode="1545">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1518" EndNode="1525">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1518" EndNode="1525">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="958" EndNode="1094">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1598" EndNode="1620">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1178" EndNode="1185">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Эдисон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="748" EndNode="760">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="1099" EndNode="1165">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="1160" EndNode="1165">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Демир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="296" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Эдисон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="37" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="1099" EndNode="1165">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

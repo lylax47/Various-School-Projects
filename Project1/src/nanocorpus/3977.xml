@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Georgia Tech (США) и Xiamen University (Китай) получили <Node id="74"/>платиновые <Node id="85"/>наночастицы<Node id="96"/> с превосходными каталитическими свойствами. Секрет успеха заключается в оригинальной форме частиц – 24-гранники демонстрируют в четыре раза лучшую каталитическую активность, чем обычные частицы. 
+ 
+ Синтез происходил следующим образом. Сначала крупные агломераты платиновых частиц были помещены на подложку из стеклоуглерода. Под действием переменного электрического напряжения агломераты стали растворяться, и сформировались ограненные частицы. В результате получились частицы с 24 гранями. Было показано, что каталитические процессы на этих гранях протекают существенно быстрее, чем обычно. 
+ 
+ Это лишь первый шаг к созданию дешевых платиновых катализаторов. Пока частицы слишком велики для эффективного использования. Диаметр частиц в современных платиновых катализаторах может быть менее 5 нм, а новые частицы пока имеют размеры от 50 до 200 нм. Большая часть дорогостоящей платины находится в объеме частиц и не принимает участия в катализе. 
+ 
+ Теперь исследователи будут пытаться уменьшить размеры частиц, а также применить свой метод для модифицирования других материалов, ведь известно, что как размер, так и форма частицы могут существенно повлиять на её свойства. А новый метод предоставляет дополнительные возможности точного контроля формы частиц. Возможно, таким способом удастся улучшить каталитические свойства более дешевых, чем платина, материалов. 
+ 
+ Работа была опубликована в журнале Science. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+платины" StartNode="74" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="85" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

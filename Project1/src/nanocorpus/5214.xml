@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Российский МИД поддерживает идею проведения ежегодной Международной конференции по нанотехнологиям в России, заявил в понедельник глава внешнеполитического ведомства Сергей Лавров.
+
+«Мы поддерживаем инициативу, с которой корпорация выступила: сделать так, чтобы наша страна стала местом проведения ежегодной Международной конференции по нанотехнологиям», – сказал он по окончании церемонии подписания Соглашения между МИД РФ и государственной корпорацией «Российские нанотехнологии» о сотрудничестве.
+
+<Node id="503"/>Лавров заявил, что <Node id="522"/>это уже не первое подобное соглашение, которое российский МИД заключает с отечественными корпорациями<Node id="623"/>.
+
+В то же время министр отметил большое значение этого документа в связи с планами <Node id="707"/>правительства<Node id="720"/> по переводу российской экономики на инновационную базу. Лавров также подчеркнул важность взаимодействия МИД РФ и российских компаний.
+
+«Чем активнее российские компании осваиваются на международном рынке, тем больше влияния (внешнеполитического) нашей страны», – сказал министр. Возвращаясь к теме состоявшегося в понедельник подписания совместного с «Роснанотехом» соглашения, <Node id="1099"/>Лавров указал, что стороны договорились, что будут «на рабочем уровне отслеживать, как это соглашение выполняется»<Node id="1213"/>.
+
+«Настрой обеих сторон позволяет надеяться, что этот документ не останется просто в архиве», – сказал глава российского МИД.
+
+В свою очередь, глава ГК «Роснанотех» <Node id="1379"/>Леонид Меламед<Node id="1393"/> <Node id="1394"/>подчеркнул, что на современном этапе перед российскими компаниями, связанными с нанотехнологиями, стоит ряд важных задач<Node id="1514"/>. В частности, речь идет об организации обмена между научно-образовательными кадрами в области нанотехнологий, возможности приглашать этих специалистов в Россию и с их помощью разворачивать наукоемкое производство.
+
+Кроме того, одной из основных задач, по его словам, является продвижение нанопродукции российских компаний на международные рынки.
+
+«Уверен, что сотрудничество с МИД России будет взаимовыгодным», – добавил глава «Роснанотеха», сообщает РИА Новости.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="707" EndNode="720">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="503" EndNode="623">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="503" EndNode="1514">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1099" EndNode="1213">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="1393" EndNode="1394">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1099" EndNode="1213">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="503" EndNode="1514">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1379" EndNode="1514">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="522" EndNode="623">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1379" EndNode="1514">
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="522" EndNode="623">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="503" EndNode="623">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="1393" EndNode="1394">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

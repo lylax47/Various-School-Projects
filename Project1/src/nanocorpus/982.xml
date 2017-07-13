@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как установили ученые из NASA, отдельно стоящие углеродные <Node id="60"/>нановолокна<Node id="71"/> (CNFs) могут улучшить биологическую совместимость нейроимплантантов.
+
+Как сообщает Джун Ли (Jun Li), исследователь из NASA, его командой разработан новый вид <Node id="230"/>наноматериала<Node id="243"/>, который обладает достаточно хорошей биологической совместимостью с нервной тканью.
+
+Кроме того, в перспективе ученые планируют изготовить нейрочип, способный выполнять различные нервные функции. Например, с его помощью можно будет облегчить жизнь людям с заболеваниями <Node id="514"/>Паркинсона<Node id="524"/>.
+
+Вообще-то, биологически совместимые нейроинтерфейсы достаточно трудно изготовить из-за различных технологических трудностей. Ранее ученые из Германии демонстрировали in vitro прототип нейрочипа, однако пока рано говорить о его клиническом использовании, не говоря уже о массовом производстве.
+
+Производство нейроимплантантов требует специальных <Node id="872"/>наноматериалов<Node id="886"/>, которые будут отличаться рядом специфических характеристик: начиная от электропроводимости и заканчивая механической гибкостью.
+
+Как сообщает Ли, часть трудностей по созданию нейроимпланта удалось преодолеть, используя новый <Node id="1113"/>наноматериал<Node id="1125"/> – матрицу вертикально расположенных <Node id="1162"/>нановолокон<Node id="1173"/>.
+
+<Node id="1176"/>Углеродные <Node id="1187"/>наноструктуры<Node id="1200"/> обычно трудно получить в «упорядоченном» виде, чаще всего у ученых получаются «пучки» из <Node id="1290"/>нановолокон<Node id="1301"/> и <Node id="1304"/>нанотрубок<Node id="1314"/>. Однако Джуну и <Node id="1331"/>его<Node id="1334"/> коллегам удалось получить упорядоченную структуру из <Node id="1388"/>нановолокон<Node id="1399"/> методом <Node id="1408"/>химического осаждения<Node id="1429"/> пара, используя плазму и никелевые катализаторы.
+
+Катализатор разместили на покрытой пленкой хрома (толщиной 200 нанометров) кремниевой подложке (вафле). После процедуры <Node id="1600"/>химического осаждения<Node id="1621"/> на подложке вырос «лес» из отдельно стоящих <Node id="1666"/>нановолокон<Node id="1677"/> диаметром от 30 до 1150 нанометров и длиной около 7 микрон.
+
+<Node id="1739"/>Как сообщает Ли, <Node id="1756"/>нановолокна<Node id="1767"/> отличаются гибкостью, а это очень важный критерий для нейроимплантов<Node id="1836"/>. Чем жестче <Node id="1849"/>наноматериал<Node id="1861"/>, тем хуже его биологическая совместимость с нервной тканью.
+
+На полученную поверхность с ворсяной структурой, отдельные «ворсинки» которой являлись углеродными <Node id="2022"/>нановолокнами<Node id="2035"/>, ученые поместили культуру человеческих нейронов PC12.
+
+Открытая архитектура поверхности <Node id="2125"/>наноматериала<Node id="2138"/> позволяет достигать точного контакта для отдельно взятой нервной клетки и определенных волокон. Более того, культура нейронов, которую ученые в эксперименте исследовали на углеродном «ворсе», смогла сформировать нейросеть, что говорит о хорошей биологической совместимости нового материала.
+
+Так как каждый контакт отдельного волокна с нейроном достаточно мал, то ученые надеются разработать мультиплексную систему, которая сможет обмениваться большим количеством данных с клеткой. Помимо электрической стимуляции, будущий нейрочип сможет записывать электрическое состояние нейрона и вести запись электрохимического процесса образования нейротрансмиттеров.
+
+<Node id="2797"/>Как говорит Ли, нейрочип сможет обрабатывать всю информацию, полученную от клетки, в реальном времени, что еще на один шаг приблизит ученых к созданию рабочих нейроимплантантов<Node id="2973"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нановолокно" StartNode="60" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="230" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нановолокно" StartNode="1162" EndNode="1173">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Химическое+осаждение" StartNode="1408" EndNode="1429">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="872" EndNode="886">
+</Annotation>
+<Annotation Id="7" Type="Химическое+осаждение" StartNode="1600" EndNode="1621">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+наноструктура" StartNode="1176" EndNode="1200">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1849" EndNode="1861">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="2125" EndNode="2138">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1739" EndNode="1836">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1739" EndNode="1836">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="514" EndNode="524">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Нановолокно" StartNode="2022" EndNode="2035">
+</Annotation>
+<Annotation Id="25" Type="Нановолокно" StartNode="1756" EndNode="1767">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Нановолокно" StartNode="1290" EndNode="1301">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="1304" EndNode="1314">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="1331" EndNode="1334">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Наноструктура" StartNode="1187" EndNode="1200">
+</Annotation>
+<Annotation Id="35" Type="Наноматериал" StartNode="1113" EndNode="1125">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Нановолокно" StartNode="1388" EndNode="1399">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="Нановолокно" StartNode="1666" EndNode="1677">
+</Annotation>
+<Annotation Id="39" Type="высказывания_заявления" StartNode="2797" EndNode="2973">
+</Annotation>
+<Annotation Id="36" Type="автор" StartNode="2797" EndNode="2973">
+</Annotation>
+<Annotation Id="37" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

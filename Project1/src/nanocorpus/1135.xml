@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+По оценкам аналитика рынка от компании IC Insights, глобальные расходы на полупроводниковые исследования и разработки в <Node id="121"/>первом квартале 2008 г.<Node id="144"/> выросли на <Node id="156"/>12%<Node id="159"/> (до <Node id="164"/>11,1 млрд. долл.<Node id="180"/>) в сравнении <Node id="194"/>с первым кварталом 2007 г.<Node id="220"/> (<Node id="222"/>10,0 млрд. долл.<Node id="238"/>). <Node id="241"/>До конца года<Node id="254"/> глобальные расходы могут достичь <Node id="288"/>49,2 млрд. долл.<Node id="304"/> (в <Node id="308"/>2007 г.<Node id="315"/> они составили <Node id="330"/>45,7 млрд. долл.<Node id="346"/>).
+
+Наибольшие затраты в <Node id="371"/>2007 г.<Node id="378"/> на новые исследования и разработки принадлежат Intel (<Node id="433"/>5,8 млрд. долл.<Node id="448"/>, или <Node id="454"/>16,4%<Node id="459"/> от объема продаж компании), второе место у Samsung (<Node id="512"/>4,3 млрд.долл.<Node id="526"/>, или <Node id="532"/>21,4%<Node id="537"/> от объема ее продаж). Шестое место – за европейской компанией STMicroelectronics (<Node id="620"/>1,8 млрд. долл.<Node id="635"/>, <Node id="637"/>18,1%<Node id="642"/> от продаж).
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="371" EndNode="378">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="532" EndNode="537">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="241" EndNode="254">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="433" EndNode="448">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="288" EndNode="304">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="512" EndNode="526">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="121" EndNode="144">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="194" EndNode="220">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="308" EndNode="315">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="164" EndNode="180">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="620" EndNode="635">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="156" EndNode="159">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="330" EndNode="346">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="222" EndNode="238">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="637" EndNode="642">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="454" EndNode="459">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

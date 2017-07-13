@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Подрядчики, обеспечивающие Пекинскую олимпиаду, первоначально рассматривали для ряда ключевых мероприятий флуоресцентное освещение, но затем остановились на <Node id="158"/>светодиодах<Node id="169"/>, оценив их большую цветовую гамму и низкую потребляемую мощность.
+
+Компания Cree Inc. (США) поставила 754000 <Node id="279"/>светодиодов<Node id="290"/> для освещения так называемых „Птичьего гнезда“ (Bird's Nest) и „Водного куба“ (Water Cube), зданий, где будут проходить церемония открытия Олимпиады и соревнования по плаванию [1].
+
+Оказалось также, что <Node id="494"/>светодиоды<Node id="504"/> более предпочтительны для очень больших дисплеев в сравнении с плазменными и жидкокристаллическими дисплеями. На Пекинскую олимпиаду японская компания Matsushita Electric Industrial Co. поставила 25 таких видеодисплеев, состоящих из сотен <Node id="744"/>светодиодов<Node id="755"/>.
+
+Красные, зеленые и голубые <Node id="785"/>светодиоды<Node id="795"/> эмиттируют 16 люмен/Вт, сегодняшние серийные белые <Node id="847"/>светодиоды<Node id="857"/> – 99 люмен/Вт, а лучшие лабораторные белые образцы – 120 люмен/Вт (для сравнения, флуоресцентные лампы выдают около 70 люмен/Вт). Кроме того, <Node id="1000"/>светодиоды<Node id="1010"/> дают направленный свет, более согласующийся с оптическими устройствами, фокусирующими лучи, чем «всенаправленный» свет флуоресцентных ламп.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="847" EndNode="857">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Светодиод" StartNode="1000" EndNode="1010">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="785" EndNode="795">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="279" EndNode="290">
+</Annotation>
+<Annotation Id="6" Type="Светодиод" StartNode="744" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="158" EndNode="169">
+</Annotation>
+<Annotation Id="8" Type="Светодиод" StartNode="494" EndNode="504">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

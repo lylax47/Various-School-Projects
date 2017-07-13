@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания Hewlett-Packard сегодня объявила об исследовании, которое может внести революционное нововведение в микроэлектронику.
+
+Суть исследования HP заключается в создании массивов программируемых полевых транзисторов (field programmable gate arrays  – FPGAs), плотность упаковки которых в восемь раз превышает современные CMOS аналоги. При этом суммарная рассеиваемая мощность устройств будет значительно ниже, поэтому к производителей микроэлектронных компонентов есть возможность делать процессоры и чипы памяти еще меньше.
+
+Фундамент для развития этой технологии HP заложила <Node id="580"/>несколько лет назад<Node id="599"/>, когда были созданы кросс-матрицы из нанопроводников, в котором каждое пересечение нанонитей формировало нанотранзстор.
+
+<Node id="721"/>Год назад<Node id="730"/>, когда компания НР опубликовала результаты исследования Дмитрия Струкова (Dmitri Strukov) и Константина Лихарева (Konstantin Likharev) из Университета Стони <Node id="888"/>Брук<Node id="892"/>, Нью-Йорк (Stony Brook University in New York), научное сообщество было удивлено возможностями и перспективами наноэлектроники. Тогда же НР продемонстрировала план развития наноэлектроники к <Node id="1084"/>2010 году<Node id="1093"/>, который постепенно подтверждается достижениями компании.
+
+Матрица квантовых ключей, представленная в <Node id="1196"/>прошлом году<Node id="1208"/>, изменилась на «программируемое соединение нанопроводников» – field programmable nanowire interconnect (FPNI), на основе которого <Node id="1339"/>Грэг Снайдер (Greg Snider) и <Node id="1368"/>Стэн Уильямс<Node id="1380"/> (Stan Williams) разработали архитектуру построения чипов и логики.
+
+Ученые представили также работоспособный чип, использующий 15-нм нанотранзисторы, сформированные матрицей перекрещивающихся нитей, соединенных с 45-нм CMOS электроникой. Как говорят<Node id="1630"/> ученые, чипы на этой основе могут поступить в массовое производство уже в <Node id="1705"/>2010 году<Node id="1714"/>.
+
+Благодаря гибридизации CMOS и FPNI полученные чипы в четыре раза меньше, чем их простые CMOS-аналоги. Стэн считает, что будущее – за распараллеливанием чипов, благодаря уменьшению гибридных компонентов.
+
+Грэг и Стэн также представили прототип чипа, работающего на 4,5-нанометровых FPNI соединениях, однако их массовое применение в микроэлектронике может наступить только в <Node id="2090"/>2020 году<Node id="2099"/>.
+
+Крайне важно также то, что чипы по FPGA-технологии и модифицированной FPNI можно будет производить на обычных производственных линиях CMOS-микроэлектроники, незначительно их модернизовав.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1705" EndNode="1714">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="2090" EndNode="2099">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="580" EndNode="599">
+</Annotation>
+<Annotation Id="3" Type="встречи_и_переговоры" StartNode="1339" EndNode="1630">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="1084" EndNode="1093">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1368" EndNode="1380">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Уильямс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="888" EndNode="892">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Брук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1084" EndNode="1093">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1705" EndNode="1714">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2090" EndNode="2099">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1196" EndNode="1208">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="721" EndNode="730">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

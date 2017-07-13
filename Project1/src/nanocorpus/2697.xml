@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Сильно скрученные,
+переплетенные и замкнутые в кольца полоски коллоидных кристаллов. Сделано без
+Наногномов. Коллоидные кристаллы: ПС-микросферы 850 нм, заполненые гидролизованным алкоксидом циркония. Замыкание полосок в кольца в значительной степени контролируемо
+(необходимо создание двойных полосок посредством реализации избыточного
+верхнего слоя при инфильтрации алкоксида, замыкающего полоски). 
+ 
+Литографические
+бороздки для работы сделаны Мастером и Доктором <Node id="470"/>Ваном<Node id="475"/> Векрисом  в лаборатории
+профессора <Node id="511"/>Озина<Node id="516"/> (Университет Торонто).
+ Adv Mat.2006, 18, 2481
+    
+ 
+      
+ 
+  
+ 
+              
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="470" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="511" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Озин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

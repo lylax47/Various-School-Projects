@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>23 апреля<Node id="9"/> состоится семинар «Нанотехнологии в строительных материалах и конструкциях»Национальная ассоциация наноиндустрии проводит второй научно-практический семинар по вопросам применения нанотехнологий в отраслях реальной экономики, который состоится <Node id="254"/>23 апреля 2008 г.<Node id="271"/> в Торгово-промышленной палате РФ.
+Тема семинара «Нанотехнологии в строительных материалах и конструкциях».
+
+Приглашаются разработчики, а также представители профильных научных организаций, промышленных предприятий, бизнес-структур и других заинтересованных организаций. Семинар проводится бесплатно. Подробности – cм ниже – в информационном письме.
+НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ НАЦИОНАЛЬНАЯ АССОЦИАЦИЯ НАНОИНДУСТРИИ
+Россия, 115184, Москва, <Node id="710"/>Б.Татарская<Node id="721"/> 38
+
+Тел.(495) 953–5394, Факс (495) 953–5382,
+
+E-mail: <Node id="776"/>nanotech@mail.magelan.ruhttp://www.nanotech.ru<Node id="822"/>/nanИнформационное письмо о проведении научно-практического семинара «Нанотехнологии в строительных материалах и конструкциях»
+Приглашаем желающих разработчиков, заинтересованных представителей промышленности строительно-дорожных материалов и бизнеса принять участие в научно-практическом семинаре «Нанотехнологии в строительных материалах и конструкциях». Семинар состоится <Node id="1197"/>23 апреля 2008 года<Node id="1216"/> в 10.00 в Торгово-промышленной палате Российской Федерации (Москва, метро «Китай-город» или «Площадь революции», ул. Ильинка, 5/2, 5 этаж, к. 540). Участие в семинаре бесплатное.
+Семинар проводится в рамках серии семинаров по наиболее прорывным направлениям наноиндустрии, которые организуются в <Node id="1513"/>2008 году<Node id="1522"/> Национальной ассоциацией наноиндустрии и ЗАО «Концерн «Наноиндустрия» согласно решению IV Научно-практической конференции «Нанотехнологии – производству 2007», прошедшей <Node id="1693"/>28–30 ноября 2007 года<Node id="1715"/> в <Node id="1718"/>г. Фрязино Московской области<Node id="1747"/>.
+
+Программа семинаров представлена в Интернете на странице <Node id="1807"/>http://www.nanotech.ru/nan/anonses.htm.<Node id="1846"/>
+
+В случае заинтересованности выступить на семинаре, просим сообщить, тему доклада. Заявки на участии в семинаре принимаются до <Node id="1974"/>18 апреля с.г.<Node id="1988"/> по электронной почте: <Node id="2011"/>nanotech@mail.magelan.ru<Node id="2035"/> или по факсу: 951–32–17.
+
+Справки по телефонам: (095) 951–59–02, 951–59–00
+Президент М.А. <Node id="2126"/>АНАНЯНhttp://www.cnews.ru<Node id="2151"/>/…/index.shtml?…Да, очень интересная тема: «Нанотехнологии в строительных материалах и конструкциях». Ведь и <Node id="2260"/>по сей день<Node id="2271"/> находится немало скептиков, которых прямо-таки смешат такие термины, как «наноцемент», «нанобетон» и т.п., в то время как другие успешно используют и то, и другое, и третье, получая при этом немалые прибыли и выгоды… Полагаю, что «истина» находится где-то посередине, и специалисты вполне могли бы развеять «туман предубеждений», до сих пор витающий над этой областью производства…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1513" EndNode="1522">
+</Annotation>
+<Annotation Id="1" Type="расположение" StartNode="1718" EndNode="1747">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="2011" EndNode="2035">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1974" EndNode="1988">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="710" EndNode="721">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Татарская</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2126" EndNode="2151">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1693" EndNode="1715">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="254" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1197" EndNode="1216">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="2260" EndNode="2271">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1513" EndNode="1522">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1807" EndNode="1846">
+</Annotation>
+<Annotation Id="18" Type="Электронная_почта" StartNode="776" EndNode="822">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

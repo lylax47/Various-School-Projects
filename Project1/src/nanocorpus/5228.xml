@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ряды госкорпорации «Роснанотех» может пополнить группа бывших сотрудников РАО «ЕЭС России», которые сейчас работают в проектном центре по завершению реорганизации энергохолдинга.
+
+<Node id="181"/>Как отметил глава «Роснанотеха» Леонид Меламед<Node id="227"/> <Node id="228"/>на встрече с журналистами, «там есть гениальные люди, которые разрабатывали сложнейшие юридические, корпоративные схемы. Я удивлен, что некоторых из них рынок до сих пор не<Node id="400"/> "подобрал».
+
+РАО «ЕЭС» официально прекратило существование <Node id="460"/>1 июля 2008 года<Node id="476"/>. Задолго до ликвидации РАО на рынке появились слухи, что следующим местом работы Анатолия Чубайса, возглавлявшего энергохолдинг на протяжении <Node id="619"/>последнего десятилетия<Node id="641"/>, может стать «Роснанотех». Эта версия получила косвенное подтверждение после избрания А.Чубайса в наблюдательный совет госкорпорации. Высокопоставленные источники в <Node id="807"/>правительстве<Node id="820"/> не раз говорили Интерфаксу, что вопрос о <Node id="862"/>назначении<Node id="872"/> А.Чубайса руководителем «Роснанотеха» фактически уже решен.
+
+На прямой вопрос о возможном приходе в госкорпорацию А.<Node id="989"/>Чубайса Л.<Node id="999"/>Меламед в духе своего бывшего шефа ответил шуткой. «<Node id="1051"/>Днюет и ночует под дверями моего кабинета, просит взять <Node id="1107"/>его<Node id="1110"/> на работу», – сказал <Node id="1132"/>он<Node id="1134"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Назначения_Увольнения" StartNode="862" EndNode="872">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="460" EndNode="476">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1107" EndNode="1110">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1051" EndNode="1134">
+</Annotation>
+<Annotation Id="7" Type="Кадровые_перестановки" StartNode="862" EndNode="872">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="807" EndNode="820">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительстве</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1051" EndNode="1134">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="989" EndNode="999">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Чубайс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1132" EndNode="1134">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="181" EndNode="400">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="227" EndNode="228">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="181" EndNode="400">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="619" EndNode="641">
+</Annotation>
+<Annotation Id="24" Type="работает" StartNode="227" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Даже при близкой к абсолютному нулю температуре большинство электронов в твердом теле имеют очень большую кинетическую энергию.
+
+Это связано с тем, что электроны, будучи фермионами, подчиняются статистике <Node id="206"/>Ферми-Дирака<Node id="218"/> и поэтому не конденсируются на одном уровне с минимальной энергией, а в соответствии с принципом <Node id="316"/>Паули<Node id="321"/> попарно («спин вверх», «спин вниз») занимают много энергетических уровней вплоть до уровня <Node id="413"/>Ферми<Node id="418"/> EF ~ 1 эВ. При большой концентрации электронов их средняя кинетическая энергия значительно превышает среднюю энергию межэлектронного взаимодействия, и именно она определяет электронное строение твердых тел.
+
+Однако при низкой концентрации электронов основную роль начинает играть кулоновское отталкивание между ними. В <Node id="738"/>1934г.<Node id="744"/> Вигнер показал [1], что электроны при этом образуют упорядоченное состояние – так называемый вигнеровский кристалл, в котором каждый электрон локализован в окрестности определенной точки пространства. Этот “электронный кристалл” формируется спонтанно, и его структура не зависит от расположения положительных ионов в “атомном кристалле”. Для образования вигнеровского кристалла требуется исключительно чистая, с минимальным количеством дефектов система. До настоящего времени экспериментально он наблюдался только на поверхности жидкого гелия [2] (двумерный вигнеровский кристалл).
+
+Недавно в Калифорнийском технологическом институте в ходе работ по исследованию бездефектных <Node id="1421"/>углеродных <Node id="1432"/>нанотрубок<Node id="1442"/> был обнаружен удивительный эффект [3]: при добавлении в <Node id="1499"/>нанотрубку<Node id="1509"/> нескольких (в пределах 10) электронов все они имели одинаковое направление спина, вопреки ожидаемой картине заполнения энергетических уровней электронами с противоположно направленными спинами (рис. 1). Выполненный авторами [3] анализ показал, что причиной этого является формирование в <Node id="1797"/>нанотрубке<Node id="1807"/> одномерного вигнеровского кристалла, причем не обычного, а спин-поляризованного (рис. 2). Расстояние между электронами в таком кристалле составляет около 100 нм – достаточно много, чтобы попытаться организовать операции со спинами отдельных электронов путем воздействия на них внешними управляющими сигналами. Пока не ясно, выживет ли вигнеровский кристалл в результате такого воздействия. Если да, то его можно будет использовать в качестве регистра для хранения спиновых <Node id="2281"/>кубитов<Node id="2288"/> и операций с ними.
+ 1. J.B.Gosk et al., Supercond. Sci. Technol. 21, 065019 (2008) 2. C.Grimes, G.Adams, Phys. Rev. Lett. 42, 795 (1979) 3. V.Deshpande, M.Bockrath, Nature Phys. 4, 314 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="738" EndNode="744">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="316" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паули</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1499" EndNode="1509">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="206" EndNode="218">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми-Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="413" EndNode="418">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Кубит" StartNode="2281" EndNode="2288">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="1421" EndNode="1442">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1432" EndNode="1442">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1797" EndNode="1807">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

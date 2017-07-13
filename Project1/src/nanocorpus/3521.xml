@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Если судить по патентам, регистрируемым в Европе, нанотехнологию рассматривают как основу для будущих энергетики, медицины, экологической и информационной технологий.
+
+<Node id="169"/>Наноструктуры<Node id="182"/> имеют специфические свойства, которых нет у их «больших» собратьев. <Node id="251"/>Наночастицы<Node id="262"/> золота<Node id="269"/>, например, имеют красноватый цвет, керамические <Node id="318"/>наночастицы<Node id="329"/> используются в автомобильные красках, стойких к царапинам , а <Node id="392"/>наночастицы<Node id="403"/> серебра защищают нас от инфекций. Обычно <Node id="445"/>наночастицы<Node id="456"/> производятся химическим способом в газовой или жидкой фазе и содержат много примесей. Для сложных применений в медицине и при производстве пластмасс, однако, требуются очень чистые и устойчивые частицы. Кроме того, теперь уже возникла необходимость в <Node id="708"/>наночастицах<Node id="720"/> новых материалов и сплавов, а также смесях <Node id="764"/>наночастиц<Node id="774"/> для комбинирования наноэффектов. Но как произвести такой материал быстро и качественно?
+
+В Лазерном Центре Ганновера (Laser Zentrum Hannover, LZH) используют лазер для получения <Node id="953"/>наночастиц<Node id="963"/>. Лазерный луч «отрывает» <Node id="989"/>наночастицы<Node id="1000"/> от поверхности (инженеры называют это абляцией материала) непосредственно в подходящую жидкость, типа масла, воды или растворителя, которая стабилизирует чувствительный <Node id="1170"/>наноматериал<Node id="1182"/>. Главная особенность такого метода —любой твердый материал может быть «расколот» на <Node id="1267"/>наночастицы<Node id="1278"/>, образуя любую необходимую смесь <Node id="1312"/>наноматериалов<Node id="1326"/>. Иначе говоря, данный метод позволяет смешивать «нанококтейли», комбинируя компоненты согласно «рецепту». Это очень важно для использования при производстве пластмассовых материалов и медицинских продуктов.
+
+Метод, известный как быстрое производство <Node id="1577"/>наноматериалов<Node id="1591"/> (Rapid Nanomaterial Manufacturing), позволяет делать устойчивые <Node id="1656"/>наночастицы<Node id="1667"/>, а также встраивать их в пластмассу. Так как в методе не используются катализаторы, продукт получается чище, без возможных качественных отклонений или вторичных эффектов.
+
+Нанококтейли и информация об их производстве были показаны в павильоне LZH на ярмарке в Ганновере (<Node id="1939"/>16–20 апреля 2007<Node id="1956"/>).
+Дмитрий Лещев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1312" EndNode="1326">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="445" EndNode="456">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="953" EndNode="963">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="392" EndNode="403">
+</Annotation>
+<Annotation Id="4" Type="Наночастица+золота" StartNode="251" EndNode="269">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="251" EndNode="262">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="989" EndNode="1000">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="764" EndNode="774">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1939" EndNode="1956">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="169" EndNode="182">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1170" EndNode="1182">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1267" EndNode="1278">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="1577" EndNode="1591">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1656" EndNode="1667">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="708" EndNode="720">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="318" EndNode="329">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>28-30 сентября 2008 г.<Node id="23"/> в Дрездене состоится 6 Международная конференция по неорганической химии. 
+Тематика конференции включает в себя разделы: 
+- стекла и керамика; 
+- полупроводники и ионные проводники; 
+- металлические материалы; 
+- магнитные, оптические и другие функиональные материалы; 
+- наноструктурированные и гибридные материалы; 
+- фундаментальные исследования в материаловедении. 
+ 
+Тезисы принимаются до <Node id="418"/>14 марта<Node id="426"/>.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="418" EndNode="426">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1" EndNode="23">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

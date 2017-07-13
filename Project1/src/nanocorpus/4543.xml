@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Инициатива Объединенного института ядерных исследований о создании в особой экономической зоне «Дубна» международного центра нанотехнологий с участием стран СНГ нашла поддержку.
+
+<Node id="180"/>2 октября<Node id="189"/>, во время совещания в Бишкеке руководителей государственных органов по науке и технике из 10 государств-участников СНГ и представителей Международной ассоциации академий наук принято решение о создании в подмосковном городе Дубна на базе ОИЯИ межгосударственного инновационного центра нанотехнологий СНГ.
+
+На совещании была принята стратегия развития СНГ <Node id="545"/>до 2010 года<Node id="557"/> в области науки и техники, стратегия развития нанотехнологий в странах СНГ <Node id="633"/>до 2010 года<Node id="645"/>, а также одобрен проект соглашения о создании Совета по сотрудничеству в области фундаментальной науки.
+
+Совещание руководителей госорганов по науке и технике стран-участниц Содружества созвано по инициативе Исполнительного комитета СНГ, оно завершит свою работу сегодня, <Node id="918"/>3 октября<Node id="927"/>, сообщает пресс-служба ОЭЗ «Дубна».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="545" EndNode="557">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="180" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="633" EndNode="645">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="918" EndNode="927">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи Индийского института науки (Indian Institute of Science) в Бангалоре разработали простой и дешевый способ получения упорядоченных массивов многостенных <Node id="167"/>углеродных <Node id="178"/>нанотрубок<Node id="188"/> (MWCNT), основанный на пиролизе. Метод не требует дорогого оборудования – всего лишь однозонная трубчатая печь с кварцевой трубой, один конец которой закрыт, а другой замкнут трубкой с резиновым пузырем для сбора «выхлопных» газов (см. фото).
+
+Исследователи помещали 18 мг катализатора (ferrocene) и 2  мл улеродсодержащего материала – ксилен (xylene), циклогексан (cyclohexane), камфора (camphor), гексан (hexane), бензол (benzene) либо толуол (toluene) – в кварцевую трубу диаметром 10 мм и длиной 700 мм, которую затем устаналивали в печь, нагревали до 700 °C в течение 30 мин. и затем охлаждали до комнатной температуры. Синтезированные <Node id="830"/>нанотрубки<Node id="840"/> очищали стандартной процедурой от аморфного углерода и частичек катализатора.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="167" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="178" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="830" EndNode="840">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Под председательством губернатора Орловской области Егора Строева прошло расширенное заседание региональной комиссии по нанотехнологиям и <Node id="139"/>наноматериалам<Node id="153"/>, сообщили корреспонденту ИА REGNUM в пресс-службе администрации Орловской области.
+
+По информации заместителя губернатора, руководителя департамента имущественной, промышленной и информационной политики Юрия Коростелкина, на Орловщине активно ведутся исследования в области высоких технологий в Орловском государственной университете, Орловском государственном техническом университете и Орловском агроуниверситете по направлениям «наноэлектроника», «наноинженерия», «нанобиотехнологии», «функциональные, конструкционные и <Node id="677"/>композитные <Node id="689"/>наноматериалы<Node id="702"/>», «нанотехнологии в области медицинских наук». Исследованиями в этих областях занимаются 25 докторов и более 50 кандидатов наук. За <Node id="835"/>последние годы<Node id="849"/> орловские ученые получили около 20 патентов, выпустили в свет более десятка монографий. Внедряется областная целевая программа «Развитие высоких технологий в Орловской области» на <Node id="1030"/>2008–2009 годы<Node id="1044"/>.
+
+На заседании обсуждались проекты развития высокотехнологичных отраслей экономики Орловщины, вопросы интеллектуальной собственности, повышения энергоэффективности жилищно-коммунального и строительного комплекса области.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1030" EndNode="1044">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="689" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="139" EndNode="153">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанокомпозит" StartNode="677" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="835" EndNode="849">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

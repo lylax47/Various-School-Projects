@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Встреча представителей ГК «Роснанотех» с делегацией земли <Node id="58"/>Северный Рейн-ВестфалияСостоялась<Node id="91"/> встреча с делегацией департамента научных исследований и технологий Министерства инноваций, науки, исследований и технологий земли Северный Рейн-Вестфалия во главе с Беатой Виланд.
+Nordrhein-WestfalenВ ходе встречи обсуждались вопросы сотрудничества в области развития нанотехнологий широкого спектра применения. Была выражена заинтересованность сторон в совместных проектах и установления прямых связей с организациями и компаниями России и Германии для их осуществления.
+
+<Node id="566"/>По словам г-жи Виланд, бюджет земли на развитие науки составляет <Node id="631"/>60 млн. евро<Node id="643"/>. Эти средства предполагается инвестировать в развитие таких направлений как биотехнологии, энергетика и нанотехнологии.
+
+<Node id="765"/>В начале 2008 года<Node id="783"/> <Node id="784"/>правительство<Node id="797"/> земли Северный Рейн-Вестфалия организовало проведение нанофорума, в котором приняли участие около 800 представителей разных компаний, в том числе из России. Немецкие коллеги пригласили ГК «Роснанотех» принять участие в следующем подобном форуме в Германии.
+В ходе встречи была достигнута договоренность о согласовании планируемого в <Node id="1131"/>третьем квартале текущего года<Node id="1161"/> визите специалистов корпорации в Германию с целью изучения опыта использования инноваций в производстве. В свою очередь, германские партнеры получили приглашение принять участие в Международном форуме по нанотехнологиям в Москве в <Node id="1393"/>декабре<Node id="1400"/> <Node id="1401"/>этого года<Node id="1411"/>.
+<Node id="1413"/>http://www.rusnanotekh.ru/…04_25_2.htmlKooperation<Node id="1463"/> in den Technologiebereichen Nano- und Mikrotechnologien, neue Werkstoffe
+Veranstalter Ost-Ausschuß d. Dt. Wirtschaft
+
+Referent Leonid Melamed Generaldirektor «Russischer Konzern Nanotechnologien», Russische Föderation
+
+Prof. Dr. Lothar Heinrich Geschäftsführer, macrotech, Münster N.N. Daimler AG, Stuttgart
+
+Zeit 15:30 bis 16:30 Uhr (<Node id="1799"/>21.04.2008<Node id="1809"/>)
+
+Ort Tagungsbereich Halle 1, Saal Rom
+
+Sprache D
+
+Sonstiges Simultanübersetzer (RUS)
+<Node id="1896"/>http://www.heise.de<Node id="1915"/>/…080421.shtmlПонравилось, видать, в Германии-то… Вот теперь и будут ездить друг к другу. Сотрудничество – дело хорошее. Только вот не свелось бы это всё к «экскурсиям» («визите специалистов корпорации в Германию с целью изучения опыта использования инноваций в производстве») чиновников за казённый счёт в разные «экзотические» страны «с целью изучения опыта»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1401" EndNode="1411">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="631" EndNode="643">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="58" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Рейн-ВестфалияСостоялась</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1131" EndNode="1161">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1799" EndNode="1809">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">04</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="784" EndNode="797">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1393" EndNode="1400">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1896" EndNode="1915">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="566" EndNode="643">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="765" EndNode="783">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="566" EndNode="643">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1413" EndNode="1463">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

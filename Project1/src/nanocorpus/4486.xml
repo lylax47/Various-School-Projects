@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>С 21 по 24 января 2009 года<Node id="28"/> будет проходить Вторая Международная конференция Нанобиофизика и Химия 2009 (21–24 January 2009: Bolans Village, Antigua and Barbuda). Информацию о конференции можно получить на вебсайте: <Node id="217"/>(http://www.zingconferences.com/index.cfm?…)<Node id="261"/>
+
+Конференцию проводит молодая компания Zing™ Conferences Ltd., созданная только в <Node id="344"/>2007 году<Node id="353"/>. Однако даже с тех пор коференции, организуемые Zing, имеют широкий состав участников, первоклассных докладчиков и хорошие отзывы участников. В конференции Нанобиофизика и Химия <Node id="532"/>2008 года<Node id="541"/> приняло участие 565 делегатов в 10 секциях.
+
+Наномедицина является медицинским приложением нанотехнологии. Применение нанотехнологии в медицине имеет широкие перспективы, начиная с приема лекарств и кончая хирургией. Предварительная программа конференции включает в себя следующие основные секции:
+ Наномедицина Взаимодействие клетки с <Node id="878"/>наноматериалами<Node id="893"/> Нанотоксикология 
+В каждой из предполагаемых секций запланировано по 2–3 приглашенных докладчика из ряда ведущих мировых специалистов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="532" EndNode="541">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="532" EndNode="541">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="878" EndNode="893">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="344" EndNode="353">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1" EndNode="28">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="217" EndNode="261">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="344" EndNode="353">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

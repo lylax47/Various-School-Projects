@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Академия наук РБ совместно с УГАТУ проведет совещание по вопросам нанотехнологий и <Node id="83"/>наноматериалов<Node id="97"/> в Республике БашкортостанУфа, <Node id="128"/>16 января<Node id="137"/> – Совещание в форме «круглого стола» под названием «<Node id="190"/>Наноматериалы<Node id="203"/> и нанотехнологии в Республике Башкортостан» пройдет <Node id="256"/>17 января<Node id="265"/> в актовом зале первого корпуса Уфимского государственного авиационного технического университета (УГАТУ).
+УГАТУВ программе – анализ перспективных направлений развития нанотехнологий и <Node id="450"/>наноматериалов<Node id="464"/> в РБ, сбор, обобщение и анализ информации о научном и инновационном потенциале ученых и производственников Уфы и РБ в указанном направлении, обсуждение и координация работ, поиск партнеров для участия в подготовке и выполнении совместных научно-технических программ и проектов.
+
+<Node id="744"/>На сегодняшний день<Node id="763"/> нанотехнологии и <Node id="781"/>наноматериалы<Node id="794"/> относятся к числу наиболее приоритетных и бурно развивающихся направлений науки и техники не только в России и Башкортостане, но и во всем мире. Вклад ученых Башкортостана в развитие данного научного направления весьма весом. Значителен и потенциал нанотехнологий и <Node id="1061"/>наноматериалов<Node id="1075"/> для их практического применения в <Node id="1110"/>ближайшие годы<Node id="1124"/>. Они представляют огромный интерес для специалистов машиностроения, энергетики, химии, биологии, медицины и других отраслей.
+В связи с этим актуальными становятся и вопросы информационного обеспечения работ, уточнения их целей, объединения усилий, координации деятельности, поиска перспективных объектов исследований и изучение потребностей рынка в области нанотехнологий и <Node id="1499"/>наноматериалов<Node id="1513"/> в Уфе и Республике Башкортостан.
+<Node id="1547"/>http://www.bashinform.ru/index.php?…Уфимский<Node id="1591"/> Государственный Авиационный Технический <Node id="1632"/>Университетhttp://www.ugatu.ac.ru/http://www.bashedu.ru<Node id="1687"/>/vuz/ugatu.htmПора, давно пора… (И на болельщиках проставить номера ;-)) Давно уже было пора обсудить все эти вопросы. Вон, в других регионах страны (Уральском, Новосибирском, Томском и др.) уже давно проведены соотвествующие мероприятия: проведена инвентаризация наличных ресурсов, оценен имеющийся потенциал, выявлены «прорехи», выстроены программы работ и составлены списки необходимого оборудования… А Башкирия, обладающая довольно значительным научно-техническим потенциалом, как-то всё «тянула» со всем этим. Будем надеяться, что теперь эта ситуация изменится (в лучшую сторону), и наши башкирские коллеги также включатся «во всесоюзную гонку» за развитие отечественных нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1632" EndNode="1687">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="128" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="190" EndNode="203">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="781" EndNode="794">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="744" EndNode="763">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="1061" EndNode="1075">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="83" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1110" EndNode="1124">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="450" EndNode="464">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1547" EndNode="1591">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="256" EndNode="265">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1499" EndNode="1513">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

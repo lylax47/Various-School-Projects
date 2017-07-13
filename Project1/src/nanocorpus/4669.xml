@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает Nanotechweb, ученые из США преуспели в создании <Node id="62"/>нанокомпозита<Node id="75"/> на основе <Node id="86"/>нанотрубок<Node id="96"/> и нейлона, который характеризуется высокой прочностью.
+
+Известно, что углеродные <Node id="178"/>однослойные <Node id="190"/>нанотрубки<Node id="200"/> (SWNT) имеют достаточно высокие механические показатели сами по себе. Однако <Node id="278"/>на сегодняшний день<Node id="297"/> их размеры не превышают десятка миллиметров. Обычно их используют в качестве основы для различных <Node id="396"/>нанокомпозитов<Node id="410"/>.
+
+Какрен Вини (Karen Winey) из Универсиетта Пенсильвании (University of Pennsylvania) и ее коллеги из Университета Райса (Rice University) смогли создать новый тип <Node id="575"/>нанокомпозита<Node id="588"/>, в котором <Node id="600"/>углеродные <Node id="611"/>нанотрубки<Node id="621"/> и цепи нейлона связаны ковалентной связью, что делает его достаточно прочным материалом.
+
+Нейлон 6,10 – достаточно коммерчески успешный полиамид. Однако <Node id="775"/>Карен<Node id="780"/> и <Node id="783"/>ее<Node id="785"/> коллеги решили улучшить его прочность, используя <Node id="835"/>нанотрубки<Node id="845"/>.
+
+Ученые начали с многослойных <Node id="877"/>углеродных <Node id="888"/>нанотрубок<Node id="898"/> (MWNT), и им удалось увеличить эластичность материала на <Node id="956"/>214%<Node id="960"/> и его прочность на <Node id="980"/>162%<Node id="984"/>, добавив всего <Node id="1000"/>2%<Node id="1002"/> <Node id="1003"/>нанотрубок<Node id="1013"/> в качестве наполнителя.
+
+Однако по сравнению с <Node id="1061"/>многослойными <Node id="1075"/>нанотрубками<Node id="1087"/>, однослойные имеют более высокий модель <Node id="1128"/>Юнга<Node id="1132"/>, поэтому ученые решили использовать и их в композите.
+
+В итоге, добавление в нейлон <Node id="1217"/>1%<Node id="1219"/> <Node id="1220"/>однослойных <Node id="1232"/>нанотрубок<Node id="1242"/> привело к увеличению его жесткости на <Node id="1281"/>160%<Node id="1285"/>, а вязкость нейлона увеличилась на <Node id="1321"/>140%<Node id="1325"/>.
+
+<Node id="1328"/>Как говорит <Node id="1340"/>Карен<Node id="1345"/>, подобные <Node id="1356"/>нанокомпозиты<Node id="1369"/> в недалеком будущем могут произвести революционные сдвиги в традиционной текстильной, аэрокосмической и строительной промышленности<Node id="1501"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1328" EndNode="1501">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="783" EndNode="785">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="888" EndNode="898">
+</Annotation>
+<Annotation Id="3" Type="Однослойная+нанотрубка" StartNode="1220" EndNode="1242">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1003" EndNode="1013">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1128" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">модель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="86" EndNode="96">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="877" EndNode="898">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1232" EndNode="1242">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1321" EndNode="1325">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1328" EndNode="1501">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанокомпозит" StartNode="62" EndNode="75">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="611" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Однослойная+нанотрубка" StartNode="178" EndNode="200">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Нанокомпозит" StartNode="575" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="1075" EndNode="1087">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Нанокомпозит" StartNode="1356" EndNode="1369">
+</Annotation>
+<Annotation Id="29" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Процент" StartNode="1281" EndNode="1285">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="835" EndNode="845">
+</Annotation>
+<Annotation Id="30" Type="Процент" StartNode="1217" EndNode="1219">
+</Annotation>
+<Annotation Id="34" Type="Углеродная+нанотрубка" StartNode="600" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Персона" StartNode="775" EndNode="780">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Карен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Период_времени" StartNode="278" EndNode="297">
+</Annotation>
+<Annotation Id="38" Type="Персона" StartNode="1340" EndNode="1345">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Карен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Процент" StartNode="1000" EndNode="1002">
+</Annotation>
+<Annotation Id="36" Type="Процент" StartNode="956" EndNode="960">
+</Annotation>
+<Annotation Id="37" Type="Нанотрубка" StartNode="190" EndNode="200">
+</Annotation>
+<Annotation Id="42" Type="Многослойная+нанотрубка" StartNode="1061" EndNode="1087">
+</Annotation>
+<Annotation Id="43" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="Процент" StartNode="980" EndNode="984">
+</Annotation>
+<Annotation Id="41" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="Нанокомпозит" StartNode="396" EndNode="410">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

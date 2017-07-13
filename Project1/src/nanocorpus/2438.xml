@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>21-24 октября 2008 г.<Node id="23"/> в Екатеринбурге состоится Всероссийская конференция "Химия твердого тела и функциональные материалы". 
+ 
+Тематика конференции: 
+  Электронные, ионные, магнитные функциональные материалы и композиты на основе оксидов и родственных соединений;  Нанокристаллические материалы;  Керамика, композиты, керметы, огнеупоры;  Реакционная способность твердых тел в гетерогенных системах;  Методы термодинамического моделирования и компьютерное материаловедение;   Регистрация участников и размещение тезисов докладов 
+до <Node id="535"/>25 апреля 2008 г.<Node id="552"/> <Node id="553"/>(http://www.ihim.uran.ru/conf/reg/registration).<Node id="601"/> 
+ 
+В рамках конференции планируется работа молодежной программы УМНИК 
+<Node id="673"/>(www.ihim.uran.ru/news)<Node id="696"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="535" EndNode="552">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="673" EndNode="696">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="553" EndNode="601">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2" EndNode="23">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

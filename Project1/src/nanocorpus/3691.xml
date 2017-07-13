@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сенатор Керри ратует за увеличение ассигнований в изучение проблем безопасности НТВыступая на заседании Подкомитета по вопросам торговли, посвящённом анализу структуры ассигнований в развитие нанотехнологий («National Nanotechnology Initiative: Charting the Course for Reauthorization»), сенатор Джон Керри призвал Сенат Конгресса США увеличить объём ассигнований на эти цели, включая НИОКР, касающиеся изучения проблем долгосрочного влияния НТ на организм человека и окружающую среду.
+ «Нанотехнологии – это одна из наиболее многообещающих отраслей нашей экономики, а штат Массачузетс – это лидер идущей сейчас нанотех-революции. – заявил он. – Но мы ещё совсем мало знаем о том, как в долгосрочном плане влияют на нас эти крохотные <Node id="734"/>наночастицы<Node id="745"/>. И было бы чрезвычайно важно для всех нас расширить ассигнования на проведение НИОКР, которые привели бы к множеству открытий в области использования нанотехнологий и одновременно позволили бы защитить здоровье американцев и окружающую среду»…
+ Kerry Urges Funding for Nanotechnology Environmental Safety <Node id="1051"/>Researchhttp://www.nanotech-now.com/news.cgi?…Правильно<Node id="1106"/> говорит сенатор. Необходимо всячески расширять исследования в области НТ, не забывая и о проблемах безопасности. Или же, формулируя по-другому, необходимо максимально расширить НИОКР в области изучения потенциальных рисков долговременного воздействия <Node id="1358"/>наночастиц<Node id="1368"/> на организм человека и окружающую среду и, соответственно, для их защиты. Не забывая при этом о той революции и тех огромных возможностях, которые могут принести НТ для развития экономики страны…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1051" EndNode="1106">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1358" EndNode="1368">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="734" EndNode="745">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

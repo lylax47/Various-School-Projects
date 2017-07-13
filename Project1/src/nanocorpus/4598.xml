@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Физико-технический институт им. Иоффе РАН гетероструктура, лазерные диоды, полупроводниковые приборы , полупроводниковые структуры, фотодетекторы   наноэлектроника Оптоэлектроника   Оптическая и структурная характеризация полупроводниковых структур Полупроводниковые лазерные диоды, фотодетекторы, мощные и высокочастотные полупроводниковые приборы Постростовая обработка полупроводниковых приборов Физика и технология выращивания (МПЭ и ГФЭМОС) полупроводниковых гетероструктур                         <Node id="505"/>Алферов Жорес Иванович<Node id="527"/>, заведующий лабораторией Бекман Юлия Германовна , секретарь-экономист Леденцов Николай Николаевич, зам.заведующего лабораторией Лундин Всеволод , ученый секретарь Устинов Виктор Михайлович, зам.заведующего лабораторией 
+Лаборатория организована в <Node id="775"/>2000 году<Node id="784"/> в Физико-техническом институте им Иоффе РАН.
+ Структура лаборатории: 
+  Группа МПЭ - рост материалов III-As и Si  Группа IIIN материалов - рост и исследование IIIN материалов  Оптическая группа - характеризация   Область исследований:  Физика и технология выращивания (МПЭ и ГФЭМОС) полупроводниковых гетероструктур  Оптическая и структурная характеризация полупроводниковых структур  Оптоэлектроника и наноэлектроника (низкоразмерные гетероструктуры - <Node id="1238"/>квантовые точки<Node id="1253"/>, квантовые ямы)  Полупроводниковые лазерные диоды, фотодетекторы, мощные и высокочастотные полупроводниковые приборы  Постростовая обработка полупроводниковых приборов      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="775" EndNode="784">
+</Annotation>
+<Annotation Id="11" Type="Квантовая+точка" StartNode="1238" EndNode="1253">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="505" EndNode="527">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="775" EndNode="784">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор ВГУ избран действительным членом РАНПрофессор Воронежского государственного университета избран действительным членом Российской академии наук.
+Валентин Иевлев – выпускник ВГУ, профессор, заведующий кафедрой материаловедения и индустрии наносистем Центра инновационных образовательных программ. Как стало известно ИА «Воронеж-Медиа» из сообщения руководителя пресс-службы ВГУ Людмилы Кудиновой, Валентин Михайлович долгие <Node id="432"/>годы<Node id="436"/> ведет активную педагогическую и научную работу, является основателем научной школы, занимающейся исследованиями, связанными с нанотехнологиями.
+
+<Node id="582"/>С 2008 года<Node id="593"/> в соответствии с проблематикой, которая входит в сферу научных интересов Валентина Михайловича Иевлева, в университете впервые открыт прием на направление химического факультета «Химия, физика и механика материалов» на места, финансируемые из федерального бюджета.
+По мнению коллег, большое доверие, которого удостоен В.М.Иевлев со стороны академического сообщества и Министерства образования и науки, наглядно свидетельствует о вкладе, сделанным этим ученым в развитие современной <Node id="1076"/>науки.http://www.voronezh-media.ru/news_out.php?…Иевлев<Node id="1131"/> Валентин <Node id="1141"/>Михайлович<Node id="1151"/> Иевлев Валентин Михайлович (<Node id="1180"/>р. 1938<Node id="1187"/>), учёный в области электроники, член-корреспондент РАН (1991). Основные труды по созданию элементной базы приборов микроэлектроники, получению кристаллических плёночных материалов, разработке структур внутреннего раздела границ в плёночных системах. Женат, имеет дочь. <Node id="1457"/>http://enc.mail.ru/article/?…Член-корреспондент<Node id="1504"/> ИЕВЛЕВ Валентин Михайлович
+<Node id="1532"/>Родился 1 декабря 1938<Node id="1554"/> г., <Node id="1559"/>с.Пригородки Липецкой обл.<Node id="1585"/>
+
+394026 Воронеж, Московский просп., 14, Государственный технический университет
+
+Тел: (0732) 16–12–07
+
+Факс: (073) 216–24–79
+ievlev@nsl.vstu.ac.ruСпециалист в области электронной микроскопии и физического материаловедения тонкопленочных материалов.
+ Член-корреспондент по Секции инженерных наук (материаловедение) с <Node id="1902"/>7 декабря 1991 г.<Node id="1919"/> 
+Член Бюро ОФХТНМ.
+<Node id="1939"/>http://www1.muctr.ru/…s/ievlev.htmНу<Node id="1975"/> что ж, вполне достойное пополнение корпуса академиков РАН. Нашего полку прибыло. Наши поздравления Валентину Михайловичу и искренние пожелания новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата_рождения" StartNode="1532" EndNode="1554">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="432" EndNode="436">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1457" EndNode="1504">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1076" EndNode="1131">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1939" EndNode="1975">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="582" EndNode="593">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1180" EndNode="1187">
+</Annotation>
+<Annotation Id="17" Type="расположение" StartNode="1559" EndNode="1585">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="1141" EndNode="1151">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Михайлович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1902" EndNode="1919">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

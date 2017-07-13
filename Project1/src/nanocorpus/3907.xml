@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> С использованием магнитно-резонансной силовой микроскопии (MRFM) исследователи продемонстрировали двумерные снимки объектов размером всего 90 нм. Цель исследователей — получать трёхмерные снимки сложных структур, таких как молекулы, с атомным разрешением. Это позволило бы лучше изучить свойства объектов, для понимания которых необходимо знать детали их структуры на атомном уровне, например, белков (для структурной молекулярной биологии и разработки препаратов), или молекулярных интегральных схем. 
+ 
+Чувствительность метода MRFM в 60 тысяч раз превышает чувствительность сегодняшних магнитно-резонансных технологий (даже самая точная магнитно-резонансная микроскопия <Node id="673"/>на сегодняшний день<Node id="692"/> обладает разрешением лишь порядка 3 мкм) за счёт силового детектирования. 
+ 
+Для этого исследователям пришлось разработать специальные магнитные зонды, способные реагировать на чрезвычайно слабый магнетизм атомных ядер. Новые достижения позволяют исследователям разрешить структуры размером всего 103 атомов, в то время как традиционные методы ограничены масштабами порядки 108 атомов. 
+ 
+Отметим, что исследовательское подразделение IBM имеет за плечами богатый опыт разработки микроскопов для визуализации нанообъектов. В <Node id="1217"/>1986 году<Node id="1226"/> <Node id="1227"/>Герд Бинниг<Node id="1238"/> и Хайнрих Рорер из исследовательской лаборатории IBM в Цюрихе получили Нобелевскую премию по физике за создание сканирующего туннельного микроскопа, способного «видеть» отдельные атомы на поверхности проводников. 
+ 
+ Василий Артюхов  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1227" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Герд</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="673" EndNode="692">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="1217" EndNode="1226">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1217" EndNode="1226">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

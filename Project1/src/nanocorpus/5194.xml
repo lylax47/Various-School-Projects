@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Состоялось совещание по вопросу участия ФГУП «Государственный научный центр «НИОПИК» в технико-внедренческой деятельности в ТВЗ «Зеленоград»Обсуждены возможные направления сотрудничества с потенциальными резидентами и резидентами ТВЗ «Зеленоград» в целях создания технологий и продукции в области нанотехнологий и <Node id="314"/>наноматериалов<Node id="328"/>.
+Георгий Николаевич Ворожцов
+<Node id="358"/>7 августа 2008 г.<Node id="375"/> в Департаменте науки и промышленной политики города Москвы Правительства Москвы состоялось совещание по вопросу участия ФГУП «Государственный научный центр «НИОПИК» в технико-внедренческой деятельности в особой экономической зоне технико-внедренческого типа на территории г. Москвы (ТВЗ «Зеленоград»). В работе совещания приняли участие представители <Node id="727"/>Федерального агентства<Node id="749"/> по управлению особыми экономическими зонами и Территориального управления РосОЭЗ по г. Москве.
+ На совещании были обсуждены предложения генерального директора ФГУП «ГНЦ «НИОПИК» Г.Н. Ворожцова<Node id="942"/> <Node id="943"/>о возможных направлениях сотрудничества с потенциальными резидентами и резидентами ТВЗ «Зеленоград» в целях создания технологий и продукции в области нанотехнологий и <Node id="1110"/>наноматериалов<Node id="1124"/>. Принято решение провести в ТУ РосОЭЗ по г. Москве презентацию ТВЗ «Зеленоград» для руководства ФГУП «ГНЦ «НИОПИК». <Node id="1241"/>http://www.rosoez.ru/…vice/167009/Научно-исследовательский<Node id="1299"/> институт органических полупродуктов и красителей <Node id="1349"/>(НИОПИК)http://www.niopik.ru/Ну<Node id="1380"/> что ж, это хорошо, что в наногонку включаются такие научно-технические гиганты, как НИОПИК. Будем надеяться, что это послужит дальнейшему прогрессу в создании отечественной наноиндустрии. В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1241" EndNode="1299">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="727" EndNode="749">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федерального агентства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="358" EndNode="375">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1349" EndNode="1380">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="1110" EndNode="1124">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="314" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="работает" StartNode="942" EndNode="943">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="сотрудники" StartNode="942" EndNode="943">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

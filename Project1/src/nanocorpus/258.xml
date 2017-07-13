@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Информационный бюллетень "Нанометр" № 15
+ 
+-Результаты конкурса имени члена-корреспондента РАН Н.Н.Олейникова
+ 
+-"Наноуниверситет" <Node id="133"/>Райс<Node id="137"/> (США)
+ 
+-хроника конференций
+    
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="133" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

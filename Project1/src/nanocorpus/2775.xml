@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Вышел июньский номер дайджеста «Нанотехнологии в мире»Вышел в свет очередной номер дайджеста «Нанотехнологии в мире», подготовленный по заказу ГК «Роснанотех».
+В июньском номере дайджеста содержатся выдержки из наиболее актуальных публикаций средств массовой информации, посвященных тематике нанотехнологий, цитаты выступлений ведущих политиков и лидеров отрасли.
+
+ОГЛАВЛЕНИЕ
+ ЦИТАТЫ <Node id="384"/>МЕСЯЦА<Node id="390"/> 2 <Node id="393"/>ТЕМЫ<Node id="397"/> В ФОКУСЕ 3 ТЕНДЕНЦИИ В ФОКУСЕ 8 НАНОТЕХНОЛОГИИ В ЗЕРКАЛЕ ЗАРУБЕЖНЫХ СМИ 9 НАНОТЕХНОЛОГИИ В ЗЕРКАЛЕ РОССИЙСКИХ СМИ 13 СОБЫТИЯ 16 КОНФЕРЕНЦИИ, ВЫСТАВКИ, СЕМИНАРЫ 17 ИНТЕРЕСНЫЕ ФАКТЫ 19 
+Наибольший интерес СМИ в <Node id="607"/>июне<Node id="611"/> привлекла экспозиция ГК «Роснанотех» на XII Петербургском международном экономическом форуме, прошедшем <Node id="716"/>6–8 июня 2008 г.<Node id="732"/> Стенд корпорации посетили президент России Дмитрий Медведев, первый вице-премьер Игорь Шувалов, вице-премьер Сергей Иванов и другие официальные лица РФ. В рамках Петербургского экономического форума <Node id="932"/>7 июня<Node id="938"/> было подписано <Node id="954"/>соглашение<Node id="964"/> о сотрудничестве между ГК «Роснанотех» и компанией Intel.
+<Node id="1023"/>http://www.nanometer.ru/…t_53367.htmlС<Node id="1061"/> полным текстом дайджеста можно ознакомиться <Node id="1106"/>здесь:http://www.rusnano.com/…_2008_06.pdfОчень<Node id="1153"/> интересный дайджест. Помимо других (более важных) тем, в нём помещено также сообщение, что, по данным системы Public.ru, в общей сложности «за отчетный период» в российских центральных и интернет-СМИ, тема нанотехнологий была затронута в 941 материалах. Из них: 90 телесюжетов; 307 сообщений информационных агентств; 357 публикаций в центральных печатных СМИ; 187 материалов российских интернет-СМИ. Так что эта тематика неплохо освещается в СМИ. И это – совсем не плохо!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="932" EndNode="938">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1106" EndNode="1153">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1023" EndNode="1061">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="607" EndNode="611">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="393" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тема</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="716" EndNode="732">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Партнеры_Клиенты" StartNode="954" EndNode="964">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="384" EndNode="390">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

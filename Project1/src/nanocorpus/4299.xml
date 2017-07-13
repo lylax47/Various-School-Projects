@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Международная конференция «<Node id="28"/>Нановолокно<Node id="39"/> для 3го тысячелетия- <Node id="61"/>Нано<Node id="65"/> для жизни» состоится <Node id="87"/>11–12 марта 2009 г<Node id="105"/> в Праге (11–12 March 2009: Clarion Congress Hotel, Prague, Czech Republic Nanofibers for the 3rd Millenium – Nano for Life) Информацию о конференции можно получить на вебсайте: <Node id="283"/>(http://www.nano3millennium.com/)<Node id="316"/>
+
+Конференция объединяет исследователей мирового класса, бизнесменов и инженеров из более, чем 20 стран. Программа двух полных рабочих <Node id="451"/>дней<Node id="455"/> конференции включает в себя:
+
+<Node id="486"/>Первый день<Node id="497"/>- доклады общего характера с анализом состояния исследований и разработок <Node id="571"/>нановолокон<Node id="582"/>, в том числе свойства и характеристики <Node id="622"/>нановолокон<Node id="633"/>; различные технологии получения <Node id="666"/>нановолокна<Node id="677"/>; технология Наноспайдер ТМ (Nanospider TM) и ее модификации; перспективы и практические ограничения.
+
+<Node id="780"/>Второй день<Node id="791"/> посвящен практическим применениям <Node id="826"/>нановолокна<Node id="837"/>. Доклады <Node id="847"/>второго дня<Node id="858"/> планируются по следующим основным направлениям: фильтрация; медицина; «умный текстиль»; хранение энергии; охрана окружающей среды.
+
+В программу конференции включен учебный <Node id="1031"/>день 10 марта 2009 г.<Node id="1052"/> в Техническом Университете г. Либерец (Technical University of Liberec), где будут прочитаны лекции на тему «Введение в мир <Node id="1177"/>нановолокна<Node id="1188"/>» («Introduction to the Nanofiber World»)
+
+Конференция проводится под покровительством Премьер-министра Чешской Республики Г-на <Node id="1316"/>Мирека<Node id="1322"/> Тополанека (Mirek Topolanek). Дополнительные материала из канцелярии Премьер-министра можно посмотреть здесь: <Node id="1433"/>(http://www.elmarco.com/…nferenci.pdf)<Node id="1471"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нановолокно" StartNode="1177" EndNode="1188">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1031" EndNode="1052">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="847" EndNode="858">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нановолокно" StartNode="666" EndNode="677">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="486" EndNode="497">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="283" EndNode="316">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1316" EndNode="1322">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мирек</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нановолокно" StartNode="571" EndNode="582">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нановолокно" StartNode="28" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="87" EndNode="105">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="61" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Нановолокно" StartNode="622" EndNode="633">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="780" EndNode="791">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1433" EndNode="1471">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="451" EndNode="455">
+</Annotation>
+<Annotation Id="22" Type="Нановолокно" StartNode="826" EndNode="837">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

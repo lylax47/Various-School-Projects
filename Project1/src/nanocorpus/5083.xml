@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Профессор <Node id="11"/>Салли Денардо<Node id="24"/> (Sally DeNardo) и <Node id="43"/>её<Node id="45"/> коллеги из университета Калифорнии в Дэвисе (UC Davis) успешно применили гипотермию для лечения раковой опухоли, используя специальные нанозонды. Правда, пока эту перспективную технологию борьбы с раком учёные опробовали только на мышах, но испытания на пациентах-людях — следующий намеченный шаг исследований. Использование сильного нагрева против опухоли медики обсуждают давно, но тут главная проблема точная локализация зоны нагрева и защита здоровых тканей. Эту задачу решили авторы новой работы, которые создали необычные нанозонды. Каждый из них состоит из крошечной сферы, сделанной из оксида железа, соединённого с антителами, снабжёнными радиоактивными метками. <Node id="718"/>Наночастицу<Node id="729"/> покрывают сахара и полимеры, маскирующие её от "внимания" иммунной системы. Триллионы таких нанозондов учёные запускали в кровоток мышей, имевших раковую опухоль груди. Частицы, мигрируя по организму, в конце концов накапливались на поверхностях раковых клеток и, благодаря своим антителам, соединялись со специфическими рецепторами клеток опухоли. <Node id="1079"/>Через три дня<Node id="1092"/> исследователи направили на область опухоли высокочастотное (тысячи герц) переменное магнитное поле, которое вызвало мгновенный разогрев <Node id="1229"/>наночастиц<Node id="1239"/>. После единственной 20-минутной обработки (дозировка была вычислена на компьютере, исходя из различных параметров ткани и <Node id="1362"/>наночастиц<Node id="1372"/>) учёные стали наблюдать за мышами. Оказалось, что темп роста опухоли замедлился, так как многие раковые клетки были убиты. При этом вредного, в том числе — токсического, действия <Node id="1552"/>наночастиц<Node id="1562"/> на организм не наблюдалось. Денардо полагает, что данная техника может быть применена для лечения различных типов раковых образований у людей. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1229" EndNode="1239">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1079" EndNode="1092">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="43" EndNode="45">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1362" EndNode="1372">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="11" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Салли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="718" EndNode="729">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1552" EndNode="1562">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

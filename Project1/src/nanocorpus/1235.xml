@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+С тех пор, как в <Node id="19"/>1992 году<Node id="28"/> были открыты <Node id="42"/>нанотрубки<Node id="52"/> дисульфида вольфрама, учёные прилагают немалые усилия для синтеза неорганических <Node id="134"/>нанотрубок<Node id="144"/> и фуллереноподобных полых <Node id="171"/>наночастиц<Node id="181"/>. Области применения таких материалов огромны: твердые смазки, <Node id="244"/>химические <Node id="255"/>сенсоры<Node id="262"/>, транспортировка лекарств, катализаторы и т.д. Несмотря на то, что разработано уже множество методик получения тубулярных структур (темплатный синтез, разложение и т.д.), группа учёных из Китая предложила новый удобный способ синтеза, основанный на процессе самоорганизации по типу «голова к хвосту». 
+ 
+Морфологию и организацию <Node id="592"/>наноструктур<Node id="604"/> при химическом синтезе можно легко контролировать и изменять с помощью внешних параметров, таких как магнитное, электрическое поля или свет. Предложенный метод состоит из двух частей: создания полых <Node id="804"/>наноструктур<Node id="816"/> за счёт эффекта Киркендаля и последующего взаимодействия между ними, приводящего к активному росту тубулярных <Node id="927"/>наноструктур<Node id="939"/>. 
+ 
+<Node id="944"/>Наночастицы<Node id="955"/> селенида кадмия размером 2,2 нм были растворены в о-дихлорбензоле. <Node id="1023"/>Затем<Node id="1028"/> раствор помещали на подложку из аморфного углерода и облучали УФ-светом <Node id="1101"/>в течение 2 часов<Node id="1118"/>. В результате протекания реакции, представленной на рисунке 1, происходит полное замещение селена на хлор. <Node id="1226"/>После этого<Node id="1237"/> образцы были высушены в темноте и проанализированы с помощью EDX,TEM и HR-TEM (рис.2). 
+ 
+Исследованы были также механизм образования такого рода <Node id="1384"/>наноструктур<Node id="1396"/> (рис.3), влияние размера исходных <Node id="1431"/>наночастиц<Node id="1441"/> (рис.4) и аниона прекурсора (рис.6) на структуру образующихся <Node id="1504"/>нанотрубок<Node id="1514"/>. Использование частиц большего размера привело к образованию «нанотюрем» после 30-<Node id="1597"/>40 минут<Node id="1605"/> облучения (рис.4). Учёные предполагают, что заключённым в таких «нанотюрьмах» является аморфный селен, который достаточно быстро образуется под воздействием пучка электронного микроскопа. Это является подтверждением предположения, что образование полых <Node id="1859"/>наноструктур<Node id="1871"/> на начальной стадии синтеза обусловлено эффектом Киркендаля. Замена же аниона на теллур (рис.6) приводит к образованию даже более однородных <Node id="2013"/>нанотрубок<Node id="2023"/> хлорида кадмия. 
+ 
+Учёные надеются, что развитие этого метода позволит получать и другие тубулярные <Node id="2124"/>наноструктуры<Node id="2137"/> в мягких условиях, а также создавать самоорганизующиеся структуры по типу «голова к хвосту». 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="1859" EndNode="1871">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1504" EndNode="1514">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="19" EndNode="28">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1226" EndNode="1237">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="927" EndNode="939">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="944" EndNode="955">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="171" EndNode="181">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1101" EndNode="1118">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2013" EndNode="2023">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="1384" EndNode="1396">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="134" EndNode="144">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="804" EndNode="816">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1431" EndNode="1441">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="592" EndNode="604">
+</Annotation>
+<Annotation Id="14" Type="Сенсор" StartNode="255" EndNode="262">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="2124" EndNode="2137">
+</Annotation>
+<Annotation Id="17" Type="Химический+сенсор" StartNode="244" EndNode="262">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="42" EndNode="52">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1597" EndNode="1605">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="19" EndNode="28">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1023" EndNode="1028">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

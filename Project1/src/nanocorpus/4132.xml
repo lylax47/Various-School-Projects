@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>28 сентября<Node id="11"/> в РосОЭЗ прошло обсуждение Концепции развития ОЭЗ технико-внедренческого типа на территории г. ТомскаС презентацией Концепции развития особой экономической зоны технико-внедренческого типа на территории г. Томска выступил генеральный директор ООО «АБД» Б.В.Левянт.Борис Левянт и Борис Стучебрюков
+<Node id="309"/>28 сентября 2007 г.<Node id="328"/> в Федеральном агентстве по управлению особыми экономическими зонами (РосОЭЗ) прошло предварительное обсуждение Концепции развития особой экономической зоны технико-внедренческого типа на территории г. Томска. На совещании с презентацией Концепции развития особой экономической зоны технико-внедренческого типа на территории г. Томска выступил генеральный директор ООО «АБД» Б.В.Левянт.
+В ОЭЗ будут развиваться информационно-коммуникационные и электронные технологии, нанотехнологии, биотехнологии, технологии производства новых материалов, медицинские технологии.
+
+Предусматривается строительство объектов инновационной инфраструктуры общей площадью 49,5 тыс. кв. м, в т. ч. офисный комплекс <Node id="1021"/>администрации ОЭЗ<Node id="1038"/>, выставочные помещения, конференц-зал, бизнес-инкубатор и др.
+
+Общая площадь объектов научно-производственного назначения, планируемых к строительству в границах основного и перспективного участков ОЭЗ, составляет 805,8 тыс. кв. м.
+
+В работе совещания приняли участие представители и специалисты РосОЭЗ, ОАО «Особые экономические зоны», ОАО «Особые экономические зоны технико-внедренческого типа «Томск» и специалисты компании ООО «АБД».
+<Node id="1477"/>http://rosoez.ru/…vice/148217/Концепция<Node id="1516"/> – это, конечно, хорошо. ОЭЗ и «технико-внедренческого типа» – это тоже прекрасно. Но вот КОГДА это счастье наступит – ни одного слова! В то время как такого рода ОЭЗ уже должны были бы равномерно покрывать всю территорию нашей великой Родины, производить высокотехнологическую продукцию в больших объёмах и крепить оборонное и экономическое могущество родной страны. А они всё ещё гутарят о «концепции»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="309" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1477" EndNode="1516">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="1021" EndNode="1038">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">администрации ОЭЗ</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

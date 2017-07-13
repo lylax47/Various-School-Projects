@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Менделеевский конкурс проводится с целью активизации и повышения уровня научно-исследовательской работы студентов-химиков.
+ 
+Конкурс проводится по двум номинациям: 
+1. Исследования по химии 
+2. Исследования по химической технологии
+ 
+Номинация 1
+ 
+Секции:
+  Физическая и аналитическая химия  Неорганическая химия и материаловедение  Органическая химия  Элементоорганическая химия  Химия полимеров и коллоидных систем  
+В конкурсе по номинации №1 могут принимать участие студенты 1-4-х курсов.
+ 
+Номинация 2
+ 
+Секции:
+  Общая химическая технология, основной и нефтехимический синтез  Технология неорганических материалов  Технология полимеров и материалов на их основе  Технология биологически активных соединений   
+В конкурсе по номинации №2 могут принимать участие студенты всех курсов. Срок подачи тезисов - <Node id="813"/>10 декабря 2007 г.<Node id="831"/> Подробнее см. <Node id="846"/>http://www.chem.msu.su/rus/events/mendel-xviii/welcome.html<Node id="905"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="846" EndNode="905">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="813" EndNode="831">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Фостер <Node id="7"/>Л.<Node id="9"/>Нанотехнологии<Node id="23"/>: <Node id="25"/>Наука<Node id="30"/>, инновации и возможности. – Пер. с англ.
+ ISBN: 978–5–94836–161–1 Издательство: Техносфера <Node id="122"/>Год<Node id="125"/> выпуска: 2008 Серия: Мир материалов и технологий Тип переплета: твердый Тираж книги: 3000 <Node id="216"/>Доп<Node id="219"/>. ISBN: 0–13–192756–6 Число страниц: 352 Цена: <Node id="266"/>398 р.<Node id="272"/> 
+В предлагаемой книге авторы — известные ученые и бизнесмены, занимающиеся теоретическими и практическими проблемами нанотехнологий, — описывают состояние дел и перспективы их развития на <Node id="461"/>ближайшее десятилетие<Node id="482"/>, а также возможное воздействие нанотехнологий на глобальные процессы.
+ Книга предназначена для широкого круга читателей: научных работников, специалистов, а также студентов профильных учебных заведений. <Node id="686"/>http://www.biblion.ru/…oa/wa/aspurl?…Ну<Node id="725"/> вот, «полкУ» книг по проблемам развития НТ всё прибывает… Покупайте, читайте, изучайте, анализируйте, делайте свои выводы,.. пишите сами. Приятного чтения!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="25" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="122" EndNode="125">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="7" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="686" EndNode="725">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="266" EndNode="272">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="461" EndNode="482">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="216" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Доп</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

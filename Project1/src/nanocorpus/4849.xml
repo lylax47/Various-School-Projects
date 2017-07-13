@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Чубайс пообещал нанотехнологиям трудностиРоссийская госкорпорация нанотехнологий «Роснано» может столкнуться с проблемами в реализации своих проектов из-за мирового кредитного кризиса. Об этом заявил гендиректор компании Анатолий Чубайс, сообщает РИА Новости
+По его словам, корпорация может ощутить «некое торможение» на протяжении <Node id="332"/>ближайших года<Node id="346"/>-полутора. Чубайс, однако, добавил, что специалисты «Роснано» до наступления кризиса успели «очень эффективно» разместить предоставленные корпорации госсредства.
+Как отметил глава компании, сейчас она рассматривает заявки по 90 проектам, четыре из которых уже запущены. Еще <Node id="620"/>через неделю<Node id="632"/> количество работающих проектов может увеличиться до шести.
+
+Госкорпорация «Роснано» была создана в <Node id="732"/>2007 году<Node id="741"/> для развития отрасли нанотехнологий в России. Первоначально ею руководил Леонид Меламед, которого в конце <Node id="848"/>сентября 2008 года<Node id="866"/> сменил Чубайс. В <Node id="884"/>2007 году<Node id="893"/> на ее нужды правительство РФ выделило <Node id="932"/>130 миллиардов рублей<Node id="953"/>. За время работы в компанию поступило уже более 650 заявок о финансировании тех или иных проектов, однако менее трети из них оказались в сфере интересов «Роснано».
+<Node id="1118"/>http://lenta.ru<Node id="1133"/>/…/15/chubais/Ну, а куда денешься? Мировой кризис, он и есть мировой кризис. Уже Андрей Малышев в Томске намекал на возможность возникновения неких трудностей. Но всё-таки молодец <Node id="1313"/>Анатоль<Node id="1320"/>_<Node id="1321"/>Борисыч<Node id="1328"/>: хорошо держит удар! Понимая, что не этого (признания трудностей) от него ждёт публика, не забыл добавить, что «компания сейчас рассматривает заявки ещё по 90 проектам, четыре из которых уже запущены. Еще <Node id="1534"/>через неделю<Node id="1546"/> количество работающих проектов может увеличиться до шести». Вот это – по нашему, «по-Аршавински»: падая, падай, но в падении успей перепаснуть мяч своему игроку… Кстати, наши только что победили (правда, не очень сильную) команду финнов со счётом 3:0. Поздравляю всех «болевших» за нашу команду!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1534" EndNode="1546">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="884" EndNode="893">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="848" EndNode="866">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1313" EndNode="1320">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анатоль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="732" EndNode="741">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="932" EndNode="953">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="332" EndNode="346">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="884" EndNode="893">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="620" EndNode="632">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="732" EndNode="741">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1321" EndNode="1328">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Борисыч</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1118" EndNode="1133">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

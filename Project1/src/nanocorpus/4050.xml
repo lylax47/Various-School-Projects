@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В номере: 
+ 
+- <Node id="16"/>День<Node id="20"/> родного факультета 
+ 
+- Первая Всероссийская Интернет-олимпиада “Нанотехнологии - прорыв в Будущее!” 
+ 
+- Конференции 
+ 
+- <Node id="144"/>Наноазбука<Node id="154"/> 
+    
+ 
+            
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="144" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наноазбук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="16" EndNode="20">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

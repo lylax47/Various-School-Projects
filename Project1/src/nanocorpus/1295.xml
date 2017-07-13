@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт органического синтеза УрО РАН металлокомплексные соединения, <Node id="72"/>наноматериалы<Node id="85"/>, титанкремнийорганические мономеры , углеродные материалы, фармакологически активные вещества    <Node id="183"/>Наноматериалы<Node id="196"/> Органическая химия   Современные проблемы химии материалов, включая <Node id="265"/>наноматериалы<Node id="278"/> создание новых веществ и материалов на основе металлокомплексных соединений и элементоорганических олигомеров и полимеров создание ресурсосберегающих методов переработки углей химические проблемы создания фармакологически активных веществ нового поколения и химические аспекты современной энергетики и рационального природопользования                             Ятлук Юрий Григорьевич, заведующий лабораторией, профессор, доктор наук 
+Сотрудниками лаборатории разработаны методы получения новых реакционноспособных титан- и титанкремнийорганических мономеров и олигомеров различного строения. Создан и внедрен в производство ряд новых полимерных материалов на основе указанных олигомеров; наноразмерных, структурно организованных на основе гидрогелей оксидов Si, Ti, Zr, Sn (slurry-phase) каталитических систем для процессов органического синтеза. Предложены новые направления не топливного использования углей и процессы совместной переработки угле- и нефтехимического сырья с получением битумов и пеков, исходных продуктов для углеродных материалов.    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="183" EndNode="196">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="72" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="265" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

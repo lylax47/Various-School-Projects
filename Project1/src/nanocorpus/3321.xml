@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В СПбГУ получили <Node id="17"/>наноструктуры<Node id="30"/> на основе уранаПитерские ученые получили урановые <Node id="81"/>наноструктуры<Node id="94"/> для утилизации жидких радиоактивных отходов. С подробностями наш корреспондент Олег Яхонтов.
+ЯХОНТОВ: В результате научных исследований были получены некие материалы или <Node id="265"/>наноструктуры<Node id="278"/> на основе урана, благодаря которым можно разрабатывать новые технологии очистки окружающей среды от радиоактивных и токсичных элементов, переработки и захоронения жидких радиоактивных отходов, а также в создании новых материалов с уникальными оптическими свойствами.
+
+Как отметил заведующий кафедрой кристаллографии геологического факультета Петербургского университета Сергей Кривовичев:
+КРИВОВИЧЕВ: Это имеет очень важное фундаментальное значение, поскольку о существовании вообще <Node id="762"/>наноструктур<Node id="774"/> на основе октимидов существует очень мало сведений. Фактически это одни из первых работ вообще в мире.
+ЯХОНТОВ: Стоит отметить, что исследования <Node id="920"/>наноструктур<Node id="932"/> кислородных соединений урана стартовали в Петербургском университете еще <Node id="1006"/>три года назад<Node id="1020"/>. А всего в <Node id="1032"/>настоящее время<Node id="1047"/> в университете реализуется около 30 нанопроектов. Еще 80 проектов в сфере нанотехнологий на общую сумму <Node id="1152"/>2 миллиарда рублей<Node id="1170"/> находятся в стадии разработки.
+Радио <Node id="1208"/>«Маяк»http://www.rambler.ru/…1392336.htmlЕсли<Node id="1253"/> это – правда, то это очень перспективная вещь! Молодцы питерцы!!! Так держать!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1032" EndNode="1047">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1006" EndNode="1020">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1208" EndNode="1253">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1152" EndNode="1170">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="17" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="81" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Наноструктура" StartNode="265" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Наноструктура" StartNode="762" EndNode="774">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Наноструктура" StartNode="920" EndNode="932">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

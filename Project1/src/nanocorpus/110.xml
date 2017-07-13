@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Американские исследователи наномира утверждают, что смогли разработать новый рентгеновский микроскоп, который способен создавать трехмерные изображения <Node id="153"/>наноматериалов<Node id="167"/>.
+
+Профессор Subhash Risbud (University of California-Davis), John Miao (UCLA) и группа сотрудников из Японии и Тайваня сообщили, что прибор окажется незаменимым в таких областях как электроника, оптика и биотехнологии.
+
+Традиционно для изучения нанообъектов используется <Node id="439"/>просвечивающая электронная микроскопия<Node id="477"/> (TEM). Но электроны не проникают в материал глубоко, что ограничивает возможности метода и усложняет процесс пробоподготовки. К тому же, получаемые изображения могут быть только двумерными.
+
+В новом методе рентгеновские лучи, испускаемые мощным источником, фокусируются на образце (<Node id="760"/>наночастице<Node id="771"/>). Отраженные лучи детектируются, и компьютер по полученным данным восстанавливает трехмерную картину. Микроскоп разрешает детали размером 17 нм.
+
+Разработка открывает новые возможности для всестороннего неразрушающего количественного 3D-анализа различного рода нанообъектов, в том числе пористых материалов, полупроводников, <Node id="1097"/>квантовых точек<Node id="1112"/>, неорганических <Node id="1129"/>наноструктур<Node id="1141"/> и <Node id="1144"/>нанопорошков<Node id="1156"/>.
+
+Работа была опубликована в журнале Physical Review Letters.
+
+Источник <Node id="1229"/>http://nanoschool-edu.ulsu.ru<Node id="1258"/>/news.php?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="1097" EndNode="1112">
+</Annotation>
+<Annotation Id="1" Type="Нанопорошок" StartNode="1144" EndNode="1156">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="1129" EndNode="1141">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="153" EndNode="167">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="760" EndNode="771">
+</Annotation>
+<Annotation Id="5" Type="Просвечивающая+электронная+микроскопия" StartNode="439" EndNode="477">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1229" EndNode="1258">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

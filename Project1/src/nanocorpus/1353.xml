@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Росгосстрах застраховал нанотехнологиюКомпания «Росгосстрах-Столица» застраховала ответственность компании «Нанопром» как производителя и поставщика ультрасовременной разработки <Node id="178"/>нанокерамики<Node id="190"/> «Форсан»В основе всех продуктов, производимых «Нанопром», лежит новейшая технология «Форсан» по созданию металлокерамического слоя на поверхностях трения машин и механизмов. В результате применения <Node id="389"/>нанокерамики<Node id="401"/> «Форсан» происходит восстановление, упрочнение, выравнивание поверхностей деталей и снижение трения. Как следствие, увеличивается ресурс деталей, сокращаются расходы на текущее обслуживание, улучшаются экологические показатели.
+ По условиям заключенного между компаниями контракта: если вследствие обработки металлических узлов трения <Node id="737"/>нанокерамикой<Node id="750"/> «Форсан» будет причинен какой-либо вред жизни, здоровью или имуществу третьих лиц, ответственность за компанию «Нанопром» возьмет на себя «Росгосстрах». Общая страховая сумма по договору составляет <Node id="949"/>10 000 000 долларов<Node id="968"/>. <Node id="970"/>Страховой<Node id="979"/> полис выдается как при покупке комплекта <Node id="1021"/>нанокерамики<Node id="1033"/> «Форсан» для полной обработки ДВС и коробки передач частным автовладельцам, так и при проведении обработок промышленного оборудования индустриальными продуктами FORSAN® Nanoceramics. <Node id="1217"/>http://autoban.ru/News.aspx?…«Нанопром»http://www.forsan.info/FORSAN®<Node id="1286"/> <Node id="1287"/>Nanoceramicshttp://www.forsan.info<Node id="1321"/>/…eramics.aspxДа, очень интересная технология… Вот бы кто затруднился посчитать (или хотя бы оценить), какая экономия могла бы быть достигнута в масштабах всей страны, если бы с помощью этой технологии можно было бы обработать ВСЕ трущиеся поверхности у всех механизмов, работающих в стране…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Керамический+наноматериал" StartNode="737" EndNode="750">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1287" EndNode="1321">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Керамический+наноматериал" StartNode="178" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1217" EndNode="1286">
+</Annotation>
+<Annotation Id="8" Type="Керамический+наноматериал" StartNode="389" EndNode="401">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="949" EndNode="968">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="970" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Страхова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Керамический+наноматериал" StartNode="1021" EndNode="1033">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Дж. М. Мартинес-Дуарт, Р. Дж. Мартин-Палма, <Node id="44"/>Ф. Агулло-РуедаНанотехнологии<Node id="73"/> для микро- и оптоэлектроникиNanotechnology for Microelectronics and Optoelectronics
+Серия: Мир материалов и технологий
+
+Издательство: Техносфера, <Node id="220"/>2007 г.<Node id="227"/>
+
+Твердый переплет, 368 стр.
+
+ISBN 978–5–94836–126–0, 0–080–44553–5
+
+Тираж: 3000 экз.
+
+Формат: 60×90/16
+
+Цена: <Node id="338"/>347 руб<Node id="345"/>
+От издателя
+В данной книге подробно описаны основные физические концепции, связанные с нанонаукой и нанотехнологиями, и возможности создания на их основе микроэлектронных и опто-электронных приборов нового поколения.
+
+В <Node id="566"/>настоящее время<Node id="581"/> издается много книг по новейшим разделам нанонауки, но почти отсутствуют учебники и пособия для студентов-старшекурсников и аспирантов, связанных с нанонаукой. Предлагаемая книга восполняет этот пробел, так как представляет собой ценное учебное и справочное пособие для студентов, специализирующихся в физике, материаловедении и некоторых других технических дисциплинах. Кроме того, книга может представить интерес для ученых и инженеров-практиков, желающих глубже понять принципы нанонауки и нанотехнологии.
+<Node id="1091"/>http://www.ozon.ru/…/id/3594771/Николай<Node id="1130"/> РамбидиНанотехнология и молекулярные компьютеры М.: Физматлит, <Node id="1194"/>2007г.<Node id="1200"/> 
+Твердый переплет, 256 стр.
+
+ISBN: 978–5–9221–0869–0
+
+Тираж: 1600 экз.
+
+Формат: 22×14,5×1,3
+
+Цена: <Node id="1300"/>328 руб.<Node id="1308"/>
+Описание книги
+Эта книга об одном из наиболее ранних и активно развивающихся направлений нанотехнологии – создании вычислительных устройств, в которых в качестве элементной базы используются отдельные молекулы или же их сравнительно небольшие ансамбли.
+<Node id="1562"/>http://www.bgshop.ru/…ription.aspx?…Ну<Node id="1600"/> вот, к <Node id="1608"/>концу года<Node id="1618"/> хоть две новых книжки по нашей тематике… По правде говоря, не густо. Но, как говорится, на безрыбье и рак – рыба…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1194" EndNode="1200">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="220" EndNode="227">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="566" EndNode="581">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1608" EndNode="1618">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="44" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1091" EndNode="1130">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="338" EndNode="345">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1300" EndNode="1308">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1562" EndNode="1600">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

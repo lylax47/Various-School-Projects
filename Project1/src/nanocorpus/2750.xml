@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На проходящей на <Node id="18"/>этой неделе<Node id="29"/> в San Jose (США) конференции «Перспективная <Node id="74"/>литография<Node id="84"/>» прозвучали два сенсационных сообщения – AMD и IBM изотовили первый чип с применением ЭУФ; японская Canon раскрыла важные сведения о своей ЭУФ литографической установке.
+
+Партнеры по исследованиям в области новейших технологий для компьютерных чипов компании Advanced Micro Devices (AMD) и IBM сообщили о рабоспособном тестовом чипе, изготовленном с использованием экстремальной ультрафиолетовой (ЭУФ, длина волны 13,5 нм) <Node id="508"/>литографии<Node id="518"/> для критического первого слоя металлических межсоединений по всей поверхности чипа (в предыдущем сообщении говорилось лишь о применении ЭУФ лишь на узкой области чипа) [1].
+
+Работа выполнялась сотрудниками AMD, IBM и другими партнерами на Нанотехнологическом комплексе в Олбани (Albany NanoTech Complex).
+
+Таким образом, продемонстрирована возможность успешной интеграции ЭУФ <Node id="895"/>литографии<Node id="905"/> «полного поля» в 45-нм технологический процесс на площади 22х33 мм2.
+
+Тестовый чип сначала был изготовлен на фабрике компании AMD (Fab 36 в Дрездене, Германия) с использованием 193-нм иммерсионной <Node id="1103"/>литографии<Node id="1113"/>, затем был переправлен в Олбани, где установлен ЭУФ литографический сканнер производства голландской компании ASML, и здесь был сформирован рисунок первого слоя металлических межсоединений транзисторов. Следующие операции (<Node id="1337"/>травление<Node id="1346"/>, осаждение металла и тестирование) проводилось в компании AMD.
+
+AMD надеется, что этот успех будет содействовать быстрейшему переходу к изготовлению других критических слоев микросхемы, чтобы первыми продемонстрировать работающий микропроцессорный чип, изготовленный с применением ЭУФ.
+
+Canon (Токио) является частью ЭУФ консорциума (EUV consortium) в Японии, но компания никогда не заявляла о своей готовности к независимому выходу на «ЭУФ рынок». Как стало известно из доклада на конференции, Canon поставила устройство для экспонирования малого поля (small-field exposure tool – SFET) японсому чипмейкеру Selete consortium. SFET – это устройство для проведения исследований, а не для производственных целей. SFET имеет поле экспонирования размером 0,3 (и 0,2) x 0,6 мм2 [2]. Согласно Selete, устройство позволяет рисовать 24-нм линии.
+
+Сотрудники Selete также испытали ЭУФ установку (EUV1) и другого японского производителя компании Nikon, сформировав на чипе контактые площадки шириной 30 нм.
+
+В <Node id="2347"/>текущем году<Node id="2359"/> Canon также планирует поставлять установки для 193-нм иммерсионной <Node id="2427"/>литографии<Node id="2437"/> (FPA-7000AS7) промышлнного типа.
+
+Согласно Международной маршрутной карте для полупроводников (International Technology Roadmap for Semiconductors) ЭУФ <Node id="2590"/>литография<Node id="2600"/> войдет в серийный литографический процесс к <Node id="2645"/>2016 г.<Node id="2652"/> в рамках 22-нм технологии. Похоже, что реальность может опередить прогнозы экспертов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Литография" StartNode="895" EndNode="905">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Литография" StartNode="1103" EndNode="1113">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Литография" StartNode="2590" EndNode="2600">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Травление" StartNode="1337" EndNode="1346">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Литография" StartNode="508" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Год" StartNode="2645" EndNode="2652">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Литография" StartNode="74" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Период_времени" StartNode="2347" EndNode="2359">
+</Annotation>
+<Annotation Id="33" Type="Период_времени" StartNode="18" EndNode="29">
+</Annotation>
+<Annotation Id="36" Type="Литография" StartNode="2427" EndNode="2437">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

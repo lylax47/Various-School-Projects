@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Мичиганского Универистета установили, что золотые наноштыри можно использовать для фотоакустического наблюдения за воспаленными клетками.
+
+Nanotechweb сообщает, что с помощью такой визуализации ученые вскоре смогут выявить на ранних стадиях заболевания головного мозга и сердца, а также артрит.
+
+Фотоакустическая технология отображения основана на преобразовании света в акустические сигналы. При освещении живая ткань быстро нагревается и, как следствие, расширяется, что приводит к образованию акустической волны. Последнюю ученые могут наблюдать с помощью сверхчувствительного ультразвукового приемника.
+
+Как оказалось, золотые наноштыри подходят как нельзя лучше в качестве агентов для фотоакустического отображения. Помимо хорошей биосовместимости с живой тканью, наноштыри еще интенсивно поглощают падающий на них свет в инфракрасном диапазоне.
+
+<Node id="863"/>Кэнг Ким<Node id="871"/> (Kang Kim) и <Node id="885"/>его<Node id="888"/> коллеги взяли за основу клетки пупочной вены человека. Их химически стимулировали биомаркером ICAM-1 для того, чтобы в них началось воспаление. <Node id="1033"/>После этого<Node id="1044"/> в культуру добавили золотые наноштыри. Через полчаса культуру поместили в солевой раствор и исследовали с помощью фотоакустического метода. Для сравнения учеными была исследована не стимулированная культура.
+
+Оказалось, что акустическая интенсивность от «больных» клеток на 10 децибел выше чем у не стимулированных.
+
+<Node id="1362"/>Как говорит <Node id="1374"/>Ким<Node id="1377"/>, по высококонтрастным изображениям образцов, полученных учеными можно установить на ранних стадиях ишемию мозга и другие заболевания сердечно-сосудистой системы на ранних стадиях in vitro<Node id="1565"/>. При этом стоимость диагностики сравнительно невелика.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1033" EndNode="1044">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="1362" EndNode="1565">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="885" EndNode="888">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="863" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1362" EndNode="1565">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1374" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

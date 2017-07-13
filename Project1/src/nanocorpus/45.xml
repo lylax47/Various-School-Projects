@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Физики из США сконструировали сверхточные весы – они могут взвесить отдельный атом золота. Это стало возможным благодаря последним достижениям в области нанотехнологий – наномеханическим осцилляторам.
+
+Устройство работает по принципу обычных весов, в роли «коромысла» которых выступает многослойная <Node id="300"/>углеродная <Node id="311"/>нанотрубка<Node id="321"/>, закрепленная с одной стороны.
+
+Работают весы по принципу осциллятора – изменение массы системы при попадании на <Node id="435"/>нанотрубку<Node id="445"/>-кантилевер весов отдельных атомов приводит к изменению резонансной частоты колебаний.
+
+Сконструировали осциллятор ученые из Университета Калифорнии в Беркли (University of California at Berkeley) под руководством известного нанотехнолога Алекса Зеттла (Alex Zettl).
+
+Сам Зеттл называет устройство не весами, а иначе – наномеханическим масс-спектрометром.
+
+Кантилевер-<Node id="813"/>нанотрубка<Node id="823"/> длиной 200 нанометров и диаметром всего 2 нм присоединен к отрицательно заряженному электроду. Второй конец <Node id="932"/>нанотрубки<Node id="942"/> может свободно вибрировать с различной резонансной частотой, в зависимости от веса помещенного на него «груза».
+
+Положительно заряженный электрод расположен недалеко от свободного конца кантилевера. Между ним и <Node id="1154"/>нанотрубкой<Node id="1165"/> протекает ток, по которому можно установить изменения частоты колебаний <Node id="1238"/>нанотрубки<Node id="1248"/>.
+
+Благодаря высокой точности прибора ученые смогли установить массу атома золота – оан составила 0.29 +- 0.05 зептограмм (один зептограмм – 10^^-24^^ кг). Это значение точнее, полученного с помощью традиционного масс-спектрометра – 0.327 зг.
+
+Как оказалось, точность прибора – 0,13 зг, это лучший показатель для всех сделанных ранее наномеханических взвешивающих устройств.
+
+Теперь Алекс и <Node id="1639"/>его<Node id="1642"/> коллеги думают о интегрировании масс-спектрометра в состав микроэлектронного чипа.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1154" EndNode="1165">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1238" EndNode="1248">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="311" EndNode="321">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1639" EndNode="1642">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="813" EndNode="823">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="435" EndNode="445">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="300" EndNode="321">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="932" EndNode="942">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>2 июня 2008 года<Node id="16"/> состоялось первое собрание редакционного клуба ГК «Роснанотех»В стенах клуба «Огурец», в подчеркнуто неформальной обстановке, собрались вместе топ-менеджеры компании, редакторы и обозреватели ведущих деловых и общественно-политических изданий, чтобы обсудить подробности первого инвестиционного проекта, одобренного наблюдательным советом корпорации.
+Участники редакционного клуба
+Присутствовавшие на встрече генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="477"/>,<Node id="478"/> управляющий директор <Node id="500"/>Дионис Гордин<Node id="513"/> и руководитель управления планирования и контроллинга инвестиций Алексей Тягун рассказали журналистам об основных принципах деятельности корпорации и о процессе рассмотрения проектов от момента подачи заявки до заседания наблюдательного совета.
+
+Профессор Вадим Раховский, автор первого инвестиционного проекта, одобренного к финансированию наблюдательным советом корпорации, рассказал об истории создания силового нанопозиционера, ставшего основой проекта по производству асферических оптических элементов, а также об истории воплощения научной разработки в инвестиционный проект.
+ Наибольший интерес у приглашенных на встречу журналистов вызвали такие подробности проекта, как объем инвестиций, планируемая норма прибыли и срок возврата вложенных средств. Все собравшиеся выразили надежду, что первый проект будет успешным и проложит дорогу на рынок другим, не менее интересным и востребованным разработкам. <Node id="1424"/>http://www.rusnano.com/…06_03_2.htmlПервый<Node id="1466"/> инвестиционный проект ГК <Node id="1492"/>«Роснанотех»http://www.nanonewsnet.ru/…-rosnanotekhЯ<Node id="1544"/> не совсем понимаю, чего ради столь бурно радоваться и шумно отмечать «бОнкетом» принятие «первого инвестиционного проекта, одобренного наблюдательным советом корпорации». Может быть, я чего-то «не догоняю», но, по-моему, гораздо логичней было бы радоваться по поводу успешного «завершения» первого проекта. Не так ли?.. Или их уже было бы 100 или по крайней мере 10. «Наибольший интерес у приглашенных на встречу журналистов вызвали такие подробности проекта, как объем инвестиций, планируемая норма прибыли и срок возврата вложенных средств». А не проще ли было просто дать интервью и ответить на все вопросы, возникшие по ходу дела?.. Тем более что сообщение об этом уже широковещательно освещалось в наших СМИ <Node id="2258"/>(http://www.nanonewsnet.ru/…-rosnanotekh)…<Node id="2300"/> Или это были «смотрины» новых сотрудников Корпорации: управляющего директора <Node id="2378"/>Диониса Гордина<Node id="2393"/> и руководителя управления планирования и контроллинга инвестиций Алексея Тягуна?</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2378" EndNode="2393">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">управляющий директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гордин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="0" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="477" EndNode="478">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1492" EndNode="1544">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="477" EndNode="478">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="500" EndNode="513">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">управляющий директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гордин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2258" EndNode="2300">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1424" EndNode="1466">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

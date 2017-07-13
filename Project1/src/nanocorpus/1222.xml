@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ford снизит вес автомобиля за счет нанотехнологийFord надеется использовать <Node id="76"/>наночастицы<Node id="87"/> во множестве ключевых областей разработки транспортных средств — от облегченных пластиков для снижения веса до улучшенной краски, более устойчивой и долговечной.
+ «<Node id="252"/>Отрасль становится более эффективной в создании <Node id="300"/>наночастиц<Node id="310"/>, — сказал Мэттью Залузек<Node id="335"/> (Matthew Zaluzec), руководитель отдела исследования и передовых прикладных материалов по науке и нанотехнологиям. — Наша задача заключается в том, чтобы взять эти <Node id="499"/>наночастицы<Node id="510"/>, разделить их и внедрить в существующие материалы, сделав наши машины легкими, более прочными и более эффективно расходующими топливо».
+ Применение нанотехнологий позволит Ford производить прочные и легкие пластики для использования их в интерьере и деталях двигателя, а также для наружных панелей автомобиля. Нанотехнологии также будут использоваться для создания более легких литых алюминиевых структур для блоков двигателя.
+ «Многие наши технологии алюминиевого двигателя были продуманы и полностью оптимизированы, — продолжал <Node id="1041"/>Залузек<Node id="1048"/>. — Но пока мы рассматривали различные аспекты материалов и технологических процессов, нашлись другие <Node id="1150"/>10%<Node id="1153"/> структурных показателей наших двигателей, влияние на которые приведет к снижению веса и экономии топлива. Это все работа <Node id="1275"/>наночастиц<Node id="1285"/>».
+ 
+Усилия Ford в нанотехнологиях направлены на снижение веса транспортного средства на 120–340 кг (в зависимости от модели) <Node id="1411"/>в течение 12 лет<Node id="1427"/>. Однако снижение веса не отразится на пассивной безопасности автомобиля, добавляют в Ford. Исследования компании Ford в области нанотехнологий в <Node id="1573"/>настоящее время<Node id="1588"/> активно развиваются в <Node id="1611"/>сотрудничестве<Node id="1625"/> с Северо-Западным университетом (Northwestern University) и компанией Boeing.
+ 
+«<Node id="1707"/>Так как нанотехнологии могут влиять на такой широкий спектр компонентов транспортного средства и многих других его параметров, можно создать универсальный набор для инструментов для того, чтобы оправдать ожидания клиента по комфорту, характеристикам, удобству и качеству», — заявила Эрика Перри Мюррей<Node id="2008"/> (Erica Perry Murray), руководитель альянса Ford-Boeing-Northwestern еще в <Node id="2083"/>феврале<Node id="2090"/>.
+ Промышленные аналитики предсказывают, что к <Node id="2137"/>2015 году<Node id="2146"/> нанотехнологии будут использоваться в <Node id="2185"/>70%<Node id="2188"/> деталей автомобиля и будут приносить <Node id="2226"/>$7 млрд<Node id="2233"/> ежегодного дохода. Использование Ford нанотехнологий приводит к экономии топлива, что весьма кстати, поскольку компания планирует использовать турбомоторы. EcoBoost-двигатели позволят повысить экономичность многих автомобилей.
+Андрей <Node id="2468"/>Горьевhttp://www.3dnews.ru/…ogii-559794/Они<Node id="2511"/> там у себя, в компании Ford, как будто подслушали наши планы по широкому использованию нанотехнологий для оптимизации наших двигателей, машин и красок. И решили не отставать. Автомобили – наиболее массовый вид продукции в США, и уж если они решили внедрять нанотехнологии в этой отрасли для улучшения характеристик своей продукции, то это – серьёзно… Теперь надо и нам поднапрячься и тоже рвануть вперёд в этой области, чтобы не посрамить марку наших прекрасных автомобилей… ;-))) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1707" EndNode="2008">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="76" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Партнеры_Клиенты" StartNode="1611" EndNode="1625">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1411" EndNode="1427">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1573" EndNode="1588">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="300" EndNode="310">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="252" EndNode="335">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1041" EndNode="1048">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Залузек</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="2137" EndNode="2146">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2137" EndNode="2146">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="2185" EndNode="2188">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="1707" EndNode="2008">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="499" EndNode="510">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="1150" EndNode="1153">
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="2226" EndNode="2233">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="высказывания_заявления" StartNode="252" EndNode="335">
+</Annotation>
+<Annotation Id="26" Type="Наночастица" StartNode="1275" EndNode="1285">
+</Annotation>
+<Annotation Id="29" Type="Url" StartNode="2468" EndNode="2511">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Дата" StartNode="2083" EndNode="2090">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">феврале</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Партнеры_Клиенты" StartNode="1611" EndNode="1625">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

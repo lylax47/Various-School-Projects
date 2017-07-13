@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Российский производитель Nitol Solar к <Node id="40"/>середине 2009 г.<Node id="56"/> планирует достичь объема ежегодного выпуска поликремния – 3700 тонн, что составит <Node id="139"/>9%<Node id="141"/> от сегодняшнего общемирового выпуска.
+
+Для расширения выпуска компания строит новый завод в Усолье-Сибирское (Иркутская область) и приобретает для него современное перспективное оборудование, получив инвестиции (<Node id="354"/>50 млн. долл.<Node id="367"/>) от International Finance Corp. (член World Bank Group). International Finance Corp. становится глобальным игроком на рынке возобновляемой энергетики, делая ставку на компании среднего уровня.
+
+Поликремний – ключевой материал в производстве солнечных элементов. В связи с резким ростом спроса на солнечные элементы мировые производители испытывают его дефицит. В практике стали долгосрочные контракты на поставки поликремния часто с оговоренной постоянной стоимостью на срок контракта.
+
+В <Node id="857"/>начале 2008 г.<Node id="871"/> значительный пакет акций Nitol Solar приобрела китайская компания Suntech Power Holdings, дополнительно инвестировавшая в Nitol <Node id="1000"/>100 млн. долл.<Node id="1014"/> Nitol обязалась поставлять Suntech ежемесячно значительные объемы полиSi в течение <Node id="1098"/>2009–2015 г.<Node id="1110"/>г.
+С.<Node id="1115"/>Т.К.См<Node id="1121"/>. также: Солнечная энергетика расшевелила и российский бизнес</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1000" EndNode="1014">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="354" EndNode="367">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="139" EndNode="141">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="40" EndNode="56">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1115" EndNode="1121">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1098" EndNode="1110">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="857" EndNode="871">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

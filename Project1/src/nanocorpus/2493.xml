@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Представьте себе, что вы стали обладателем настоящего костюма Человека-Паука. Перчатки и ботинки позволяют вам взбираться на стены и лазить по потолку, а липкая шёлковая нить – перемещаться между зданиями. Мечта может стать ближе к осуществлению благодаря идее Nicola Pugno из Политехнического университета Турина (Polytechnic University of Turin) в Италии, который предложил принципиальную схему «липких» материалов и «паучьего шелка» на основе <Node id="447"/>углеродных <Node id="458"/>нанотрубок<Node id="468"/>. 
+ 
+Попытки разработать материал, прилипающий к любой поверхности, были направлены на имитацию поверхности пальцев геккона. Эта рептилия может висеть вниз головой на потолке, прицепившись к нему всего лишь одним пальцем ноги! Это происходит из-за того, что его пальцы покрыты миллионами микроскопических щёточек, каждая из которых состоит из крошечных эластичных волосков. Каждый волосок притягивается к поверхности за счёт межмолекулярных сил, эти силы и позволяют геккону свободно удерживаться и перемещаться по гладким вертикальным поверхностям. Прочность сцепления пальцев геккона с поверхностью составляет около 10 Н/см2. 
+ 
+Исследователи уже создали <Node id="1125"/>наноструктуру<Node id="1138"/> из <Node id="1142"/>углеродных <Node id="1153"/>нанотрубок<Node id="1163"/>, имитирующую описанные волоски, и обладающую схожими свойствами (сила сцепления до 11.7 Н/см2). Однако, эту структуру не получается увеличить до размера, пригодного для жизни «супергероя». При увеличении площади контакта необходимо увеличивать и длину <Node id="1416"/>нанотрубок<Node id="1426"/>, для поддержания эффективного взаимодействия с поверхностью. Однако, если просто сделать более длинные <Node id="1530"/>нанотрубки<Node id="1540"/>, то они начинают прилипать друг к другу, а не к поверхности. Для того, чтобы человеку весом 70 кг висеть на потолке на одной ноге (площадь контакта около 200 см2), подобно тому как это делает геккон, сила сцепления должна быть всего 4 Н/см2. В то время как теоретически сила сцепления ограничивается значением 500 Н/см2! 
+ 
+В статье, которая будет опубликована в Journal of Physics: Condensed Matter, Pugno показывает, что секрет разработки эффективных «липких» материалов заключается в создании «иерархической структуры». Т.е. длинные «толстые» <Node id="2087"/>нанотрубки<Node id="2097"/> должны завершаться разветвлением на короткие «тонкие» <Node id="2152"/>нанотрубки<Node id="2162"/>. Это, с одной стороны, обеспечит хороший контакт с поверхностью, а с другой стороны, предотвратит слипание <Node id="2270"/>нанотрубок<Node id="2280"/> между собой. Исследователи из Ренсселеровского политехнического института (Rensselaer Polytechnic Institute) в Трое, Нью-Йорк, уже создали подобную структуру из <Node id="2442"/>углеродных <Node id="2453"/>нанотрубок<Node id="2463"/>. 
+ 
+Кроме «липкого» материала «супергерою» понадобятся и лёгкие прочные канаты – «паучий шёлк». Исследователи из Университета Техаса уже научились делать волокно из <Node id="2629"/>углеродных <Node id="2640"/>нанотрубок<Node id="2650"/>. Пока такое волокно имеет длину в 1 метр, но скоро станет возможным снять это ограничение. 
+ 
+Каждая <Node id="2752"/>нанотрубка<Node id="2762"/> невидима, поскольку она гораздо меньше, чем длина волны света. Pugno считает, что пропустив <Node id="2855"/>нанотрубки<Node id="2865"/> через отверстия специальной пластины, позволяющей отделить волокна друг от друга, можно добиться невидимости всего каната. В конце каждого волокна, проходящего через пластинку, может быть создана разветвлённая структура волосков, позволяющая прикрепляться к поверхности. Тогда останется только создать специальное устройство для «стрельбы» таким канатом. 
+ 
+Stefano Mezzasalma из Университета Триеста (University of Triest) в Италии считает, что описанный подход даст результат: "Первый прототип костюма Человека-Паука, возможно, будет готов <Node id="3408"/>в течение десятилетия<Node id="3429"/> или около того".  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="2270" EndNode="2280">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="1125" EndNode="1138">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="2453" EndNode="2463">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="2629" EndNode="2650">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1153" EndNode="1163">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="2152" EndNode="2162">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="2752" EndNode="2762">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="2640" EndNode="2650">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="1416" EndNode="1426">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="2442" EndNode="2463">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="3408" EndNode="3429">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Углеродная+нанотрубка" StartNode="1142" EndNode="1163">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="2855" EndNode="2865">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="2087" EndNode="2097">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="1530" EndNode="1540">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="458" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Углеродная+нанотрубка" StartNode="447" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

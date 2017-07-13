@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Изображение получено методом <Node id="31"/>растровой электронной микроскопии<Node id="64"/> (микроскоп LEO-1420VP). На фотографии показанаструктура поверхности пирротина после обработки мощными наносекундными электромагнитными импульсами. В области малой интенсивности импульсного воздействия (103 имп) поверхность пирротина окисляется, и формируются новообразования (типа оксидов железа) со сложной морфологией. Это подтверждается спектрами, полученными методом рентгеновского микроанализа (энергодисперсионный анализатор OxfordINCAEnergyEDX-detector). Таким образом, показано, что мощные наносекундные электромагнитные импульсы изменяют структурное состояние, химический и фазовый состав поверхности пирротина.     
+ 
+      
+ 
+  
+ 
+                             
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Растровая+электронная+микроскопия" StartNode="31" EndNode="64">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>27 июня<Node id="8"/> в 13-00 в Зале Заседаний <Node id="34"/>Ученого Совета МГУ<Node id="52"/> (9 этаж Дома Культуры МГУ) состоится официальная церемония закрытия Первой Всероссийской Интернет-Олимпиады "Нанотехнологии- прорыв в будущее!", организованной Московским Государственным Университетом.   
+В повестке <Node id="269"/>дня<Node id="272"/>:   1. Вступительное слово Председатель Олимпиады, Ректор МГУ, академик <Node id="344"/>В.А.Садовничий<Node id="358"/>   2. Интернет-олимпиада и инновационное образование Сопредседатель, Проректор МГУ, профессор А.М.Салецкий   3. Итоги проведения Интернет-олимпиады Сопредседатель, академик Ю.Д.Третьяков, чл.-корр. РАН Е.А.Гудилин   4. Награждение победителей Председатель Олимпиады, Ректор МГУ, академик <Node id="646"/>В.А.Садовничий<Node id="660"/>   5. Награждение призеров Представители инновационных компаний и средств массовой информации, чл.-корр. РАН Е.А.Гудилин  6. Выступления   Продолжительность церемонии – один – <Node id="836"/>полтора часа<Node id="848"/>. 
+ 
+ Проезд: метро "Университет", далее 2 (3) остановки на любом виде транспорта до остановки "ДК МГУ". Просьба всем, кто будет нуждаться в пропуске на вход в Главное Здание, сообщить об этом по телефону 939-47-29 (с указанием Ваших контактных координат) строго в период <Node id="1120"/>27 июня<Node id="1127"/> с 10 <Node id="1133"/>до 12 часов дня<Node id="1148"/>. В другое время просьбы не принимаются и не рассматриваются. Пропуска победителям, призерам, приглашенным гостям и СМИ будут оформлены отдельно, в индивидуальном порядке. 
+ 
+ 
+Список победителей будет официально объявлен <Node id="1370"/>25 июня<Node id="1377"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1370" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1133" EndNode="1148">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="836" EndNode="848">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="646" EndNode="660">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="269" EndNode="272">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="344" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="34" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого Совета МГУ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="1120" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

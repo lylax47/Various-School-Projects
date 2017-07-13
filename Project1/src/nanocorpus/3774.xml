@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Пучкам <Node id="7"/>нанотрубок<Node id="17"/> нужно похудеть
+Исследователи из Rensselaer Polytechnic Institute (США) разработали метод компактизации пучков <Node id="128"/>нанотрубок<Node id="138"/>. Такие плотные пучки отлично проводят электрический ток и однажды могут заменить медные контакты в компьютерных чипах.
+
+Теоретические расчеты показали, что проводимость плотноупакованных <Node id="326"/>углеродных <Node id="337"/>нанотрубок<Node id="347"/> может превосходить проводимость меди. Но обычные методы синтеза <Node id="412"/>нанотрубок<Node id="422"/> позволяют получать лишь реденькие «заросли».
+James Jiam-Qiang Lu и Zhengchun Liu решили заняться поиском способов денсификации (увеличения плотности) уже выращенных пучков <Node id="595"/>нанотрубок<Node id="605"/>.
+
+Команда ученых выяснила, что погружение вертикально выращенных пучков <Node id="678"/>нанотрубок<Node id="688"/> в органические растворители (например, изопропиловый спирт) и последующая сушка позволяют значительно увеличить плотность пучков.
+Такое явление объясняется так называемой капиллярной коалесцецией. Когда растворитель испаряется, капиллярные силы заставляют <Node id="945"/>нанотрубки<Node id="955"/> сближаться и связываться при помощи Ван-дер-ваальсовых взаимодействий.
+
+Плотность пучков <Node id="1045"/>нанотрубок<Node id="1055"/> увеличивается в 25 раз. На плотность и конечную форму пучка оказывают сильное влияние такие факторы, как высота, диаметр трубок и начальное расстояние между ними.
+Пучки <Node id="1225"/>углеродных <Node id="1236"/>нанотрубок<Node id="1246"/> до и после уплотнения
+Такое значительное увеличение плотности не является пределом. Более того, для практического использования пучков в качестве замены меди, необходимо дальнейшее уплотнение.
+
+По словам ученых, уплотненные пучки <Node id="1477"/>нанотрубок<Node id="1487"/> могут стать основой трехмерных компьютерных чипов с новой архитектурой, в которой компоненты чипа размещаются в вертикальных стеках.
+
+Также успешно может использоваться большая площадь поверхности пучков <Node id="1692"/>нанотрубок<Node id="1702"/>. Это особенно важно при разработке электродов для суперконденсаторов и водородных топливных элементов, а также в любых ситуациях, где требуется высокая электро- и теплопроводность и хорошие механические характеристики.
+<Node id="1922"/>http://www.nanometer.ru/…be_2770.htmlИзобретательные<Node id="1974"/> ребята, эти китайцы… Я думаю, что и наши «Левши», поставь перед ними подобную задачу, не посрамили бы Отечество… Скорей бы уж зарабОтала вся эта наша «Н/Т фабрика»… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="412" EndNode="422">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="326" EndNode="347">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="945" EndNode="955">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1922" EndNode="1974">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="128" EndNode="138">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1236" EndNode="1246">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1225" EndNode="1246">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1045" EndNode="1055">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="7" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="595" EndNode="605">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1477" EndNode="1487">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="678" EndNode="688">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1692" EndNode="1702">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="337" EndNode="347">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

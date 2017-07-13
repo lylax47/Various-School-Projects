@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Центр «Атом-инновации» продолжает прием материалов для сборника статей III-го Инновационного Форума РосатомаСборник будет включать в себя работы отраслевых и внеотраслевых специалистов по основным тематикам мероприятия: Промышленная диагностика Лазерные, плазменные и ускорительные технологии Сверхпроводники Водоочистка и водоподготовка Нанотехнологии и материалы с заданными свойствами Очистка сред и экология Инновационные решения для АЭС Энергетика и энергосбережение Технологии обеспечения безопасности. 
+Статьи, представленные на русском языке, будут изданы в русскоязычном сборнике и включены в электронный сборник статей на CD-ROM, в который также войдут англоязычные статьи. Сборник также будет размещен на Интернет-сайте Центра «Атом-инновации» – <Node id="757"/>www.runtech.ru.<Node id="772"/>
+Требования для оформления статей в сборник вы можете узнать на официальном сайте Форума по адресу: <Node id="872"/>http://www.runtech.ru/node/1190<Node id="903"/>
+Всю корреспонденцию необходимо отправлять с пометкой «Отраслевой Инновационный Форум» по адресу – inforum@runtech.ruПрием статей для сборника завершается <Node id="1058"/>20 апреля 2008 года<Node id="1077"/>.
+
+Для авторов, работающих в подведомственных <Node id="1123"/>Росатому<Node id="1131"/> организациях, обязательно предоставление разрешения на информационный обмен в срок до <Node id="1218"/>20 апреля 2008 года<Node id="1237"/>.
+
+Участие в сборнике статей в рамках III-го отраслевого Инновационного Форума – бесплатное.
+<Node id="1330"/>http://www.rosatom.ru<Node id="1351"/>/…_<Node id="1354"/>27.03.2008<Node id="1364"/>/Ну, тут тоже комментарии излишни… Если есть о чём рассказать, написать, доложить, то – дерзайте! Тематика и адреса указаны, сроки – определены… Желаем удачи!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1330" EndNode="1351">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1123" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатому</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1058" EndNode="1077">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1218" EndNode="1237">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1354" EndNode="1364">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="872" EndNode="903">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="757" EndNode="772">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

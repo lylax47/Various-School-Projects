@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В <Node id="3"/>2000 году<Node id="12"/> ученые из Технологического Института штата Джорджия (Georgia Institute of Technology) показали, что теорию гидродинамики можно дополнить таким образом, чтобы она работала на наноуровне в вакууме. И теперь, <Node id="219"/>спустя семь лет<Node id="234"/>, было доказано, что существует возможность ее применения в реальной среде и вне вакуума. Результаты были опубликованы <Node id="353"/>9 февраля<Node id="362"/> в журнале Physical Review Letters (PRL). В основе принципа работы современной техники лежит понимание законов движения жидкостей и газов. Самолеты способны летать, а корабли ходить под парусом, потому что понятны законы, которым подчиняются вода и воздух. Математический принцип, с помощью которого описываются эти правила, изложен <Node id="695"/>более 100 лет назад<Node id="714"/> и известен как уравнения Навье-Стокса. Ими пользуются все специалисты данной области. Но теперь, когда ученые углубились в сферу малоразмерных систем, возник важный вопрос: как эти уравнения работают на наноразмерном уровне? Считать ли их справедливыми или же необходима их модификация? Хорошо известно, что в отличие от крупных систем, малые системы более подвержены влиянию флуктуаций и шумов. В связи с этим, <Node id="1127"/>Узи Лэндман<Node id="1138"/> (Uzi Landman), физик из Технологического Института штата Джорджия, показал, что включение в уравнения Навье-Стокса стохастических элементов позволит точно описывать поведение жидкостей на субмикронном уровне. В журнале Science от <Node id="1369"/>19 августа 2000 года<Node id="1389"/> описывается, как <Node id="1407"/>Лэндман<Node id="1414"/> и Майкл Моселер (Michael Moseler), недавно защитивший докторскую диссертацию, используют компьютерное моделирование, чтобы показать справедливость стохастической формулировки уравнений Навье-Стокса для наноразмерных жидкостных токов (nanojets) и наномостов (nanobridges) в вакууме. Ранее теоретические положения этой работы были экспериментально подтверждены группой европейских ученых (см. издание журнала Physical Review Letters от <Node id="1849"/>13 декабря 2006 года<Node id="1869"/>). Теперь же <Node id="1882"/>Лэндман<Node id="1889"/> и аспирант Вэй Кэнг (Wei Kang) установили, что дальнейшая модификация стохастических уравнений Навье-Стокса позволит точно описать поведение жидкостей на субмикронном уровне в реальной среде и вне вакуума. "Раньше существовала уверенность в том, что гидродинамика не будет справедливой для малых систем, однако это не совсем так," – отметили <Node id="2232"/>Лэндман<Node id="2239"/>, директор Центра <Node id="2257"/>Вычислительных Методов<Node id="2279"/> Материаловедения (the Center for Computational Materials Science), член правления и преподаватель института, и Каллауэй (Callaway), заведующий кафедрой физики Технологического Института штата Джорджия. Польза новых формулировок заключается в том, что эти уравнения могут быть решены относительно легко в считанные <Node id="2594"/>минуты<Node id="2600"/>, по сравнению с целыми <Node id="2624"/>неделями<Node id="2632"/>, которые уходят на моделирование текучих <Node id="2674"/>наноструктур<Node id="2686"/>, содержащих несколько миллионов молекул. В этом исследовании <Node id="2748"/>Лэндман<Node id="2755"/> и Вэй моделируют наномост из жидкого пропана, который представляет собой тонкую текучую структуру, соединяющую две крупные группы молекул жидкости, подобно каналу между двумя дождевыми лужами. Размеры моста: 6 нанометров в диаметре и 24 нанометра в длину. Задача заключалась в том, чтобы исследовать процесс разрушения моста. В исследованиях, проведенных в <Node id="3113"/>2000 году<Node id="3122"/>, <Node id="3124"/>Лэндман<Node id="3131"/> моделировал мост в вакууме, который разломился симметрично, прямо посередине, образовав два конуса с каждой стороны. На этот раз основное внимание уделялось созданию модели, представляющей собой мост, помещенный в атмосферу газообразного азота и испытанный при различном давлении. Когда давление газа было низким (менее 2 атмосфер для азота), разрыв происходил таким же способом, что и предсказывал предыдущий эксперимент компьютерного моделирования. Однако при достаточно высоком (выше 3,5 атмосфер) в течение <Node id="3643"/>50%<Node id="3646"/> всего времени разрушение моста шло другим способом. Под высоким давлением, мост, как правило, разрывался не в средней своей части, а асимметрично, начиная с какого-либо края. До настоящего времени данная асимметрия отмечалась только у макроскопических токов жидкости. Анализ данных показал, что асимметричность распада жидкостного наномоста в газообразной среде относится к процессам молекулярного испарения и конденсации и зависимости этих процессов от формы профиля наномоста. "<Node id="4127"/>Если мост находится в вакууме, молекулы, испаряющиеся с него, уносятся прочь и не могут вернуться, - отметил <Node id="4236"/>Лэндман<Node id="4243"/>. – Однако если мост окружен газом, часть испарившихся молекул из-за столкновений с рассеянными молекулами газа может изменить направление движения и вернуться к наномосту, конденсируясь на нем.<Node id="4437"/>" Вернувшиеся молекулы могут заполнить пустые места, не занятые другими атомами. Иными словами, процессы испарения - конденсации влияют на перераспределение жидкого пропана вдоль наномоста, выражающееся в асимметричности формы. Чем выше давление, действующее на мост, тем выше вероятность того, что атомы будут испытывать столкновения с молекулами газа и конденсироваться на наномосте. <Node id="4823"/>Лэндман<Node id="4830"/> и Вэй показали, что эти микроскопические процессы укладываются в рамки теории стохастической гидродинамики и описываются уравнениями Навье-Стокса. Недавно модифицированные уравнения в точности воспроизводят результаты динамических экспериментов. «<Node id="5078"/>Знание гидродинамической теории на наноуровне является фундаментально значимым, - заявил <Node id="5167"/>Лэндман<Node id="5174"/>. – В частности, мы ожидаем, что возможность правильно описывать поведение нанопотоков в реальной среде приведет к появлению в будущем совершенно новых типов приборов, использующих принципы данной теории<Node id="5377"/>». Это исследование было поддержано Национальным научным фондом (the National Science Foundation) и Управление научных исследований ВВС (the Air Force Office of Scientific Research). </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2748" EndNode="2755">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1882" EndNode="1889">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1407" EndNode="1414">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="3643" EndNode="3646">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1849" EndNode="1869">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2232" EndNode="2239">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="3124" EndNode="3131">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="4127" EndNode="4437">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2594" EndNode="2600">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="4127" EndNode="4437">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="5167" EndNode="5174">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="5078" EndNode="5377">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="3113" EndNode="3122">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1369" EndNode="1389">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="5078" EndNode="5377">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1127" EndNode="1138">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="2624" EndNode="2632">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наноструктура" StartNode="2674" EndNode="2686">
+</Annotation>
+<Annotation Id="26" Type="Год" StartNode="3113" EndNode="3122">
+</Annotation>
+<Annotation Id="29" Type="Дата" StartNode="353" EndNode="362">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="4823" EndNode="4830">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="2257" EndNode="2279">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Методов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Период_времени" StartNode="3" EndNode="12">
+</Annotation>
+<Annotation Id="35" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Период_времени" StartNode="695" EndNode="714">
+</Annotation>
+<Annotation Id="33" Type="Год" StartNode="3" EndNode="12">
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="Период_времени" StartNode="219" EndNode="234">
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="4236" EndNode="4243">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лэндман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

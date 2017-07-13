@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>25 декабря 2007 года<Node id="22"/> состоялось заседание наблюдательного Совета ГК «Роснанотех», на котором было утверждено «Положение о научно-техническом совете ГК «Роснанотех», консультативном органе Корпорации. 
+ 
+Положение, в частности, определяет порядок выдвижения кандидатур в научно-технический совет Корпорации, порядок досрочного прекращения деятельности членов совета, полномочия председателя и секретаря научно-технического совета, регулирует порядок подготовки, проведения и оформления заседаний. Количественный состав и срок полномочий членов научно-технического совета определяет Федеральный закон Российской Федерации от <Node id="625"/>19 июля 2007 г.<Node id="640"/> № 139-ФЗ «О Российской корпорации нанотехнологий».
+ 
+<Node id="694"/>Наблюдательный совет<Node id="714"/> ГК «Роснанотех» утвердил процедуру избрания членов научно-технического совета. 
+ 
+<Node id="797"/>Наблюдательный совет<Node id="817"/> ГК «Роснанотех» также одобрил концепцию организации и проведения экспертизы проектов, выполняемых ГК «Роснанотех». Основными принципами, заложенными в систему экспертизы проектов, являются прозрачность, объективность, компетентность, независимость. 
+ 
+Важнейшими критериями оценки востребованности проектов, станет инновационность, уникальность, высокая научная, технологическая, социальная или макроэкономическая значимость, реализуемость и соответствие ожидаемых результатов мировому уровню.
+ 
+На основе концепции экспертизы <Node id="1345"/>Наблюдательный совет<Node id="1365"/> поручил генеральному директору ГК «Роснанотех» Л.Меламеду разработать и утвердить «Положение об организации и проведении экспертизы проектов ГК «Роснанотех». 
+ 
+На заседании <Node id="1540"/>Наблюдательного совета<Node id="1562"/> ГК «Роснанотех» также был утвержден план его работы на <Node id="1618"/>2008 год<Node id="1626"/>.
+ P.S. Напомним, что Корпорация по-прежнему собирает анкеты партнеров...   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1345" EndNode="1365">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="694" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1540" EndNode="1562">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="625" EndNode="640">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1618" EndNode="1626">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="2" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="797" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1618" EndNode="1626">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

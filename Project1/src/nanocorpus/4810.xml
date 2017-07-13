@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ДНК является одним из очень популярных строительных блоков для нанотехнологии и часто используется для конструирования упорядоченных <Node id="133"/>наноразмерных структур<Node id="155"/> с контролируемой архитектурой.Adam T. WoolleyКоманда исследователей из Университета Янга предлагают объединение способностей ДНК к самоорганизации со стандартными способами микротехнологии и <Node id="347"/>литографии<Node id="357"/> для образования таких структур как наноканалы, нанопровода и нанобороздки. Новая разработка может открыть дорогу для нанотехнологии на уровнях, слишком тонких для обычной оптической <Node id="540"/>литографии<Node id="550"/>.
+Адам Вулли (Adam Woolley) и Гектор Беккерил (Hector Becerril) разработали метод использования молекул ДНК в качестве шаблонов для задания нужной формы субстратов. По существу, молекула ДНК выступает в роли «нанотрафарета» для определения менеe, чем 10 нм форм субстрата. Сами исследователи назвали процесс «теневая ДНК <Node id="871"/>литография<Node id="881"/>» (DNA shadow nanolithography).
+
+Анизотропное гравирование шаблонов поверхностей с помощью реакционноспособной газовой плазмы, метод обычно используемый для производства полупроводниковых микро- и <Node id="1078"/>наноматериалов<Node id="1092"/>, оставляют в субстрате бороздки правильной формы. Эти бороздки могут быть превращены в закрытые наноканалы, или, за счет химической функционализации и последующего осаждения никеля, меди и серебра, служить шаблонами для получения металлических нанопроводов.
+Получаемые нанопровода и нанобороздки имеют поперечную размерность от 10 до 30 нм, их точный размер зависит может быть настроен углом осаждения и толщиной осаждаемой пленки.
+
+Исследователи уверены, что их метод со временем позволит получать <Node id="1592"/>наноматериалы<Node id="1605"/> любой предварительно заданной формы.
+<Node id="1643"/>http://www.chemport.ru/datenews.php?…DNA-Templated<Node id="1693"/> Three-Branched Nanostructures for Nanoelectronic <Node id="1743"/>Deviceshttp://pubs.acs.org/…043314l.htmlНет<Node id="1786"/> предела изобретательности и находчивости исследователей. Это как у альпинистов: перед глазами у них есть цель, и они намерены яростно штурмовать крутые склоны в попытке добраться до вершины…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1592" EndNode="1605">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="871" EndNode="881">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="1078" EndNode="1092">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1743" EndNode="1786">
+</Annotation>
+<Annotation Id="5" Type="Литография" StartNode="347" EndNode="357">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Литография" StartNode="540" EndNode="550">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="133" EndNode="155">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1643" EndNode="1693">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В соответствии с указами Президента Российской Федерации от <Node id="61"/>12.04.1993<Node id="71"/> № 443 “О неотложных мерах государственной поддержки студентов и аспирантов образовательных учреждений высшего профессионального образования” и от <Node id="218"/>27.08.2002<Node id="228"/> № 916 “О повышении размера стипендий Президента Российской Федерации студентам и аспирантам образовательных учреждений высшего профессионального образования” <Node id="387"/>Федеральное агентство по образованию<Node id="423"/> объявляет Всероссийский открытый конкурс на получение стипендий Президента Российской Федерации для обучения за рубежом студентов и аспирантов российских вузов в 2007/2008 учебном <Node id="604"/>году<Node id="608"/>.
+
+Подробности &gt;&gt;
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="61" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">04</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="604" EndNode="608">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="387" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по образованию</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="218" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">08</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

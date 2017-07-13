@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Первый международный Форум по нанотехнологиям завершился награждением победителей международного конкурса научных работ молодых ученых в области нанотехнологий
+В торжественной церемонии награждения победителей приняли участие заместитель председателя Правительства РФ Сергей Иванов<Node id="281"/>,<Node id="282"/> Министр образования и науки Андрей Фурсенко, генеральный директор РОСНАНО Анатолий Чубайс и лауреат Нобелевской премии, вице-президент РАН, академик <Node id="432"/>Жорес<Node id="437"/> <Node id="438"/>Алферов<Node id="445"/>.
+ На конкурс было представлено 328 научных работ российских и зарубежных участников по 17 направлениям развития нанотехнологий и наноиндустрии. Более половины работ представлено конкурсантами из российских регионов. В конкурсе также приняли участие 16 зарубежных участников из 8 стран мира. Исследования, представленные на конкурс, посвящены таким темам, как наноэлектроника, нанофотоника, нанодиагностика, функциональные и конструкционные <Node id="886"/>наноматериалы<Node id="899"/> для энергетики, электроники, магнитных систем и оптики, неорганические <Node id="971"/>наноматериалы<Node id="984"/> для электрохимических источников энергии, нанобиотехнологии и медицина.
+ Авторам лучших работ и их научным руководителям были вручены почетные дипломы Форума, а также денежные премии. Полный перечень победителей международного конкурса молодых ученых размещен на сайтах РОСНАНО и Международного форума по нанотехнологиям.  
+Генеральный директор РОСНАНО Анатолий Чубайс также объявил об учреждении Международной премии в области нанотехнологий и наноиндустрии, подведение итогов которой состоится на втором Международном Форуме по нанотехнологиям в Москве <Node id="1540"/>через год<Node id="1549"/>. Размер премии, присуждаемой одному лауреату, составит <Node id="1605"/>3 млн. рублей<Node id="1618"/>. А общий фонд не превысит <Node id="1645"/>500 тысяч долларов<Node id="1663"/> в рублевом эквиваленте.
+ 
+Премия будет присуждаться ученым и научным коллективам за выдающиеся научные исследования и прикладные научно-технические разработки в области нанотехнологий. Руководителю или полномочному представителю компании, осуществившей практическое внедрение данной разработки, будет вручаться почетный Диплом и наградной символ Премии.
+<Node id="2018"/>http://rusnano.com/…ication.aspx?…Награды<Node id="2059"/> и премии – это хорошо! Молодые исследователи и так полны энтузиазма и энергии. Публичное признание их заслуг послужит дополнительным стимулом в их работе и быстрее продвинет нас к построению отечественной нанонауки и наноиндустрии… Поздравляем всех победителей и желаем им новых побед и свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1645" EndNode="1663">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2018" EndNode="2059">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1540" EndNode="1549">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="886" EndNode="899">
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="281" EndNode="282">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="971" EndNode="984">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1605" EndNode="1618">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="438" EndNode="445">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="281" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="432" EndNode="437">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

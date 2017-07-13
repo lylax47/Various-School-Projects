@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство образовало отделение нано- и IT-технологий РАН
+МОСКВА, <Node id="69"/>21 янв<Node id="75"/> – Правительство РФ преобразовало отделение информационных технологий и вычислительных систем Российской академии наук (РАН) в отделение нанотехнологий и информационных технологий, сообщила в понедельник пресс-служба кабинета министров.
+
+Соответствующие изменения вносятся в устав РАН.
+<Node id="361"/>http://www.rian.ru/…7415770.htmlНано<Node id="397"/> — это не галошиРоссийская академия наук приступает к нанотехнологическому прорыву. Постановление о создании специализированного отделения в недрах РАН опубликовано сегодня на сайте правительства.
+
+Отделение создается не с нуля, а будет реорганизовано из существующего Отделения информационных технологий и вычислительных систем, объяснила пресс-секретарь РАН Ирина Преснякова, отделение может расшириться на 10 академиков и 20 членкоров.
+Возглавит его президент Курчатовского института Евгений Велихов<Node id="899"/>.<Node id="900"/>
+
+Раньше над нанотехнологиями в РАН тоже работали, но эти исследования были рассеяны по многим секциям, знает Преснякова, план работы отделения и экспертный состав будет утвержден к <Node id="1082"/>маю<Node id="1085"/>.
+
+На фундаментальные исследования по нанотехнологиям РАН получит в <Node id="1153"/>этом году<Node id="1162"/> <Node id="1163"/>около 1 млрд руб<Node id="1179"/>, Российская академия медицинских наук — более 2 млрд, рассказал чиновник Минобразования. Параллельно с образованием спецотделений в академиях создаются и спецфакультеты в институтах. Уже 36 вузов начали готовить нанотехнологов.
+ 
+Главное, что мы ждем от работы отделений в академиях — исследований, которые получили бы мировое признание, отметил источник: «Однако ставить условия по срокам мы не можем — это не галоши».
+ Надежда <Node id="1609"/>Иваницкаяhttp://www.vedomosti.ru/…/index.shtml?…<Node id="1657"/>Менее<Node id="1662"/> месяца тому назад<Node id="1680"/> мы уже писали об этом.
+
+Подробнее см. здесь:
+Отделение нанотехнологий будет создано в <Node id="1767"/>РАНhttp://www.nanonewsnet.ru/…ozdano-v-ranДовольно<Node id="1817"/> оперативно вопрос был решён и в правительстве…Ну вот, начальство одобрило… Теперь можно засучить рукава и начать работать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="899" EndNode="900">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="899" EndNode="900">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1767" EndNode="1817">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="69" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">янв</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1163" EndNode="1179">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1609" EndNode="1662">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="361" EndNode="397">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1082" EndNode="1085">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">маю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1657" EndNode="1680">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1153" EndNode="1162">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

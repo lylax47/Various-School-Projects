@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Канадские ученые сообщили о серьезном прогрессе в области новых типов оптики – «жидких зеркал» – зеркал, изготовленных с применением высокоотражающих жидкостей. Потенциальные преимущества таких зеркал по сравнению с традиционной оптикой очевидны – их форма при необходимости может быть изменена и, соответственно, изменены оптические характеристики системы, их включающей.
+
+Прогресс в области «жидких зеркал» может привести к новым улучшенным конструкциям оптических инструментов для диагностики глазных повреждений и болезней, более мощных телескопов, и другим важным приложениям.
+
+Исследования группы канадских ученых будут опубликованы в выпуске журнала Американского Химического Общества Chemistry of Materials <Node id="716"/>25 ноября<Node id="725"/> (Jean-Philippe Déry, Ermanno F. Borra, and Anna M. Ritcey. Ethylene Glycol Based Ferrofluid for the Fabrication of Magnetically Deformable Liquid Mirrors. Chem. Mater., 2008; 20 (20): 6420–6426 DOI: 10.1021/cm801075u)
+Авторы: <Node id="953"/>Анна Ритси<Node id="963"/> (Anna Ritcey), <Node id="979"/>Жан-Филипп<Node id="989"/> Дери (Jean-Philippe Dery) и Эрманно Борра (Ermanno Borra) отмечают, что так называемые «жидкие зеркала» не являются совершенно новым понятием. Ученые уже давно поняли, что жидкости с высоким коэффициентом отражения могут дать дешевые, легко используемые альтернативы твердотельным зеркалам во множестве оптических приложений. Важным дополнительным обстоятельством здесь является также и то, что такие зеркала потенциально могут вносить меньшую дисторсию изображений.
+
+Совсем недавно исследователи предложили конструкцию телескопа, в котором используются зеркала из ртути, как отражающего материала. Однако недостатками такого прибора являются то, что, во-первых, ртуть токсична и, во-вторых, форма поверхности не может быть изменена или отъюстирована.
+
+Канадские ученые описывают разработку нового типа деформируемого «жидкого зеркала», составленного из магнитных частиц железа, этиленгликоля (компонент антифриза, часто применяемого атомобилистами) и покрытия из серебряных <Node id="1965"/>наночастиц<Node id="1975"/>. Такие материалы формируют высокоотражающее зеркало, форма которого может быть подобрана путем изменения напряжения питания электромагнитов, расположенных под жидкостью. Пользователь, при этом, может юстировать оптические свойства системы.
+
+По словам авторов, в лабораторных исследованиях новый материал показал лучшие отражательные свойства и стабильность по сравнению с существующими жидкими материалами для зеркал.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="979" EndNode="989">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ж.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Жан-Филипп</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="953" EndNode="963">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анна</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1965" EndNode="1975">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="716" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Taiwan Semiconductor Manufacturing Co. (TSMC, Тайвань) подвела итоги продаж своих компьютерных чипов в <Node id="104"/>2007 г.<Node id="111"/>, демонстрируя начало роста продаж чипов, выполненных с использованием 65-нм технологии (<Node id="200"/>10%<Node id="203"/> от всего объема продаж, 17-ти кратное увеличение продаж в <Node id="262"/>4-ом квартале 2007 г.<Node id="283"/>)
+
+Таблица. Распределение объема продаж компьютерных чипов компании TSMC в зависимости от используемой технологии</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="262" EndNode="283">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="200" EndNode="203">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="104" EndNode="111">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

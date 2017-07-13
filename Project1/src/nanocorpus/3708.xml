@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Объявлен конкурс на лучший перевод статьи по наномедицине 2008 годаЦентр Наномедицины объявляет I Открытый Всероссийский Конкурс на лучший перевод научной статьи по наномедицине NANOМЕДИЦИНА 2008. Как отмечается в материалах Центра, в конкурсе могут принять участие все желающие со средним знанием английского языка и интересующиеся применением нанотехнологий в медицине.
+Эмблема ИАЦ «Наномедицина» ММА им. И.М. Сеченова <Node id="421"/>Федерального агентства по здравоохранению<Node id="462"/> и социальному развитиюВ <Node id="487"/>2008 году<Node id="496"/> представлены следующие номинации: НТ в создании материалов медицинского применения нанотехнологии в онкологии, нанотехнологии в диагностике и лечении сердечно-сосудистых заболеваний, нанотехнологии в неврологии, нанотехнологии в профилактике, диагностике и лечении инфекционных заболеваний, нанотехнологии в генной терапии, нанотехнологии в эндокринологии, нанотехнологии в офтальмологии, нанофармакология, нанодиагностика, нанотехнологии в хирургии, нанотехнологии в урологии, нанотехнологии в дерматологии, нанофармация. 
+По словам организаторов мероприятия, лучшие работы в каждой номинации будут опубликованы в ведущих профильных научных журналах и сборнике конкурса. Также победители получат приз в <Node id="1201"/>5000 рублей<Node id="1212"/>, диплом Центра наномедицины, а также возможность прослушать курс «Нанотехнологии в медицине» и поучаствовать в проводимых исследованиях. Остальные участники также получат возможность прослушать курс «Нанотехнологии в медицине».
+
+Более подробную информацию о мероприятии можно узнать в материалах на сайте Центра наномедицины — <Node id="1540"/>www.nano-medicine.ru.<Node id="1561"/>
+<Node id="1562"/>http://www.strf.ru/…ization.aspx?…<Node id="1596"/> Статьи размещены в соответствующих номинациям разделах в Библиотеке.  
+Переведенные тексты перевода в формате WORD, Times New Roman, 12 шрифт, шапка: Название статьи на английском языке. Краткая информация об авторе перевода – всё это присылается до <Node id="1847"/>25 июля<Node id="1854"/> на адрес: <Node id="1865"/>konkurs@nano-medicine.ru<Node id="1889"/> <Node id="1890"/>http://www.nano-medicine.ru/modules.php?…Хитрые<Node id="1937"/> ребята в этом Центре Наномедицины – хотят «одним ударом» заполучить в своё распоряжение и кучу переводчиков, и кучу переведённых статей…;-))) Ну, это неплохо. Тем более, что всё это пойдёт всем нам на пользу. Ну что ж, дерзайте! Вперёд! И ветер в паруса!!!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1540" EndNode="1561">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1201" EndNode="1212">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="487" EndNode="496">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="487" EndNode="496">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1562" EndNode="1596">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1865" EndNode="1889">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1847" EndNode="1854">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1890" EndNode="1937">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="421" EndNode="462">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федерального агентства по здравоохранению</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Первый шаг к настоящему nanopod’у сделан: команде ученых во главе с Алексом Зеттлом (Alex Zettl) из Национальной Лаборатории Лоуренса в Беркли (Lawrence Berkeley National Laboratory) создан радиоприемник, состоящий из одной-единственной <Node id="238"/>нанотрубки<Node id="248"/>!
+
+Про достижения Алекса Зеттла и <Node id="282"/>его<Node id="285"/> коллег мы не раз сообщали на нашем сайте – ранее ученым удалось создать полностью функционирующий мотор микронных размеров. И вот, теперь – новое достижение!
+
+В это трудно поверить, но миниатюрное устройство полностью повторяет функции своего «большого собрата», т.е. включает в себя антенну, полосовой фильтр, усилитель и демодулятор. При этом радио ловит как FM так и AM волны частотой от 40 до 400 МГц. Фактически это нормальные «рабочие» частоты радиотрансляций.
+
+В процессе испытаний устройства ученые «поймали» и прослушали музыку группы группы «Beach Boys», причем качество трансляции было достаточно хорошим.
+
+Правда, <Node id="912"/>на сегодняшний день<Node id="931"/> Алекс и <Node id="940"/>его<Node id="943"/> коллеги не могут с легкостью «перестраивать» радио для того, чтобы прослушать что-то на другой волне, однако Зеттл и <Node id="1061"/>его<Node id="1064"/> коллеги уверены, что благодаря своей простоте и функциональности, а, главное – малым размерам, нано-радио займет свою нишу среди коммерческих продуктов.
+
+Одно из видимых применений «радио» на основе <Node id="1264"/>нанотрубки<Node id="1274"/> – в современной медицине для мониторинга процессов, проходящих в кровеносной системе, и, в будущем – в медицинской наноробототехнике.
+
+«Полностью функциональное радио может работать внутри живой клетки», – говорит Зеттл. «Представьте себе процесс передачи сигнала и информации напрямую в клетки мозга или мышц, либо радиоуправляемое устройство, работающее в потоке крови внутри сердца или сосудов».
+
+По словам ученых не исключена возможность создания различных имплантов, позволяющих, к примеру, помочь людям со слуховыми проблемами.
+
+Также нано-радио будет исключительно полезным в различных системах беспроводных коммуникаций. Это включает в себя дальнейшее развитие беспроводных технологий связи, говорит Алекс.
+
+Нано-радио состоит из электрода, к которому прикреплена <Node id="2047"/>нанотрубка<Node id="2057"/>. На электрод от внешнего источника питания или от каскада солнечных батарей поступает постоянное напряжение, благодаря которому на конце <Node id="2195"/>нанотрубки<Node id="2205"/> создается отрицательный заряд. <Node id="2237"/>Нанотрубка<Node id="2247"/> вместе с электродом располагаются в колбе с вакуумом, поэтому антенна-<Node id="2318"/>нанотрубка<Node id="2328"/> легко осциллирует в присутствии электрических полей.
+
+Все наноустройство ученые исследовали с помощью трансмиссионного электронного микроскопа.
+
+Ученые сперва думали создать сверхчувствительный <Node id="2523"/>сенсор<Node id="2529"/>, так как <Node id="2539"/>нанотрубка<Node id="2549"/> реагирует даже на воздействие нескольких аттоньютонов, однако в процессе работы выяснилось, что резонансная частота вибраций <Node id="2675"/>нанотрубки<Node id="2685"/> изменяется, если вблизи работает мобильный телефон или GPS-навигатор!
+
+Так ученые узнали о том, что <Node id="2786"/>нанотрубку<Node id="2796"/> можно использовать в роли сверхчувствительной антенны. Но из-за существенных отличий в конструкции нано-радио принцип его работы не такой, как у «больших» аналогов.
+
+Радиоволны, принимаемые нано-антенной, заставляют ее вибрировать, но это происходит только тогда, когда частота радиоволны совпадает с резонансной частотой изгибания <Node id="3129"/>нанотрубки<Node id="3139"/>-антенны. Таким образом, <Node id="3164"/>нанотрубка<Node id="3174"/> выступает еще и в роли тюнера, принимая радиоволны строго определенного набора частот.
+
+Свойства усиления и демодуляции происходят от специфической геометрии <Node id="3333"/>нанотрубки<Node id="3343"/>. Тонкий, как игла, конец <Node id="3369"/>нанотрубки<Node id="3379"/> при подаче на электрод постоянного напряжения генерирует электрическое поле, вызывающее ток эмиссии, а он достаточно чувствителен к механическим вибрациям <Node id="3535"/>нанотрубки<Node id="3545"/>. Так как поле генерируется внешним источником энергии, то возможно с его помощью усиление радиосигнала.
+
+Демодуляция же возможна благодаря нелинейности процесса эмиссии поля, поэтому одна <Node id="3734"/>нанотрубка<Node id="3744"/> может и принимать, и усиливать и даже демодулировать AM/FM радиосигнал.
+
+<Node id="3818"/>Алекс говорит, что созданное им нано-радио – первая реально работающая наноэлектромеханическая система – НЭМС<Node id="3927"/>. Ученые довольны, что им удалось сделать радио настолько компактным только потому, что они использовали гибридный принцип, вовлекающий механические колебания <Node id="4086"/>нанотрубки<Node id="4096"/> в работу устройства.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1061" EndNode="1064">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="940" EndNode="943">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1264" EndNode="1274">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="3734" EndNode="3744">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="912" EndNode="931">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="282" EndNode="285">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2195" EndNode="2205">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="3818" EndNode="3927">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="3369" EndNode="3379">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="4086" EndNode="4096">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="2675" EndNode="2685">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="2539" EndNode="2549">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="238" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="3164" EndNode="3174">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="3333" EndNode="3343">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="высказывания_заявления" StartNode="3818" EndNode="3927">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="2047" EndNode="2057">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="2318" EndNode="2328">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="3129" EndNode="3139">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="3535" EndNode="3545">
+</Annotation>
+<Annotation Id="31" Type="Сенсор" StartNode="2523" EndNode="2529">
+</Annotation>
+<Annotation Id="30" Type="Нанотрубка" StartNode="2237" EndNode="2247">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Нанотрубка" StartNode="2786" EndNode="2796">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

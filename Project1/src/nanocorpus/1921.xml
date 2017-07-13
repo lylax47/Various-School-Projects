@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт физики полупроводников СО РАН микроэлектроника, <Node id="59"/>наноматериал<Node id="71"/>, наноэлектроника, полупроводниковые материалы, электронная микроскопия   Наноэлектроника Физика полупроводников и диэлектриков   нанотехнология и нанофизика полупроводниковых и металлических <Node id="263"/>наноструктур<Node id="275"/>, полученных методами сканирующей зондовой микроскопии определение атомных механизмов формирования поверхности,границ раздела и дефектов структуры в полупроводниковых материалах создание и  исследование структур пониженной размерности для микро- и наноэлектроники                             Латышев Александр Васильевич , зав.лабораторией, профессор, доктор наук Насимов Дмитрий Александрович, аспирант, младший научный сотрудник Настаушев Юрий Владимирович Шалыгина Надежда Алексеевна, инженер-технолог Щеглов Дмитрий Владимирович, научный сотрудник, кандидат наук Группа занимается исследованием атомных механизмов формирования поверхности и границ раздела в полупроводниковых материалах, созданием и исследованием структур пониженной размерности для микро- и наноэлектроники. 
+ 
+Лаборатория ориентирована на исследование поверхности методами электронной микроскопии, суть которой заключается в том, что пучок электронов, взаимодействуя с поверхностью, рассеивается на ней и регистрирует её структуру, он может проходить образец насквозь — ПЭМ, или отражаться ОЭМ. 
+ 
+Также смотрите материал о Центре коллективного пользования «<Node id="1406"/>Наноструктуры<Node id="1419"/>»   сверхвысоковакуумный отражательный электронный микроскоп установка <Node id="1490"/>электронной <Node id="1502"/>литографии<Node id="1512"/> "Raith-150"   ПЭМ Jeol-4000      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="1406" EndNode="1419">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="263" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Литография" StartNode="1502" EndNode="1512">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="59" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Электронная+литография" StartNode="1490" EndNode="1512">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

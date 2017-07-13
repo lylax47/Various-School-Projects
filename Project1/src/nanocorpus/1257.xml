@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>18 марта 2008 г.<Node id="17"/> состоялось очередное заседание <Node id="49"/>научно-координационного Совета МГУ<Node id="83"/> по нано- и биотехнологиям, на котором, в частности, рассматривались вопросы развития образования в области нанотехнологий. 
+На заседании были сделаны доклады деканов химического факультета МГУ академика В.В.Лунина и факультета наук о материалах академика Ю.Д.Третьякова о работах в области <Node id="374"/>наноматериалов<Node id="388"/> и нанотехнологий, проводимых на этих факультетах.
+ 
+Зам. декана ФНМ МГУ Е.А.Гудилин сделал доклад о проведении второй Всероссийской олимпиады по нанотехнологиям, ее партнерах и спонсорах (слайды из презентации приводятся ниже).
+ 
+Проректор МГУ профессор Э.Е.Антипенко сделал сообщение о формировании наноцентра МГУ.
+ 
+Вице-президент РАН М.В.Ковальчук поделился своими мыслями о формировании стратегических подходов в области нанотехнологического образования.
+ 
+По словам Ректора МГУ академика <Node id="882"/>В.А.Садовничего<Node id="897"/>, продолжается работа по созданию в МГУ нового нанотехнологического центра на базе ряда естественных факультетов МГУ, в частности, химического, физического, факультета наук о материалах и других факультетов МГУ. В создании университетского центра примет участие РНЦ «Курчатовский институт». Для будущего центра уже закуплена часть научного оборудования, которое на данный момент распределено по различным лабораториям университета, готов проект строительства корпуса для будущего центра нанотехнологий. В основе Научно-образовательного центра будет лежать модель междисциплинарного образования, которая на данный момент действует в МГУ на факультете наук о материалах ФНМ. Сейчас разрабатывается пакет нормативных документов, необходимых для открытия новой специальности и специализации. Он будет представлен на рассмотрение первому вице-премьеру РФ Сергею Иванову, курирующему нанотехнологии.
+ Всем членам координационного совета и приглашенным лицам была передана брошюра о проведении Олимпиады (файл с текстом брошюры приводится по сслылке ниже).     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="882" EndNode="897">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="49" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">научно-координационного Совета МГУ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="374" EndNode="388">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

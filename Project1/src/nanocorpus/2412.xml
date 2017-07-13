@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Чувашский государственный университет им. И.Н.Ульянова биосовместимые <Node id="72"/>наноматериалы<Node id="85"/>, модифицированные пленочные структуры, молекулярная электроника, нанонаполненные полимеры , наноструктурированные композитные материалы, наноструктурированные металлы   Молекулярная электроника <Node id="280"/>наноматериалы<Node id="293"/>    Получение и исследование наноструктурированных композитных материалов получение и исследование биосовместимых <Node id="407"/>наноматериалов<Node id="421"/> получение и исследование модифицированных пленочных структур получение и исследование нанонаполненных полимеров и материалов получение и исследование пленки алмазоподобного (sp2) углерода (ta-C) получение и исследование пленки линейноцепочечного (sp) углерода (ЛЦУ)                
+Центр коллективного пользования Чувашской Республики в области нанотехнологий (ЦКП) создан в рамках реализации Республиканской комплексной программы инновационного развития Чувашской Республики на <Node id="901"/>2006-2010 годы<Node id="915"/> на базе лабораторий физико-технического, химико-фармацевтического и машиностроительного факультетов ЧувГУ для организации взаимодействия в области нанотехнологий ученых и специалистов вузов, НИИ, предприятий и организаций Чувашской Республики 
+ 
+Целью организации ЦКП является развитие индустрии нанотехнологий, создаваемых ведущими производственными, научными организациями и учебными заведениями; повышение уровня научных исследований, проводимых по приоритетным направлениям развития науки; повышение качества образования; научно-методическое и приборное обеспечение научно-исследовательских, опытно-конструкторских и технологических работ, проводимых в Чувашской Республике в области нанотехнологий. 
+ 
+Структура ЦКП 
+ 
+В отделении физико-технического факультета в состав ЦКП входят следующие лаборатории:  
+ Атомно-силовой и тунельной микроскопии  Оптической микроскопии  Спектрометрии и спектроэлепсометрии  Технологии напыления тонких пленок и многослойных структур     Cпектрофотометр Lambda 25 (Perkin-Elmer, США - 2006) Атомно-силовой и туннельный сканирующий микроскоп СЗМ фемтоСкан Онлайн Вакуумный пост «УРМ.3.279.070 Алмаз» модернизированный для получения <Node id="2086"/>наноструктур<Node id="2098"/> ЛЦУ Газовый хроматомасс спектрометр GCMS-QP2010 S с прямым вводом пробы Металлографический микроскоп с системой подготовки образцов Оптический микроскоп ЕС МЕТАМ-РВ23 (ЛОМО) Рентгеновский дифрактрометр ДРОНТ Туннельный микроскоп «Умка 02-Е» <Node id="2340"/>Фурье<Node id="2345"/>-спектрометр инфракрасный ФСМ1202 <Node id="2379"/>Фурье<Node id="2384"/>-спектрометр инфракрасный ФСМ1202 </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="901" EndNode="915">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="2340" EndNode="2345">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="2086" EndNode="2098">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2379" EndNode="2384">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="407" EndNode="421">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="280" EndNode="293">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="72" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

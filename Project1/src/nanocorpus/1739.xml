@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Физики из Технического Института Джорджии (Georgia Tech) недавно установили, что в наноразмерном диапазоне вода ведет себя не так, как предписывают классические законы гидродинамики.
+
+Как сообщили ученые во главе с <Node id="216"/>Элизой Риедо<Node id="228"/> (Elisa Riedo) в выпуске журнала Physical Review B. от <Node id="283"/>15 марта 2007 года<Node id="301"/>, вода в каналах нанометровых размеров ведет себя почти как твердое тело.
+
+Как сообщает PhysOrg, эти исследования очень важны для молекулярных биологов и фармацевтов, которых интересует поведение жидкости в структуре клеток и медицинских препаратов.
+
+<Node id="552"/>Элиза<Node id="557"/> и <Node id="560"/>ее<Node id="562"/> коллеги исследовали протекание жидкости через канал диаметром два нанометра. Это достаточно маленький канал. Напомним, что на отрезке в 1 нанометр можно расположить в длину 8 атомов кислорода.
+
+Оказалось, что протекая, а, вернее, продавливаясь через нано-канал, вода ведет себя как патока  – вязкая субстанция. Кроме того, в канале вода организовалась в ряд слоев, что тоже ранее было неизвестно ученым.
+
+Для проведения эксперимента Риедо использовала атомно-силовой микроскоп (АСМ) с наконечником в виде канала, который смог замерить гидрофизические параметры воды.
+
+Увеличивая силу давления зонда АСМ на воду, Риедо также смогла установить, что при сжатии вода формирует многослойную структуру, близкую у морфологии жидких кристаллов.
+
+Компьютерное моделирование подтвердило теоретические изыскания Риедо, поэтому <Node id="1379"/>на сегодняшний день<Node id="1398"/> ученые хотят пойти дальше, и исследовать поведение воды с примесями в наноканалах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="283" EndNode="301">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="552" EndNode="557">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Элиза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1379" EndNode="1398">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="560" EndNode="562">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="216" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Элиза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

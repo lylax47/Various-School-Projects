@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>18 января<Node id="11"/> губернатор Валерий Шанцев провел совещание по вопросам модернизации автомобильных дорог общего пользования Нижегородской области. 
+ 
+По окончании совещания <Node id="168"/>Валерий Шанцев сообщил, что программа ремонта автомобильных дорог предусматривает постоянное увеличение объёмов работ<Node id="285"/>. "Мною принято решение уже в <Node id="315"/>2007 году<Node id="324"/> выделить дополнительно на ремонт и эксплуатацию дорог <Node id="379"/>500 миллионов рублей<Node id="399"/>. Объем недоремонта дорог к <Node id="427"/>2010 году<Node id="436"/> мы планируем сократить до <Node id="463"/>42%<Node id="466"/>. На эти цели будет выделено <Node id="495"/>5,6 миллиарда рублей<Node id="515"/>", - заявил глава региона. 
+ 
+Губернатор подчеркнул, что поставил перед исполнителями задачу использовать на ремонтных работах только современные технологии, позволяющие значительно повысить качество. "Появились новые технологии особенно актуальные для строительства поселковых и межпоселковых дорог. Грунт, который составляет основу дороги, снимается, наполняется нано-раствором, и появляется некое подобие асфальтобетонной смеси, которая используется как дорожное покрытие. 
+ 
+<Node id="994"/>Практика использования этой технологии в Германии показывает, что дороги с таким покрытием надёжны в эксплуатации, так как нано-раствор защищает его от воздействия перепада температур"<Node id="1178"/>, - уточнил Валерий Шанцев<Node id="1204"/>.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="379" EndNode="399">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="427" EndNode="436">
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="994" EndNode="1178">
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="994" EndNode="1178">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="315" EndNode="324">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="463" EndNode="466">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="427" EndNode="436">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="994" EndNode="1204">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="994" EndNode="1204">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="168" EndNode="1204">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="168" EndNode="285">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="168" EndNode="285">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="168" EndNode="1204">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="315" EndNode="324">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="2" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="495" EndNode="515">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

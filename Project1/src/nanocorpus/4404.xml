@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Сочетание нанотехнологии и генной терапии может дать ряд преимуществ при лечении различных заболеваний, а для этого необходимо научиться доставлять к клеткам и гены, и <Node id="169"/>наночастицы<Node id="180"/> одновременно. 
+ 
+Группа ученых из University of Alabama at Birmingham и University of California (США) разработала способ, как связать <Node id="316"/>золотые <Node id="324"/>наночастицы<Node id="335"/> и вектор на основе аденовируса. Этот вектор сам по себе является хорошей системой для доставки генов в клетки млекопитающих и используется специалистами во всем мире. Важно отметить, что присоединение к аденовирусному вектору <Node id="562"/>наночастиц<Node id="572"/> не ухудшило эффективность доставки генов. 
+ 
+Исследователи воспользовались способностью Ni-NTA связываться с шестью идущими подряд остатками гистидина (6xHis). При этом частицы золота размером 1,8 нм несли по 15-20 групп NTA-Ni(II), а капсид аденовируса – шестигистидиновые фрагменты. Капсид состоит из нескольких типов белковых субъединиц (рисунок 1), поэтому ученые попытались пришить довесок 6xHis к каждому из белков. Как оказалось, лучше всего модифицировать белок гексон: во-первых, число субъединиц этого белка наибольшее, а во-вторых, его изменение не сказывается на эффективности передачи генов. На рисунке 2 показана схема сборки аденовирусных векторов, связанных с <Node id="1249"/>золотыми <Node id="1258"/>наночастицами<Node id="1271"/>. Полученные частицы (рисунок 3) были успешно испробованы на клетках HeLa. 
+ 
+Авторы работы отмечают, что они лишь показали путь для более изощренной борьбы с заболеваниями, сочетающий достижения нанотехнологии и генной терапии. Аденовирусную систему доставки генов можно легко заменить лентивирусной, <Node id="1573"/>золотые <Node id="1581"/>наночастицы<Node id="1592"/> – магнитными частицами или <Node id="1620"/>квантовыми точками<Node id="1638"/>, а взаимодействие Ni-NTA и 6xHis – например, системой биотин-стрептавидин. 
+ 
+Работа «An Adenoviral Platform for Selective Self-Assembly and Targeted Delivery of Nanoparticles» (DOI: 10.1002/smll.200700403) опубликована в Small. 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="169" EndNode="180">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1258" EndNode="1271">
+</Annotation>
+<Annotation Id="3" Type="Наночастица+золота" StartNode="1573" EndNode="1592">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1581" EndNode="1592">
+</Annotation>
+<Annotation Id="6" Type="Наночастица+золота" StartNode="1249" EndNode="1271">
+</Annotation>
+<Annotation Id="7" Type="Наночастица+золота" StartNode="316" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="1620" EndNode="1638">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="324" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="562" EndNode="572">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

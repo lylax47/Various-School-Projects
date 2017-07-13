@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>Наночастицы<Node id="13"/>, упорядоченные в виде цепей, колец или трехмерных сверхрешеток, обладают уникальными физическими свойствами и считаются перспективными материалами для создания плазмонных волноводов для фотонных устройств, химических и <Node id="233"/>биологических <Node id="247"/>сенсоров<Node id="255"/>. Физические свойства упорядоченных <Node id="291"/>наночастиц<Node id="301"/> в значительной степени определяются размером <Node id="347"/>наночастиц<Node id="357"/>, их формой и расстоянием между отдельными частицами. Существует целый ряд методов, позволяющих варьировать морфологию <Node id="476"/>наночастиц<Node id="486"/> и, следовательно, изменять физические свойства материалов на их основе.
+ 
+Немецким ученым удалось синтезировать цепи <Node id="604"/>наночастиц<Node id="614"/> меди, инкапсулированные в <Node id="641"/>нанотрубки<Node id="651"/> оксида алюминия. На рис.1 представлена схема получения. На первом этапе синтезировали упорядоченные <Node id="752"/>нанопроволоки<Node id="765"/> CuO путем отжига при 475ºС на воздухе подложки из металлической меди. Далее методом ALD (по-атомное осаждение слоев) на <Node id="886"/>нанопроволоки<Node id="899"/> CuO осаждали оксид алюминия. На рис.2 представлена микрофотография композита Al2O3/CuO. <Node id="988"/>Затем<Node id="993"/> <Node id="994"/>нанопроволоки<Node id="1007"/> CuO, покрытые оксидом алюминия, подвергали восстановленному отжигу при 400-600ºС в токе водорода для превращения оксида меди в металлическую медь (оксид алюминия химически инертен по отношению к водороду при данных условиях). На рис.3 представлены микрофотографии полученных образцов после отжига в токе водорода при различных температурах. Варьирование температуры восстановительного отжига позволяет изменять размер <Node id="1426"/>наночастиц<Node id="1436"/> меди, инкапсулированных в <Node id="1463"/>нанотрубки<Node id="1473"/> оксида алюминия, и расстояние между <Node id="1510"/>наночастицами<Node id="1523"/>. 
+ 
+Авторы отмечают, что путем изменения условий получения исходных <Node id="1592"/>нанопроволок<Node id="1604"/> CuO могут варьироваться их размеры и расстояния между отдельными <Node id="1670"/>нанопроволоками<Node id="1685"/>. Кроме того, предложенная методика может быть использована для получения <Node id="1759"/>наночастиц<Node id="1769"/> других металлов, инкапсулированных в <Node id="1807"/>нанотрубки<Node id="1817"/> Al2O3.
+ 
+Работа “Rayleigh-Instability-Induced Metal Nanoparticle Chains Encapsulated in Nanotubes Produced by Atomic Layer Deposition” была опубликована в Nano Letters. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Биосенсор" StartNode="233" EndNode="255">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1463" EndNode="1473">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="476" EndNode="486">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1510" EndNode="1523">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="988" EndNode="993">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="247" EndNode="255">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1426" EndNode="1436">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="752" EndNode="765">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1807" EndNode="1817">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="641" EndNode="651">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="2" EndNode="13">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="604" EndNode="614">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="347" EndNode="357">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1759" EndNode="1769">
+</Annotation>
+<Annotation Id="14" Type="Нанопроволока" StartNode="994" EndNode="1007">
+</Annotation>
+<Annotation Id="15" Type="Нанопроволока" StartNode="1592" EndNode="1604">
+</Annotation>
+<Annotation Id="17" Type="Нанопроволока" StartNode="1670" EndNode="1685">
+</Annotation>
+<Annotation Id="16" Type="Нанопроволока" StartNode="886" EndNode="899">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="291" EndNode="301">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

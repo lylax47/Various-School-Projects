@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ахмадинежад уверен, что <Node id="24"/>США мешают развитию ИранаСША не хотят, чтобы Иран развивался и вел работу в рамках ядерной программы<Node id="124"/>. Об этом сегодня в Стамбуле заявил президент Ирана Махмуд Ахмадинежад.
+ 
+«<Node id="199"/>27 лет назад<Node id="211"/> США в одностороннем порядке прекратили демократические отношения с Ираном, ввели эмбарго. Америка тем самым показывает, что не хочет развития нашей страны. Повторю, что Иран решительно настроен продолжить работу в рамках ядерной программы», – отметил он.
+ 
+<Node id="469"/>Как сообщает ИТАР-ТАСС, по словам Ахмадинежада, в вопросе иранской ядерной программы «применяются двойные стандарты», а сама проблема является «исключительно политической»<Node id="640"/>.
+ Между тем, иранский президент подчеркнул, что Иран «рассчитывает скоро запустить первый отечественный спутник», построив как сам аппарат, так и ракету-носитель.  «<Node id="806"/>Иран входит в пятерку мировых лидеров по развитию биотехнологий, и в десятку – по развитию нанотехнологий<Node id="911"/>», – отметил Ахмадинежад<Node id="935"/>.
+ <Node id="938"/>http://www.izvestia.ru/news/news185767Iranian<Node id="983"/> Nanotechnology Initiativehttp://<Node id="1016"/>www.nano.ir/en/Iran<Node id="1035"/> <Node id="1036"/>Newshttp://www.iran.ru<Node id="1058"/>/Да, ребята настроены серьёзно – «догнать и перегнать» промышленноразвитые страны в области развития высокотехнологических НИОКР и производства. А их исследования в области нанотехнологий заслуживают самого серьёзного внимания…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается_с" StartNode="24" EndNode="911">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="469" EndNode="640">
+</Annotation>
+<Annotation Id="3" Type="упоминается" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="24" EndNode="124">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="24" EndNode="124">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="806" EndNode="911">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="24" EndNode="124">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1016" EndNode="1035">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="806" EndNode="911">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="0" EndNode="124">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="806" EndNode="935">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="938" EndNode="983">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="199" EndNode="211">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1036" EndNode="1058">
+</Annotation>
+<Annotation Id="18" Type="упоминается" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="21" Type="упоминается_с" StartNode="24" EndNode="911">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="469" EndNode="640">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="806" EndNode="935">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="24" EndNode="124">
+</Annotation>
+<Annotation Id="25" Type="цитаты" StartNode="469" EndNode="640">
+</Annotation>
+<Annotation Id="24" Type="упоминает" StartNode="0" EndNode="935">
+</Annotation>
+<Annotation Id="27" Type="автор" StartNode="469" EndNode="640">
+</Annotation>
+<Annotation Id="26" Type="автор" StartNode="0" EndNode="124">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

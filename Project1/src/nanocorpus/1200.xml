@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Бинарная коллоидная система, целенаправленно полученная при самоорганизации монодисперсных бинарных дисперсий, подвергнутых усушке на плоской подложке. Коллоидные частицы побольше - полистирол с диаметром 1.3 микрона. Маленькие коллоидные частицы - кремнезем с диаметром порядка 150 нм. Изображение <Node id="301"/>сканирующей электронной микроскопии<Node id="336"/> окрашено в два цвета для усиления эстетического восприятия. 
+    
+ 
+      
+ 
+  
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сканирующая+электронная+микроскопия" StartNode="301" EndNode="336">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

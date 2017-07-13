@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые американского Института Стандартов и Технологии (NIST) продемонстрировали великолепные свойства <Node id="104"/>наночастиц<Node id="114"/> на основе золота – нанозвезд (nanostars) в применении их в методе поверхностно-усиленной <Node id="204"/>рамановской спектроскопии<Node id="229"/> (SERS). Наблюдаемый учеными эффект усиления рассеяния оказался в 100000 раз выше, чем в современных технологиях SERS.
+
+Метод поверхностно-усиленной <Node id="378"/>рамановской спектроскопии<Node id="403"/> (SERS) основан на эффекте усиления рассеяния монохроматического света молекулами исследуемого образца в присутствии серебра или золота. Использование <Node id="554"/>наночастиц<Node id="564"/> этих металлов позволяет детектировать следовые количества веществ. В недавно проведенных исследованиях ученые описали характеристики комбинационного рассеяния в водных растворах органических соединений, содержащих различные виды <Node id="794"/>наночастиц<Node id="804"/>.
+
+Влияние <Node id="815"/>наночастиц<Node id="825"/> на силу рассеяния света определяли, опираясь на характерные спектры (fingerprints) рамановского рассеяния, характеризующие структуры известных молекул. Экспериментальному детектированию в присутствии нанозвезд подверглись два вещества: 2-меркаптопиридин и кристаллический фиолетовый (кристаллвиолет), выбранные в качестве модельных соединений благодаря структурному сходству с биологическими молекулами и большому количеству делокализованных электронов, формирующих сигнал SERS. Рамановское рассеяние 2-меркаптопиридина усиливалось 100000 раз в присутствии золотых нанозвезд. Та же характеристика для кристаллического фиолетового по сравнению с рассеянием в присутствии <Node id="1496"/>наностержней<Node id="1508"/> (наиболее сильно усиливающих SERS из известных <Node id="1556"/>наночастиц<Node id="1566"/>) была превышена в 10 раз. Таким образом, и <Node id="1610"/>наностержни<Node id="1621"/>, и нанозвезды делают метод SERS гораздо чувствительнее, чем используемые в <Node id="1697"/>настоящее время<Node id="1712"/> наносферы.
+
+Анджела Хайт Уокер (Angela Hight Walker), руководитель исследования, и ее группа усовершенствовали процесс получения золотых нанозвезд, выращивая их в перевернутой вверх ногами посуде и используя таким образом отклонения свойств поверхности для регулирования роста и формы <Node id="1998"/>наночастиц<Node id="2008"/>. Также ученые отметили, что при суспендировании в растворе нанозвезды образуют скопления, и SERS – усиливающий эффект становится гораздо выше, чем эффект единичных нанозвезд.
+
+Авторы исследований уверены, что массовое производство и интересные оптические свойства нанозвезд раскроют их многочисленные научные применения, и новые <Node id="2338"/>наночастицы<Node id="2349"/> будут заслуженно признаны настоящими звездами наномира.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1697" EndNode="1712">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1556" EndNode="1566">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="1610" EndNode="1621">
+</Annotation>
+<Annotation Id="5" Type="Рамановская+спектроскопия" StartNode="378" EndNode="403">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2338" EndNode="2349">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="554" EndNode="564">
+</Annotation>
+<Annotation Id="9" Type="Рамановская+спектроскопия" StartNode="204" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наностержень" StartNode="1496" EndNode="1508">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="815" EndNode="825">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="1998" EndNode="2008">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="794" EndNode="804">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

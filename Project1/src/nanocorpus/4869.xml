@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Лаборатория теоретической физики Объединённого Института ядерных исследований проводит международную конференцию “Dubna-Nano2008”. Конференция пройдёт в Дубне <Node id="160"/>с 7 по 11 июля 2008 г.<Node id="182"/> и будет посвящена разнообразным проблемам нанофизики с особым упором на ее теоретические аспекты:
+   углеродные наносистемы   <Node id="309"/>квантовые точки<Node id="324"/>   спинтроника   спектроскопия и динамика атомных кластеров   джозефсоновские переходы   применение наносистем   
+Более подробная информация размещена на сайте конференции. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="309" EndNode="324">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="160" EndNode="182">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

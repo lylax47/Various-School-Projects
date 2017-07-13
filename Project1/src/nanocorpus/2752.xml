@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как известно, внутри <Node id="22"/>углеродной <Node id="33"/>нанотрубки<Node id="43"/> (УНТ) содержится цилиндрическая полость диаметром порядка нанометра, которая может быть заполнена различными веществами. Это придает <Node id="177"/>нанотрубкам<Node id="188"/> новые свойства, которые зависят от типа наполнителя.
+
+Процесс заполнения <Node id="262"/>нанотрубки<Node id="272"/> материалом, находящимся в твердофазном состоянии, может оказаться весьма сложным, поскольку не каждое вещество может быть непосредственно внедрено в полость УНТ. В этом случае более уместным представляется проведение синтеза такого вещества из жидкой фазы, помещаемой внутрь УНТ.
+
+Примером удачной реализации такого подхода может служить работа, выполненная в Пекинском университете, авторы которой осуществили синтез графитовых частиц внутри <Node id="716"/>углеродной <Node id="727"/>нанотрубки<Node id="737"/>. Массив вертикально ориентированных многослойных УНТ длиной около 150 мкм и диаметром около 15 нм был выращен с плотностью (1,5–2,5)х1010 см-2 методом <Node id="889"/>химического осаждения<Node id="910"/> паров (CVD) на кремниевой подложке. <Node id="947"/>Затем<Node id="952"/> полученный массив УНТ погружали в концентрированный водный раствор (<Node id="1021"/>25%<Node id="1024"/>) глюкозы, используемой в качестве углеродосодержащего материала. Помимо этого, в раствор вводили небольшое количество (<Node id="1144"/>2,5%<Node id="1148"/>) Fe(NO3)3, который использовался в качестве источника катализатора на основе железа.
+
+После погружения массива УНТ в раствор глюкозы, он пропитывался раствором Na2S, что облегчало проникновение ионов железа внутрь УНТ. Высушенные образцы <Node id="1387"/>в течение часа<Node id="1401"/> отжигали в атмосфере азота при температуре 380оС, а затем исследовали с помощью сканирующего и просвечивающего электронных микроскопов, имеющих разрешающую способность 1 нм и 0,24 нм, соответственно.
+
+Эти исследования показывают, что в результате термокаталитического разложения глюкозы пространство между <Node id="1708"/>нанотрубками<Node id="1720"/> и внутри <Node id="1730"/>нанотрубок<Node id="1740"/> заполняется <Node id="1753"/>наночастицами<Node id="1766"/> графита. В результате заполнения образцов УНТ частицами графита наблюдается более чем трехкратное увеличение коэффициента теплопроводности материала – с 0,65 до 2 Вт/м <Node id="1935"/>К. Этот<Node id="1942"/> результат указывает на возможность эффективного улучшения теплофизических характеристик УНТ в результате проведения синтеза графитовых частиц.
+ 1. H. Li., C. Liu, S. Fan, J. Phys. Chem. C 112, 5849 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1144" EndNode="1148">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="947" EndNode="952">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="22" EndNode="43">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="262" EndNode="272">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Химическое+осаждение" StartNode="889" EndNode="910">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1935" EndNode="1942">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1021" EndNode="1024">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1753" EndNode="1766">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="177" EndNode="188">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1387" EndNode="1401">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="33" EndNode="43">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1730" EndNode="1740">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="727" EndNode="737">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1708" EndNode="1720">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="716" EndNode="737">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

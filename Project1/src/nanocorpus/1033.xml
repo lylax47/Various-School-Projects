@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>АФК «Система» получила <Node id="23"/>80%<Node id="26"/> «Ситроникс-нанотехнологий»ОАО «Ситроникс» снизило долю владения в ОАО «Ситроникс-нанотехнологии» до <Node id="127"/>20%<Node id="130"/> акций, говорится в официальном сообщении компании.
+
+Как пояснили «Интерфаксу» в пресс-службе «Ситроникса», <Node id="238"/>80%<Node id="241"/> акций нанотехнологической компании передано АФК «Система» (основной акционер «Ситроникса»).
+«Ситроникс» учредил ОАО «Ситроникс – нанотехнологии» для развития нанотехнологий в области полупроводников в <Node id="443"/>июле 2007 года<Node id="457"/> и включил его в бизнес-направление «Ситроникс Микроэлектронные решения», внедряющее технологию по производству микроэлектроники с топологическим размером 0,18 микрон. В дальнейшем компания планирует производить микросхемы с размером 0,13 микрон, 0,09 микрон.
+
+Кроме того, «Ситроникс» планирует при поддержке государства построить в Зеленограде завод для производства микросхем с размером 0,045 – 0,065 микрон. Акционерный капитал нового завода планируется распределить следующим образом: <Node id="946"/>46%<Node id="949"/> будет принадлежать государству, <Node id="982"/>43%<Node id="985"/> – «Системе», <Node id="999"/>11%<Node id="1002"/> – «Ситрониксу». Стоимость строительства завода оценивается в <Node id="1064"/>$2 млрд.<Node id="1072"/> Таким образом, предполагаемые инвестиции «Системы» в этот проект составляют <Node id="1149"/>$860 млн.<Node id="1158"/>
+ОАО «Ситроникс» занимается производством телекоммуникационного оборудования, микроэлектроники, программного обеспечения, потребительской техники.
+
+Контролирующим акционером компании является АФК «Система». В <Node id="1367"/>феврале 2007 года<Node id="1384"/> компания разместила <Node id="1405"/>17,5%<Node id="1410"/> акций на Лондонской фондовой бирже и российских РТС и МФБ.
+<Node id="1470"/>http://www.comnews.ru/index.cfm?…Ну<Node id="1505"/> что ж, очевидно, это очередной акт концентрации ресурсов. Что делать, слабому в этом мире не выжить…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="238" EndNode="241">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="443" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="127" EndNode="130">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1064" EndNode="1072">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="946" EndNode="949">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="982" EndNode="985">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="999" EndNode="1002">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="23" EndNode="26">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1149" EndNode="1158">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1470" EndNode="1505">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="1367" EndNode="1384">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">феврале</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1405" EndNode="1410">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

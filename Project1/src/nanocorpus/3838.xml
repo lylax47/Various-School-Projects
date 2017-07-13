@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Химический факультет МГУ имени М.В. Ломоносова приглашает Вас посетить выставку инновационных проектов, которая состоится <Node id="124"/>20 ноября 2008 года<Node id="143"/> с 12.00 до 17.00 в холле второго этажа здания химического факультета. На выставке ученые химического факультета представят свои инновационные разработки. Выставку посетят представители химических компаний. 
+ П р о г р а м м а                               Химический факультет расположен на Ленинских горах. Станция метро "Университет", далее любым транспортом 2 остановки до ост. "Библиотека МГУ" или "ДК МГУ". Адрес: Москва, Ленинские горы, д.1, стр.3, химический факультет МГУ. Дополнительная информация - по тел. (495) - 939 - 48 - 88, (495) - 939 - 38 - 51, (495) - 939 - 43 - 33.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="124" EndNode="143">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

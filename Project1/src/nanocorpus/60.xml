@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>В Петербурге разработают нановакцины против всех видов гриппаВ Санкт-Петербурге в научно-исследовательском институте гриппа РАМH появится уникальная лаборатория по производству нановакцин против всех видов гриппа.
+ 
+«<Node id="217"/>В <Node id="219"/>следующем году<Node id="233"/> у нас должна появиться лаборатория стоимостью <Node id="280"/>около $1 млн.<Node id="293"/> Это позволит нам сделать больший акцент на разработку современных нановакцин против всех видов гриппа», – сообщил директор НИИ Олег Киселев<Node id="433"/>.
+ Он рассказал, что вакцины, созданные с использованием нанотехнологий, позволяют снизить дозы и уменьшить побочные эффекты применения препаратов.
+ 
+«Кроме того, к <Node id="598"/>весне<Node id="603"/> мы разработаем собственный инвестиционный проект по нановакцинам стоимостью <Node id="680"/>около $20 миллионов<Node id="699"/>», – рассказал директор института.
+ 
+<Node id="736"/>По словам Киселева, <Node id="756"/>в рамках этого проекта планируется выпустить около 1 млн. доз вакцины, сообщает «Интерфакс»<Node id="847"/>.
+<Node id="849"/>http://www.pravda.ru/…68-vakcina-0Ну<Node id="885"/> вот, началось и практическое использование нанотехнологий в медицине. Отрадно, что уже множество людей, как говорится, на себе, «на своей шкуре» ощутит благотворное воздействие НТ… Это приблизит момент широкого признания и применения НТ-продуктов и в других областях нашей жизни…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="756" EndNode="847">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="736" EndNode="847">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="217" EndNode="847">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="280" EndNode="293">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="849" EndNode="885">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="217" EndNode="433">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="219" EndNode="233">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="680" EndNode="699">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="736" EndNode="847">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="756" EndNode="847">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="217" EndNode="433">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="598" EndNode="603">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="217" EndNode="847">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

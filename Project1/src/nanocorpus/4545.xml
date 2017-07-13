@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В University of Minnesota (США) провели забавный эксперимент с <Node id="64"/>наночастицами<Node id="77"/> и численное моделирование, которое подтвердило его неожиданные результаты.
+
+К поверхности кремния направляли кремниевые <Node id="198"/>наночастицы<Node id="209"/> диаметром 5 нм, которые содержали примерно 30 000 атомов. Оказалось, что медленные частицы, летящие со скоростью 900 м/с, отскакивают от поверхности, а вот быстрые (2000 м/с) – прилипают (рис. 1).
+
+Объяснение простое. Кинетическая энергия быстрых частиц переходит в деформацию кристаллической решетки. Кинетической энергии медленных частиц для этого не хватает, поэтому они отскакивают. Описанный эксперимент имеет вполне серьезные цели – изучение процессов адгезии <Node id="676"/>наночастиц<Node id="686"/> к поверхности, что очень важно для нанотехнологии.
+<Node id="738"/>В. Вьюрков<Node id="748"/> 1. M. Suri et al. Phys. Rev. B 78, 081405® (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="676" EndNode="686">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="64" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="738" EndNode="748">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вьюрков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="198" EndNode="209">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

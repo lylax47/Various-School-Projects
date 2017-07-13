@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Инженеры из Школы электроники и Компьютерных технологий Университета Саутхемптона (University of Southampton School of Electronics and Computer Science) разработали модель самого маленького в мире кремниевого приемника излучения. Устройство, демонстрирующее высокую чувствительность и потребляющее очень мало энергии, найдет применение в биологии, химии и мониторинге окружающей среды как детектор на молекулярном уровне.
+
+Группа, возглавляемая профессором <Node id="458"/>Хироши<Node id="464"/> Мазута (Hiroshi Mizuta) работает по программе NEMSIC (Nano-electro-mechanical-system-integrated-circuits), финансируемой Европейским Сообществом. Разрабатываемое устройство будет не только самым маленьким (из известных) в мире, но и будет имет исключительно высокую чувствительность и очень небольшое потребление энергии. Подход, осуществляемый группой исследователей, заключается в интеграции одноэлектронных транзисторов (ОЭТ) и нано-электро-механических систем (НЭМС) на единой кремниевой технологической платформе.
+
+Серьезной проблемой всегда является потребляемый ток вне зависимости от того включен или выключен приемник излучения, которая по-видимому может быть решена в такой схеме с помощью ОЭТ. Дежурное напряжение уменьшено до нуля отключением НЭМС. Группа разрабатывает ОЭТ с уникальной кремниевой нанолинией задержки. Данный <Node id="1303"/>сенсор<Node id="1309"/> по-видимому будет самым малогабаритным на рынке, да к тому же еще и самым экономичным, как считают разработчики.
+
+Впервые в разработках «умных» приемников излучения соединены эти две современных технологии- ОЭТ и НЭМС. Традиционная технология КМОП -комплементарная логика на транзисторах металл-оксид-полупроводник (CMOS -Complementary metal-oxide-semiconductor) имеет множество ограничений, которые требовали нового подхода.
+
+Разрабатываемые приемники излучения должны иметь наноразмеры, что реально осуществимо при использовании электронно-лучевой литографической машины, которая в скором времени должна поступить в распоряжение группы.
+
+Матералы о группе профессора <Node id="1979"/>Хироши<Node id="1985"/> Мазута и проекте NEMSIC размещены на веб сайте Школы электроники и Компьютерных технологий Университета Саутхемптона (University of Southampton School of Electronics and Computer Science): <Node id="2175"/>(http://www.ecs.soton.ac.uk/about/news/1918)<Node id="2219"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="458" EndNode="464">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хироши</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="1303" EndNode="1309">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2175" EndNode="2219">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1979" EndNode="1985">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хироши</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

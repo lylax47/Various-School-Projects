@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ученые научились собирать <Node id="26"/>наноструктуры<Node id="39"/> при помощи одного лазераШведские ученые из Технологического Университета Чалмерса обнаружили эффект возникновения <Node id="154"/>наноструктур<Node id="166"/> на золотой пленке при воздействии на нее лазерного импульса и научились им управлять, сообщает журнал Nature Photonics.
+Один из авторов исследования, Динко Чакаров (Dinko Chakarov)В <Node id="349"/>настоящее время<Node id="364"/> одним из основных препятствий повсеместного внедрения нанотехнологий является отсутствие эффективных инструментов сборки нанообьектов. Сейчас подобные устройства собираются практически «вручную». Шведским ученым удалось приблизиться к решению этой проблемы.
+ В основу их метода положен эффект плазмонного резонанса. В квантовой физике плазмоном называют квазичастицу, чье существование определяется дефектом в равномерном распределении электронов по поверхности металла. Если металл имеет толщину в несколько нанометров, то можно считать, что это пленка, состоящая из плазмонов. В результате воздействия короткого импульса лазерного луча отдельные квазичастицы начинают колебаться, что приводит к возникновению последовательности горячих и холодных зон на металлической пленке, в результате чего атомы металла и группируются в <Node id="1192"/>наноструктуры<Node id="1205"/>. Для своего опыта исследователи использовали тонкие пленки из золота и серебра. Контролируя интенсивность и продолжительность импульса, им удалось научиться управлять строением возникающих <Node id="1395"/>наноструктур<Node id="1407"/>. При помощи этого опыта ученые продемонстрировали, что наносборка возможна с использованием достаточно простых средств.
+<Node id="1528"/>http://lenta.ru/…/06/04/nano/Laser<Node id="1562"/> light produces complex nanostructures (пресс-релиз Университета Чалмерса)
+<Node id="1637"/>http://chalmersnyheter.chalmers.se/…/Article.jsp?…Grating<Node id="1694"/> formation by metal-nanoparticle-mediated coupling of light into waveguided modes – Nature Photonics, June 2008 (PDF, требуется подписка)
+<Node id="1832"/>http://www.nature.com/….2008.80.pdfLaser<Node id="1872"/> Light Produces Complex <Node id="1896"/>Nanostructureshttp://www.sciencedaily.com<Node id="1937"/>/…31105541.htmСмотри-ка, шведы, какие молодцы! (особенно «швед» Динко Чакаров);-) Ведь в <Node id="2026"/>настоящее время<Node id="2041"/> одним из основных препятствий повсеместного внедрения нанотехнологий является отсутствие эффективных инструментов сборки нанообьектов, и сейчас подобные устройства собираются практически «вручную». Теперь, после этого открытия, наверняка дела в области развития и внедрения НТ пойдут гораздо веселее. Поздравляем «первооткрывателей» и желаем всем-всем-всем новых успехов и достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="1192" EndNode="1205">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1832" EndNode="1872">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2026" EndNode="2041">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1896" EndNode="1937">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="154" EndNode="166">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1637" EndNode="1694">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="349" EndNode="364">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="1395" EndNode="1407">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1528" EndNode="1562">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="26" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

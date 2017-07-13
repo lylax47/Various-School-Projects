@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>…«Сегодня для большинства людей нанотехнологии — такая же абстракция, как и ядерные технологии в 30−е <Node id="103"/>годы прошлого века<Node id="121"/>», — сказал в своем последнем ежегодном Послании Федеральному Собранию Президент России Владимир Путин<Node id="223"/>.
+
+Дело в том, что нанотехнологиями называют сейчас чуть ли не все — лишь бы содержался хоть небольшой присущий им компонент. Страсти по этой теме вполне объяснимы: где «нано» — там финансирование.
+ 
+«<Node id="424"/>Если раньше просто говорили «микро», то теперь выгодно называть «нано», чтобы получить деньги», — говорит заведующий лабораторией физики и технологии <Node id="574"/>трехмерных <Node id="585"/>наноструктур<Node id="597"/> Института физики полупроводников СО РАН Виктор Принц<Node id="650"/>, ученый с мировым именем, под чьим руководством новосибирскими учеными создано целое направление — новые классы твердотельных <Node id="777"/>наноструктур<Node id="789"/> из полупроводников, диэлектриков, металлов, макеты наноприборов и новые <Node id="862"/>наноматериалы<Node id="875"/>…
+ Об исследованиях в области нанотехнологий и перспективах развития этой отрасли в России рассказывает Виктор Принц.
+<Node id="993"/>http://expert.ru/…rview_princ/Из<Node id="1025"/> первых рук… Рассказывает человек, который имеет огромный опыт (<Node id="1089"/>более 15 лет<Node id="1101"/> работы в данной области) и признанные (правда, по большей части – за рубежом) реальные достижения…Цитаты:
+— России не догнать США?
+— А не нужно догонять. После выхода в <Node id="1271"/>2001году<Node id="1279"/> национальной программы по нанотехнологиям в США японцы проанализировали свою наноотрасль. Поняв, что американцев им уже не догнать, они выделили всего несколько десятков направлений, по которым работают. Мы же работаем по всем направлениям! И по всем хотим догнать и перегнать. В короткие сроки и за малые деньги. Мы работаем без приоритетов — в этом наша главная проблема. И это не только мое мнение, это мнение многих ученых.
+
+— Решение проблемы есть?
+— Есть. Нанотехнологии необходимо развивать комплексно, планомерно, ориентируясь на ключевые области. Если все начнут заниматься только «порошками», то ничего из этого не выйдет. Настало время, когда нужно задать вопрос: «куда идти и как идти?» Чтобы наноотрасль в России заработала, нужно <Node id="2024"/>лет<Node id="2027"/> десять. За <Node id="2039"/>год<Node id="2042"/> мы никого не догоним и не перегоним. Необходимо сосредоточиться на ключевых областях и на тех, в которых есть задел и есть сотрудники, не боящиеся брать на себя ответственность и работать с полной отдачей.
+
+— Нужны финансы, оборудование и время. Все?
+— Еще нужны десятки тысяч нанотехнологов — как минимум около 20 тысяч. Но где они готовятся? Где их взять? Никто этот вопрос не поднимает. Из университетов в лаборатории приходят талантливые люди, но чтобы каждый из них стал настоящим специалистом, необходимо немалое время. Нанотехнолог должен быть и биологом, и химиком, и физиком одновременно. Он должен уметь работать с высокотехнологичным дорогостоящим оборудованием и чувствовать технологию. Должен уметь создавать новое и иметь большое терпение. Нанотехнологии — дело кропотливое.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2024" EndNode="2027">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="862" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="424" EndNode="650">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1089" EndNode="1101">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="103" EndNode="121">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="424" EndNode="650">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="993" EndNode="1025">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1" EndNode="223">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1" EndNode="223">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="585" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="2039" EndNode="2042">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Трехмерная+наноструктура" StartNode="574" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="1271" EndNode="1279">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="1271" EndNode="1279">
+</Annotation>
+<Annotation Id="26" Type="Наноструктура" StartNode="777" EndNode="789">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

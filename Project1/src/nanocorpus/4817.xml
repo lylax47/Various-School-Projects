@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Как не остаться без ноу-хауРоссийские инноваторы сталкиваются с кражей своих изобретений при попытке оформить патент в иностранных юрисдикциях, особенно в СШАОльга <Node id="164"/>Ускова<Node id="170"/> К таким выводам пришла Национальная ассоциация инноваций и развития информационных технологий (НАИРИТ), опросив в <Node id="285"/>июле 2548<Node id="294"/> инноваторов. <Node id="308"/>17%<Node id="311"/> респондентов сталкивались с кражей своих идей при попытке их зарегистрировать в иностранной юрисдикции, подавляющее большинство из них — в США. Еще <Node id="460"/>26%<Node id="463"/> слышали о подобных случаях и потому опасаются регистрировать за границей свои изобретения. Не хотят судиться…  * * Только <Node id="586"/>3%<Node id="588"/> инноваторов, считающих себя пострадавшими, пытаются восстановить свои права в судебном порядке, выяснила НАИРИТ. Но из тех, кто не сталкивался с обманом, <Node id="743"/>56%<Node id="746"/> готовы судиться. * * 
+У России нет договора с США о взаимном признании патентов, говорит президент НАИРИТ Ольга Ускова<Node id="865"/>.<Node id="866"/> В таком случае в другой стране не имеют права зарегистрировать аналогичное изобретение, но смогут бесплатно пользоваться вашей технологией, объясняет партнер Salans Виктор Наумов. Поэтому приходится подавать заявки в американское патентное агентство (USPTO). Во время этой процедуры либо его эксперты, либо посредник могут украсть разработку, говорит Ускова.
+ По опыту изобретателя Дмитрия Климова, в России зарегистрировать патент по силам любому, это обойдется в 6.000–<Node id="1338"/>8.000 руб.<Node id="1348"/> А в США придется привлекать патентного поверенного, с учетом его услуг процедура обойдется в <Node id="1442"/>$5 000<Node id="1448"/>–15 000, замечает Климов, у большинства нет таких денег.  
+«<Node id="1508"/>За <Node id="1511"/>14 лет<Node id="1517"/> работы не слышал, чтобы в нашем агентстве украли идею», — утверждает представитель USPTO Ричард Молсби<Node id="1620"/>, весь обмен информацией происходит между экспертом агентства и изобретателем или его юристом. Кража информации грозит эксперту увольнением и уголовным преследованием, замечает он. Со стороны самой службы и патентных поверенных кража действительно редкость, считает Наумов, чаще это происходит через фонды или инвесторов, задействованных в получении патента или совместном бизнесе.
+  У такого фонда просил грант на оформление патента в США Климов, одновременно он подал заявку в Роспатент. Речь шла о технологии флуоресцентного наноскопа, гораздо более эффективного, чем оптические микроскопы <Node id="2213"/>(http://www.nanonewsnet.ru/…-mikroskopii).<Node id="2255"/> В итоге <Node id="2264"/>спустя пять дней<Node id="2280"/> после регистрации патента в России на такое же изобретение был получен патент в США.  
+Между американской и остальными системами есть разница: в USPTO главное — первым прислать проект с документацией, а не заявку на патент, – говорит Молсби, для этого исследуются базы данных всех патентных бюро в мире.
+ 
+Как защитить права на свое изобретение в США, Климов не знает:
+ 
+«Это будет дело компании, которая станет использовать мою технологию».
+  Для защиты изобретения большинству авторов приходится заключать соглашения с иностранными корпорациями, констатирует Ускова, в итоге они становятся их сотрудниками, а изобретения — собственностью компаний. Только крупной компании в современных условиях по силам защитить изобретение сразу в большинстве развитых стран, согласен Наумов. По данным <Node id="3071"/>ООН<Node id="3074"/>, за <Node id="3079"/>последние три года<Node id="3097"/> таким образом из России уехало около 15 000 изобретателей. Патентные сборы от их изобретений составляют <Node id="3202"/>$3<Node id="3204"/>–4 млрд, полагает Ускова. Дмитрий Казьмин, <Node id="3247"/>Кирилл<Node id="3253"/> <Node id="3254"/>Корюкинhttp://www.vedomosti.ru/…rticle.shtml?…Хорошо<Node id="3306"/> устроились американцы: и у них подашь – проиграешь, и не у них подашь – тоже проиграешь. «Ложись под них», то есть фактически откажись от авторства – тогда на тебя ещё обратят внимание. И у этой системы жульничества и обмана есть немало помощников даже и в нашем «огороде». Не зря наши изобретатели и инноваторы так не доверяют венчурным и другим фондам – <Node id="3663"/>http://www.nanonewsnet.ru/…urnym-fondam.<Node id="3703"/> Надо что-то делать в этой области, а не то мы так и будем плестись в обозе у других, более ловких и пронырливых стран…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1338" EndNode="1348">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2264" EndNode="2280">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="285" EndNode="294">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2213" EndNode="2255">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="308" EndNode="311">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="164" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ускова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="743" EndNode="746">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="3254" EndNode="3306">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="работает" StartNode="865" EndNode="866">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="1511" EndNode="1517">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1508" EndNode="1620">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1511" EndNode="1517">
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="865" EndNode="866">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="3663" EndNode="3703">
+</Annotation>
+<Annotation Id="19" Type="Процент" StartNode="586" EndNode="588">
+</Annotation>
+<Annotation Id="18" Type="Властная_Структура" StartNode="3071" EndNode="3074">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">ООН</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="1508" EndNode="1620">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="3079" EndNode="3097">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Деньги" StartNode="1442" EndNode="1448">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="3247" EndNode="3253">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кирилл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Процент" StartNode="460" EndNode="463">
+</Annotation>
+<Annotation Id="26" Type="Деньги" StartNode="3202" EndNode="3204">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

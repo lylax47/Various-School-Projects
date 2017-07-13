@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Созданы самособирающиеся <Node id="26"/>наночастицы<Node id="37"/>, которые содержат два различных типа агентов отображения, а также покрыты пептидом, который избирательно связывается с клетками опухоли. Используя различные возможности молекул для взаимодействия и связи между собой, команда исследователей из Центра Превосходства Нанотехнологии Рака (Carolina Center of Cancer Nanotechnology Excellence) создала <Node id="384"/>наночастицы<Node id="395"/>, которые собирают себя слой слоем. Венбин Лин (Wenbin Lin) из Университета Северной Каролины в Чапер Хилл (The University of North Carolina at Chapel Hill) проводит исследования по развититю относительно простой и универсальной стратегии создания многофункциональных <Node id="663"/>наночастиц<Node id="673"/>, способных к связыванию с определенными типами клеток. Исследователи использовали стратегию самосборки, при которой по-разному заряженные компоненты <Node id="823"/>наночастиц<Node id="833"/> соединяются, максимизируя взаимодействие положительных и отрицательных зарядов. Мягкое химическое окружение, требуемое для самосборки слой за слоем, позволила исследователям создать многофункциональные <Node id="1036"/>наночастицы<Node id="1047"/>, не волнуясь о повреждении рецепторов и молекул отображения, которые они также хотели включить в <Node id="1145"/>наночастицы<Node id="1156"/>. В данной работе Лин и коллеги создали <Node id="1196"/>наночастицы<Node id="1207"/> на основе кварца, содержащего флуоресцентный краситель и контрастное вещество для магнитного резонанса. Исследователи добавили пептид, избирательно связывающийся с опухолью, известный как RGD, к поверхности <Node id="1415"/>наночастицы<Node id="1426"/>. Испытания с полученными <Node id="1452"/>наночастицами<Node id="1465"/> показали, что наночатицы были способны различить человеческие раковые клетки толстой кишки и нормальные клетки. А <Node id="1580"/>наночастицы<Node id="1591"/>, покрытые пептидом, который не связывается избирательно с раковыми клетками, не показывали такую специфичность. Исследователи контролировали поведение <Node id="1743"/>наночастиц<Node id="1753"/> флуоресцентными методами и магнитным резонансом. Эта работа поддержана Союзом для Нанотехнологии в Раке Национального Института Рака (National Cancer Institute's Alliance for Nanotechnology in Cancer) и описана в статье «Самособирающиеся гибридные <Node id="2002"/>наночастицы<Node id="2013"/> для многомодального отображения рака» («Self-assembled hybrid nanoparticles for cancer-specific multimodal imaging»). Резюме статьи доступно через PubMed.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="26" EndNode="37">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1196" EndNode="1207">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="823" EndNode="833">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2002" EndNode="2013">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1452" EndNode="1465">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="663" EndNode="673">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1580" EndNode="1591">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1743" EndNode="1753">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1415" EndNode="1426">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1036" EndNode="1047">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="1145" EndNode="1156">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="384" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

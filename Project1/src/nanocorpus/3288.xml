@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Конференция ПаВТ-2008 (Параллельные вычислительные технологии), посвященная развитию и применению параллельных вычислительных технологий в науке и технике, состоится в Санкт-Петербурге <Node id="187"/>28 января - 01 февраля 2008 г.<Node id="217"/>
+ 
+Тематика конференции охватывает практически все аспекты применения высокопроизводителных вычислений в науке и технике, включая приложения, аппаратное и программное обеспечение, специализированные языки программирования и пакеты. 
+ 
+На конференции будут представлены результаты, полученные ведущими научными группами в использовании суперкомпьютерных технологий для решения широкого круга научно-технических задач. 
+ 
+Регистрация участников - до <Node id="665"/>19 января 2008 г.<Node id="682"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="187" EndNode="217">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="665" EndNode="682">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

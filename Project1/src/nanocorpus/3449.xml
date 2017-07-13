@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На <Node id="5"/>этой неделе<Node id="16"/> Организация экономического сотрудничества и развития (OECD) выпустила новый документ ("Current Developments/Activities on the Safety of Manufactured Nanomaterials/Nanotechnology"), в котором рассказывается обо всех планируемых и реализуемых <Node id="258"/>на настоящий момент<Node id="277"/> в странах-членах OECD проектах, связанных с безопасностью созданных <Node id="346"/>наноматериалов<Node id="360"/>. 
+В документе описаны способы приспособления существующих систем регулирования к новым условиям; оценка рисков, связанных с использованием <Node id="500"/>наноматериалов<Node id="514"/>; программы исследований, посвящённых влиянию <Node id="560"/>наноматериалов<Node id="574"/> на здоровье человека и экологию. Информация была предоставлена участниками 2-го собрания OECD Working Party on Manufactured Nanomaterials (WPMN). Также в документе собраны отчёты о проектах других международных организаций, таких как Международная организация по стандартизации (International Organization for Standardization - ISO). Кроме того, участники WPMN добавили в документ список самых важных проектов, чтобы дать читателям общее представление о том, что было сделано со времени 1-го собрания WPMN.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="560" EndNode="574">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="500" EndNode="514">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="258" EndNode="277">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="346" EndNode="360">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="5" EndNode="16">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

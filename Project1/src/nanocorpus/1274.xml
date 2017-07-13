@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>5 февраля<Node id="11"/> состоялась пресс-конференция Генерального директора Госкорпорации "Роснанотех" Л.Б.Меламеда, - сообщает "Интерфакс". В ближайшие 7-<Node id="143"/>8 лет<Node id="148"/> российские предприятия, работающие в сфере нанопроизводства, должны занять <Node id="224"/>4%<Node id="226"/> мирового рынка нанопродукции, сообщил глава госкорпорации "Роснанотех". По его словам, Российские предприятия к <Node id="339"/>2015 году<Node id="348"/> должны произвести нанопродукции более чем на 4 трлн рублей, а на проведение фундаментальных и прикладных исследований в области нанотехнологий, развитие наноиндустрии в России в <Node id="527"/>ближайшие пять лет<Node id="545"/> будет выделено <Node id="561"/>около 200 млрд рублей<Node id="582"/>. 
+ ПОДРОБНОСТИ здесь. 
+P.S. Незадолго до этого наблюдательный совет ГК "Роснанотех" утвердил бюджет корпорации на <Node id="697"/>2008 год<Node id="705"/>, состав ревизионной комиссии и научно-технического совета.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="224" EndNode="226">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="561" EndNode="582">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="527" EndNode="545">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="339" EndNode="348">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="697" EndNode="705">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="339" EndNode="348">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="143" EndNode="148">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="697" EndNode="705">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

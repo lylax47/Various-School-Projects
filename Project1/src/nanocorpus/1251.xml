@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт аналитического приборостроения РАН гетероструктура, квантовые проволки, <Node id="83"/>квантовые точки<Node id="98"/>, нанобиологические <Node id="118"/>сенсоры<Node id="125"/>   <Node id="128"/>Наноматериалы<Node id="141"/> физическая химия   исследование физических свойств полупроводниковых сверхрешеток и <Node id="226"/>квантовых точек<Node id="241"/> разработка приборной базы для установок молекулярно-пучковой эпитаксии разработка технологии получения нанометровых нитевидных кристаллов в системе А3В5 разработка технологической базы для создания светоизлучающих диодных структур на кремнии экспериментальные и теоретические исследования физических явлений и процессов, происходящих при молекулярно-пучковой эпитаксии напряженных гетероструктур, в системах In(Ga,Al)As/GaAs, Ge/Si, InAs/Si.                             Горай Леонид Иванович, старший научный сотрудник, кандидат наук Демидов Владимир Николаевич , ведущий электроник Егоров Вячеслав Анатольевич , кандидат наук Поляков Николай Константинович, ведущий электроник Полякова Елена Александровна, инженер Самсоненко Юрий Борисович , старший научный сотрудник Сибирев Николай Владимирович, аспирант Тонких Александр Александрович , электроник Цырлин Георгий Эрнстович, зав. лабораторией, доктор наук 
+Лаборатория была создана в <Node id="1180"/>1985 г.<Node id="1187"/> Основное направление деятельности на начальном этапе (<Node id="1242"/>до 1992 г.<Node id="1252"/>) – участие в разработке установок МПЭ класса ЭП. В <Node id="1304"/>настоящее время<Node id="1319"/> одна из установок класса ЭП1203 использется в лаборатории для получения уникальных структур на основе <Node id="1422"/>квантовых точек<Node id="1437"/> и квантовых проволок (нановискеры), составляющих элементную базу приборов нового поколения. 
+ 
+ 
+Начиная <Node id="1543"/>с 1992 г.<Node id="1552"/> разрабатываются технологии создания квантово-размерных гетероструктур, проводится детальное исследование процессов эпитаксиального роста при МПЭ и ее разновидностях, разрабатываются аппаратно-программные средства для диагностики и управления процессами роста.
+ 
+ Основные результаты научной деятельности:  Теоретически и экспериментально исследованы кинетические аспекты образования <Node id="1936"/>квантовых точек<Node id="1951"/> в системах InAs/GaAs и Ge/Si. Обнаружено экспериментально и теоретически обосновано образование <Node id="2048"/>квантовых точек<Node id="2063"/> в докритической области толщин упругонапряженной эпитаксиальной пленки. Разработаны детальные кинетические теории роста нанометровых нитевидных кристаллов (нановискеров) в методе молекулярно-пучковой эпитаксии по механизму пар-жидкость-кристалл и диффузионному механизму. Синтезированы массивы нановискеров GaAs и AlGaAs на подложках GaAs различной ориентации. Исследованы основные особенности формирования нановискеров в зависимости от условий МПЭ роста. Синтезирован новый тип полупроводниковых квантовых структур – квантовые молекулы, представляющие собой туннельно связанные пары InAs <Node id="2653"/>квантовых точек<Node id="2668"/> в матрице GaAs и детально исследованы их оптические и структурные свойства.  Разработана воспроизводимая технология эффективных светоизлучающих диодных структур на основе многослойных селективно легированных гетероструктур Ge/Si на подложках Si.    Max-Planck Institute of Microstructure Physics, Германия Институт Физики им.В.А.Фока, Санкт-Петербург Лаборатория Фотоники и <Node id="3043"/>Наноструктур<Node id="3055"/> , Франция Санкт-Петербургский Государственный Технический Университет, Санкт-Петербург Санкт-Петербургский Государственный Университет, Санкт-Петербург Физико-технический институт им.А.Ф.Иоффе РАН, Москва Центр цитологии РАМН,  Москва      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="2048" EndNode="2063">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1180" EndNode="1187">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="3043" EndNode="3055">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1543" EndNode="1552">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Квантовая+точка" StartNode="226" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Квантовая+точка" StartNode="1422" EndNode="1437">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Сенсор" StartNode="118" EndNode="125">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="1304" EndNode="1319">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Наноматериал" StartNode="128" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="Квантовая+точка" StartNode="2653" EndNode="2668">
+</Annotation>
+<Annotation Id="38" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="Квантовая+точка" StartNode="83" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Период_времени" StartNode="1242" EndNode="1252">
+</Annotation>
+<Annotation Id="42" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="Квантовая+точка" StartNode="1936" EndNode="1951">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

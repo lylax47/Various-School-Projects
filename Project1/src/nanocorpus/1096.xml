@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>   
+ 
+ 
+<Node id="8"/>1-6 июня 2006 г.<Node id="24"/> в Рио-де-Жанейро будет проводится 
+9-я международная конференция по <Node id="93"/>наноструктурным материалам<Node id="119"/> NANO-2008. 
+ 
+Тематика конференции: 
+  Наноструктурированныематериалы  Нанофотоника   <Node id="206"/>Нанокомпозиты<Node id="219"/>   Наноэлектроника, -устройства , -<Node id="254"/>сенсоры<Node id="261"/>   Новыенаноматериалы   Применениенаноматериаловикоммерциализациянанотехнологий   Функциональныенаноматериалы  Токсикология,токсичностьнаноматериалов  Метрологиянаноматериалов  Наномагнетизм   
+Тезисы принимаются до <Node id="477"/>28 февраля 2008 г.<Node id="495"/> 
+(<Node id="498"/>http://www.cbpf.br/~nano2008/NANO2008.htm)<Node id="540"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="8" EndNode="24">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="477" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="498" EndNode="540">
+</Annotation>
+<Annotation Id="3" Type="Нанокомпозит" StartNode="206" EndNode="219">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="254" EndNode="261">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="93" EndNode="119">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор, начальник Управления дополнительного и дистанционного образования МГУ, Председатель Координационного совета МГУ по технологиям дистанционного образования. Статус: Заместитель Председателя 
+Михалев Александр Васильевич <Node id="229"/>родился 8 ноября <Node id="246"/>1940<Node id="250"/> года<Node id="255"/> в г. Брянске. Окончил механико-математический факультет МГУ (1961). Кандидат физико-математических наук (1967), доктор физико-математических наук (1990). Профессор кафедры высшей алгебры (1992), заведующий лабораторией вычислительных методов механико-математического факультета МГУ (1979). Генеральный директор ЦНИТ МГУ (с момента основания в 1989). Проректор МГУ (с 1999), руководитель-организатор факультета дополнительного образования (с момента организации в 1999). Член <Node id="731"/>Ученых Советов<Node id="745"/> МГУ, механико-математического факультета МГУ, факультета ДО МГУ, член экспертного Совета ВАК РФ, член Спецсовета при МГУ, член экспертных <Node id="884"/>Советов<Node id="891"/> РФФИ и РГГУ. Член правления Московского математического общества. Член редколлегий журналов "Труды семинара имени И.Г.Петровского", "Абелевы группы и модули", "Фундаментальная и прикладная математика", "Southeast Asian Bulletin of Mathematics", "Journal of Egyptian Mathematical Society". Лауреат премии Совета Министров СССР за прикладные исследования (1982), действительный член Международной Академии Наук Высшей Школы (1996) и Российской Академии Естественных Наук (2002), лауреат президентских научных стипендий, заслуженный деятель науки Российской Федерации (2003). В <Node id="1467"/>настоящее время<Node id="1482"/> - начальник Управления дополнительного и дистанционного образования МГУ, Председатель Координационного совета МГУ по технологиям дистанционного образования. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата_рождения" StartNode="229" EndNode="250">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1467" EndNode="1482">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="246" EndNode="255">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="731" EndNode="745">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Советов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="884" EndNode="891">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Советов</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

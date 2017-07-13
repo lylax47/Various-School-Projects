@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На фотографии изображены сферические частицы мезопористого алюмосиликата, на поверхности которых находятся <Node id="109"/>нанокристаллы<Node id="122"/> серебра. Мезопористый алюмосиликат был получен путем совместного гидролиза Si(OC2H5)4 и Al(OiС3Н7)3 в присутствии С16H33(CH3)3NBr в качестве структурообразующего агента. После гидролиза было проведено удаление органических составляющих путем отжига в токе кислорода. Для получения <Node id="404"/>наночастиц<Node id="414"/> серебра алюмосиликат пропитали раствором AgNO3 и восстановили в токе водорода. Полученный <Node id="505"/>нанокомпозит<Node id="517"/> проявляет высокую каталитическую активность в реакции окисления метанола.
+    
+ 
+        
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокомпозит" StartNode="505" EndNode="517">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="404" EndNode="414">
+</Annotation>
+<Annotation Id="2" Type="Нанокристалл" StartNode="109" EndNode="122">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

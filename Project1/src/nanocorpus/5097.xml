@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Казань, <Node id="8"/>15 августа<Node id="18"/> – Сегодня в Кабинете Министров РТ под председательством первого заместителя Премьер-министра РТ Бориса Павлова прошло совещание, посвященное участию Татарстана в федеральной целевой программе «Развитие инфраструктуры наноиндустрии в Российской Федерации на <Node id="276"/>2008 – 2010 годы<Node id="292"/>».
+
+Прогнозный объем финансирования программы за счет средств федерального бюджета составит <Node id="384"/>24,94 млрд. рублей<Node id="402"/>. Прежде всего деньги пойдут на закупку оборудования для производства <Node id="472"/>наноматериалов<Node id="486"/>.
+ 
+«<Node id="491"/>Предварительный анализ показывает, что республиканские структуры недостаточно активно участвуют в федеральной программе по развитию наноиндустрии. Пока от республики в нее удалось попасть только КГТУ им.<Node id="694"/>Туполева<Node id="702"/>», – отметил на совещании Борис Павлов<Node id="740"/>.
+ 
+Первый заместитель Премьер-министра РТ поставил задачу до <Node id="802"/>10 сентября<Node id="813"/> сформировать пул проектов от Татарстана по развитию нанотехнологий, чтобы в последующем консолидировано заявить его в федеральном центре.
+
+Кроме того, предполагается создать консолидирующую структуру – некоммерческое партнерство «Ассоциация по развитию нанотехнологий в РТ», которая стала бы республиканским интегратором проектов в области нанотехнологий. Предполагается, что в ассоциацию войдут ведущие вузы Татарстана, Академия наук РТ, Министерство образования и науки РТ, Инвестиционно-венчурный фонд РТ и технопарк «Идея».
+
+Ректор КГТУ им.<Node id="1358"/>Туполева<Node id="1366"/> Юрий Гортышов проинформировал участников совещания о том, что КГТУ получит <Node id="1442"/>111,5 миллиона рублей<Node id="1463"/> из федерального бюджета на создание международного центра по развитию нанотехнологий.
+
+107 миллионов пойдут на закупку оборудования для центра. В вузе существует специальность «нанотехнология в электронике» (единственная в республике), на нее в <Node id="1709"/>этом году<Node id="1718"/> среди абитуриентов был конкурс 15 человек на место.
+<Node id="1771"/>http://tatar-inform.ru<Node id="1793"/>/news/economy/?…Да, было бы неплохо подсуетиться ребятам… Да и не только им. А то ведь «более шустрые», которые во-время представили свои программы и «бизнес-планы», получат немалый кусок от этого «пирога»… Время есть. Надо поторопиться…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1709" EndNode="1718">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1771" EndNode="1793">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="472" EndNode="486">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="491" EndNode="740">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="491" EndNode="740">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="491" EndNode="740">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="491" EndNode="702">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="694" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туполев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="802" EndNode="813">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="1442" EndNode="1463">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="491" EndNode="740">
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="384" EndNode="402">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="276" EndNode="292">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="491" EndNode="702">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1358" EndNode="1366">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туполев</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

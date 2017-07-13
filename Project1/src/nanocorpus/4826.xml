@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Профессор, проректор МГУ им.М.В.Ломоносова, начальник Управления научной политики, организации научных исследований и информатизации Статус: Заместитель Председателя 
+<Node id="167"/>Родился 7 сентября <Node id="186"/>1951<Node id="190"/> года<Node id="195"/> в Москве. Доктор физико-математических наук (1996). Профессор кафедры квантовой статистики и теории поля физического факультета (1997). Окончил физический факультет МГУ в <Node id="367"/>1974 г.<Node id="374"/> и аспирантуру физического факультета (1977). <Node id="420"/>С 1977 г.<Node id="429"/> работает в НИИ ядерной физики МГУ сначала в должности младшего научного сотрудника, затем в должности старшего научного сотрудника, затем - ведущего научного сотрудника. <Node id="600"/>С марта 1987 г. по апрель 1992 г.<Node id="633"/> был заместителем проректора по научной работе. <Node id="681"/>С мая 1992 г. по август 2001 г.<Node id="712"/> - советник ректора МГУ. С <Node id="739"/>сентября 2001 г.<Node id="755"/> - проректор МГУ. В <Node id="775"/>настоящее время<Node id="790"/> - начальник Управления научной политики, организации научных исследований и информатизаци МГУ.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="775" EndNode="790">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="367" EndNode="374">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="739" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="420" EndNode="429">
+</Annotation>
+<Annotation Id="4" Type="Дата_рождения" StartNode="167" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="600" EndNode="633">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="186" EndNode="195">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="681" EndNode="712">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

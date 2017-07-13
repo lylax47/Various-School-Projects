@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Рождение <Node id="10"/>фуллерена<Node id="19"/> впервые зафиксировано учеными из Sandia National Laboratories (SNL), и из Университета Райса, США.
+
+Ученые из Университета Райса (Rice University) смогли впервые проследить за формированием <Node id="210"/>фуллерена<Node id="219"/> внутри углеродной <Node id="238"/>однослойной <Node id="250"/>нанотрубки<Node id="260"/>.
+
+Как известно, <Node id="277"/>фуллерены<Node id="286"/> формируются при температуре около 2000 градусов <Node id="335"/>Цельсия<Node id="342"/>, причем процесс этот не был детально изучен до сегодняшнего времени.
+
+Ученым удалось зафиксировать весь процесс образования молекул С__60__ с помощью трансмиссионной электронной микроскопии (TEM – Transmission Electron Microscopy).
+
+Благодаря исследованию, стал известен ряд деталей. Так, механизм формирования <Node id="654"/>фуллеренов<Node id="664"/> до сих пор не ясен. Одной из наиболее распространенных теорий является теория «горячего гиганта», согласно которой при нагревании графита атомы углерода сначала упорядочиваются в крупных формах, до 1000 единиц.
+
+После чего, с повышением температуры, крупные формы постепенно распадаются на меньшие, все более стабильные, и так до тех пор, пока не появятся идеально упорядоченные <Node id="1044"/>фуллерены<Node id="1053"/> С__60__, способные выдержать жесткие нагрузки.
+
+Исследование специалистов из Университета Райса косвенно подтверждает это предположение: на видео замкнутая цепь постепенно сокращается, превращаясь в окружность.
+
+Чтобы процесс можно было наблюдать и записывать с помощью TEM-микроскопа, ученые получали <Node id="1356"/>фуллерены<Node id="1365"/> внутри 10 нанометровых углеродных <Node id="1400"/>однослойных <Node id="1412"/>нанотрубок<Node id="1422"/>.
+
+Ученые также сумели оценить новый метод исследований <Node id="1478"/>фуллеренов<Node id="1488"/> – ТЕМ микроскопию, и они возлагают надежды на ее дальнейшее использование при изучении <Node id="1576"/>наноструктур<Node id="1588"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="335" EndNode="342">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="277" EndNode="286">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="654" EndNode="664">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Однослойная+нанотрубка" StartNode="1400" EndNode="1422">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="10" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="1356" EndNode="1365">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="1478" EndNode="1488">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Фуллерен" StartNode="1044" EndNode="1053">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="250" EndNode="260">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1412" EndNode="1422">
+</Annotation>
+<Annotation Id="16" Type="Фуллерен" StartNode="210" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="1576" EndNode="1588">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Однослойная+нанотрубка" StartNode="238" EndNode="260">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

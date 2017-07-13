@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Открытие эффекта гигантского магнетосопротивления (ГМС) повлекло за собой стремительный поиск и изучение обладающих им материалов в связи с возможностью их применения в устройствах нового поколения для считывания и хранения информации, а также <Node id="245"/>сенсорах<Node id="253"/> магнитного поля. 
+ 
+Технология производства современных головок для считывания магнитной записи в компьютерных жестких дисках уже сейчас активно использует магнеторезистивные материалы на основе многослойных металлических сплавов. Кроме того, существуют и другие перспективы примениния в различных областях: от создания магнитной оперативной памяти (IBM, Motorola) и производства устройств, снижающих шумы в коммуникационных сетях, до измерения линейных углов между предметами по средствам магнитного поля и специальных <Node id="774"/>сенсоров<Node id="782"/> (Philips). 
+ 
+Спустя некоторое время в семейсве манганитов с общей формулой Ln1- xAxMnO3 (Ln – РЗЭ, A – щелочной или щелочно- земельный элемент), имеющих структуру перовскита, был обнаружен эффект падения сопротивления во внешнем магнитном поле. По ставнению с многослойными металлическими материалами, где сопротивление плавно увеличивается с понижением температуры в манганитах имеется максимум на температурной зависимости магнетосопротивления, лежащий в области ферро-/антиферромагнитного упорядочения. Детальное исследование эффекта позволило предположить, что для этого класса материалов основным механизмом преноса заряда является механизм двойного обмена Mn3+-O-Mn4+. Ввиду специфических особенностей эффекта в манганитах, он получил название эффекта колоссального магнетосопротивления (КМС). Позже были обнаружены и другие семейства материалов, обладающих эффектом КМС: La1-xAxCoO3, халькогениды на основе хрома, семейство пирохлора Tl2Mn2O7 и др. 
+ 
+Одним из недавних успехов в области изучения КМС материалов было открытие нового семейства манганитов CaCuxMn7-xO12 [1-3], обладающего рядом преимуществ по сравнению с ранее изученными системами: для этого семейства характерана большая чувствительность к изменению магнитного поля даже при невысоких его значениях и лучшая температурная стабильность эффекта, что, несомненно, жизненно важно для будущих практических применений. 
+ 
+Твердый раствор CaCuxMn7-xO12 относится к соединениям со структурой двойного искаженного перовскита AA'3B4O12 (Рис.1). Эта интересная структура может быть представлена в виде каркаса, состоящего из октаэдров BO6, которые при сочленении вершинами образуют туннели, в которых размещаются катионы A и A’. При этом происходит наклон октаэдров BO6 по сравнению с положением в структуре идеального перовскита, за счет чего образуются две позиции с различным окружением: 12-ти координированная позиция A, занимаемая катионами Ca2+ и более искаженная позиция A' с координацией 4+4+4, в которой находятся Ян- Теллеровские катионы Mn3+ и Cu2+. В отаэдрах BO6 расположены катионы Mn3+ и Mn4+, причем с ростом степени замещения марганца на медь количество Mn4+ растет. 
+ 
+<Node id="2934"/>Синтез<Node id="2940"/> соединений в системе Ca-Mn-Cu-O затруднен и проводился до сих пор в запаянных ампулах или в автоклавах. Рассмотрев «за» и «против», в лаборатории неорганического материаловедения Химического факультета МГУ была предпринята оказавшаяся успешной попытка систематического изучения области существования этого перспективного твердого раствора [2, 3]. Как было достаточно быстро установлено, для его синтеза нет необходимости использовать «неудобные методы» ампульного синтеза или синтеза под высоким давлением. Все дело оказалось, как всегда, в правильном выборе реагентов и организации реакционной зоны! Так, было установлено, что составы вплоть до степени замещения x=1.5 можно получить простым отжигом таблеток, полученных из Рис.3. Магнеторезистивные свойства CaCuMn6O12 предварительно гомогенизированных порошков с добавлением 10 масс.% минерализатора (KCl), в токе кислорода (рис.2). 
+ 
+К сожалению, полученные таким способом образцы обладали довольно пористой микроструктурой, что делает из непригодными для измерения магнеторезистивных свойств. Применение методики «теплого» прессования (при 250-400°С) механоактивированных образцов (1-<Node id="4081"/>2 часа<Node id="4087"/> помола в микромельнице планетарного типа) оказалось именно тем решением проблемы, которое привело к успеху, то есть к получению плотной керамики, гарантирующей большую плотность межзеренного контакта. В результате было достигнуто рекордное для данного класса КМС манганитов магнетосопротивление -<Node id="4384"/>58%<Node id="4387"/> при температуре 35К в поле 5Т (рис.3). Сообщаемые ранее значения не превышали -<Node id="4467"/>30%<Node id="4470"/> даже при более низких температурах [1]. Температурная зависимость магнетосопротивления для твердого раствора CaCuxMn7-xO12 не обладает максимумом в области магнитного упорядочения в отличие от хорошо изученных (Ln,A)MnO3 фаз. Скорее всего, магнетосопротивление осуществляется не по механизму двойного обмена, а является так называемым туннельным магнетосопротивлением (ТМС), поэтому микроструктурная организация материала оказывается архиважной. В этом смысле рассматриваемые манганиты и ВТСП – товарищи по несчастью. И не только потому, что оба семейства содержать «капризную» медь, но еще и потому, что оба требуют наличия хорошо развитых фазовых контактов, а еще лучше – двуосного текстурирования. Однако, для керамических КМС – манганитов этот путь еще не пройден. Будем надеятся... 
+ 
+Литература:  Z. Zeng, M.Greenblatt, J.E. Sunstrom, M.Croft, S.Khalid // J. Sold State Chem. v.147, pp. 185-198 (1999).  Е.А.Померанцева, <Node id="5398"/>Д.М.Иткис<Node id="5407"/>, И.А.Пресняков, Е.А.Гудилин, <Node id="5437"/>Дж.Хестер<Node id="5446"/>, Н.Н.Олейников, Ю.Д.Третьяков, ЛОКАЛЬНАЯ СТРУКТУРА КАРКАСНЫХ МАНГАНИТОВ Ba6Mn24O48 и CaMn7O12, <Node id="5542"/>ДАН<Node id="5545"/>, 2002, т.387, н.2, с.311 3. Е.А.Померанцева, <Node id="5591"/>Д.М.Иткис<Node id="5600"/>, Е.А.Гудилин, М.В.Макарова, М.В.Лобанов, Н.Н.Олейников, Ю.Д.Третьяков, <Node id="5672"/>Синтез<Node id="5678"/> и свойства твердого раствора CaCuxMn7-xO12 с колоссальным магнетосопротивлением, Доклады Академии Наук, 2003, т.388, н.3.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="774" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="4384" EndNode="4387">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="5542" EndNode="5545">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="5437" EndNode="5446">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="5591" EndNode="5600">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="5672" EndNode="5678">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Синтез</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="5398" EndNode="5407">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Процент" StartNode="4467" EndNode="4470">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="2934" EndNode="2940">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Синтез</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Период_времени" StartNode="4081" EndNode="4087">
+</Annotation>
+<Annotation Id="34" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Сенсор" StartNode="245" EndNode="253">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

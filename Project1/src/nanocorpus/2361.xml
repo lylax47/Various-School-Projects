@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>7–8 октября с.г.<Node id="17"/> в Германии намечена Вторая Международная Конференция Нанополимеры 2008 (7–8 Oct 2008: Frankfurt, Germany Nanopolymers Conference 2008 (<Node id="153"/>www.polymerconferences.com)<Node id="180"/>
+
+Успех прошлогодней конференции в, которую организовала компания Smithers Rapra, внушает серьезный оптимизм в <Node id="291"/>этом году<Node id="300"/>. Вторая конференция организована с целью продемонстрировать новейшие достижения исследователей в необыкновенно быстро развивающейся отрасли. Короткая конференция будет насыщена деталями научных работ и технологических разработок в областях органических соединений, формирования <Node id="579"/>наночастиц<Node id="589"/>, <Node id="591"/>углеродных <Node id="602"/>нанотрубок<Node id="612"/> и т.д.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="153" EndNode="180">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="579" EndNode="589">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="591" EndNode="612">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="291" EndNode="300">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1" EndNode="17">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="602" EndNode="612">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

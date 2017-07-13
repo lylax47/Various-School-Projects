@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На протяжении всей истории существования человечества не прекращался поиск новых материалов с более совершенными механическими характеристиками. В память о достигнутых на этом пути успехах нам остались названия соответствующих эпох: каменный, бронзовый, железный <Node id="264"/>века<Node id="268"/>…. После открытия <Node id="286"/>углеродных <Node id="297"/>нанотрубок<Node id="307"/> в литературе стала обсуждаться возможность их использования для изготовления сверхпрочных материалов нового поколения. Теория предсказывала, что твердость и прочность <Node id="475"/>нанотрубок<Node id="485"/> значительно выше, чем у всех известных конструкционных материалов [1], но экспериментально это очень долго подтвердить не удавалось.
+
+В работе [2] сотрудников Northwestern University и Los Alamos National Laboratory впервые показано, что <Node id="724"/>нанотрубки<Node id="734"/> действительно являются такими же прочными, как и предсказывают квантово-механические расчеты. Более того, авторы [2] обнаружили, что предел прочности многостенных <Node id="898"/>нанотрубок<Node id="908"/> можно еще повысить за счет контролируемого формирования связей между соседними стенками. Это достигается путем облучения <Node id="1030"/>нанотрубок<Node id="1040"/> электронами. В отличие от предыдущих работ, в [2] поведение <Node id="1101"/>нанотрубок<Node id="1111"/> при механической нагрузке было изучено посредством просвечивающей (а не сканирующей) электронной микроскопии.
+
+Первым практическим применением <Node id="1255"/>углеродных <Node id="1266"/>нанотрубок<Node id="1276"/> в материаловедении станет, по-видимому, их использование для укрепления полимерных композитов. Пока этому препятствует сравнительная дороговизна <Node id="1422"/>нанотрубок<Node id="1432"/>, а также еще нерешенная проблема, связанная с тенденцией <Node id="1490"/>нанотрубок<Node id="1500"/> образовывать связки, вместо того чтобы быть равномерно диспергированными по полимерной матрице. Кроме того, слабым звеном здесь могут оказаться границы раздела между <Node id="1667"/>нанотрубками<Node id="1679"/> и матрицей: именно на таких границах зарождаются трещины, распространяющиеся затем по всему образцу и приводящие к его разрушению. Если все эти барьеры удастся преодолеть, то … наступит Нанотрубочный <Node id="1880"/>Век<Node id="1883"/>!
+<Node id="1885"/>Л. Опенов<Node id="1894"/> 1. S.Ogata, Y.Shiputani, Phys. Rev. B 68, 165 (2003) 2. B.Peng et al., Nature Nanotechn. 3, 626 (2008)* </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1422" EndNode="1432">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="898" EndNode="908">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="475" EndNode="485">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1266" EndNode="1276">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="297" EndNode="307">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1255" EndNode="1276">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1880" EndNode="1883">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1667" EndNode="1679">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="724" EndNode="734">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1885" EndNode="1894">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Опенов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="286" EndNode="307">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1101" EndNode="1111">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1030" EndNode="1040">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1490" EndNode="1500">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="264" EndNode="268">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

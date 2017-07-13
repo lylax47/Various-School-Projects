@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В исследовательский центр компании Samsung Cheil Industries в Корее на постоянную работу требуется химик аналитик. 
+ 
+Требования к кандидату:
+  Образование: ученая степень доктора или кандидата наук; обучение в аспирантуре; высшее образование в области аналитической химии  Опыт работы: для дипломированных специалистов – опыт работы по специальности от <Node id="356"/>3 лет<Node id="361"/>  Знание английского языка   
+Для подачи заявки необходимо составить на АНГЛИЙСКОМ ЯЗЫКЕ развернутое резюме (личные данные, образование, опыт работы) и направить его по адресу: ilya.goldt@samsung.com. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="356" EndNode="361">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

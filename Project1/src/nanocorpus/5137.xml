@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Волгограде началась подготовка к международному экономическому форумуНапомним, что Международный экономический форум «Сочи-2008» состоится в <Node id="143"/>сентябре<Node id="151"/> <Node id="152"/>этого года<Node id="162"/>. Волгоград представит несколько проектов, в числе которых два совершенно новых инновационных проекта, основанных на применении нанотехнологий.
+ Первый проект предполагает производство натуральной кожи, модифицированной ВЧ-плазмой пониженного давления. Кожа, полученная таким способом, обладает повышенной прочностью в сочетании с мягкостью и эластичностью, максимальной интенсивностью окраски.  Второй проект предлагает новейшую технологию модификации шерстяного волокна с применением неравновесной низкотемпературной плазмы. Такая технология позволит повысить износостойкость тканей, вырабатываемых из данного волокна, и их гигиенические характеристики. Оба проекта разработаны в рамках Концепции развития легкой промышленности региона на <Node id="903"/>2008–2010 годы<Node id="917"/>.
+<Node id="919"/>http://mamaev-kurgan.ru/money/3015/Ну<Node id="956"/> вот, волжане выбрали свой путь использования высоких технологий (и, в частности, нанотехнологий). Мы ранее уже сообщали об этих двух проектах – 1 и 2. Тогда местные руководители утверждали, что «<Node id="1152"/>применение нанотехнологий в текстильном производстве и при изготовлении материалов является… одним из самых перспективных научно-технических направлений в мире. Неслучайно эти два проекта были отобраны для последующего финансирования из венчурного фонда Волгоградской области<Node id="1427"/>» (так сказал начальник управления развития предпринимательства администрации Волгоградской области Владимир Демидов<Node id="1543"/>). Ну что ж, вот и посмотрим теперь, каких успехов они достигли в данной области за прошедшее время. Успехов им на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="1152" EndNode="1543">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="919" EndNode="956">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="143" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="1152" EndNode="1427">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1152" EndNode="1543">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="152" EndNode="162">
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="1152" EndNode="1427">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="1152" EndNode="1543">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="903" EndNode="917">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="1152" EndNode="1543">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

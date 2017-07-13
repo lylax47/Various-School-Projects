@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Крупнейшие европейские центры принимают заявки на проведение структурных исследований в <Node id="89"/>2008-2009 гг<Node id="101"/>. : 
+ 
+С использованием синхротронного излучения, малоуглового рассеяния и др. - MAX-Lab  - Швеция, Лунд. Срок подачи заявок - до <Node id="231"/>14 марта 2008 г.<Node id="247"/>  
+ 
+C использованием нейтронного излучения и др. - Германия, BENSC. Срок подачи заявок - до <Node id="340"/>15 марта 2008 г.<Node id="356"/> , Франция, Гренобль, ILL. Срок подачи заявок - до <Node id="407"/>4 марта 2008 г.<Node id="422"/> 
+ 
+Везде необходима предварительная регистрация. В некоторых случаях (EXAFS, MAXLAB) необходимо предварительно проконсультироваться с менеджером. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="231" EndNode="247">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="407" EndNode="422">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="340" EndNode="356">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="89" EndNode="101">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

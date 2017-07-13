@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из группы, занимающейся наноуглеродными материалами (Kenji Hata, Tatsuki Hiraoka) в исследовательском центре передовых углеродных материалов Национального института AIST (Advanced Industrial Science and Technology) и корпорация Zeon совместно разработали новую технологию синтеза одностенных углреродных <Node id="312"/>нанотрубок<Node id="322"/> в препаративных количествах на большой площади металлических субстратов. Они применяли метод «супер-роста» при <Node id="434"/>химическом осаждении<Node id="454"/> из газовой фазы (CVD), который является одним из широко используемых методов при синтезе <Node id="544"/>нанотрубок<Node id="554"/>.
+
+В стандартном методе «супер-роста» применяется дорогой кремниевый субстрат. В данной работе авторы преуспели в синтезе <Node id="676"/>нанотрубок<Node id="686"/> на недорогом субстрате на основе никелевого сплава. В то же время группа исследователей разработала пробную синтетическую установку, которую можно использовать для синтеза <Node id="859"/>нанотрубок<Node id="869"/> по новой методике, и успешно синтезировала одностенные <Node id="925"/>нанотрубки<Node id="935"/> однородной структуры на листе субстрата размером А4. Синтез в таком большом объеме является в сотни раз более эффективным, чем известные ранее. Теперь выход измеряется в граммах.
+
+Одностенные <Node id="1128"/>нанотрубки<Node id="1138"/>, синтезированные по новой технологии, растут вертикально на металлической фольге, и достаточно <Node id="1234"/>десяти минут<Node id="1246"/> для того, чтобы образовался слой <Node id="1280"/>нанотрубок<Node id="1290"/> высотой в 1 мм. Получаемые таким образом <Node id="1332"/>нанотрубки<Node id="1342"/> обладают замечательными свойствами, среди которых – высочайшая, по мировым стандартам, степень чистоты и самая большая поверхность и длина, по своим значениям близкие к тем, что получены на кремниевых субстратах.
+
+Предложенная новая технология позволяет уменьшить стоимость субстрата на одну сотую от существующей. Будучи ключевой технологией производства одностенных <Node id="1711"/>углеродных <Node id="1722"/>нанотрубок<Node id="1732"/>, она готовит почву для более масштабного производства этих материалов. Некоторые результаты этих исследований опубликованы в Journal of the American Chemical Society.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1234" EndNode="1246">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1128" EndNode="1138">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="312" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1332" EndNode="1342">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="859" EndNode="869">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="544" EndNode="554">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1280" EndNode="1290">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="925" EndNode="935">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1722" EndNode="1732">
+</Annotation>
+<Annotation Id="11" Type="Химическое+осаждение" StartNode="434" EndNode="454">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="676" EndNode="686">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="1711" EndNode="1732">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

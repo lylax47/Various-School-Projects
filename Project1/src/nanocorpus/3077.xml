@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Американское медоборудование для ЗеленоградаВ американском городе Талса будут развивать производство медицинского оборудования для Зеленоградаг. Талса
+В рамках празднования 50-летия города Зеленоград с дружественным визитом посетила делегация из города-побратима Талса (штат Оклахома, США), в состав которой вошли руководитель ассоциации «Талса-Зеленоград» Ирина Кривцова<Node id="371"/>,<Node id="372"/> член Совета директоров ассоциации «Талса Глобал Альянс» (TGA) <Node id="435"/>Яна Бойд<Node id="443"/> <Node id="444"/>и бизнесмен Майкл Бойд.
+
+Как рассказал заместитель префекта Зеленограда Алексей Немерюк, делегация прибыла в Зеленоград для обсуждения планов дальнейшего сотрудничества городов в социальной сфере и образовании, а также перспектив развития отношений в бизнесе и высоких технологиях.
+В частности, сторонам удалось расширить взаимоотношения по обмену учащимися и преподавателями; сотрудничеству по вопросам нанотехнологии Московского института электронной техники и Университета города Талса; а также по развитию на территории Талсы производства медицинского оборудования для Зеленограда.
+
+В <Node id="1033"/>июле 1992 года<Node id="1047"/> Зеленоград был принят в Международную Ассоциацию городов-побратимов и установил дружеские связи с г. Талса. Одним из значимых совместных проектов стало открытие в Зеленограде Института международного бизнес-образования (ИМБО).
+В <Node id="1277"/>октябре 2005 года<Node id="1294"/> был подписан официальный договор о совместном сотрудничестве между школами Букер Ти Вашингтон г. Талса и зеленоградской №1150 по программе «Мир без границ», согласно которому стороны должны ежегодно проводить обмены учащимися и учителями между двумя школами.
+Екатерина <Node id="1564"/>Репкинаhttp://www.netall.ru/gnn/index.php?…Дружат<Node id="1613"/> города-побратимы: Зеленоград и Талса. И это – хорошо. Они даже внешне похожи друг на друга, только вот добавить бы Зеленограду небоскрёбов (но за этим, очевидно, скоро дело не станет) – <Node id="1800"/>http://www.nanonewsnet.ru/…ykh-otraslei.<Node id="1840"/> Обмен студентами, преподавателями, школьниками – это тоже очень здорово – <Node id="1915"/>http://www.nanonewsnet.ru/…obedinyaites.<Node id="1955"/> Чем больше будут наши страны, города и люди сотрудничать, тем лучше будет для всех… Ну, для многих… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="435" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Яна</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="443" EndNode="444">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1915" EndNode="1955">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="443" EndNode="444">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1033" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="371" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1277" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="371" EndNode="372">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1564" EndNode="1613">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1800" EndNode="1840">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

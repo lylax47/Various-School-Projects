@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>УМПО планирует использовать нанотехнологии в производстве двигателей нового поколенияУфа. <Node id="90"/>29 октября<Node id="100"/> – ОАО «Уфимское моторостроительное производственное объединение» (УМПО), один из крупнейших в России производителей двигателей, планирует использовать нанотехнологии в производстве двигателей для самолетов пятого поколенияКак отмечается в сообщении пресс-службы УМПО, так для производства двигателей нового поколения планируется использовать <Node id="443"/>наноматериалы<Node id="456"/>, наноструктурированные функциональные покрытия и технические решения по нанофазному упрочнению.
+
+По данным пресс-службы, этот проект находится на рассмотрении государственной корпорации «Российские нанотехнонологии» как один из кандидатов для финансирования из бюджета.
+<Node id="727"/>http://www.interfax-russia.ru/…Fin/431.html?…ОАО<Node id="775"/> «Уфимское моторостроительное производственное объединение» <Node id="835"/>(УМПО)http://www.umpo.ru/Ну<Node id="862"/> вот – молодцы! Работать, так уж по-крупному! Желаем удач и новых свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="727" EndNode="775">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="443" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="835" EndNode="862">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="90" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

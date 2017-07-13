@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Рациональный дизайн <Node id="21"/>наноматериалов<Node id="35"/> может стать ближе благодаря работе Китайских химиков, обнаруживших ряд тонких эффектов, влияющих на формирование <Node id="149"/>наноструктур<Node id="161"/>.
+
+Взаимодействия, влияющие на агрегацию малых молекул в <Node id="218"/>наноструктуры<Node id="231"/> особенной формы были раскрыты в результате работы Хонгбинг Фу (Hongbing Fu) и Джяннян Яо (Jiannian Yao) из Китайской Академии Наук в Пекине. Яо отмечает, что свойства <Node id="399"/>наноматериала<Node id="412"/> определяются его структурой, хотя целенаправленный дизайн малых молекул, образующих предсказуемые по форме <Node id="520"/>наноструктуры<Node id="533"/>, имеет определенные ограничения.
+
+Исследователи из Пекина изучали образование <Node id="612"/>наноструктур<Node id="624"/> трех изомерных молекул, имеющих центральное ядро и два эквивалентных заместителей. Различие между изомерами заключалось лишь в углах между осями заместителей, составлявших 60, 120 или 180 градусов. В зависимости от орто-, мета- или пара-расположения заместителей изомеры образовывали <Node id="909"/>наноструктуры<Node id="922"/> различной формы – сферической, линейной или кубической соответственно.
+
+Яо изучал, как форма молекул влияет на образование первоначально агрегированных кластеров. Было обнаружено, что орто-изомеры образуют межмолекулярные димеры, которые собираются в наносферы. Мета-изомеры формируют зигзагообразные цепи, которые затем сплетаются с образованием длинных проводов. И, наконец, прямые цепи, образованные молекулами, имеющими угол 180 градусов между заместителями, не перемешиваются друг с другом с высокой эффективностью, образуя <Node id="1452"/>наноструктуры<Node id="1465"/> кубической формы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="909" EndNode="922">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="612" EndNode="624">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="21" EndNode="35">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="520" EndNode="533">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="218" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="399" EndNode="412">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="149" EndNode="161">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="1452" EndNode="1465">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

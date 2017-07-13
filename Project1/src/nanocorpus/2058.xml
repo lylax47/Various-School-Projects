@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Первое транзисторное радио, сделанное полностью из устройств, содержащих <Node id="74"/>нанотрубки<Node id="84"/>, создано нанотехнологами из Университета Иллинойса (University of Illinois). Благодаря нано-радио исследователи услышали отчет о пробках в Балтиморе, транслируемый радиостанцией этого города.
+
+Как говорят ученые, это первое радио, в котором из <Node id="329"/>нанотрубок<Node id="339"/> сформирована матрица, эффективно прилегающая к слою полупроводника. Преимущество метода, предложенного учеными, заключается в том, что технология легко воспроизводима в промышленных условиях.
+
+Основное достижение ученых заключается в том, что им удалось сформировать матрицу параллельных горизонтально расположенных <Node id="656"/>углеродных <Node id="667"/>нанотрубок<Node id="677"/> внутри «бутерброда», сформировав готовую плату- шаблон для дальнейшего размещения электроники.
+
+Вырастить параллельные ряды нанорубок оказалось достаточно просто – нанотехнологии давно известен метод <Node id="878"/>химического осаждения<Node id="899"/> в паровой фазе (CVD-метод). Только теперь ученые использовали в качестве основы подложку из кварца. Формирующиеся <Node id="1014"/>нанотрубки<Node id="1024"/> в точности росли вдоль кристаллической структуры кварцевого кристалла, образуя ровные ряды.
+
+<Node id="1118"/>После этого<Node id="1129"/> было проще сформировать из ряда <Node id="1162"/>нанотрубок<Node id="1172"/> в полупроводниковом сэндвиче нанотранзисторы. Так как все <Node id="1231"/>нанотрубки<Node id="1241"/> были параллельны, то и электрические свойства получившихся нанотранзисторов были аналогичными. При этом <Node id="1346"/>нанотрубки<Node id="1356"/> в составе каждого транзистора работали параллельно, что позволило устройству пропускать достаточно большую силу тока при работе. А это, в свою очередь, позволяет добиться высокого коэффициента усиления как в радиочастотном, так и в диапазоне аудио частот.
+
+«Коэффициент усиления настолько высок, что вы сможете слушать радио, подключив к нанотранзисторному приемнику даже обычные наушники!», – говорит один из исследователей, Джон Роджерс (John Rogers).
+
+Более того, промышленными методами наноэлектроники сразу можно изготовить множество наноустройств на основе <Node id="1920"/>нанотрубок<Node id="1930"/>.
+
+Вы знаете, что недавно исследователи уже сообщали о нано-радио на основе одной-единственной <Node id="2025"/>нанотрубки<Node id="2035"/> . Недостаток этого исследования заключался в последующем усилении сигнала, а теперь, благодаря массиву <Node id="2139"/>нанотрубок<Node id="2149"/>, эта проблема отпала.
+
+«Преимущество нашей технологии состоит в том, что все компоненты нано-радио (антенны, RF-усилители и аудиоусилители) формируются из блоков-матриц параллельно расположенных <Node id="2345"/>нанотрубок<Node id="2355"/>», – поясняет Роджерс.
+
+Сейчас цель ученых – создать электронное устройство, содержащее до ста нанотранзисторов-блоков.
+
+Результаты своей работы Роджерс и <Node id="2510"/>его<Node id="2513"/> коллеги опубликовали в PNAS.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="2025" EndNode="2035">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1346" EndNode="1356">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1014" EndNode="1024">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="667" EndNode="677">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2139" EndNode="2149">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="2345" EndNode="2355">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1162" EndNode="1172">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="74" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1118" EndNode="1129">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="656" EndNode="677">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2510" EndNode="2513">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Химическое+осаждение" StartNode="878" EndNode="899">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="1920" EndNode="1930">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="329" EndNode="339">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="1231" EndNode="1241">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

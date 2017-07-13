@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Рекордное число участников NanoBusiness 2008 ConferenceКомпания NanoBusiness Alliance – ведущая мировая торговая ассоциация, специализирующаяся в области НТ-бизнеса, <Node id="166"/>1 мая<Node id="171"/> объявила, что в <Node id="188"/>текущем году<Node id="200"/> наблюдается рекордное число фирм, которые намереваются принять участие в её ежегодном мероприятии NanoBusiness 2008 (конференция + выставка), которое будет проводиться <Node id="369"/>4 – 6 мая<Node id="378"/> нью-йоркском отеле Marriott Marquis.
+
+Так, в частности, среди более чем 50 известнейших фирм, которые будут участвовать в конференции и выставке с демонстрацией своих новых изделий, продуктов и технологий, были упомянуты следующие фирмы: Arrowhead Research, Eikos, Exilica, Green Earth Technologies, Inframat, Luna, NanoDynamics, Nanofilm, NanoInk, Nanophase, NanoMix, Nanosphere и QSI Nano.
+
+В рамках этой конференции/выставки (проводимой уже <Node id="823"/>седьмой год<Node id="834"/> подряд), на которой основной упор делается на деловую сторону развития НТ в самых разных отраслях экономики (косметика и гигиена, новые материалы, электронные приборы, приборы мед. диагностики и достижения фармакологии), будут проводиться разного рода презентации и выступления, «круглые столы» и совещания экспертов, учебные сессии и «сетевые» мероприятия.
+Ожидается, что это весьма популярное мероприятие посетят сотни бизнесменов, инвесторов, венчурных капиталистов, инженеров, учёных и других специалистов, правительственных чиновников и др.
+Все подробности можно выяснить на сайте NanoBusiness 2008 Conference: <Node id="1451"/>www.nanobusiness2008.com.<Node id="1476"/>
+NanoBusiness Alliance Announces Record Number of Participating Nanotechnology Companies at NanoBusiness 2008 Conference in New York Next <Node id="1614"/>Weekhttp://www.nanotech-now.com<Node id="1645"/>/news.cgi?…Да, вот хорошо, что «у них» есть кто-то, кто позаботится свести вместе «разработчиков» и «денежных мешков» (инвесторы, венчурные капиталисты и т.п.) – на нейтральной площадке. Посидят вместе, выпьют и закусят, послушают доклады и умные речи с выступлениями, познакомятся и «найдут друг друга» – то-то, глядишь, и веселее закрутятся шестерёнки НТ-бизнеса, и Америка ещё больше оторвётся от своих преследователей в этой нескончаемой гонке за лидерство в области нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1614" EndNode="1645">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="823" EndNode="834">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="188" EndNode="200">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1451" EndNode="1476">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="166" EndNode="171">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="369" EndNode="378">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

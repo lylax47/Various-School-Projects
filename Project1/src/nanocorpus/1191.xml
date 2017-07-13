@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Преодолев 45 нм, подступив к 32 нм, ведущие полупроводниковые компании стали присматриваться и к 22 нм.
+
+Для формирования 22-нм рисунка рассматривают несколько литографических методов – экстремальный ультрафиолет, рентгеновское излучение, прямое электронно-лучевое «рисование» и наноимпринт. Однако, все эти методы, наряду с несомненными достоинствами, имеют и свои недостатки, главный из которых – неготовность методов к массовому производству.
+
+Компания IBM в сложившейся ситуации решает продлить до 22 нм возможности лазерной (ArF лазер с длиной волны 193 нм) иммерсионной <Node id="577"/>литографии<Node id="587"/>, заключив соглашение о совместной разработке соответствующего фотошаблона с японской компанией Toppan Printing Co Ltd. IBM имеет длительный опыт сотрудничества с Toppan – <Node id="759"/>с 2005 г.<Node id="768"/> компании совместно разрабатывали фотошаблон на 45 нм, в <Node id="825"/>настоящее время<Node id="840"/> заканчивают разработку 32-нм шаблона и вот приступают к новой 22-нм разработке.
+
+Работы начнутся в <Node id="940"/>текущем месяце<Node id="954"/> (<Node id="956"/>июнь<Node id="960"/>) на фабрике по производству шаблонов компании IBM в Барлингтоне (Burlington).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="940" EndNode="954">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="825" EndNode="840">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="759" EndNode="768">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="956" EndNode="960">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июнь</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Литография" StartNode="577" EndNode="587">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

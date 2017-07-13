@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Гарвардский университет выдал лицензии на запатентованные нанотехнологии
+Георгий Мешков
+
+Гарвардский университет заключил соглашение с компанией Nano-Terra, основанной одним из сотрудников университета, профессором Джорджем Уайтсайдсом (George Whitesides), который является одним из ведущих специалистов по нанотехнологиям. По условиям соглашения, Nano-Terra лицензирует у исследовательской лаборатории университета более 50 запатентованных разработок, связанных с нанотехнологиями.
+
+George Whitesides
+
+Финансовые детали сделки не разглашаются, известно лишь, что университет получит не только лицензионные отчисления, но и долю в компании.
+
+Лицензированные Nano-Terra патенты затрагивают практически все сферы применения наноразработок Уайтсайдса и его коллег, завершенных за <Node id="777"/>последние 25 лет<Node id="793"/>, кроме биотехнологий, которые ранее были лицензированы компаниям Genzyme, GelTex, Theravance, Surface Logix и WMR Biomedical.
+
+Одной из ключевых разработок Уайтсайдса является так называемая «сухая» <Node id="993"/>литография<Node id="1003"/>, используемая при производстве микросхем. Преимущество данной технологии над фотолитографией состоит в способности работать с неровными и даже круглыми, поверхностями. Впрочем, в <Node id="1183"/>последние годы<Node id="1197"/> на смену «сухой» <Node id="1215"/>литографии<Node id="1225"/> приходит иммерсионная <Node id="1248"/>литография<Node id="1258"/>. В силу технологических ограничений, «сухая» <Node id="1304"/>литография<Node id="1314"/> препятствует внедрению новых техпроцессов с нормами менее 0,065 мкм.
+
+Переход на иммерсионную <Node id="1409"/>литографию<Node id="1419"/>, при которой кремниевые пластины в целях улучшения фокусировки лазерных лучей погружаются в дистиллированную воду, позволяет преодолеть эти препятствия и ускорить внедрение более тонких технологических процессов.
+
+В отличие от упомянутых компаний, Nano-Terra не занимается продажей какой-либо продукции, а лишь предоставляет собственные производственные мощности и специалистов. Nano-Terra была основана в <Node id="1826"/>2005 году<Node id="1835"/>, с целью найти коммерческое применение патентам Уайтсайдса.
+
+Вице-президентом компании является бывший ученик профессора – Кармайкл Робертс. Пост исполнительного директора занимает бывший глава маркетингового подразделения AOL Time Warner <Node id="2075"/>Майер Берлоу<Node id="2087"/>, а президентское кресло занял <Node id="2118"/>Ули Морант<Node id="2128"/>, ранее трудившийся в IBM и Philips Consumer Electronics, сообщает The New York Times.
+<Node id="2215"/>http://science.compulenta.ru<Node id="2243"/>/321251/Ну, в первую очередь это – «звоночек» (увы, далеко не первый) нашим «колхозникам», а во вторых – наглядный пример того, как надо (бы) организовывать дело: Университет =&gt;&gt;&gt; Малое предприятие, основанное сотрудником этого же университета (так наз. Start-Up), которое и будет далее раскручивать это дело. О серьёзности подхода свидетельствует наличие в руководстве компании «крутых мэнов» из очень известных фирм.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1826" EndNode="1835">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Литография" StartNode="1215" EndNode="1225">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Литография" StartNode="1248" EndNode="1258">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="2075" EndNode="2087">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Майер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1826" EndNode="1835">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Литография" StartNode="993" EndNode="1003">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1183" EndNode="1197">
+</Annotation>
+<Annotation Id="15" Type="Литография" StartNode="1409" EndNode="1419">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2118" EndNode="2128">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">У.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Уля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Литография" StartNode="1304" EndNode="1314">
+</Annotation>
+<Annotation Id="23" Type="Url" StartNode="2215" EndNode="2243">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="777" EndNode="793">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

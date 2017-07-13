@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Государство поддержит разработку российских ученых – аппарат по очищению крови – и поможет вывести его на мировые рынки – Сергей ИвановОМСК, <Node id="141"/>15 января<Node id="150"/> – Государство поддержит новейшую разработку российских ученых – аппарат по очищению крови – и поможет вывести этот продукт на мировые рынки. Об этом заявил первый вице-премьер РФ Сергей Иванов.
+
+Он посетил сегодня в Омске Институт проблем переработки углеводородов РАН, где ему показали аппарат для очищения крови.
+
+Первый вице-премьер сказал, что был приятно удивлен новым изобретением российских ученых.
+ 
+«Меня удивило новое запатентованное изобретение с использованием нанотехнологий, – рассказал он журналистам. – Это средство можно использовать как для лечения людей, так и домашних животных, можно использовать в рамках национального проекта развития АПК».
+  
+«<Node id="819"/>Я не знал о существовании такого направления, и мы вместе с главой госкорпорации по нанотехнологиям <Node id="919"/>Леонидом<Node id="927"/> Мелaмедом посмотрим, как наладить не опытное, а промышленное производство этих аппаратов с использованием нанотехнологии, тем более, что интерес к этому изобретению проявляют не только в России, но и за рубежом, в частности, в Китае. Вы представляете, что значит один китайский рынок – это огромные возможности<Node id="1238"/>», – сказал Иванов<Node id="1256"/>.
+  
+«Это коммерческий продукт, потому что Госкорпорация по нанотехнологиям будет выделять ресурс, большой ресурс только под проекты, которые имеют коммерческую перспективу, – сказал он. – И здесь мы готовы помочь вывести продукт на рынок».
+ <Node id="1498"/>http://www.ami-tass.ru/…e/31145.htmlИнститут<Node id="1542"/> проблем переработки углеводородов РАНДиректор: Лихолобов Владимир Александрович, доктор химических наук, профессор, член-корреспондент <Node id="1678"/>РАНhttp://osc.okno.ru/…ents/ihp.htmНу<Node id="1715"/> вот приехал в Омск добрый дедушка Мороз – Сергей Иванов и пообещал выделить средства на доводку и налаживание промышленного производства такого прекрасного аппарата. Это всё здорово, это всё хорошо. Как бы теперь сделать так, чтобы всё это присходило рутинно и повседневно – без участия «Дедов Морозов»: новые разработки получали бы необходимые ресурсы – для доводки и налаживания промышленного производства?.. И «ни от кого бы» персонально это не зависело… Наступит ли это счастливое будущее или, будет так, как в своё время сказал <Node id="2249"/>Николай Алексеевич (Некрасов)<Node id="2278"/>: «Жаль, грит, что в эту пору прекрасную уж не жить ни тебе и ни мне<Node id="2346"/>»?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="141" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="упоминается_с" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1498" EndNode="1542">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="819" EndNode="1256">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1678" EndNode="1715">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="8" Type="упоминается_с" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="11" Type="упоминается_с" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="2249" EndNode="2346">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="17" Type="упоминает" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="919" EndNode="927">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается_с</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Леонид</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="упоминается_с" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="18" Type="цитаты" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="23" Type="упоминает" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="22" Type="Тональность" StartNode="2249" EndNode="2278">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="819" EndNode="1238">
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="819" EndNode="2346">
+</Annotation>
+<Annotation Id="27" Type="автор" StartNode="2249" EndNode="2346">
+</Annotation>
+<Annotation Id="26" Type="автор" StartNode="819" EndNode="1256">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

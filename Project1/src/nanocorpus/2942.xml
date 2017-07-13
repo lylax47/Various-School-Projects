@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Fujitsu Laboratories Ltd. сообщила о создании нового углеродного <Node id="66"/>нанокомпозита<Node id="79"/> из самоорганизованной структуры, состоящей из <Node id="126"/>нанотрубок<Node id="136"/> и <Node id="139"/>графена<Node id="146"/>. Детали новой технологии были представлены на 34-ом симпозиуме «<Node id="211"/>Фуллерены<Node id="220"/> и <Node id="223"/>нанотрубки<Node id="233"/>», проходившем <Node id="248"/>3–5 марта 2008 г.<Node id="265"/> в Нагойе (Япония).
+
+<Node id="286"/>Графен<Node id="292"/> имеет форму листа из одного слоя атомов углерода, а <Node id="345"/>нанотрубка<Node id="355"/> может быть описана как <Node id="379"/>графен<Node id="385"/>, свернутый в цилиндр. Несмотря на то, что они состоят из одних и тех же атомов, их характеристики существенно разнятся. Из всех известных в природе материалов <Node id="545"/>углеродные <Node id="556"/>нанотрубки<Node id="566"/> имеют самую высокую теплопроводность и механическую прочность, а также могут пропускать очень высокие плотности электрического тока, что обещает им широкое применение для электропроводников (в частности в межсоединениях <Node id="787"/>ИС<Node id="789"/>), теплоотводов, эмиттеров электронов. <Node id="828"/>Графен<Node id="834"/> имеет высокую подвижность электронов, что делает его перспективным в качестве канала МОП транзисторов. Однако традиционно <Node id="957"/>графен<Node id="963"/> синтезируется при температуре выше 700˚C, несовместимой с современной полупроводниковой технологией.
+
+Исследователи Fujitsu Laboratories задались целью объединить эти два материала, добившись в результате лучших качеств. И это им удалось, используя метод <Node id="1219"/>химического осаждения<Node id="1240"/> из пара в вакуумной камере. Синтезированная структура состояла из слоя многостенных <Node id="1325"/>нанотрубок<Node id="1335"/> и расположенными сверху несколькими слоями <Node id="1379"/>графена<Node id="1386"/>.
+
+Новый сложный композит, разработанный в Fujitsu Laboratories, – это первый в мире композит, состоящий из двумерных (<Node id="1505"/>графен<Node id="1511"/>) и одномерных (<Node id="1527"/>нанотрубки<Node id="1537"/>) элементов, расположенных взаимно перпендикулярно.
+
+Композит синтезирован при относительно низкой температуре – 510˚C.
+
+Вследствие того, что <Node id="1679"/>углеродные <Node id="1690"/>нанотрубки<Node id="1700"/> являются линейными одномерными структурами, в двумерном направлении, перпендикулярном оси <Node id="1791"/>нанотрубки<Node id="1801"/>, практически полностью отсутствует тепло- и электропроводность. С другой стороны, <Node id="1884"/>графен<Node id="1890"/> обладает тепло- и электропроводностью в в плоскости листа. В результате вновь открытая композитная структура, как ожидается, будет иметь электрическую проводимость и тепловое рассеяние во всех направлениях. Кроме того, графеновый лист ограничивает длину <Node id="2145"/>нанотрубок<Node id="2155"/>, делая их практически однородными по длине, что трудно достижимо в других методах синтеза.
+
+Исследователи Fujitsu предпринимают попытки снизить температуру синтеза композита до приемлемой в полупроводниковой технологии (с 510˚C до 400˚C), надеясь приблизить возможное его применение в электронных приборах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="545" EndNode="566">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="1505" EndNode="1511">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="787" EndNode="789">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="223" EndNode="233">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="248" EndNode="265">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Химическое+осаждение" StartNode="1219" EndNode="1240">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Графен" StartNode="828" EndNode="834">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="286" EndNode="292">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1791" EndNode="1801">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="379" EndNode="385">
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="139" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="345" EndNode="355">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="126" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="1325" EndNode="1335">
+</Annotation>
+<Annotation Id="24" Type="Графен" StartNode="1379" EndNode="1386">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="1527" EndNode="1537">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Нанокомпозит" StartNode="66" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Нанотрубка" StartNode="2145" EndNode="2155">
+</Annotation>
+<Annotation Id="34" Type="Графен" StartNode="957" EndNode="963">
+</Annotation>
+<Annotation Id="35" Type="Графен" StartNode="1884" EndNode="1890">
+</Annotation>
+<Annotation Id="32" Type="Нанотрубка" StartNode="556" EndNode="566">
+</Annotation>
+<Annotation Id="33" Type="Углеродная+нанотрубка" StartNode="1679" EndNode="1700">
+</Annotation>
+<Annotation Id="36" Type="Нанотрубка" StartNode="1690" EndNode="1700">
+</Annotation>
+<Annotation Id="37" Type="Фуллерен" StartNode="211" EndNode="220">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Три промышленных гиганта – Intel (США), Samsung (Ю.Корея) и TSMC (Тайвань) – достигли соглашения о необходимости сотрудничества в освоении к <Node id="142"/>2012 году<Node id="151"/> технологии и в производстве 450-мм кремниевых подложек. Компании продолжат взаимодействие с компанией Sematech, которая будет координировать усилия по продвижению 450-мм подложек. Sematech в общих чертах разрабатывает соответствующую программу. Но большинство производителей оборудования (Applied Materials, ASML Holding, KLA-Tencor, Lam Research, Novellus Systems и другие) настроено весьма скептически, ссылаясь на возможную астрономическую стоимость разработок. G. Dan Hutcheson, исполнительный директор консалтинговой компании VLSI Research Inc. считает, что 450-мм фабрики, конечно же появятся, но не в <Node id="760"/>2012 г.<Node id="767"/>, а не ранее <Node id="780"/>2025 г.<Node id="787"/>
+
+Дебаты по поводу переориентации полупроводниковой промышленности на 450-мм кремниевые подложки возникли в связи с ростом затрат на производство компонентов <Node id="945"/>ИС<Node id="947"/> со все более уменьшающимися размерами (от 45– к 32-, 22– и 16-нм элементам).
+
+Страсти по поводу возможного перехода на 450-мм подложки достигли точки кипения еще в <Node id="1112"/>октябре 2007 года<Node id="1129"/> во время проведения международной встречи производителей оборудования и материалов для полупроводниковой промышленности, организованной Sematech [1]. В отличие от оптимистичных оценок Sematech, производители оборудования сочли идею перехода заблуждением, которое приведет не к снижению, а к росту стоимости чипов.
+
+Согласно экономической модели компании Sematech (возбудителя 450-мм инициативы), пропускная способность 450-мм оборудования (включая установки <Node id="1588"/>травления<Node id="1597"/>, ионной имплантации, <Node id="1619"/>литографии<Node id="1629"/> и контрольно-измерительные) будет такой же, как у сегодняшнего 300-мм оборудования. Принимая, что 300-мм подложки содержат 400 чипов и пропускная способность оборудования составляет 150 подложек в <Node id="1827"/>час<Node id="1830"/>, в результате получаем каждый <Node id="1861"/>час<Node id="1864"/> 60000 чипов. Переход на 450-мм увеличит число чипов на подложке до 920 и (при той же пропускной способности оборудования) будем иметь 138000 чипов в <Node id="2014"/>час<Node id="2017"/>.
+
+Однако эта модель (см. Табл. 1) расходится с выводами производителей оборудования. По их мнению, из-за более тонкой и сложной геометрии приборов следующих поколений на одной подложке можно будет изготовить только 74 000 чипов, что незначительно больше, чем в случае 300-мм подложек. Поэтому чипмейкерам придется купить две установки вместо одной для сохранения 300-мм производительности, что обесценивает цели перехода. Кроме того, производители оборудования утверждают, что они еще не компенсировали свои затраты на разработку оборудования для 300-мм подложек (по их оценкам, полная компенсация наступит только <Node id="2632"/>через 30 лет<Node id="2644"/>), а возможные инвестиции в разработку 450-мм оборудования не возвратятся никогда. Производители оборудования полагают, что промышленность должна сосредоточиться на увеличении производительности и снижении временного цикла изготовления <Node id="2880"/>ИС<Node id="2882"/> на 300-мм фабриках.
+
+Несмотря на эти сомнения, в <Node id="2932"/>мае с.г.<Node id="2940"/> тройка компаний Intel, Samsung и TSMС заявили о достижении взаимного соглашения, цель которого запустить и провести испытание опытного производства 450-мм подложек в <Node id="3107"/>2012 г.<Node id="3114"/>, и к этому времени подготовить основное технологическое оборудования для опытного производства чипов [2]. По предварительным оценкам, стоимость разработки оборудования и всевозможной оснастки для работы с 450-мм подложками может составить до <Node id="3357"/>100 млрд. долл.<Node id="3372"/> [3].
+
+Основные аргументы Intel, Samsung и TSMC в защиту 450 мм сводятся к двум позициям [1]:
+ на пути уменьшения размеров компонентов <Node id="3507"/>ИС<Node id="3509"/> чипмейкерам придется столкнуться со все более увеличивающей сложностью (а, следовательно, и стоимостью) их изготовления, и переход на 450 мм поможет поддержать разумную стоимость будущих интегральных схем; переход на большие подложки приведет к более эффективному использованию ресурсов (энергии, воды и различных химических реактивов), что будет способствовать очищению окружающей среды. 
+Для скептических производителей оборудования пряником могут стать значительные субсидии, которые они быстро получат, в частности, и от самих чипмейкеров, однако есть и кнут – риск, что значительные капитальные вложения, в конце концов, не окупятся.
+
+Другие крупные чипмейкеры – Indeed, AMD, Chartered, IBM, Hynix, Powerchip, STMicroelectronics и UMC – пока нейтрально относятся к идее тройки. Однако, борьба за экономическое выживание гарантирует тройке сильную оппозицию со стороны средних и небольших компаний-производителей микро- и наноэлектронных изделий. Они-то и составляют довольно большую анти-450-мм толпу, не без оснований полагая, что им не удастся выдержать конкуренцию в новых условиях. Эти компании в партнерстве со скептическими производителями оборудования обеспечат еще длительное балансирование на 300/450-мм качелях [4]. Новые дебаты продолжатся на новой встрече представителей промышленности, организуемой Sematech <Node id="4836"/>20–23 октября с.г.<Node id="4854"/> [5].
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="4836" EndNode="4854">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="760" EndNode="767">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="142" EndNode="151">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="2014" EndNode="2017">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1861" EndNode="1864">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="945" EndNode="947">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="2632" EndNode="2644">
+</Annotation>
+<Annotation Id="16" Type="Травление" StartNode="1588" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="3357" EndNode="3372">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="1112" EndNode="1129">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="142" EndNode="151">
+</Annotation>
+<Annotation Id="23" Type="Дата" StartNode="2932" EndNode="2940">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="3107" EndNode="3114">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="780" EndNode="787">
+</Annotation>
+<Annotation Id="27" Type="Литография" StartNode="1619" EndNode="1629">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="1827" EndNode="1830">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="3507" EndNode="3509">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Персона" StartNode="2880" EndNode="2882">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

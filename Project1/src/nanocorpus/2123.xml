@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Тюменские и американские ученые поделились опытом создания технопарковТюмень. Международный симпозиум «Трансфер университетских технологий и инновационный менеджмент природных ресурсов» собрал в Тюменском госуниверситете ведущих ученых города и американских профессоров.
+
+В программе встречи — обсуждение опыта создания и функционирования технологических парков в США, значение технопарков в региональной экономике, а также пути сотрудничества инновационных центров России и Америки.
+ 
+«<Node id="487"/>Тюменский регион нуждается в развитии наукоемкого производства, поэтому он стал одним из семи регионов России, где идет активное развитие технопарка. Правительство России выделяет немалые средства для того, чтобы в Тюмени появился инновационный центр федерального масштаба<Node id="759"/>», — заявил проректор по научной и инновационной работе ТюмГУ Александр Шалабодов<Node id="840"/>.
+ 
+По его словам, Тюменский госуниверситет не только активно принимает участие в разработке Западно-Сибирского технопарка, но и создает собственную крупную инновационную структуру.
+ 
+«В <Node id="1027"/>сентябре 2008 г.<Node id="1043"/> технопарк ТюмГУ начнет работать в новом здании на ул. <Node id="1098"/>Ленина<Node id="1104"/>, 23, строительство которого уже началось. Там будут собраны все start-up компании, которых в составе технопарка станет шесть к <Node id="1232"/>концу текущего года<Node id="1251"/>», — добавил проректор по научной и инновационной работе.
+ <Node id="1310"/>Александр Шалабодов отметил, что <Node id="1343"/>ТюмГУ сегодня среди 57 вузов Российской Федерации, выбранных для развития инновационных и нанотехнологий, на эти цели университету выделили <Node id="1483"/>более 650 млн рублей<Node id="1503"/>. В рамках университетского технопарка будут функционировать центры коллективного пользования, оборудованные уникальным дорогостоящим оборудованием, работать в них смогут представители всех вузов области.
+ 
+«К сожалению, мы немного запаздываем в создании технопарка, — неслучайно наши ученые ездили в Соединенные штаты Америки, чтобы посмотреть на американский опыт создания инновационных центров на базе университетов. Отрадно, что теперь наши американские коллеги прибыли сюда с ответным визитом. Этот симпозиум откроет короткий путь к созданию эффективного технопарка и поможет вместе грамотно преодолевать препятствия на этом пути», — подытожил он.
+ 
+Отметим, что <Node id="2171"/>25 сентября<Node id="2182"/> ТюмГУ посетит научная делегация из Франции. Они обсудят с руководством вуза создание на базе технопарка мощной лаборатории по теплофизике. Французская сторона готова выделить на этот проект <Node id="2373"/>1 млн евро<Node id="2383"/>.
+Агриппина <Node id="2395"/>Паламарчукhttp://www.t-l.ru/…708437.shtmlНу<Node id="2438"/> вот, процесс пошёл… Ещё Владимир Ильич (Ленин) призывал учиться, учиться и учиться у капиталистов, как нужно вести дела. Отрадно, что потомки вождя не забывают (ценные) заветы Ильича…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="1343" EndNode="1503">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="3" Type="упоминается" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="487" EndNode="840">
+</Annotation>
+<Annotation Id="5" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="2171" EndNode="2182">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1310" EndNode="1503">
+</Annotation>
+<Annotation Id="8" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="11" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="1343" EndNode="1503">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1232" EndNode="1251">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="487" EndNode="840">
+</Annotation>
+<Annotation Id="19" Type="упоминается" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="1310" EndNode="1503">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="23" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="24" Type="Деньги" StartNode="1483" EndNode="1503">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="1098" EndNode="1104">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ленина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="1027" EndNode="1043">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Деньги" StartNode="2373" EndNode="2383">
+</Annotation>
+<Annotation Id="28" Type="Url" StartNode="2395" EndNode="2438">
+</Annotation>
+<Annotation Id="31" Type="темы" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="30" Type="темы" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="34" Type="цитаты" StartNode="487" EndNode="759">
+</Annotation>
+<Annotation Id="35" Type="упоминается" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="32" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="33" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="38" Type="упоминает" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="39" Type="упоминает" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="36" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="37" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+<Annotation Id="40" Type="упоминается_с" StartNode="487" EndNode="1503">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

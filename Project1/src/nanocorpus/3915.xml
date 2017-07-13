@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Бельгийская IBt ведет переговоры с «Роснанотех» о создании СП в РоссииБельгийская компания International Brachytherapy SA (IBt), специализирующаяся на производстве имплантантов, применяемых в радиотерапии, ведет эксклюзивные переговоры с двумя российскими компаниями о создании совместного предприятия (СП) на территории России
+С российской стороны в переговорах участвуют государственная Российская корпорация нанотехнологий («Роснанотех») и ООО «Бебиг». Об этом говорится в сообщении бельгийской компании.
+ В планы IBt входит создание высокотехнологичной компании, которая будет выпускать оборудование, используемое при брахитерапии. IBt готова выступить соинвестором проекта, а также поделиться своими уникальными разработками и технологиями. Общая стоимость СП, которое, как ожидается будет создано в Москве, превысит <Node id="822"/>7 млн. евро<Node id="833"/>. Брахитерапия – метод борьбы со злокачественными образованиями, когда излучающие радиацию имплантанты вводятся в пораженный орган. При этом максимальная доза радиации доставляется непосредственно в опухоль без поражения прилегающих тканей и органов.
+<Node id="1084"/>http://www.k2kapital.com/…/478921.htmlInternational<Node id="1135"/> Brachytherapy SA <Node id="1153"/>(IBt)http://www.ibt.be/index.php?…http://www.hoovers.com/…tsheet.xhtmlОчень<Node id="1228"/> хорошо! Ранее мы уже сообщали о том, что РОСНАНО одобрило первые проекты по медицине и образованию. Значит, процесс не только пошёл, но и развивается далее. А, поскольку это касается весьма социально значимых заболеваний, то хотелось бы, чтобы задержки в этом процессе были бы минимальны, а дело шло бы максимально быстрым темпом…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="822" EndNode="833">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1084" EndNode="1135">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1153" EndNode="1228">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

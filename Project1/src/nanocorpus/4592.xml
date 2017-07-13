@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Уральских школьников обеспечат очками с небьющимися линзами и очками для работы на компьютере<Node id="93"/>1 июля<Node id="99"/>. <Node id="101"/>Interfax-Russia.ru<Node id="119"/> – Школьников Свердловской области, нуждающихся в коррекции зрения, обеспечат очками с небьющимися линзами и очками для работы на компьютере, сказал губернатор Свердловской области Эдуард Россель.
+ Как сообщает департамент информационной политики главы региона, на встрече с руководителем екатеринбургской оптической сети «Очки для вас» Донатом Фейгиным губернатор отметил, что часть затрат по обеспечению средствами коррекции зрения нуждающимся детям возьмет на себя областной бюджет.  
+«Разработки предприятия будут учтены в новой программе "Школьная медицина», которая реализуется в Свердловской области", – сказал <Node id="737"/>Э.Россель<Node id="746"/>.
+ 
+Он также отметил, что в рамках этой программы каждый школьник будет проходить обязательную проверку зрения.
+Как сообщил агентству «Интерфакс-Урал» генеральный директор предприятия Д.Фейгин, в <Node id="942"/>настоящее время<Node id="957"/> половина россиян нуждается в коррекции зрения. Особенно это необходимо детям – профилактика глазных болезней, коррекция зрения, защита глаз при работе на компьютере.
+ «<Node id="1126"/>Изготовление, обработка и нанесение покрытий на очковые линзы производится c помощью нанотехнологий», – отметил Д.Фейгин<Node id="1246"/>.
+  
+«Линзы без специальных оптических покрытий сегодня можно называть только полуфабрикатом», – подчеркнул он.
+ 
+Екатеринбургское предприятие по изготовлению очковых линз, оптических покрытий, фильтров различного назначения было создано <Node id="1484"/>в начале 90-х годов прошлого века<Node id="1517"/> бывшими специалистами ФГУП «ПО "Уральский оптико-механический завод».
+<Node id="1588"/>http://www.interfax-russia.ru<Node id="1617"/>/…day/289.html?…«Изготовление, обработка и нанесение покрытий на очковые линзы производится c помощью нанотехнологий» – интересная, а, главное, исчерпывающая информация. Остаётся только позавидовать уральским детишкам, которых будут обеспечивать такими очками…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="93" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1484" EndNode="1517">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1126" EndNode="1246">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1588" EndNode="1617">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="101" EndNode="119">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="942" EndNode="957">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="737" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="1126" EndNode="1246">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

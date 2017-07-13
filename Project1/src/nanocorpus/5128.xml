@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Нанотехнологии получили новый мощный инструмент исследования и прототипирования <Node id="81"/>наноструктур<Node id="93"/>. Две разные команды ученых в США смогли с помощью цепей ДНК направить самосборку <Node id="175"/>наночастиц<Node id="185"/> золота<Node id="192"/> в трехмерную структуру.
+
+Обычно наноразмерные базовые блоки формируют вполне определенные структуры методом самосборки. Довольно трудно заставить их сформировать что-либо другое, особенно если речь идет о контроле формы и размера готовой структуры во всех трех измерениях.
+
+Однако ученые <Node id="481"/>Чэд Майркин<Node id="492"/> (Chad Mirkin) и Джордж Шатц (George Schatz) из Северозападного Университета (Northwestern University) смогли заставить молекулу ДНК направлять сборку <Node id="643"/>наночастиц<Node id="653"/>-блоков.
+
+Параллельно с Чэдом и Джорджем работала команда ученых под руководством Олега Ганга (Oleg Gang) из Национальной Лаборатории Брукхэвена (Brookhaven National Laboratory). Они пошли по аналогичному пути, прикрепляя к молекуле ДНК <Node id="890"/>наночастицы<Node id="901"/> золота<Node id="908"/>.
+
+В проведенном ими эксперименте была сформирована <Node id="960"/>трехмерная <Node id="971"/>наноструктура<Node id="984"/> с кристаллической симметрией из <Node id="1017"/>золотых <Node id="1025"/>наночастиц<Node id="1035"/>. При этом молекулы ДНК играли роль лесов. На которых располагались строительные блоки-<Node id="1122"/>наночастицы<Node id="1133"/>.
+
+<Node id="1136"/>Наночастицы<Node id="1147"/> размером всего 10 нанометров присоединялись к цепям ДНК, и как только молекула встречала комплементарный участок с такой же <Node id="1272"/>наночастицей<Node id="1284"/> на конце, формировалась пара строительных блоков. Благодаря удачному расположению. Комплементарных участков разных пар ДНК-<Node id="1408"/>наночастица<Node id="1419"/> была сформирована трехмерная сетка из <Node id="1458"/>наночастиц<Node id="1468"/>.
+
+После формирования структуры ученые ее нагрели для того, чтобы удалить фрагменты ДНК и получить завершенную золотую <Node id="1587"/>наноструктуру<Node id="1600"/>.
+
+Чэд уверен, что в будущем ученым удастся формировать из <Node id="1659"/>наночастиц<Node id="1669"/> не только кубические структуры, но и пирамиды, и геометрию посложнее. Вся прелесть метода заключается в леком программировании молекул ДНК, которая выступает в роли лесов для <Node id="1845"/>наночастиц<Node id="1855"/>.
+
+Ученые говорят, что их открытие будет полезно в наноэлектронике, фотонике и другом производстве <Node id="1954"/>наноструктур<Node id="1966"/> заданного типа.
+
+О своей работе они сообщили в журнал Nature.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Трехмерная+наноструктура" StartNode="960" EndNode="984">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1272" EndNode="1284">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="1587" EndNode="1600">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1136" EndNode="1147">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="175" EndNode="185">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1845" EndNode="1855">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1408" EndNode="1419">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="890" EndNode="901">
+</Annotation>
+<Annotation Id="14" Type="Наночастица+золота" StartNode="175" EndNode="192">
+</Annotation>
+<Annotation Id="15" Type="Наночастица+золота" StartNode="890" EndNode="908">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1659" EndNode="1669">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица+золота" StartNode="1017" EndNode="1035">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="971" EndNode="984">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="1122" EndNode="1133">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="481" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Майркин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Наноструктура" StartNode="1954" EndNode="1966">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="1458" EndNode="1468">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="643" EndNode="653">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="1025" EndNode="1035">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Наноструктура" StartNode="81" EndNode="93">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

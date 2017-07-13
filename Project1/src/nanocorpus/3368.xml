@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Сайт Нанометр поздравляет всю прекрасную половину Человечества с Международным Женским <Node id="89"/>днем<Node id="93"/>, желает весеннего настроения и великих достижений в области <Node id="154"/>наноматериалов<Node id="168"/> и нанотехнологий! 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="89" EndNode="93">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="154" EndNode="168">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

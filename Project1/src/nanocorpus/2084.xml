@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Волна наноинтереса со стороны <Node id="31"/>правительства<Node id="44"/> не может остаться не понятой «в народе». Ведь это ж – плевое дело, думают политики!
+
+Если уже в ларьках сигареты NanoTek продают, то это ж проще, чем семечки лущеные продавать – тут даже лущить не надо!
+
+Эка невидаль, подумаешь – наука! Не сложнее чего другого. И общественность понимает: купил забугорного нанотеха на пару миллионов и там подкрутил, сям наладил, и, глядишь, что-то свое и образуется…
+
+Вот для ознакомления с предметом рекомендуем просто отличную былину в стиле «нанотех по-нашему» от 3D News!
+А дело вот какое. Мне братья из cлободы, <Node id="597"/>Илья<Node id="601"/> да Мишка, все уши прожужжали – говорят, есть в заморских странах нанотехнологии интересные, расчудесные. У кого они есть, быть тому здоровым и богатым, говорят. А у кого нету – бедным и больным. Так и я думаю, Ленька – хватит нам соболями торговать, пора бы и нанотехнологиями заняться. Так что добудь мне нанотехнологий, да в достатке, чтобы самим хватило и торговать можно было. А если что, дружок твой, <Node id="1008"/>Генка<Node id="1013"/>-приказчик, тебе поможет, да ты и сам до того, как купцом стал, в приказчиках ходил, так что службу государеву знаешь.Так как дело важное, ты, Ленька, рублей из казны не жалей, кого надо – покупай. Чай, не оскудела еще земля русская талантами? А не сыщешь мне нанотехнологий в срок, не сносить тебе головы на плечах!Пришел Ленька к себе домой, закручинился, запечалился. А как не закручиниться? Дело-то нешуточное. Собрал к себе мужей знатных да видных, стали думать, как быть, да где бы нанотехнологий этих достать. Как водится в таких случаях, вызвали на вече боярское богатырей русских, Илью Муромца, Добрыню Никитича да Алешу Поповича. Стали вопрошать их – не видели ли где нанотехнологий, не слышали ли чего.
+Все целиком – здесь: ИТ-байки: как Добрыня Никитич отчизну от нанотехнологий спасал</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="597" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Илья</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1008" EndNode="1013">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Генка</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="31" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

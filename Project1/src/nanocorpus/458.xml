@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Данное фото, несомненно, вызывает чувство, что вот-вот из своего первого обиталища появится наноцыплёнок, а может кто-нибудь ещё… Вот уже и скорлупка треснула…
+
+В процессе <Node id="172"/>электроосаждения<Node id="188"/> меди на индифферентную подложку могут формироваться микрокристаллы, содержащие дефекты дисклинационного типа и имеющие одну или шесть осей симметрии пятого порядка (т.е. имеющие соответственно декаэдрический или икосаэдрический габитус). Наличие дисклинаций в таком микрокристалле может приводить к образованию полости в нём, вскрытие которой может осуществляться либо химическим <Node id="569"/>травлением<Node id="579"/> поверхности, сопровождающееся утонением оболочки, либо соответствующей термообработкой. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Травление" StartNode="569" EndNode="579">
+</Annotation>
+<Annotation Id="1" Type="Электроосаждение" StartNode="172" EndNode="188">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

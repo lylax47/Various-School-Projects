@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Она будет создана в областном <Node id="31"/>Минпромэнерго при участии ученых<Node id="63"/>.
+Предполагаемый срок действия программы – <Node id="106"/>с 2008 до 2015 года<Node id="125"/>.
+
+Как считают специалисты, нанотехнологии позволят получать более прочные металлы. Финансировать эти разработки будут областной бюджет и частные инвесторы, – сообщает агентство «Интерфакс».
+<Node id="316"/>http://www.echoekb.ru/…/mn7/118568/Что-то<Node id="357"/> уж больно скромно рассказывают об этой программе. Ранее-то было больше шуму и обещаний. Подождём, может быть, со временем станет известно больше…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="106" EndNode="125">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="31" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минпромэнерго при участии ученых</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="316" EndNode="357">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

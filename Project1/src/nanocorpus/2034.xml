@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Евразийский университет имени Гумилева выпустил первых студентов по программе PHDДокторантуру успешно прошли 33 человека. Поздравить новоиспеченных молодых ученых и вручить им долгожданные дипломы сегодня в вуз пришли депутаты <Node id="227"/>Парламента<Node id="237"/> и представители Министерства образования и науки.
+
+Реализация докторских программ в ЕНУ начата <Node id="333"/>три года назад<Node id="347"/>, <Node id="349"/>полтора года<Node id="361"/> студенты изучают теорию и еще <Node id="392"/>полтора года<Node id="404"/> проходят практику, в том числе и за рубежом – в США, европейских и азиатских странах.
+ Сейчас в Евразийском национальном университете по 13 направлениям обучаются 130 докторантов. Очередная партия вскоре отправится проходить практику по специальностям «нанотехнологии», «информационные технологии», «космическая деятельность» в Малайзию и Японию. Ашке Ерген выпускник: 
+Сегодня получив диплом, в будущем я думаю и стараюсь служить на благо Казахстана и казахстанской науки. Я благодарен всем за то, что предоставили мне такую возможность защитить докторантуру.
+ <Node id="967"/>http://www.khabar.kz/index.cfm?…Евразийский<Node id="1010"/> университет имени Гумилеваhttp://<Node id="1044"/>www.emu.kz/Очень<Node id="1060"/> интересный эксперимент, достойный как минимум всестороннего внимания и изучения…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="967" EndNode="1010">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1044" EndNode="1060">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="392" EndNode="404">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="227" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Парламента</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="333" EndNode="347">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="349" EndNode="361">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

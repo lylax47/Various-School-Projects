@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Роснаука<Node id="8"/> формирует тематику и объемы финансирования работ и проектов на 2009 годФедеральное агентство по науке и инновациям в рамках мероприятий ФЦП «Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на <Node id="258"/>2007–2012 годы<Node id="272"/>» предлагает всем заинтересованным лицам принять участие в формировании на <Node id="347"/>2009 год<Node id="355"/> тематики и объемов финансирования работ и проектов в рамках мероприятий Программы.
+Принимаются заявки на формирование на <Node id="477"/>2009 год<Node id="485"/> тематики и объемов финансирования работ по следующим программным мероприятиям ФЦП: блок «Генерация знаний», мероприятия 1.2–1.6  Мероприятие 1.3 «Проведение проблемно-ориентированных поисковых исследований и создание научно-технического задела в области индустрии наносистем и материалов»  блок «Разработка технологий», мероприятия 2.2–2.6, 2.7 (в части работ, предлагаемых бизнес-сообществом)  Мероприятие 2.3 «Осуществление комплексных проектов, в том числе разработка конкурентоспособных технологий, предназначенных для последующей коммерциализации в области индустрии наносистем и материалов»  блок «Коммерциализация технологий», мероприятие 3.2.  Мероприятие 5.2 «Развитие сети центров коллективного пользования научным оборудованием»  Мероприятие 5.3. Развитие системы демонстрации новых достижений и трансфера передового опыта по проблемам развития науки и инноваций. 
+Предложения на формирование тематики и объемов финансирования работ и проектов представляются в виде заявок, подготовленных в соответствии с утвержденными и размещенными на официальном сайте <Node id="1553"/>Роснауки<Node id="1561"/> формами.
+ Рассмотрение заявок начнется с <Node id="1603"/>30 сентября 2008 года<Node id="1624"/>. Заявки принимаются с <Node id="1647"/>31 июля 2008 г.<Node id="1662"/> — момента опубликования извещения на официальном сайте <Node id="1718"/>Роснауки<Node id="1726"/>. Подробную информацию Вы можете узнать, посетив официальный сайт <Node id="1792"/>Федерального агентства по науке и инновациям<Node id="1836"/>.
+<Node id="1838"/>http://www.fasi.gov.ru/…konkurs2008/http://www.bochvar.ru<Node id="1895"/>/…news_010808/Сообщение, особенно интересное для тех, кто собирается подавать заявку на гранты и финансирование проектов по соответствующей тематике. Рекомендую внимательно ознакомиться со всем списком «Блоков» и «Мероприятий». Возможно, вы сможете найти там что-то ещё, что заинтересует вас в том или ином аспекте… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1553" EndNode="1561">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаука</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="477" EndNode="485">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="1718" EndNode="1726">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаука</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1838" EndNode="1895">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="347" EndNode="355">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="347" EndNode="355">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="477" EndNode="485">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1647" EndNode="1662">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаука</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="258" EndNode="272">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="1792" EndNode="1836">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федерального агентства по науке и инновациям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1603" EndNode="1624">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

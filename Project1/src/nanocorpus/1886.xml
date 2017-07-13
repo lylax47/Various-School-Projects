@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сергею Иванову показали суперносНа встрече с первым вице-премьером России Сергеем Ивановым, российские ученые описали ему практическое применении нанотехнологий и рассказали об изобретении «наноноса».
+Первый вице-премьер России Сергей Иванов поручил председателю наблюдательного совета по нанотехнологиям, рассмотреть предложения об использовании созданного на базе нанотехнологий «искусственного носа», способного обеспечивать безопасность.
+
+Соответствующее поручение Иванов подписал во время приема граждан в общественной приемной правительства, где он побеседовал с рядом ученых, которые просили содействовать внедрению эффективных нанотехнологий как в медицину, сельское хозяйство и транспорт, так и строительную индустрию.
+
+По словам руководителя <Node id="752"/>Наноцентра<Node id="762"/> МЭИ Андрея Алексенко, на основе <Node id="795"/>наночастиц<Node id="805"/> ученые разработали «нанонос», который позволяет обеспечивать безопасность, «все унюхивает». Иванов предложил запотентовать название изобретения.
+Андрей Алексенко
+Кроме того, ученые сообщили, что разработали биозащиту, состоящую из <Node id="1037"/>наночастиц<Node id="1047"/>, которые способны помочь в ликвидации социально опасных болезней.
+ 
+«<Node id="1117"/>Эту биозащиту можно наносить и в больницах и в тюрьмах», – пояснил Алексенко<Node id="1193"/>.
+ 
+Он отметил, что биоматериалы, также состоящие из <Node id="1246"/>наночастиц<Node id="1256"/>, позволяют следить за организмом человека после принятия лекарств. Это своего рода датчик, которые показывает, как отреагировал организм человека на лекарства.
+
+Руководитель <Node id="1431"/>Наноцентра<Node id="1441"/> также предложил применять <Node id="1468"/>наночастицы<Node id="1479"/> железа для предпосевной обработке семян, которые, по <Node id="1533"/>его<Node id="1536"/> мнению, повышают урожайность на <Node id="1569"/>20%<Node id="1572"/>.
+ 
+«Кроме того, обработанные перед посевом семена не гибнут», – отметил ученый.
+ 
+По его словам <Node id="1669"/>наночастицы<Node id="1680"/> могут использоваться и на железной дороге. Так изобретенные «наношпалы» способны отслеживать пропавшие вагоны и контейнеры.
+
+Собеседники также просили Иванова поспособствовать производству нанобетона.
+ 
+«<Node id="1885"/>Мы стоим на стадии промышленного производства, но у нас есть некоторые проблемы», – сказал гендиректор ООО «Эверест К» Павел Эрман<Node id="2015"/>,<Node id="2016"/> пояснив, что золоотвалы, которые используются при производстве нанобетона, для них недоступны.
+ 
+Руководство РАО ЕЭС, в чьем распоряжении находится огромное количество золоотвалов, препятствуют их использованию.
+ 
+«Я дам поручение министру образования и науки Андрею Фурсенко, который является председателем наблюдательного совета по нанотехнологиям. Я при вас подписываю это поручение. Он и вас проинформирует, и меня», – сказал первый вице-премьер.
+ 
+Кроме того, как сообщает РИА «Новости», Иванов обещал поговорить с Леонидом Меламедом, возглавляющим госкорпорацию по нанотехнологиям, для урегулирования вопроса по золоотвалам.
+ 
+«Стране нужен цемент, наступил строительный бум», – сказал первый вице-премьер РФ.
+ <Node id="2734"/>http://www.dni.ru/…/119225.htmlНарод<Node id="2770"/> уже не хочет ждать, когда там ещё «власти» и госкорпорации «раскачаются». Народ делегирует «ходоков»… Возможно, это будет ещё одним мощным фактором развития отечественной НТ…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1885" EndNode="2015">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1117" EndNode="1193">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1885" EndNode="2015">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1117" EndNode="1193">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1246" EndNode="1256">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1669" EndNode="1680">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="2015" EndNode="2016">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="2015" EndNode="2016">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="752" EndNode="762">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наноцентр</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="2734" EndNode="2770">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="1533" EndNode="1536">
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="1468" EndNode="1479">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="795" EndNode="805">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="1431" EndNode="1441">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наноцентра</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Процент" StartNode="1569" EndNode="1572">
+</Annotation>
+<Annotation Id="33" Type="Наночастица" StartNode="1037" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

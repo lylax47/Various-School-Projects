@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Команде исследователей из университета Тайваня (National Taiwan University) удалось разработать новую разновидность экрана на <Node id="127"/>органических <Node id="140"/>светодиодах<Node id="151"/> (<Node id="153"/>OLED<Node id="157"/>), отличающуюся высокой контрастностью в условиях яркого внешнего освещения.
+
+Как говорят ученые,их изобретение предназначено, в первую очередь, для мобильных устройств – телефонов, цифровых фото- и видеокамер и КПК. Экраны на <Node id="384"/>органических <Node id="397"/>светодиодах<Node id="408"/> уже давно соперничают с традиционными панелями на основе жидких кристаллов, как в портативной технике, так и в экранах для домашних кинотеатров.
+
+В последнем случае им удаётся продемонстрировать просто удивительно высокую контрастность. Однако в случае с мобильными устройствами обеспечить должный контраст картинки, особенно на солнце — трудно. Тем более, что для мобильных устройств (в отличие от телевизоров) критически важно и энергопотребление экрана.
+
+В обычных экранах с <Node id="887"/>OLED<Node id="891"/> причиной снижения контрастности на внешнем свету служит необходимый диоду задний отражающий электрод, который возвращает к зрителю немало света, даже тогда, когда данный пиксель выключен (показывает чёрную точку изображения).
+
+Предыдущие попытки повысить контрастность <Node id="1161"/>светодиода<Node id="1171"/> приводили к потере фотонов и потому оставались малоэффективными. Исследователи из Тайваня решили проблему неожиданным образом: они, используя методы производства полупроводниковых чипов, позади каждого тончайшего <Node id="1385"/>светодиода<Node id="1395"/> разместили по крошечной солнечной батарейке.
+
+Впервые, утверждают авторы работы, солнечные фотоэлектрические преобразователи стали частью самого дисплея, хотя встраивание солнечных батарей в портативную электронику — не новость. Но тут важно, что почти чёрная поверхность солнечной ячейки поглощает внешний свет, мешающий повысить контраст картинки, а также — внутреннюю эмиссию <Node id="1775"/>OLED<Node id="1779"/>, обычно теряемую без пользы.
+
+Полученная энергия тратится на работу того же диода, снижая его расход энергии. Хотя, понятно, КПД такого цикла сбережения энергии невысок. В опытном образце он составил <Node id="1980"/>0,26%<Node id="1985"/>. Учёные, впрочем, утверждают, что его можно заметно повысить.
+
+Необходимо подчеркнуть, что возврат небольшой части теряемой энергии — лишь побочное действие данной технологии. А вот значительно более глубокий чёрный цвет, который способен показать новый экран — главный результат новации. Ведь коэффициент отражения внешнего света у новых <Node id="2325"/>OLED<Node id="2329"/> удалось снизить с <Node id="2348"/>70%<Node id="2351"/> до <Node id="2355"/>1,4%<Node id="2359"/>, без потери в светоизлучающих способностях диода.
+
+Как говорят ученые. в недалеком будущем новый <Node id="2457"/>OLED<Node id="2461"/>-экран сможет вытеснить старые его варианты из мобильной электроники.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Органический+светодиод" StartNode="384" EndNode="408">
+</Annotation>
+<Annotation Id="2" Type="Светодиод" StartNode="1161" EndNode="1171">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="2355" EndNode="2359">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Органический+светодиод" StartNode="153" EndNode="157">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="140" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Органический+светодиод" StartNode="2457" EndNode="2461">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="2348" EndNode="2351">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1980" EndNode="1985">
+</Annotation>
+<Annotation Id="11" Type="Органический+светодиод" StartNode="127" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Органический+светодиод" StartNode="887" EndNode="891">
+</Annotation>
+<Annotation Id="14" Type="Светодиод" StartNode="397" EndNode="408">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Светодиод" StartNode="1385" EndNode="1395">
+</Annotation>
+<Annotation Id="16" Type="Органический+светодиод" StartNode="2325" EndNode="2329">
+</Annotation>
+<Annotation Id="19" Type="Органический+светодиод" StartNode="1775" EndNode="1779">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

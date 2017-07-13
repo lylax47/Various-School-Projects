@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Красивые витражи древних церквей и храмов не только украшали помещение, но и очищали в нем воздух, выяснили химики из Технологического университета Квинсленда.
+
+Витражами было украшено множество храмов по всей средневековой Европе. Различные цвета стеклу придавали добавки <Node id="274"/>наночастиц<Node id="284"/> золота<Node id="291"/> и других металлов.
+
+Именно благодаря золоту освещаемое и нагреваемое солнечными лучами стекло изменяло состав проходящего воздуха. Все благодаря тому, что мельчайшие частицы металла, получая энергию от солнечных лучей, разрушали загрязняющие воздух вещества, например, летучие органические соединения (VOC).
+
+Эта органика придаёт введенным в эксплуатацию помещениям особый запах «новизны» (вредные соединения испускают стены, мебель и даже ковры). Между тем она даже в малых дозах вредна для человека не меньше, чем метанол или монооксид углерода.
+
+Продуктом реакции очистки был углекислый газ, но его количество было столь мало, что для человека оно было абсолютно безопасным.
+
+Доцент QUT <Node id="982"/>Чжу Хуай<Node id="990"/> Юн теперь смеется: мастера-стекольщики даже и не подозревали, что по сути являлись нанотехнологами.
+
+«<Node id="1093"/>Веками<Node id="1099"/> люди наслаждались этими великолепными произведениями искусства, отчасти потому что цвета долго сохранялись, но никто не задумывался, что сегодня цветные стекла назовут "фотокаталитическими очистителями воздуха на основе наноструктурного золота», — рассказывает <Node id="1361"/>Чжу<Node id="1364"/> в пресс-релизе университета.
+
+Он также добавляет, что использование золота в витражах предопределило его будущую судьбу как катализатора многих химических реакций, проводимых современными учеными, пишет Мembrana.
+
+Жаль только, что эксперты ничего не говорят о влиянии других металлов, а ещу о том, что цветные стекла подчас скреплялись в единое целое свинцовыми перемычками.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1093" EndNode="1099">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1093" EndNode="1364">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="274" EndNode="284">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="1093" EndNode="1364">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="1093" EndNode="1364">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1093" EndNode="1364">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="982" EndNode="990">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чжу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1361" EndNode="1364">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чжу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица+золота" StartNode="274" EndNode="291">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

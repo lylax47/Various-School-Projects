@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания Magnolia Optical Technologies (Woburn, Massachusetts, США) сотрудничает с Kopin Corporation (Westboro, Massachusetts, США) в разработке солнечных элементов на основе <Node id="176"/>наноструктур<Node id="188"/> с внедренными <Node id="203"/>квантовыми точками<Node id="221"/> нитрида индия (InN) для применений в космических системах <Node id="280"/>НАСА<Node id="284"/> и системах Министерства оборона США. Цель разработок – создать элементы с высокой эффективностью преобразования солнечного излучения в электрическую мощность и устойчивостью к экстремальным условиям эксплуатации.
+
+Структуры с InN <Node id="515"/>квантовыми точками<Node id="533"/> могут поглощать значительно большую часть солнечного спектра при минимальном влиянии высоких температур. Фотоны с энергиями ниже зоны запрещенных энергий полупроводника проходят через прибор, не поглощаясь, и, таким образом, не вкладывая в фотогенерируемый ток. Фотоны с высокой энергией могут поглощаться, и освобождаемые при этом электроны затем собираются и вытягиваются более низким напряжением, не превышающим ширину зоны.
+
+Квантовые эффекты в наноструктурируемых материалах способны радикально изменить работу традиционных полупроводниковых приборов. Например, можно расширить полезную часть солнечного спектра, если увеличить рабочее напряжение введением квантовых ям и <Node id="1211"/>квантовых точек<Node id="1226"/> в зону запрещенных энергий широкозонного материала. Предсказывают ультравысокую эффективность преобразования для солнечных элементов, которые собирают и низко- и высокоэнергетичные фотоны солнечного спектра при высоком рабочем напряжении.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="176" EndNode="188">
+</Annotation>
+<Annotation Id="1" Type="Квантовая+точка" StartNode="515" EndNode="533">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="1211" EndNode="1226">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="280" EndNode="284">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Квантовая+точка" StartNode="203" EndNode="221">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

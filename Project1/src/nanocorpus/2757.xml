@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Сотрудники Univ. Saskatchewan (Канада) рассмотрели возможность использования молекулы ДНК с включениями ионов кобальта Co+2 (M-DNA) в качестве канала полевого транзистора. Энергетический спектр металлических ионов очень чувствителен к внешнему электрическому полю, смещение уровней происходит вследствие эффекта Штарка. В результате изменяется величина прыжковой проводимости электронов вдоль молекулы ДНК. По оценкам, десятикратное изменение проводимости возможно при приложении напряжения 1В между электродами затворов, расположенных на расстоянии 5нм друг от друга. По сравнению с современными кремниевыми полевыми транзисторами это очень скромный результат, ведь в них перепад тока составляет 1 000 000. Тем не менее, работы по применению молекулярных объектов продолжаются. По-видимому, только использование природных эталонных объектов в сочетании с самоорганизацией позволит преодолеть большой разброс параметров и большие технологические трудности формирования искусственных наноэлектронных структур. Nanotechnology 18, 095205 (2007) Перст (<Node id="1050"/>В.Вьюрков<Node id="1059"/>) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1050" EndNode="1059">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вьюрков</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

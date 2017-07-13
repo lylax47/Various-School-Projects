@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Rensselaer Polytechnic Institute (США) разработали метод компактизации пучков <Node id="96"/>нанотрубок<Node id="106"/>. Такие плотные пучки отлично проводят электрический ток и однажды могут заменить медные контакты в компьютерных чипах. 
+ 
+Теоретические расчеты показали, что проводимость плотноупакованных <Node id="296"/>углеродных <Node id="307"/>нанотрубок<Node id="317"/> может превосходить проводимость меди. Но обычные методы синтеза <Node id="382"/>нанотрубок<Node id="392"/> позволяют получать лишь реденькие «заросли». 
+ 
+James Jiam-Qiang Lu и Zhengchun Liu решили заняться поиском способов денсификации уже выращенных пучков <Node id="545"/>нанотрубок<Node id="555"/>. 
+ 
+Команда ученых выяснила, что погружение вертикально выращенных пучков <Node id="630"/>нанотрубок<Node id="640"/> в органические растворители (например, изопропиловый спирт) и последующая сушка позволяют значительно увеличить плотность пучков. Такое явление объясняется так называемой капиллярной коалесцецией. Когда растворитель испаряется, капиллярные силы заставляют <Node id="897"/>нанотрубки<Node id="907"/> сближаться и связываться при помощи Ван-дер-ваальсовых взаимодействий. Плотность пучков <Node id="996"/>нанотрубок<Node id="1006"/> увеличивается в 25 раз. На плотность и конечную форму пучка оказывают сильное влияние такие факторы, как высота, диаметр трубок и начальное расстояние между ними. 
+ 
+Такое значительное увеличение плотности не является пределом. Более того, для практического использования пучков в качестве замены меди, необходимо дальнейшее уплотнение. 
+ 
+По словам ученых, уплотненные пучки <Node id="1383"/>нанотрубок<Node id="1393"/> могут стать основой трехмерных компьютерных чипов с новой архитектурой, в которой компоненты чипа размещаются в вертикальных стеках. 
+ 
+Также успешно может использоваться большая площадь поверхности пучков <Node id="1600"/>нанотрубок<Node id="1610"/>. Это особенно важно при разработке электродов для суперконденсаторов и водородных топливных элементов, а также в любых ситуациях, где требуется высокая электро- и теплопроводность и хорошие механические характеристики. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="296" EndNode="317">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="382" EndNode="392">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="630" EndNode="640">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="897" EndNode="907">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1600" EndNode="1610">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="545" EndNode="555">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="96" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="307" EndNode="317">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="996" EndNode="1006">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1383" EndNode="1393">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

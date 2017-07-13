@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>В течение последних двух лет<Node id="29"/> Франция фокусирует свое внимание на электронных и медицинских нанотехнологиях. Поддержка этих технологий продолжает оставаться приоритетом для <Node id="173"/>правительства<Node id="186"/>, которое внедрило лучший в Европе исследовательский налоговый кредит в деятельность сектора по исследованиям и развитию, где <Node id="312"/>50%<Node id="315"/> расходов на исследование и развитие могут быть возмещены в <Node id="375"/>первый год<Node id="385"/>.
+
+В результате сейчас существует множество признанных компаний и несколько основных конкурентных групп в данном секторе: Minalogic de Grenoble (LETI, STMicroelectronic), System@tic, Provence-Alpes-Côte d'Azur, которые обеспечивают решение коммуникативных задач для групп компаний, а также различные навыки в наноэлектронике в академических исследовательских центрах LETI, LAASI, LPN, IEFI, IEMN, FEMTO. Производители и исследовательские центры внесли огромный вклад в индустрию микроэлектроники в качестве нескольких глобальных ключевых игроков: телекоммуникационных операторов (France Telecom), производителей электронного оборудования телеком и поставщиков услуг (Alcatel, Sagem), а также производителей «умных» карточек (Gemalto, Oberthur, ASK).
+
+Многие иностранные партнеры выбрали Францию для организации собственной промышленной и исследовательской деятельности (NXP, Atmel, Freescale, Renesas). Их выбор обусловлен наличием во Франции обучающих центров, центров по исследованию и частных компаний. В <Node id="1393"/>октябре 2007<Node id="1405"/> NXP торжественно открыл свой новый глобальный отдел по исследованию и развитию, предназначенный для миниатюризации полупроводников, с новой штаб-квартирой в Caen в Нормандии.
+
+Калифорнийская компания Monolothic Power, оцененная компанией Deloitte как одна из самых динамично растущих компаний в Кремниевой Долине, открыла свою штаб-квартиру в Bernin-Crolles (Isère) в <Node id="1774"/>январе 2007 года<Node id="1790"/>. Boc Edwards, из группы Linde, перевела свою штаб-квартиру из Лондона в Гренобль, чтобы быть ближе к своим клиентам в секторе электроники и работать с лучшими экспертами в данном регионе.
+
+Philippe Favre, Президент Агентства Invest in France, говорит: «Микроэлектроника иллюстрирует постоянные стремления к использованию инноваций: затраты на исследования и развитие составляют <Node id="2169"/>около 15%<Node id="2178"/> товарооборота и производственная линия усовершенствуется, чтобы следить за появлением новых технологических достижений, и представляет инвестиции в размере <Node id="2335"/>около 20%<Node id="2344"/> товарооборота.»
+
+Агентство Invest in France (IFA) занимается продвижением и упрощением международных инвестиций во Франции. Сеть IFA функционирует по всему миру. IFA работает в партнерстве с региональными агентствами по развитию и предлагает международным инвесторам возможности бизнеса и индивидуальное обслуживание во всей Франции. Для более детальной информации, пожалуйста, посетите <Node id="2732"/>www.investinfrance.org.<Node id="2755"/>
+Для более детальной информации: <Node id="2788"/>www.investinfrance.org.<Node id="2811"/> Cynthia.odsi@
+<Node id="2826"/>investinfrance.org<Node id="2844"/> Emmanuelle.vigne@
+<Node id="2863"/>missioneco.org<Node id="2877"/> (<Node id="2879"/>Эмманюэль Винь<Node id="2893"/> – руководитель отдела) Marina.smirnova@
+<Node id="2934"/>ubifrance.fr<Node id="2946"/> (Смирнова Марина – пресс-атташе пресс-службы Ubifrance) Тел. (495) 937 24 58 </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1774" EndNode="1790">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="312" EndNode="315">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="173" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2826" EndNode="2844">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2934" EndNode="2946">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="2335" EndNode="2344">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1393" EndNode="1405">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="2169" EndNode="2178">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="375" EndNode="385">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2788" EndNode="2811">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2863" EndNode="2877">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1" EndNode="29">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="2732" EndNode="2755">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2879" EndNode="2893">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Эмманюэль</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

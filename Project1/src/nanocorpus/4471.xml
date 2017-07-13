@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Наночастицы<Node id="12"/> серебра полученные восстановлением солей серебра в водном растворе. 
+Беспорядок! 
+В беспорядке можно разглядеть додекаэдр и три икосаэдра. 
+(Оптимизацией выхода последних и посвящена эта работа) 
+Изображение сканирующей (растровой) электронной микроскопии слегка раскрашено, 
+дабы не оставлять электроны печально "серыми" :) 
+ 
+    
+ 
+      
+ 
+  
+ 
+                    
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

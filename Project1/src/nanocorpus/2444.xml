@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство РФ поручило представить в <Node id="40"/>январе 2008 г.<Node id="54"/> проекты стратегии обеспечения единства измерений и плана мероприятий по ее реализацииМОСКВА, <Node id="148"/>21 сентября<Node id="159"/> – Правительство РФ на заседании <Node id="192"/>20 сентября<Node id="203"/> поручило представить в <Node id="227"/>январе 2008 г<Node id="240"/> проекты стратегии обеспечения единства измерений и плана мероприятий по ее реализации. Об этом сообщила сегодня правительственная пресс-служба.
+
+Разработка документов возложена на Минпромэнерго и Минобрнауки РФ <Node id="452"/>совместно<Node id="461"/> с Минздравсоцразвития, Минобороны, Минсельхозом, Минэкономразвития и другими заинтересованными федеральными органами исполнительной власти.
+Правительство РФ требует обратить особое внимание при разработке стратегии на следующие вопросы:
+ совершенствование госрегулирования в области обеспечения единства измерений, направленного, в том числе на создание механизмов межведомственной координации работ в этой области; повышение научно-технического уровня государственных первичных, вторичных и рабочих эталонов единиц величин, технических средств Государственной службы времени, частоты и определения параметров вращения Земли; создание стандартных образцов состава и свойств веществ и материалов, перспективных средств измерений, формирование фонда стандартных справочных данных; повышение эффективности государственного метрологического контроля и надзора; совершенствование нормативно-правового и организационно-методического обеспечения; уточнение условий функционирования системы измерений и определение целевых показателей (индикаторов) деятельности; развитие метрологического обеспечения, в том числе в сферах нанотехнологий и <Node id="1594"/>наноматериалов<Node id="1608"/>; разработку административных регламентов выполнения государственных функций в области обеспечения единства измерений. На заседании одобрен с учетом состоявшегося обсуждения проект федерального закона “Об обеспечении единства измерений” и принято решение о внесении его в <Node id="1880"/>Госдуму<Node id="1887"/>.
+
+Минпромэнерго <Node id="1904"/>совместно<Node id="1913"/> с Минэкономразвития, Минфином и Минобрнауки РФ необходимо обеспечить принятие ведомственной целевой программы развития государственных эталонов.
+
+Минпромэнерго РФ должно представлять ежегодно в 1-м полугодии, начиная <Node id="2131"/>с 2008 г<Node id="2139"/>, доклад в правительство РФ о состоянии в области обеспечения единства измерений.
+<Node id="2221"/>http://www.prime-tass.ru/news/show.asp?…ВСЕРОССИЙСКИЙ<Node id="2274"/> НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ (ВНИИМС)<Node id="2340"/>www.vniims.ruФурсенко<Node id="2361"/> (цитата): Второе важнейшее направление — метрология и сертификация.
+Без должного оснащения метрологических центров, которые обеспечивают выработку и проверку стандартов, сегодня никак нельзя. Ведь сейчас нанопродукцией готовы называть все, что угодно. Поэтому крайне важно «отделить мух от котлет».
+<Node id="2661"/>http://www.nanonewsnet.ru/…gii-v-rossiiСвоевременная<Node id="2713"/> и весьма актуальная проблема, которая уже не раз затрагивалась нами…См. здесь: <Node id="2793"/>http://www.nanonewsnet.ru<Node id="2818"/>/…vsemu-golova</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="192" EndNode="203">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="227" EndNode="240">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="148" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2221" EndNode="2274">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2340" EndNode="2361">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2793" EndNode="2818">
+</Annotation>
+<Annotation Id="8" Type="Властная_Структура" StartNode="1880" EndNode="1887">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдуму</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Партнеры_Клиенты" StartNode="452" EndNode="461">
+</Annotation>
+<Annotation Id="15" Type="Партнеры_Клиенты" StartNode="1904" EndNode="1913">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2131" EndNode="2139">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="2661" EndNode="2713">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="40" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Наноматериал" StartNode="1594" EndNode="1608">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

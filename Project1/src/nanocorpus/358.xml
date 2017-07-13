@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Петербурге создали уникальное оборудованиеС помощью которого можно выпускать cупер-современные электроприборы на основе нанотехнологийВ Петербурге ученые-физики создали уникальное оборудование, с помощью которого можно выпускать cупер-современные электроприборы на основе нанотехнологий. При этом их уровень будет гораздо выше зарубежных аналогов.
+В Санкт-Петербургском физико-техническом научно-образовательном центре Российской академии наук уже <Node id="450"/>год<Node id="453"/> работает единственная в России установка, на которой можно производить полупроводниковые <Node id="543"/>наноструктуры<Node id="556"/> не только для исследовательских, но и промышленных целей.
+
+Вот из этой пластины, на которую <Node id="649"/>в течение нескольких часов<Node id="675"/> наносились слои атомарной толщины может быть изготовлено несколько тысяч приборов транзисторов или лазеров.
+
+Парадоксально, но факт – результаты исследований академика <Node id="844"/>Алферова<Node id="852"/>, за которые он был удостоен Нобелевской премии, и без которых невозможно было создание мобильных телефонов или а DVD дисков, практическое применение нашли за границей – России всегда приходится наверстывать отставание.
+Виктор Устинов, зам. председателя Санкт-Петербургского физико-технологического научно-образовательного центра РАН:
+ 
+У нас как мы знаем, изделий радиоэлектроники, сопоставимых по качеству с теми, которые производятся на Западе и Востоке, в <Node id="1312"/>настоящее время<Node id="1327"/> нет. И важнейшая задача развития нанотехнологий, мне кажется, состоит в том, чтобы создать отечественную индустрию, отечественный рынок, которые бы был насыщен изделиями отечественного производства.
+  
+Результаты могут быть ощутимы уже в <Node id="1566"/>ближайшее десятилетие<Node id="1587"/>. Например, ученые предсказывают, что <Node id="1625"/>светодиоды<Node id="1635"/> созданные на основе нанотехнологий, вскоре смогут вытеснить лампы накаливания, что даст гигантскую экономию энергии. Революционные изменения назревают в самых разных областях знаний – от химии до биологии.
+ Виктор Михайлович Устинов 
+Научные представления создавались в <Node id="1906"/>последние десятилетия<Node id="1927"/>. Сейчас задача перехода к практике, к производству, к тому чтобы показать а что же это дает для реальной жизни, реальных приборов.
+ И решать эту задачу предстоит с помощью развития нанотехнологий.
+<Node id="2125"/>http://beta.tvc.ru/showNews.aspx?…Санкт-Петербургский<Node id="2178"/> физико-технологический научно-образовательный центр <Node id="2231"/>РАНhttp://edu.ioffe.ru/Кафедра<Node id="2261"/> физики и технологии <Node id="2282"/>наноструктурhttp://edu.ioffe.ru/…us/index.htmРаботают<Node id="2335"/> люди… Чего-то создают, изобретают, обучают студентов. Здорово всё раскрутил <Node id="2412"/>Жорес Иванович (Алферов)<Node id="2436"/>. За рубежом обо всём этом хорошо знают. А вот в своей стране об этом мало что известно. Почему? Нет пророка в своём отечестве? Не любят <Node id="2573"/>Жореса Ивановича<Node id="2589"/>? Дескать, состоит «не в той» партии?.. Несерьёзно всё это. Пора бы «кое-кому» поврослеть и перестать играть в эти детсадовские игры… А ЭТИ ребята – молодцы! Новых им успехов и достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1312" EndNode="1327">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2573" EndNode="2589">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2125" EndNode="2178">
+</Annotation>
+<Annotation Id="3" Type="Светодиод" StartNode="1625" EndNode="1635">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1906" EndNode="1927">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2282" EndNode="2335">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2231" EndNode="2261">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="450" EndNode="453">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="543" EndNode="556">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2412" EndNode="2436">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1566" EndNode="1587">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="844" EndNode="852">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="649" EndNode="675">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

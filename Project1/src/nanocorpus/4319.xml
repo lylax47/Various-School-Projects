@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Японцы стали лауреатами <Node id="24"/>Нобеля<Node id="30"/> по физикеТрое японских ученых – Йотиро Намбу, Макото Кобаяси и <Node id="94"/>Тосихидэ Масакава<Node id="111"/> – стали лауреатами Нобелевской премии по физике за <Node id="163"/>2008 год<Node id="171"/>, сообщил во вторник <Node id="192"/>Нобелевский комитет<Node id="211"/>.
+Йотиро Намбу получит половину от общей суммы Нобелевской премии за открытия в области субатомной физики. Вторую половину награды разделят Макото Кобаяси и <Node id="368"/>Тосихидэ Масакава<Node id="385"/> за открытие в области физики кварков, сообщает «Интерфакс».
+Надо сказать, что в преддверии <Node id="477"/>7 октября<Node id="486"/> многие СМИ выдвигали самые невероятные предположения об именах лауреатов Нобелевской премии по физике.
+ К примеру, научная редакция шведского радио была уверена, что премию дадут французскому физику Алану Аспекту. Он доказал способность двух фотонов сообщаться друг с другом независимо от расстояния между ними.  Другие средства массовой информации говорили, что в <Node id="852"/>нынешнем году<Node id="865"/> обладателями награды могут стать астрономы, открывшие эксопланеты – планеты, которые находятся на орбите иных, нежели Солнце, звезд. Предлагался еще один возможный вариант – премию получат исследователи, работающие в области популярной ныне сферы нанотехнологий. 
+Как того требуют правила, на Нобелевскую премию может претендовать лишь тот автор, научные статьи которого публикуются в рецензируемой печати. К тому же, открытие не должно быть оторвано от действительности и быть по-настоящему важным для мира. Именно поэтому практики получают Нобелевскую премию гораздо чаще, чем теоретики.
+ Сайт газеты «Комсомольская правда» напоминает, что в <Node id="1510"/>прошлом году<Node id="1522"/> обладателями Нобелевской премии в области физики стали француз Альберт Ферт и немецкий ученый Петер Грюнберг. Им удалось открыть метод «гигантского магнетосопротивления», который позволяет значительно уменьшить в размере компьютерные жесткие диски. 
+Как сообщали ранее Дни.Ру, церемония вручения премий пройдет в Стокгольме и Осло <Node id="1854"/>10 декабря<Node id="1864"/>, в <Node id="1868"/>день<Node id="1872"/> кончины ее основателя Альфреда Нобеля – шведского изобретателя, промышленника, лингвиста, философа и гуманиста.
+<Node id="1985"/>http://www.dni.ru<Node id="2002"/>/…/150638.htmlДа, на этот раз нанотехнологов, что называется, «обнесли»… Но, как говорится, не всё коту масленница. Тем более, что есть для них и другие премии – типа премии Кавли. Подождём другого раза, тем более что в предстоящий период могут быть сделаны и новые, очень знАчимые открытия и изобретения, от которых выиграет всё человечество. А у нас в стране возникнет, наконец, отечественная наноиндустрия… Поздравляем новых лауреатов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1985" EndNode="2002">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="163" EndNode="171">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="477" EndNode="486">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="852" EndNode="865">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1510" EndNode="1522">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="163" EndNode="171">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="368" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тосихидэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1868" EndNode="1872">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="94" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тосихидэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Властная_Структура" StartNode="192" EndNode="211">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Нобелевский комитет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="1854" EndNode="1864">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="24" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Нобель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

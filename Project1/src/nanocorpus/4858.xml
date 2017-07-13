@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Концепт Nokia Scentsory выглядит довольно необычно. Это мобильное коммуникационное устройство, которое будет работать с запахами, звуками, прикосновениями и изображениями.
+
+Наряду с базовыми аудио- и видеофункциями, Scentsory сможет определить, передать и создать запахи. Устройство также меняет цвета, подсветку и температуру в зависимости от окружающей среды, в которую попало. Экран состоит из двух половинок, на которых находится сенсорная панель, колонки, скрытая камера и <Node id="479"/>сенсоры<Node id="486"/> температуры.
+
+В разработке этого устройства огромную роль сыграли нанотехнологии. Автор такого необычного проекта – <Node id="603"/>Кимберли Ху<Node id="614"/> (Kimberly Hu). Когда телефон находится в плоском положении, доступна сенсорная панель, два экрана и стереоколонки для видеосвязи. В открытом положении показываются два экрана, скрытая камера, колонки, внутренние детекторы запахов, передатчик и <Node id="859"/>сенсоры<Node id="866"/> температур. В закрытом положении тонкий телефон хорошо исполняет свою главную задачу – совершает обычные звонки.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="859" EndNode="866">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="479" EndNode="486">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="603" EndNode="614">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кимберли</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

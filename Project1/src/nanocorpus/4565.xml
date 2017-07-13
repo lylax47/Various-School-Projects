@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Японские ученые во главе с профессором <Node id="40"/>Тошио Фукудой<Node id="53"/> (Prof. Toshio Fukuda) факультета проектирования микро-нано систем университета Нагойи (Department of Micro-Nano Systems Engineering at Nagoya University) разработали нанопипетку, позволяющую дозировать объемы растворов меньшие одного фемтолитра. 
+ 
+В качестве иглы в нанопипетке используется органическая <Node id="359"/>нанотрубка<Node id="369"/> длиной 10 мкм, внутренним и внешним диаметрами 50 и 400 нм соответственно. Для получения нанопипетки <Node id="471"/>нанотрубку<Node id="481"/> закрепляли в стеклянной микропипетке с внутренним диаметром 1.8 мкм, заполняя оставшееся между нано- и микротрубками пространство смолой, затвердевающей под действием света. Дозировать объем подаваемой через пипетку жидкости планируется с помощью прикладываемого к <Node id="747"/>нанотрубке<Node id="757"/> электрического напряжения. 
+ 
+У подобных нанопипеток есть большой потенциал использования в медицине, так как их рабочие объемы позволяют проводить операции с отдельными клетками (объем 1 клетки примерно 1000 фемтолитров), вводя либо извлекая крошечные количества вещества, не повреждая при этом клетку. 
+ 
+Следует отметить, что это далеко не первое сообщение о разработке инструментов для дозировки жидкостей в нанообъемах с использованием <Node id="1199"/>нанотрубок<Node id="1209"/>. Ранее Нанометр уже сообщал о достижениях американских ученых в данной области. Будем надеяться, что скоро сможем услышать и об успехах отечественных ученых в данной области. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="40" EndNode="53">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тошио</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1199" EndNode="1209">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="471" EndNode="481">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="747" EndNode="757">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="359" EndNode="369">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Л. И. ГречихинНаночастицы и нанотехнологии Издательство: Право и экономика (Минск), <Node id="84"/>2008 г.<Node id="91"/> Мягкая обложка, 76 стр. ISBN 978–985–442–509–2 Тираж: 300 экз. Формат: 60×84/16 От издателя
+<Node id="184"/>Дан<Node id="187"/> краткий анализ полученным результатам по формированию сложных молекул, кластеров и кластерных структур; наноструктурным металлам, сплавам и керамическим материалам; методам получения <Node id="371"/>углеродных <Node id="382"/>наноматериалов<Node id="396"/>; взрывным технологиям в строительстве; электрическим и магнитным свойствам <Node id="472"/>наноматериалов<Node id="486"/>, а также возможности компьютерного моделирования сложных кластерных структур и нанотехнологии.
+<Node id="582"/>http://www.ozon.ru/…/id/4012670/Брошюра<Node id="621"/> издана в Минске. Очевидно, это издание малым тиражом лекций или собственных работ д-ра ф.-м. наук Леонида Ивановича Гречихина (профессора <Node id="760"/>Минского<Node id="768"/> гос. высшего авиационного колледжа), почему её и нет в отечественных магазинах. Ну, думаю, для тех, кто сильно заинтересуется этими вопросами не составит труда найти автора и связаться с ним и получить от него все необходимые сведения. Пожелаем им успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="582" EndNode="621">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродный+наноматериал" StartNode="371" EndNode="396">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="84" EndNode="91">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="382" EndNode="396">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="184" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="472" EndNode="486">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="760" EndNode="768">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Минский</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

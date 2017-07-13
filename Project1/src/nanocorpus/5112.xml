@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>11 ноября<Node id="9"/> состоялась <Node id="21"/>встреча генерального директора РОСНАНО Анатолия Чубайса<Node id="76"/> <Node id="77"/>с Премьер-министром Египта Ахмедом НазыфомРуководство<Node id="130"/> Российской корпорации нанотехнологий (РОСНАНО) впервые встретилось с представителями официальных властей Египта. Мероприятие прошло в теплой дружественной атмосфере.
+
+Встреча прошла в рамках официального четырехдневного визита в Россию делегации Египта во главе с Премьер-министром Ахмедом Назыфом. В составе делегации в Россию также прибыли министр туризма, нефти, промышленности и торговли, транспорта и группа крупных предпринимателей.
+
+В ходе беседы генеральный директор Российской корпорации нанотехнологий Анатолий Чубайс<Node id="658"/> <Node id="659"/>познакомил египетских коллег с деятельностью, которую ведет РОСНАНО. <Node id="728"/>Он<Node id="730"/> рассказал о поддержке, предоставляемой корпорацией частным инвесторам, как российским, так и иностранным.
+В свою очередь Ахмед Назыф детально осветил прогресс Египта в сфере нанотехнологий, в частности, в таких областях как очистка воды и медицина. Египет проводит активную политику сотрудничества со всеми передовыми державами в области нанотехнологий. В ходе беседы премьер-министр страны уделил особое внимание возможному сотрудничеству с Россией.
+
+В заключение встречи Анатолий Чубайс пригласил египетских коллег на Международный форум по нанотехнологиям, который пройдет <Node id="1307"/>с 3 по 5 декабря<Node id="1323"/> в Москве. Премьер-министр Египта с удовольствием принял приглашение, выразив уверенность, что участие Египта в мероприятии, проводимом в России, станет хорошим стартом для сотрудничества между двумя странами.
+ Ахмед Назыф также пригласил представителей РОСНАНО нанести ответный визит в Египет, чтобы на месте определить конкретные направления для совместной работы. <Node id="1690"/>http://www.rusnano.com/…ication.aspx?…Расширение<Node id="1738"/> международных связей – это благое дело. Чем более разветвлённой и густой будет сеть сотрудничества с другими странами, с международными организациями и между отдельными НИИ и исследователями, тем больше выиграют от этого все стороны и всё человечество в целом…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="658" EndNode="659">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="76" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1307" EndNode="1323">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="658" EndNode="659">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="76" EndNode="77">
+</Annotation>
+<Annotation Id="7" Type="встречи_и_переговоры" StartNode="21" EndNode="130">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="728" EndNode="730">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1690" EndNode="1738">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

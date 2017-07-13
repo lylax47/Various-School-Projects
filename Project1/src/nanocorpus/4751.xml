@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Модельеры и ученые-текстильщики подняли «функциональную одежду» на новый уровень. Они создали одежду, которая может предотвращать простуду и грипп и не нуждается в стирке. Другой материал разрушает вредные газы, защищая владельца от смога и грязного воздуха.
+
+Двуцветное золотое платье и куртка из хлопчатобумажной ткани с металлическим отливом, показанные при демонстрации мод Лиги Дизайна Корнелла <Node id="401"/>21 апреля<Node id="410"/>, содержат хлопковые ткани, покрытые <Node id="447"/>наночастицами<Node id="460"/>, которые придают им функциональные качества, которые никогда прежде не появлялись в мире моды. Созданная <Node id="566"/>Оливией Онг<Node id="577"/> (Olivia Ong) одежда частично состоит из материалов, разработанных учеными Джуаном Хинестрозой (Juan Hinestroza) и Хонгом Донг (Hong Dong).
+«Мы думаем, что это один из первых случаев, когда нанотехнология вошла в мир моды,» — сказал Хинестроза. Он отметил, что у одежды есть один существенный недостаток — цена: один квадратный ярд хлопка с <Node id="918"/>наночастицами<Node id="931"/> стоил бы приблизительно <Node id="956"/>$10 000.<Node id="964"/>
+
+Платье и куртка, часть оригинальной модной линии под именем «Избранные» («Glitterati»), выглядят невинно. Но более близкий осмотр — с микроскопом — показывает, что армия электростатически заряженных <Node id="1165"/>наночастиц<Node id="1175"/> создает защитный щит вокруг хлопковых волокон в верхней части платья, и рукавов, капюшона и карманов куртки.
+«Это действительно движение к будущему и реально современно, — сказала <Node id="1356"/>Онг<Node id="1359"/>, которая заканчивает колледж в <Node id="1391"/>декабре<Node id="1398"/> и хочет поступать в школу дизайна. — Я думаю, мода потенциально может стремиться к этому.»
+Донг объяснил, что ткани были опущены в раствор, содержащий <Node id="1550"/>наночастицы<Node id="1561"/>, синтезируемые в лаборатории Хинестрозы. Получающиеся цвета – не результат окрашивания, а скорее, результат изменения размеров частиц или их структуры.
+
+Верхняя часть платья содержит хлопок, покрытый серебряными <Node id="1774"/>наночастицами<Node id="1787"/>. Донг сначала создал положительно заряженные хлопковые волокна, используя аммоний и эпоксидную смолу. Серебряные частицы размером приблизительно 10–20 нанометров синтезировались в лимонной кислоте, которая предотвратила слипание <Node id="2017"/>наночастиц<Node id="2027"/>. Погружение положительно заряженного хлопка в раствор отрицательно заряженных <Node id="2106"/>наночастиц<Node id="2116"/> серебра привело к осаждению последних на хлопковые волокна.
+
+Серебро обладает естественными антибактериальными свойствами, которые усилены в <Node id="2258"/>наночастицах<Node id="2270"/>, таким образом, у платья появляется способность обезвреживать множество вредных бактерий и вирусов. Серебро также уменьшает потребность в стирке одежды, так как разрушает бактерии, и небольшой размер частиц предотвращает пачкание и появление пятен.
+
+Куртка из хлопчатобумажной ткани включает капюшон, рукава и карманы с мягким серым твидовым хлопком, содержащим <Node id="2633"/>наночастицы<Node id="2644"/> палладия, приблизительно 5–10 нанометров в длину. Чтобы создать материал, Донг также осадил отрицательно заряженные частицы палладия на положительно заряженные хлопковые волокна. <Node id="2824"/>Онг<Node id="2827"/> включила в куртку хлопковую ткань, разрушающую вредные вещества смога. Такие свойства были бы полезными для страдающих аллергией, или просто для того, чтобы защитить владельца от вредных газов, которых достаточно в переполненных или загрязненных городах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="918" EndNode="931">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1774" EndNode="1787">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="401" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="2633" EndNode="2644">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="2017" EndNode="2027">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="566" EndNode="577">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Оливия</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="447" EndNode="460">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2258" EndNode="2270">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1550" EndNode="1561">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="2106" EndNode="2116">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1356" EndNode="1359">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Онг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1165" EndNode="1175">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2824" EndNode="2827">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Онг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="956" EndNode="964">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="1391" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

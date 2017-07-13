@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Алмазы рассматриваются как потенциальный материал для изготовления неподвижной фазы, использующейся в высокоэффективной жидкостной хроматографии.
+ Павел Нестеренко и <Node id="167"/>его<Node id="170"/> коллеги из МГУ им. М.В. Ломоносова смогли достичь эффективного разделения смесей ароматических углеводородов, используя в качестве неподвижной фазы для высокоэффективной жидкостной хроматографии (ВЭЖХ) наноразмерные алмазы.
+ Для хроматографии всегда актуальна задача улучшения свойств неподвижной фазы хроматографической колонки – ведь от этого зависит селективность и эффективность разделения. За все время существования метода исследователи всего мира опробовали на роль неподвижных хроматографических фаз множество материалов различного состава и строения, однако лишь немногие из «кандидатов» получили работу в качестве наполнителя для хроматографических колонок. Дело в том, что для неподвижной фазы ВЭЖХ предъявляются серьезные требования по механической и химической устойчивости.
+ Алмазы представляют собой идеальные материалы для наполнения хроматографических колонок. Причина в этом высокая твердость алмазов, а также их химическая стабильность. Механохимические свойства алмазов позволяют использовать их как при высоких температурах, высоком давлении, так и в присутствие сильных оснований, кислот и органических растворителей. Нестеренко поясняет, что цена природных алмазов, конечно же, высока, однако синтетические <Node id="1401"/>наноалмазы<Node id="1411"/> во-первых, отличаются не очень дорогой стоимостью, а во-вторых, среди них содержатся частицы, отличающиеся хорошей формой.
+ Для окончательного разрешения проблем, связанных с ценой и размером частиц <Node id="1611"/>наноалмазов<Node id="1622"/> Нестеренко разработал технологию агломерации, позволяющие получать <Node id="1690"/>наноалмазы<Node id="1700"/>, удовлетворяющие требованиям ВЭЖХ. Исследователь из МГУ синтезировал поликристаллические пористые частицы алмазов микронного размера, спекая наноазмазы при давлениях до 12000 МПа и температурах до 1200 градусов <Node id="1912"/>Цельсия<Node id="1919"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="167" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноалмаз" StartNode="1690" EndNode="1700">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноалмаз" StartNode="1611" EndNode="1622">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1912" EndNode="1919">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноалмаз" StartNode="1401" EndNode="1411">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

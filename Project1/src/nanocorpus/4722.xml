@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Оригинальная статья профессора Химического факультета МГУ В.В.Еремина<Node id="70"/> <Node id="71"/>о сути тех явлений и процессов, за которые в <Node id="116"/>2007 г.<Node id="123"/> дали Нобелевскую премию по химии (публикуется по предложению Е.А.Ереминой).    
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="116" EndNode="123">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="70" EndNode="71">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="70" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

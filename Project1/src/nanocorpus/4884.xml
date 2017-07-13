@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+ 
+                    
+ 
+            
+Картинка для анонса: Нановселенная: Водолей и <Node id="86"/>Козерог<Node id="93"/> 
+    
+ 
+              
+ 
+  
+ 
+                                                                                                                                      
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="86" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Козерог</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

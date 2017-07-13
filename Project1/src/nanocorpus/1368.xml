@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>13 мая<Node id="7"/> состоялось совместное заседание Бюро Комиссии Российской академии наук по фундаментальным исследованиям в области нанотехнологий во главе с Нобелевским лауреатом <Node id="170"/>Жоресом<Node id="177"/> <Node id="178"/>Алферовым<Node id="187"/> и госкорпорации "Роснанотех.
+
+О его итогах сообщил заместитель руководителя фракции «Единая Россия» в Госдуме, член Наблюдательного совета госкорпорации «Роснанотех», академик РАН Андрей Кокошин:
+
+«Важно, что одно из центральных мест в выступлении Владимира Путина занял вопрос о развитии в России наукоемких производств, фундаментальной и прикладной науки. Наша партия и фракция уделяет этому особое внимание. В ходе сегодняшнего обсуждения нам удалось боле четко определить приоритеты в проведении как фундаментальных, так и прикладных исследований в различных областях, связанных с нанотехнологиями.»
+
+Очень важным аспектом развития такого рода исследований является приборное и методологическое обеспечение, наличие самой современной диагностической техники.
+
+Участники совещания договорились всячески поощрять междисциплинарность, интегральность исследований в области нанотехнологий, ибо именно здесь рождаются наиболее важные результаты в современных условиях. Именно на это, как справедливо отметил в своем выступлении <Node id="1215"/>Жорес<Node id="1220"/> <Node id="1221"/>Алферов<Node id="1228"/>, сейчас необходимо ориентировать наше высшее образование, особенно аспирантуру и магистратуру.
+
+<Node id="1325"/>По словам Кокошина, <Node id="1345"/>‹единороссы› последовательно и целенаправленно занимаются и такими отраслями, как судостроение и авиастроение, о которых особо говорил в своем выступлении Путин<Node id="1505"/>.
+
+<Node id="1508"/>Как отметил Кокошин, <Node id="1529"/>‹Единая Россия› будет самым тесным образом работать с Правительством по развитию этих и ряда других отраслей<Node id="1637"/>.
+
+«<Node id="1641"/>Нам надо очень серьезно заниматься целым рядом технологий для всех уровней кооперации в этих и других отраслях промышленности – среди них электронно-вычислительная техника, сверхвысокочастотная электроника, композитные материалы, различные сплавы с использованием нанотехнологий и др.», – пояснил Андрей Кокошин<Node id="1952"/>.
+
+В этих целях ученые и депутаты, представители промышленности будут предлагать внесение дополнений и изменений в различные учебные планы и программы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1215" EndNode="1220">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1325" EndNode="1505">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1641" EndNode="1952">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="1529" EndNode="1637">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="178" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="1529" EndNode="1637">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1221" EndNode="1228">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="упоминается_с" StartNode="1345" EndNode="1637">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="1529" EndNode="1637">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1641" EndNode="1952">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1508" EndNode="1637">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="1325" EndNode="1505">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="170" EndNode="177">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="1345" EndNode="1505">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="1345" EndNode="1505">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Тональность" StartNode="1215" EndNode="1220">
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="1508" EndNode="1637">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="упоминает" StartNode="1325" EndNode="1952">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="темы" StartNode="1529" EndNode="1637">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

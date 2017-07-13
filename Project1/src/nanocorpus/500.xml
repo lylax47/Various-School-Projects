@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Создана технология <Node id="19"/>литографии<Node id="29"/> с разрешением 25 нанометровМассачусетский технологический институт в лице Марка Шаттенберга и Ральфа Хелманна подарил миру надежду на скорое распространение нового метода <Node id="201"/>литографии<Node id="211"/> для индустрии нанотехнологий. Метод отличается тем, что позволяет получать с помощью <Node id="297"/>травления<Node id="306"/> периодические структуры на подложке размер которых может составлять всего 25 нанометров. Самые передовые технологии, которыми пользуются гиганты индустрии микропроцессоров, позволяют в наши <Node id="497"/>дни<Node id="500"/> работать с размерами от 65 нанометров.
+Dr. Mark SchattenburgDr. Ralf HeilmannТехнология, разработанная бостонскими специалистами и их подопечными студентами, не только позволяет уже сегодня получать периодические <Node id="714"/>наноструктуры<Node id="727"/> с размером, анонсированным традиционными методиками лишь к <Node id="787"/>2015 году<Node id="796"/>. Она существенно проще и дешевле в реализации, а потому может вдохнуть вторую жизнь в наноразработки многих университетов, чахнущих в лабораториях, не имеющих могучей финансовой поддержки.
+ Новая технология получила название сканирующей лучевой интерференционной <Node id="1060"/>литографии<Node id="1070"/> (scanning-beam interference lithography, SBIL). Она базируется на известной технологии интерференционной <Node id="1176"/>литографии<Node id="1186"/>, которую ученые дополнили применением своей собственной разработки, названной нанолинейкой. Технология подразумевает использование звуковых волн с частотой 100 МГц для контроля, дифракции и частотного сдвига волны лазерного излучения, создающего литографический рисунок на поверхности подложки. В результате можно быстро, легко, дешево и очень точно осуществлять <Node id="1550"/>литографию<Node id="1560"/> даже очень больших поверхностей.
+ Разработчики, представившие свои достижения для публикации в следующем номере журнала Optic Letters и на 52-й ежегодной Международной конференции по электронным, ионным и фотонным лучевым технологиям и нанопроизводству в американском городе Портленде. Они уверены, что их технология позволяет добиться предельного разрешения <Node id="1920"/>литографии<Node id="1930"/>, и дальнейшее уменьшение элементов нанострструктур будет лимитироваться неровностями материала подложки. <Node id="2036"/>http://www.gazeta.ru/…241161.shtmlNanoscale<Node id="2079"/> Lithographic Technology: Finer Lines For <Node id="2121"/>Microchipshttp://www.sciencedaily.com/…08124353.htmMIT<Node id="2175"/> reports finer lines for <Node id="2200"/>microchipshttp://www.nanotech-now.com/news.cgi?…Да<Node id="2250"/> уж… Получение размерностей всего 25 нанометров, в то время как самые передовые технологии, которыми пользуются гиганты индустрии микропроцессоров, позволяют в наши <Node id="2415"/>дни<Node id="2418"/> работать с размерами от 65 нанометров. Это круто! Если этот факт подтвердится, то это станет сенсацией и огромным прорывом в области нанотехнологий!.. Надо бы и нашим специалистам подсуетиться в данном вопросе. А то потом уже не догонишь…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="19" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="497" EndNode="500">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2121" EndNode="2175">
+</Annotation>
+<Annotation Id="4" Type="Литография" StartNode="1550" EndNode="1560">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2200" EndNode="2250">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="787" EndNode="796">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Литография" StartNode="1060" EndNode="1070">
+</Annotation>
+<Annotation Id="12" Type="Наноструктура" StartNode="714" EndNode="727">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2036" EndNode="2079">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2415" EndNode="2418">
+</Annotation>
+<Annotation Id="15" Type="Литография" StartNode="1920" EndNode="1930">
+</Annotation>
+<Annotation Id="17" Type="Травление" StartNode="297" EndNode="306">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="787" EndNode="796">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Литография" StartNode="201" EndNode="211">
+</Annotation>
+<Annotation Id="20" Type="Литография" StartNode="1176" EndNode="1186">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>1 декабря 2006 года<Node id="21"/> Министерство образования и науки Российской Федерации объявило о начале конкурсного отбора образовательных учреждений высшего профессионального образования, внедряющих инновационные образовательные программы. Поддержка инновационных вузов является одним из направлений приоритетного национального проекта "Образование". 
+ Конкурсный отбор проводится с целью оказания высшим учебным заведениям государственной поддержки посредством предоставления им субсидий в объёме от 200 до <Node id="499"/>1 млрд рублей<Node id="512"/>. Общий объём финансирования из федерального бюджета составит <Node id="574"/>20 млрд. рублей<Node id="589"/>. Субсидии предоставляются для приобретения лабораторного оборудования, разработки и приобретения программного и методического обеспечения, модернизации материально-технической учебной базы, повышения квалификации и профессиональной переподготовки научно- педагогического и другого персонала вуза. 
+ В конкурсе могут участвовать российские вузы, представляющие свои инновационные программы, реализация которых предусматривается <Node id="1017"/>в течение двух лет<Node id="1035"/> (<Node id="1037"/>2007 - 2008 годы<Node id="1053"/>).
+
+Подробности...&gt;
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="574" EndNode="589">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1017" EndNode="1035">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="499" EndNode="512">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1037" EndNode="1053">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="2" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

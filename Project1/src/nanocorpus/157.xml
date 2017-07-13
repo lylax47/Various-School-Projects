@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+После первых сенсационных сообщений в <Node id="39"/>2004 г.<Node id="46"/> об экспериментальном исследовании <Node id="81"/>графена<Node id="88"/> (монослой графита) [1] к нему сохраняется огромный научный и практический интерес.
+
+Научный интерес вызван совершенно необычной зонной структурой: носители заряда (электроны и дырки) имеют нулевую эффективную массу. Практический интерес вызван тем, что в совершенном <Node id="356"/>графене<Node id="363"/> ожидается огромная подвижность носителей, подобная подвижности в <Node id="429"/>углеродных <Node id="440"/>нанотрубках<Node id="451"/>, т.е. порядка 100 000 см2/В·с при комнатной температуре. Пока, правда, получено 10 000 см2/В·с. Все равно это на порядок выше, чем подвижность носителей в чистом кристаллическом кремнии. Высокая подвижность, в конечном итоге, обуславливает высокое быстродействие приборов, например, транзисторов.
+
+Следует заметить, что привлекательным является не только однослойный истинный <Node id="828"/>графен<Node id="834"/>, но и <Node id="841"/>графен<Node id="847"/>, состоящий из нескольких слоев (FLG). У него, в отличие от истинного <Node id="917"/>графена<Node id="924"/>, уже есть запрещенная зона, как у обычных полупроводников. Наличие запрещенной зоны позволяет сделать ток закрытого состояния полевого транзистора весьма малым, что важно для больших логических схем.
+
+Однако первые структуры из <Node id="1153"/>графена<Node id="1160"/> были крайне нетехнологичными. Чешуйки графита осаждали на подложку (обычно это был слой оксида кремния на кремнии). Среди них были и однослойные (истинный <Node id="1316"/>графен<Node id="1322"/>), и двухслойные, и многослойные. <Node id="1356"/>Потом<Node id="1361"/> их «нашаривали» атомно-силовым микроскопом и наносили сверху металлические электроды. Ясно, что для практических целей такая технология совершенно не годилась. Естественной мечтой стала эпитаксиальная технология: выращивание слоя <Node id="1592"/>графена<Node id="1599"/> непосредственно на подложке.
+
+Японские исследователи из Tohoku University и CREST совсем недавно добились выдающегося результата [2] в этом направлении. Вообще-то, эпитаксиальным ростом <Node id="1786"/>графена<Node id="1793"/> на карбиде кремния SiC занимаются <Node id="1828"/>с 1995 г.<Node id="1837"/> Однако подложки из этого материала неудобны. Предпочтительны кремниевые подложки, которые и используются в современной микроэлектронной промышленности. Компромисс состоит в том, что на кремниевой подложке вначале выращивают слой SiC (т.н. виртуальная подложка), а потом на нем – <Node id="2117"/>графен<Node id="2123"/>. Единственный тип SiC, который растет на кремнии – это (3С-)SiC. Всего же политипов карбида кремния порядка 200. Авторы выбрали особую ориентацию кремниевой подложки ((110) вместо (111)), чтобы кристаллическая симметрия поверхности согласовывалась с сотовой структурой <Node id="2393"/>графена<Node id="2400"/>. К сожалению, симметрия хорошая, но рассогласование постоянных решеток составляет <Node id="2483"/>20%<Node id="2486"/>. Это приводит к напряжениям, а они, в свою очередь – к дефектам. С помощью некоторых уловок авторам удалось снизить температуру процесса эпитаксии на 200°С и получить рекордно совершенные слои <Node id="2680"/>графена<Node id="2687"/>, о чем свидетельствует малая ширина пиков на спектрах рамановского рассеяния (рис.).
+
+На рисунке – спектры рамановского рассеяния для графита на SiO2 (внизу), <Node id="2847"/>графена<Node id="2854"/> на виртуальной подложке (в середине) и <Node id="2894"/>графена<Node id="2901"/> на SiO2 (вверху).
+<Node id="2920"/>В. Вьюрков<Node id="2930"/>
+Автор признателен <Node id="2949"/>В.И. Рыжию<Node id="2959"/> за предоставленный материал.
+ 1. K. S. Novoselov et al. Science 306, 666 (2004) 2. M. Suemitsu et al. Presented at 14th Int. Conf. Solid Films and Surfaces, Dublin, June 30, 2008 (submitted to e-Journal of Surface Science and Nanotechnology) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="917" EndNode="924">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="1786" EndNode="1793">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="429" EndNode="451">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="2680" EndNode="2687">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="1592" EndNode="1599">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="2894" EndNode="2901">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="841" EndNode="847">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1828" EndNode="1837">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="356" EndNode="363">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="2847" EndNode="2854">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="2949" EndNode="2959">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2920" EndNode="2930">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вьюрков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="2117" EndNode="2123">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="440" EndNode="451">
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="1316" EndNode="1322">
+</Annotation>
+<Annotation Id="17" Type="Графен" StartNode="1153" EndNode="1160">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="2483" EndNode="2486">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="81" EndNode="88">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1356" EndNode="1361">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="39" EndNode="46">
+</Annotation>
+<Annotation Id="23" Type="Графен" StartNode="828" EndNode="834">
+</Annotation>
+<Annotation Id="22" Type="Графен" StartNode="2393" EndNode="2400">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

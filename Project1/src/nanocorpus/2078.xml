@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Итальянские модельеры решили не отставать от всего мира и взяться за нанотехнологии. Модельный бизнес становится все более и более высокотехнологичным. Мир уже видел «умные» трико; джинсы с встроенным iPod’ом от Levi Strauss; непромокаемы и водоотталкивающие ткани от Nano-Tex; <Node id="279"/>OLED<Node id="283"/>-дисплеи, нашитые на одежду, которые придают одежде «мультимедийный вид», и многие другие технические новинки.
+
+Итальянские Кутюрье решили не отставать от победного технологического шествия и внести свою лепту в развитие одежды будущего.
+
+Так, например, известная компания United Colors of Benetton заключила контракт с компанией Singular ID Italia для создания специальных меток, которые будут встраиваться в продукцию United Colors of Benetton тем самым подтверждая ее подлинность.
+
+Интересен тот факт, что компании Singular ID Italia всего <Node id="826"/>16 дней<Node id="833"/>, но, <Node id="839"/>как говорит топ-менеджер Стефано Галлуччи, потенциал новой фирмы и собственные инновации позволяют заключать такие громкие контракты<Node id="971"/>.
+
+Основной прицел компании Стефано – маленькие фирмы, развившиеся за <Node id="1041"/>последние 30 лет<Node id="1057"/> в Италии. Как ни странно, именно эти компании с персоналом до 250 человек и оборотом до <Node id="1146"/>50 млн. евро<Node id="1158"/> составляют экономическую основу страны.
+
+Теперь же не только частные компании, но и <Node id="1243"/>правительство<Node id="1256"/> заинтересовано в развитии и изучении нанотехнологий. Поэтому Министерство Образования Италии выделило <Node id="1359"/>26 миллионов евро<Node id="1376"/> по программе VEGA, которая занимается практическим воплощением нанотехнологий в жизнь: их стараниями появились такие продукты, как улучшенный спортивный инвентарь, автомобильные стекла с новым покрытием и многое другое.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="1243" EndNode="1256">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1041" EndNode="1057">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1146" EndNode="1158">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="839" EndNode="971">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="826" EndNode="833">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="839" EndNode="971">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1359" EndNode="1376">
+</Annotation>
+<Annotation Id="9" Type="Органический+светодиод" StartNode="279" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

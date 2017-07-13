@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В МОСКВЕ ОБСУДЯТ ПРОБЛЕМЫ НАНОТЕХНОЛОГИЙ В ГОРОДСКОМ ХОЗЯЙСТВЕ<Node id="62"/>22 ноября<Node id="71"/> в 16:00 в бизнес-центре «Александр Хаус» (ул. Большая Якиманка, д.1) состоится круглый стол на тему «Нанотехнологии в городском хозяйстве: опыт использования, проблемы, законодательное обеспечение».
+
+Как сообщили <Node id="285"/>REGIONS.RU/«Новости<Node id="304"/> Федерации» в пресс-службе верхней палаты российского парламента, вести круглый стол будет председатель Комиссии Совета Федерации по жилищной политике и жилищно-коммунальному хозяйству Олег Толкачев.
+Участники заседания обсудят проблемы и перспективы внедрения нанотехнологий в строительный комплекс России, использования новых технологий в жилищно-коммунальном комплексе, обеспечения здоровья и безопасности людей, а также предотвращения техногенных катастроф.
+
+В работе круглого стола примут участие члены Совета Федерации, представители научных организаций, руководители строительных компаний и другие заинтересованные лица.
+Аккредитацию российских и иностранных журналистов проводит пресс- служба Совета Федерации до 12:00 <Node id="1031"/>22 ноября<Node id="1040"/>.
+
+Телефоны пресс-службы:
+
+692–12–70; 692–18–77; 692–75–25
+
+факс: 692–43–05
+<Node id="1116"/>http://www.regions.ru/news/2110065/Нанотехнологии<Node id="1165"/> и ЖКХ – дело важное и нужное. Тем более, что будут обсуждаться и такие темы, как использование <Node id="1261"/>наноматериалов<Node id="1275"/> в строительстве, в водном хозяйстве, проблемы рисков и разного рода опасностей в использовании НМ и НТ для здоровья человека… Тем более, что обсуждение будет вестись на самом высоком уровне и поэтому не останется незамеченным и «без последствий» (надеемся, в хорошем смысле… ;-))…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="62" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="285" EndNode="304">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1261" EndNode="1275">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1031" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1116" EndNode="1165">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

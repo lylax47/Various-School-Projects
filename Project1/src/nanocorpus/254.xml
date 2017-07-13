@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Свердловская область и Чешская республика видят перспективы сотрудничества в сфере нанотехнологий, промышленности,стройматериалов, автомобилестроении, производстве медицинского оборудования и лекарств. Об этом заявил сегодня губернатор <Node id="237"/>Эдуард Россель на встрече с председателем Палаты депутатов парламента Чешской Республики Милославом Влчеком<Node id="344"/>.<Node id="345"/>
+
+Приветствуя делегацию Чехии, в состав которой входят представители разных политических партий этой страны, <Node id="454"/>Эдуард Россель подчеркнул, что<Node id="484"/>, несмотря на сложности в экономике, которые переживает мир, взаимный товарооборот между Чехией и Свердловской областью в <Node id="606"/>нынешнем году<Node id="619"/> увеличился на <Node id="634"/>65 проц<Node id="641"/> и достиг <Node id="651"/>175 млн долларов<Node id="667"/>. «Особенно хорошие отношения с чешскими партнерами сложились у машиностроительной корпорации «Уралвагонзавод», которая объединяет в <Node id="800"/>настоящее время<Node id="815"/> более 20 предприятий от Санкт-Петербурга до Владивостока. За счет кредитной линии Чешского экспортного банка на сумму в <Node id="936"/>один миллиард евро<Node id="954"/> на Уралвагонзаводе ведется полная модернизация производства», – подчеркнул Россель.
+
+Милослав Влчек, в свою очередь, отметил, что Свердловская область обладает сильным экономическим потенциалом и является приоритетным регионом в развитии сотрудничества Чешской Республики и Российской Федерации. «Прямое сотрудничество с регионами России – важный элемент политики нашего государства», – подчеркнул спикер Палаты депутатов парламента Чехии. Милослав Влчек рассказал также, что вместе с депутатами приехала большая группа предпринимателей, которые готовы к рассмотрению сотрудничества с уральскими коллегами.
+
+Председатель нижней палаты чешского парламента социал-демократ Милослав Влчек начал сегодня официальный визит в Россию. В течение предстоящих <Node id="1705"/>трех дней<Node id="1714"/>, кроме поездки в Екатеринбург, он проведет переговоры со спикером Госдумы Борисом Грызловым<Node id="1806"/>,<Node id="1807"/> руководителями Совета Федераци.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="651" EndNode="667">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="344" EndNode="345">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="606" EndNode="619">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1705" EndNode="1714">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="484" EndNode="667">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="634" EndNode="641">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="936" EndNode="954">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="484" EndNode="667">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="800" EndNode="815">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="484" EndNode="667">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="упоминается" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="484" EndNode="667">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="работает" StartNode="344" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="упоминает" StartNode="454" EndNode="667">
+</Annotation>
+<Annotation Id="26" Type="работает" StartNode="1806" EndNode="1807">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">спикер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="темы" StartNode="484" EndNode="667">
+</Annotation>
+<Annotation Id="31" Type="встречи_и_переговоры" StartNode="237" EndNode="344">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="сотрудники" StartNode="1806" EndNode="1807">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

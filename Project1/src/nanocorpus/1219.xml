@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор, проректор МГУ им.М.В.Ломоносова, начальник Управления академической политики и организации учебного процесса МГУ Статус: Заместитель Председателя 
+<Node id="158"/>Родился 20 апреля <Node id="176"/>1955<Node id="180"/> года<Node id="185"/> в <Node id="188"/>городе Умань Черкасской области<Node id="219"/>.  Окончил химический факультет МГУ (1977). После окончания работал в НИИ физико-химической биологии им. А. Н. Белозерского МГУ и в Международном учебно-научном биотехнологическом центре (МБЦ) МГУ. <Node id="417"/>С 2004 г.<Node id="426"/> – директор МБЦ МГУ. В <Node id="449"/>1998-2002 г.<Node id="461"/> – директор по научно-организационным вопросам Центра молекулярной медицины МГУ, в <Node id="544"/>2002-2006 г.<Node id="556"/> – заместитель декана по учебной работе факультета биоинженерии и биоинформатики МГУ. <Node id="642"/>С 2006 г.<Node id="651"/> – проректор МГУ. Член Ученого совета МГУ, председатель <Node id="707"/>Ученого совета<Node id="721"/> <Node id="722"/>МБЦ<Node id="725"/> <Node id="726"/>МГУ, член Ученого совета факультета биоинженерии и биоинформатики МГУ, член двух диссертационных докторских советов при МГУ. Ученый секретарь <Node id="868"/>Совета Лектория МГУ<Node id="887"/>. Член Президиума и руководитель секретариата Московского общества испытателей природы. Лауреат премии Ленинского комсомола в области науки (1986). Награжден медалью "В память 850-летия Москвы" (1997). Награжден Юбилейным нагрудным знаком "<Node id="1127"/>250 лет<Node id="1134"/> МГУ им. М. В. Ломоносова" (2004). Награжден нагрудным знаком "Почетный работник высшего профессионального образования Российской Ферерации" (2004). В <Node id="1285"/>настоящее время<Node id="1300"/> - начальник Управления академической политики и организации учебного процесса МГУ. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1127" EndNode="1134">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="722" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="417" EndNode="426">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="449" EndNode="461">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="176" EndNode="185">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1285" EndNode="1300">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="725" EndNode="726">
+</Annotation>
+<Annotation Id="13" Type="Дата_рождения" StartNode="158" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="707" EndNode="721">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="544" EndNode="556">
+</Annotation>
+<Annotation Id="17" Type="Властная_Структура" StartNode="868" EndNode="887">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Совета Лектория МГУ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="642" EndNode="651">
+</Annotation>
+<Annotation Id="19" Type="расположение" StartNode="188" EndNode="219">
+</Annotation>
+<Annotation Id="18" Type="работает" StartNode="725" EndNode="726">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

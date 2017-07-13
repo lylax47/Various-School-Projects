@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Согласно исследованиям, проведённым в Ренсселеровском политехническом институте, способность <Node id="94"/>углеродных <Node id="105"/>нанотрубок<Node id="115"/> выдерживать неоднократные нагрузки и при этом сохранять свою структуру и механическую целостность аналогична поведению мягких тканей, таких как мышцы плеч и стенка желудка. 
+ 
+В сочетании с хорошей электропроводностью это качество <Node id="347"/>углеродных <Node id="358"/>нанотрубок<Node id="368"/> делает их материалами, которые могут быть использованы для создания искусственных мышц или интересных электромеханических систем. 
+ 
+По мнению авторов статьи, их работа является первым исследованием усталостных изменений свойств материала на основе <Node id="618"/>углеродных <Node id="629"/>нанотрубок<Node id="639"/>. 
+ 
+Методом CVD исследователи создали двухмиллиметровый квадратный массив вертикально ориентированных многостенных <Node id="755"/>углеродных <Node id="766"/>нанотрубок<Node id="776"/>. <Node id="778"/>Нанотрубки<Node id="788"/> занимали <Node id="798"/>около 10%<Node id="807"/> объёма образца и имели средний диаметр 50 нм. Образец закрепили между стальными пластинами и, при помощи специальной машины, сжимали на <Node id="944"/>15%<Node id="947"/> от исходной высоты с частотой 0,75 Гц. 
+ 
+Даже после 500000 сжатий, массив <Node id="1023"/>нанотрубок<Node id="1033"/> сохранил свою первоначальную форму, механические и проводящие свойства. Не смотря на то, что отдельная <Node id="1137"/>нанотрубка<Node id="1147"/> является упругой, массив <Node id="1173"/>нанотрубок<Node id="1183"/> проявлял вязкоупругие свойства. 
+ 
+Исследователи планируют скомбинировать массив <Node id="1265"/>углеродных <Node id="1276"/>нанотрубок<Node id="1286"/> с различными полимерами для создания материала, который по своим эксплутационным качествам будет соответствовать мягким тканям человека. Кроме того, исследованный материал может быть использован в качестве механически-прочных электрических контактов и соединений. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="629" EndNode="639">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="755" EndNode="776">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="94" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="798" EndNode="807">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1173" EndNode="1183">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1276" EndNode="1286">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1137" EndNode="1147">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="618" EndNode="639">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="944" EndNode="947">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="347" EndNode="368">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1023" EndNode="1033">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="358" EndNode="368">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="1265" EndNode="1286">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="105" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="766" EndNode="776">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="778" EndNode="788">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

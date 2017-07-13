@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии для нанолоховНе успел Владимир Путин рассказать о необходимости развития нанотехнологий, как тут же появились желающие на всех уровнях поддержать его начинание.
+Слово «нанотехнологии» непонятно для подавляющего большинства населения. Поэтому нашлись умельцы, готовые воспользоваться доверчивостью своих сограждан. Спасибо президенту за новый вид лохотрона.
+<Node id="372"/>http://www.apn-spb.ru/…icle3046.htmА<Node id="408"/> причём тут президент? Он-то свою «часть работы» (успешно) проделал. Он же не виноват, что многие «другие» в этой «системе» не дорабатывают…;-)))Ц и т а т а: …Я всегда заставляю всех писать словами, которые выражают мысли внятно и однозначно. Мы сталкиваемся с этим даже в научном сообществе, вообще в области нанотехнологий смешано так же много понятий, как в алхимии. Поэтому одна из важнейших задач «Роснанотеха» — популяризация, объяснение предмета деятельности. И тут нужно сказать о Международном форуме по нанотехнологиям, который мы планируем в <Node id="961"/>декабре<Node id="968"/> <Node id="969"/>этого года<Node id="979"/>, его проведение утверждено наблюдательным советом. «Роснанотех» перед этим форумом ставит достаточно широкий круг задач… <Node id="1101"/>Леонид Меламед: «О нанотехнологии я узнал за <Node id="1146"/>несколько дней<Node id="1160"/> до <Node id="1164"/>назначения<Node id="1174"/>»http://www.nanonewsnet.ru<Node id="1200"/>/…naznacheniya</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1164" EndNode="1200">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="961" EndNode="968">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="1101" EndNode="1174">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="969" EndNode="979">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1146" EndNode="1160">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="372" EndNode="408">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1101" EndNode="1174">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

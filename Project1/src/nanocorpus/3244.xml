@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Уважаемые посетители сайта!
+
+Доводим до вашего сведения, что Московский государственный университет им. М.В.Ломоносова проводит Первую Всероссийскую Интернет-олимпиаду в области <Node id="179"/>наноматериалов<Node id="193"/> и нанотехнологий «Нанотехнологии – прорыв в Будущее!».
+
+Целью олимпиады является поиск и поощрение молодых талантов, желающих участвовать в развитии нанотехнологий в Российской Федерации, в какой бы школе, ВУЗе или другой организации они ни находились. В Олимпиаде может принять участие любой пользователь всемирной сети Интернет в возрасте <Node id="535"/>до 27 лет<Node id="544"/>. Дополнительно победителям-абитуриентам (гражданам РФ) будут даны преимущества при поступлении в МГУ в рамках действующих правил приема, а студенты ВУЗов, показавшие наилучшие результаты, получат, по их желанию, возможность продолжить свою учебу в МГУ. Официальным языком Олимпиады является русский язык.
+Почетный Председатель: Ректор Московского государственного университета им. М.В.Ломоносова, акад. В.А.Садовничий
+Сопредседатели: Проректор, зав. кафедрой общей физики физического ф-та МГУ, проф. А.М.Салецкий, Декан Факультета Наук о Материалах, зав. каф. неорганической химии химического ф-та МГУ, акад. Ю.Д.Третьяков
+
+В жюри олимпиады включены видные ученые и специалисты в области <Node id="1233"/>наноматериалов<Node id="1247"/> и нанотехнологий, члены Российской Академии Наук, профессора МГУ, директора инновационных компаний.
+
+С <Node id="1351"/>1 июня<Node id="1357"/> на сайте <Node id="1367"/>http://www.nanometer.ru<Node id="1390"/> опубликованы задания олимпиады <Node id="1422"/>(http://www.nanometer.ru/…0173184.html).<Node id="1462"/> <Node id="1463"/>В течение одной недели<Node id="1485"/> необходимо решить максимальное количество различных по сложности задач, что и определит победителей олимпиады. Призеров олимпиады ожидают дипломы, грамоты, денежные призы и уникальные ценные подарки.
+Команда сайта Nanotechnology News Network желает вам успехов в свершениях!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="179" EndNode="193">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1463" EndNode="1485">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="535" EndNode="544">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1422" EndNode="1462">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1351" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="1233" EndNode="1247">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1367" EndNode="1390">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

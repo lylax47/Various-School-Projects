@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Шведскими учеными создан новый тип внутриклеточного <Node id="53"/>наносенсора<Node id="64"/>, который измеряет уровень клеточного pH. Как <Node id="110"/>говорят ученые, это может помочь быстро определить даже, здорова клетка или нет.
+
+В роли <Node id="199"/>наносенсора<Node id="210"/> выступают наноштыри из оксида цинка (ZnO – nanorods), чувствительные настолько, что могут определять отдельные химические соединения в разных областях живой клетки.
+
+Традиционный <Node id="390"/>биосенсор<Node id="399"/> состоит из основы и нанесенного на ее поверхность ряда биологических маркеров, реагирующих на различные вещества. Ученые Маркус Вилландер (Marcus Willander) и Сафа Аль-Хилли<Node id="573"/> (Safa Al-Hilli) из Гетеборгского Университета (Göteborg University) решили усовершенствовать технологию <Node id="678"/>биосенсоров<Node id="689"/>, предложив использовать вместо сложной составной системы один кристалл из оксида цинка, который работает непосредственно в качестве детектора химических соединений.
+
+<Node id="856"/>Сенсор<Node id="862"/> представляет собой иглу, на конце которой расположен зонд диаметром 1,4 микрона, состоящий из наноштырей ZnO диаметром 80–100 нанометров и длиной до 900 нм.
+
+Благодаря небольшому размеру наноштырей, кончик зонда может свободно проникать в живую клетку и измерять уровень pH в реальном времени. А из-за большого количества отдельных наноштырей зонд имеет высокую чувствительность, что позволяет измерять даже слабый электрохимический потенциал, вызванный присоединением различных биомолекул к наноштырям на зонде.
+
+Боле того, <Node id="1388"/>наносенсор<Node id="1398"/> достаточно чувствителен для того, чтобы получать сигналы от отдельных органелл, что было ранее невозможно достичь.
+
+Также зонд не делает большие проколы в клеточной мембране, что позволяет сохранить жизнеспособность клетки после измерений.
+
+В последующих опытах ученые планируют уменьшить диаметр зонда для того, чтобы повысить точность измерения рН.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Биосенсор" StartNode="390" EndNode="399">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="53" EndNode="64">
+</Annotation>
+<Annotation Id="3" Type="Биосенсор" StartNode="678" EndNode="689">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="встречи_и_переговоры" StartNode="110" EndNode="573">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="1388" EndNode="1398">
+</Annotation>
+<Annotation Id="9" Type="Сенсор" StartNode="856" EndNode="862">
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="199" EndNode="210">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

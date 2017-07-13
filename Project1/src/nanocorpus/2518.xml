@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Серебряные <Node id="12"/>наночастицы<Node id="23"/> 130 нм закрепленные на металлической подложке. Изображение получено на СЗМ от AIST_NT. Хотя в принципе ПЭМ обеспечивает более высокое разрешиние, конкретно такой образец в нем померять невозможно.    
+ 
+      
+ 
+  
+ 
+              
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="12" EndNode="23">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

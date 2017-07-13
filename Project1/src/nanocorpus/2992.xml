@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Белгороде обсудили будущее медициныУчёные из Москвы, Казани, Томска и Санкт-Петербурга приехали в Белгород, чтобы принять участие в семинаре-совещании, посвящённом проблемам нанотехнологий.
+<Node id="192"/>22 января<Node id="201"/> в Центре <Node id="211"/>наноструктурных материалов<Node id="237"/> и технологий, что на базе Белгородского государственного университета, участники семинара-совещания, среди которых были и медики, и представители бизнес-структур, обсудили вопросы разработки и применения опытно-промышленных технологий получения нового поколения медицинских имплантатов на основе титановых сплавов.
+
+Как прозвучало на совещании, титановые сплавы – вещь крайне полезная. Их с успехом можно применять и в травматологии, и в стоматологии, и в ортопедии, потому как они надёжны и не содержат вредных элементов. Научно-исследовательские разработки уже существуют, осталось только наладить производство сплавов, для чего к делу необходимо подключить коммерсантов.
+Не обошлось на семинаре без презентаций. Белгородские учёные представили гостям свою разработку – ультрамелкозернистый сплав, производство которого планируется наладить к <Node id="1083"/>2010 году<Node id="1092"/>.
+
+Сегодня, <Node id="1104"/>23 января<Node id="1113"/>, семинар-совещание продолжит свою работу. Перед тем, как вновь окунуться в мир научных идей, гости совершат экскурсию по университету.
+Тим <Node id="1253"/>Олеговhttp://www.bel.ru/…3/28393.htmlНу<Node id="1292"/> вот, наблюдается уже некое соперничество между различными организациями, занимающимися использованием титановых сплавов в медицине. До недавнего времени этим плотно занимались главным образом в Кургане, в центре реабилитации им. <Node id="1522"/>Г.Илизарова<Node id="1533"/>. <Node id="1535"/>http://www.nanonewsnet.ru/…rnold-popkov<Node id="1574"/> В последнем случае, правда, наблюдается определённая специфика – лечение переломов костей конечностей, в то время как в Белгороде «охват» медицинской тематики гораздо шире. В любом случае, всё это пойдёт на пользу отечественной НТ и отечественной медицине.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="192" EndNode="201">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1522" EndNode="1533">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Илизаров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1104" EndNode="1113">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="211" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1253" EndNode="1292">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1083" EndNode="1092">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1535" EndNode="1574">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1083" EndNode="1092">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

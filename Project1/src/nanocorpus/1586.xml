@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Всеукраинская конференция молодых ученых "Современное материаловедение: материалы и технологии" будет проходить в конференц-зале Института металлофизики им. Г.В.Курдюмова НАН Украины <Node id="184"/>12–14 ноября 2008 года<Node id="206"/> (Киев ). 
+ 
+ 
+НАУЧНАЯ ПРОГРАММА. На конференции будут заслушаны доклады по направлениям: 
+ 
+· конструкционные материалы; 
+· функциональные материалы; 
+· <Node id="360"/>наноматериалы<Node id="373"/> и нанотехнологии; 
+· методы исследования материалов; 
+· технологии материалов. 
+ 
+РЕГИСТРАЦИЯ УЧАСТНИКОВ. К участию в конференции приглашаются молодые ученые <Node id="532"/>до 35 лет<Node id="541"/>. Для участия в конференции необходимо заполнить не позже <Node id="599"/>15 августа 2008 г.<Node id="617"/> форму регистрации и направить не позже <Node id="657"/>1 сентября 2008 г.<Node id="675"/> в секретариат конференции: материалы доклада в электронном и напечатанном варианте, подписанном всеми авторами; экспертное заключение о возможности публикации материалов в открытой прессе. Для участия в конференции не требуется регистрационный взнос. Регистрация на сайте начнется с <Node id="959"/>30 июня 2008 г.<Node id="974"/> 
+ 
+ПУБЛИКАЦИЯ МАТЕРИАЛОВ 
+ 
+Полные тексты докладов после рецензирования будут опубликованы в специальном выпуске журнала "Металлофизика и новейшие технологии"и сборнике научных работ "Наносистемы, <Node id="1172"/>наноматериалы<Node id="1185"/>, нанотехнологии". Просим бумажные копии рукописей объемом до 7 страниц в двух экземплярах присылать по адресу оргкомитета обычной почтой, а также электронную версию докладов электронной почтой или на электронных носителях - не позже <Node id="1419"/>20 октября 2008 г.<Node id="1437"/> 
+ 
+Для того, чтобы добраться до института металлофизики, следует ехать до станции метро «Академгородок», выходить в направлении бульв. Акад. <Node id="1579"/>Вернадского<Node id="1590"/>. В 500 м находится высотное здание Института.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="532" EndNode="541">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1579" EndNode="1590">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вернадский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="959" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="184" EndNode="206">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="360" EndNode="373">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="599" EndNode="617">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1419" EndNode="1437">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="657" EndNode="675">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1172" EndNode="1185">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

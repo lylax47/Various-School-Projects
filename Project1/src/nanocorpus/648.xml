@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Химический факультет МГУ приглашат поработать в системе дистанционной подготовки к олимпиадам по химии. Система создана преподавателями Химического факультета МГУ, которые <Node id="174"/>много лет<Node id="183"/> составляют олимпиадные задачи и работают с одаренными юными химиками. Ознакомиться с возможностями системы можно в гостевом режиме. Для полноценной работы необходимо зарегистрироваться. До <Node id="373"/>1 июня<Node id="379"/> система находится в стадии тестирования, поэтому регистрация и работа в системе - бесплатная. Если число зарегистрированных участников превысит возможности преподавателей, бесплатная регистрация будет прекращена. Надеемся на ваши замечания, которые помогут улучшить работу системы. 
+ Здесь на химическом факультете собраны трехмерные изображения «наномира», а здесь – тоже изображения, но уже другие.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="373" EndNode="379">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="174" EndNode="183">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

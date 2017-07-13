@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Тайны микромира постигнут со школьной скамьиВ ряде школ Юго-Восточного округа пройдут ознакомительные лекции на тему «Что такое нанотехнологии?»Константин Богданов
+Первую из них уже услышали ребята из Московского казачьего кадетского корпуса имени <Node id="248"/>Шолохова<Node id="256"/>. Прочел ее доктор биологических наук, кандидат физико-математических наук, заместитель главного редактора газеты «Физика» Константин Богданов<Node id="398"/>.<Node id="399"/>
+ 
+<Node id="402"/>Человечество научилось использовать все окружающие нас объекты, – рассказывал Константин Юрьевич<Node id="498"/> кадетам. – Нанотехнологии изучают предметы размером от 0,1 до 100 нанометров. Вскоре, когда ученые смогут заставить работать на себя такие частички, будет возможно изобретение и нанороботов!
+ 
+Лекция прошла на одном дыхании. По словам префекта ЮВАО Владимира Зотова, в округе уже <Node id="779"/>осенью<Node id="785"/> пройдет конкурс наноидей для школьников и студентов. Для всерьез заинтересовавшихся ребят в МГТУ им. Баумана будут организованы курсы для будущих нанотехнологов.
+<Node id="948"/>http://www.vmdaily.ru/article.php?…Для<Node id="986"/> нас Константин Юрьевич уже давно не «чужой человек». О <Node id="1042"/>его<Node id="1045"/> работах мы уже не раз сообщали своим читателям. См., например, здесь: <Node id="1116"/>http://www.nanonewsnet.ru/…otekhnologii<Node id="1155"/> // <Node id="1159"/>http://www.nanonewsnet.ru/…o-i-dostupno<Node id="1198"/> // <Node id="1202"/>http://www.nanonewsnet.ru/…-zanyatiyakh.<Node id="1242"/> Поэтому поздравляем его с новым почином и желаем новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1042" EndNode="1045">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="779" EndNode="785">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="398" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">редактор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="402" EndNode="498">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1116" EndNode="1155">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1202" EndNode="1242">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1159" EndNode="1198">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="398" EndNode="399">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="248" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шолохов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="948" EndNode="986">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="402" EndNode="498">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

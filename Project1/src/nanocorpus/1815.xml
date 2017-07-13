@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Видео-конференция: П.Бородин и <Node id="31"/>И.Наркевич<Node id="41"/> о Союзном государствеТоварооборот Белоруссии и России за время существования Союзного государства увеличился в 7 раз. Об этом заявил сегодня госсекретарь Союзного государства Павел Бородин в ходе состоявшейся в Российской академии государственной службы при президенте РФ видео-конференции.
+
+По прогнозу госсекретаря, по итогам <Node id="370"/>нынешнего года<Node id="384"/> белорусско-российский товарооборот превысит <Node id="429"/>35 млрд долларов<Node id="445"/>.
+ 
+«Таких примеров роста в мире больше нет», – подчеркнул он.
+ <Node id="509"/>Павел Бородин напомнил, что бюджет Союзного государства в <Node id="567"/>2009 году<Node id="576"/> составит 5 млрд российских рублей<Node id="610"/>. Это на <Node id="619"/>20%<Node id="622"/> больше, чем в <Node id="637"/>нынешнем году<Node id="650"/>. Из союзной казны планируется профинансировать свыше 40 совместных программ.
+ «Впервые бюджет Союзного государства был принят в <Node id="779"/>2002 году<Node id="788"/>, и тогда он составил 2,2 млрд. российских рублей, – напомнил госсекретарь. – За это время он вырос более чем в два раза». 
+<Node id="912"/>Как отметил Павел Бородин, <Node id="939"/>большое значение в увеличении товарооборота играет роль сотрудничества Белоруссии с регионами России<Node id="1039"/>.
+ 
+«Беларусь установила экономические связи практически со всеми российскими регионами», – сказал он. При этом подчеркнул, что в структуру белорусско-российской торговли входят не только сырьевые товары, но и продукция высокой степени переработки. Госсекретарь считает, что в этом немалая роль принадлежит союзным программам.
+  Одна из целей Союзного государства – сократить зависимость Белоруссии и России от западных технологий. – Об этом заявила на видеоконференции начальник департамента социальной политики и информационного обеспечения Постоянного комитета Союзного государства Ирина Наркевич. 
+На выполнение этой задачи направлено большинство союзных производственных программ.
+ «<Node id="1727"/>Нужно сконцентрировать финансовые и административные ресурсы в сфере высоких технологий: космос, компьютеры, нанотехнологии», – считает Ирина Наркевич<Node id="1877"/>. По <Node id="1882"/>её<Node id="1884"/> мнению, это позволит создать в Союзном государстве развитую экономику, без чего невозможна мощная поддержка социальной сферы.
+ 
+В ближайшем выпуске интернет-газеты «Время Союза» будут опубликованы основные тезисы выступления Государственного секретаря Союзного государства П.Бородина.
+<Node id="2170"/>http://vreso.ru/ru/issues?…Ну<Node id="2199"/> вот, на общем фоне такого вала негативной информации столько отрадных новостей! Растёт наша совместная экономика, укрепляется сотрудничество между производственниками, учёными, исследователями, НИИ. И это – замечательно! Как говорится, Союз Белорусии и России – к новым победам – вперёд!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="509" EndNode="610">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1882" EndNode="1884">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="509" EndNode="1877">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2170" EndNode="2199">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="637" EndNode="650">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="1727" EndNode="1877">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="619" EndNode="622">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="912" EndNode="1039">
+</Annotation>
+<Annotation Id="15" Type="упоминает" StartNode="509" EndNode="1877">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="779" EndNode="788">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="779" EndNode="788">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="31" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наркевич</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="567" EndNode="576">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="370" EndNode="384">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="939" EndNode="1039">
+</Annotation>
+<Annotation Id="26" Type="Деньги" StartNode="429" EndNode="445">
+</Annotation>
+<Annotation Id="29" Type="высказывания_заявления" StartNode="509" EndNode="610">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="509" EndNode="1877">
+</Annotation>
+<Annotation Id="31" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="упоминается" StartNode="509" EndNode="1877">
+</Annotation>
+<Annotation Id="34" Type="автор" StartNode="1727" EndNode="1877">
+</Annotation>
+<Annotation Id="32" Type="Период_времени" StartNode="567" EndNode="576">
+</Annotation>
+<Annotation Id="33" Type="автор" StartNode="912" EndNode="1039">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

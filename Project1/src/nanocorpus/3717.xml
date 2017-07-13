@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Прогресс в технологии современных портативных электронных устройств приводит к тому, что возникает необходимость в гибких батареях для их питания. Батарея, разработанная учеными из Университета Васеда (Япония) Hiroyuki Nishide, Hiroaki Konishi  иTakeo Suga сделана из органической полимерной пленки толщиной в 200 нм. Полимер содержит нитроксильные радикальные группы, которые могут выступать в роли носителей заряда. 
+Батарея обладает высокой емкостью из-за высокой плотности радикалов, так как на один мономер в полимере приходится два нитроксильных радикала. Для того чтобы полностью зарядить батарею требуется <Node id="615"/>одна минута<Node id="626"/>, при этом батарея выдерживает более 1000 циклов заряд-разряд. 
+Японские ученые полагают, что такие батареи могут быть использованы в микропроцессорах и устройствах хранения информации уже в <Node id="817"/>ближайшие три года<Node id="835"/>. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="817" EndNode="835">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="615" EndNode="626">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Первый в мире композит на основе <Node id="33"/>нанотрубок<Node id="43"/> и <Node id="46"/>графена<Node id="53"/> получен FujitsuНовый композитный материал с самоорганизующейся структурой, о создании которого сообщила Fujitsu Laboratories, изготовляется из двух <Node id="202"/>углеродных <Node id="213"/>наноматериалов<Node id="227"/> – <Node id="230"/>графена<Node id="237"/> и <Node id="240"/>нанотрубок<Node id="250"/>. Первый из них известен высокой мобильностью электронов, тогда как второй характеризуется высокими теплопроводностью и устойчивостью к высокой плотности тока.
+
+Синтез материала, сочетающего все эти уникальные свойства <Node id="469"/>углеродных <Node id="480"/>наноструктур<Node id="492"/>, происходит при температуре 510 градусов <Node id="534"/>Цельсия<Node id="541"/> – ниже, чем у обычного <Node id="565"/>графена<Node id="572"/> -, что упрощает технологию его внедрения в электронные устройствах.
+
+Новый сложный композит, полученный Fujitsu Laboratories, стал первым в мире материалом с одно- и двухмерными элементами (слоями <Node id="770"/>графена<Node id="777"/> и <Node id="780"/>нанотрубками<Node id="792"/>), расположенными перпендикулярно. В ходе эксперимента по <Node id="850"/>химическому осаждению<Node id="871"/> из паровой фазы на подложке из многостенных <Node id="916"/>нанотрубок<Node id="926"/> с самоорганизовавшимися слоями <Node id="958"/>графена<Node id="965"/> (от нескольких до нескольких десятков).
+
+Подробности исследования представлены в г. Нагоя (Япония) на 34-м Генеральном симпозиуме по фуллереновым <Node id="1112"/>нанотрубкам<Node id="1123"/>, проходившем <Node id="1137"/>с 3 по 5 мая<Node id="1149"/>.
+<Node id="1151"/>http://ko.itc.ua/node/34723Fujitsu<Node id="1185"/> Achieves Breakthrough with World's First New Carbon Nanotube <Node id="1247"/>Compositehttp://www.fujitsu.com/…0303-01.htmlСолидная<Node id="1300"/> фирма эта Fujitsu. И работают там серьёзные парни. И уж если они говорят, что это сделано «впервые в мире», то, значит, им надо верить. Теперь очередь наших специалистов сделать что-то подобное, чтобы, если и не опередить, то хотя бы повторить успехи японских коллег. Вот только куда потом это «внедрять»?.. ;-(((</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1112" EndNode="1123">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="534" EndNode="541">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1137" EndNode="1149">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="958" EndNode="965">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1247" EndNode="1300">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Углеродный+наноматериал" StartNode="202" EndNode="227">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="770" EndNode="777">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="565" EndNode="572">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="213" EndNode="227">
+</Annotation>
+<Annotation Id="14" Type="Химическое+осаждение" StartNode="850" EndNode="871">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="916" EndNode="926">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="230" EndNode="237">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Графен" StartNode="46" EndNode="53">
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="1151" EndNode="1185">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="780" EndNode="792">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="33" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="240" EndNode="250">
+</Annotation>
+<Annotation Id="26" Type="Наноструктура" StartNode="480" EndNode="492">
+</Annotation>
+<Annotation Id="28" Type="Углеродная+наноструктура" StartNode="469" EndNode="492">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

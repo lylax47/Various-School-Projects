@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Британии создан бронежилет из нанотрубокМОСКВА, <Node id="50"/>24 октября<Node id="60"/> (<Node id="62"/>АНН<Node id="65"/>) – Ученые факультета материаловедения и металлургии университета Кембриджа создали массовый материал на базе <Node id="175"/>нанотрубок<Node id="185"/>, который может послужить основой для бронежилетов нового поколения.
+Ученые английского университета усовершенствовали технологию производства волокон из <Node id="339"/>углеродных <Node id="350"/>нанотрубок<Node id="360"/>. Эти волокна превосходят по прочности и ряду других показателей (вроде поглощения энергии быстро летящих объектов) нити кевлара и обычного углеволокна, так что в будущем могут быть использованы для создания сверхпрочных тканей, способных стать основой очень стойких бронежилетов.
+
+Как заявляет профессор Алан Виндл и <Node id="678"/>его<Node id="681"/> коллеги из Кембриджа, их материал уже сейчас в несколько раз прочнее, чем те волокна, что используются при изготовлении современных бронежилетов.
+Alan Windle
+К тому же, учёные сообщают, что новая ткань, сотканная из углеродных нитей оказалась ещё и очень лёгкой, поэтому из неё можно создавать не только бронежилеты, но и умную одежду.
+<Node id="1018"/>http://www.annews.ru/news/detail.php?…University<Node id="1066"/> of Cambridge. Department of Materials Science &amp; Metallurgy
+Department of Materials Science and Metallurgy
+
+University of Cambridge
+
+Pembroke Street
+
+Cambridge CB2 3QZ
+
+U.K.
+<Node id="1240"/>http://www.msm.cam.ac.uk/Ну<Node id="1267"/> вот, это уже «кое-что»… Строго говоря, к этому дело шло… Но раз это уже кто-то сделал (а над такими вопросами спецы думают и трудятся во всех странах), то это значит, что уже и в ЭТОЙ («спесифиськой») области «процесс пошёл»… «Война» всегда была главным двигателем прогресса…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1240" EndNode="1267">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="175" EndNode="185">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="339" EndNode="360">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1018" EndNode="1066">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="62" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="350" EndNode="360">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="50" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="678" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

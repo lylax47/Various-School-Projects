@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Инвестиции будут сделаны в <Node id="28"/>ближайшие 3 года<Node id="44"/>.
+
+Как сказал исполняющий обязанности губернатора Виктор Кокшаров на региональном съезде промышленников и предпринимателей, эта сфера в области уже развивается, потому поднимать с нуля ее не надо.
+
+Нанотехнологии в производстве используют как минимум 3 завода: Уральский электрохимический комбинат, Уральский завод гражданской авиации и предприятие «Высокодисперсные металлические порошки», – сообщает «Интерфакс».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="28" EndNode="44">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

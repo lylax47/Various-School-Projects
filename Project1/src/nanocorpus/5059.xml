@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как надеются ученые, нанотехнологии помогут излечить повреждения спинного мозга и болезнь <Node id="91"/>Паркинсона<Node id="101"/>.
+
+Представьте себе медицинскую терапию, основанную на включении механизмов самостоятельного восстановления почек, сердца, печени. Представьте, что для того, чтобы излечить пациентов, парализованных из-за повреждения спинного мозга, нужно будет просто задействовать природные механизмы его регенерации.
+
+Как бы это не фантастично звучало, но начальную базу для такой терапии <Node id="476"/>на сегодняшний день<Node id="495"/> предлагают нанотехнологии.
+
+Доктор Сэмюэл Стапп (Samuel I. Stupp), директор института БиоНанотехнологий при Северозападном университете (BioNanotechnology in Medicine at Northwestern University) совместно с доктором Джоном Кесслером (John Kessler) недавно продемонстрировали регенерацию спинного мозга парализованной мыши, благодаря которой подопытное животное снова обрело подвижность.
+
+Как сообщает EurekAlert, секрет ученых заключается в использовании специальных молекул, которые после инъекции агрегировались в <Node id="1012"/>нанокомпозит<Node id="1024"/>, включающий механизмы саморепарации нейронов.
+
+Молекулы лекарства, собирающиеся в <Node id="1107"/>нановолокна<Node id="1118"/>, способствующие регенерации, могут привести к очередной революции в фармацевтике, заменив традиционный метод терапии с помощью целевой доставки лекарств.
+
+Теперь же медикаменты в клетки доставлять не нужно, нужно только «включить» в них регенерацию «нанокатализатором».
+
+В <Node id="1392"/>настоящее время<Node id="1407"/> Стапп и Кесслер исследуют методы использования стволовых клеток для ускорения процесса саморепарации.
+
+Как говорят доктора, терапия стволовыми клетками и <Node id="1562"/>наноматериалами<Node id="1577"/> сможет эффективно бороться с болезнями <Node id="1617"/>Альцгеймера<Node id="1628"/> и <Node id="1631"/>Паркинсона<Node id="1641"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="91" EndNode="101">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нановолокно" StartNode="1107" EndNode="1118">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1631" EndNode="1641">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1392" EndNode="1407">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанокомпозит" StartNode="1012" EndNode="1024">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1617" EndNode="1628">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альцгеймер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1562" EndNode="1577">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="476" EndNode="495">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

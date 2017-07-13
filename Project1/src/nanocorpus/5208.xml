@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Заместитель директора Института кристаллографии имени Шубникова Светлана Желудева госпитализирована в состоянии комы после того, как вскрыла конверт с неизвестным порошком белого цвета, сообщил РИА Новости в пятницу источник в столичных правоохранительных органах.
+
+«С заявлением о случившемся в <Node id="297"/>ОВД Гагаринского района<Node id="320"/> обратился помощник директора Курчатовского института. С его слов, еще <Node id="391"/>8 мая<Node id="396"/> в институт кристаллографии имени Шубникова РАН из института Кристаллографии Новосибирска по почте поступил конверт, в котором находилась статья по нанотехнологиям и пакетик с белым порошкообразным веществом», – сказал собеседник агентства.
+
+По его словам, корреспонденцию вскрывала Желудева, которая <Node id="697"/>13 мая<Node id="703"/> из дома была на «скорой помощи» доставлена в 31-ю городскую больницу, а затем переведена в институт Склифосовского.
+
+«Предварительный диагноз, поставленный врачами, – вирусный гепатит "В». Потерпевшая на момент госпитализации находилась в состоянии комы", – отметил источник.
+
+Он добавил, что после заявления о случившемся в институт кристаллографии прибыли сотрудники <Node id="1073"/>Роспотребнадзора<Node id="1089"/>, Главного управления МЧС РФ по Москве и столичного ГУВД.
+
+«В <Node id="1151"/>настоящее время<Node id="1166"/> изъятый конверт с порошкообразным веществом направлен на экспертизу, результаты которой, предположительно, будут известны <Node id="1289"/>через несколько дней<Node id="1309"/>», – отметил он.
+
+Источник не исключил, что болезнь женщины может быть связана непосредственно с этим конвертом.
+Возможно, что пока рано делать выводы о опасности нанотехнологической корреспонденции, и причиной комы могло стать другое заболевание. Правда, не все <Node id="1572"/>наночастицы<Node id="1583"/> безопасны для здоровья, однако случаев такого ярко выраженного отравления <Node id="1658"/>наноматериалами<Node id="1673"/> мировая общественность пока не знала. Обычно <Node id="1719"/>наноматериалы<Node id="1732"/> и <Node id="1735"/>наночастицы<Node id="1746"/> накапливаются в организме, производя негативный эффект не сразу. Тут же наблюдается прямо противоположная картина. – прим. <Node id="1870"/>Свидиненко<Node id="1880"/> ЮрияВ любом случае, все сотрудники сайта Nanotechnology News Network надеются на скорейшее выздоровление Светланы Желудевой! И как только у нас появится дополнительная информация о <Node id="2062"/>ее<Node id="2064"/> состоянии, мы известим наших читателей!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="391" EndNode="396">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="297" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">ОВД Гагаринского района</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1719" EndNode="1732">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1289" EndNode="1309">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1151" EndNode="1166">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1073" EndNode="1089">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роспотребнадзора</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="1658" EndNode="1673">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1870" EndNode="1880">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Свидиненко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1735" EndNode="1746">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1572" EndNode="1583">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2062" EndNode="2064">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="697" EndNode="703">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

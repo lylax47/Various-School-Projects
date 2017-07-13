@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> "Москва, <Node id="10"/>19 марта 2008 г.<Node id="26"/> — В Московском государственном университете имени М.В. Ломоносова торжественно открыли новый суперкомпьютер. В церемонии приняли участие Председатель Госдумы Федерального Собрания РФ, Председатель Партии «Единая Россия» Борис Вячеславович Грызлов<Node id="273"/> <Node id="274"/>и ректор МГУ, академик <Node id="297"/>РАН Виктор Антонович<Node id="317"/> <Node id="318"/>Садовничий<Node id="328"/>. 
+Данный суперкомпьютер является совместной разработкой Московского государственного университета имени М.В. Ломоносова, Института Программных Систем РАН и компании «Т-Платформы». 
+ 
+Пиковая производительность самого мощного в России, СНГ и Восточной Европе суперкомпьютера СКИФ МГУ, построенного на базе 625 "blade-лезвий" производства «Т-Платформы» с 1250 четырехъядерными процессорами Intel® Xeon® E5472, составила 60 триллионов операций в <Node id="772"/>секунду<Node id="779"/> (Терафлопс). Реальная производительность системы на тесте Linpack — 47,04 Терафлопс, составила <Node id="875"/>78,4%<Node id="880"/> от пиковой, что явилось лучшим показателем эффективности среди всех систем первой сотни списка <Node id="976"/>Тор<Node id="979"/>500 самых мощных компьютеров мира на базе четырехъядерных процессоров Intel Xeon. Реальная производительность суперкомпьютера СКИФ МГУ соответствует 22-ой позиции текущего мирового рейтинга <Node id="1169"/>Тор<Node id="1172"/>500, что на данный момент является абсолютным рекордом для России. <Node id="1239"/>Он<Node id="1241"/> также является 7-м по мощности среди всех суперкомпьютеров, использующихся в мировой системе образования. 
+ 
+«Партия "Единая Россия" считает развитие в России суперкомпьютерной отрасли и создание сети центров суперЭВМ одной из самых приоритетных задач построения инновационной экономики России, основанной на знаниях. <Node id="1560"/>Без высокопроизводительных вычислений мы сегодня не в состоянии ни решать проблемы развития наукоемких технологий, ни создавать новые высокотехнологичные и конкурентоспособные производства, — сказал Борис Вячеславович Грызлов<Node id="1785"/>. — В результате успешной реализации российско-белорусских программ "СКИФ" и "СКИФ-ГРИД", развивавшихся при активной поддержке партии и фракции, сегодня мы можем независимо от Запада производить отечественные суперкомпьютеры, мощность которых позволяет ставить перед собой самые сложные задачи. Мы считаем это достижение одной их важнейших составляющих фундамента новой российской экономики». 
+ 
+Начиная <Node id="2189"/>с 1999 года<Node id="2200"/> Московский университет первым среди высших учебных заведений России стал создавать мощные комплексы для современных супервычислений, основанные на совершенно новых, на тот момент, кластерных технологиях. Созданный в <Node id="2417"/>1999 году<Node id="2426"/> в МГУ кластер был первым в системе образования и науки России. 
+ 
+«Целый ряд задач, решаемых находящимися на передовых рубежах науки коллективами Московского университета, требует использования суперкомпьютерных мощностей, как минимум, в несколько десятков триллионов операций в <Node id="2706"/>секунду<Node id="2713"/>, — отметил ректор МГУ имени М.В. Ломоносова, академик РАН Виктор Садовничий. — Уже сейчас на новом суперкомпьютере работают ведущие группы ученых как Московского университета, так и академических институтов, развивающие фундаментальные основы нанотехнологий, решающие сложнейшие задачи магнитной гидродинамики, гидро- и аэродинамики, квантовой химии, сейсмики, компьютерного моделирования лекарств, климатологии, криптографии и других областей». 
+ Смогут ли его когда-нибуль использовать для моделирования <Node id="3220"/>наноматериалов<Node id="3234"/>?
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="10" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="297" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Антонович</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Виктор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="875" EndNode="880">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="2417" EndNode="2426">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="772" EndNode="779">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="318" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Садовничий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2706" EndNode="2713">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="1239" EndNode="1241">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2189" EndNode="2200">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="273" EndNode="274">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Наноматериал" StartNode="3220" EndNode="3234">
+</Annotation>
+<Annotation Id="25" Type="высказывания_заявления" StartNode="1560" EndNode="1785">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="1169" EndNode="1172">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="2417" EndNode="2426">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="автор" StartNode="1560" EndNode="1785">
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="976" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="работает" StartNode="273" EndNode="274">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

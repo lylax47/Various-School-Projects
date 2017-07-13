@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Научно-исследовательский геотехнологический центр Дальневосточное отделение РАН  нанодисперсный кремнезем , <Node id="110"/>наночастицы<Node id="121"/> кремнезема    Геохимия Нанотехнологии   изучение свойств вещества, извлеченного из гидротермального раствора исследование кинетики поликонденсации ортокремниевой кислоты в гидротермальных растворах с образованием нанодисперсного коллоидного кремнезема разработка методов извлечения кремнезем из гидротермального раствора разработка способов использования кремнеземсодержащего материала экспериментальные исследования кинетики поликонденсации ортокремниевой кислоты в гидротермальных растворах с образованием нанодисперсного коллоидного кремнезема                             Андрей Андреевич Ермачихин , техник Вадим Владимирович Потапов, заведующий лабораторией, профессор, доктор наук Владимир Александрович Горбач, научный сотрудник, кандидат наук <Node id="873"/>Светлана Владимировна Зубаха<Node id="901"/>, ведущий инженер НАУЧНАЯ ДЕЯТЕЛЬНОСТЬ ЛАБОРАТОРИИ  <Node id="953"/>НАНОЧАСТИЦЫ<Node id="964"/> КРЕМНЕЗЕМА В ГИДРОТЕРМАЛЬНЫХ РАСТВОРАХ ИЗВЛЕЧЕНИЕ НАНОДИСПЕРСНОГО КРЕМНЕЗЕМА ИЗ ГИДРОТЕРМАЛЬНЫХ РАСТВОРОВ ФИЗИКО-ХИМИЧЕСКИЕ ХАРАКТЕРИСТИКИ КРЕМНЕЗЕМА, ИЗВЛЕЧЕННОГО ИЗ ГИДРОТЕРМАЛЬНЫХ РАСТВОРОВ РАЗРАБОТКА МЕТОДОВ ИСПОЛЬЗОВАНИЯ ИЗВЛЕЧЕННОГО КРЕМНЕЗЕМСОДЕРЖАЩЕГО МАТЕРИАЛА    выполнены экспериментальные исследования кинетики поликонденсации ортокремниевой кислоты в гидротермальных растворах с образованием нанодисперсного коллоидного кремнезема на основе экспериментальных исследований разработаны методы извлечения кремнезема из гидротермального раствора разработаны способы использования кремнеземсодержащего материала, извлеченного из гидротермального раствора   Институт физической химии и электрохимии им. А.Н. Фрумкина, Московский государственный университет инженерной экологии , Российский химико-технологический университет им. Д.И. Менделеева, Химический факультет Московского государственного университета им М.В. Ломоносова,      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="110" EndNode="121">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="873" EndNode="901">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">кандидат</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Владимировна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Светлана</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="953" EndNode="964">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

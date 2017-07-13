@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>Полевой<Node id="9"/> транзистор из многостенной УНТ и его <Node id="47"/>ВАХ<Node id="50"/>. Толщина трубки ~40 нм, получена методом PECVP. <Node id="99"/>Вах<Node id="102"/> снят при комнатной температуре при различных приложенных потенциалах на затворе. Для получения чипа на структуру SiO2/Si с контактными полщадками "высаживались" <Node id="264"/>нанотрубки<Node id="274"/> из спиртовой суспензии. <Node id="299"/>Затем<Node id="304"/> при помощи ионностимулированного осаждения платины на установке Strata FIB 201 создавались контакты. 
+    
+ 
+          
+ 
+  
+ 
+              
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="47" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="264" EndNode="274">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="99" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="299" EndNode="304">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="2" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Полевой</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

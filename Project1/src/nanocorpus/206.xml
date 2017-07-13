@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Журнал NanoToday объявляет конкурс фотографий ("nano-related images").
+Отобранные лучшие фотографии будут помещены   на обложке журнала в <Node id="139"/>2009 году<Node id="148"/>.
+Побробности конкурсы и анкета участника здесь .
+Срок приема работ - до <Node id="221"/>1 сентября<Node id="231"/>.
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="139" EndNode="148">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="139" EndNode="148">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="221" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

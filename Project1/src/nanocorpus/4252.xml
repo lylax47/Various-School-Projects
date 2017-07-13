@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Разработана технология получения проволочных полупроводниковых светоизлучающих диодовГруппа тайваньских учёных под руководством доктора <Node id="136"/>Чу<Node id="138"/> (C.H. Chiu) из Национального университета Цао Туна (National Chiao Tung University) Тайваня разработала новую технологию получения <Node id="270"/>светоизлучающих диодов<Node id="292"/> (<Node id="294"/>LED<Node id="297"/> – light emitting diodes) с широким спектром излучения, сообщает Нанометр.
+Dr. C.H. Chiu
+Широкозонный полупроводник GaN, как и другие N(III)-полупроводники, привлекает внимание многих исследователей ввиду возможности создания на их синих, зеленых, ультрафиолетовых <Node id="562"/>светоизлучающих диодов<Node id="584"/> и синих лазеров. К тому же создание различных <Node id="631"/>наноструктур<Node id="643"/> на поверхности таких диодов может существенно увеличить их характеристики за счет квантовых ограничений и эффектов напряжений.
+
+Тайваньские ученые предложили новый метод создания нанопроводов InGaN/GaN на <Node id="849"/>LED<Node id="852"/>. При этом они объединили два метода – ионное <Node id="898"/>травление<Node id="907"/> с помощью индуктивно связанной плазмы (inductively coupled plasma-reactive ion etching, ICO-RIE) и фотоусиленное химическое жидкостное <Node id="1043"/>травление<Node id="1052"/> (photo-enhanced chemical, PEC, wet oxidation).
+
+Образцы <Node id="1109"/>светоизлучающих диодов<Node id="1131"/> на основе GaN были сделаны с помощью металлорганического <Node id="1189"/>химического осаждения<Node id="1210"/> из паровой фазы (metal-organic chemical vapor deposition, MOCVD) в с-ориентации на сапфировой подложке. Они состояли из буферного слоя GaN толщиной 50 нм, высокопроводящего слоя GaN, допированного кремнием, толщиной в 3 мкм, 5 слоев In0.21Ga0.79N/GaN MQW (multiple quantum wells – множественные квантовые ямы) толщиной в 3/7 нм, 50 нм слоя AlGaN, легированного магнием, и, наконец, 0.25 мкм слоя GaN, также легированного магнием. Из этих образцов были получены диоды с нанопроводами как с помощью PEC – окисления, так и без него.
+
+Упорядоченные никелевые островки на поверхности p-GaN имеют размер порядка 200 нм и расположены с плотностью около 3·109 см-2. Приблизительный диаметр нанопроводов составляет 140 нм, глубина <Node id="1933"/>травления<Node id="1942"/> – 0.5 мкм. При PEC окислении диаметр нанопроводов получился около 140 нм, и без такого окисления – 155 нм.
+
+Элементный анализ показал большое количество кислорода, что, по мнению авторов, говорит о появлении тонкого слоя Ga2O3 во время PEC окисления. Было замечено, что при удалении оксида галлия диаметр нанопроводов уменьшается до 90 нм.
+
+Смещение пика фотолюминесценции в сторону фиолетовой области спектра, наблюдаемое для образцов, полученных без PEC окисления, составило 8.6 нм, а для окисленных – 3.8 нм. Измерения показали высокие значения интенсивности фотолюминесценции для окисленных образцов (в 5–6 раз больше, чем для диодов без нанопроводов), а для «нанопроводковых» диодов было обнаружено 10.5 нм смещение пика электролюминесценции в сторону фиолетовой области по сравнению с обычными диодами.
+
+Таким образом, PEC окисление способствует не только формированию слоя изолятора на каждом нанопроводе, но так же уменьшает их диаметр, усиливая эффект релаксации напряжений.
+<Node id="2927"/>http://www.polit.ru/…_n_leds.htmlНанопровода<Node id="2971"/> InGaN/GaN для светоизлучающих <Node id="3002"/>диодовhttp://www.nanometer.ru/…ik_4943.htmlFabrication<Node id="3056"/> of InGaN/GaN nanorod light-emitting diodes with self-assembled Ni metal <Node id="3129"/>islandshttp://www.iop.org/…8/44/445201/Молодцы<Node id="3175"/> тайваньцы!.. Новые <Node id="3195"/>светодиоды<Node id="3205"/>, да ещё разного цвета, очень будут кстати при создании новой проекционной техники. Отработанная технология позволит создавать много новых приборов с улучшенными характеристиками…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="3002" EndNode="3056">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Травление" StartNode="1933" EndNode="1942">
+</Annotation>
+<Annotation Id="4" Type="Химическое+осаждение" StartNode="1189" EndNode="1210">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="136" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2927" EndNode="2971">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Светодиод" StartNode="562" EndNode="584">
+</Annotation>
+<Annotation Id="9" Type="Светодиод" StartNode="270" EndNode="292">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Светодиод" StartNode="849" EndNode="852">
+</Annotation>
+<Annotation Id="13" Type="Светодиод" StartNode="294" EndNode="297">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Травление" StartNode="898" EndNode="907">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="3129" EndNode="3175">
+</Annotation>
+<Annotation Id="18" Type="Светодиод" StartNode="3195" EndNode="3205">
+</Annotation>
+<Annotation Id="21" Type="Светодиод" StartNode="1109" EndNode="1131">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="631" EndNode="643">
+</Annotation>
+<Annotation Id="22" Type="Травление" StartNode="1043" EndNode="1052">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

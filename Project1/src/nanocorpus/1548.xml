@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Эластичные <Node id="11"/>нанотрубки<Node id="21"/> станут основой бронежилетов будущегоАвстралийские ученые Лианчи Жанг (Liangchi Zhang) и Каузала Милваганам (Kausala Mylvaganam) из Сиднейского университета разместили на страницах журнала Nanotechnology результаты собственных исследований о возможности применения материалов, произведенных с использованием субмикроскопических полых углеродных волокон (<Node id="375"/>нанотрубок<Node id="385"/>), в качестве основы для бронежилетов будущего. Прочность <Node id="443"/>наноматериалов<Node id="457"/> хорошо известна и работа не привлекла бы к себе внимания, если бы не один аспект – она была посвящена совершенно другому свойству <Node id="588"/>нанотрубок<Node id="598"/>, которое ученые назвали «пулеотталкивающим» (bullet-bouncing).
+Prof. Liangchi Zhang
+Большинство пулезащитных материалов изготовлены на основе высокопрочных полимеров, таких как кевлар (Kevlar), туарон (Twaron) или динима (Dyneema). Они останавливают продвижение пули и перераспределяют кинетическую энергию последней по всему объему защитного материала. В результате подобного столкновения облаченный в современную броню человек получает удар не локально, а по всей площади бронежилета, и выживает, однако с синяками и ушибами внутренних органов.
+
+Субмикроскопические полые углеродные волокна значительно более эластичны, чем выше указанные полимеры. Под воздействием снаряда <Node id="1275"/>нанотрубка<Node id="1285"/> начинает прогибаться поглощая кинетическую энергию пули и замедляя ее скорость. <Node id="1366"/>Затем<Node id="1371"/> происходит восстановление прежней формы волокна, сопровождающееся обратной передачей энергии пуле – своеобразным отталкиванием ее от себя. В результате энергия пули поглощается значительно более эффективно и человек получает значительно меньше повреждений.
+
+Согласно заявлению исследователей, им удалось построить точную компьютерную модель процессов происходящих при попадании пули в материал, сделанный на основе <Node id="1787"/>углеродных <Node id="1798"/>нанотрубок<Node id="1808"/>. Ученые утверждают, что <Node id="1833"/>углеродные <Node id="1844"/>нанотрубки<Node id="1854"/> с большим диаметром успешнее поглощают энергию снаряда, чем таковые с малым диаметром. На основании модели также установлено, что минимальная толщина наноуглеродного бронежилета, способного препятствовать проникновению пули, равняется 0,6 мм.
+Вячеслав <Node id="2107"/>Кононовhttp://www.3dnews.ru/…hego-270642/Super-thin<Node id="2158"/> nanotube body armor promises to stop and deflect <Node id="2208"/>bulletswww.tgdaily.com/index2.php?…Сначала<Node id="2250"/> – англичане. <Node id="2264"/>Затем<Node id="2269"/> – австралийцы… Очевидно, это действительно перспективное направление – создание бронежилетов на базе <Node id="2371"/>нанотрубок<Node id="2381"/>. Наверняка это не пройдёт мимо внимания и наших специалистов, занимающихся разработкой новых средств индивидуальной защиты личного состава вооружённых сил… Успехов им на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1366" EndNode="1371">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="588" EndNode="598">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="1833" EndNode="1854">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="11" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2208" EndNode="2250">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2107" EndNode="2158">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1844" EndNode="1854">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="2264" EndNode="2269">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="375" EndNode="385">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="1787" EndNode="1808">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="2371" EndNode="2381">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1798" EndNode="1808">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1275" EndNode="1285">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="443" EndNode="457">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Правительство Московской области поддержало предложение администрации <Node id="71"/>города Долгопрудный Московской области<Node id="109"/> о присвоении ему статуса наукограда. 
+ 
+Долгопрудный соответствует критериям, установленным для наукоградов. Город является многопрофильным научно-производственным и образовательным центром, работающим в области создания сложной ракетной и авиационной техники, решения физико-технических проблем энергетики, информатики и электроники, новых материалов, технологий мониторинга окружающей среды, медицинских и биотехнологий. <Node id="533"/>54%<Node id="536"/> городских предприятий работают в сфере наукоемкого производства, на предприятиях научно-производственного комплекса города занято <Node id="667"/>более 35%<Node id="676"/> работающих жителей. 
+ 
+На территории Долгопрудного появляются высокотехнологичные дочерние производства организаций. В частности, в <Node id="809"/>сентябре<Node id="817"/> <Node id="818"/>этого года<Node id="828"/> будут готовы первые помещения для работы центра по нанотехнологиям. Статус наукограда позволит городу получить дополнительное финансирование на развитие научно-производственного комплекса. 
+ 
+В <Node id="1023"/>настоящее время<Node id="1038"/> в Подмосковье официально существуют 7 наукоградов: Дубна, Королев, Реутов, Фрязино, Пущино, Троицк и Жуковский. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="расположение" StartNode="71" EndNode="109">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1023" EndNode="1038">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="818" EndNode="828">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="809" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="533" EndNode="536">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="667" EndNode="676">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

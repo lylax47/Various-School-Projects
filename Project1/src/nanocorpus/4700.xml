@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Организация Marcy NanoCenter (как мы сказали бы «технопарк», раскинувшийся на 300 акрах [Акр (acre), земельная мера, применяемая в ряде стран, использующих английскую систему мер (Великобритания, США, Канада, Австралия и др.) 1 акр = 4840 кв. ярдам = 4046,86 м2] американского штата Нью-Йорк, нацеленный на развитие наноэлектроники), открыла свой новый сайт: <Node id="360"/>http://www.marcynanocenter.comЭмблема<Node id="397"/> Marcy NanoCenter
+Открытие нового сайта совпало с открытием Semicon West, первой в Северной Америке торговой выставке наноэлектроники, которая открывается на <Node id="555"/>этой неделе<Node id="566"/> в Сан-Франциско.
+
+Фирма Mohawk Valley EDGE (www.mvedge.org), «девелопер» производственной площадки и региональный экономический представитель Marcy NanoCenter, представлена на Semicon West как один из участников команды «Нью-Йорк любит Нанотех» (New York Loves Nanotech team).
+
+На новом сайте приводятся данные о финансовых ресурсах, выделяемых штатом Нью-Йорк на развитие наноэлектронной промышленности; информация о возможностях и достоинствах технопарка Marcy NanoCenter, о потенциальных финансовых льготах, предлагаемых будущим резидентам технопарка. Помимо этого, приводятся новости о развитии НЭ-промышленности, ссылки на адреса НЭ-фирм (исследовалей, разработчиков, промышленников), аналитические справки о фирмах и рынках и т.п.
+Справка
+Технопарк Marcy NanoCenter – это целый комплекс промышленных фирм (среди которых, в частности, такие гиганты полупроводниковой промышленности, как AMD, ASML, Applied Materials, IBM, NXP Semiconductor и Tokyo Electron).
+
+Объём активов: <Node id="1547"/>более 14 млрд долл.<Node id="1566"/> частных и гос. инвестиций.
+
+Сфера деятельности: высокотехнологические <Node id="1637"/>НИР<Node id="1640"/> и ОКР, производство. Близость к таким признанным центрам НИОКР в области наноэлектроники, как Albany NanoTech и Sematech North, придаёт дополнительную привлекательность к сотрудничеству с технопарком и его резидентами.
+<Node id="1860"/>http://www.nanotech-now.com<Node id="1887"/>/news.cgi?…Да, солидный технопарк и «ребята», его населяющие тоже – солидные и серьёзные. Но за всем этим стоит колоссальная работа по привлечению, «соблазнению», удержанию… Ведь, как известно, под лежачий камень… и коньяк не течёт… ;-))). С другой стороны, здесь работает и другой принцип: «Москва (ведь тоже) не сразу строилась». Хотя, конечно же, это не должно оправдывать лень, невежество и отсутствие инициативы работников… Такие вот <Node id="2326"/>Сцилла<Node id="2332"/> с <Node id="2335"/>Харибдой<Node id="2343"/>.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2326" EndNode="2332">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сцилла</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2335" EndNode="2343">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Харибда</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1547" EndNode="1566">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="555" EndNode="566">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1637" EndNode="1640">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1860" EndNode="1887">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="360" EndNode="397">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Команда ученых из Ренслеерского политехнического института во главе с <Node id="71"/>Паликелем Аджаяном<Node id="89"/>, уже известным нашим читателям по другим достижениям, создала новый тип гибкой версии «электронной кожи».
+
+Не секрет, что одно из самых быстроразвивающихся направлений наноэлектроники – <Node id="276"/>гибкие <Node id="283"/>OLED<Node id="287"/> устройства <Node id="299"/>(http://www.nanonewsnet.ru/index.php?…).<Node id="339"/> Гибкие сверхчеткие цветные экраны, которые позволят отображать анимацию и текст, могут стать логичной заменой современных газет, а может, даже книг.
+
+Мы уже не раз писали о различных достижениях в области гибкой электроники, в частности об электронной бумаге <Node id="599"/>(http://www.nanonewsnet.ru<Node id="625"/>/index.php?…), устройства на основе которой уже не новость.
+
+Похоже, недавно ученым удалось сделать гибкую электронную матрицу, способную потеснить другие виды электронной бумаги. Это произошло благодаря расположению матриц <Node id="849"/>нанотрубок<Node id="859"/> внутри гибкого пластика.
+
+Новый материал примечателен в первую очередь способностью проводить электричество. Химики исследовали свойства <Node id="997"/>нанотрубок<Node id="1007"/> и тех сил, что удерживают их вместе. В результате было обнаружено, что при внедрении <Node id="1093"/>нанотрубок<Node id="1103"/> в специальный полимер, соблюдая определённый порядок действий, можно получить гибкий материал, в котором <Node id="1209"/>нанотрубки<Node id="1219"/> не теряют своего взаимного расположения.
+
+«Основная концепция – это выращивать <Node id="1299"/>нанотрубки<Node id="1309"/> на жёсткой подложке в различных условиях и затем переносить углеродные образования, сохраняя их неизменными, на гибкую платформу. Получившиеся материалы можно широко использовать в электронике», – сообщил Свастик Кар, постдок из группы.
+
+Для создания прочной молекулярной структуры разработчики использовали довольно крупные <Node id="1635"/>углеродные <Node id="1646"/>нанотрубки<Node id="1656"/>, чей диаметр составляет порядка 10 нанометров. Они были нанесены на силиконовую подложку как осадок после выпаривания. В результате <Node id="1789"/>нанотрубки<Node id="1799"/> приобрели вертикальное расположение на подложке. После подложка с нанесенными <Node id="1878"/>нанотрубками<Node id="1890"/> была залита жидким полиметилсилоксаном (polydimethylsiloxane, PDMS), который заполнил промежутки и застыл. Получившийся материал был снят с силиконовой подложки.
+
+Таким образом учёные решили одну из ключевых задач наноэлектроники, сделав материал на основе <Node id="2148"/>нанотрубок<Node id="2158"/> прочным и гибким, что позволит применять его в самых разнообразных сферах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="1635" EndNode="1656">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="71" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1789" EndNode="1799">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1878" EndNode="1890">
+</Annotation>
+<Annotation Id="5" Type="Гибкий+органический+светодиод" StartNode="276" EndNode="287">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="849" EndNode="859">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="997" EndNode="1007">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1093" EndNode="1103">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1646" EndNode="1656">
+</Annotation>
+<Annotation Id="10" Type="Органический+светодиод" StartNode="283" EndNode="287">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="2148" EndNode="2158">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="599" EndNode="625">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1299" EndNode="1309">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="299" EndNode="339">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1209" EndNode="1219">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

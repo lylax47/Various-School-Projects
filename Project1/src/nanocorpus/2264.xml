@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+«<Node id="3"/>Проходящий сейчас в Москве, в Эспоцентре на Краснопресненской набережной, Международный форум по нанотехнологиям убедительно демонстрирует, что в России уже есть немаловажные достижения в развитии самых различных нанотехнологий, в создании элементов инфраструктуры, наноиндустрии. На этом форуме развернута большая выставка, где показаны научно-исследовательские и опытно-конструкторские работы и уже их практическое применение рядом отечественных компаний<Node id="459"/>», – заявил журналистам заместитель руководителя фракции «Единая Россия» в Госдуме академик РАН Андрей Кокошин<Node id="569"/> на Международном форум по нанотехнологиям. 
+ 
+<Node id="616"/>По словам Кокошина, в то же время очевидно, что сейчас надо активнее переходить к созданию различных сложных механизмов и даже систем с использованием <Node id="767"/>наноматериалов<Node id="781"/> и определенных нанотехнологий, что является следующим этапом развития в этой сфере<Node id="864"/>. <Node id="866"/>Кокошин также отметил, что масштабы промышленного использования различных нанотехнологий остаются, как правило, в нашей стране весьма незначительными<Node id="1015"/>. Большой бизнес пока не торопится прийти в эту сферу, и основные усилия приходятся на деятельность государства, где нельзя не отметить, в частности, результаты, достигнутые Минобрнаукой и <Node id="1204"/>Роснаукой<Node id="1213"/>. 
+ 
+«<Node id="1219"/>Многообещающими являются ряд проектов, запущенных госкорпорацией «Роснано», которые будут осуществляться по модели государственно-частного партнерства», – отметил Кокошин<Node id="1389"/>. 
+ 
+* * * 
+ 
+А.А.Кокошин был одним из авторов Закона «О госкорпорации «Роснано» и в <Node id="1474"/>настоящее время<Node id="1489"/> входит в состав его Наблюдательного совета, возглавляемого министром науки и образования А.А.Фурсенко. 
+ Пресс-служба фракции «Единая Россия» в Госдуме ФС РФ  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="616" EndNode="864">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="3" EndNode="569">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="3" EndNode="1389">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1474" EndNode="1489">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="1219" EndNode="1389">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="3" EndNode="459">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="3" EndNode="459">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="3" EndNode="459">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="866" EndNode="1015">
+</Annotation>
+<Annotation Id="17" Type="упоминает" StartNode="3" EndNode="1389">
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="3" EndNode="1389">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="767" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Властная_Структура" StartNode="1204" EndNode="1213">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаукой</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="3" EndNode="459">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="3" EndNode="569">
+</Annotation>
+<Annotation Id="22" Type="упоминается_с" StartNode="3" EndNode="459">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="3" EndNode="1389">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="автор" StartNode="866" EndNode="1015">
+</Annotation>
+<Annotation Id="26" Type="высказывания_заявления" StartNode="1219" EndNode="1389">
+</Annotation>
+<Annotation Id="29" Type="автор" StartNode="616" EndNode="864">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

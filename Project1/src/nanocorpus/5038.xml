@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ряд крупных компаний могут стать резидентами IT-парка в Н.НовгородеНИЖНИЙ НОВГОРОД, <Node id="84"/>10 июня<Node id="91"/> – Компании Alcatel, Microsoft и Intel могут стать резидентами технопарка информационных технологий «Анкудиновка», проект по созданию которого реализуется в Нижнем Новгороде, сообщил на пресс-конференции во вторник министр инвестиционной политики Нижегородской области Дмитрий Сватковский.
+ 
+«Проект создается при софинансировании из федерального бюджета и будет иметь статус международного, поскольку его резидентами планируют стать крупнейшие транснациональные корпорации. В частности, Alcatel рассматривает возможность размещения в »Анкудиновке« лабораторного комплекса и административного здания. Также идут переговоры с Microsoft и Intel», – сказал министр.
+ 
+В <Node id="758"/>этом году<Node id="767"/> на проектирование и строительство технопарка будет направлено <Node id="830"/>1 миллиард 153 миллиона рублей<Node id="860"/>. Основные средства (<Node id="881"/>1 миллиард рублей<Node id="898"/>) планируется направить на строительство объектов внешней инженерной инфраструктуры.
+ В целом, строительство обойдется в <Node id="1019"/>15 миллиардов рублей<Node id="1039"/>, в том числе из федерального бюджета на проект будет направлено <Node id="1104"/>1,1 миллиарда рублей<Node id="1124"/>, из регионального – <Node id="1145"/>1,8 миллиарда рублей<Node id="1165"/>. Развитие технопарка будет осуществляться в несколько этапов: на первом будут построены административно-деловой центр и инженерно-лабораторный комплекс, на втором – бизнес-инкубатор, на третьем – производственная площадка. Планируется, что полностью технопарк начнет функционировать к <Node id="1451"/>2011 году<Node id="1460"/>.
+
+<Node id="1463"/>По словам Сватковского, сейчас заканчивается процесс планировки технопарка и начинается строительство инженерных коммуникаций<Node id="1588"/>.
+Основными направлениями технопарка станут нанотехнологии, энергосбережение, биотехнологии.
+<Node id="1681"/>http://www.rian.ru/…9844646.htmlА<Node id="1714"/> вот и Нижний прирастает инфраструктурой… И это хорошо!.. Кстати, что-то мы не слышали о том, чтобы там были сильно развиты НИОКР в области нанотехнологий. Хотя, казалось бы, очень крупный научный и промышленный центр. Тщательно скрывают или действительно нет?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1019" EndNode="1039">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="1463" EndNode="1588">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1451" EndNode="1460">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1451" EndNode="1460">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1104" EndNode="1124">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="830" EndNode="860">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="758" EndNode="767">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1145" EndNode="1165">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="881" EndNode="898">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="84" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1463" EndNode="1588">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1681" EndNode="1714">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

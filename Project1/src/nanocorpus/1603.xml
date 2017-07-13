@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Самосборка коллоидных <Node id="23"/>нанокристаллов<Node id="37"/> позволяет получать структуры с высокой упорядоченностью, которые могут быть использованы в оптоэлектронике, фотонике и биосенсорных приложениях. Процессы термодинамически контролируемой самоорганизации делают возможным крупномасштабное производство <Node id="287"/>нанопроволок<Node id="299"/> и упорядоченных двумерных или трёхмерных сверхрешёток при минимальных вложениях в развитие инфраструктуры.
+
+Новый метод был разработан в Университете Реймса (University of Reims Champagne-Ardenne). В его основе лежит возможность контролировать свойства <Node id="553"/>нанокристаллов<Node id="567"/>, определяющие процесс самосборки (включая размер, форму, структуру поверхности и заряд), а так же – электронную структуру каждого <Node id="698"/>нанокристалла<Node id="711"/>.
+
+Исследователи показали, что при специально созданных условиях капли водной суспензии солюбилизированных нанокристаллических <Node id="838"/>квантовых точек<Node id="853"/> и стержней CdSe/ZnS выполняют роль своеобразных «лабораторий», в которых может производиться целый набор различных <Node id="969"/>наноструктур<Node id="981"/> с нужными свойствами. Работа такой «лаборатории в капле»---размер, морфология, оптические и энергетические транспортные свойства производимых флуоресцентных <Node id="1139"/>наноструктур<Node id="1151"/>---может управляться внешними параметрами.
+
+Большинство результатов было получено для <Node id="1237"/>квантовых точек<Node id="1252"/> и стержней CdSe/ZnS, однако подобные нанокристаллические структуры могут производиться и в водных суспензиях других <Node id="1369"/>нанокристаллов<Node id="1383"/>. В дальнейшие планы исследователей входит создание самовосстанавливающихся полимеров на основе самосборки <Node id="1490"/>нанокристаллов<Node id="1504"/>, а также использование <Node id="1528"/>наноструктур<Node id="1540"/> в биофотонике и разработка наноустройств для сбора и передачи энергии в режиме резонансного переноса энергии <Node id="1650"/>флуоресценции<Node id="1663"/> (FRET).
+
+Работа была выполнена исследователями из URCA, Тринити-Колледжа (Trinity College, Dublin), Мюнхенского Университета (Universitat Munchen), а также из Санкт-Петербургского Университета информационных технологий, механики и оптики, и Института биоорганической химии им. Шемякина РАН в Москве.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="1139" EndNode="1151">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанопроволока" StartNode="287" EndNode="299">
+</Annotation>
+<Annotation Id="4" Type="Нанокристалл" StartNode="1369" EndNode="1383">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="969" EndNode="981">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="838" EndNode="853">
+</Annotation>
+<Annotation Id="7" Type="Нанокристалл" StartNode="698" EndNode="711">
+</Annotation>
+<Annotation Id="8" Type="Флуоресценция" StartNode="1650" EndNode="1663">
+</Annotation>
+<Annotation Id="9" Type="Нанокристалл" StartNode="1490" EndNode="1504">
+</Annotation>
+<Annotation Id="10" Type="Квантовая+точка" StartNode="1237" EndNode="1252">
+</Annotation>
+<Annotation Id="11" Type="Нанокристалл" StartNode="23" EndNode="37">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанокристалл" StartNode="553" EndNode="567">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="1528" EndNode="1540">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

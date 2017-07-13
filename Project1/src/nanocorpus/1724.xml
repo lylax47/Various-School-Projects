@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Возможность использования <Node id="27"/>наноматериалов<Node id="41"/> открывает широкие перспективы для создания приборов нового поколения, разрешая проблемы высоко потребления энергии, низкой эффективности и экологической опасности производства. Так литиевые электроды на основе <Node id="252"/>наноматериалов<Node id="266"/> рассматриваются как потенциальная замена традиционных. 
+ 
+Ученые из Кореи разработали энергоаккумулирующую систему электродов на основе одномерных наностуктур, представляющую собой набор вертикальных <Node id="467"/>наностержней<Node id="479"/> с покрытым золотом ядром и оболочкой из V2O5. В качестве матрицы использовался анодный оксид алюминия, полученный двухстадийным анодированием алюминиевой фольги. Пиролизом ацетилена внутри пор матрицы были выращены <Node id="695"/>нанотрубки<Node id="705"/>, на которые затем  напылением были нанесены слои золота и оксида ванадия. 
+ 
+Диаметр нанонити 100 нм, из них 15 приходится на оболочку из оксида ванадия и 70 на покрытое золотом ядро. 
+ 
+Предложенная система электродов, содержащая пространственно изолированные, но электрически связанные <Node id="994"/>наностержни<Node id="1005"/>, отличается большой энергоемкостью и выходной мощностью, что объясняется большей площадью поверхности электродов, облегчением процесса переноса заряда и повышением стабильности в условиях механического напряжения. 
+ 
+Работа «Honeycomb pattern array of vertically standing core-shell nanorods: its application to Li energy electrodes» опубликована в журнале Applied Physics Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="252" EndNode="266">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="695" EndNode="705">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="27" EndNode="41">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="467" EndNode="479">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="994" EndNode="1005">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

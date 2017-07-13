@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>12 декабря 2008 г<Node id="18"/> в Мельбурне, Австралия на территории Королевского Института Технологии Мельбурна (RMIT*) будет проходить Международный симпозиум под эгидой SPIE**- <Node id="167"/>Умные<Node id="172"/> материалы, Умные Нано- и Микро- Системы 2008 (SPIE Smart Materials, Nano- and Micro-Smart Systems 2008, 9 – 12 December 2008; RMIT Melbourne, Australia) 
+Международное событие SPIE Smart Materials, Nano- and Micro-Smart Systems symposium- многоотраслевой научный симпозиум, охватывающий множество областей интенсивной разработки и использования микро- и нанотехнологий. Симпозиум предоставляет возможность всестороннего общения с исследователями и разработчиками всего мира в области «умных» материалов и структур, наноустройств и систем, нано- и микротехнологий со особым упором на вопросы упаковки и интеграции МЭМС и НЭМС в условиях различных приложений. Со- председателями симпозиума являются известные ученые из Австралии Arnan Mitchell и Min Gu.
+
+*RMIT (Royal Melbourne Institute of Technology) – Королевский Институт Технологии Мельбурна – австралийский университет и профессиональное образовательное учреждение, находящееся в г. Мельбурн штат Виктория.
+
+** SPIE ( Society of Photo-Optical Instrumentation Engineers) – Общество оптики и фотоники –профессиональное некоммерческое международное обьединение ученых, инженеров и студентов в области оптики и фотоники. Евгений Биргер
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="167" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Умные</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

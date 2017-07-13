@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>24 октября<Node id="11"/> в Казани состоялось расширенное заседание <Node id="54"/>Координационного совета по реализации Соглашения<Node id="102"/> о сотрудничестве в области развития нанотехнологий и наноиндустрии между «Российской корпорацией нанотехнологий» и Республикой Татарстан. Напомним, Соглашение между РОСНАНО и Республикой Татарстан было подписано <Node id="315"/>4 августа 2008 года<Node id="334"/>.
+
+В составе делегации РОСНАНО, возглавляемой заместителем генерального директора корпорации Андреем Малышевым, Казань посетили управляющий директор, член Правления РОСНАНО <Node id="507"/>Дионис Гордин<Node id="520"/>,<Node id="521"/> директор проектного офиса корпорации Михаил Чучкевич, директор по взаимодействию с региональными институтами развития Дмитрий Криницкий, управляющий директор Константин Деметриу, советник генерального директора Александр Вересов.
+
+Делегация РОСНАНО в сопровождении первого вице-премьера Правительства Республики Татарстан <Node id="844"/>Бориса Павлова<Node id="858"/> <Node id="859"/>посетила Казанское авиационное производственное объединение (КАПО) им. Горбунова.
+ 
+<Node id="943"/>В <Node id="945"/>настоящее время<Node id="960"/> в авиастроении наметилась устойчивая тенденция к использованию новых конструкционных материалов, позволяющих создавать более экономичные и надежные летательные аппараты, – сказал Андрей Малышев<Node id="1154"/>. – Одними из наиболее перспективных для авиационной промышленности являются композитные материалы на основе углеродного волокна, обеспечивающие высокие прочностные характеристики и удовлетворяющие повышенным требованиям износостойкости при достаточно малой удельной плотности.
+ 
+По словам генерального директора КАПО им. Горбунова Васила Каюмова, в авиалайнере ТУ-214, производящемся в Казани, композитные материалы составляют <Node id="1582"/>около 25%<Node id="1591"/> от всей конструкции, в то время как новейший Boeing 787 Dreamliner на <Node id="1662"/>60%<Node id="1665"/> состоит из композитов. Новые российские самолеты «Сухой Superjet» и МС-21 должны содержать значительно больше композиционных материалов. ОАО «Объединенная авиастроительная корпорация» (ОАК) уже задумывается о развитии собственного производства современных композиционных материалов для гражданской авиации.
+
+<Node id="1974"/>По словам Андрея Малышева, <Node id="2001"/>в Казани есть все предпосылки для размещения завода по производству авиакомпонентов, изготовленных из композитных материалов<Node id="2125"/>. Первый вице-премьер Правительства Республики Татарстан Борис Павлов<Node id="2194"/> <Node id="2195"/>в свою очередь подтвердил, что Казань готова к строительству подобного завода – в городе есть хорошая научная база, кадровый потенциал, поддержка руководства Республики и предприятие, готовое потреблять продукцию нового завода. КАПО уже выбрано ОАК в качестве базового предприятия по производству крыльев для всей Объединенной авиастроительной корпорации.
+
+Также в ходе расширенного заседания <Node id="2588"/>Координационного совета<Node id="2611"/> директор проектного офиса РОСНАНО Михаил Чучкевич рассказал о ходе рассмотрения обращений от заявителей из Республики Татарстан. Всего в корпорацию поступило 20 проектов от 13 организаций Республики. Порядка <Node id="2820"/>30%<Node id="2823"/> полученных заявок – потенциально коммерциализируемые проекты.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="943" EndNode="1154">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="520" EndNode="521">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="858" EndNode="859">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="520" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="943" EndNode="1154">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="54" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Координационного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="858" EndNode="859">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="2001" EndNode="2125">
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="2588" EndNode="2611">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Координационного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="встречи_и_переговоры" StartNode="844" EndNode="1154">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="945" EndNode="960">
+</Annotation>
+<Annotation Id="19" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="упоминается" StartNode="943" EndNode="2125">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="507" EndNode="520">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гордин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="работает" StartNode="2194" EndNode="2195">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="1974" EndNode="2125">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="сотрудники" StartNode="2194" EndNode="2195">
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Процент" StartNode="1662" EndNode="1665">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Процент" StartNode="1582" EndNode="1591">
+</Annotation>
+<Annotation Id="35" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="упоминает" StartNode="943" EndNode="2125">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="Процент" StartNode="2820" EndNode="2823">
+</Annotation>
+<Annotation Id="37" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="42" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="Дата" StartNode="315" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="цитаты" StartNode="2001" EndNode="2125">
+</Annotation>
+<Annotation Id="44" Type="высказывания_заявления" StartNode="1974" EndNode="2125">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

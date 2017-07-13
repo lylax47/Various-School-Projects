@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Catrene – новый панъевропейский проект в области нанотехнологийРуководство панъевропейской научно-исследовательской программы в области микроэлектроники Medea+, завершающей работу в <Node id="182"/>текущем году<Node id="194"/>, на <Node id="199"/>днях<Node id="203"/> представила общественности своего преемника. Новым главным перспективным европейским проектом станет программа Catrene (Cluster for Application and Technology Research in Europe on NanoElectronics), призванная принести в мир микроэлектроники последние достижения нанотехнологий.
+Catrene представляет собой четырехлетний проект, который пройдет под патронажем руководства европейской программы научно-технического сотрудничества Eureka («Эврика»). Старт программы намечен на <Node id="678"/>1 января 2008 года<Node id="696"/>.
+Бюджет Catrene составит <Node id="722"/>6 миллиардов евро<Node id="739"/> (примерно 4 тысячи человеко-<Node id="768"/>лет<Node id="771"/> ежегодно), который эквивалентен числу средств, израсходованных в рамках программы Medea+ <Node id="861"/>с 2001 по 2007 годы<Node id="880"/>. В разработке 77 проектов Medea+ приняли участие 450 больших и малых компаний, исследовательских и образовательных центров.
+
+Фундаментом Catrene послужат результаты работы ее предшественниц проектов Medea+, Medea и Jessi. Catrene затронет всех участников технологической цепочки, включая поставщиков материалов, оборудования, технологий и прикладных систем. Ее руководство получит право привлекать к работе необходимое количество промышленных предприятий, университетов и исследовательских центров.
+
+Сообщается, что большая часть средств будет затрачена на разработку решений в наиболее значимых социально-экономических областях: транспорт, здравоохранение, безопасность и энергетика.
+Вячеслав <Node id="1575"/>Кононовhttp://www.3dnews.ru/…ogii-270317/CATRENE<Node id="1623"/> program to succeed MEDEA+ as European nanoelectronics R&amp;D <Node id="1682"/>championhttp://www.nanowerk.com/…sid=3090.phpЧто<Node id="1730"/> касается финансирования совместных программ НИОКР, европейцы всегда были на высоте. И, очевидно, что масштабы работ в этой области растут. Так что и в Европе позиции НТ укрепляются, а возможности исследователей – растут…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="678" EndNode="696">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="199" EndNode="203">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="182" EndNode="194">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1575" EndNode="1623">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="722" EndNode="739">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="861" EndNode="880">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1682" EndNode="1730">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="768" EndNode="771">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

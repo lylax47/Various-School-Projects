@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В рамках данного курса вводятся основные понятия физики магнитных <Node id="68"/>наночастиц<Node id="78"/>, рассматривается влияние размера частиц на магнитные свойства. Рассматриваются основные типы магнитных <Node id="182"/>наноматериалов<Node id="196"/> – магнитотвердые материалы, материалы для магнитной записи, гипертермии, доставки лекарств и т.д. Описываются основные методы исследования магнитных свойств материалов – индукционные методы, метод <Node id="394"/>Фарадея<Node id="401"/>, СКВИД-магнетометрия.
+ 
+ 
+ План лекций: 
+ 
+Изменение физических свойств магнитных материалов с размером.  Вводятся основные понятия, используемые при описании свойств магнитных материалов, на качественном и количественном уровнях показывается влияние размера частиц магнетиков на их свойства.  Магнитотвердые <Node id="711"/>наноматериалы<Node id="724"/>.  Рассматриваются основные типы магнитотвердых <Node id="772"/>наноматериалов<Node id="786"/>, их сравнительные характеристики, способы получения.  
+ <Node id="843"/>Наноматериалы<Node id="856"/> для магнитной записи.  Рассматриваются современные <Node id="908"/>наноматериалы<Node id="921"/>, используемые в носителях информации для вычислительной техники, а также в магнитной пленке для видеокассет. Обсуждаются возможные пути повышения плотности магнитной записи.  
+ Магнитные <Node id="1109"/>наноматериалы<Node id="1122"/> для практических применений.  Рассматриваются такие применения магнитных <Node id="1196"/>наночастиц<Node id="1206"/> как гипертермия, доставка лекарств, фотоника; обсуждаются нанострукутрированные ВТСП-материалы.  
+ Методы исследования магнитных <Node id="1336"/>наноматериалов<Node id="1350"/>.  Описываются различные методы исследования магнитных <Node id="1405"/>наноматериалов<Node id="1419"/>, проводится их сравнение. Рассматриваются индукционные методы и метод <Node id="1490"/>Фарадея<Node id="1497"/>, рассматривается конструкция магнетометров. Описывается строение СКВИД-магнетометров и их основные особенности. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1405" EndNode="1419">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="1109" EndNode="1122">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1490" EndNode="1497">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фарадей</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="843" EndNode="856">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="182" EndNode="196">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="772" EndNode="786">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="908" EndNode="921">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="394" EndNode="401">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фарадей</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="1336" EndNode="1350">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="711" EndNode="724">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="68" EndNode="78">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1196" EndNode="1206">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

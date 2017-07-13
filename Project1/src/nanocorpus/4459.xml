@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> – отличные мембраны, пропускающие воду. Недавно ученым удалось управлять с высокой степенью точности протоком воды через мембрану.
+
+Как сообщает EurekAlert, исследователи из Политехнического Института Ренсслеера (Rensselaer Polytechnic Institute) разработали систему фильтрации воды с помощью <Node id="316"/>нанотрубок<Node id="326"/>, позволяющую практически мгновенно опреснять морскую воду. Кроме того, нано-фильтр будет полезен для мгновенной сортировки участков ДНК в биологических тестах.
+
+Основа метода – использование нанотрубочных мембран в качестве селективного элемента. Однако <Node id="581"/>углеродные <Node id="592"/>нанотрубки<Node id="602"/> гидрофобны, поэтому до сих пор ученым не удавалось пропустить через них воду, и, тем более, создать работоспособный фильтр на их основе.
+
+«<Node id="742"/>Хотя эта проблема давно известна, нам удалось решить ее на фундаментальном уровне, – говорит профессор <Node id="845"/>Никил<Node id="850"/> Кораткар (Nikhil Koratkar). – Мы изучили электрохимию процесса взаимодействия воды с поверхностью <Node id="949"/>нанотрубки<Node id="959"/> и установили, как можно добиться протекания воды через эту <Node id="1019"/>наноструктуру<Node id="1032"/>».
+
+Оказалось, что подача на <Node id="1061"/>нанотрубку<Node id="1071"/> определенного низкого потенциала заставляет воду просачиваться через стенки <Node id="1148"/>нанотрубок<Node id="1158"/>. При этом ученые могут с небывалой точностью контролировать этот процесс, изменяя напряжение.
+
+«Не секрет, что одним из главных вопросов человечества, которые встанут перед ним в будущем, будет добыча чистой пресной воды, – продолжает <Node id="1394"/>Никил<Node id="1399"/>. – Если же мы сможем эффективно опреснять морскую воду, то проблема будет решена. Я считаю, что своим открытием мы сделали первый шаг к решению этой проблемы. Следующим шагом мы постараемся сортировать с помощью <Node id="1612"/>нанотрубок<Node id="1622"/> молекулы протеинов и ДНК, для того, чтобы улучшить современные ДНК-анализаторы».
+
+Процесс работы нано-фильтра очень прост: вода заряжается до отрицательного потенциала в –1,7 Вольт, в то время как <Node id="1820"/>углеродной <Node id="1831"/>нанотрубке<Node id="1841"/> сообщается эквивалентный положительный потенциал. <Node id="1892"/>После этого<Node id="1903"/> <Node id="1904"/>нанотрубка<Node id="1914"/> «переключается» из гидрофобного «режима» в гидрофильный «режим», пропуская через себя воду. Однако если ученые заряжали отрицательно <Node id="2048"/>нанотрубку<Node id="2058"/>, а воду – положительно, то для протока требовался серьезный потенциал – около 90 Вольт.
+
+В основе этого процесса лежит электрохимическое оксидирование <Node id="2210"/>нанотрубки<Node id="2220"/>, благодаря которому она и становится гидрофильной.
+
+Теперь же ученые планируют сделать прототип нанотрубочного фильтра, позволяющего отделять органику и соли от чистой воды.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1148" EndNode="1158">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1892" EndNode="1903">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1612" EndNode="1622">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1831" EndNode="1841">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="949" EndNode="959">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="2048" EndNode="2058">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="1820" EndNode="1841">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="581" EndNode="602">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1061" EndNode="1071">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="742" EndNode="850">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1904" EndNode="1914">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="1394" EndNode="1399">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Никил</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="845" EndNode="850">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Никил</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Наноструктура" StartNode="1019" EndNode="1032">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="2210" EndNode="2220">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="316" EndNode="326">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="автор" StartNode="742" EndNode="850">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="592" EndNode="602">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

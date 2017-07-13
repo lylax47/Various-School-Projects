@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>16–17 сентября<Node id="15"/> в Швейцарии будут проходить Международный конгресс и ведущая европейская выставка NanoEurope, посвященная вопросам ноу хау в нанотехнологиях (Тhe 6. NanoEurope, St.Gallen, Switzerland from September 16 – 17, 2008). <Node id="231"/>(http://www.nanoeurope.com/…ome/home.php)<Node id="272"/>
+
+<Node id="274"/>Конгресс<Node id="282"/> призван продемонстрировать успешные коммерческие приложения нанотехнологии и представить новейшие нанотехнологии, которые могут быть успешно коммерциализированы. Выставка будет проходить параллельно с конгрессом и предложит бизнесам в различных технических областях технологические и коммерческие решения по внедрению новейших результатов исследований. И конгресс и выставка направлены на объединение усилий исследователей и деловых людей и будут способствовать генерации новых инвестиционных проектов и направлений.
+
+Основной направленностью конгресса и выставки NanoEurope <Node id="858"/>этого года<Node id="868"/> будут разработки в областях наноэлектроники и сенсорных систем, систем с функциональными поверхностями и структурами, а также текстильные изделия многофункционального применения. В рамках NanoEurope 2008 пройдет конференция по регулированию и законодательству в области нанотехнологий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1" EndNode="15">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="231" EndNode="272">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="858" EndNode="868">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="274" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Конгресс</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

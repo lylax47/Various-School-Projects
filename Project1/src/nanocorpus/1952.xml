@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Медведев<Node id="8"/> обеспокоен эффективностью прохождения государственных средств, выделенных <Node id="83"/>правительством<Node id="97"/> и <Node id="100"/>Центробанком<Node id="112"/> для преодоления кризиса <Node id="137"/>ликвидностиПрезидент Медведев<Node id="166"/> обеспокоен эффективностью прохождения государственных средств, выделенных <Node id="241"/>правительством<Node id="255"/> и <Node id="258"/>Центробанком<Node id="270"/> для преодоления кризиса ликвидности
+Сегодня он призвал сократить число посредников при распределении государственных ресурсов.
+ 
+«Только в этом случае, – заявил президент России, – помощь пострадавшим от кризиса секторам экономики будет действенной».
+  «Но все эти меры принесут успех только в одном случае: если эта среда будет по-настоящему восприимчива к тем решениям, которые приняты (<Node id="660"/>правительством<Node id="674"/>)», – заявил президент РФ. «Нужно смотреть за тенденцией, связанной с оттоком капитала», – сказал президент во вторник на встрече с президиумом Торгово-промышленной палаты (ТПП) РФ.
+  <Node id="858"/>Медведев<Node id="866"/> также признал, что некоторые инновационные госпроекты, на которые затрачено много денег, до сих пор не совершили прорыва<Node id="987"/>. По <Node id="992"/>его<Node id="995"/> словам, в сфере высоких технологий и нанотехнологий пока почти ничего не сделано. <Node id="1078"/>http://echo.msk.ru<Node id="1096"/>/…32-echo.htmlДа-а-а, уж если на заседании, посвящённому «совсем другому» вопросу, у президента с языка срываются подобные слова, значит, он постоянно думает об этом… И дела эти его сильно беспокоят. Я думаю, что много людей будут неспокойно спать этой ночью: и Владимир Владимирович, и Анатолий Борисович, и <Node id="1405"/>Жорес<Node id="1410"/> <Node id="1411"/>Иванович<Node id="1419"/>… И ещё многие-многие другие. Ведь, как говорится, время идёт, время бежит… Вроде бы всё (со стороны руководства страны) сделано: деньги – выделены, корпорация – создана, «ответственные» – назначены… А вот где-то – постоянный «затык», ну не катится «колымага», не движется «конвейер» и т.п. А ведь с самого начала предполагалось, что именно за это «звено» – высокие технологии и нанотехнологии – только и можно будет вытащить нашу экономику из глубокого прорыва, в котором она находится сейчас, придать ей необходимое ускорение, не отстать навсегда от других промышленно развитых стран… И ведь скоро начальство может потерять терпение. И настанет время принимать серьёзные «организационные решения/выводы»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="83" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="258" EndNode="270">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Центробанком</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1411" EndNode="1419">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="858" EndNode="987">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="137" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Медведев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="858" EndNode="866">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Медведев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1078" EndNode="1096">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Властная_Структура" StartNode="100" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Центробанком</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Властная_Структура" StartNode="241" EndNode="255">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1405" EndNode="1410">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Властная_Структура" StartNode="660" EndNode="674">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="992" EndNode="995">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="858" EndNode="987">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Медведев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

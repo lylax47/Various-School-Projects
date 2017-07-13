@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Ученые из группы, занимающейся наноуглеродными материалами (Kenji Hata, Tatsuki Hiraoka) в исследовательском центре передовых углеродных материалов Национального института AIST (Advanced Industrial Science and Technology) и корпорация Zeon совместно разработали новую технологию синтеза одностенных углреродных <Node id="313"/>нанотрубок<Node id="323"/> в препаративных количествах на большой площади металлических субстратов. Они применяли метод «супер-роста» при <Node id="435"/>химическом осаждении<Node id="455"/> из газовой фазы (CVD), который является одним из широко используемых методов при синтезе <Node id="545"/>нанотрубок<Node id="555"/>.
+ 
+В стандартном методе «супер-роста» применяется дорогой кремниевый субстрат. В данной работе авторы преуспели в синтезе <Node id="678"/>нанотрубок<Node id="688"/> на недорогом субстрате на основе никелевого сплава. В то же время группа исследователей разработала пробную синтетическую установку, которую можно использовать для синтеза <Node id="861"/>нанотрубок<Node id="871"/> по новой методике, и успешно синтезировала одностенные <Node id="927"/>нанотрубки<Node id="937"/> однородной структуры на листе субстрата размером А4. Синтез в таком большом объеме является в сотни раз более эффективным, чем известные ранее. Теперь выход измеряется в граммах.
+ 
+Одностенные <Node id="1131"/>нанотрубки<Node id="1141"/>, синтезированные по новой технологии, растут вертикально на металлической фольге, и достаточно <Node id="1237"/>десяти минут<Node id="1249"/> для того, чтобы образовался слой <Node id="1283"/>нанотрубок<Node id="1293"/> высотой в 1 мм. Получаемые таким образом <Node id="1335"/>нанотрубки<Node id="1345"/> обладают замечательными свойствами, среди которых – высочайшая, по мировым стандартам, степень чистоты и самая большая поверхность и длина, по своим значениям близкие к тем, что получены на кремниевых субстратах. 
+ 
+Предложенная новая технология позволяет уменьшить стоимость субстрата на одну сотую от существующей. Будучи ключевой технологией производства одностенных <Node id="1716"/>углеродных <Node id="1727"/>нанотрубок<Node id="1737"/>, она готовит почву для более масштабного производства этих материалов. Некоторые результаты этих исследований опубликованы в Journal of the American Chemical Society. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="861" EndNode="871">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1283" EndNode="1293">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1335" EndNode="1345">
+</Annotation>
+<Annotation Id="4" Type="Химическое+осаждение" StartNode="435" EndNode="455">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1727" EndNode="1737">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1131" EndNode="1141">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="678" EndNode="688">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="313" EndNode="323">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="1716" EndNode="1737">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1237" EndNode="1249">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="545" EndNode="555">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="927" EndNode="937">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

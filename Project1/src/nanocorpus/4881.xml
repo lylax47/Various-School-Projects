@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В «Технионе» изобрели прибор для моментальной безболезненной диагностики ракаУченые «Техниона» изобрели детектор, который позволит по выдоху определить не только наличие у пациента онкологических заболеваний, но также тип и месторасположение опухоли, сообщает «Едиот Ахронот». Изобретение, которое произведет революцию в диагностике онкологии, изобретатели называют «искусственный нос».
+
+Новый детектор позволит избежать стандартных процедур, принятых сегодня для диагностики раковых заболеваний: СТ и биопсии, которые являются чрезвычайно болезненными и, что самое главное, могут быть выполнены только тогда, когда опухоль уже сформировалась.
+
+«Искусственный нос» – меньше булавочной головки. Он вмонтирован в прибор, напоминающий по форме мобильный телефон, и находится на конце металлической трубки, похожей на антенну.
+
+Новое изобретение относится к области нанотехнологий. Доктор <Node id="885"/>Хосен<Node id="890"/> <Node id="891"/>Хаик<Node id="895"/> (32), в лаборатории которого был изобретен «искуственный нос», объясняет принцип <Node id="977"/>его<Node id="980"/> работы:
+ 
+«При выдохе больного человека осуществляется выброс мельчайших раковых частиц, обладающих определенными физическими и химическими свойствами. Анализ их характеристик производится на основе определения длины электроволн при помощи специальных чипов. Эти чипы умеют определять, о каком виде раковых клеток идет речь и где они находятся. <Node id="1326"/>Через 30 секунд<Node id="1341"/> после выдоха на экране появляется результат анализа».
+ 
+В рамках эксперимента «искуственный нос» опробован на десятках пациентов онкологического отделения больницы «Рамбам». Детектор был признан эффективным.
+
+<Node id="1551"/>По словам доктора <Node id="1569"/>Хаика<Node id="1574"/>, <Node id="1576"/>через два года<Node id="1590"/> начнется массовое производство детектора, который позволит устанавливать факт наличия онкологического заболевания<Node id="1704"/>. <Node id="1706"/>Через пять лет<Node id="1720"/> «искуственный нос» сможет точно определять тип и место расположения опухоли.
+
+Разработки высокотехнологичного детектора начались <Node id="1850"/>два года назад<Node id="1864"/>. Завершить исследование в короткое время помог грант фонда ЕС в размере <Node id="1937"/>1,7 миллиона долларов<Node id="1958"/>, выделенный группе ученых под руководством д-ра <Node id="2007"/>Хаика<Node id="2012"/>. Исследователи работают в лабораториях Института нанотехнологий Рассела Бари при факультете химической инженерии «Техниона».
+<Node id="2138"/>http://www.newsru.co.il/…logy201.htmlВот<Node id="2178"/> ещё одно прекрасное изобретение, которое может революционизировать процесс диагностики раковых заболеваний. Если, разумеется, все эти сведения подтвердятся – до того уж трудно поверить в то, что пишут в газете. Тогда проблема (ранней) диагностики и, соответственно, (хотя бы частичная) победа над этим страшным заболеванием будет достигнута. По крайней мере, в борьбе этой будет достигнут ещё один важный рубеж… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1576" EndNode="1590">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="977" EndNode="980">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2138" EndNode="2178">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1706" EndNode="1720">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1569" EndNode="1574">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хаик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="891" EndNode="895">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хаик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1551" EndNode="1704">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="2007" EndNode="2012">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хаик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="1551" EndNode="1704">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1937" EndNode="1958">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="885" EndNode="890">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хосен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1850" EndNode="1864">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1326" EndNode="1341">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

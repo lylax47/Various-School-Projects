@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Определены фотографии-победительницы Международного конкурса фотографий, полученных с помощью сканирующего зондового микроскопа (The International Scanning Probe Microscope Image Contest (SPMage07)).
+
+Победители были отобраны среди 300 изображений, присланных со всего мира. Понадобилось два тура, чтобы выбрать лучшие.
+
+Победителем стала фотография “<Node id="352"/>Нанокольца<Node id="362"/>” Андреаса Фурера (Andreas Fuhrer) из Цюриха. Второй приз получила фотография «Поверхность красной клетки человеческой крови после обработки антибиотиком-пептидом» («The surface of human red blood cells after treatment with antibiotic peptide».), присланная Лучиано Паулино (Luciano Paulino) из Бразилии, Фото Константина Демиденка (Konstantin Demidenok) из Германии, названная «Корень» (@Root”) получила 3-е место.
+
+Изображения-победительницы опубликованы на странице &lt;a href=”<Node id="840"/>http://www.icmm.csic.es/spmage07/prizes.php<Node id="883"/> ”&gt;<Node id="886"/>http://www.icmm.csic.es/spmage07/prizes.php<Node id="929"/>
+Дмитрий Лещев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="886" EndNode="929">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="840" EndNode="883">
+</Annotation>
+<Annotation Id="4" Type="Нанокольцо" StartNode="352" EndNode="362">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

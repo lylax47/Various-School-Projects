@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Успех ортопедических операций зависит от того, приживется ли имплантант, то есть будут ли костные ткани расти на поверхности металла из которого сделана искусственная конечность. 
+ 
+Ученые из Брауновского Университета (BrownUniversity) во главе с Томасом Вебстером (ThomasWebster) изобрели новый материал, который, возможно, сильно повысит процент успешных имплантаций. Они взяли самый распространенный материал для имплантантов – титан – анодировали его, а затем, наполнили образовавшиеся после анодирования поры кобальтовым катализатором. Далее методом осаждения из паровой пары на пористой поверхности был выращен массив многостенных <Node id="639"/>углеродных <Node id="650"/>нанотрубок<Node id="660"/>. 
+ 
+ 
+Человеческие остеобласты, клетки, формирующие костную ткань, поместили на поверхность полученного материала, а также на обычный и анодированный титан. Образцы оставили на <Node id="838"/>три недели<Node id="848"/> в инкубаторе. Оказалось, что на новом материале клетки росли вдвое быстрее, а также выделяли больше кальция, необходимого для здоровья костей. 
+ 
+ 
+ 
+Результаты опубликованы в журнале Nanotechnology.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="650" EndNode="660">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="838" EndNode="848">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

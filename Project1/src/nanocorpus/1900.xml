@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Нижегородский Минсельхоз направит <Node id="34"/>более 1 млн. рублей<Node id="53"/> на оценку эффективности применения удобрений с использованием нанотехнологийНижний Новгород. <Node id="147"/>12 октября<Node id="157"/> – Министерство сельского хозяйства и продовольственных ресурсов Нижегородской области направит <Node id="253"/>1,024 млн. рублей<Node id="270"/> на экспериментальную оценку эффективности применения в растениеводстве новых видов удобрений с использованием нанотехнологий.
+Согласно сообщению на сайте облправительства, один из лотов объявленного открытого конкурса на выполнение научно-исследовательских работ предусматривает разработку и проведение до <Node id="577"/>25 декабря<Node id="587"/> экспериментальную оценку эффективности применения в растениеводстве новых видов удобрений с использованием нанотехнологий.
+
+Победитель конкурса должен провести опыты в 4 сельскохозяйственных предприятиях Нижегородской области на различных сельскохозяйственных культурах с целью добиться снижения доз минеральных удобрений и химических фунгицидов на <Node id="937"/>30%<Node id="940"/>, повышения урожайности на <Node id="967"/>20%<Node id="970"/>, уменьшения посевных норм на <Node id="1000"/>10%<Node id="1003"/>.
+
+Источником финансирования является областной бюджет.
+
+Заявки на участие в конкурсе принимаются <Node id="1101"/>с 10 октября по 9 ноября<Node id="1125"/>, а подведение итогов конкурса состоится <Node id="1166"/>10 декабря<Node id="1176"/>, отмечается в сообщении.
+<Node id="1202"/>http://www.nta-nn.ru/news/item/?…Убейте<Node id="1241"/> меня, ума не приложу, КАК это они сумеют за полтора-<Node id="1294"/>два месяца<Node id="1304"/> оценить «эффективность удобрений с использованием нанотехнологий»? У них что – растения вырастают за <Node id="1406"/>неделю<Node id="1412"/>-другую? Или будут судить по «всхожести»? Да, в Нижнем умеют задавать загадки… Сами-то смогут на них ответить???..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="253" EndNode="270">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="967" EndNode="970">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1294" EndNode="1304">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1202" EndNode="1241">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="577" EndNode="587">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="937" EndNode="940">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="147" EndNode="157">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1166" EndNode="1176">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="34" EndNode="53">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1000" EndNode="1003">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1406" EndNode="1412">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1101" EndNode="1125">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

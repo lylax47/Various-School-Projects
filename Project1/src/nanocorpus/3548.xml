@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Электронно-микроскопическое (рисунок а) и дальнепольное трансмиссионное оптическое (рисунок б) (в белом свете) изображения металлического фотонного кристалла (25х25 мкм) для видимого диапазона. Фотонный кристалл получен методом <Node id="229"/>травления<Node id="238"/> фокусированного  ионного пучка. 
+    
+ 
+        
+ 
+         
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Травление" StartNode="229" EndNode="238">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

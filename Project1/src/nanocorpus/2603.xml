@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>Наночастицы<Node id="13"/> серебра различной формы и размера (в основном пластинки). 
+Водные растворы, концентрация серебра - около 0.1 миллимоль/л. 
+"Функциональное Нано": поверхностный плазмонный резонанс зависит от формы и размера частиц и определяет цвет дисперсий. 
+"Радуга" возникла как-то сама собой по ходу работы над монодисперсными частицами серебра (и имеет больше эстетическую, нежели научную, ценность). 
+    
+ 
+      
+ 
+  
+ 
+                       
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="2" EndNode="13">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

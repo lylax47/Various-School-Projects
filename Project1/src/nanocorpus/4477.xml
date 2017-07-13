@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Конкурсная комиссия избрала <Node id="29"/>Федеральное государственное учреждение<Node id="67"/> "Российский научный центр "Курчатовский институт" (пл. Курчатова, д. 1, г. Москва, 123182) победителем конкурса 
+по определению головной научной организации "Программы координации работ в области нанотехнологий и наноматериаловв Российской Федерации". Головная научная организация должна выполнять следующие функции:   осуществлять научное и методическое обеспечение координации исследований и разработок в области нанотехнологий и <Node id="500"/>наноматериалов<Node id="514"/> для формирования технологической базы в рамках Программы; осуществлять комплексную научную и технологическую экспертизу мероприятий Программы в области соответствующих исследований и разработок, включая экспертизу достигнутых результатов и определение потенциала их производства и продажи; осуществлять научное и методическое обеспечение координации проектов международного научно-технического сотрудничества в области нанотехнологий и <Node id="951"/>наноматериалов<Node id="965"/>; оценивать перспективы и вырабатывать рекомендации по использованию результатов исследований и разработок гражданского, военного и двойного назначения в области нанотехнологий и <Node id="1144"/>наноматериалов<Node id="1158"/> (по согласованию с соответствующими федеральными органами исполнительной власти); обеспечивать взаимодействие с головными организациями отраслей по вопросам научных исследований, коммерциализации технологий, организации серийного производства; осуществлять научное и методическое обеспечение подготовки специалистов в области нанотехнологий и <Node id="1502"/>наноматериалов<Node id="1516"/>.  
+О проведение конкурса сообщалось здесь.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1144" EndNode="1158">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="29" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное государственное учреждение</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="500" EndNode="514">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="951" EndNode="965">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1502" EndNode="1516">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

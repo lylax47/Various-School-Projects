@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Московский Государственный Университет им.М.В.Ломоносова проводит Первую Всероссийскую Интернет - олимпиаду в области <Node id="120"/>наноматериалов<Node id="134"/> и нанотехнологий "Нанотехнологии - прорыв в Будущее!".   
+ 
+ Целью олимпиады является поиск и поощрение молодых талантов, желающих участвовать в развитии нанотехнологий в Российской Федерации, в какой бы школе, ВУЗе или другой организации они ни находились. В Олимпиаде может принять участие любой пользователь всемирной сети Интернет в возрасте <Node id="481"/>до 27 лет<Node id="490"/>.  Дополнительно победителям-абитуриентам (гражданам РФ) будут даны преимущества при поступлении в МГУ в рамках действующих правил приема, а студенты ВУЗов, показавшие наилучшие результаты, получат, по их желанию, возможность продолжить свою учебу в МГУ. Официальным языком Олимпиады является русский язык.  
+ 
+ Оргкомитет:  Почетный Председатель:  Ректор Московского Государственного Университета им. М.В.Ломоносова, акад. В.А.Садовничий Сопредседатели:  Проректор, зав. кафедрой общей физики физического ф-та МГУ, проф. А.М.Салецкий, Декан Факультета Наук о Материалах, зав. каф. неорганической химии химического ф-та МГУ, акад. Ю.Д.Третьяков   
+ 
+ В жюри олимпиады включены видные ученые и специалисты в области <Node id="1205"/>наноматериалов<Node id="1219"/> и нанотехнологий, члены Российской Академии Наук, профессора МГУ, директора инновационных компаний. 
+ 
+ 
+ 
+ С <Node id="1330"/>1 июня<Node id="1336"/> на сайте опубликованы задания олимпиады. <Node id="1378"/>В течение одной недели<Node id="1400"/> необходимо решить максимальное количество различных по сложности задач, что и определит победителей олимпиады. Призеров олимпиады ожидают дипломы, грамоты, денежные призы и уникальные ценные подарки.  
+ 
+ 
+ 
+ В разделе "Библиотека" опубликован Циркуляр Олимпиады.    Информационная поддержка осуществляется партнерами портала Нанометр.    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1378" EndNode="1400">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="481" EndNode="490">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="1205" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1330" EndNode="1336">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="120" EndNode="134">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

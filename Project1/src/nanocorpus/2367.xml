@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>С 11 по 14 августа с.г.<Node id="24"/> в Германии будет проходить Международная конференция Оптические МЭМС и Нанофотоника (Optical MEMS &amp; Nanophotonics, Freiburg, Germany 11– 14 August 2008). Конференция посвящена вопросам новейших достижений в областях расчета, проектирования и изготовления оптических микро-электро-механических систем и интегральной микро-оптики. В программу конференции также включены секции по быстрорастущим областям, относящимся к устройствам нанофотоники и интегральных систем <Node id="489"/>http://www.ieee.org/…8/index.html).<Node id="524"/> Основным лейтмотивом конференции будут интеграция и миниатюризация фотоники и оптических компонентов МЭМС для целей различных приложений.
+
+Председатель конференции- Ханс Заппе (Hans Zappe) из Университета Фрайбурга, Германия.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="489" EndNode="524">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1" EndNode="24">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

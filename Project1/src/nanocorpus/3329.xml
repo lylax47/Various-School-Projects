@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Команда ученых из нескольких исследовательских институтов Парижа синтезировала <Node id="80"/>наночастицы<Node id="91"/>, содержащие металл, которые излучают свет в течении <Node id="144"/>нескольких часов<Node id="160"/> после возбуждения. Эти частицы могут быть использованы для визуализации раковых клеток. Ученые продемонстрировали, что единожды облученные <Node id="300"/>наночастицы<Node id="311"/> могут быть введены в животное, и давать изображение без дополнительной энергии. 
+ 
+Ученые Daniel Scherman, Quentin le Masne de Chermont и их коллеги представили свои методики синтеза неорганических <Node id="510"/>наночастиц<Node id="520"/> на основе силиката магния, допированного европием и диспрозием ("Nanoprobes with near-infrared persistent luminescence for in vivo imaging" ). Полученные частицы имели диаметр в интервале 50-100 нм. Было показано, что атомы люминесцирующих металлов концентрировались в центре <Node id="797"/>наночастиц<Node id="807"/>, формируя электронное ядро, которое могло абсорбировать световую энергию и излучать красный и инфракрасный свет в течение длительного периода времени. 
+ 
+Ученые также разработали химические методы модификации поверхности этих <Node id="1034"/>наночастиц<Node id="1044"/>. Были получены частицы с положительно, отрицательно заряженной поверхностью, а также с нейтральной. После облучения частицы были введены в животных, и их распределение в теле наблюдалось в режиме реального времени, используя спектроскопию ближней ИК-области. Ученые также использовали полученные <Node id="1341"/>наночастицы<Node id="1352"/> для визуализации опухолей имплантированных мышам. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="80" EndNode="91">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="300" EndNode="311">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1341" EndNode="1352">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="797" EndNode="807">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1034" EndNode="1044">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="144" EndNode="160">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="510" EndNode="520">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

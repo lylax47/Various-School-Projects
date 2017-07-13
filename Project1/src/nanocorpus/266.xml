@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+2-я Российская школа по информационному поиску состоится 01.09.- 05.09 <Node id="73"/>2008 г.<Node id="80"/> в Таганроге на базе Таганрогского технологического института Южного федерального округа. 
+ 
+Цель - ознакомить слушателей со спектром современных методов информационного поиска. 
+ 
+В рамках школы проводится Российская конференция молодых ученых по информационному поиску. 
+ 
+Школа рассчитана на студентов старших курсов, аспирантов, молодых ученых, а также разработчиков с опытом создания информационно-поисковых систем. Число участников - примерно 100 человек. Рабочие языки школы - русский и английский. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="73" EndNode="80">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

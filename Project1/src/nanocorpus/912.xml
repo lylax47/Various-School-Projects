@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Две южнокорейские компании Samsung Electronics Co. Ltd. и Hynix Semiconductor Inc., обе крупнейшие чипмейкеры, занимающие лидирующее положение по продажам полупроводниковой памяти, планируют объединить усилия в разработке оперативной магнитной памяти, основанной на взаимодействии спинов (spin-torque-transfer magnetic-random-access-memory, STT-MRAM) и стать промышленными лидерами в производстве чипов на подложках диаметром 450 мм.
+
+Сообщение о новом альянсе сделано в Сеуле в присутствии официального представителя южнокорейского <Node id="534"/>правительства<Node id="547"/>. Цель альянса – разработка новой базовой технологии независимо от зарубежных компаний, которым до сих пор Samsung выплачивает крупные гонорары за использование лицензионных технологий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="534" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

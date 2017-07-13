@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учёные из Технологического Института Джорджии в США обнаружили явление, позволяющее использовать эффект Джозефсона для обнаружения механического движения в <Node id="157"/>наноструктурах<Node id="171"/>.
+
+Эффект, предсказанный Брайаном Джозефсоном в <Node id="219"/>1962 году<Node id="228"/> и принесший ему Нобелевскую премию по физике в <Node id="276"/>1973 году<Node id="285"/>, заключается в следующем. Если приложить разность потенциалов к двум сверхпроводникам, соединённым тонким изолирующим барьером, через такой Джозефсоновский контакт будет протекать переменный ток с частотой, прямо зависящей от приложенного напряжения.
+
+Эти предсказания неоднократно подтверждались экспериментально, так что <Node id="609"/>на сегодняшний день<Node id="628"/> единица измерения напряжения в СИ – Вольт – определена через частоту Джозефсоновского тока. Эффект используется во многих областях: для сверхчувствительного детектирования электромагнитного излучения или слабых магнитных полей, а также в сверхпроводниковых <Node id="886"/>кубитах<Node id="893"/>. Теперь экспериментатор Алексей Марченков и теоретик <Node id="947"/>Узи Ландман<Node id="958"/> из Технологического Института Джорджии обнаружили, что эффект Джозефсона может быть использован для обнаружения механического движения атомов в Джозефсоновском контакте.
+
+В <Node id="1132"/>январе<Node id="1138"/> <Node id="1139"/>этого года<Node id="1149"/> учёные опубликовали работу, в которой сообщали, что флуктуации проводимости ультратонких ниобиевых <Node id="1249"/>нанопроволок<Node id="1261"/> вызваны колебаниями пар атомов (димеров) между подводящими контактами. В дальнейших экспериментах, проведённых ниже температуры сверхпроводящего перехода, были обнаружены новые необычные особенности вольтамперных характеристик соединения. Исследователи предположили, что новые пики проводимости при определённых значениях напряжения также связаны с механическим движением димера. При этом каждое такое пиковое напряжение должно соответствовать резонансу между частотой эффекта Джозефсона и колебательной частотой <Node id="1775"/>наноструктуры<Node id="1788"/> в контакте.
+
+Проведя квантово-химическое моделирование, учёные рассчитали частоты трёх возможных колебаний димера между двумя электродами: движения «вперёд-назад» от одного электрода к другому, колебания перпендикулярно оси структуры и крутильного колебания относительно центра всей структуры. При этом пики проводимости должны наблюдаться при напряжениях, для которых частота Джозефсоновского тока равна этим частотам или их целым кратным. «Прицельная» экспериментальная проверка подтвердила эти результаты. При этом при повышении температуры до температуры сверхпроводящего перехода интенсивность пиков снижалась, но положение оставалось неизменным.
+
+В дальнейшие планы исследователей входит более детальное изучение влияния атомных колебаний на свойства Джозефсоновских контактов, а также разработка новых методов определения колебательных характеристик, атомной структуры и транспортных механизмов в нанообъектах.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="219" EndNode="228">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="947" EndNode="958">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ландман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1139" EndNode="1149">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="609" EndNode="628">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1132" EndNode="1138">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="276" EndNode="285">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="1775" EndNode="1788">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="276" EndNode="285">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанопроволока" StartNode="1249" EndNode="1261">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="157" EndNode="171">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="219" EndNode="228">
+</Annotation>
+<Annotation Id="23" Type="Кубит" StartNode="886" EndNode="893">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

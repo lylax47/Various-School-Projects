@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Президенты России и Казахстана Дмитрий Медведев и Нурсултан Назарбаев посетили выставку «Высокие технологии в регионы. Приграничное сотрудничество», которая проходит в казахстанском Актюбинске в рамках пятого форума руководителей приграничных регионов двух стран.
+
+Здесь демонстрируют свои технологии 16 регионов России, в том числе не только приграничные, но и Москва, Санкт-Петербург, Татарстан, Свердловская область. Казахстан представляют восемь приграничных областей. Столь масштабная выставка товаропроизводителей регионов двух стран, площадь которой составила около двух тысяч квадратных метров, проводится впервые.
+
+Участники выставки имеют возможность показать свою продукцию на 40 плазменных экранах. Здесь же демонстрируется видеосюжет комитета таможенного контроля министерства финансов Казахстана и Таможенного комитета РФ о совместном таможенном контроле на казахстанско-российской границе.
+
+Большим интересом также пользуются такие экспозиции, как «Инновационные технологии Республики Казахстан» и «Нанотехнологии Российской Федерации».
+
+Президенты России и Казахстана во время посещения выставки с помощью видеотрансляции приняли участие в церемонии запуска в работу комбината по обогащению хромовой руды «Восход-Хром» в Актюбинской области. Как пояснил исполнительный директор компании-владельца комбината Баратов Тахирджан, это фирма со стопроцентным участием российского капитала – компании «Мечел». <Node id="1420"/>Он<Node id="1422"/> отметил, что <Node id="1436"/>баланс запаса руды на залежах, которыми владеет «Мечел», оценивается в 20 миллионов тонн хромовой руды с 40-процентным содержанием хрома<Node id="1572"/>. Это месторождение уникально, и фирма может <Node id="1617"/>15–20 лет<Node id="1626"/> осуществлять разработку месторождений.
+
+Пуск горно-обогатительного комбината наполовину финансируется «Евразийским банком развития», учрежденным Россией и Казахстаном, сообщил журналистам директор банка Игорь Финогенов. По <Node id="1850"/>его<Node id="1853"/> словам, всего на создание комбината будет затрачено <Node id="1906"/>120 миллионов долларов<Node id="1928"/>, 60 миллионов из них внес банк. <Node id="1961"/>Финогенов также рассказал, что капитал банка в <Node id="2008"/>настоящий момент<Node id="2024"/> составляет <Node id="2036"/>1,5 миллиарда долларов<Node id="2058"/>. Учредители – Россия и Казахстан – полностью внесли свои взносы: 1 миллиард и <Node id="2137"/>0,5 миллиарда долларов<Node id="2159"/> соответственно. Заявки на прием в банк подали Белоруссия, Таджикистан и Армения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1420" EndNode="1572">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="1436" EndNode="1572">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="2036" EndNode="2058">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="1420" EndNode="2058">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1961" EndNode="2058">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="2008" EndNode="2024">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="1436" EndNode="1572">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1420" EndNode="1422">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1961" EndNode="2058">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1617" EndNode="1626">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1420" EndNode="1572">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1850" EndNode="1853">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="упоминается" StartNode="1420" EndNode="2058">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="2137" EndNode="2159">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="1906" EndNode="1928">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

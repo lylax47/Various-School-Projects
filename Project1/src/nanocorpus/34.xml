@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор из Англии прочитал в СГУ лекцию 19 cентября 2007Профессор Университета королевы <Node id="90"/>Марии<Node id="95"/> в рамках международного проекта «Bridge» прочитал в СГУ лекцию, посвященную вопросам микрокапсулирования.
+Глеб Борисович Сухоруков рассказал студентам, аспирантам и преподавателям СГУ о новейших разработках в области нанотехнологий, связанных с микрокапсулированием. Исследователи в рамках этого направления занимаются изучением и разработкой микрокапсул, а также дальнейшим их применением.
+
+<Node id="488"/>По словам Глеба Борисовича, эта отрасль находит широкое применение в медицине<Node id="565"/>. В частности, с помощью микрокапсул упрощается доставка лекарственных соединений в область их непосредственного действия.
+
+Лекция известного ученого является одним из направлений реализации проекта «Создание и исследование мультифункциональных микроконтейнеров с дистанционно управляемыми свойствами».
+Главной его целью является усиление научного сотрудничества между факультетом материаловедения Университета королевы <Node id="985"/>Марии<Node id="990"/> в Лондоне и Саратовским государственным университетом в области создания микрокапсул, <Node id="1077"/>нанокомпозитных пленок<Node id="1099"/> для биомедицинских применений.
+<Node id="1131"/>http://vzsar.ru/news/8090.htmlТакого<Node id="1167"/> рода сотрудничество чрезвычайно важно как с точки зрения подготовки кадров, так и ознакомления наших исследователей с новейшими достижениями зарубежных учёных, «в роли которых» часто вытупают наши соотечественники. Было бы неплохо, если бы все (или, по крайней мере, многие) из них последовали бы благородному примеру Глеба Борисовича… Большущее ему спасибо!.. Кстати, пару <Node id="1542"/>месяцев<Node id="1549"/> нвзад мы уже публиковали обширное интервью с учёным: <Node id="1603"/>http://www.nanonewsnet.ru/…h-ne-boyatsy<Node id="1642"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1542" EndNode="1549">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="488" EndNode="565">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1603" EndNode="1642">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="90" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Марий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="985" EndNode="990">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Марий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="488" EndNode="565">
+</Annotation>
+<Annotation Id="13" Type="Нанокомпозитная+пленка" StartNode="1077" EndNode="1099">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1131" EndNode="1167">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

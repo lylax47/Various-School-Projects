@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Институте генетики и цитологии Национальной академии наук Беларуси будут изучать генетические эффекты <Node id="105"/>нанопорошков<Node id="117"/>. Об этом сообщила заведующая лабораторией генетики животных Института генетики и цитологии Национальной академии наук Беларуси, доктор биологических наук, профессор <Node id="283"/>Ирма Моссэ<Node id="293"/> <Node id="294"/>29 февраля<Node id="304"/> на пресс-конференции в Минске.
+
+По ее словам, <Node id="351"/>нанопорошки<Node id="362"/> — частицы металлов или других веществ (серебро, золото, углерод) очень малого размера — все более активно используются в современном мире: в различных промышленных технологиях, медицине, в том числе для диагностики и лечения рака, а также других видах деятельности человека. Благодаря своему малому размеру они имеют особенные свойства, например отражают свет, и этим дают колоссальное преимущество технологиям.
+
+Вместе с тем генетические эффекты <Node id="810"/>нанопорошков<Node id="822"/> еще совершенно не изучены, хотя исследования токсических эффектов таких частиц уже проводились. Так, было доказано, что некоторые из них могут вызывать вредные эффекты в клетках человека.
+
+Как сообщила <Node id="1025"/>И.Моссэ<Node id="1032"/>, белорусские ученые планируют «сделать вывод о том, опасны или безопасны <Node id="1106"/>наночастицы<Node id="1117"/> для наследственности человека». Так, в случае доказательства вредного воздействия <Node id="1200"/>нанопорошков<Node id="1212"/> на человеческие гены, промышленность будет вынуждена принимать особенные меры по защите сотрудников, контактирующих с частицами: размер <Node id="1349"/>наночастиц<Node id="1359"/> сопоставим с вирусами, и они могут проникать в организм не только при вдыхании и с пищей, но даже через кожу.
+
+По словам специалиста, во всем мире с <Node id="1509"/>наночастицами<Node id="1522"/> контактирует уже 2 млн. человек. В Беларуси нанотехнологии только начинают развиваться.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопорошок" StartNode="105" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="294" EndNode="304">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1025" EndNode="1032">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ирма</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1509" EndNode="1522">
+</Annotation>
+<Annotation Id="5" Type="Нанопорошок" StartNode="1200" EndNode="1212">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="283" EndNode="293">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ирма</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанопорошок" StartNode="810" EndNode="822">
+</Annotation>
+<Annotation Id="13" Type="Нанопорошок" StartNode="351" EndNode="362">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1106" EndNode="1117">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1349" EndNode="1359">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

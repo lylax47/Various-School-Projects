@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Материал для гибкой электроники должен обладать рядом особенностей. В частности, для него важны такие качества как прочность и постоянство рабочих характеристик в широком диапазоне механических нагрузок. Как правило, такие материалы являются гибридными композитами, т.е. состоят из органических и неорганических компонентов. 
+ 
+Исследователи из Portland State University (США) изготовили гибкий <Node id="396"/>светодиод<Node id="405"/> на основе нанопроводов оксида цинка, выращенных на полимерной пленке. 
+ 
+Схема устройства приведена на рисунке 1. Сначала на пленку из прозрачного полиэтилентерефталата (PET) был напылен оксид индия/олова (ITO), который обычно используется в прозрачных электродах. На слое ITO <Node id="683"/>методом <Node id="691"/>электроосаждения<Node id="707"/> из раствора ZnCl2 при 80°С были выращены вертикально ориентированные  нанопровода ZnO. Длина нанопроводов составляла около 2 мкм, а диаметр – 70-120 нм. Пространство между проводами было заполнено полистиролом методом spin-coating. Верхний контакт был изготовлен из проводящего полимера PEDOT:PSS, покрытого тонким слоем золота. 
+ 
+Устройство обладает электролюминесценцией в интервале длин волн 500 – 1100 нм, который может быть изменен путем легирования оксида цинка. 
+ 
+Работа «Flexible Inorganic Nanowire Light-Emitting Diode» опубликована в Nano Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="396" EndNode="405">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Электроосаждение" StartNode="691" EndNode="707">
+</Annotation>
+<Annotation Id="4" Type="Электроосаждение" StartNode="683" EndNode="707">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

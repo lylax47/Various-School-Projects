@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Квантовая запутанность (специфическая неклассическая корреляция между квантовыми системами) делает возможным так называемое “сверхплотное кодирование информации”: один <Node id="169"/>квантовый бит<Node id="182"/> может переносить до двух обычных битов [1], что позволяет увеличить пропускную способность канала квантовой связи (роль логических состояний <Node id="324"/>кубита<Node id="330"/> 0 и 1 при этом играют состояния фотона с продольной и поперечной поляризацией).
+
+Основная идея состоит в следующем (рис. 1a). Допустим, что <Node id="471"/>Боб<Node id="474"/> хочет послать <Node id="489"/>Алисе<Node id="494"/> двухкубитное сообщение, но имеет возможность отправлять ей только по одному фотону в <Node id="580"/>день<Node id="584"/>. Так как каждый фотон переносит лишь один бит, то на первый взгляд кажется, что в этой ситуации скорость передачи информации от <Node id="713"/>Боба<Node id="717"/> к <Node id="720"/>Алисе<Node id="725"/> не может превышать 1 бит/<Node id="751"/>день<Node id="755"/>. Но допустим, что накануне <Node id="783"/>Боб<Node id="786"/> приготовил пару запутанных фотонов, один из которых отправил <Node id="848"/>Алисе<Node id="853"/>, а второй оставил себе. Тогда, поворачивая поляризацию оставшегося у него фотона, <Node id="936"/>Боб<Node id="939"/> может “переключать” состояния запутанной пары между четырьмя различными (так называемыми “белловскими”) состояниями. А выбор одного из четырех возможных состояний соответствует двухкубитному сообщению. Выполнив надлежащий поворот, <Node id="1171"/>Боб<Node id="1174"/> посылает второй фотон <Node id="1197"/>Алисе<Node id="1202"/>, которая теперь обладает парой запутанных фотонов, проводит над ней “совместное измерение”, определяет, в каком из белловских состояний эта пара находится и читает сообщение. Но почему такое кодирование можно считать “сверхплотным”? Ведь для передачи двух битов <Node id="1465"/>Бобу<Node id="1469"/> потребовалось два фотона, а не один. Дело в том, что вся информация переносится только одним (вторым) фотоном. После отправки <Node id="1596"/>Алисе<Node id="1601"/> первого фотона <Node id="1617"/>Боб<Node id="1620"/> может даже не знать, какое сообщение он захочет послать ей на <Node id="1683"/>следующий день<Node id="1697"/>.
+
+Для определения состояния запутанной пары <Node id="1742"/>Алисе<Node id="1747"/> требуется наличие взаимодействия между фотонами, которое в принципе можно организовать, используя нелинейную оптическую среду. Однако это взаимодействие очень слабое, поэтому эффективность такого измерительного устройства оказывается чрезвычайно низкой. Если же <Node id="2010"/>Алиса<Node id="2015"/> будет использовать для измерения обычную линейную оптику, то ей удастся определить не более трех состояний из четырех, так что <Node id="2143"/>Боб<Node id="2146"/> сможет передать только log23=1.58 бита, и заложенный в запутанности ресурс будет задействован не полностью.
+
+В работе [2] группа американских и канадских физиков использовала для передачи информации не просто запутанные, а так называемые “гиперзапутанные” фотоны (рис. 1b), а именно – такие фотоны, у которых перепутаны не только их поляризационные, но и орбитальные (отвечающие разным проекциям орбитального углового момента) состояния. При этом первые по-прежнему служат для кодирования информации, а последние требуются исключительно для того, чтобы <Node id="2700"/>Алиса<Node id="2705"/> смогла, оставаясь в рамках линейной оптики, распознать каждое из четырех белловских состояний запутанной пары.
+
+Теоретически гиперзапутанность позволяет передавать по два бита с каждым фотоном. Шумы и неизбежные экспериментальные погрешности приводят, конечно, к уменьшению этой теоретической величины. И тем не менее, даже с учетом такой неидеальности, достигнутая в [2] пропускная способность квантового канала составила 1.63 бит/фотон и превысила, таким образом, “линейный предел” 1.58. Отметим и еще одно преимущество гиперзапутанности: <Node id="3247"/>Алисе<Node id="3252"/> не требуется хранить состояние первого полученного ею фотона в “квантовой памяти”, пока она ожидает прибытия от <Node id="3365"/>Боба<Node id="3369"/> второго фотона.
+ 1. C.H.Bennett, S.J.Wiesner, Phys.Rev. Lett. 69, 2881 (1992) 2. J.T.Barreiro et al., Nature Phys. 4, 282 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Кубит" StartNode="324" EndNode="330">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1617" EndNode="1620">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="3365" EndNode="3369">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1683" EndNode="1697">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="936" EndNode="939">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2700" EndNode="2705">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="783" EndNode="786">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="580" EndNode="584">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="489" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1465" EndNode="1469">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Кубит" StartNode="169" EndNode="182">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2143" EndNode="2146">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="1596" EndNode="1601">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="1197" EndNode="1202">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="713" EndNode="717">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="848" EndNode="853">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="751" EndNode="755">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="720" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="3247" EndNode="3252">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Персона" StartNode="2010" EndNode="2015">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="471" EndNode="474">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Персона" StartNode="1171" EndNode="1174">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Боб</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Персона" StartNode="1742" EndNode="1747">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алиса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

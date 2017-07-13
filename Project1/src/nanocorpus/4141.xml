@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>21 ноября<Node id="10"/> на заседании <Node id="24"/>Государственной Думы<Node id="44"/> рассматривался законопроект о внесении изменений в статью 51.2 Федерального закона «О рынке ценных бумаг» в части расширения перечня квалифицированных инвесторов. Фракции КПРФ, ЛДПР, «Справедливая Россия» проголосовали «против» данного законопроекта, но, тем не менее, он был принят в первом чтении. Об этом сегодня сообщил пресс-секретарь депутата Госдумы от Алтайского края Алексея Багарякова.
+
+Депутат Госдумы выступил от имени фракции КПРФ по данному законопроекту со следующим комментарием:
+ 
+Под безобидным названием этого закона авторы предоставляют уникальную возможность участия Российской корпорации нанотехнологий «Роснано» в спекуляциях на фондовом рынке. Вообще вся ее деятельность регулируется ФЗ № 139 «О Российской корпорации нанотехнологии». В этом законе прямо указано, куда имеет право вкладывать свободные деньги эта корпорация. Ни одного слова о фондовом рынке, только в отрасли связанные с наноиндустрией.
+ 
+<Node id="975"/>Как рассказал Алексей Багаряков, он ознакомился с тем, как например Агентство по страхованию вкладов (АСБ) распорядилась этим правом<Node id="1107"/>. После включения их в перечень квалифицированных инвесторов, они издали свой внутренний регламент, на основании которого вложили все свои деньги следующим образом: <Node id="1272"/>20 %<Node id="1276"/> в акции, <Node id="1286"/>70 %<Node id="1290"/> в гособлигации. Акции обесценились на <Node id="1329"/>70%<Node id="1332"/>, а облигации на <Node id="1349"/>25 %<Node id="1353"/>. В итоге сейчас из <Node id="1373"/>77,0 млрд рублей<Node id="1389"/>, собранных АСВ с банков участников системы страхования вкладов, убыток от переоценки <Node id="1475"/>15,0 млрд рублей<Node id="1491"/>. Как пояснил депутат, учитывая, что рынок идёт вниз стремительными темпами, к <Node id="1570"/>концу года<Node id="1580"/> эта сумма удвоится.
+ 
+Как я понимаю, госкорпорация должна вкладывать деньги в исследования, создание новых исследовательских баз. То есть строить систему: «университеты-НИИ-производство», – комментирует Алексей Багаряков. – Но, наверное, для них это слишком сложно. Намного проще размещать государственные деньги в фондовый рынок.
+  
+Ну, даже если мы и принимаем это решение, так нужно иметь в виду, что у нас есть другие госкорпорации: <Node id="2018"/>«Росатом»<Node id="2027"/>, «Фонд содействия реформированию ЖКХ», «Олимпстрой». Они так же захотят поучаствовать в игре на бирже. Так давайте их уже всех сразу и включим в этот закон, чтоб не мелочиться.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1349" EndNode="1353">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1272" EndNode="1276">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="975" EndNode="1107">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="2018" EndNode="2027">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">«Росатом»</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="24" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Государственной Думы</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1570" EndNode="1580">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1475" EndNode="1491">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1373" EndNode="1389">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="1" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="975" EndNode="1107">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="1286" EndNode="1290">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="1329" EndNode="1332">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

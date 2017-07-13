@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+За свои многочисленные открытия в области физики ученый был удостоен и Сталинской премии 3 степеней, а за исследования свойств жидкого гелия в <Node id="144"/>1962 году<Node id="153"/> <Node id="154"/>Ландау<Node id="160"/> присудили Нобелевскую премию.
+
+На кафедре физики ПГУ учебные пособия <Node id="230"/>Ландау<Node id="236"/> – главные книги. Уже несколько поколений выросло на его многотомном «Курсе теоретической физики». Семь томов по семи областям этой науки переведены на десятки языков мира. За этот труд ученому присудили Ленинскую премию.
+
+«<Node id="460"/>Все эти явления широко применяются в современной микроэлектронике и наноэлектронике. И, поскольку, не возможно приборостроение без развития теоретической физики и фундаментальных исследований, в которых она лежит, можно сказать, весь тот арсенал приборостроения, микроэлектроники и наноэлектроники, который в <Node id="769"/>настоящее время<Node id="784"/> мы имеем, – это благодаря теоретическим работам Льва Ландау<Node id="844"/>» – рассказал заведующий кафедрой физики ПГУ Владимир Кревчик<Node id="905"/>.
+
+<Node id="908"/>В прошлом<Node id="917"/> <Node id="918"/>году<Node id="922"/> в Пензенском государственном университете была открыта новая специальность «Нанотехнологии». За этим будущее технического прогресса. Аспирант Александр Артамонов не скрывает, что его кандидатская диссертация – это исследования физических процессов в нанометровой области пространства. Они могут лечь в основу нового поколения квантовых приборов с управляемыми характеристиками. А основу открытий в этой области составляют квантовые явления, которые более полувека назад исследовал Лев Ландау.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="темы" StartNode="460" EndNode="844">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="230" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ландау</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="460" EndNode="905">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="144" EndNode="153">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="460" EndNode="905">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="460" EndNode="905">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="460" EndNode="905">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="460" EndNode="844">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="908" EndNode="917">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="154" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ландау</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="769" EndNode="784">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="918" EndNode="922">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="144" EndNode="153">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

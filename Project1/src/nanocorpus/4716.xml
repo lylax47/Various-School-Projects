@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Отвечая на новые потребности сектора потребительской электроники и беспроводных технологий, глобальный рынок микроэлектромеханических систем (MEMS) вырастет до <Node id="161"/>$8,8 млрд<Node id="170"/> в <Node id="173"/>2012 году<Node id="182"/> с <Node id="185"/>$6,1 млрд<Node id="194"/>, показанных в <Node id="209"/>2006 году<Node id="218"/>, считает iSuppli.
+
+«Основная область применения MEMS — печатающие головки струйных принтеров и DLP-чипы производства Texas Instruments — передают эстафетную палочку MEMS-<Node id="389"/>сенсорам<Node id="397"/>, организуя новую волну роста этого рынка», — говорит Жереми Бушо (Jérémie Bouchaud), руководитель и главный аналитик отделения MEMS iSuppli. «Новая волна частично вызвана бурным распространением в потребительской электронике таких устройств, как датчики движения в игровых консолях, ноутбуках и цифровых камерах. Мобильные телефоны также являются устойчивым рынком сбыта для MEMS со средним ростом дохода в <Node id="805"/>22,9%<Node id="810"/>, объем которого в <Node id="829"/>2012 году<Node id="838"/> достигнет <Node id="849"/>$925 млн<Node id="857"/>».
+
+Глобальный рынок акселерометров, гироскопов, микрофонов, датчиков давления, микроболометров, термоэлектрических батарей и осцилляторов растет на <Node id="1006"/>11%<Node id="1009"/> ежегодно. Четыре сегмента совместно составляют <Node id="1057"/>более 60%<Node id="1066"/> всего рынка MEMS — потребительская электроника, мобильные телефоны, системы управления производственным процессом и автомобильная промышленность. Последняя увеличивает долю за счет внедрения новых устройств для обеспечения безопасности и соблюдения норм по выбросам вредных веществ.
+
+Среди всех приложений микроэлектромеханических систем выделяются радиочастотные MEMS-переключатели, используемые в мобильных телефонах и испытательном оборудовании. В этом секторе компания предсказывает ежегодный рост на уровне свыше <Node id="1585"/>100%<Node id="1589"/> <Node id="1590"/>с 2006 по 2012 год<Node id="1608"/>, и с <Node id="1614"/>$6 млн<Node id="1620"/> (2006) объем этого рынка возрастет до <Node id="1659"/>более чем $260 млн<Node id="1677"/> (2012).
+
+Хотя существуют значительные шансы для входа на рынок и дифференцирования своего производства, необходимы глубокие научные наработки, чтобы выдержать конкуренцию в этой области. К тому же, необходимо инвестировать средства в специализированное оборудование для выпуска продукции. При этом ведущие компании индустрии, как правило, получают монопольные условия в случае разработки нового MEMS-устройства, как Texas Instruments с DLP-чипами или Knowles с MEMS-микрофонами. Учитывая все эти обстоятельства, iSuppli ожидает, что рынок ждет большое число слияний и поглощений и, соответственно, уменьшение количества игроков в целях сокращения издержек.
+Андрей Горьев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1659" EndNode="1677">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="173" EndNode="182">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="209" EndNode="218">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="1057" EndNode="1066">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="185" EndNode="194">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="209" EndNode="218">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="849" EndNode="857">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="161" EndNode="170">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="173" EndNode="182">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1614" EndNode="1620">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1590" EndNode="1608">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1585" EndNode="1589">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1006" EndNode="1009">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="805" EndNode="810">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="829" EndNode="838">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="829" EndNode="838">
+</Annotation>
+<Annotation Id="18" Type="Сенсор" StartNode="389" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

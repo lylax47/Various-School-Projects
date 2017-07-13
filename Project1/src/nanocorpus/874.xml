@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Текущий 2008 год<Node id="17"/> объявлен чипмейкерами <Node id="40"/>годом<Node id="45"/> 32-нм технологии. Но еще окончательно не ясно, какое литографическое оборудование обретет долгую жизнь. Спор идет между лазерной 193-нм <Node id="182"/>литографией<Node id="193"/> (со всякими хитростями, способными «обмануть» диффракционный предел), ЭУФ (экстремальный ультрафиолет с длиной волны 13 нм) <Node id="318"/>литографией<Node id="329"/> или печатной (наноимпринт) <Node id="357"/>литографией<Node id="368"/>.
+
+Еще в конце <Node id="383"/>августа 2006 года<Node id="400"/> компания ASML (Нидерланды) поставила первую в мире установку ЭУФ <Node id="466"/>литографии<Node id="476"/> – Alpha Demo Tool (ADT) стоимостью <Node id="512"/>65 млн. долл.<Node id="525"/> в College of Nanoscale Science and Engineering (CNSE) при Университете в Олбани (США). Установка, предназначенная для исследований (а не для производства), интегрирована в нанотехнологический комплекс (Albany NanoTech complex) глобального промышленно-университетского косорциума International Venture for Nanolithography (Invent). Среди членов Invent – AMD, IBM, Micron Technology и Qimonda, а в выполнении программы ЭУФ <Node id="947"/>литографии<Node id="957"/> в CNSE будут также участвовать японские компании Sony и Toshiba [1].
+
+Другую демонстрационную ЭУФ установку ASML поставляет также в IMEC (бельгийскую исследовательскую организацию). Бельгийская иследовательская группа IMEC и CNSE заключили соглашение о совместном проведении экспериментов в области ЭУФЛ [2]. Эксперименты сначала будут проводиться на Олбанском нанотехнологическом комплексе CNSE, а затем и на одной, и на другой территории в зависимости от запуска и готовности к эксперименту соответствующих установок. Цель участников проекта – продемонстрировать практическую осуществимость ЭУФ <Node id="1555"/>литографии<Node id="1565"/> и восстановить доверие к этой системе для эффективной технологии формирования 32-нм (и ниже) рисунка наноэлектронных приборов.
+
+ASML, которая <Node id="1708"/>в течение нескольких лет<Node id="1732"/> разрабатывает установки ЭУФ <Node id="1761"/>литографии<Node id="1771"/> совместно с Nikon Corp., считает, что ЭУФ – единственный эффективный способ формирования 32-нм рисунка для наноэлектронных приборов. Однако, не получив вовремя нужные материалы для ЭУФ <Node id="1957"/>литографии<Node id="1967"/>, Intel Corp., один из чемпионов в разработке массовой 32-нм технологии и потенциальный потребитель ЭУФ установок, запустила исследования, связанные с различными способами продления жизни лазерной 193-нм <Node id="2171"/>литографии<Node id="2181"/> на этот топологический размер. Intel рассматривает ЭУФЛ как возможность реализации 22-нм технологии в <Node id="2284"/>2011 году<Node id="2293"/>.
+
+Успех компании Toshiba в изготовлении методом наноимпринт <Node id="2354"/>литографии<Node id="2364"/> тестовых образцов с суб-20-нм разрешением при 1-нм однородности воспроизведения критических размеров, возможно, заставит чипмейкеров обратить на этот метод более пристальное внимание. Образцы изготовлены на установке Imprio 250 компании Molecular Imprints Inc. (США). Инфраструктура импринт <Node id="2656"/>литографии<Node id="2666"/> достаточно развита в связи с ее использованием в производстве жестких дисков и <Node id="2746"/>светодиодов<Node id="2757"/> [3].
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="2656" EndNode="2666">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="40" EndNode="45">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Литография" StartNode="1761" EndNode="1771">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Литография" StartNode="1555" EndNode="1565">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Литография" StartNode="357" EndNode="368">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1" EndNode="17">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Литография" StartNode="2171" EndNode="2181">
+</Annotation>
+<Annotation Id="13" Type="Литография" StartNode="182" EndNode="193">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Литография" StartNode="947" EndNode="957">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="2284" EndNode="2293">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="2284" EndNode="2293">
+</Annotation>
+<Annotation Id="21" Type="Литография" StartNode="1957" EndNode="1967">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Литография" StartNode="318" EndNode="329">
+</Annotation>
+<Annotation Id="24" Type="Светодиод" StartNode="2746" EndNode="2757">
+</Annotation>
+<Annotation Id="27" Type="Литография" StartNode="466" EndNode="476">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Дата" StartNode="383" EndNode="400">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Деньги" StartNode="512" EndNode="525">
+</Annotation>
+<Annotation Id="31" Type="Период_времени" StartNode="1708" EndNode="1732">
+</Annotation>
+<Annotation Id="30" Type="Литография" StartNode="2354" EndNode="2364">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Идея построения <Node id="17"/>квантового компьютера<Node id="38"/> не дает ученым покоя: исследователям из Стэнфордского университета (США) удалось с помощью сверхбыстродействующих лазеров задать новую планку скорости изменения спина электрона.
+
+Как известно, для кодирования информации в <Node id="261"/>квантовом компьютере<Node id="281"/> используются <Node id="295"/>кубиты<Node id="301"/> (<Node id="303"/>кубит<Node id="308"/> или кьюбит – квантовый разряд или наименьший элемент для хранения информации в <Node id="388"/>квантовом компьютере<Node id="408"/>), которые на физическом уровне могут быть представлены спинами отдельных электронов. Очевидно, что при повышении скорости переключения состояний <Node id="554"/>кубитов<Node id="561"/> квантовые вычисления будут выполняться в целом быстрее. По словам одного из исследователей, аспиранта Дэвида Пресса (David Press), ему и <Node id="699"/>его<Node id="702"/> коллегам удалось сократить время, которое занимают манипуляции со спином, примерно в сто раз по сравнению с известными результатами.
+
+Эксперименты в лаборатории имени Эдварда Гинзтона (Edward L. Ginzton Laboratory) начались с того, что ученые направили на <Node id="959"/>кубит<Node id="964"/> лазерное излучение определенной частоты с целью задать начальное положение спина и прочитать установленное значение (на это ушло несколько наносекунд). <Node id="1117"/>Затем<Node id="1122"/> квантовое состояние электрона было изменено с помощью импульсов поляризованного излучения (плюс еще несколько десятков пикосекунд). На конечном же этапе полученное значение считывалось еще одним оптическим импульсом. Необходимо отметить, что ученые ставили подобные опыты и раньше, но во всех предшествующих работах использовались радиочастотные импульсы, не позволявшие достичь сравнимого быстродействия.
+
+И всё же результаты, полученные в Стэнфордском университете, имеют весьма отдаленное отношение к проблеме построения реального <Node id="1657"/>квантового компьютера<Node id="1678"/>: эксперименты проводились на одном <Node id="1714"/>кубите<Node id="1720"/> при температуре, близкой к абсолютному нулю, в сильном магнитном поле, созданном сверхпроводящим магнитом. В ближайшей перспективе, <Node id="1853"/>как считает Дэвид Пресс, исследователи могут лишь начать тестировать новую технологию на системах, объединяющих десятки или сотни <Node id="1983"/>кубитов<Node id="1990"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовый+компьютер" StartNode="1657" EndNode="1678">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Кубит" StartNode="295" EndNode="301">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="699" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Кубит" StartNode="1714" EndNode="1720">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Кубит" StartNode="959" EndNode="964">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Кубит" StartNode="1983" EndNode="1990">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Квантовый+компьютер" StartNode="388" EndNode="408">
+</Annotation>
+<Annotation Id="13" Type="Кубит" StartNode="554" EndNode="561">
+</Annotation>
+<Annotation Id="14" Type="Квантовый+компьютер" StartNode="17" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Квантовый+компьютер" StartNode="261" EndNode="281">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1853" EndNode="1990">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="автор" StartNode="1853" EndNode="1990">
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Кубит" StartNode="303" EndNode="308">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="1117" EndNode="1122">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Тайваня создали компьютерную энергонезависимую память на основе органических <Node id="88"/>наночастиц<Node id="98"/>.
+
+Отличие от ряда подобных проектов нано-памяти состоит в том, что полученный модуль выполнен на гибком полимерном субстрате.
+
+Это удалось сделать ученым из национального университета Тайваня Чанг Синг (National Chung Hsing University of Taiwan).
+
+Устройство состоит из полимера PCm с <Node id="384"/>наночастицами<Node id="397"/>, расположенного между двух алюминиевых электродов. Опытный образец может хранить всего 16 байт информации
+
+Хоть устройство и называется энергонезависимым, но реальное время хранения информации в чипе-прототипе составляет <Node id="619"/>10 дней<Node id="626"/>. Это связано с тем, что в «отключенном» состоянии модуля между <Node id="690"/>наночастицами<Node id="703"/> протекает очень слабый, «виртуальный», как его назвали исследователи, ток.
+
+Но как только на устройство подают рабочее напряжение – 2 вольта, ток усиливается почти в 10 тысяч раз.
+
+Гибкие микрочипы и электроника на их основе – основные кандидаты для RFID-меток, смарт-карт, гибких дисплеев для мобильных телефонов и «умного текстиля».
+
+Несмотря на малое время автономной работы, ученые собираются увеличить его втрое уже во время изготовления следующего прототипа.
+
+Новое устройство было представлено на международной встрече в США 2007 IEEE International Electron Devices Meeting в Вашингтоне. Также устройство покажут на международном симпозиуме по гибкой электронике и дисплеям, который пройдет <Node id="1402"/>17–18 декабря<Node id="1415"/> в Тайване (International Symposium for Flexible Electronics and Displays).
+
+Интересно, что в <Node id="1509"/>марте 2007 года<Node id="1524"/> США выделили <Node id="1538"/>9,1 миллионов долларов<Node id="1560"/> на разработку гибкой электроники.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="88" EndNode="98">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="690" EndNode="703">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1538" EndNode="1560">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="619" EndNode="626">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1402" EndNode="1415">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1509" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="384" EndNode="397">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

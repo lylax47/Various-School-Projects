@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство РФ вложит <Node id="24"/>640 млрд руб.<Node id="37"/> в институты развитияПравительство РФ распорядилось внести <Node id="96"/>640 млрд руб.<Node id="109"/> в институты развития. Как говорится в сообщении пресс-службы кабинета министров, соответствующее постановление подписал премьер-министр РФ Виктор Зубков <Node id="263"/>27 ноября 2007г.<Node id="279"/>Виктор Зубков
+В частности, правительство поручило Министерству финансов перевести в <Node id="363"/>ноябре 2007г.<Node id="376"/> <Node id="377"/>300 млрд руб.<Node id="390"/> средств Стабилизационного фонда РФ на единый счет федерального бюджета.
+
+Также <Node id="470"/>Минфин<Node id="476"/> должен за счет средств Стабфонда РФ внести имущественный взнос в уставный капитал государственной корпорации «Банк развития и внешнеэкономической деятельности (Внешэкономбанк)» в размере <Node id="664"/>180 млрд руб.<Node id="677"/>
+
+Минобрнауки России должно внести имущественный взнос РФ в государственную корпорацию «Российская корпорация нанотехнологий» в размере <Node id="813"/>130 млрд руб.<Node id="826"/> В том числе <Node id="839"/>30 млрд руб.<Node id="851"/> будет внесено за счет средств Стабфонда и <Node id="894"/>100 млрд руб.<Node id="907"/> – за счет доходов федерального бюджета <Node id="947"/>2007г.<Node id="953"/>
+
+Минрегион России должен внести имущественный взнос РФ в государственную корпорацию «Фонд содействия реформированию жилищно-коммунального хозяйства» в размере <Node id="1113"/>240 млрд руб.<Node id="1126"/> за счет доходов федерального бюджета. <Node id="1165"/>Минэкономразвития<Node id="1182"/> должно увеличить на <Node id="1203"/>90 млрд руб.<Node id="1215"/> объем Инвестиционного фонда РФ за счет средств Стабфонда.
+<Node id="1274"/>http://top.rbc.ru/…127588.shtmlНу<Node id="1307"/> вот, как говорится, «процесс пошёл»… Но теперь это процесс получения «реальных» денег, о которых раньше так много говорилось. Соответственно, теперь можно уже и начинать «настоящую» работу: «Роснанотех» выделяет средства (намеченным ранее) исполнителям, а уж те – засучив рукава – начинают выдавать на гора кучу самых разнообразных отечественных нанопродуктов и нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="839" EndNode="851">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="947" EndNode="953">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="363" EndNode="376">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="470" EndNode="476">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минфин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="894" EndNode="907">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="24" EndNode="37">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="377" EndNode="390">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1113" EndNode="1126">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="813" EndNode="826">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1165" EndNode="1182">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минэкономразвития</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="96" EndNode="109">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1274" EndNode="1307">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="263" EndNode="279">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="1203" EndNode="1215">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="664" EndNode="677">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

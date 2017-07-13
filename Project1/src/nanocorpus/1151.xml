@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Ученые из Великобритании разработали простой процесс производства <Node id="67"/>наноматериалов<Node id="81"/>, армированных <Node id="96"/>нановолокнами<Node id="109"/>, с контролем пространственного размещения последних.
+
+Как говорят ученые, открытие поможет в биотехнологиях для восстановления тканей, в производстве <Node id="260"/>сенсоров<Node id="268"/> и даже в «умном текстиле».
+
+Технология производства позволяет управлять концентрацией <Node id="355"/>наночастиц<Node id="365"/> в различных частях готовой детали. Таким образом возможно будет создать материал, имитирующий фактуру естественной ткани.
+
+Основа производственной платформы – два шнека, соединенных с гидравлическим приводом. Шнеки имеют такую поверхность, которая помогает формированию <Node id="636"/>нановолокон<Node id="647"/> из <Node id="651"/>наночастиц<Node id="661"/>, подающихся в бункер для сырья.
+
+Основа <Node id="702"/>наноматериала<Node id="715"/> – биодеградирующий электропроводящий пластик, подающийся вместе с <Node id="782"/>наночастицами<Node id="795"/> в экструдер. Разность потенциалов между шнеками приводит к электрическому формированию волокон из <Node id="894"/>наночастиц<Node id="904"/>, причем ученые могли управлять пространственным распределением последних в составе материала.
+
+Группа проводила эксперименты с <Node id="1032"/>наночастицами<Node id="1045"/> бета-трикальциефосфата, которые в полимере формировали нанонити диаметром 200–2000 нанометров.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нановолокно" StartNode="96" EndNode="109">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="782" EndNode="795">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="67" EndNode="81">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1032" EndNode="1045">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="894" EndNode="904">
+</Annotation>
+<Annotation Id="5" Type="Нановолокно" StartNode="636" EndNode="647">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="260" EndNode="268">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="702" EndNode="715">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="355" EndNode="365">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="651" EndNode="661">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Международный Центр <Node id="22"/>Исследований Материалов<Node id="45"/> (International Center for Materials Research, ICMR) организует двухнедельную летнюю школу по мультиферроикам <Node id="155"/>с 20 июля по 1 августа 2008<Node id="182"/> на кампусе Университета Калифорнии в Санта <Node id="226"/>Барбаре<Node id="233"/> (UCSB). Школа предоставит возможность студентам-старшекурсникам, аспирантам и молодым ученым ознакомиться с текущим состоянием исследований в области мультиферроиков. Особое внимание будет уделено теории, дизайну и синтезу новых материалов, а также практическим аспектам экспериментов по исследованию магнитных, структурных и оптических свойств. 
+ 
+Участникам предоставляется бесплатное проживание и питание на кампусе UCSB, также можно подать заявку на возмещение транспортных расходов до <Node id="724"/>$1000.<Node id="730"/> 
+ 
+Заявки на участие принимаются до <Node id="767"/>1 апреля 2008 года<Node id="785"/> по ссылке 
+<Node id="797"/>http://www.icmr.ucsb.edu/programs/multiferroics.html.<Node id="850"/> Студентам и аспирантам необходимо предоставить рекомендательное письмо от научного руководителя. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="724" EndNode="730">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="155" EndNode="182">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="226" EndNode="233">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Барбара</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="22" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="797" EndNode="850">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="767" EndNode="785">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

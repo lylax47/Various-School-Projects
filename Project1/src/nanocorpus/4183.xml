@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Первый вице-премьер Сергей Иванов посещает сегодня иннновационно-технологический центр «Научный парк МГУ имени М.В. Ломоносова».
+
+Он знакомится с ходом реализации проектов, осуществляемых Фондом содействия развитию малых форм предприятий в научно-технической сфере.
+
+Фонд содействия развитию малых форм предприятий в научно-технической сфере – государственная некоммерческая организация, образованная в <Node id="404"/>1994 году<Node id="413"/>. В числе его основных задач – проведение государственной политики развития и поддержки малых предприятий в научно-технической сфере, поддержка малых инновационных предприятий, реализующих проекты по разработке и освоению новых видов наукоемкой продукции и технологий на основе принадлежащей этим предприятиям интеллектуальной собственности, создание и развитие инфраструктуры поддержки малого инновационного предпринимательства.
+
+В секретариате первого заместителя председателя <Node id="892"/>правительства<Node id="905"/> отмечают, что результаты сегодняшнего посещения «Научного парка МГУ» будут использованы, в частности, при подготовке к очередному заседанию Комиссии по развитию промышленности, технологий и транспорта. <Node id="1108"/>21 сентября<Node id="1119"/> она рассмотрит вопрос о «Об итогах деятельности инвестиционно-инновационных фондов», в числе которых – Российская венчурная компания, Российский инвестиционный фонд информационно-коммуникационных технологий, Российский фонд технологического развития, Фонд развития нанотехнологий, Фонд содействия малых форм предприятий в научно-технической сфере, Фонд технологического развития.
+С подробностями – Марина Костюкевич (слушайте репортаж в аудиофайле: <Node id="1569"/>http://www.radiomayak.ru<Node id="1593"/>/doc.html?…)</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1569" EndNode="1593">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="892" EndNode="905">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="404" EndNode="413">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1108" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="404" EndNode="413">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

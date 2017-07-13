@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>16 октября<Node id="10"/> прошла рабочая встреча генерального директора Российской корпорации нанотехнологий Анатолия Чубайса<Node id="110"/> <Node id="111"/>с Министром Науки и Техники КНР <Node id="143"/>Вань<Node id="147"/> ГаномВ рамках визита делегации Министерства Науки и Техники КНР в Россию состоялась встреча генерального директора РОСНАНО Анатолия Чубайса с Министром Науки и Техники КНР Вань Ганом.
+Предыдущая встреча руководства корпорации с г-ном Вань Ганом, которая стала одним из ключевых мероприятий визита делегации РОСНАНО в Китай в <Node id="473"/>июле 2008 года<Node id="487"/>, показала совпадение интересов российской и китайской сторон в налаживании сотрудничества в области развития нанотехнологий.
+Китайские партнеры высказали позитивное отношение к возможности совместной работы по отбору перспективных нанотехнологических проектов и по их коммерциализации в качестве соинвесторов, в том числе путем подбора частных соинвесторов для участия в таких проектах.
+ Сегодня стороны еще раз подтвердили наличие взаимного интереса к сотрудничеству в области нанотехнологий, а также обсудили детали подготовки Соглашения между Российской корпорацией нанотехнологий и Министерством науки и техники Китайской Народной Республики о создании союза стратегического сотрудничества по нанотехнологиям, подписание которого запланировано на <Node id="1239"/>28 октября<Node id="1249"/> во время предстоящей встречи глав Правительств России и КНР в Москве. В заключение встречи г-н Вань Ган пригласил Анатолия Чубайса с ответным визитом в Китай. <Node id="1409"/>http://www.rusnanotekh.ru/…ication.aspx?…Леонид<Node id="1456"/> Меламед и Министр Науки и Техники КНР Вань ГанАга, значит, успели подготовить это самое «Соглашение между Российской корпорацией нанотехнологий и Министерством науки и техники Китайской Народной Республики о создании союза стратегического сотрудничества по нанотехнологиям»? Ну, вот и славненько! Теперь будем работать слаженно и дружно… А то в Пекине наверняка слегка встревожились, когда наш <Node id="1851"/>Анатоль<Node id="1858"/>_<Node id="1859"/>Борисыч<Node id="1866"/> по пути в Южную Корею «на минутку» заглянул на Тайвань. ;-) Теперь у нас с Китаем будет аж целый «союз стратегического сотрудничества по нанотехнологиям». А не не какое-нибудь там «хухры-мухры» в подворотне…;-))) Ну, в добрый путь и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1851" EndNode="1858">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анатоль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="110" EndNode="111">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="143" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вань</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1239" EndNode="1249">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="473" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="работает" StartNode="110" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Url" StartNode="1409" EndNode="1456">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="1859" EndNode="1866">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Борисыч</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

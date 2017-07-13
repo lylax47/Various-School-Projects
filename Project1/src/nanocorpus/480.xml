@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В середине-конце <Node id="19"/>ноября 2007 г.<Node id="33"/> выходит в свет научно-популярная книга "Нанотехнологии. <Node id="90"/>Азбука<Node id="96"/> для всех.", подготовленная коллективом авторов факультета наук о материалах, химического факультета МГУ и ИОНХ РАН. Книгу выпускает издательство "Физматлит" первым тиражом несколько тысяч экземпляров (по достаточно доступной цене).
+ 
+Книга содержит более 120 статей - терминов в области <Node id="384"/>наноматериалов<Node id="398"/> и нанотехнологий. Это том в твердом переплете из 360 страниц. Разумеется, "азбука" не представляет собой энциклопедию или строгий учебник, это не было самоцелью. Скорее, это увлекательная книга для тех, кто только начинает знакомиться с <Node id="636"/>наноматериалами<Node id="651"/> и нанотехнологиями, с основными, прописными, "азбучными" понятиями. Она будет полезна для школьников и их родителей, если только последние не являются выдающимися нанотехнологами современности. А вот специалистам ее читать категорически воспрещается из-за их привычки простое делать сложным и бороться даже с разумными упрощениями и аллегориями! 
+ 
+Для контактов по оптовой закупке обращаться в редакцию или по адресу электронной почты <Node id="1088"/>support@nanometer.ru<Node id="1108"/> (для к.х.н. Андрея Анатольевича Елисеева). 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="384" EndNode="398">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="90" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="636" EndNode="651">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="1088" EndNode="1108">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="19" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

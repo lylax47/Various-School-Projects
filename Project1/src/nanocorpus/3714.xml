@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>В Дубне обсудят мировые тенденции в развитии ядерных и нанотехнологийКак сообщает пресс-служба ОИЯИ, <Node id="101"/>20—21 ноября 2008 года<Node id="123"/> в Дубне состоится конференция «Особая экономическая зона «Дубна» — первые шаги».
+В рамках конференции пройдет заседание секции «Формирование и развитие кластера в сфере ядерно-физических и нанотехнологий. Композитные материалы» и расширенное заседание <Node id="376"/>Научно-технического совета<Node id="402"/> по ядерно-физическим и нанотехнологиям. Предполагается обсудить вопросы, связанные с мировыми тенденциями в развитии ядерно-физических и нанотехнологий и коммерциализаций научных разработок в ОЭЗ «Дубна». <Node id="608"/>http://rnd.cnews.ru/…cience.shtml?…Ну<Node id="645"/> что ж, время бежит. События происходят. Проблемы возникают. Время обсудить: современное состояние, тенденции и перспективы развития. Новых успехов и свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="101" EndNode="123">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="608" EndNode="645">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="376" EndNode="402">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Научно-технического совета</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

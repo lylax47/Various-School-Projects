@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Идея использования нанотехнологий в медицине всегда была заманчивой, и сейчас она наконец начинает воплощаться в жизнь. Наверное, самой интересной областью ее применения является человеческая нервная система во главе с мозгом, так как до сих пор болезни, связанные с ними были практически неподвластны медицине. Конечно, сегодняшним технологиям далеко до того, что мы видели в культовой трилогии “Матрица”, однако современная наука становится все ближе к фантастике. Например, нейропротезирование, то есть имплантирование  микроустройств, выполняющих функции поврежденных органов чувств или систем нервов, позволяет облегчить симптомы таких заболеваний, как эпилепсия, синдром <Node id="678"/>Паркинсона<Node id="688"/>, и др. 
+ 
+Большое внимание уделяется одностенным <Node id="738"/>углеродным <Node id="749"/>нанотрубкам<Node id="760"/> из-за их физико-химических особенностей, позволяющих разрабатывать устройства с уникальными электрическими свойствами. Группа европейских ученых, занимающихся этим вопросом, доказала, что <Node id="949"/>углеродные <Node id="960"/>нанотрубки<Node id="970"/> могут напрямую стимулировать активность нервных клеток. Они создали интегрированную систему из одностенных <Node id="1078"/>углеродных <Node id="1089"/>нанотрубок<Node id="1099"/> и изъятых из организма мыши нервных клеток: сетка из <Node id="1153"/>нанотрубок<Node id="1163"/> использовалась в качестве подложки для культивирования нейронов. За <Node id="1232"/>неделю<Node id="1238"/> нейроны образовали здоровую сеть с плотным массивом соединительных волокон, как показал анализ на сканирующем электронном микроскопе, тесно переплетенных с сеткой <Node id="1402"/>нанотрубок<Node id="1412"/> и связанных с ними клеточными мембранами. Впервые было показано, как электрическая стимуляция посредствам углеродным <Node id="1530"/>нанотрубок<Node id="1540"/> активизирует межнейронные электрические сигналы и цепи синаптических взаимодействий. Ученые также разработали математическую модель взаимодействия нейронов с одностенными <Node id="1712"/>нанотрубками<Node id="1724"/>. 
+ 
+Полученные результаты свидетельствуют о том, что <Node id="1778"/>углеродные <Node id="1789"/>нанотрубки<Node id="1799"/> могут эффективно влиять на электрическую нервную активность даже в отсутствии внешнего контроля и схемы преобразования сигналов, способствуя за счет своих полупроводниковых свойств возникновению синаптической активности. Однако прежде, чем пытаться внедрять данную технологию в медицину, требуется глубже изучить специфику электрофизиологических взаимодействий, преобразования и передачи сигналов между <Node id="2203"/>нанотрубками<Node id="2215"/> и нервными клетками. 
+ 
+Подробнее см. работу Andrea Mazzatenta, Michele Giugliano, Stephane Campidelli, Luca Gambazzi, Luca Businaro, Henry Markram, Maurizio Prato, and Laura Ballerini "Interfacing Neurons with Carbon Nanotubes: Electrical Signal Transfer and Synaptic Stimulation in Cultured Brain Circuits". 
+ 
+ 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1712" EndNode="1724">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="1078" EndNode="1099">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1232" EndNode="1238">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="1778" EndNode="1799">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1530" EndNode="1540">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1089" EndNode="1099">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="960" EndNode="970">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="749" EndNode="760">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="949" EndNode="970">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1789" EndNode="1799">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="678" EndNode="688">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркинсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="738" EndNode="760">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1402" EndNode="1412">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="2203" EndNode="2215">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1153" EndNode="1163">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

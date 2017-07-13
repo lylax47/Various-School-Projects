@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+МОСКВА, <Node id="9"/>5 июля<Node id="15"/> – Создание в России наноиндустрии является одним из приоритетов в формировании современной инновационной экономики. Об этом, как передает корреспондент «Росбалта», заявил спикер Госдумы Борис Грызлов<Node id="215"/>,<Node id="216"/> открывая совещание по вопросам развития и применения отечественных достижений в области нанотехнологий.
+Сегодня в Госдуме также открылась выставка, на которой были представлены образцы нанотехнологической продукции.
+Борис Грызлов 
+«Масштабы наших достижений в этой области во многом определят наше место в мировой экономике, уровень нашей национальной конкурентноспособности и безопасности, включая ее оборонный компонент», — подчеркнул спикер. По его словам, на эти цели в Корпорацию нанотехнологий уже в <Node id="723"/>2007 году<Node id="732"/> будет направлено <Node id="750"/>130 млрд рублей<Node id="765"/>.
+ 
+В свою очередь депутат Госдумы <Node id="800"/>Андрей Кокошин<Node id="814"/> <Node id="815"/>отметил, что <Node id="828"/>сейчас рассматриваются вопросы о создании в России как минимум десятка суперкомпьютерных центров нанотехнологий на базе НИИ и академий<Node id="962"/>.
+Андрей Кокошин 
+«<Node id="981"/>Главная задача таких центров — разработка и верификация в ближайшие 3–<Node id="1051"/>5 лет<Node id="1056"/> физических моделей и вычислительных методов, обеспечивающих проведение вычислительных экспериментов в основных областях применений нанотехнологий», — сказал Кокошин<Node id="1221"/>.
+  
+«<Node id="1227"/>Сегодняшнее совещание показало, что желание результативно работать в области развития нанотехнологий у нас есть, — заявил в интервью «Росбалту» по итогам совещания министр образования и науки Андрей Фурсенко<Node id="1434"/>. — План, как все это лучше организовать, вырисовывается уже сейчас. Поэтому я настроен оптимистично».
+ Андрей Фурсенко
+<Node id="1554"/>По мнению Фурсенко, страна готова к реализации таких масштабных проектов, как развитие нанотехнологий<Node id="1655"/>.
+ 
+«В нашей стране уже есть очень интересные работы по <Node id="1711"/>наноматериалам<Node id="1725"/>, они традиционно сильные в России, — отметил министр. — По оптоэлектронике, есть интерес к фармацевтике, новым медицинским технологиям». В то же время он подчеркнул, что в этих направлениях на мировых рынках очень сильная конкуренция. «<Node id="1962"/>Поэтому нам надо заниматься не только чисто научными исследованиями, но и поддержкой наших производителей», — сказал Фурсенко<Node id="2087"/>.
+ 
+На выставке, в частности, представлены образцы нанобетона, химически устойчивые емкости и <Node id="2181"/>нанопорошки<Node id="2192"/>, предназначенные для покрытий аэродромов и т.д.
+<Node id="2241"/>http://www.rosbalt.ru<Node id="2262"/>/…/400379.htmlДа, а вот «выставка, на которой были представлены образцы нанотехнологической продукции» – это замечательно! Лучше, как говорится, один раз увидеть/«пощупать» что-то, чем сто раз услышать… И хорошо, что у нас уже что-то производится, пусть хотя бы и в небольших, экспериментальных, масштабах. Лучше эту «синицу, которая в руках» откормить до значительных размеров, чем гоняться за «журавлём, который (ещё только) в небе»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1051" EndNode="1056">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="814" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="9" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="723" EndNode="732">
+</Annotation>
+<Annotation Id="4" Type="Нанопорошок" StartNode="2181" EndNode="2192">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="981" EndNode="1221">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="723" EndNode="732">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="215" EndNode="216">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1962" EndNode="2087">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="1227" EndNode="1434">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1962" EndNode="2087">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="750" EndNode="765">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1227" EndNode="1434">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1554" EndNode="1655">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="800" EndNode="2087">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="814" EndNode="815">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="981" EndNode="1221">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="800" EndNode="962">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="800" EndNode="2087">
+</Annotation>
+<Annotation Id="23" Type="темы" StartNode="828" EndNode="962">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="800" EndNode="962">
+</Annotation>
+<Annotation Id="25" Type="Url" StartNode="2241" EndNode="2262">
+</Annotation>
+<Annotation Id="24" Type="Наноматериал" StartNode="1711" EndNode="1725">
+</Annotation>
+<Annotation Id="27" Type="цитаты" StartNode="828" EndNode="962">
+</Annotation>
+<Annotation Id="26" Type="работает" StartNode="215" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">спикер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="высказывания_заявления" StartNode="1554" EndNode="1655">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

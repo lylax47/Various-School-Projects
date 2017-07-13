@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Год назад<Node id="10"/> Нанометр писал о 39 Международной химической олимпиаде школьников, которую принимал Химический факультет МГУ. <Node id="121"/>21 июля<Node id="128"/> в Будапеште (Венгрия) завершилась 40-ая Международная химическая олимпиада школьников. Команда России добилась на ней большого успеха: <Node id="264"/>второй год<Node id="274"/> подряд все четыре участника завоевали золотые медали. 
+Имена чемпионов: Андрей Богородский (Москва), Сергей Никитин (Новосибирск), Юрий Тимченко (Великий Новгород), Владимир Поддубный (Барнаул). Также четыре золота в активе команды Китая, по три завовевали команды Украины и Кореи. Абсолютным победителем стал китайский школьник. 
+ 
+Все наши победители уже стали студентами: двое из них (Тимченко и Поддубный) будут учиться на химфаке МГУ, Сергей Никитин - в Новосибирском университете, а Андрей Богородский выбрал Физтех. 
+ 
+Профессор В.В.Еремин, 
+ 
+Член Международного Жюри 40 МХО 
+ 
+Химический факультет МГУ им.М.В.Ломоносова 
+ Дополнительная информация - доц. Елена Алимовна Еремина (939-46-09) Дополнительные материалы: <Node id="1000"/>Polit.ru<Node id="1008"/> - "Вадим Еремин: Научная олимпиада - это все-таки спорт" </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="121" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1000" EndNode="1008">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="264" EndNode="274">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1" EndNode="10">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

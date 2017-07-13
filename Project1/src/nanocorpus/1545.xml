@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компьютерная модель. 
+Адсорбция <Node id="34"/>наночастиц<Node id="44"/> золота<Node id="51"/> (коньюгатов с полимерами) оказывает влияние на пролиферацию, дифференциацию и, вероятно, даже на трансдифференциацию стволовых клеток in situ. 
+На рисунке размер <Node id="214"/>наночастиц<Node id="224"/> (10 нм) увеличен в 30 раз по отношению к клетке для наглядности.
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица+золота" StartNode="34" EndNode="51">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="34" EndNode="44">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="214" EndNode="224">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

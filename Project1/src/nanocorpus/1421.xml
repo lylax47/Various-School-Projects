@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователям из Центра <Node id="26"/>Разработки Материалов<Node id="47"/> в Тулузе (Centre for Material Development and Structural Studies in Toulouse CEMES-CNRS) и их коллегам из Университета Берлина (University of Berlin) удалось управлять вращением «молекулярного колеса».
+
+Как сообщает EurekAlert, эта удивительная молекула, состоящая из «колеса» диаметром 0.7 нанометров, прикрепленного к оси длиной 0,6 нанометров, по сути дела, является первой молекулярной машиной.
+
+<Node id="448"/>С конца 1990-х годов<Node id="468"/> химики из CEMES работали над разработкой и синтезом молекулярных машин, которые бы имели в своем составе движущиеся колеса. В <Node id="595"/>1998 году<Node id="604"/> им удалось синтезировать плоскую молекулу-колесо, а в 2005 они представили научному сообществу первый молекулярный мотор.
+
+Современная молекулярная машина состоит из двух «рабочих колес» из молекул триптицена, соединенных «осью». Вся эта химическая конструкция располагалась на медной подложке. А для того, чтобы заставить колеса крутиться, ученые использовали сканирующий туннельный микроскоп, который зондом принудительно «вращал» колеса.
+
+Результат работы ученых впечатляет нанотехнологов, занимающихся молекулярными машинами. Как утверждают специалисты, «молекулярные колеса»смогут занять свое место в сложных наномашинах будущего: «молекулярных грузовиках» и нанороботах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="595" EndNode="604">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="595" EndNode="604">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="26" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="448" EndNode="468">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

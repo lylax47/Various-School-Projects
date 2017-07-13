@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Так называемые «чистые технологии» становятся самым модным словечком в сегодняшнем бизнесе и самой горячей областью инвестиций, опережая по объему вложений полупроводниковые и информационные технологии.
+
+<Node id="205"/>Абу Даби<Node id="213"/> обещает ввести в дело <Node id="236"/>15 млрд. долл.<Node id="250"/> в возобновляемую энергетику – Солнце, Ветер и Водород [1]. Эмираты хотят захватить лидерство в области чистых энергетических технологий. Заявление об этом сделал генерал Sheikh Mohammed bin Zayed Al Nahyan, крон-принц <Node id="469"/>Абу Даби<Node id="477"/> и заместитель командующего армейскими силами ОАЭ в <Node id="529"/>январе с.г.<Node id="540"/> на всемирном саммите, посвященном будущей энергетике. В саммите приняли участие 3000 делегатов из более чем 200 энергетических компаний мира (среди других BP, Shell, Standard Chartered, Merrill Lynch, Barclays Capital, Aldar, Total, Dolphin Energy, International Power, Occidental и Oerlikon).
+
+Коалиция более 40 инвесторов США и Европы (включая American Airlines, Coca-Cola, Dell, Ford, General Motors, Macdonalds, Sun Microsystems), владеющие в сумме 1,75 трлн. долл. активами, <Node id="1021"/>18 февраля с.г.<Node id="1036"/> также заявила об инвестировании <Node id="1069"/>10 млрд. долл.<Node id="1083"/> в «чистые технологии» <Node id="1106"/>в течение ближайших 2-х лет<Node id="1133"/> [2].
+
+Чистые технологии выходят на передний план и у полупроводникового бизнеса, активно включившегося в финансирование исследований и разработок в области солнечной энергетики. Самое большая инвестиция в <Node id="1339"/>15 млрд. долл<Node id="1352"/>, заявленная правительством ОАЭ, будет проведена через правительственную компанию Masdar (что в переводе с арабского означает –«Источник»), основанную с целью поддержки исследований, разработок и коммерциализации будущих энергетических источников. Правительство ОАЭ надеется, что его инициативу поддержит частный бизнес страны, что позволит значительно увеличить названную сумму инвестиций. Это будет совместный проект регионов ОАЭ, Среднего Востока и Северной Африки [1].
+
+Правительство ОАЭ планирует также учредить ежегодные гранты стоимостью <Node id="1897"/>2,2 млрд. долл.<Node id="1912"/> за самые блестящие инновационные решения в области возобновляемых источников энергии. Другое важное сообщение на саммите сделал представитель компании British Petroleum – компания BP Alternative Energy включилась в реализацию проекта строительства в Абу Даби электростанции, работающей на водородном топливе.
+
+К слову, как развитие водородной энергетики (в частности, твердотельное хранение водорода), так и увеличение эффективности преобразования солнечной энергии с использованием полупроводниковых элементов (от сегодняшних 6–<Node id="2442"/>10%<Node id="2445"/> до <Node id="2449"/>20%<Node id="2452"/>) напрямую связаны с развитием нанотехнологий.
+
+В «нужное» время и в «нужном» месте (как, собственно, и всегда) оказался и британский архитектор лорд <Node id="2602"/>Норман Фостер<Node id="2615"/>, компания которого Foster+Partners нанялась в рамках Masdar инициативы строить первый в мире город, полностью свободный от углеродных загрязнений. Будущий университетский город, рассчитаннй на 50 тыс. жителей, будет расположен вблизи международного аэропорта <Node id="2875"/>Абу Даби<Node id="2883"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="236" EndNode="250">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="2442" EndNode="2445">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1106" EndNode="1133">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1897" EndNode="1912">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="469" EndNode="477">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="205" EndNode="213">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2875" EndNode="2883">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="2449" EndNode="2452">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2602" EndNode="2615">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Норман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="1069" EndNode="1083">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1021" EndNode="1036">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="529" EndNode="540">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="1339" EndNode="1352">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

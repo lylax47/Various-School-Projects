@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Центр естественно-научных исследований ИОФ РАН <Node id="49"/>наноматериалы<Node id="62"/>, поликристаллические алмазные пленки , спектроскопия, <Node id="117"/>углеродные <Node id="128"/>нанотрубки<Node id="138"/>   <Node id="141"/>Наноматериалы<Node id="154"/>   компьютерное моделирование синтез одностенных <Node id="203"/>углеродных <Node id="214"/>нанотрубок<Node id="224"/> спектроскопия комбинационного рассеяния света, в том числе при высоких давлениях и в широком диапазоне температур спектроскопия оптического поглощения флуоресцентная спектроскопия                             Александр Валентинович Осадчий, научный сотрудник, кандидат наук Дмитрий Александрович Ляшенко, аспирант Елена Дмитриевна Образцова, заведующий лабораторией, кандидат наук Игорь Иванович Власов, старший научный сотрудник, кандидат наук Сергей Владимирович Терехов, научный сотрудник, кандидат наук Софья Николаевна Бокова, аспирант Федор Викторович Голиков, аспирант 
+Основная деятельность лаборатории связана с исследованиями различных <Node id="870"/>наноматериалов<Node id="884"/> методами спектроскопии. Например, <Node id="919"/>углеродные <Node id="930"/>нанотрубки<Node id="940"/>, <Node id="942"/>нанотрубки<Node id="952"/> из нитрида бора<Node id="968"/>, поликристаллические алмазные пленки.
+ Основные направления исследований: синтез одностенных <Node id="1062"/>углеродных <Node id="1073"/>нанотрубок<Node id="1083"/> 
+ спектроскопия комбинационного рассеяния света, в том числе при высоких давлениях и в широком диапазоне температур
+ спектроскопия оптического поглощения
+ флуоресцентная спектроскопия
+ компьютерное моделирование
+   Спектрометр комбинационного рассеяния света Jobin-Yvon S-300 Спектрометр комбинационного рассеяния света LotOriel Ультрацентрифуга Установка по синтезу одностенных <Node id="1463"/>углеродных <Node id="1474"/>нанотрубок<Node id="1484"/> в электрической дуге Установка по синтезу одностенных <Node id="1539"/>углеродных <Node id="1550"/>нанотрубок<Node id="1560"/> из спирта    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="942" EndNode="952">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="919" EndNode="940">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1550" EndNode="1560">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="141" EndNode="154">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="49" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1474" EndNode="1484">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="117" EndNode="138">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="203" EndNode="224">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="930" EndNode="940">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нитрид-борная+нанотрубка" StartNode="942" EndNode="968">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="128" EndNode="138">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="870" EndNode="884">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Углеродная+нанотрубка" StartNode="1062" EndNode="1083">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="1539" EndNode="1560">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="214" EndNode="224">
+</Annotation>
+<Annotation Id="24" Type="Углеродная+нанотрубка" StartNode="1463" EndNode="1484">
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="1073" EndNode="1083">
+</Annotation>
+<Annotation Id="28" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

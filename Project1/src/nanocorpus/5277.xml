@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Чешская наука становится на службу ПентагонуУже в <Node id="50"/>этом году<Node id="59"/> в Чехию из США потекут миллионы крон на научно-исследовательские разработки. Случится это благодаря проводимой правительством Чехии политике, направленной на скорейшее размещение радара ПРО на территории страны. Чехия предложит США 77 самых лучших научно-исследовательских центров, а чешские учёные получат не только финансовые средства, но и доступ к самым современным технологиям. Чехам уже есть, что предложить <Node id="474"/>Пентагону<Node id="483"/>. Например, повязку, заживляющую раны, детектор мин и систему навигации спутников. 
+Профессор Владимир Маржик, руководитель кафедры кибернетики Чешского Технического университета, которому правительство поручило составить список научных центров, утверждает, что сначала американцы обещали финансово поддержать чешскую науку в обмен за радар.
+ 
+«В <Node id="830"/>настоящее время<Node id="845"/>, что касается научных разработок, мы для американцев – союзник. Даже если договор о радаре не будет подписан, деньги поступят», – уверен он.
+  Американцы будут финансировать 24 научно-исследовательские области, например, оптику, нанотехнологии или экспериментальную медицину. В обмен они получат право на использования любого чешского изобретения и патента на него, появившегося в стенах дотируемых лабораторий. <Node id="1258"/>http://ptel.cz/?…Ага!<Node id="1279"/> Раскатали губу! Блажен, кто верует – легко ему живётся… Забыли ребята, что бесплатный сыр бывает только в мышеловке. А уж из американской мышеловки им потом вовек не выкарабкаться… Не таков дядюшка <Node id="1478"/>Сэм<Node id="1481"/>, чтобы «даром» раздавать свои пряники… КАроче, видать, дело идёт к тому, что наши американские «братья» всерьёз вознамерились подмять научно-технические потенциалы своих новых союзников… Помнится, это уже случалось в новейшей истории Европы… И тоже (в частности) – с чешским государством… Впрочем, им виднее…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1258" EndNode="1279">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="50" EndNode="59">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="474" EndNode="483">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Пентагону</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="830" EndNode="845">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1478" EndNode="1481">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Алферов<Node id="7"/>: Не верю в возвращение молодых ученых, уехавших из РоссииСАНКТ-ПЕТЕРБУРГ, <Node id="82"/>23 июня<Node id="89"/> «Я часто встречаю выпускников российских вузов, которые успешно работают в научных центрах разных стран, имеют свои лаборатории, получают престижные научные премии. Положа руку на сердце скажу, что не верю в их возвращение на родину, как бы мы их ни заманивали якобы высокими зарплатами или перспективами развития. Если и вернутся, то единицы. Большинство же останется там навсегда. Однако, можно сделать много для того, чтобы из России не уезжали другие талантливые выпускники вузов, — сказал сегодня в Санкт-Петербурге на открытии международного форума «Наука и общество» академик, лауреат Нобелевской премии, председатель президиума СП НЦ РАН <Node id="736"/>Жорес<Node id="741"/> <Node id="742"/>Алферов<Node id="749"/>.
+ 
+Как передает корреспондент ИА «Росбалт», <Node id="794"/>Алферов<Node id="801"/> подчеркнул, что надо прежде всего сделать так, чтобы наука была востребована экономикой<Node id="889"/>. А для этого, в свою очередь, надо достойно финансировать науку, которая даст новые проекты для промышленности. Надо и кадры для науки и промышленности готовить по-новому. В частности, развивать другие подходы к магистерским и аспирантским программам. Образовательный компонент в аспирантских программах должен быть намного сильнее. Нужны, как и прежде, регулярные курсы для аспирантов, нужны строгие экзамены по кандидатскому минимуму и срок подготовки аспирантов – <Node id="1357"/>не менее 4-х лет<Node id="1373"/>.
+ Качественно подготовленные специалисты – это высокотехнологичная наука. За ней смогут развиваться и высокотехнологичные отрасли промышленности, которые сегодня находятся в ужасном состоянии. <Node id="1567"/>Мы отстали в их развитии от передовых стран <Node id="1611"/>лет<Node id="1614"/> на 20, – сказал <Node id="1631"/>Алферов<Node id="1638"/>.  Форум «Наука и общество» проводится по инициативе правительства Санкт-Петербурга и Санкт-Петербургского научного центра РАН. В форуме принимают участие 8 лауреатов Нобелевской премии. Основная тема форума – развитие нанотехнологий и подготовка кадров для нанотехнологий. <Node id="1912"/>http://www.rosbaltpiter.ru<Node id="1938"/>/…/496639.htmlДа-а-а, сильно сказано!.. Но, с учётом того, что это говорит самый, пожалуй, компетентный в данной области специалист, наверное, так оно и есть…;-((( То есть, для нас эти учёные уже как есть – «Отрезанный ломОть». «Что сделано, то сделано. Забудьте!» И правда, хоть это и не смешно, это напоминает известный анекдот про цыгана. Выходит он поутру из шатра и задумчиво смотрит на десяток копошащихся в пыли ребятишек… А потом спрашивает самого себя: «Ну, что будем делать? Этих отмоем или новых народим?» Причём вопрос вполне уместный – с учётом того, что в необъятной степи в ближайшей окрестности не просматривается никаких водоёмов… Так что, как ни горька эта правда, уважаемый академик в обозримом будущем не видит «иной» альтернативы…;-(((</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="82" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1912" EndNode="1938">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="736" EndNode="741">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1357" EndNode="1373">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="742" EndNode="749">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="794" EndNode="889">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1631" EndNode="1638">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1611" EndNode="1614">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="794" EndNode="801">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1567" EndNode="1638">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1567" EndNode="1638">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="794" EndNode="889">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

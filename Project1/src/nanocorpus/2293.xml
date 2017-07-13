@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>16 мая<Node id="6"/> в Екатеринбурге стартует XIII Российский экономический форумВ период <Node id="76"/>с 16 по 17 мая 2008 года<Node id="100"/> в Екатеринбурге пройдет XIII Российский экономический форум, соорганизатором которого совместно с Правительством Свердловской области выступает Деловой совет ШОС, – сообщили «УралПолит.Ru» представители оргкомитета форума.
+<Node id="324"/>16 мая<Node id="330"/> пройдет первая встреча экспертов рабочей группы Делового совета ШОС. На встрече экспертов национальных частей и секретариата ДС ШОС планируется обсудить вопросы привлечения на форум представительных делегаций стран ШОС, с тем чтобы как можно полнее представить результаты экономического сотрудничества в рамках Организации.
+
+Российский экономический форум – один из старейших институтов российского гражданского общества. Он проводится <Node id="767"/>с 1996 года<Node id="778"/>, по инициативе известных российских ученых и деловых кругов при поддержке органов государственной власти.
+Тема нынешнего, XIII Российского экономического форума – «Эффективная инвестиционная политика регионов – ключевой фактор устойчивого экономического развития России».
+
+В рамках работы форума состоится несколько круглых столов, в частности, о позиционировании региона в глобальной экономике, современном бизнес-образовании в регионе, ребрендинге территории.
+ Еще одно ожидаемое событие форума – подписание соглашения между Правительством Свердловской области и Государственной корпорацией «Российская корпорация нанотехнологий» о сотрудничестве в сфере нанотехнологий. <Node id="1452"/>http://www.uralpolit.ru/…d_98519.htmlХорошее<Node id="1496"/> напоминание. Мы уже сообщали об этом форуме ранее: <Node id="1548"/>http://www.nanonewsnet.ru/…eskom-forume<Node id="1587"/> // <Node id="1591"/>http://www.nanonewsnet.ru/…ovom-formate.<Node id="1631"/> Теперь стОит вновь напомнить об этом событии, которое состоится уже на <Node id="1703"/>днях<Node id="1707"/>. Так что ещё есть время оглянуться, посмотреть, всё ли уже сделано и, в случае чего – наверстать упущенное. Тем более, что сам форум будет длиться всего пару-тройку <Node id="1873"/>дней<Node id="1877"/>…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1591" EndNode="1631">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1873" EndNode="1877">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1452" EndNode="1496">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="324" EndNode="330">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="76" EndNode="100">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="767" EndNode="778">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1703" EndNode="1707">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1548" EndNode="1587">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

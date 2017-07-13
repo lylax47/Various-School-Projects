@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Для увеличения плотности записи информации на современных магнитных носителях необходимо переходить на наноуровень. Исследователи из National Institute of Standards and Technology (NIST) сделали значительный шаг в этом направлении. Им удалось изготовить массивы одинаковых <Node id="275"/>наноточек<Node id="284"/>, реагирующих на магнитное поле. В перспективе емкость носителя на основе таких массивов как минимум в 100 раз превзойдет емкость современных жестких дисков. 
+ 
+У каждой <Node id="454"/>наноточки<Node id="463"/> имеются южный и северный полюса как у крошечного стержневого магнита. Полюса можно переключать (формируя 0 и 1) под действием сильного магнитного поля. Как правило, чем меньше точка, тем сильнее должно быть поле. Однако это переключающее поле может варьироваться в довольно широких пределах. В работе "Origins of switching field distributions in perpendicular magnetic nanodot arrays" описано, как можно снизить эти отклонения до <Node id="894"/>5%<Node id="896"/> от величины среднего переключающего поля, и показано, что на них в значительной степени влияет структура многослойных пленок, из которых получаются <Node id="1045"/>наноточки<Node id="1054"/>. 
+ 
+<Node id="1059"/>Наноточки<Node id="1068"/> размером 50 нм получены методом электронно-лучевой <Node id="1120"/>литографии<Node id="1130"/> из многослойных тонких пленок. На кремниевую подложку сначала наносился затравочный слой из тантала толщиной несколько нанометров, потом слои кобальта и палладия. Затравочный слой может изменять напряжения, ориентацию и текстуру пленки. Путем сравнения различных пленок исследователи смогли обнаружить влияние типа затравочного слоя на характер перемагничивания <Node id="1493"/>наноточек<Node id="1502"/>. Для уменьшения переключающих полей авторы работы предлагают нагревать <Node id="1574"/>наноточки<Node id="1583"/> лазером. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="894" EndNode="896">
+</Annotation>
+<Annotation Id="1" Type="Наноточка" StartNode="454" EndNode="463">
+</Annotation>
+<Annotation Id="2" Type="Наноточка" StartNode="1045" EndNode="1054">
+</Annotation>
+<Annotation Id="3" Type="Литография" StartNode="1120" EndNode="1130">
+</Annotation>
+<Annotation Id="4" Type="Наноточка" StartNode="1059" EndNode="1068">
+</Annotation>
+<Annotation Id="5" Type="Наноточка" StartNode="1493" EndNode="1502">
+</Annotation>
+<Annotation Id="6" Type="Наноточка" StartNode="275" EndNode="284">
+</Annotation>
+<Annotation Id="7" Type="Наноточка" StartNode="1574" EndNode="1583">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

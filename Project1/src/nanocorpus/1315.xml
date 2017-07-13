@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследовательская группа, возглавляемая Даянг Вангом (Dayang Wang) из Института Коллоидных Систем и Поверхностей Макса Планка (Потсдам) сформировала слой <Node id="155"/>наночастиц<Node id="165"/> золота<Node id="172"/> на границе раздела фаз между водой и толуолом.
+
+Поочередно меняя функциональные группы на поверхности <Node id="275"/>наночастиц<Node id="285"/> золота<Node id="292"/> за счет специфического распознавания с помощью функционализированных оснований ДНК, Вангу удалось расположить слой положительно заряженных <Node id="432"/>наночастиц<Node id="442"/> теллурида кадмия с «водной стороны» границы раздела и слой гидрофобных <Node id="514"/>наночастиц<Node id="524"/> серебра с «органической стороны».
+
+Организация пленок из <Node id="582"/>наночастиц<Node id="592"/> на границе раздела фаз имеет ряд преимуществ в сравнении с их построением на твердой подложке. <Node id="688"/>Ванг отмечает, что на границе раздела есть возможность организации как органических, так и неорганических частиц<Node id="800"/>. Это обстоятельство позволяет использовать в синтезе комбинированных нанослоев методологию как органической, так и неорганической химии. Полученные пленки отличаются меньшим количеством дефектов, благодаря межмолекулярным взаимодействиям ДНК и <Node id="1045"/>наночастиц<Node id="1055"/>, <Node id="1057"/>нанокомпозит<Node id="1069"/> имеет весьма существенную устойчивость.
+
+Ванг надеется на синтез многослойных пленок, через которые можнобудет осуществлять транспорт заряда или энергии. Исследователь надеется, что такие <Node id="1258"/>нанокомпозиты<Node id="1271"/> смогут привести к созданию тонкопленочных устройств.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="582" EndNode="592">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанокомпозит" StartNode="1258" EndNode="1271">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="514" EndNode="524">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="688" EndNode="800">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="688" EndNode="800">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="155" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наночастица+золота" StartNode="155" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1045" EndNode="1055">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица+золота" StartNode="275" EndNode="292">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="432" EndNode="442">
+</Annotation>
+<Annotation Id="21" Type="Нанокомпозит" StartNode="1057" EndNode="1069">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="275" EndNode="285">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

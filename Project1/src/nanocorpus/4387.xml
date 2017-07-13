@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Наноматериалы<Node id="14"/> вследствие своих уникальных свойств, зависящих от размеров и микроморфологии, привлекают большое внимание современных ученых. Последнее время особый интерес вызывают соединения редкоземельных элементов. Лантаноиды имеют конфигурацию внешнего электронного слоя 5d16s2 или 6s2; от лантана к лютецию изменяется количество 4f –электронов, которые не участвуют в образовании химических связей. Электроны на внешнем слое не очень хорошо экранированы от заряда ядра, что обуславливает явление лантаноидного сжатия. Подобные уникальные электронные свойства делают халькогениды и оксисульфиды РЗЭ многообещающими материалами для применения в качестве постоянных магнитов, а также флуоресцентных материалов. 
+ 
+Синтез монодисперсных <Node id="738"/>наночастиц<Node id="748"/> халькогенидов лантаноидов является достаточно сложной задачей. Ученые из Пекинского университета <Node id="846"/>Фен Чжао<Node id="854"/> и Сон Гао (Feng Zhao, Song Gao) разработали эффективный метод синтеза <Node id="925"/>нанокристаллов<Node id="939"/> сульфида и оксосульфида европия, основанный на пиролизе металлоорганических соединений РЗЭ. В качестве прекурсора был выбран фенантролин-диэтилдитиокарбамат европия Eu(Phen)(Ddtc)3, так как в нем стабилизирован Eu(II). В восстановительной атмосфере Eu(Phen)(Ddtc)3 разлагается до EuS, который на воздухе окисляется до оксосульфида Eu2O2S. В качестве растворителя во избежание агрегации и преждевременного окисления <Node id="1355"/>наночастиц<Node id="1365"/> использовался олеиламин. 
+ 
+Контролировать размер <Node id="1416"/>наночастиц<Node id="1426"/> удалось путем изменения температуры проведения синтеза и концентрации мономеров. При низких температурах (ниже 200 ˚С) синтезируемые частицы плохо кристаллизованы. Было установлено, что оптимальными температурами для получения полиэдрических и кубических <Node id="1682"/>наночастиц<Node id="1692"/> являются 260 и 280 ˚С соответственно. За счет увеличения количества центров зародышеобразования, увеличение концентрации мономеров приводит к уменьшению размера получаемых кристаллов. 
+ 
+При использовании в качестве ПАВ олеиновой кислоты за счет селективной адсорбции на {001} грани синтезируются короткие <Node id="1999"/>наностержни<Node id="2010"/> либо очень тонкие нанопластины. 
+ 
+Полученные коллоидные <Node id="2068"/>наночастицы<Node id="2079"/> были успешно использованы для создания самоорганизованных <Node id="2138"/>наноструктур<Node id="2150"/>, макроскопические свойства которых определяются не только индивидуальными свойствами составляющих ее частиц, но и их взаимодействием друг с другом и со слоями органических молекул, заключенными в структуру. 
+  
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокристалл" StartNode="925" EndNode="939">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="2068" EndNode="2079">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1355" EndNode="1365">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="1999" EndNode="2010">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1682" EndNode="1692">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1" EndNode="14">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="846" EndNode="854">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чжао</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="2138" EndNode="2150">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1416" EndNode="1426">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="738" EndNode="748">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии в логистике 
+“Какую последнюю инновацию в логистике вы знаете?” – Так представил международному пулу журналистов инновационный центр DHL в Бонне его директор Кейс Ульрих. Акулы транспортного пера, съехавшиеся со всего мира посмотреть на инновации, морщили лбы и растерянно молчали.
+  
+“Последняя инновация в логистике – это контейнер, который изобрели еще в <Node id="373"/>середине прошлого века<Node id="395"/>, – ответил на собственный вопрос <Node id="429"/>К.Ульрих<Node id="437"/>. – А теперь вы увидите инновационную лабораторию DHL, где разрабатывают и испытывают нано- и информационные технологии для логистики”.
+ И журналисты увидели – робота, предназначенного для растарки контейнеров (parcel robot), двухколесный самокат Segway, призванного упростить работу складских работников, “умные” температурные <Node id="765"/>сенсоры<Node id="772"/>, нанотехнологии, RFID (радиометки) и новейшие информационные системы в действии.
+
+Все было потрогано, протестировано на себе и проверено в работе. Рассказ об инновационном центре, в создание которого DHL <Node id="977"/>вложил<Node id="983"/> порядка <Node id="992"/>10 млн евро<Node id="1003"/>, читайте в первом номере журнала “FREIGHT.ru” в <Node id="1052"/>новом году<Node id="1062"/>.
+<Node id="1064"/>http://seanews.ru/…y/survey.asp?…Вот<Node id="1100"/> ещё одна область применения нанотехнологий. Теперь уже в области логистики. А уж без логистики в наше время – совсем как без рук…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Инвестиции" StartNode="977" EndNode="983">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1052" EndNode="1062">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="373" EndNode="395">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="429" EndNode="437">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="765" EndNode="772">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="992" EndNode="1003">
+</Annotation>
+<Annotation Id="9" Type="Инвестиции" StartNode="977" EndNode="983">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1064" EndNode="1100">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

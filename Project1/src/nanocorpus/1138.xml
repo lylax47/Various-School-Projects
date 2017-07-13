@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Важная миссия комитета, который подготавливает известную «Международную технологическую дорожную карту для полупроводников» (International Technology Roadmap for Semiconductors, ITRS), – определить следующие большие шаги в технологии полупроводников.
+
+Комитет провел серьезные исследования, чтобы определить возможные физические эффекты, которые могут быть использованы в следующих поколениях переключателей. По их мнению, можно продлить жизнь КМОП, использовав в качестве канала транзистора <Node id="493"/>углеродную <Node id="504"/>нанотрубку<Node id="514"/> или <Node id="519"/>графен<Node id="525"/>, подвижность носителей в которых рекордно высокая. Кроме того, спиновый транспорт в <Node id="610"/>углеродных <Node id="621"/>нанотрубках<Node id="632"/> и <Node id="635"/>графене<Node id="642"/> может обеспечить развитие спинтроники. Инженеры могут найти применения и другим эффектам, наблюдаемым в <Node id="747"/>углеродных <Node id="758"/>наноструктурах<Node id="772"/>, в частности, эффекту квантового сжатия [1].
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="758" EndNode="772">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="635" EndNode="642">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="493" EndNode="514">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+наноструктура" StartNode="747" EndNode="772">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="504" EndNode="514">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="610" EndNode="632">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="621" EndNode="632">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="519" EndNode="525">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

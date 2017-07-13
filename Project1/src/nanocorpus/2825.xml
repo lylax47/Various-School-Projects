@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Пленарное заседание Форума открыл заместитель Председателя Правительства РФ Сергей Иванов<Node id="90"/>,<Node id="91"/> зачитавший приветствие Президента РФ Дмитрия Медведева.
+
+В работе Форума приняли участие Министр экономического развития РФ Эльвира Набиуллина, Генеральный директор РОСНАНО Анатолий Чубайс<Node id="280"/>,<Node id="281"/> Директор ФГУ РНЦ «Курчатовский институт» Михаил Ковальчук, лауреат Нобелевской премии, вице-президент РАН, академик <Node id="398"/>Жорес<Node id="403"/> <Node id="404"/>Алферов<Node id="411"/>, исполнительный директор Института лазеров, фотоники и биофотоники Парас Прасад (США).
+
+Основными темами дискуссий в <Node id="529"/>первый день<Node id="540"/> Форума стали зарубежный опыт по формированию национальных инновационных систем, роль государства и бизнеса в создании механизмов коммерциализации научных разработок в области нанотехнологий.
+
+Участники Форума также обсудили потенциал применения нанотехнологий для сокращения издержек и повышения эффективности в нефтегазовом секторе, а также перспектив развития венчурного инвестирования в России.
+
+Среди участников дискуссий представители крупных российских и зарубежных компаний, в том числе в области нанотехнологий, ведущие ученые, представители государственных и региональных органов власти.
+
+По итогам <Node id="1149"/>первого дня<Node id="1160"/> работы Форума в инвестиционном портфеле РОСНАНО появился еще один крупный проект. Генеральный директор Корпорации Анатолий Чубайс, президент Группы ОНЭКСИМ Михаил Прохоров<Node id="1332"/> <Node id="1333"/>и генеральный директор Уральского оптико-механического завода Сергей Максин<Node id="1408"/> <Node id="1409"/>поставили свои подписи под учредительными документами о создании предприятия по производству светотехники нового поколения на основе полупроводниковых чипов нитрида галлия.
+
+Кроме того, РОСНАНО заключила <Node id="1613"/>соглашения<Node id="1623"/> о <Node id="1626"/>сотрудничестве<Node id="1640"/> с Российской Академией наук и Московским государственным университетом имени М. В. Ломоносова, а также с Министерством занятости и экономики Финляндии.
+
+Завтра участников Форума ждет обсуждение мировых тенденций развития наноиндустрии и перспектив применения нанотехнологий в различных отраслях: от химической промышленности, строительства и медицины до электроники, фотоники и биотехнологий.
+
+Форум продлится до <Node id="2054"/>5 декабря<Node id="2063"/>.
+Государственная корпорация «Российская корпорация нанотехнологий» (РОСНАНО) учреждена федеральным законом №139-ФЗ <Node id="2179"/>19 июля 2007 года<Node id="2196"/> для «реализации государственной политики в сфере нанотехнологий, развития инновационной инфраструктуры в сфере нанотехнологий, реализации проектов создания перспективных нанотехнологий и наноиндустрии». Корпорация решает эту задачу, выступая соинвестором в нанотехнологических проектах со значительным экономическим или социальным потенциалом. Финансовое участие корпорации на ранних стадиях проектов снижает риски ее партнеров – частных инвесторов. Корпорация участвует в создании объектов нанотехнологической инфраструктуры, таких как центры коллективного пользования, бизнес – инкубаторы и фонды раннего инвестирования. РОСНАНО выбирает приоритетные направления инвестирования на основе долгосрочных прогнозов развития (форсайт), к разработке которых привлекаются ведущие российские и мировые эксперты. В <Node id="3005"/>2007 году<Node id="3014"/> на деятельность корпорации Правительством Российской Федерации выделено <Node id="3087"/>130 млрд. рублей<Node id="3103"/>. Органами управления являются наблюдательный совет, правление и гендиректор. Генеральный директор РОСНАНО – Чубайс Анатолий Борисович.
+РБК – Генеральный информационный партнер Первого международного форума.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="3005" EndNode="3014">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="90" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="398" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="3005" EndNode="3014">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Партнеры_Клиенты" StartNode="1626" EndNode="1640">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1149" EndNode="1160">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="2179" EndNode="2196">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="404" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="1408" EndNode="1409">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="2054" EndNode="2063">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="3087" EndNode="3103">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Партнеры_Клиенты" StartNode="1626" EndNode="1640">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="сотрудники" StartNode="1408" EndNode="1409">
+</Annotation>
+<Annotation Id="22" Type="сотрудники" StartNode="280" EndNode="281">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="сотрудники" StartNode="90" EndNode="91">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="529" EndNode="540">
+</Annotation>
+<Annotation Id="29" Type="Партнеры_Клиенты" StartNode="1613" EndNode="1623">
+</Annotation>
+<Annotation Id="28" Type="работает" StartNode="1332" EndNode="1333">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="сотрудники" StartNode="1332" EndNode="1333">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="работает" StartNode="280" EndNode="281">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

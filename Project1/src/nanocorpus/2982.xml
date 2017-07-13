@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Госкорпорация «Роснанотех» вложит свои свободные средства в размере <Node id="69"/>130 млрд. руб.<Node id="83"/> (<Node id="85"/>$5,3 млрд.<Node id="95"/>) в депозиты 8 отечественных банков на <Node id="134"/>полтора года<Node id="146"/>. Финансовые аналитики называют величину этого депозита рекордной для России.
+
+Отечественный двигатель нанотехнологий «Роснанотех» положит свои «временно свободные средства» на депозит в 8 российских банках. Его «временно свободные средства» составляют все <Node id="403"/>130 млрд. руб.<Node id="417"/> (<Node id="419"/>$5,3 млрд.<Node id="429"/>), полученные им в качестве имущественного взноса из федерального бюджета.
+
+По сообщению госкорпорации, все эти средства будут размещены на <Node id="569"/>1,5 года<Node id="577"/> со средневзвешенной процентной ставкой <Node id="617"/>10,2%<Node id="622"/>. Выплаты по депозиту будут осуществляться ежеквартально, причем «Роснанотех» сможет досрочно отозвать из своего вклада <Node id="742"/>37 млрд. руб.<Node id="755"/> (<Node id="757"/>около $1,5 млрд<Node id="772"/>). Вклады нанокорпорации будут размещены в Россельхозбанке, банке «Санкт-Петербург», банке «Уралсиб», Номос-банке, Промсвязьбанке, Альфа-банке, ВТБ и «Банке Москвы». Консультантом при размещении средств стала управляющая компания «Тройка-Диалог».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="85" EndNode="95">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="742" EndNode="755">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="134" EndNode="146">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="419" EndNode="429">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="757" EndNode="772">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="569" EndNode="577">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="617" EndNode="622">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="403" EndNode="417">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="69" EndNode="83">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

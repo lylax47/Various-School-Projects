@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Foresight Nanotech Institute объявил призеров 2007 премии <Node id="60"/>Фейнмана<Node id="68"/> по нанотехнологии. 
+ 
+Эта престижная премия, названная в честь пионера-физика Ричарда Фейнмана, присуждается в двух номинациях: эксперимент и теория нанотехнологии. Установленная в 1993, эта премия отмечает исследователей, чья работа больше всего способствовала достижению цели, обозначенную Фейнманом для нанотехнологии: строительство продуктов с атомарной точностью с помощью производственных наносистем. 
+ 
+В <Node id="481"/>этом году<Node id="490"/> в теории победил Дэвид А. Ли (David A. Leigh) из университета Эдинбурга за исскуственные молекулярные моторы и дизайн машин в области броуновского движения. В эксперименте лучшим был признан сэр <Node id="686"/>Дж. Фрейзер<Node id="697"/> Штоддарт (Sir J. Fraser Stoddart) из университета Калифорнии за синтез молекулярных машин, включая молекулярный мускул. 
+ 
+Студенческую премию получил Фанг Суонг Оу (Fung Suong Ou) за устройства и машины из <Node id="905"/>нанопроволоки<Node id="918"/> (он использовал комбинаторный подход для производства одномерных структур из <Node id="996"/>углеродных <Node id="1007"/>нанотрубок<Node id="1017"/> и металлических <Node id="1034"/>нанопроволок<Node id="1046"/>). 
+ 
+PR премия (communication prize) была присуждена Роберту Фрейтасу (Robert A.Freitas), автору книг «Наномедицина» и «Кинематические самокопирующие машины», за многолетнюю работу по популяризации идей нанотехнологий. 
+ 
+Сайт "Нанометр" предлагает читателям дать свои комментарии по поводу работ победителей. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="1034" EndNode="1046">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="686" EndNode="697">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="481" EndNode="490">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="996" EndNode="1017">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="905" EndNode="918">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="60" EndNode="68">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фейнман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1007" EndNode="1017">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Тональность" StartNode="686" EndNode="697">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

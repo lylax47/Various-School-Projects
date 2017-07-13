@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Получение магнитных однодоменных частиц в виде стержней является одним из перспективных способов увеличения коэрцитивной силы материалов и, как следствие, увеличения магнитной энергии постоянных магнитов на их основе. Французские исследователи сообщают о синтезе новых материалов на основе <Node id="291"/>наностержней<Node id="303"/> Co80Ni20. 
+ 
+<Node id="317"/>Наностержни<Node id="328"/> Co80Ni20 были синтезированы в ходе реакции восстановления при растворении ацетатов соответствующих металлов в многоатомном спирте в присутствии гидроксида натрия. Полученные <Node id="503"/>наностержни<Node id="514"/> имели диаметр около 7 нм и длину 240 нм. 
+ 
+Для увеличения общей магнитной анизотропии материала частицы были диспергированы в растворе полиметилметакрилата в толуоле, после чего происходило затвердевание образца в магнитном поле при испарении растворителя. В результате этого происходило выстраивание стержней вдоль оси легкого намагничивания. 
+ 
+При этом остаточная намагниченность образца при измерении в поле, приложенном параллельно оси легкого намагничивания, составляла 0.85 от намагниченности насыщения (0.65 для порошка из стержней);  возрастала также и коэрцитивная сила с 3.6 кЭ до 4.8 кЭ. Авторы статьи считают данный материал очень перспективным для производства постоянных магнитов. 
+ 
+Работа "Magnetic nanowires as permanent magnet materials" опубликована в журнале Applied Physics Letters. 
+ 
+  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наностержень" StartNode="291" EndNode="303">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="503" EndNode="514">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="317" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Результаты конкурса будут подведены <Node id="37"/>1 ноября<Node id="45"/>. Завершилась ВЫСТАВКА ФОТОГРАФИЙ В НОВОМ УЧЕБНОМ КОРПУСЕ МГУ! <Node id="108"/>5 октября<Node id="117"/> был завершен прием фотографий на выставку-конкурс научной фотографии в рамках Третьего Фестиваля Науки в г.Москве. В <Node id="235"/>настоящий момент<Node id="251"/> открыта для просмотра большая часть работ, присланных на конкурс. С <Node id="320"/>10 октября<Node id="330"/>, после размещения фотографий, присланных по электронной почте, и в связи с началом проведения Фестиваля, будет открыто традиционное голосование по этим работам на приз зрительских симпатий! ОТКРЫТО ГОЛОСОВАНИЕ И ОБСУЖДЕНИЕ РАБОТ (на двух страницах)... Для просмотра фотографий нажмите ссылку внизу ("просмотр работ"). 
+В рамках 3-го Фестиваля науки в МГУ Факультет наук о материалах проводит выставку-конкурс научной фотографии. Не секрет, что электронная, атомно-силовая и оптическая микроскопии являются наиболее востребованными и полезными методами анализа. Обывателю микроскопические исследования могут показаться скучными, однако работа связанная с микроскопией объектов нередко приносит сюрпризы. Природа постоянно преподносит сюрпризы и иногда можно лишь догадываться о возможном строении материала. При любых увеличениях можно обнаружить объекты не только с научно ценной, но и с интересной и необычной микроструктурой, похожей на объекты макромира. Фотографии с изображением таких структур и будут представлены на выставке в Фундаментальной библиотеке МГУ <Node id="1396"/>с 10 по 12 октября 2008 года<Node id="1424"/>. Наиболее оригинальные и интересные работы будут награждены ценными подарками. 
+ 
+Условия участия в конкурсе: 
+   К участию в конкурсе допускаются все желающие без ограничения по возрасту и статусу. От одного автора на конкурс принимаются не более 2-х научных фотографий, полученные за <Node id="1711"/>последние 3 года<Node id="1727"/>, но не участвовавших в конкурсах ранее.   Для участия в конкурсе необходимо прислать цифровые фотографии с разрешением 300 или 600 dpi в формате jpg или tiff в архиве rar по адресу photo.fn.08@mail.ru. Объем каждой фотографии не должен превышать 4 Мб. ЖЕЛАТЕЛЬНО загрузить копию фотографии в этом разделе для публичного просмотра и зрительского голосования, которые начнутся, начиная с <Node id="2114"/>5 октября<Node id="2123"/>.   Работы (фотографии) на конкурс принимаются до <Node id="2173"/>5 октября 2008 года<Node id="2192"/> включительно. Каждую фотографию необходимо сопроводить описанием в отдельном файле формата rtf или doc. Например, цифровое фото something.jpg должно сопровождаться файлом something.rtf, содержащим информацию об исследователях, приготовивших объект, месте их работы, приборе с использованием которого получено изображение, а также краткую аннотацию изображения не более 0,5 стр. (пояснить какой объект или процесс изображены на фото, в чем заключается их оригинальность). Приветствуются художественные, отвлеченные от научной направленности названия фотографий. Также к письму необходимо приложить rtf файл, который должен содержать информацию об авторе работы:    ФИО;   Место работы/учебы;   Занимаемая должность;   Ученая степень и звание;   Электронный адрес;   Телефон для связи;    В теме письма необходимо указать краткое наименование учебного или научного заведения, где выполнена работа и ФИО автора. Например, письмо с темой ИОНХ_<Node id="3132"/>Иванов<Node id="3138"/>_<Node id="3139"/>Иван<Node id="3143"/>_<Node id="3144"/>Иванович<Node id="3152"/>, должно сопровождаться файлом ИОНХ_<Node id="3188"/>Иванов<Node id="3194"/>_<Node id="3195"/>Иван<Node id="3199"/>_<Node id="3200"/>Иванович<Node id="3208"/>.rtf с информацией об авторе.   
+ 
+Оргкомитет конкурса вправе использовать фотографии для формирования фотовыставок с обязательным указанием автора работ, фотографии-победители конкурса будут включены в календарь Фестиваля науки на <Node id="3440"/>2009 год<Node id="3448"/>.
+ 
+P.S. Для тех потенциальных участников, фотографии которых уже размещены в галерее "Нанометра", необходимо дополнить информацию о фотографии и послать ее оригинал в установленном формате на указанный выше адрес электронной почты. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="3188" EndNode="3194">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="320" EndNode="330">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="3132" EndNode="3138">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="2173" EndNode="2192">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="3200" EndNode="3208">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="3144" EndNode="3152">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="2114" EndNode="2123">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="37" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="235" EndNode="251">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="3195" EndNode="3199">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Иван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="3139" EndNode="3143">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Иван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="108" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1711" EndNode="1727">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="3440" EndNode="3448">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="3440" EndNode="3448">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="1396" EndNode="1424">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учеными из США создан новый <Node id="29"/>метаматериал<Node id="41"/> с уникальными оптическими свойствами. Он характеризуется отрицательной магнитной и электрической проницаемостью для инфракрасного света с длиной волны 813 нанометров.
+
+<Node id="210"/>Владимир Шалаев из Университета Пэрдью (Purdue University) говорит, что <Node id="282"/>метаматериалы<Node id="295"/> подобрались уже довольно близко к длинам волн видимого света (380–780 нанометров)<Node id="377"/>. Новый материал ученые назвали DN-NIM.
+
+Обычно традиционные материалы имеют положительный показатель преломления. <Node id="492"/>Метаматериалы<Node id="505"/>, у которых коэффициент преломления отрицательный, является супелинзой. К примеру, с помощью суперлинз пучок света можно сфокусировать в точку, меньшую по размерам, чем его длина волны. Это позволит современным микроскопам заглянуть за увеличительный предел, обусловленный длиной волны видимого света, и стать более точными.
+
+<Node id="831"/>Метаматериал<Node id="843"/> состоит из двух слоев серебра, разделенных алюминием. На поверхности DN-NIM ученые создали специальный шаблон: массив прямоугольных отверстий диаметром 120 нанометров, разделенных расстоянием 300 нанометров.
+
+Как видно благодаря электронной микроскопии, <Node id="1098"/>метаматериал<Node id="1110"/> похож на «тюль», благодаря крупным ячейкам на его поверхности. Шалаев не отрицает, что в будущем <Node id="1208"/>метаматериалы<Node id="1221"/> могут работать и с видимыми длинами волн света, что может послужить основой для появления оптических микроскопов высокого разрешения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Метаматериал" StartNode="831" EndNode="843">
+</Annotation>
+<Annotation Id="3" Type="Метаматериал" StartNode="1208" EndNode="1221">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Метаматериал" StartNode="282" EndNode="295">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Метаматериал" StartNode="492" EndNode="505">
+</Annotation>
+<Annotation Id="8" Type="Метаматериал" StartNode="1098" EndNode="1110">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="210" EndNode="377">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="210" EndNode="377">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Метаматериал" StartNode="29" EndNode="41">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

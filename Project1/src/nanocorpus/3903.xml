@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>23 октября<Node id="12"/> состоялась лекция ведущих специалистов корпорации Intel, первая из цикла научно-популярных лекций по нанонауке и нанотехнологиям. Лекция, прошедшая в Российской корпорации нанотехнологий, была посвящена промышленной наноэлектронике, ее проблемам и перспективам развития. Лекция состояла из двух частей. В первой части доктор физико-математических наук, менеджер по развитию новых проектов Intel в России и СНГ Николай Суетин рассказал о новых технологических решениях, внедряемых в индустрии, о методах создания <Node id="525"/>наноструктур<Node id="537"/>, об их экономической эффективности и дальнейших перспективах развития полупроводниковой отрасли. Во второй части кандидат физико-математических наук, директор по развитию бизнеса Intel в России и СНГ Александр Козлинский, дал краткий обзор ожидаемых направлений развития цифровых и коммуникационных технологий на <Node id="851"/>ближайшие 10 лет<Node id="867"/>.
+ 
+С материалами лекции можно ознакомиться, пройдя по ссылке.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="525" EndNode="537">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="851" EndNode="867">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="2" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

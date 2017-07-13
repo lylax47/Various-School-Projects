@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Согласно заявлению Уильяма Ли (William Lee), вице-президента по продажам и маркетингу ведущей китайской полупроводниковой компании Semiconductor Manufacturing International Corp., Шанхай, ) [1], Китай стремится обеспечивать собственными силами всю цепочку микроэлектронных разработок и производства (от материалов до оборудования). Цель – ликвидировать брешь между потребностью страны в полупроводниковых чипах и реальным объемом их собственно китайского производства. В <Node id="472"/>2007 г.<Node id="479"/> Китай импортировал интегральных схем (<Node id="518"/>ИС<Node id="520"/>) на сумму <Node id="531"/>71,3 млрд. долларов<Node id="550"/>, что сопоставимо с импортом нефти в эти же сроки.
+
+В <Node id="604"/>2008 г.<Node id="611"/>, по оценкам компании IC Insights, Китай закупит <Node id="660"/>ИС<Node id="662"/> на сумму <Node id="672"/>90,2 млрд. долларов<Node id="691"/>, в то время как объем потребления чипов собственного производства составит <Node id="767"/>6,5 млрд. долларов<Node id="785"/>. Оценки показывают также, что это расхождение не будет уменьшаться, так к <Node id="860"/>2010 г.<Node id="867"/> соответствующие суммы составят <Node id="899"/>124 млрд. долларов<Node id="917"/> и <Node id="920"/>12 млрд. долларов<Node id="937"/> соответственно.
+
+Собственное производство удовлетворяет лишь <Node id="999"/>10%<Node id="1002"/> потребности страны. При этом Китай продает значительное количество <Node id="1070"/>ИС<Node id="1072"/> на мировом рынке [2] . Известный изготовитель ноутбуков, настольных ПК и рабочих станций, американская компания Dell Inc для снижения стоимости своей продукции (которую реализует большей частью в США) планирует закупить в Китае электронных компонентов и оборудования на сумму <Node id="1349"/>23 млрд. долларов<Node id="1366"/> в <Node id="1369"/>текущем году<Node id="1381"/> и на <Node id="1387"/>29 млрд. долларов<Node id="1404"/> в <Node id="1407"/>2009 г.<Node id="1414"/> Другая американская компания Cisco Systems Inc, самый крупный в мире производитель маршрутизаторов, переключателей и другой аппаратуры для Интернет-сетей, <Node id="1570"/>в течение ближайших 5 лет<Node id="1595"/> закупит у китайских поставщиков электронных компонентов на <Node id="1655"/>16 млрд. долларов<Node id="1672"/>.
+
+В то же время очень быстро набирает темпы китайская промышленность конструирования и дизайна <Node id="1768"/>ИС<Node id="1770"/>, ее «продукция» вырастет от <Node id="1799"/>3 млрд. долларов<Node id="1815"/> (<Node id="1817"/>2007 г.<Node id="1824"/>) до <Node id="1829"/>6,4 млрд. долларов<Node id="1847"/> уже к <Node id="1854"/>2009 г.<Node id="1861"/> Китайские дизайнерские компании получают значительную поддержку от производственных компаний. Их разработки ориентированы на передний край полупроводниковой технологии – 90– и 65-нм процессы. Сфера разработок – цифровое телевидение, смартфоны и МР3-плееры [1].
+
+Перед Китаем стоят две задачи: с одной стороны, полностью обеспечить текущие разработки и производство собственными материалами и оборудованием и, с другой стороны, резко расширить фундаментальные исследования в поддержку микроэлектронного производства. Достижение этих целей включены в планы 11-го пятилетнего плана. На первое место выдвигается расширение дизайнерских и исследовательских работ. В рамках этого пятилетнего плана ставятся задачи перевода ведущих производств со 150– на 200-мм подложки и обеспечения их фотолитографическим оборудованием собственного производства, а также прорыва в исследованиях и разработках, связанных с 300-мм подложками.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="899" EndNode="917">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1387" EndNode="1404">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="472" EndNode="479">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="999" EndNode="1002">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1570" EndNode="1595">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="660" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1349" EndNode="1366">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1854" EndNode="1861">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1799" EndNode="1815">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1407" EndNode="1414">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1768" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="531" EndNode="550">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="518" EndNode="520">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1655" EndNode="1672">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1070" EndNode="1072">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1369" EndNode="1381">
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="920" EndNode="937">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1817" EndNode="1824">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="767" EndNode="785">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="860" EndNode="867">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Деньги" StartNode="1829" EndNode="1847">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="672" EndNode="691">
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="604" EndNode="611">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

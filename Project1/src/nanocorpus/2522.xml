@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Средний Урал нашел себе корейского другаСВЕРДЛОВСКАЯ ОБЛАСТЬ – <Node id="63"/>29 октября 2008 года<Node id="83"/> председатель среднеуральского правительства Виктор Кокшаров и региональный министр международных и внешнеэкономических связей Александр Харлов отправятся в Южную Корею.
+
+В рамках трехдневного визита они примут участие в деловом форуме «Россия — Республика Корея: торговое и инвестиционное сотрудничество», организованном Торгово-промышленной палатой РФ.
+
+Как сообщили «Уралинформбюро» в областном министерстве международных и внешнеэкономических связей, В.Кокшаров планирует выступить на конференции с докладом, посвященном диалогу Республики и Свердловской области.
+Также он встретится с представителями корейской провинции Кёнги — стороны обсудят возможность подписания соглашения об уральско-корейском взаимодействии. В частности, среднеуральцы намерены обмениваться с одним из самых промышленно развитых регионов Южной Кореи опытом в области нанотехнологий.
+<Node id="946"/>http://www.uralinform.ru<Node id="970"/>/detail.aspx?…Да, молодцы уральцы! Норовят всё больше разнообразить свои международные связи. Но не абы какие, а всё по делу, всё по делу… В добрый путь и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="63" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="946" EndNode="970">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

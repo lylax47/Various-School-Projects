@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Забудьте коробчатые громкоговорители. Ученые показали, что даже кусочек пленки из <Node id="83"/>углеродных <Node id="94"/>нанотрубок<Node id="104"/> (УНТ) может служить как безмагнитный громкоговоритель, если через него пропустить ток с аудиочастотной модуляцией. Такие нанотехнологические громкоговорители – всего лишь несколько десятков нм толщиной – прозрачны, упруги, и им может быть придана различная форма. Такие «листики-громкоговорители» могут быть смонтированы на разного рода поверхностях-изоляторах, таких, например, как стены и потолки комнаты, колонны, окна, флаги и любые места на одежде. Ученые показали, что УНТ громкоговорители могут генерировать звук в широком частотном диапазоне, высокой силы и с малыми искажениями гармоник.
+
+Хорошо известно, что УНТ отличаются высокой прочностью и интересными электрическими свойствами, но никто до настоящего времени серьезно не исследовал их акустических свойств. Группа китайских ученых, состоявшая из научных работников пекинских университетов <Node id="960"/>Шушан Фан<Node id="969"/> (<Node id="971"/>Шушан Фан<Node id="980"/>), и <Node id="985"/>Циньхуа<Node id="992"/> (Tsinghua University) и Пекинского Нормального Университета (Beijing Normal University) обнаружила, что подача электрического тока, промодулированного акустической частотой, на лист УНТ – заставляет последний генерировать звуки. Китайские ученые надеются на то, что открытие приведет к разработке дешевых плоских динамиков. Качество и возможности УНТ динамиков можно представить себе в двух видео – на YouTube: <Node id="1404"/>(http://www.youtube.com/watch?…)<Node id="1436"/> и в приложении в онлайн-публикации: <Node id="1473"/>(http://pubs.acs.org/…z-File004.qt).<Node id="1509"/>
+Результаты работы опубликованы: Xiao, Lin, et al. «Flexible, Stretchable, Transparent Carbon Nanotube Thin Film Loudspeakers.» ASAP Nano Lett., ASAP Article, (10.1021/nl802750z).
+Для получения эффекта громкоговорителя на <Node id="1731"/>нанотрубках<Node id="1742"/> исследователи пропускают ток, промодулированный аудиочастотой, через лист УНТ; при этом генерируется звук. В отличие от традиционных звуковых динамиков, которые генерируют звук путем создания вибраций в молекулах окружающего воздуха, УНТ-громкоговоритель не излучает вибраций. Ученые использовали виброметр для измерения вибраций в листе УНТ, но не обнаружили их.
+
+По всей видимости, громкоговоритель на <Node id="2147"/>нанотрубках<Node id="2158"/> работает как термоакустическое устройство: когда промодулированный ток проходит через УНТ-лист, этот лист испытывает быстрые колебания температуры между комнатной и температурой порядка 80о С (176o F). Эти колебания температуры вызывают колебания давления в окружающем воздухе, генерируя звук, в то время как сам УНТ–лист остается неподвижным. Одним из основных достоинств этого метода, отличающего его от традиционных громкоговорителей, заключается в том, что, если даже часть листа из <Node id="2646"/>нанотрубок<Node id="2656"/> отломится, он должен продолжать производить звук.
+
+Этот термоакустический эффект был открыт <Node id="2749"/>в конце 19-го столетия<Node id="2771"/>, когда тогдашние ученые пропустили ток через тонкую фольгу с целью получения звукового эффекта, и привел к изобретению «термофона». В общем-то принцип тот же самый, однако, УНТ-лист работает много эффективнее, чем фольга, поскольку не требует так много тепла для существенного повышения температуры. В частности, тепловая емкость листа из <Node id="3111"/>нанотрубок<Node id="3121"/> в 260 раз меньше, чем платиновой фольги, делая <Node id="3169"/>нанотрубки<Node id="3179"/> в 260 раз более чувствительными, эффективными и способными генерировать более громкий звук.
+
+Китайские исследователи видят несколько важных приложений громкоговорителей на <Node id="3352"/>нанотрубках<Node id="3363"/>. Поскольку лист УНТ может быть сильно растянут до таких размеров, при которых он становится прозрачным, и все-таки генерирует звук, то такой лист может быть наложен на жидкокристаллический дисплей для замены традиционных спикеров. Другая возможность видится во внедрении УНТ- спикеров в ткань, например, для пошива специальной одежды.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="94" EndNode="104">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1404" EndNode="1436">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="985" EndNode="992">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Циньхуа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1731" EndNode="1742">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="2147" EndNode="2158">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1473" EndNode="1509">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="83" EndNode="104">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="3352" EndNode="3363">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="971" EndNode="980">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шушан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="2646" EndNode="2656">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2749" EndNode="2771">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="3111" EndNode="3121">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="960" EndNode="969">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шушан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="3169" EndNode="3179">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

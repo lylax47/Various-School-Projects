@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>Наночастицы<Node id="13"/> благородных металлов считаются перспективным материалом для применения в гетерогенном катализе. Существует целый ряд подходов, которые могут использоваться для получения гетерогенных катализаторов. Например, метод осаждения <Node id="238"/>наночастиц<Node id="248"/> металлов на подложку путем газофазного разложения, подход, основанный на получении <Node id="332"/>наночастиц<Node id="342"/> металлов в <Node id="354"/>углеродных <Node id="365"/>нанотрубках<Node id="376"/> и.т.д. Большой интерес представляют гетерогенные фотокатализаторы на основе инертных керамических мембран, поскольку такие материалы обладают высокой пористостью и высокой удельной площадью поверхности, свойствами, повышающими активность катализатора. 
+ 
+Американским ученым удалось получить <Node id="669"/>наночастицы<Node id="680"/> платины<Node id="688"/> на поверхности нанонитей оксида титана. Процесс получения проводился в несколько этапов. Сначала путем гидролиза изопропоксида титана в присутствии поливинилпирролидона, этанола и уксусной кислоты был получен композит поливинил-пирролидон/аморфный TiO2. На рис.1А представлена микрофотография (<Node id="983"/>СЭМ<Node id="986"/>) композита. <Node id="999"/>Затем<Node id="1004"/> композит подвергался отжигу на воздухе, при этом аморфный оксид титана превращался в анатаз (рис. 1В). Далее нанонити были помещены в раствор этиленгликоля, содержащий H2PtCl6, в результате на их поверхности осаждались <Node id="1224"/>наночастицы<Node id="1235"/> платины<Node id="1243"/> (рис.1С и 1D). Осаждение <Node id="1269"/>наночастиц<Node id="1279"/> платины<Node id="1287"/> проводилось в течение 3,7 и <Node id="1316"/>19 часов<Node id="1324"/>. Было установлено, что размер <Node id="1355"/>наночастиц<Node id="1365"/> на поверхности нанонитей и плотность заполнения поверхности нанонитей частицами возрастает при увеличении времени осаждения от 2 до 5 нм (рис.2). Каталитическая активность нанонитей оксида титана, покрытых <Node id="1572"/>наночастицами<Node id="1585"/> платины<Node id="1593"/>, была исследована в реакции гидрирования азо-связей в метиловом красном. Авторы сообщают, что полученные материалы обладают отличными каталитическими свойствами. 
+ 
+Следует отметить, что методика синтеза, предложенная авторами, может быть расширена и на другие благородные металлы. 
+ 
+Работа “Functionalization of Electrospun TiO2 Nanofibers with Pt Nanoparticles and Nanowires for Catalytic Applications” была опубликована в Nano Letters. 
+ В общем-то аналогичная работа аспирантки ФНМ МГУ А.В.Григорьевой (каталитическая активность двухкомпонентного катализатора "<Node id="2160"/>нанотрубки<Node id="2170"/> TiO2 - Pt") опубликована в журнале "Альтернативная энергетика и экология" (с. 175). </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="669" EndNode="680">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="983" EndNode="986">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1269" EndNode="1279">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="332" EndNode="342">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="354" EndNode="376">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1355" EndNode="1365">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1224" EndNode="1235">
+</Annotation>
+<Annotation Id="7" Type="Наночастица+платины" StartNode="669" EndNode="688">
+</Annotation>
+<Annotation Id="8" Type="Наночастица+платины" StartNode="1269" EndNode="1287">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="238" EndNode="248">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1316" EndNode="1324">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1572" EndNode="1585">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="2160" EndNode="2170">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица+платины" StartNode="1224" EndNode="1243">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="2" EndNode="13">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="365" EndNode="376">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="999" EndNode="1004">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица+платины" StartNode="1572" EndNode="1593">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

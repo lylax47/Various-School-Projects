@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сечин улучшает на Кубе торговые связиВице-премьер РФ Игорь Сечин во время начавшегося в среду рабочего визита на Кубу обсудил со своим кубинским коллегой Рикардо Кабрисасом вопросы расширения торгово-экономических связей между двумя странами и инвестиций в экономики России и Кубы.
+
+По словам российского вице-премьера, Куба является одним из основных партнеров России в Латинской Америке. В то же время <Node id="404"/>Игорь Сечин считает, что торгово-экономические отношения между двумя странами необходимо вывести на такой же высокий уровень, как двусторонние политические связи<Node id="565"/>.
+ Как заявил после переговоров Рикардо Кабрисас, Куба и Россия высказали намерение углублять торгово-экономические связи. По словам кубинского министра, нынешние отношения между двумя странами продвигаются вперед и консолидируются, а наиболее перспективными сферами сотрудничества между двумя странами являются нефтяная сфера, туризм, здравоохранение, добыча никеля, связь и нанотехнологии. Напомним, что Сечин и Кабрисас являются сопредседателями российско-кубинской межправительственной комиссии.
+
+Нaпомним, что в <Node id="1082"/>прошлом году<Node id="1094"/> торговый оборот России с Кубой составил <Node id="1135"/>$363 млн.<Node id="1144"/> За <Node id="1148"/>шесть месяцев текущего года<Node id="1175"/> он увеличился <Node id="1190"/>почти на 20%<Node id="1202"/> и превысил <Node id="1214"/>$207 млн.<Node id="1223"/> В <Node id="1226"/>2006 году<Node id="1235"/> Россия предоставила кубинской стороне кредит на сумму <Node id="1290"/>$355 млн.<Node id="1299"/> для закупок автомобильной техники, а также для финансирования развития энергетической инфраструктуры. В свою очередь Гавана взяла на себя обязательства закупить у России три самолета Ил-96–300, а также три самолета Ту-204.
+<Node id="1523"/>http://www.wek.ru<Node id="1540"/>/…/index.shtmlДа, уже давно пора налаживать более тесные экономические и научно-технические связи нашей страны с Кубой. Уже в <Node id="1666"/>декабре<Node id="1673"/> <Node id="1674"/>прошлого года<Node id="1687"/> констатировалось: «На встрече рассматривались вопросы развития различных форм торгово-экономического и научно-технического сотрудничества, в частности, создание "электронного <Node id="1863"/>правительства<Node id="1876"/>», информационная безопасность, системы охраны, теле- и радио коммуникации, электроника, автоматика, нанотехнологии, цифровое телевидение, дата-центры» <Node id="2028"/>(http://www.nanonewsnet.ru/…bnovlyaetsya).<Node id="2070"/> Можно надеяться, что на этот раз наше сотрудничество получит дополнительный импульс…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="1863" EndNode="1876">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="404" EndNode="565">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2028" EndNode="2070">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="404" EndNode="565">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1666" EndNode="1673">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1135" EndNode="1144">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1674" EndNode="1687">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="1290" EndNode="1299">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1082" EndNode="1094">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1190" EndNode="1202">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1148" EndNode="1175">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1523" EndNode="1540">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="1214" EndNode="1223">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

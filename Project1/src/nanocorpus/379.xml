@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство РФ распорядилось провести в Москве <Node id="49"/>3–5 декабря<Node id="60"/> международный форум по нанотехнологиямМОСКВА, <Node id="107"/>15 августа<Node id="117"/> – Правительство РФ приняло предложение Минобрнауки РФ, согласованное с госкорпорацией «Российская корпорация нанотехнологий», о проведении <Node id="257"/>3–5 декабря 2008 г<Node id="275"/> в Москве международного форума по нанотехнологиям. Как сообщила сегодня правительственная пресс-служба, распоряжением от <Node id="397"/>12 августа<Node id="407"/> No. 1169-р образован оргкомитет по подготовке и проведению форума и утвержден его состав. Председателем оргкомитета назначен вице-премьер РФ Сергей Иванов.
+
+Заместителями председателя оргкомитета стали директор госучреждения «Институт кристаллографии имени А.В.Шубникова Российской академии наук», директор федерального госучреждения Российский научный центр «Курчатовский институт» Михаил Ковальчук; генеральный директор госкорпорации «Российская корпорация нанотехнологий» Леонид Меламед и министр образования и науки РФ Андрей Фурсенко.
+
+Организация и проведение форума осуществляются за счет собственных и привлекаемых госкорпорацией «Российская корпорация нанотехнологий» средств.
+ Федеральным органам исполнительной власти, органам исполнительной власти субъектов РФ и общественным объединениям, а также представителям деловых кругов рекомендовано оказать содействие в подготовке форума и принять участие в его работе. <Node id="1333"/>http://www.prime-tass.ru<Node id="1357"/>/news/show.asp?…Да, жара в Москве. Работать некому и неохота… Мы об этом вон ещё когда писали: <Node id="1452"/>http://www.nanonewsnet.ru/…3-5-dekabrya.<Node id="1492"/> А сообщается обо всём об этом только сейчас… ;-))) Да, чувствуется в мире глобальное потепление. И ещё вопрос: могут ли нанотехнологии помочь в этом деле?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1333" EndNode="1357">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="257" EndNode="275">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1452" EndNode="1492">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="49" EndNode="60">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="397" EndNode="407">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="107" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

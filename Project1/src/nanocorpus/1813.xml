@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Большинство населения земли полагает массу фотона равной нулю, однако некоторые скептики считают это утверждение недоказанным и предлагают эксперименты по измерению массы фотона. Какие же могут быть последствия от конечной массы фотона, которые можно было бы наблюдать в эксперименте?
+
+Если масса нулевая (m=0), то поле магнитного диполя спадает с расстоянием как ~ 1/r3, а если масса конечна, то поле спадает экспоненциально как ~ exp(-r/λ)/r3, где λ=h/mc – комптоновская длина волны фотона. Такая зависимость для массивного фотона и есть поле Юкавы. С практической точки зрения эта зависимость означает экранирование поля диполя, что должно сказаться на поведении замагниченной плазмы на пространственных масштабах порядка или больше λ.
+
+На это еще обратил внимание <Node id="769"/>Шредингер<Node id="778"/> и предложил оценивать λ из измерений магнитного поля Земли. Тогда отклонения от «школьного» закона не было выявлено. Это означало, что λ &gt; 104 км. В <Node id="928"/>1975 году<Node id="937"/> измерения плазмы в районе Юпитера, проведенные станцией Пионер-10, дали величину λ &gt; 107 км. Известный российский физик академик Д.Д. Рютов, ныне работающий в Lawrence Livermore Laboratory (США), написал строгие уравнения магнитной гидродинамики для конечной массы фотонов и повысил эту оценку еще на порядок. Эти результаты теперь признаны. В <Node id="1282"/>настоящее время<Node id="1297"/> можно считать, что масса фотона m &lt; <Node id="1334"/>10-49 г.<Node id="1342"/>
+
+Что же теперь дальше? Дальше Д.Д. Рютов предлагает провести измерения плазмы на окраинах Солнечной системы, потом – межгалактической плазмы, и, наконец, в масштабах всей Вселенной [1]. Возможно, до этого времени у читателей ПерсТа появятся и другие идеи по измерению массы фотона.
+<Node id="1625"/>В. Вьюрков<Node id="1635"/> 1. D.D. Ryutov, Plasma Phys. Control. Fusion 49, B429 (2007) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1625" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вьюрков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="928" EndNode="937">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1334" EndNode="1342">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="928" EndNode="937">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1282" EndNode="1297">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="769" EndNode="778">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шредингер</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

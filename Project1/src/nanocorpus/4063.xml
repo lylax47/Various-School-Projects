@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Новосибирские ученые будут создавать лекарства при помощи нанотехнологийСпециалисты одной из новосибирских компаний разработали новый метод извлечения биологически активных веществ из растительного сырья с применением нанотехнологий.
+
+Это позволит создавать качественно новые лекарства и биологически активные добавки, отличающиеся высокой чистотой и эффективностью. Об этом корреспонденту ИА REGNUM <Node id="400"/>20 сентября<Node id="411"/> сообщили в пресс-службе администрации Новосибирской области.
+Теоретическая разработка была представлена в <Node id="518"/>Министерство образования и науки<Node id="550"/>, и к сегодняшнему <Node id="569"/>дню<Node id="572"/> конкурсная комиссия министерства приняла решение заключить с разработчиками контракт на проведение дальнейших исследований в сфере нанотехнологий в медицине.
+
+Объем бюджетного финансирования по контракту составит <Node id="786"/>150 млн рублей<Node id="800"/>. Команда разработчиков планирует работать в тесном сотрудничестве с ведущими учеными Института химии нефти, НИИ высоких напряжений, НИИ кардиологии, НИИ клинической и экспериментальной лимфологии.
+
+Уже <Node id="1003"/>с 2010 года<Node id="1014"/> планируется наладить серийный выпуск новых лекарственных средств с использованием нанотехнологий в виде капсул, <Node id="1127"/>коллоидных растворов<Node id="1147"/>, таблеток и других современных форм.
+<Node id="1185"/>www.regnum.ru/…/887716.htmlНу<Node id="1214"/> вот, процесс пошёл! Потихоньку-полегоньку, а фронт работ в области практического применения НТ будет расширяться и расширяться…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Коллоид" StartNode="1127" EndNode="1147">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="400" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="518" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерство образования и науки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1003" EndNode="1014">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="569" EndNode="572">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1185" EndNode="1214">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="786" EndNode="800">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

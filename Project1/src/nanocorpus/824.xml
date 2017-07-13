@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Валенчук о нанотехнологияхНанотехнологии улучшат здоровье кировчан. Депутат госдумы Олег Валенчук<Node id="97"/> <Node id="98"/>рассказал сегодня о законопроекте. В нем предусматривается внедрение нанофильтра для очистки воды из Вятки.
+
+До населения она будет доходить без вредных примесей. Пока об этой инициативе знают только журналисты, даже «Водоканал» не в курсе. Суть новшества такова – наноячейки в установке питерских разработчиков настолько малы, что не пропускают тяжелые металлы, примеси и радиоактивные элементы.
+
+При этом все полезные свойства воды остаются. Сейчас закнодательную инициативу подкрепляют документами и подводят под ГОСТы. Но президент и его партия, по словам депутата, эту программу уже поддерживает.
+Александра <Node id="711"/>Бокареваhttp://www.devyatka.ru/news/detail.php?…Странный<Node id="767"/> способ проводить внедрение новой техники на социально значимых предприятиях – даже без информирования последних. Очевидно, уж очень хочется первым прокричать своим землякам «радостную новость» и тем самым – «пожать все лавры» популярности… Или популизма… Но сама идея внедрения нанофильтров на водозаборе, конечно же, очень хорошая.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="97" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="97" EndNode="98">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="711" EndNode="767">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Группа ученых из Vanung University (Тайвань) предложила методику синтеза фотонных кристаллов с использованием монодисперсных микросфер, которые образованы  магнетитом, покрытым оксидом кремния. Суперпарамагнитные микросферы формировали фотонный кристалл под действием внешнего магнитного поля. 
+ 
+<Node id="298"/>Наночастицы<Node id="309"/> магнетита были получены совместным осаждением солей железа (II) и (III) и далее были покрыты SiO2 при гидролизе ТЕОСа (TEOS). Полученную суспензию поместили на горизонтальную подложку, где она была высушена как в магнитном поле, так и  при его отсутствии. 
+ 
+Образование коллоидного кристалла наблюдалось только в случае использования магнитного поля, без магнитного поля не формировался достаточно упорядоченный образец. 
+ 
+По данным спектра отражения образец, полученный под действием магнитного поля, характеризовался запрещенной фотонной зоной, чего не наблюдалось в случае синтеза без магнитного поля. 
+ 
+Ранее сайт Нанометр уже сообщал о синтезе фотонных кристаллов на основе магнетита, для изменения ширины запрещенной зоны которых использовалось внешнее магнитное поле. 
+ 
+  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="298" EndNode="309">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Прометей» может «похвастаться» своими нанотехнологиями
+САНКТ-ПЕТЕРБУРГ, <Node id="73"/>6 июля<Node id="79"/> – Длинный список успешного использования нанотехнологий для новых видов техники предложил сегодня на заседании клуба «Гость ученый» в ИА «Росбалт» заместитель генерального директора ЦНИИ КМ «Прометей» (<Node id="282"/>http://www.crism-prometey.ru)<Node id="311"/> по направлению «Нанотехнологии» <Node id="344"/>Павел Кузнецов<Node id="358"/>.
+ЦНИИ КМ «Прометей»
+По его словам, это, прежде всего, новые виды сталей (проект «Металл»), на разработку и внедрение которых компания «Северсталь» выделила институту <Node id="525"/>около 400 млн. рублей<Node id="546"/>.
+
+Это материалы по проекту «Магистраль», которые используются при строительстве различных газопроводов и на разработку которых из госбюджета поступило <Node id="698"/>около 1 млрд. рублей<Node id="718"/>. Это также различные модификации систем защиты приборных и навигационных комплексов, системы экранирования кабельных трасс и силовых сетей, разработка легких защитных жилетов для сварщиков и тех, кто обсуживает оборудование с сильными электромагнитными полями.
+
+Кроме гражданского применения, материалы, созданные нанотехнологиями, предлагаются для защиты от террористических актов и для совершенствования военной техники, в судостроении, тяжелом машиностроении и других отраслях.
+ 
+«<Node id="1203"/>Развитие этих и разработка новых направлений в области <Node id="1258"/>наноматериалов<Node id="1272"/> могут быть реализованы только путем соответствующей государственной сети научных центров, концентрацией ресурсов на критически важных для России направлениях. В первую очередь необходим суперсовременный, принципиально новый мощный и очень дорогой инструментарий. В нашем институте создан и продолжает развиваться оснащенный уникальным диагностическим оборудованием Центр коллективного пользования. На новых принципах создается научно-технологический комплекс по разработке конструкционых <Node id="1761"/>наноматериалов<Node id="1775"/>», — сообщил Павел Кузнецов<Node id="1802"/>.
+ 
+Заседание клуба «Гость ученый» было посвящено обсуждению целей только что созданной государственной Российской корпорации нанотехнологий, в которую войдут государственные научные центры и университеты, а также лаборатории частных корпораций.
+
+В дискуссии на эту тему участвовали руководители петербургских научных и учебных центров, успешно занимающихся наноисследованиями.
+<Node id="2180"/>http://www.rosbaltpiter.ru/news/4352.htmlВот<Node id="2224"/> так вот: Курочка по зёрнышку клюёт… Потихоньку-полегоньку, но всё пополняется копилка отечественных изобретений и разработок. Главное – работать, продавать, а там, глядишь, всё это и «само собой» (ну, конечно, с помощью спонсоров или государства) разовьётся…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1761" EndNode="1775">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="698" EndNode="718">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="73" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="1203" EndNode="1802">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2180" EndNode="2224">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="1258" EndNode="1272">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="1203" EndNode="1775">
+</Annotation>
+<Annotation Id="11" Type="Тональность" StartNode="344" EndNode="358">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="282" EndNode="311">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="1203" EndNode="1802">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="525" EndNode="546">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="1203" EndNode="1802">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1203" EndNode="1802">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="1203" EndNode="1775">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

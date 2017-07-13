@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> С тех самых пор, как <Node id="22"/>углеродные <Node id="33"/>нанотрубки<Node id="43"/> были открыты, <Node id="58"/>в начале 1990-х годов<Node id="79"/>, они обещали сделать возможным целый ряд новых технологий, таких как супербыстрые компьютеры, которые бы навсегда оставили в прошлом даже самые современные <Node id="236"/>на сегодняшний день<Node id="255"/> классические компьютеры. Одна из причин столь больших надежд, возлагаемых на эти крошечные объекты, - их способность проводить электрический ток, не рассеивая при этом много тепла, а, как известно, в то время как микрочипы становятся все меньше и меньше, теплопотеря становится одной из главных проблем полупроводниковой промышленности. 
+ 
+<Node id="596"/>Нанотрубки<Node id="606"/> действительно кажутся идеальными кандидатами на роль основных функциональных блоков в электронных устройствах будущего, однако сначала нужно научиться создавать электрический контакт с ними. Из-за невероятно маленьких размеров <Node id="834"/>нанотрубок<Node id="844"/>, а их стенки могут состоять из одного лишь слоя атомов, эта задача крайне сложна, и до сих пор не существовало стандартного подхода к ее решению. Эту проблему собираются решить ученые из Техасского университета в Далласе в рамках трехлетнего проекта, удостоившегося гранта в размере <Node id="1128"/>$225 000<Node id="1136"/> от программы NBIT (Nano-Bio-Information Technology Symbiosis program), осуществляемой Министерством Науки и Технологий Южной Кореи совместно с бюро научных исследований Военно-воздушных сил США. В ходе этого проекта впервые будут вычислены и изучены металлические контакты, с помощью которых будет возможно установить электрический контакт с <Node id="1479"/>нанотрубками<Node id="1491"/> для того, чтобы успешно внедрять их в новые технологии. Таким образом ученые попытаются установить стандартную методику применения <Node id="1623"/>нанотрубок<Node id="1633"/>, в которой бы использовался весь их потенциал. 
+ 
+Этот проект – один из восьми, получивших гранты NBIT, каждый из них включает совместные исследования американских и корейских ученых. <Node id="1818"/>По словам Боба Хелмса, декана <Node id="1848"/>Джонссонской<Node id="1860"/> Школы, эти исследования важны не только сами по себе, но и как часть направления в котором ведущие школы страны сотрудничают друг с другом и со своими зарубежными коллегами, что в будущем должно стать неотъемлемой частью исследовательской работы университетов<Node id="2120"/>. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="236" EndNode="255">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1848" EndNode="1860">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">декан</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джонссонский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="22" EndNode="43">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1818" EndNode="2120">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1818" EndNode="2120">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1128" EndNode="1136">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1479" EndNode="1491">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1623" EndNode="1633">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="33" EndNode="43">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="596" EndNode="606">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="58" EndNode="79">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="834" EndNode="844">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

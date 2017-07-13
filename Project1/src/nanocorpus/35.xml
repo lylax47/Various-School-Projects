@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Всемирно известный архитектор Джон Вейнман (John Weinman)  – один из крупнейших экспертов в области проектирования научных и производственных лабораторий выступит на nanoTX'07 (ежегодная престижнейшая конференция + выставка) с обсуждением наиболее важных аспектов проектирования НТ-лабораторий.
+
+Он обладает 30-летним опытом проектирования лабораторий различного профиля (гос. НИИ, промышленные и университетские лаборатории), включая и лаборатории для исследований в области НТ.
+
+В перечень его клиентов (а точнее – фирмы Perkins+Will <Node id="536"/>http://www.perkinswill.com<Node id="562"/> ), в которой он работает, входят такие престижные организации, как MIT, Yale, the University of California System, the University of Texas System, Los Alamos National Laboratory, Sandia National Laboratory, National Institute of Standards and Technology, Gaithersburg, Maryland, Boulder, Colorado (Advanced Measurement Laboratory) и the Chevron and Petronis Oil Company.
+
+В <Node id="937"/>последние годы<Node id="951"/> всё острее встаёт вопрос об экологической опасности НТ. Поэтому организаторы конференции ожидают, что этим аспектам развития НТ будет уделено особое внимание. Как ожидается, будут рассмотрены как стратегические вопросы, так и специфические (технические) детали проектирования специальных НТ-лабораторий трёх типов:
+
+= проводящих главным образом фундаментальные исследования;
+
+= специализирующихся на аттестации, метрологии и т.п. исследованиях;
+
+= лаборатории с контролируемой средой, занятых в основном производственными процессами.
+
+Компания Perkins+Will, в которой работает Джон Вейнман (основана в <Node id="1554"/>1935 году<Node id="1563"/>), рассматривается в мире, как ведущая организация в области проектирования специальных лабораторий (НТ, физических, технических, учебных лабораторий и т.п.). Две трети из её 1300 сотрудников являются квалифицированными специалистами.
+<Node id="1798"/>http://www.nanotech-now.com<Node id="1825"/>/news.cgi?…Да, проектирование научно-исследовательских лабораторий – это целая наука! И, зная традиционную «любовь» наших «администраторов от науки» – использовать для проведения <Node id="2004"/>НИР<Node id="2007"/> любого «приспособленного» сарая, набитого новейшим оборудованием, вероятно, стОило бы повнимательнее познакомиться с работами настоящих специалистов в данной области. Чтобы потом «не было мучительно больно» за – с самого начала – корявейшие проекты и постройки…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="937" EndNode="951">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2004" EndNode="2007">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="536" EndNode="562">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1554" EndNode="1563">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1798" EndNode="1825">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1554" EndNode="1563">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

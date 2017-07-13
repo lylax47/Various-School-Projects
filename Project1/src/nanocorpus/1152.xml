@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>В воскресенье, 12 октября<Node id="27"/>, в Фундаментальной библиотеке МГУ в рамках проведения Третьего Фестиваля Науки в г.Москве состоится лекция декана Факультета Наук о Материалах МГУ академика Ю.Д.Третьякова "Нанотехнологии - благо, блеф или грядущая катастрофа", которая является существенно переработанной версией лекции, состоявщейся <Node id="329"/>несколько месяцев назад<Node id="352"/> в Доме Ученых. Ниже прилагаются слайды лекции (они могут частично измениться, без уведомления, на самой лекции). Приглашаются все желающие!
+ Добраться очень просто - м. Университет, далее 2 остановки до "Библиотеки МГУ". Лекция начнется в 11-45 в Актовом Зале библиотеки.  
+Это будет вторая лекция, первую лекцию с названием «Медицина и нанотехнологии – точки соприкосновения», в 10-30, начнет читать академик В.А.Ткачук (декан факультета фундаментальной медицины МГУ).
+ Здесь о Фестивале Науки говорит проректор МГУ академик, лауреат Государственной Премии РФ <Node id="914"/>2008 г.<Node id="921"/> А.Р.Хохлов (спасибо Е.А.Смирнову за ссылку).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="914" EndNode="921">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="329" EndNode="352">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

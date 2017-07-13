@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>4th International Conference on Nanotechnology – Occupational and Environmental Health26–29 August 2009, Paasitorni, Helsinki, Finland
+На конференции будет обсуждаться широкий круг вопросов, связанных с исследованиями потенциальных рисков нанотехнологий и негативного влияния промышленных <Node id="289"/>наноматериалов<Node id="303"/> на здоровье человека и окружающую среду.
+
+Организатор конференции – Институт гигиены труда (Финляндия)
+
+Подробности на сайте конференции.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="289" EndNode="303">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

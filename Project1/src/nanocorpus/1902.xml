@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Совет по нанотехнологиям создадут в АкадемгородкеСегодня учёные обсуждали рождение новой структуры.
+
+НАНОТЕХНОЛОГИИ ПРИЗНАЛИ ПРИОРЕТНЫМ НАПРАВЛЕНИЕМ РАЗВИТИЯ НЕ ТОЛЬКО РОССИЙСКОЙ НАУКИ, НО И ВСЕЙ СТРАНЫ. СПЕЦИАЛЬНО СОЗДАННАЯ ДЛЯ ЭТОГО СТРУКТУРА РОСНАНОТЕХ ОБЕЩАЕТ АВТОРАМ И РАЗРАБОТЧИКАМ ПРОЕКТОВ В <Node id="299"/>ОБЛАСТИ<Node id="306"/> НАНО ХОРОШУЮ ФИНАНСОВУЮ ПОДДЕРЖКУ.
+
+УЖЕ ОБЪЯВЛЕН КОНКУРС И ИЗВЕСТНО, ЧТО НОВОСИБИРСКИЕ УЧЕНЫЕ ЗАНИМАЮТ МЕСТО ЛИДЕРОВ ПО КОЛИЧЕСТВУ ЗАЯВОК, ОТПРАВЛЕННЫХ В ГОСКОРПОРАЦИЮ. ВПРОЧЕМ, КАК БЫ МЫ НИ ПЫТАЛИСЬ ВЫЯСНИТЬ, НАШИ СПЕЦИАЛИСТЫ В ОБЛАСТИ НАНО ПРЕДПОЧИТАЮТ ДЕРЖАТЬ В ТАЙНЕ КАК СВОИ ИМЕНА, ТАК И СВОИ НАУЧНЫЕ ИДЕИ.
+
+Кстати, в ближайшее время сибирскую нанонауку ждут перемены.
+СЕГОДНЯ ПРЕЗИДИУМ СО РАН ПОСТАНОВИЛ СОЗДАТЬ ПРИНЦИПИАЛЬНО НОВУЮ СТРУКТУРУ – <Node id="757"/>ОБЪЕДИНЕННЫЙ УЧЕНЫЙ СОВЕТ<Node id="782"/>, КОТОРЫЙ ЗАЙМЕТСЯ КООРДИНАЦИЕЙ ЭТОЙ НАУЧНОЙ ОТРАСЛИ НА МЕСТАХ.
+Лариса <Node id="853"/>Сурягаhttp://novosibirsk.rfn.ru/rnews.html?…С<Node id="898"/> одной стороны, это хорошо, ибо сибирская наука – это большое и сложное «хозяйство», и она «разбросана» по огромному региону <Node id="1023"/>(http://www-sbras.nsc.ru/).<Node id="1050"/> И было бы естественно координировать ведущиеся «на местах» НИОКР – к сожалению, эта «бюрократическая функция» действительно необходима. С другой стороны, в решении Президиума СО РАН подспудно чувствуется недоверие как к ГК «Роснанотех», так и к своим московским коллегам (Президиум РАН, Курчатовский исследовательский центр) – не забудут ли они о нуждах и чаяниях их далёких сибирских колег-учёных… Ведь, что греха таить, не раз бывало так, что своя (московская) рубашка оказывалась ближе… А уральцы и сибиряки получали помощь из Центра «по остаточному принципу» и вынуждены были сами выкручиваться, как умеют… Естественно, людям не хочется, чтобы их «кидали» снова и снова…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="299" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">ОБЛАСТИ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="757" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">ОБЪЕДИНЕННЫЙ УЧЕНЫЙ СОВЕТ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="853" EndNode="898">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1023" EndNode="1050">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

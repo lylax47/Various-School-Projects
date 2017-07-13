@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>С первой недели<Node id="17"/> <Node id="18"/>октября<Node id="25"/> начали свою работу в рамках проекта "Формирование системы инновационного образования в МГУ им. М.В.Ломоносова" дистанционные курсы по направлению «<Node id="173"/>Наноматериалы<Node id="186"/> и нанотехнологии» Факультета Наук о Материалах МГУ. Обучение проводится дистанционно с использованием средств компьютерной сети Интернет (сайта <Node id="331"/>www.nanometer.ru).<Node id="349"/> На <Node id="353"/>1 октября<Node id="362"/> в списке потенциальных слушателей было 92 человека, в среднем слушатели предполагали освоить 2-4 курса. Ниже мы знакомим слушателей с командой преподавателей и администрацией курсов. Они будут доступны по переписке через сайт и по электронной почте.
+ <Node id="614"/>1 октября<Node id="623"/> - прекращена запись на курсы
+ <Node id="654"/>2 октября<Node id="663"/> - размещение первых лекций по всем курсам (сейчас тексты доступны лишь администраторам сайта)
+ <Node id="759"/>3 октября<Node id="768"/> - получение доступа к первым лекциям ВСЕМ записавшимся слушателям (без оплаты). Слушателям будут доступны лекции тольео по тем курсам, на которые они записались. При этом гиперссылка в описательной части лекции ведет на персональные странички преподавателей, а сам текст лекции может быть скопирован в формате PDF по гиперссылке внизу каждой лекции. При несовпадении версий программного обеспечения или в случае возникновения других технических сложностей следует направлять вопросы по адресу support@nanometer.ru.
+ <Node id="1285"/>4 - 6 октября<Node id="1298"/> - ознакомление слушателей с текстами лекций и (возможно) пересмотр ими списка курсов, которые они окончательно выбирают и за которые будут платить, рассылка платежных документов, переписка администрации курсов и преподавателей со слушателями всех групп
+ <Node id="1553"/>8-10 октября<Node id="1565"/> - оплата курсов через Сбербанк
+ <Node id="1598"/>10 октября<Node id="1608"/> - формирование окончательного списка слушателей на <Node id="1660"/>2007 год<Node id="1668"/> с учетом пожеланий слушателей, преподавателей, а также оплаты слушателями курсов
+ <Node id="1751"/>11 - 12 октября<Node id="1766"/> - посылка преподавателям решений (ответов на контрольные вопросы и вопросы самостоятельной работы) 
+ <Node id="1868"/>13 октября<Node id="1878"/> - размещение вторых лекций по курсам (если только преподавателем не установлена иная периодичность)
+ 
+...
+ <Node id="1986"/>15 декабря<Node id="1996"/> - проведение экзамена (дистанционно) по всем выбранным курсам с целью формирования рейтинга успеваемости слушателей
+ <Node id="2114"/>16-18 декабря<Node id="2127"/> - прием на аттестационной комиссии ОЧНЫХ экзаменов у слушателей, пожелавших по совокупности прослушанных курсов получить удостоверение МГУ государственного образца (оплата дороги и проживания - за счет слушателей); тем слушателям, которые выбирают такую форму отчетности, сдавать письменный дистанционный экзамен не надо.
+ До <Node id="2454"/>20 декабря<Node id="2464"/> - рассылка сертификатов, печатных и мультимедийных учебно-методических материалов
+ <Node id="2548"/>25 декабря<Node id="2558"/> - закрытие цикла курсов <Node id="2583"/>2007 г.<Node id="2590"/> (при этом все возможные проблемы, в том числе, связанные с потерей документов при почтовой пересылке и пр., будут по-прежнему решаться)
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="18" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1660" EndNode="1668">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1285" EndNode="1298">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="2583" EndNode="2590">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2114" EndNode="2127">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="353" EndNode="362">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="654" EndNode="663">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1553" EndNode="1565">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="759" EndNode="768">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1868" EndNode="1878">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1660" EndNode="1668">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="614" EndNode="623">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1598" EndNode="1608">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="331" EndNode="349">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Дата" StartNode="2548" EndNode="2558">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="173" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2" EndNode="17">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="1986" EndNode="1996">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="1751" EndNode="1766">
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="2454" EndNode="2464">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

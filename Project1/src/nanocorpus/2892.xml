@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Квантовые точки<Node id="16"/> из CdTe способны в воде самопроизвольно собираться в двумерные листы при отсутствии какого-либо шаблона. Николай Котов, Sharon C. Glotzer и их коллега из Мичиганского университета, Ann Arbor, сообщили об этом неординарном явлении и объяснили его при помощи комбинации поверхностных сил <Node id="303"/>наночастиц<Node id="313"/>. 
+ 
+ Можно добиться формирования <Node id="347"/>наночастицами<Node id="360"/> листоподобных слоёв, но для этого необходим шаблон, в этой роли может выступать поверхность твёрдого тела или граница жидкость-жидкость. Когда <Node id="504"/>несколько лет назад<Node id="523"/> Котов и Zhiyong Tang впервые наблюдали способность CdTe к самопроизвольному формированию листоподобных структур, исследователям не было ничего достоверно известно о процессе их образования. Позже они объяснили это явление сходством размеров и формы <Node id="773"/>наночастиц<Node id="783"/> CdTe и белков на стенках клеток бактерий. Т.е. можно сказать, что <Node id="850"/>наночастицы<Node id="861"/> CdTe при самосборке имитируют поведение белков. 
+ 
+ Для проверки этой идеи Glotzer и Zhenli Zhang использовали компьютерное моделирование. Они обнаружили, что тетраэдрическая форма <Node id="1043"/>наночастиц<Node id="1053"/> CdTe приводит к определённой комбинации анизотропных электростатических и гидрофобных взаимодействий, приводящих к самосборке. Эксперименты группы Котова показали, что исчезновение любого из этих взаимодействий приводит к тому, что листы не формируются. 
+ 
+ <Node id="1312"/>Наночастицы<Node id="1323"/> CdTe, стабилизированные алкантиолом, собираются в водных растворах в монослои, представляющие собой листы размером 50*30 мкм. Эти листы люминисцируют под воздействием УФ излучения. Цвет излучения меняется от светло-зёленого до тёмно-красного в зависимости от размера <Node id="1591"/>наночастиц<Node id="1601"/>. 
+ 
+ - Самособирающиеся двумерные свободноплавающие листы из <Node id="1663"/>квантовых точек<Node id="1678"/> - это неожиданно, удивительно и очень интересно, - комментирует Moungi G. Bawendi из Массачусетского технологического института. - Исследователи сделали прекрасную работу, связавшую их наблюдения с теоретическим описанием возможного механизма. 
+ 
+ По мнению исследователей, эта работа очень важна для большого количества возможных применений – от доставки лекарств до энергетики. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="1" EndNode="16">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1312" EndNode="1323">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="850" EndNode="861">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="303" EndNode="313">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1043" EndNode="1053">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="504" EndNode="523">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="773" EndNode="783">
+</Annotation>
+<Annotation Id="13" Type="Квантовая+точка" StartNode="1663" EndNode="1678">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="347" EndNode="360">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1591" EndNode="1601">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

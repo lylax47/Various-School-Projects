@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Московский государственный институт электронной техники <Node id="58"/>нанотрубки<Node id="68"/>   Наноэлектроника   нанотехнологии                          Бобринецкий Иван Иванович  Неволин Владимир Кириллович, руководитель  <Node id="199"/>Строганов<Node id="208"/> Антон Александрович  Хартов Станислав Викторович Федорова Екатерина Михайловна     Центр «Нанотехнологии в электронике» открыт в ГОУ ВПО «Московский институт электронной техники (технический университет)» в <Node id="416"/>2005 году<Node id="425"/> как подтверждение лидирующих позиций МИЭТ в области наноэлектроники. Центр тесно взаимодействует с Учебно-научным центром «Зондовая микроскопия и нанотехнология», созданным при участии компании "НТ-МДТ" в <Node id="631"/>1999 г.<Node id="638"/> на базе лаборатории туннельной микроскопии и нанотехнологии. 
+ 
+    Приоритетными научными направлениями исследований Центра являются: зондовая микроскопия, зондовая нанотехнология, поиск новых методов и материалов для создания элементов наноэлектроники. 
+ 
+Краткая историческая справка 
+ 
+    Одними из первых в России был построен сканирующий туннельный микроскоп, предназначенный для проведения технологических экспериментов (а.с. № 1471232 от <Node id="1086"/>14.07.87<Node id="1094"/>). В <Node id="1099"/>1989 г.<Node id="1106"/> было показано наличие квантования проводимости при комнатной температуре в квазиодномерных вертикальных проводниках. В <Node id="1226"/>1993 году<Node id="1235"/> построен туннельный технологический микроскоп ТТМ-2, позволяющий получать атомное разрешение структур. Созданы уникальные элементы наноэлектроники на основе полимерных, металлических и углеродных нанопроводов. В <Node id="1448"/>настоящее время<Node id="1463"/> Центр активно работает в области исследования свойств <Node id="1518"/>углеродных <Node id="1529"/>нанотрубок<Node id="1539"/> и элементов наноэлеткроники на их основе. 
+ 
+    Центр сотрудничает с предприятиями и лабораториями при МИЭТ (завод «Протон», ГНЦ «Технологически центр», Лаборатория электронной микроскопии, кафедра общей химии и др.), что позволяет проводить комплексные и форсированные исследования по научным направлениям Центра. 
+ 
+    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1086" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">07</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="631" EndNode="638">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1448" EndNode="1463">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1099" EndNode="1106">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="199" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Строганов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1529" EndNode="1539">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="416" EndNode="425">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Углеродная+нанотрубка" StartNode="1518" EndNode="1539">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="25" Type="Год" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="416" EndNode="425">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="58" EndNode="68">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

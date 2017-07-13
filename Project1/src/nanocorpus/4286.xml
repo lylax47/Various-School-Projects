@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учредительное собрание нанотехнологического общества Российской Федерации состоялось <Node id="86"/>8 октября 2008 г.<Node id="103"/> и инициировало процедуру юридического оформления этой новой общественной организации.
+
+На собрании присутствовало около 90 человек, были обсуждены вопросы структуры, коллективного членства, партнеров (в <Node id="307"/>настоящий момент<Node id="323"/> ГК «Роснанотех» и группа «ОНЭКСИМ») НОР и выбраны органы самоуправления. В оргкомитет учредительного собрания поступили заявки на членство в НОР от 46 субъектов РФ, в связи с чем НОР может по праву считаться Всероссийской организацией. Начался также процесс оформления документов по созданию НОР в качестве общественной организации и объявлено о начале конкурса на эмблему НОР.
+
+Хотим поздравить руководителя проекта Nanotechnology News Network Александра Куринного его избранием в члены Правления НОР!
+
+Детали будут сообщены дополнительно.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="86" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="307" EndNode="323">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

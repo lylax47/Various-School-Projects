@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Заочный тур творческих заданий для всех зарегистрировавшихся для участия в олимпиаде.   с <Node id="91"/>12 апреля<Node id="100"/> - открытие задач "взрослого тура" на обозрение всем пользователям Интернета    <Node id="180"/>13 апреля<Node id="189"/> - начало приема решений от "взрослых". Продолжение приема творческих заданий от школьников.    <Node id="285"/>22 апреля<Node id="294"/> - окончание приема решений рассчетных и качественных задач от "взрослых". Окончание приема творческих задач от школьников. Продолжение приема творческих заданий от взрослых.    <Node id="472"/>29 апреля<Node id="481"/> - окончание приема заданий от кого бы то ни было.    <Node id="535"/>30 апреля<Node id="544"/> - объявление результатов по рассчетным и качественным задачам.    <Node id="611"/>5-7 мая<Node id="618"/> - объявление результатов творческих конкурсов, вывешивание решений, проведение аппеляций.    <Node id="712"/>8-10 мая<Node id="720"/> - приглашение на очный тур.   Список заданий </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="180" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="91" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="712" EndNode="720">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="535" EndNode="544">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="611" EndNode="618">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="285" EndNode="294">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="472" EndNode="481">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

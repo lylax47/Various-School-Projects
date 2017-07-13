@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Представьте себе устройство размером с мобильный телефон, которое может всего-лишь по одной капле крови выдать ее полноценный анализ. Удивительно, правда? И это устройство уже существует благодаря ученым из Калифорнийского университета, США, в рамках программы Национального исследовательского института биомедицинских космических приложений (National Space Biomedical Research Institute – NSBRI).
+
+Устройство разрабатывалось в первую очередь для космонавтов. При длительных полетах в космос необходимо производить систематические анализы крови. И чем быстрее это будет сделано, тем лучше. Анализатор дает информацию об образце в среднем за <Node id="642"/>две минуты<Node id="652"/>.
+
+Сегодня же для того, чтобы сделать анализ крови нужна лаборатория, оснащенная специальным оборудованием и достаточно большое количество самой крови. Такой анализ провести в космосе крайне затруднительно, поэтому прибор-анализатор будет очень востребован при пилотируемых миссиях на Марс или Луну.
+
+“Мы просто миниатюризировали счетную машину-анализатор, которая используется в обычных лабораториях, и получили устройство, не превышающее размерами мобильный телефон”, – говорит <Node id="1132"/>Таи<Node id="1135"/>, профессор из Калифорнийского университета.
+
+Счетчик-анализатор крови обычно разделяет и идентифицирует ее отдельные компоненты: эритроциты (красные кровяные тельца), белые кровяные тельца, липиды, белки и кислород.
+
+<Node id="1353"/>Таи<Node id="1356"/> и его коллеги работали сначала с миниатюрными жидкостными вентилями, насосами и микрожидкостными каналами, а затем специалисты из NSBRI решили использовать эти достижения для разработки миниатюрного и быстродействующего анализатора.
+
+Исследователи давно занимаются производством нанометровых трубок (не обычных <Node id="1668"/>углеродных <Node id="1679"/>нанотрубок<Node id="1689"/>) для того, чтобы создать работоспособные биологические лаборатории-на-чипе.
+
+В результате у <Node id="1782"/>Таи<Node id="1785"/> и его коллег получилась настоящая лаборатория-на-чипе, способная сортировать по капле крови проводить анализ. Вначале капля крови поступает в смесительный резервуар, в котором она смешивается с анти-коагуляторами, препятствующие ее свертыванию. <Node id="2031"/>Затем<Node id="2036"/> в специальный контейнер, где кровь «разжижается», что позволяет затем посчитать отдельные клетки. После разбавления крови образец поступает в сепаратор, где клетки отделяются друг от друга по размерам и направляются по отдельным конвейерам далее. «Сепарация осуществляется благодаря гидродинамическим свойствам крови как жидкости», – говорит <Node id="2379"/>Таи<Node id="2382"/>.
+
+<Node id="2385"/>Таи<Node id="2388"/> и его коллеги уверены, что анализатор можно переоборудовать для идентификации разных молекул, вирусов и бактерий, что позволит получить более полную информацию о крови чем та, которую можно получить с помощью традиционного анализа.
+
+«Этот чип очень гибкий, его можно использовать в различных применениях анализа. Можно даже проводить онкологические тесты раннего обнаружения рака, если добавить к счетчикам белковые маркеры раковых клеток, – продолжает <Node id="2842"/>Таи<Node id="2845"/>. Сейчас мы этим и занимаемся – улучшаем структуру чипа и пробуем его для диагностики различных заболеваний».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2842" EndNode="2845">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1353" EndNode="1356">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1132" EndNode="1135">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1679" EndNode="1689">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2379" EndNode="2382">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="642" EndNode="652">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1782" EndNode="1785">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2385" EndNode="2388">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="1668" EndNode="1689">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2031" EndNode="2036">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

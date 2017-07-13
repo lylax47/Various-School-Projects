@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+IBM и ее партнеры (Infineon Technologies AG, Мюнхен, ST Microelectronics NV, Женева, Chartered Semiconductor Manufacturing, Сингапур, Freescale Semiconductor Inc., <Node id="165"/>Остин<Node id="170"/>, Техас, Samsung Electronics, Сеул и Toshiba Corporation, Токио) по международной гонке за 32-нм чипы официально заявили об успешной разработке в Центре полупроводниковых исследований и разработок компании IBM в East Fishkill (вблизи Нью-Йорка) т.н. HKMG 32-нм технологии (HKMG – high-k dielectrics/metal gates – диэлектрик с высокой диэлектрической постоянной «k»/металлический затвор), а также об изготовлении и испытании целой библиотеки тестовых чипов по этой технологии [1,2,3].
+
+Все тестовые чипы изготовлены в Нанотехнологическом комплексе в Олбани (College of Nanoscale Science and Engineering's Albany NanoTech Complex).
+
+В сравнении с 45-нм аналогами, 32-нм тестовые приборы показывали <Node id="866"/>35%<Node id="869"/> улучшение характеристик и снижение потребляемой мощности от 30 до <Node id="936"/>50%<Node id="939"/> в зависимости от рабочего напряжения. При тех же размерах новая технология давала <Node id="1022"/>более, чем 40%<Node id="1036"/> улучшение в характеристиках приборов в сравнении с традиционной (Poly/SiON) технологией.
+
+Технология будет готова к массовому производству для IBM и всех ее партнеров ко <Node id="1207"/>второй половине 2009 г.<Node id="1230"/>, но дизайнеры уже сейчас могут приступить к соответствующим разработкам, ориентированным на 32-нм технологию.
+
+Диэлектрик с высоким k и металлический затвор являются ключевыми строительными блоками, обеспечивающими возможность масштабирования транзистора и создания следующего поколения <Node id="1518"/>ИС<Node id="1520"/>. Новая технология – достаточно сложная и возникает вопрос, смогут ли заводские производства ее быстро освоить, не повышая соотношение стоимость/эффективность. Вице-президент Центра полупроводниковых исследований и разработок компании IBM, Gary Patton считает, что непосредственные партнеры IBM по производству – компании Chartered и Samsung движутся в направлении освоения HKMG технологии.
+
+Конкурирующая компания-производитель чипов Taiwan Semiconductor Manufacturing Co. Ltd разрабатывает собственный подход к HKMG, но о сроках ее освоения компания пока не заявляла, хотя планирует приступить к производству» по 32-нм технологии в <Node id="2154"/>3–4 квартале 2009 г.<Node id="2174"/>
+
+Другие чипмейкеры, находящиеся на переднем крае полупроводникового производства, такие как Fujitsu, Semiconductor International Manufacturing Corp. (SMIC), Toshiba и United Microelectronics Corp. (UMC), раздельно находят решения для HKMG технологии.
+
+Сегодня только Intel Corp. (45-нм правило конструирования) и NEC Electronics Inc. (55-нм правило конструирования) анонсировали поставки логических <Node id="2574"/>ИС<Node id="2576"/>, выполненных по HKMG технологии. К выпуску логических <Node id="2631"/>ИС<Node id="2633"/> по 32-нм технологии Intel планирует приступить в течение <Node id="2691"/>2009 г.<Node id="2698"/>, хотя заявляет, что уже имеет полностью функционирующие 32-нм статические оперативные запоминающие устройства (SRAM) и тестовые логические чипы, содержащие более 1,9 млрд. транзисторов.
+
+В <Node id="2888"/>декабре 2007 г.<Node id="2903"/> IBM и партнеры также анонсировали тестовые 32-нм статические ОЗУ с размером ячейки – 0,15 мкм2.
+
+Patton заявил, что разработанная 32-нм технология допускает дальнейшее масштабирование (до 28 нм) без внесения существенных изменений (т.е., без увеличения числа слоев, в которых используется двойное <Node id="3201"/>травление<Node id="3210"/> или двойное экспонирование при <Node id="3242"/>литографии<Node id="3252"/>).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="866" EndNode="869">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="936" EndNode="939">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="2888" EndNode="2903">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2631" EndNode="2633">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2154" EndNode="2174">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Травление" StartNode="3201" EndNode="3210">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="2574" EndNode="2576">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1518" EndNode="1520">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Литография" StartNode="3242" EndNode="3252">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="2691" EndNode="2698">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1207" EndNode="1230">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="165" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Остина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="1022" EndNode="1036">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

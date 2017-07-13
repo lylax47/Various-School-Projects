@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Массовое производство нанофильтров в ИранеСпециалисты фирмы NanoPac-Persia Co. (Иран) наладили массовое производство нанофильтров (для применения в быту и на производстве) с использование <Node id="188"/>наночастиц<Node id="198"/> серебра.
+
+Руководитель фирмы Mehran Haj-Rasuliha рассказал о применении этих фильтров в качестве средства борьбы с бактериями, вирусами и плесенью и об их устройстве. Изготавливаемые фирмой фильтры имеют четыре слоя: слой <Node id="421"/>наночастиц<Node id="431"/> серебра, слой углеродных волокон, слой окиси титана и слой наногибридов.
+ Согласно его заявлению, эти фильтры могут использоваться для удаления запахов в бытовых холодильниках, а также для обогащения кислородом воздуха в жилых помещениях.  
+Если же в этих фильтрах вместо серебряных будут использоваться <Node id="736"/>наночастицы<Node id="747"/> золота<Node id="754"/>, то их можно будет применять и в промышленных условиях – для фильтрации воздуха или других газов при повышенных – более 250 градусов <Node id="888"/>Цельсия<Node id="895"/> – температурах. <Node id="912"/>Такие фильтры могут применяться, скажем, на нефтеперегонных заводах или на электростанциях, – добавил <Node id="1014"/>он<Node id="1016"/>.
+ Mass Production of Nanofilters in Iranhttp://<Node id="1064"/>www.nano.ir/en/news.php?…Nanopac<Node id="1096"/> Persia <Node id="1104"/>Co.http://www.nanowerk.com/…_Persia.htmlНадо<Node id="1148"/> же, наладили массовое производство и уже довольно широко известны в мире как производители разного рода катализаторов, покрытий, фильтров и т.п. на основе <Node id="1304"/>наноматериалов<Node id="1318"/> и технологий. И как они сумели этого добиться, если у них в стране нет такой солидной организации, как ГК «Роснанотех»?.. Прямо-таки удивительно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица+золота" StartNode="736" EndNode="754">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="912" EndNode="1016">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="1304" EndNode="1318">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1064" EndNode="1096">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="912" EndNode="1016">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1014" EndNode="1016">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1104" EndNode="1148">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="421" EndNode="431">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="888" EndNode="895">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="188" EndNode="198">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="736" EndNode="747">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

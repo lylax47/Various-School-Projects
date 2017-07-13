@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Госкорпорация «Внешэкономбанк» делает ставку на финансирование крупных технологических проектов, в первую очередь на транспорте, в энергетике и в сфере нанотехнологий.
+
+Об этом сообщил сегодня первый заместитель главы «Внешэкономбанка» Николай Косов. <Node id="252"/>Он<Node id="254"/> сообщил, что банк в ближайшие полгода «сохранит присутствие на открытом рынке в пределах 150–<Node id="348"/>170 млрд рублей<Node id="363"/>»<Node id="364"/>. «<Node id="367"/>Но затем все деньги будут направлены на инвестирование конкретных проектов», – подчеркнул Косов<Node id="462"/>.
+
+По его словам, одним из приоритетных направлений банк считает участие в региональных проектах и для этого планирует создавать региональную сеть представительств и отделений.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="367" EndNode="462">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="252" EndNode="254">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="348" EndNode="363">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="367" EndNode="462">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="252" EndNode="364">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="252" EndNode="364">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

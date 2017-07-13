@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Государственная корпорация «Российская корпорация нанотехнологий»создана <Node id="74"/>19 июля 2007 г.<Node id="89"/> в соответствии с подписанным Президентом РФ Федеральным Законом №139-ФЗ «О Российской корпорации нанотехнологий». 
+ Основные задачи корпорации: содействовать реализации государственной политики в сфере нанотехнологий, развивать инновационную инфраструктуру, поддерживать проекты создания перспективных нанотехнологий и развивать наноиндустрию. 
+ Главная цель ГК «Роснанотех» – вывести Российскую Федерацию на ведущие позиции мирового рынка нанотехнологий.
+ Генеральным директором корпорации является Леонид Борисович Меламед. Назначен на этот пост Указом Президента Российской Федерации от <Node id="680"/>7 сентября 2007 г.<Node id="698"/> До работы в ГК «Роснанотех» <Node id="727"/>с 2004 г. по 2007 г.<Node id="747"/> руководил ИФК «Алемар», <Node id="772"/>с 2000 г. по 2004 г.<Node id="792"/> занимал пост первого заместителя председателя правления РАО «ЕЭС России», а <Node id="869"/>с 1998 г. по 2000 г.<Node id="889"/> являлся генеральным директором концерна «Росэнергоатом».
+ 
+Место нахождения ГК "Роснанотех": 117420, г. Москва, ул. Наметкина, 12А.
+ 
+Тел. (справочная): +7 (495) 642 73 35, +7 (495) 542 44 44, факс: +7 (495) 542 44 34, адрес электронной почты: <Node id="1134"/>info@rusnano.com<Node id="1150"/> ГК "Роснанотех" помимо поддержки всех основных мероприятий Олимпиады уделит особое внимание участникам - победителям конкурса "инновационных идей", направленных на будущие практические применение нанотехнологий. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="1134" EndNode="1150">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="772" EndNode="792">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="74" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="680" EndNode="698">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="869" EndNode="889">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="727" EndNode="747">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

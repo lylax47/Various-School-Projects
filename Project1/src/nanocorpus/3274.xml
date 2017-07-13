@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Информационный бюллетень ФНМ МГУ "Нанометр", <Node id="47"/>май 2008 г.<Node id="58"/> В номере:
+   церемония закрытия Интернет-олимпиады по нанотехнологиям   выборы в Российскую Академию Наук   стажировки   международный форум по нанотехнологиям      
+ 
+        
+ 
+        
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="47" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">май</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Чехи запатентовали биологически активные бинтыНаучно-исследовательский центр «Наномедик» получил патент на производство бинтов, прозванных «умными».
+
+Биологически активные бинты помогут в лечении глубоких ран, хрящей, восстановлении кожной и костной тканей.
+
+Лечебные повязки созданы на основе нанотехнологии, говорится в сообщении Радио «Прага».
+
+<Node id="348"/>По словам представителя «Наномедика» <Node id="385"/>Зузаны Пекарковой<Node id="402"/>,<Node id="403"/> лечение будет проходить при помощи локальной стимуляции химических реакций на молекулярном уровне<Node id="501"/>.
+
+В работе над созданием новых медицинских повязок принимали участие пятнадцать частных компаний и шесть научных институтов.
+<Node id="627"/>http://www.mignews.com/…2_47426.htmlНу<Node id="665"/> вот, как говорится, «мал золотник, да дорог!».. Кажется, вот простая вещь, а ведь это надо было сделать, разработать соответствующую технологию, подобрать параметры и характеристики используемых материалов, провести клинические исследования, оценить полученные результаты и т.п. Зато многочисленные пациенты оценят эту заботу и наверняка скажут спасибо. Вот бы и нашим исследователям «подсуетиться» и тоже разработать нечто подобное…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="385" EndNode="402">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">представителя «Наномедика»</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пекаркова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="402" EndNode="403">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="348" EndNode="501">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="348" EndNode="501">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="627" EndNode="665">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="402" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">представитель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

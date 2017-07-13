@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Белгород прибыли министры российского правительстваСегодня в Белгород прибыли заместитель Председателя Правительства РФ Сергей Иванов<Node id="135"/>,<Node id="136"/> министр образования и науки Андрей Фурсенко, руководитель Федерального агентства по образованию Николай Булаев<Node id="247"/>,<Node id="248"/> председатель Высшей аттестационной комиссии Михаил Кирпичников и ещё 400 представителей вузов со всей страны. Высокие гости планируют посмотреть и обсудить, как развивается научная и инновационная деятельность российских вузов.
+
+Первым объектом, который посетили гости, стал Белгородский технологический университет. На кафедру <Node id="577"/>наноструктурных материалов<Node id="603"/> – самой молодой в России (средний возраст работающих – <Node id="659"/>28 лет<Node id="665"/>) – зампредседателя Правительства РФ Сергей Иванов зашёл в хорошем настроении.
+
+После рассказа зав. секцией наносистем в строительном материаловедении доктора технических наук, профессора Валерии Строковой настроение стало ещё лучше – 19 патентов на изобретение, две заявки на получение патента уже имеются в списке достижений кафедры университета. Этот список был бы ещё больше, если бы у учёных вуза появился свой опытно-промышленный комплекс.
+
+Предложение оказать помощь в его приобретении и прозвучала сегодня во время визита высоких гостей. Обещать, что такое произойдёт, Сергей Иванов не стал, заявив, что опытный объект нужно сдавать только тогда, когда «есть стопроцентная уверенность в его экономическом успехе».
+
+Визит в БГТУ им. В.Г. Шухова завершился осмотром выставки, на которой была представлена продукция <Node id="1486"/>наноструктурных материалов<Node id="1512"/>. В <Node id="1516"/>настоящее время<Node id="1531"/> члены <Node id="1538"/>правительства<Node id="1551"/> принимают участие в собрании научно-педагогической общественности России.
+Наталья <Node id="1634"/>Тищенкоhttp://www.bel.ru/…6/33980.htmlНу<Node id="1674"/> что ж, молодые, энергичные ребята, полные сил… Вот бы дать им соответствующие возможности и права, да они бы горы свернули!.. Вот и посмотрим теперь, насколько эти государственные мужи осмелятся поделиться своими правами, насколько новые предприниматели будут свободны в своей деятельности. От чего, в конечном счёте, будет зависеть судьба всей инновационной экономики страны, да и судьба всей страны в целом…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="577" EndNode="603">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="659" EndNode="665">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1486" EndNode="1512">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="247" EndNode="248">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1634" EndNode="1674">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="135" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1516" EndNode="1531">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="работает" StartNode="247" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="659" EndNode="665">
+</Annotation>
+<Annotation Id="18" Type="сотрудники" StartNode="135" EndNode="136">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="1538" EndNode="1551">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Норвежцы испытали нанобеспилотникНорвежская компания Prox Dynamics провела первое летное испытание опытного образца сверхмалого беспилотного летательного аппарата (БПЛА) PD-100 Black Hornet, построенного с применением нанотехнологий. Об этом сообщает Flight Global.
+
+Испытание «Черного шершня» продолжалось немногим <Node id="316"/>более двух минут<Node id="332"/>, в течение которых нанобеспилотник вертолетного типа поднялся в воздух, перешел в режим горизонтального полета, совершил разворот и затем успешно приземлился.
+ Согласно заявлению разработчиков, на данный момент БПЛА PD-100 Black Hornet является самым малым действующим вертолетом в мире. Он весит всего 15 граммов, а диаметр его двухлопастного несущего винта равен 10 сантиметрам. Масса сервомоторов PDS-2 не превышает 0,5 грамма.  «Черный шершень» оснащается оптической камерой и может применяться для ведения разведки как на открытой местности, так и внутри помещений.
+ 
+В комплект беспилотной системы общей массой 0,7 килограмма входят три летательных аппарата, пульт управления, зарядное устройство и транспортный контейнер размером 8×12×20 сантиметров. Пульт управления оснащен жидкокристаллическим дисплеем с диагональю 6 дюймов и устройством для записи сигнала, получаемого с камер беспилотников.
+ Первый полнофункциональный БПЛА PD-100 Black Hornet компания Prox Dynamics планирует представить в <Node id="1337"/>2009 году<Node id="1346"/>. Начало поставок нанобеспилотников потенциальным заказчикам намечено на <Node id="1419"/>2010 год<Node id="1427"/>. <Node id="1429"/>http://lenta.ru/…/07/23/nano/Prototype<Node id="1467"/> of PD-100 Black Hornet UAV helicopter makes maiden <Node id="1519"/>flighthttp://www.flightglobal.com/…-flight.htmlHornet-1<Node id="1574"/> prototype makes first <Node id="1597"/>flighthttp://www.proxdynamics.com/…irst_flight/PD-100Chttp://www.proxdynamics.com/…cts/pd_100c/Prox<Node id="1696"/> <Node id="1697"/>Dynamicshttp://www.proxdynamics.com/Ну<Node id="1735"/> вот, то, о чём ещё только недавно писали лишь фантасты и предсказатели, свершилось… (причём известно, что такого рода работы ведутся во многих странах мира). Теперь, когда «открылись шлюзы», мы можем стать свидетелями взрывного появления целой «тучи» подобных устройств. Хорошо было бы, если бы всё это было направлено лишь на мирные, благие цели…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1429" EndNode="1467">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1337" EndNode="1346">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1697" EndNode="1735">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="316" EndNode="332">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="1419" EndNode="1427">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1519" EndNode="1574">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1337" EndNode="1346">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1419" EndNode="1427">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1597" EndNode="1696">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

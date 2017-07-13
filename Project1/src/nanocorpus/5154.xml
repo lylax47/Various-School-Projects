@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из Национального Института Стандартов и Технологий США (NIST) в <Node id="72"/>сотрудничестве<Node id="86"/> с их коллегами из Универcитета Мэриленда (University of Maryland) и Университета Говарда (Howard University), удалось разработать технологию создания микроскопических высокоэффективных <Node id="272"/>светодиодов<Node id="283"/> (<Node id="285"/>LED<Node id="288"/>) на основе нанонитей.
+
+Как сообщает PhysOrg, <Node id="334"/>светодиоды<Node id="344"/> излучают, в основном, в ультрафиолетовом диапазоне частот, что очень важно для целого ряда наноустройств – от <Node id="455"/>биосенсоров<Node id="466"/> до средств хранения и записи данных. Как говорят ученые, открытые ими UV-<Node id="540"/>светодиоды<Node id="550"/> могут существенно сократить срок появления на коммерческом рынке микроэлектроники устройств хранения данных большой емкости, использующих наноразмерные элементы.
+
+Как было сказано выше, устройство преимущественно излучает в UV-диапазоне, однако часть излучения все же приходится на видимый диапазон, что и наблюдали ученые.
+
+Для создания этих <Node id="894"/>светодиодов<Node id="905"/> ученые из NIST использовали фотолитографию, мокрое <Node id="957"/>травление<Node id="966"/> и нанесение слоя металла на подложку. <Node id="1005"/>Затем<Node id="1010"/> на образец с помощью электромагнитного поля были нанесены полупроводниковые нанонити различного состава (AlN, GaN InN). При этом нити укладывали так, чтобы в местах пересечения их друг с другом образовались <Node id="1218"/>светодиоды<Node id="1228"/>.
+
+Размеры отдельных нанонитей в устройстве не превышали 110 нанометров, всего же ученым удалось создать около 40 <Node id="1342"/>светодиодов<Node id="1353"/>, излучающих на длине волны 365 нм.
+
+Кроме этого, наноустройство выдерживало значительный перегрев. В экспериментах ученых <Node id="1476"/>светодиоды<Node id="1486"/> работали даже при температуре 750 С.
+
+Как говорит один из исследователей, метод электромагнитного нанесения нанонитей на подложку значительно автоматизирует и сокращает время производства, что, естественно, положительно скажется на массовом производстве подобных <Node id="1750"/>светодиодов<Node id="1761"/> и устройств на их основе.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="272" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Светодиод" StartNode="1218" EndNode="1228">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="285" EndNode="288">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="1476" EndNode="1486">
+</Annotation>
+<Annotation Id="8" Type="Травление" StartNode="957" EndNode="966">
+</Annotation>
+<Annotation Id="9" Type="Светодиод" StartNode="1342" EndNode="1353">
+</Annotation>
+<Annotation Id="10" Type="Партнеры_Клиенты" StartNode="72" EndNode="86">
+</Annotation>
+<Annotation Id="11" Type="Светодиод" StartNode="1750" EndNode="1761">
+</Annotation>
+<Annotation Id="12" Type="Светодиод" StartNode="540" EndNode="550">
+</Annotation>
+<Annotation Id="13" Type="Светодиод" StartNode="894" EndNode="905">
+</Annotation>
+<Annotation Id="14" Type="Биосенсор" StartNode="455" EndNode="466">
+</Annotation>
+<Annotation Id="15" Type="Светодиод" StartNode="334" EndNode="344">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1005" EndNode="1010">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

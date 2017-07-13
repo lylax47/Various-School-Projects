@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Американские учёные разработали новый способ управления формой <Node id="64"/>нанокристаллов<Node id="78"/> металлов – путём использования <Node id="110"/>наночастиц<Node id="120"/> другого металла в качестве «зёрен» и изменения условий в реакционной среде.
+
+<Node id="198"/>Управление морфологией <Node id="221"/>нанокристаллов<Node id="235"/> является важной задачей, поскольку многие их физические и химические свойства сильно зависят от формы. В работе исследователей из Университета Калифорнии в Беркли были синтезированы палладиевые <Node id="430"/>наночастицы<Node id="441"/> трёх различных форм с помощью использования кубических <Node id="497"/>нанокристаллов<Node id="511"/> платины.
+
+Платиновые кубы со стороной 13 нм, все грани которых имеют индексы (100), использовались для выделения из реакционной смеси палладия, который обладает таким же периодом кристаллической решётки, как и платина, и «достраивает» <Node id="747"/>наночастицы<Node id="758"/>-«зёрна».
+
+В зависимости от условий проведения реакции (содержания диоксида азота, влияющего на скорость роста палладия), исследователи смогли получить частицы трёх различных форм – кубической, октаэдрической и кубооктаэдрической – с разными типами поверхностей. Типу (100) соответствует кубическая форма, а октаэдрические частицы имеют грани типа (111). Кубооктаэдрические частицы обладают гранями обоих типов. Структуры наблюдались электронной микроскопией (см. рисунок).
+
+В отсутствие платиновых зёрен, однако, результатом реакции являлась смесь крупных частиц, содержашая неполиэдрические частицы, <Node id="1360"/>наностержни<Node id="1371"/> и многогранные <Node id="1387"/>наночастицы<Node id="1398"/>. Таким образом, роль нанокубов платины состоит в создании поверхности для наращивания палладия и в задании формы конечных частиц. Согласно авторам работы, такой метод может применяться и для других металлических систем – примерами могут стать рутений, железо-платина, кобальт-платина.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="198" EndNode="235">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Управление морфологией нанокристаллов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанокристалл" StartNode="221" EndNode="235">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="1360" EndNode="1371">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="747" EndNode="758">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="110" EndNode="120">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="430" EndNode="441">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1387" EndNode="1398">
+</Annotation>
+<Annotation Id="12" Type="Нанокристалл" StartNode="64" EndNode="78">
+</Annotation>
+<Annotation Id="13" Type="Нанокристалл" StartNode="497" EndNode="511">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

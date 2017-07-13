@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Индия планирует уже в <Node id="22"/>следующем году<Node id="36"/> вывести на орбиту наноспутник массой до 100 кг на базе новой платформы, предназначенный для проведения научных экспериментов, создания «кластерных» группировок спутников и решения широкого круга других научных и прикладных задач.
+
+Как сообщает Press Trust of India, первый наноспутник, выполненный на базе новой платформы, будет оснащен аппаратурой дистанционного зондирования Земли с уникальными характеристиками, подробная информация о которых не приводится. Этот наноспутник будет ориентирован на обеспечение нужд развивающихся стран и позволит им с помощью недорогих приемных терминалов получать информацию непосредственно со спутника.
+<Node id="677"/>http://rnd.cnews.ru<Node id="696"/>/…cience.shtml?…Смотри-ка, индусы могут и нас обогнать в этой области!.. Главное, это не разбрасываться, а выбрать какое-то конкретное направление работ и твёрдо идти по этому пути…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="677" EndNode="696">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="22" EndNode="36">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

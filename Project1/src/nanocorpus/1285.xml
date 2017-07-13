@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Иванов: <Node id="8"/>до 2015 года<Node id="20"/> на развитие наноиндустрии будет выделено <Node id="62"/>около 200 млрд рублей<Node id="83"/>
+<Node id="84"/>Около 200 млрд рублей<Node id="105"/> планируется выделить в период <Node id="136"/>до 2015 года<Node id="148"/> на развитие наноиндустрии в России, сообщил первый вице-премьер РФ Сергей Иванов.
+ 
+«<Node id="234"/>Средства действительно планируется выделить очень и очень крупные. <Node id="301"/>До 2015 года<Node id="313"/> на нанотехнологии и наноиндустрию намечено ассигновать <Node id="369"/>около 200 млрд рублей<Node id="390"/>. При этом из них 130 млрд планируется выделить <Node id="438"/>до конца этого года<Node id="457"/>»,  – сказал С.Иванов<Node id="478"/> в четверг в Москве на заседании правительственного совета по нанотехнологиям.
+ <Node id="558"/>http://www.newtimes.ru/…/20070621148Новости<Node id="601"/> действительно «отличные». И если гос. копилка на самом деле выделит такую прорву деньжищ, если они дойдут по назначению и будут пущены на дело, то можно будет надеяться, что этот «локомотив» наконец-то «пошёл» и даже с ускорением…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="301" EndNode="313">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="438" EndNode="457">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="62" EndNode="83">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="136" EndNode="148">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="234" EndNode="478">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="558" EndNode="601">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="8" EndNode="20">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="234" EndNode="478">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="369" EndNode="390">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="84" EndNode="105">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Спустя <Node id="8"/>четыре года<Node id="19"/> после открытия университетом штата Аризона Центра <Node id="70"/>Гибких Дисплеев<Node id="85"/> (ASU Flexible Display Center) исследователи, <Node id="131"/>совместно<Node id="140"/> с лабораторией HP, представили первый рабочий прототип гибкого дисплея, сделанного по технологии SAIL (self-aligned imprint lithography — самоуправляемая <Node id="295"/>литография<Node id="305"/>).
+
+По-сравнению с технологией E-Ink эти «рулонные» дисплеи проще и дешевле выпускать, они более дружественны к окружающей среде и, что немаловажно, гораздо более устойчивы ко внешним воздействиям — по словам представителей HP, такой дисплей очень сложно сломать, ведь он на <Node id="580"/>90%<Node id="583"/> состоит из обыкновенного пластика. Что уж говорить об энергопотреблении, которое в разы ниже показателей любой ныне существующей технологии производства.
+
+Пока неизвестно ничего о конкретных датах начала производства, но вполне возможно, что на CES 2009 удастся увидеть прототип ноут/нетбука с монитором, в основе которого лежит гибкий дисплей.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="70" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дисплеев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="580" EndNode="583">
+</Annotation>
+<Annotation Id="3" Type="Партнеры_Клиенты" StartNode="131" EndNode="140">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Литография" StartNode="295" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="8" EndNode="19">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания IBS DataFort, поставщик услуг функционального ИТ-аутсорсинга на российском рынке, объявила о том, что обеспечит поддержку интернет-портала <Node id="149"/>rusnano.com<Node id="160"/> государственной корпорации «Российская корпорация нанотехнологий».
+
+В результате открытого конкурса IBS DataFort получил право оказать услуги по администрированию и размещению на своих мощностях программного комплекса интернет-портала.
+
+«Российская корпорация нанотехнологий» обеспечивает реализацию государственной политики в сфере нанотехнологий. Корпорация участвует в создании нанотехнологической инфраструктуры, такой как центры коллективного пользования, бизнес-инкубаторы и фонды раннего инвестирования. Для поддержки финансируемых проектов корпорация реализует научные и образовательные программы, а также популяризирует нанотехнологические исследования и разработки.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="149" EndNode="160">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

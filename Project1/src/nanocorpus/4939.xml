@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Правительство Российской Федерации утвердило проект по организации производства микросхем по 65-нанометровой и 45-нанометровой технологиям. Строительством нового завода займется ОАО «Ситроникс-Нанотехнологии».
+
+Общая стоимость проекта оценивается в <Node id="250"/>58,5 миллиарда рублей<Node id="271"/>. Государство инвестирует в развертывание производственных линий <Node id="336"/>около 27 миллиардов рублей<Node id="362"/>, остальные средства предоставит ОАО «Ситроникс-Нанотехнологии». Форма предоставления государственной поддержки – направление бюджетных ассигнований в уставный капитал открытого акционерного общества «Ситроникс-Нанотехнологии».
+
+В распоряжении правительства РФ отмечается, что финансирование из инвестиционного фонда будет осуществляться при условии предоставления в Минрегион России полного комплекта проектной документации на производственные помещения и при наличии заключенных контрактов на поставку оборудования, необходимого для реализации проекта. Содействие ОАО «Ситроникс-Нанотехнологии» в рамках проекта по строительству завода, возможно, будут оказывать Intel, IBM или STMicroelectronics.
+
+Расположится новое предприятие в Зеленограде, завершить его строительство планируется в <Node id="1151"/>2010 году<Node id="1160"/>. Согласно проекту, на первом этапе ввода производственных линий в эксплуатацию, запланированном на <Node id="1260"/>2009 год<Node id="1268"/>, мощность предприятия составит 300 пластин в <Node id="1314"/>месяц<Node id="1319"/>, а на момент завершения строительства достигнет 10 тысяч пластин в <Node id="1387"/>месяц<Node id="1392"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1151" EndNode="1160">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1151" EndNode="1160">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="336" EndNode="362">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1314" EndNode="1319">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1260" EndNode="1268">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="250" EndNode="271">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1260" EndNode="1268">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1387" EndNode="1392">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

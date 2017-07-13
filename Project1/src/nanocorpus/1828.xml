@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Вышел очередной выпуск Дайджеста Российской и зарубежной прессы В <Node id="66"/>ноябре<Node id="72"/> <Node id="73"/>Наблюдательный совет<Node id="93"/> РОСНАНО одобрил очередной инвестиционный проект. 
+Цель проекта – производство техники для каскадной нанофильтрации плазмы крови, применяемой при лечении атеросклероза, ишемической болезни сердца, стенокардии, сердечной недостаточности и других заболеваний.
+ Также, Корпорацией и Министерством науки и техники КНР было подписано соглашение о сотрудничестве. А <Node id="453"/>21 ноября<Node id="462"/> <Node id="463"/>Госдума<Node id="470"/> приняла в первом чтении законопроект, предоставляющий РОСНАНО статус квалифицированного инвестора.  Это и многое другое вы можете прочитать в 7-ом выпуске Дайджеста.
+ 06 – РОСНАНО инвестирует в медицину
+22 – <Node id="679"/>Правительство<Node id="692"/> утвердило направления исследований для Курчатовского института
+41 – Первый российско-германский институт высоких технологий откроется при Бауманском университете
+Содержание ЦИТАТЫ <Node id="873"/>МЕСЯЦА<Node id="879"/> .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 <Node id="947"/>ТЕМЫ<Node id="951"/> В ФОКУСЕ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 НАУКА . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12 БИЗНЕС . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30 ОБЩЕСТВО . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .39 КАЛЕНДАРЬ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45 
+Скачать его можно <Node id="1406"/>здесьhttp://rusnano.com/…ication.aspx?…Как<Node id="1448"/> всегда, интересный выпуск… Сгружайте и читайте сами…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="463" EndNode="470">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1406" EndNode="1448">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="679" EndNode="692">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="453" EndNode="462">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="66" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="73" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="947" EndNode="951">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тема</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="873" EndNode="879">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

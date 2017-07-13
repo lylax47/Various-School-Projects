@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+МОСКВА, <Node id="9"/>6 июля<Node id="15"/> – Совет Федерации на заседании в пятницу одобрил федеральный закон «по Российской корпорации нанотехнологий». Как передает корреспондент «Росбалта», закон поддержали 114 сенаторов.
+
+Согласно закону Российская корпорация нанотехнологий создается как некоммерческая организация в форме государственной корпорации. Ее имущество формируется за счет государственного имущественного взноса, средств федерального бюджета, собственных доходов, добровольных взносов и пожертвований и других законных поступлений. Корпорация может выступать в качестве государственного заказчика, а также оказывать услуги на договорной основе.
+
+Корпорацией управляют генеральный директор и наблюдательный совет из 14 членов. Члены наблюдательного совета назначаются правительством, в том числе 5 человек – по представлению президента России, 2 человека по представлению Госдумы, еще 2 – по представлению Совета Федерации и 5 человек по представлению самого правительства.
+
+На заседании выступил исполняющий обязанности вице-президента Российской академии наук Михаил Ковальчук<Node id="1065"/>.<Node id="1066"/> <Node id="1067"/>Он<Node id="1069"/> заявил, что индустрия нанотехнологий создаст условия для перехода от узковедомственного научного подхода к междисциплинарному, а в дальнейшем к созданию нового экономического уклада мира<Node id="1256"/>.
+
+Председатель Совета Федерации Сергей Миронов<Node id="1303"/> <Node id="1304"/>сообщил журналистам, что у Совета Федерации будут «свои интересные предложения» по развитию нанотехнологий, которые в ближайшее время будет вносить профильный комитет верхней палаты.
+
+<Node id="1488"/>Миронов также рассказал, что <Node id="1517"/>недавно он встречался в Санкт-Петербурге с лауреатом Нобелевской премии академиком <Node id="1600"/>Жоресом<Node id="1607"/> <Node id="1608"/>Алферовым<Node id="1617"/>, который высказал взгляды на развитие наноиндустрии, отличные от взглядов правительства<Node id="1705"/>.
+<Node id="1707"/>http://www.rosbalt.ru<Node id="1728"/>/…/400476.htmlДа, было бы интересно послушать, что это там тов. Миронову сказал наш уважаемый академик, «который высказал взгляды на развитие наноиндустрии, отличные от взглядов правительства». </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="темы" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="1303" EndNode="1304">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1600" EndNode="1607">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается_с</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="13" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="1065" EndNode="1066">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1067" EndNode="1256">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="19" Type="темы" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="9" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="1303" EndNode="1304">
+</Annotation>
+<Annotation Id="23" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="высказывания_заявления" StartNode="1067" EndNode="1256">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="1067" EndNode="1069">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="28" Type="автор" StartNode="1488" EndNode="1705">
+</Annotation>
+<Annotation Id="31" Type="Url" StartNode="1707" EndNode="1728">
+</Annotation>
+<Annotation Id="30" Type="цитаты" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="34" Type="цитаты" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="1608" EndNode="1617">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается_с</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="упоминает" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="33" Type="упоминается_с" StartNode="1517" EndNode="1705">
+</Annotation>
+<Annotation Id="38" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="упоминает" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="36" Type="упоминает" StartNode="1067" EndNode="1705">
+</Annotation>
+<Annotation Id="37" Type="работает" StartNode="1065" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="высказывания_заявления" StartNode="1488" EndNode="1705">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

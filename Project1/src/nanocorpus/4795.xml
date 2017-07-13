@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Dow Corning Corp. (Auburn, Мичиган, США) приступила к продажам электронно-лучевого резиста (XR-1541), поддерживающего формирование рисунка с высоким (6 нм) разрешением.
+
+Чувствительность нового резиста еще недостаточно высока для массового производства наноэлектронных схем (компания работает над ее увеличением), но высокое разрешение позволит использовать выпускаемый резист в исследовательских целях. Резист XR-1541 может также использоваться при воспроизведении рисунка схем 1:1, что делает его перспективным для наноимпринт <Node id="530"/>литографии<Node id="540"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="530" EndNode="540">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

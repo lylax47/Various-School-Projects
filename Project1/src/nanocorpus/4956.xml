@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Ростовский государственный университет <Node id="41"/>наноматериал<Node id="53"/>   <Node id="56"/>Наноматериалы<Node id="69"/>   Консолидированные <Node id="90"/>наноматериалы<Node id="103"/>                         Юзюк Юрий Иванович, заведующий кафедрой, доцент, кандидат наук Кафедра нанотехнологии создана на физическом факультете РГУ в <Node id="253"/>2004 году<Node id="262"/> при активном участии академика В.И. Минкина. На кафедре разрабатываются технологии синтеза диэлектрических и полупроводниковых <Node id="390"/>нанокристаллов<Node id="404"/> и наноразмерных гетероструктур методами ионно-плазменного и лазерного напыления. Физические свойства <Node id="506"/>наноматериалов<Node id="520"/> исследуются методами микроскопии, рентгеноструктурного анализа и колебательной спектроскопии. 
+ 
+Научные достижения группы 
+ 
+Разработана уникальная технология <Node id="681"/>ионно-плазменного осаждения<Node id="708"/> гетероэпитакисальных пленок сложных оксидов. На основе данных рентгеноструктурных и рамановских исследований, микроскопии высокого разрешения, динамики переключения, генерации второй гармоники, исследования фазовых переходов доказано наличие сегнетоэлектрического состояния в наноразмерных объектах с характерным размером менее 7 нм. В наноразмерных сегнетоэлектриках обнаружено аномально высокое значение диэлектрической проницаемости и поляризации и их слабая зависимость от температуры, что открывает возможность создания устройств микро- и наноэлектроники нового поколения. 
+ 
+Разработан метод теневого внеосевого лазерного напыления эпитаксиальных пленок высокотемпературных сверхпроводников, сегнетоэлектриков и манганитов со структурой перовскита. Разработан многоступенчатый процесс импульсного лазерного напыления монокристаллических пленок на основе ZnO для микро- и оптоэлектроники. Разработан новый метод  импульсного лазерного напыления при высоком давлении аргона высокоориентированных решеток микро-и <Node id="1725"/>нанокристаллов<Node id="1739"/> ZnO на тонком слое селективно-осажденного катализатора. 
+ 
+Впервые в мировой практике получены поляризованные рамановские спектры пленок (Ba,Sr)TiO3 (BST). Показано что величина двумерного зажатия в пленках BST/MgO определяется механизмом роста пленок и надежно контролируется по положению Е(ТО) мягкой моды. Рамановские и рентгенодифракционные исследования указывают на тетрагональную симметрию (D4h) параэлектрической фазы выше температуры <Node id="2182"/>Кюри<Node id="2186"/> в пленках BST на (001)MgO. Исследование рамановских спектров пленок ВST ниже комнатной температуры показали, что переход в ромбоэдрическую фазу отсутствует и реализуется только один переход из тетрагональной в моноклинную фазу при 150 <Node id="2422"/>К. Впервые<Node id="2432"/> исследованы поляризованные рамановские спектры сверхрешеток BaTiO3 /SrTiO3 с толщинами чередующихся слоев от 6 до 10 элементарных ячеек. Показано что при охлаждении ниже комнатной температуры в сверхрешетках не наблюдается фазовых переходов, в то время как переход в параэлектрическую фазу размыт и сдвинут в область высоких температур 650-700 К. 
+ 
+ 
+   Зондовый микроскоп Nanoeducator Рентгеновский дифрактометр ДРОН-3 Установка импульсного лазерного напыления   Оригинальный метод импульсного лазерного напыления высокоориентированных решеток микро-и <Node id="2987"/>нанокристаллов<Node id="3001"/> ZnO на тонком слое селективно-осажденного катализатора Уникальная технология <Node id="3079"/>ионно-плазменного осаждения<Node id="3106"/> гетероэпитакисальных пленок сложных оксидов   НИИ радиосвязи, г. Ростов-на-Дону, Россия НИИ физики при РГУ, г. Ростов-на-Дону, Россия Южный научный центр РАН, г. Ростов-на-Дону, Россия </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Ионно-плазменное+физическое+осаждение" StartNode="681" EndNode="708">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="506" EndNode="520">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="2182" EndNode="2186">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кюри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Ионно-плазменное+физическое+осаждение" StartNode="3079" EndNode="3106">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанокристалл" StartNode="1725" EndNode="1739">
+</Annotation>
+<Annotation Id="10" Type="Нанокристалл" StartNode="2987" EndNode="3001">
+</Annotation>
+<Annotation Id="11" Type="Нанокристалл" StartNode="390" EndNode="404">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="41" EndNode="53">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="253" EndNode="262">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наноматериал" StartNode="56" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Наноматериал" StartNode="90" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="253" EndNode="262">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="2422" EndNode="2432">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

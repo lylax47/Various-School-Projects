@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Пока нанотехнологи разрабатывают механические наноустройства, ученые из Нидерландов смогли создать систему, «включающую» или «выключающую» подобные механизмы. Однажды, когда нанотехнологии шагнут далеко, появится необходимость включать и выключать наномашины дистанционно.
+
+Микроскопические моторы, насосы и другие движущиеся механизмы нанометровых размеров должны включаться по команде от человека, но пока это достаточно трудно сделать из-за особенностей <Node id="458"/>наноструктур<Node id="470"/>.
+
+Гарольд Зандвлит (Harold J. W. Zandvliet) и <Node id="517"/>его<Node id="520"/> коллеги смогли управлять атомами, как в игре Pinball – переключать их вверх-вниз наподобие флипперов.
+
+Удалось это сделать с атомами германиевого кристалла, выращенного на обычной кремниевой подложке.
+
+Атомы располагались правильными рядами, поэтому исследователи могли видеть их отклонение с помощью электронной микроскопии. Переключение «вкл/выкл» осуществлялось подачей электрического сигнала зондом микроскопа на <Node id="938"/>наноструктуру<Node id="951"/>.
+
+Управляя зазором между кантилевером и атомами кристалла, ученые наблюдали циклы переключения. <Node id="1048"/>Как говорит Гарольд, открытие позволит однажды включать и выключать наноустройства точными световыми или электрическими сигналами<Node id="1177"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="938" EndNode="951">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="1048" EndNode="1177">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="458" EndNode="470">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="517" EndNode="520">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1048" EndNode="1177">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

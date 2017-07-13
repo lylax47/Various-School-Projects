@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Перспективы использования <Node id="27"/>наночастиц<Node id="37"/> в медицине раскрываются с каждым <Node id="71"/>днем<Node id="75"/>. Очередное подтверждение тому – создание <Node id="117"/>наночастиц<Node id="127"/>, способных облегчить жизнь людям, больным диабетом.
+
+Ученые, занимающиеся биомедицинской инженерией в высшей школе по информационным наукам о здоровье при университете Техаса в Хьюстоне (The University of Texas School of Health Information Sciences at Houston) под руководством профессора Ананта Аннапрагада (Ananth V. Annapragada), впервые продемонстрировали (пока – на крысах) успешную работу ингаляционной глюкозо-чувствительной системы доставки человеческого инсулина.
+
+Саморегулирующаяся система высвобождения инсулина состоит из чувствительного к глюкозе белка конканавалина А (concanavalin A, Con A), связанного с агломератом содержащих инсулин наноразмерных липосом. При повышении сахара в крови Con A изменяет конфигурацию и высвобождает липосомы, которые разрушаются и выделяют инсулин.
+
+Безопасная доставка инсулина с помощью <Node id="965"/>наночастиц<Node id="975"/> призвана улучшить качество жизни людей, больных диабетом первого типа.
+
+К сожалению, на пути внедрения такой системы в практику еще много препятствий. Прежде всего ученым необходимо найти замену конкавалину: этот белок семейства лектинов, выделяемый из тканей Canavalia ensiforme – южноамериканского растения семейства бобовых – обладает ярко выраженной митогенной активностью в отношении Т-лимфоцитов и может привести к побочным эффектам со стороны иммунной системы.
+
+Статья Efstathios Karathanasis et al. «Glucose-sensing pulmonary delivery of human insulin to the systemic circulation of rats» опубликована в on-line версии International Journal of Nanomedicine.
+
+Интернет-журнал «Коммерческая биотехнология» <Node id="1688"/>http://www.cbio.ru<Node id="1706"/>/</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="117" EndNode="127">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="27" EndNode="37">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="71" EndNode="75">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="965" EndNode="975">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1688" EndNode="1706">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

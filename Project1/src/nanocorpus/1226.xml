@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Японское общество содействия науке объявляет ежегодный прием заявок  на получение последокторких стипендий иностранным ученым для проведения исследований в любых областях естественных наук <Node id="190"/>(http://www.aha.ru/study/mapdo/~grantindex.htm)<Node id="237"/> <Node id="238"/>(http://www.aha.ru/study/mapdo/16-03-08-1.htm)<Node id="284"/> 
+Продолжительность стипендии 1-<Node id="316"/>2 года<Node id="322"/>. В стипендию входят ежемеячные выплаты, подъемные, авиабилеты в два конца, местные командировки, международные командировки, страховка. 
+ 
+Кандидаты должны имет степень доктора (кандидата) наук, полученную не ранее <Node id="538"/>2 апреля 2002 г.<Node id="554"/> 
+ 
+Заявления подаются японскими исследователями, желающими принять иностранного ученого в  японских университетах, институтах, лабораториях. 
+К заявлению прилагается план план исследований, согласованный с принимающим ученым. 
+Заявления должны поступить <Node id="809"/>до 1-9 мая 2008 г.<Node id="827"/> Результаты будут объявлены в середине <Node id="866"/>августа 2008 г.<Node id="881"/>, исследования должны начаться не ранее <Node id="921"/>1 сентября<Node id="931"/> и не позднее <Node id="945"/>30 ноября 2008 г.<Node id="962"/> 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="809" EndNode="827">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="945" EndNode="962">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="316" EndNode="322">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="866" EndNode="881">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="190" EndNode="237">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="238" EndNode="284">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="921" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="538" EndNode="554">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

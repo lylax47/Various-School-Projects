@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Более 4200 материаловедов приняли участие в определении самых значимых открытий и достижений в области наук о материалах на ежегодном съезде The Minerals, Metals &amp; Materials Society. 
+ 
+ Самым значимым событием в истории материаловедения было признано открытие Д. И. Менделеевым Периодической таблицы элементов (1864). 
+ 
+ На втором месте – выплавка железа (3500 д.н.э.). Считается, что впервые это удалось сделать древним египтянам, использовавшим железо для изготовления украшений. В последствии железо стало ключевым материалом в истории человечества. 
+ 
+ Третье место занимает транзистор (1948), без которого невозможно было бы представить современную электронику. 
+ 
+ Далее следуют стекло (200 д.н.э.), оптический микроскоп (1668), гидравлический цемент (1755), сталь (300 д.н.э.), получение меди из малахита и азурита (5000 д.н.э.), дифракция рентгеновских лучей на кристаллической решетке (1912) и получение стали из чугуна (1856). 
+ 
+ Открытие <Node id="953"/>углеродных <Node id="964"/>нанотрубок<Node id="974"/> (1991) находится на 36 месте, а знаменитая лекция нобелевского лауреата <Node id="1047"/>Р. Фейнмана<Node id="1058"/> «Там внизу полно места» (1959), предвещающая развитие нанотехнологий, оказалась на 48 месте. Отметим, что это событие упоминается почти в каждой статье о нанотехнологии. На 28 позиции – изобретение просвечивающего электронного микроскопа (1933), позволившего впервые увидеть наномир. 
+ 
+ С полным списком можно ознакомиться на сайте <Node id="1392"/>www.materialmoments.org.<Node id="1416"/> 
+ 
+ Интересную (и красивую) подборку великих научных достижений, расположенных в хронологическом порядке, можно найти на сайте <Node id="1544"/>www.chemsoc.org.<Node id="1560"/> Там же находится забавная версия таблицы Менделеева – величайшей вехи в развитии химии, материаловедения и нанотехнологии. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="964" EndNode="974">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1544" EndNode="1560">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="953" EndNode="974">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1392" EndNode="1416">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1047" EndNode="1058">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фейнман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Учёные России и Германии собираются изучить влияние <Node id="52"/>наночастиц<Node id="62"/> на организм человекаБелгородские специалисты в области нанотехнологий и учёные из Бременского университета хотят разработать совместный проект по исследованию свойств наноструктурных материаловСегодня на базе БелГУ начал работать семинар, по результатам которого будет разработана схема проекта. Исследованием и разработкой <Node id="387"/>наноматериалов<Node id="401"/> в Белгороде занимается Центр коллективного пользования научным оборудованием в БелГУ.
+
+<Node id="489"/>По словам заместителя директора центра Олега Иванова, совместно с немецкими учёными они планируют разработать проект, который позволит изучить влияние столь маленьких частиц на окружающую среду, так называемых промышленных рисков, и на организм человека<Node id="742"/>.
+ 
+«<Node id="747"/>Масштабно <Node id="757"/>наноматериалы<Node id="770"/> ещё не исследованы, пока учёные не определили, как они могут повлиять на организме человека, ведь многие из частиц обладают высокой токсичностью», – пояснил Олег Николаевич<Node id="943"/>.
+ Со своей стороны белгородский центр для проекта может предоставить современное оборудование, и дать возможность проводить исследования. А специалисты из Германии предоставят свой опыт в изучении <Node id="1141"/>наночастиц<Node id="1151"/> и экологических рисков в этой сфере.
+
+В <Node id="1192"/>мае<Node id="1195"/> белгородские специалисты уже побывали в Бремене, они рассказали о разработках, которые ведутся в Белгороде. В открывшемся сегодня семинаре примут участие медики, экологи, биологи, физики. Схему будущего проекта и результаты семинара учёные представят в субботу.
+Анастасия <Node id="1468"/>Саенкоhttp://www.bel.ru/…7/32906.htmlНу<Node id="1507"/> что ж, дело это хорошее. Ведь без знания таких основополагающих данных будет невозможно разивать и саму наноиндустрию. Сотрудничество всегда благотворно. Тем более немцы известны своей вьедливостью, точностью и аккуратностью, вниманием к мельчайшим деталям. Белгородцы могут предоставить «боевой задор» молодых исследователей, обилие идей и научное оборудование Центра коллективного пользования научным оборудованием в БелГУ. Желаем успехов участникам проекта и новых достижений в научном поиске!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="52" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="757" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1192" EndNode="1195">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="747" EndNode="943">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="489" EndNode="742">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1468" EndNode="1507">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="747" EndNode="943">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="489" EndNode="742">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1141" EndNode="1151">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="387" EndNode="401">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

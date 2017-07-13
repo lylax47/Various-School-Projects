@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Institute of Electronics, Microelectronics and Nanotechnology (IEMN / CNRS) и Department of Solid-state Physics at the French Atomic Energy Agency (CEA) преуспели в создании транзисторов из <Node id="208"/>углеродных <Node id="219"/>нанотрубок<Node id="229"/> на кремниевой подложке («Intrinsic current gain cutoff frequency of 30 GHz with carbon nanotube transistors»). Критическая частота транзисторов, которые обычно используются в качестве автоматических переключателей, достигла значения 30 ГГц, что в 4 раза превышает предыдущий рекорд той же команды, зафиксированный в <Node id="546"/>августе 2006 года<Node id="563"/>. Такой результат открывает новые горизонты для приложений, которые требуют высоких рабочих частот. Цель молекулярной электроники – усовершенствование компонентов, основанных на различных типах нанообъектов, и систем обработки информации. Это один из видов технологии, которая, например, используются в системах отображения, таких как электронная бумага. В качестве элементарных компонентов обычно используют органические структуры, такие как полимеры, которые затем наносят на поверхность с помощью обычных технологий, схожих с теми, что используются при печати на бумаге (струйная печать). Тем не менее, такие материалы  обладают низкой подвижностью электронов. Это ограничивает частоту переносимого тока и, следовательно, рабочую частоту каждого базового транзистора, что ограничивает применение технологии. С другой стороны, <Node id="1392"/>углеродные <Node id="1403"/>нанотрубки<Node id="1413"/> характеризуются высокой подвижностью электронов, что сочетается с высокоскоростными электронными приложениями, и, кроме того, они могут быть нанесены с помощью недорогих технологических процессов. Исследователи из IEMN и CEA, при поддержке National Research Agency (ANR), использовали метод, известный как диэлектрофорез, для получения большого количества одинаково осаждённых ориентированных <Node id="1807"/>нанотрубок<Node id="1817"/>. На кремниевой подложке им удалось сделать транзистор, основанный на <Node id="1887"/>углеродных <Node id="1898"/>нанотрубках<Node id="1909"/>, с критической частотой 30 ГГц. Описанный процесс может проводиться при комнатной температуре, что также делает его полностью совместимым с другими недорогими подложками, такими как стекло, пластик и т.д. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="1392" EndNode="1413">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="546" EndNode="563">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="208" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="1887" EndNode="1909">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1403" EndNode="1413">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1807" EndNode="1817">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1898" EndNode="1909">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="219" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

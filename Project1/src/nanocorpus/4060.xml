@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>нанокластеры<Node id="13"/>, <Node id="15"/>нанокомпозиты<Node id="28"/>, нанопамять, <Node id="42"/>нанопористые материалы<Node id="64"/>, наноструктурные исследования , <Node id="97"/>нанотрубы<Node id="106"/>, опаловые матрицы, электрохромные зеркала    <Node id="152"/>Наноматериалы<Node id="165"/> нанооптика наноэлектроника   Использование нанотехнологий в элементах памяти исследование и разработка элементной базы наноэлектроники исследование методов контроля качества при производстве CD / DVD носителей исследование реализации троичной логики на наноэлементной базе методы ионно-лучевой обработки и нанотехнологических исследований определение физических закономерностей, создание математических моделей, разработка технологических процессов и оборудования для изготовления наноразмерных элементов различного назначения разработка активных систем виброзащиты от низкочастотной вибрации нанотехнологических измерительных комплексов разработка нейросетевых методов распознавания изображений при дефектоскопии проводящих микро- и <Node id="900"/>наноструктур<Node id="912"/>            
+ЗАО «Нанотехнологические системы» образована выпускниками МГТУ им. Н.Э.Баумана в <Node id="1006"/>2005 году<Node id="1015"/> с целью реализовать на практике накопленный опыт в области нанотехнологий и наноэлектроники. 
+ 
+Компания выполняет разработки и исследования по широкому спектру научно-технических направлений: наноэлектроника, <Node id="1226"/>наноматериалы<Node id="1239"/> и покрытия, нанооптика, сканирующее зондирование и <Node id="1291"/>атомно-силовая микроскопия<Node id="1317"/>, дефектоскопия и неразрушающий контроль поверхностей и <Node id="1373"/>наноструктур<Node id="1385"/>, обработка изображений, системы активной виброзащиты высокоточных нанотехнологических комплексов и др. 
+ 
+Среди проектов фирмы: система Nano-Lab управления ресурсами лаборатории микроэлектронных и нанотехнологий через Интернет, разработка архитектурной релаизации нанопамяти на <Node id="1664"/>нанотрубках<Node id="1675"/>, нано RFID технологии, электрохромные покрытия оптических систем, дефектоскопия CD/DVD дисков, фильтры <Node id="1779"/>Фабри<Node id="1784"/>-Перо высокой разрешающей способности и т.п. 
+ 
+Используются нанотехнологии и в стоматологии. Сотрудниками компании в ходе выполнения совместных исследований с Московским государственным медико-стоматологическим университетом выдвинута теория "разрушения зубов", основой которой является клиническая картина развития нанопор. В рамках проектов проводятся исследования зубов, как <Node id="2163"/>нанопористых материалов<Node id="2186"/>, наноструктурные исследования "зубного налета", а конкретно, пигментированного зубного налета средствами сканирующей зондовой микроскопии, исследования применения <Node id="2350"/>нанокомпозитов<Node id="2364"/> и <Node id="2367"/>нанокластеров<Node id="2380"/> в стоматологии и др. 
+ 
+   Научно-исследовательский сканирующий зондовый микроскоп Solver P47 - Pro Сканирующий спектроэллипсометр Спектрофотометр PERKIN ELMER Lambda 6 Установка магнетронного распыления LH Z550 Sputtering Plant   INPG, Национальный Политехнический Институт , г. Гренобля, Франция US Santa Cruz, США ИТЦ "МГТУ Система" , Компания "NT-MDT" , Концерн "Наноиндустрия" , Национальный Институт Тиндала , г. Корк, Ирландия ОАО "АФК Система" , Туринский Политехнический Институт , Италия Федеральный Политехнический Институт , г. Лозанны, Швейцария   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="97" EndNode="106">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1779" EndNode="1784">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фабри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанопористый+материал" StartNode="42" EndNode="64">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанокластер" StartNode="1" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Атомно-силовая+микроскопия" StartNode="1291" EndNode="1317">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1006" EndNode="1015">
+</Annotation>
+<Annotation Id="15" Type="Нанокомпозит" StartNode="15" EndNode="28">
+</Annotation>
+<Annotation Id="17" Type="Наноструктура" StartNode="900" EndNode="912">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="1006" EndNode="1015">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="1664" EndNode="1675">
+</Annotation>
+<Annotation Id="20" Type="Нанокомпозит" StartNode="2350" EndNode="2364">
+</Annotation>
+<Annotation Id="23" Type="Наноструктура" StartNode="1373" EndNode="1385">
+</Annotation>
+<Annotation Id="22" Type="Наноматериал" StartNode="1226" EndNode="1239">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Нанокластер" StartNode="2367" EndNode="2380">
+</Annotation>
+<Annotation Id="29" Type="Нанопористый+материал" StartNode="2163" EndNode="2186">
+</Annotation>
+<Annotation Id="28" Type="Наноматериал" StartNode="152" EndNode="165">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В <Node id="2"/>сентябре<Node id="10"/> Тверской государственный университет собирается посетить делегация ученых из Тайваньского Индустриального Технологического исследовательского института. Об этом корреспонденту <Node id="187"/>Regions.ru<Node id="197"/> сообщил ректор ТвГУ профессор Виктор Гавриков.
+Тверской государственный университет
+Делегация ознакомится с работой физико-технического факультета Тверского госуниверситета, обменяется опытом с тверскими учеными. Возможно, после этого визита между вузами будет заключен долгосрочный контракт.
+Виктор ГавриковВ сфере научных интересов физиков из Тайваня – исследование физических свойств различных материалов, нанотехнологии. Эти перспективные научные направления и объединяют тверских и тайваньских ученых.
+
+На протяжении длительного времени сотрудник физико-технического факультета, доцент кафедры теоретической физики Павел Комаров работал в тайваньском институте. Именно его пребывание и послужило толчком к началу деловых отношений двух высших заведений.
+Михаил <Node id="964"/>Потемкинhttp://www.regions.ru/news/2096194/Ну<Node id="1009"/> вот и тверичане стремятся выйти на международный простор. Сотрудничество студентов и учёных обоих университетов наверняка принесёт свои плоды. Пожелаем им успехов в этой области!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="964" EndNode="1009">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="187" EndNode="197">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

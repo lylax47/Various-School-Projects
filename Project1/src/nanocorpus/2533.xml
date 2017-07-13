@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Как известно, на разного рода освещение тратится огромное количество энергии: от 16 до <Node id="88"/>22%<Node id="91"/> всех энергозатрат развитых стран приходится именно на это, поэтому разработка осветительных приборов с большим КПД крайне важна с точки зрения экономии энергии. Как перспективная альтернатива лампам накаливания и галогеновым лампам сейчас рассматриваются <Node id="347"/>светодиоды<Node id="357"/>. 
+ 
+Особенно важны качественные диоды с белого свечения, имитирующие дневной свет. Для оценки качества таких диодов применяется индекс цветопередачи. Чтобы его максимизировать, требуется создать комбинированные диоды с RGB излучателями. Как правило, излучение диода находится в диапазоне цветов от синего до УФ, поэтому для получения белого света нужны красные и желтые люминофоры. 
+ 
+Ученые из Сеульского Национального Университета (Seoul National University) создали диод белого излучения, покрыв синий диод <Node id="868"/>квантовыми точками<Node id="886"/> из <Node id="890"/>наночастиц<Node id="900"/> (2-6 нм) (CdSe)ZnSe. Они были синтезированы прямым коллоидным методом с последующей пассивацией поверхности – ядро селенида кадмия было покрыто пленкой более широкозонного селенида цинка. <Node id="1089"/>Квантовые точки<Node id="1104"/> играли роль центров конверсии цвета, то есть служили в качестве нанолюминофоров. При этом они демонстрировали достаточно сильное излучение в широком диапазоне цветов: от синего до красного (в зависимости от размера частиц), а возбуждались УФ-излучением. Частицы были погружены в кремнийорганическую смолу, в которую также был помещен <Node id="1439"/>светодиод<Node id="1448"/>. 
+ 
+Ученые надеются, что эта технология скоро найдет широкое применение. Предполагается, что изобретением должны заинтересоваться выставочные центры и галереи, а также розничная торговля, то есть там, где важно сходство света с естественным. 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="1089" EndNode="1104">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="1439" EndNode="1448">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="890" EndNode="900">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="347" EndNode="357">
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="868" EndNode="886">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="88" EndNode="91">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Университета Сеула <Node id="30"/>Ханьян<Node id="36"/> (Seoul Hanyang University) смогли создать тонкую пленку из сети однослойных <Node id="113"/>углеродных <Node id="124"/>нанотрубок<Node id="134"/> (SWNT), являющуюся матрицей транзисторов.
+
+Как показывают последние исследования, не только <Node id="227"/>фуллерены<Node id="236"/> могут стать основой гибкой и прозрачной электроники на пластиковых субстратах. <Node id="316"/>Нанотрубки<Node id="326"/> достаточно давно используются в качестве основы для нанотранзисторов, поэтому логично было использовать их и в гибкой наноэлектронике.
+
+<Node id="463"/>На сегодняшний день<Node id="482"/> в <Node id="485"/>OLED<Node id="489"/> и LCD дисплеях используют матрицы металлических нанонитей, которые формируют транзисторы. Однако этот тип наноэлектронных устройств нельзя собрать на гибкой основе.
+
+С устройствами на основе SWNT дело обстоит иначе. Как говорит один из исследователей Ванджун Парк (Wanjun Park), их можно интегрировать в устройства на прозрачной пластиковой или даже стеклянной основе.
+
+Ключевая особенность нового техпроцесса заключается в том, что ученым не нужно контролировать расположение каждой <Node id="974"/>нанотрубки<Node id="984"/>.
+
+Как говорят ученые, на основе пластиковой SWNT наноэлектронике в будущем может появиться ряд новых оптоэлектронных устройств и гибких дисплеев. Но до этих пор Парк и его коллеги хотят модернизовать технологию, повысив мобильность электронов в получившихся нанотранзисторах.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="316" EndNode="326">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="463" EndNode="482">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="124" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Органический+светодиод" StartNode="485" EndNode="489">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="227" EndNode="236">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="974" EndNode="984">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="30" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ханьян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="113" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

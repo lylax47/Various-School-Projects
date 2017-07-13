@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Наблюдательный совет по развитию нанотехнологий состоится <Node id="59"/>21 июня<Node id="66"/> под председательством первого вице-премьера Сергея Иванова.
+
+В совет вошли члены правительства, Госдумы, Совета Федерации, представители гражданского общества и крупного частного бизнеса.
+
+<Node id="256"/>20 июня<Node id="263"/> на совещании президента с членами правительства <Node id="312"/>Сергей Иванов отметил, что совет призван координировать президентскую инициативу по развитию нанотехнологий, а также контролировать эффективное расходование бюджетных и частных средств на те или иные проекты<Node id="519"/>.
+
+Общий объём направляемых средств составит <Node id="564"/>180 миллиардов рублей<Node id="585"/>.
+
+Иванов напомнил о принятии федеральной целевой программы, в соответствии с которой <Node id="671"/>около 6 миллиардов рублей<Node id="696"/> будет ассигновано на развитие инфраструктуры наноиндустрии.
+
+Эти средства уже в <Node id="777"/>этом году<Node id="786"/> пойдут в первоочередном порядке в крупные научные центры.
+<Node id="845"/>http://www.radiorus.ru/news.html?…Ну<Node id="881"/> что ж, как говорится, процесс пошёл… И это – отрадно. Лиха беда – начало. Будем следить, как пойдут дальше дела «на этом фронте»… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="564" EndNode="585">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="777" EndNode="786">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="312" EndNode="519">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="59" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="845" EndNode="881">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="671" EndNode="696">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="312" EndNode="519">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="256" EndNode="263">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

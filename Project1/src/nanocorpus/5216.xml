@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Прохоров<Node id="8"/>: на смену технопаркам должны прийти научные интеграторыТрадиционные технопарки находятся в кризисе, инновационный бизнес должен менять подходы. Об этом заявил президент группы «Онэксим» Михаил Прохоров<Node id="210"/>,<Node id="211"/> выступая на ежегодном конгрессе национального бизнеса.
+
+По его словам, в России наблюдается разрыв между бизнесом и наукой.
+ «<Node id="338"/>У нас практически нет рынка инновационной продукции», – отмечает Прохоров<Node id="411"/> и поясняет, что бизнес продолжает ориентироваться на западные инновационные продукты, а конкурентоспособная наука на западный бизнес.
+  Предприниматель считает, что необходимо создать российскую модель инноваций, которая должна взять четкое бизнес-проектирование от американской и быстрое реагирование на требования рынка от китайской.  
+По мнению Прохорова на смену традиционным технопаркам, испытывающим трудности с развитием процесса глобализации, должны прийти научные интеграторы, а в переходный период – технохабы.
+ 
+Инновационный бизнес, по словам предпринимателя, должен сконцентрироваться на решении самых насущных проблем человечества – экологии, продовольствия и транспорта.
+ «<Node id="1100"/>При нынешних темпах роста цен на энергоносители, <Node id="1149"/>через 7 лет<Node id="1160"/> только <Node id="1168"/>10%<Node id="1171"/> населения Земли сможет позволить себе переезды, а съездить из Калининграда во Владивосток станет невозможно<Node id="1279"/>», – предупреждает Прохоров<Node id="1306"/>.
+ Андрей <Node id="1316"/>Тихоновhttp://www.vesti.ru<Node id="1342"/>/doc.html?…Ну, дело говорит парень!.. Как раз только на <Node id="1398"/>днях<Node id="1402"/> М. Прохоров вошел в состав комиссии правительства по хайтеку и инновациям <Node id="1477"/>(http://www.nanonewsnet.ru/…-po-khaiteku)<Node id="1518"/> да и к «нашим делам» он имеет непосредственное отношение <Node id="1576"/>(http://www.nanonewsnet.ru/…ekhnologiyam).<Node id="1618"/> Так что, как говорится, не в бровь, а в глаз… Но, как говорится в другой поговорке, скоро сказка сказывается, да не скоро дело делается… Поглядим, как дальше будут развиваться события…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1149" EndNode="1160">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="1100" EndNode="1306">
+</Annotation>
+<Annotation Id="3" Type="упоминается_с" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="338" EndNode="411">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1398" EndNode="1402">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="1168" EndNode="1171">
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1100" EndNode="1306">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1576" EndNode="1618">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="210" EndNode="211">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1316" EndNode="1342">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="338" EndNode="411">
+</Annotation>
+<Annotation Id="21" Type="упоминается_с" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Прохоров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="24" Type="темы" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="27" Type="темы" StartNode="1100" EndNode="1279">
+</Annotation>
+<Annotation Id="26" Type="упоминается" StartNode="338" EndNode="1306">
+</Annotation>
+<Annotation Id="29" Type="Url" StartNode="1477" EndNode="1518">
+</Annotation>
+<Annotation Id="28" Type="сотрудники" StartNode="210" EndNode="211">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

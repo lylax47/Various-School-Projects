@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>В течение ближайшей недели<Node id="28"/> сайт будет претерпевать первую очередь небольших (но в дальнейшем важных) изменений, включая переезд на новый сервер и некоторую оптимизацию кода. Мы надеемся, что это позволит расширить возможности сайта и избежать его нестабильной работы во время больших объемов обращений (например, во время третьей Интернет-олимпиады). Позже будет также изменен дизайн сайта. Заранее просим извинений за возможные сбои в работе в процессе ремонта. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2" EndNode="28">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

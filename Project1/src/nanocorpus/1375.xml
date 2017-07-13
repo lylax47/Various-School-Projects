@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Университета Калифорнии (University of California, Santa Barbara) обнаружили, что прикрепление полимерных <Node id="124"/>наночастиц<Node id="134"/> к поверхности красных кровяных телец значительно увеличивает время жизни этих частиц в живом организме, что может быть использовано для доставки лекарств Эти результаты были опубликованы в журнале Experimental Biology and Medicine. 
+ 
+Полимерные частицы являются отличными носителями при доставке лекарств – они защищают их от деградации, которая может произойти до места назначения. Однако полимерные частицы имеют существенный недостаток – они очень быстро удаляются из крови, иногда <Node id="621"/>в течение нескольких минут<Node id="647"/>, что делает их неэффективными. 
+ 
+Исследовательская команда, возглавляемая Samir Mitragotri и Elizabeth Chambers обнаружила, что <Node id="777"/>наночастицы<Node id="788"/> могут долго циркулировать в крови в том случае, если они присоединены к красным кровяным тельцам. Частицы в конечном итоге отделяются за счет силы сдвига и взаимодействия между клетками и удаляются из кровеносной системы печенью и селезенкой. На циркуляцию красных кровяных телец <Node id="1069"/>наночастицы<Node id="1080"/> не влияют. 
+ 
+Частицы присоединенные к красным кровяным тельцам избегают фагоцитоза за счет того, что тельца ускользают от фагоцитов. Идея присоединия <Node id="1232"/>наночастицы<Node id="1243"/> к красным кровяным тельцам используется не в первый раз – ранее идея была опробована на бактериях, которые присоединяли к тельцам. Исследователи говорят, что <Node id="1402"/>наночастицы<Node id="1413"/> могут циркулировать достаточно длительное время – теоретически вплоть до времени жизни кровяных телец, составляющего <Node id="1531"/>120 дней<Node id="1539"/>. Это возможно в том случае, если связь между частицами и клетками крови достаточно прочна. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="124" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1531" EndNode="1539">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="621" EndNode="647">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="777" EndNode="788">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1402" EndNode="1413">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1069" EndNode="1080">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1232" EndNode="1243">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

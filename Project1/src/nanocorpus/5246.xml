@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Университета Иллинойса Урбана-Шампэйн (UIUC) смогли соединить массивом <Node id="89"/>углеродных <Node id="100"/>нанотрубок<Node id="110"/> два золотых электрода, создав, по сути дела, нанотранзистор нового типа.
+
+Массив из двух тысяч <Node id="206"/>нанотрубок<Node id="216"/> выращен непосредственно на подложке из оксида кремния. При этом ученым удалось добиться их параллельного укладывания, что ранее было нелегко достичь. В предыдущих наноустройствах в процессе роста <Node id="413"/>нанотрубки<Node id="423"/> ориентировались неравномерно, пересекаясь друг с другом. Из-за этого сопротивление группы таких <Node id="520"/>нанотрубок<Node id="530"/> существенно возрастает.
+
+Для того, чтобы устранить это препятствие, Роджерс и его коллеги использовали нанокатализ железом на кристалле кварца. <Node id="675"/>После этого<Node id="686"/> они начали выращивать <Node id="709"/>нанотрубки<Node id="719"/> методом вакуумного напыления углерода, из которого формировались <Node id="785"/>нанотрубки<Node id="795"/>, при этом кварц заставлял их расти параллельно друг другу.
+
+Получающиеся при этом <Node id="878"/>нанотрубки<Node id="888"/> диаметром около нанометра несколько отличаются по своим свойствам. Однако транзисторы, собранные на основе сотен и тысяч трубок – в силу статистического эффекта – работают одинаково.
+
+Ценным свойством разработки группы Роджерса является то, что такие <Node id="1140"/>нанотрубки<Node id="1150"/> не теряют своих свойств при «пересаживании» на другие подложки. Таким образом, они могут быть легко применены для полупроводниковых устройств.
+
+Данное изобретение может с успехом применяться в системах высокочастотной радиосвязи, а также – в силу своей компактности — в устройствах на основе «гибкой электроники» (вроде прозрачного чипа).
+
+В <Node id="1493"/>настоящее время<Node id="1508"/> транзисторы, создаваемые Роджерсом, представляют собой «соединение» новых <Node id="1583"/>углеродных <Node id="1594"/>нанотрубок<Node id="1604"/> и прежних полупроводниковых устройств. Но чтобы увеличить эффективность таких приборов, учёные планирует применить свою технологию для создания <Node id="1749"/>нанотрубок<Node id="1759"/>, полностью состоящих из атомов полупроводников.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="206" EndNode="216">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="413" EndNode="423">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="89" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="1583" EndNode="1604">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="520" EndNode="530">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="878" EndNode="888">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1140" EndNode="1150">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="100" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="675" EndNode="686">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="709" EndNode="719">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1594" EndNode="1604">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1749" EndNode="1759">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1493" EndNode="1508">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="785" EndNode="795">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

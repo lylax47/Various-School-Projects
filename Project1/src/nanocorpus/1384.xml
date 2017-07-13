@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> До сих пор два величайших достижения <Node id="38"/>прошлого века<Node id="51"/> – теория относительности и сверхпроводимость – имели мало точек соприкосновения. Исследователи из TU Delft's Kavli Institute for Nanoscience и FOM Foundation впервые  наблюдали сверхпроводимость, осуществляемую    безмассовыми релятивистскими электронами. Для изучения явления было использовано устройство, представляющее собой биполярный транзистор из листа <Node id="411"/>графена<Node id="418"/> и сверхпроводящих электродов. Работа «Bipolar supercurrent in graphene» была опубликована в Nature. 
+ 
+ <Node id="523"/>Графен<Node id="529"/>, одинарный слой графита, был впервые получен в <Node id="577"/>2004 году<Node id="586"/>, и с тех пор интерес к нему возрастает с каждым <Node id="635"/>днем<Node id="639"/>, благодаря его особым электрическим свойствам. В частности, электроны в <Node id="712"/>графене<Node id="719"/> ведут себя так, будто не имеют массы. А это значит, что объяснение свойств <Node id="795"/>графена<Node id="802"/> невозможно без использования теории относительности. Например, электроны в <Node id="878"/>графене<Node id="885"/>, подобно свету, движутся с постоянной скоростью. 
+ 
+ Ученые присоединили лист <Node id="964"/>графена<Node id="971"/> к двум сверхпроводникам. Сверхпроводимость в цепи не нарушилась, и через <Node id="1045"/>графен<Node id="1051"/> потек сверхток. Такое явление называется эффектом Джозефсона и наблюдается для многих несверхпроводящих материалов. Особенностью в данном случае является то, что сверхток в <Node id="1225"/>графене<Node id="1232"/> обусловлен движением безмассовых электронов. Таким образом, впервые был зафиксирован релятивистский эффект Джозефсона. 
+ 
+ Также было показано, что подобное устройство может работать в роли сверхпроводящего транзистора, в котором сила тока сверхпроводимости может регулироваться напряжением. Кроме того, оказалось, что можно менять тип носителей заряда. Это могут быть как электроны, так и дырки. 
+ 
+ Открытое явление в очередной раз подтвердило важность <Node id="1688"/>графена<Node id="1695"/> как для фундаментальных исследований, так и для развития электроники будущего. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="577" EndNode="586">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="577" EndNode="586">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="635" EndNode="639">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="964" EndNode="971">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="411" EndNode="418">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="795" EndNode="802">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="712" EndNode="719">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="1225" EndNode="1232">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="38" EndNode="51">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="1688" EndNode="1695">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="1045" EndNode="1051">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="523" EndNode="529">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="878" EndNode="885">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

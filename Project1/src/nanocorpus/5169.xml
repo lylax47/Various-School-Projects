@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В двумерном (x-y, или 2D) варианте нанотехнологи давно научились делать очень много очень маленьких изделий. Иногда – предельно маленьких. Достаточно вспомнить надпись “IBM”, сделанную из отдельных атомов аргона с помощью сканирующего туннельного микроскопа. Или один монослой графита – <Node id="288"/>графен<Node id="294"/> – сотворённый и исследованный <Node id="325"/>К. Новоселовым<Node id="339"/> и <Node id="342"/>А. Геймом<Node id="351"/> с коллегами из Черноголовки и Манчестера просто путём натирания поверхности окисленного кремния графитом [1] всего <Node id="467"/>4 года назад<Node id="479"/>. Зато ныне среди всех 2D-систем <Node id="512"/>графен<Node id="518"/> – настоящая поп-звезда [2].
+
+А вот с третьим (z) измерением ситуация гораздо сложнее. Один красивый вариант выхода в z-измерение был предложен Виктором Принцем из ИФП СО РАН [3]. Но здесь мы рассмотрим ещё один нанотехнологический приём, который тоже позволяет успешно осваивать третье измерение. Это выращивание трёхмерных структур из газовой фазы с помощью сфокусированного ионного пучка (ГФ+СИП технология). Со времён Луи де Бройля известно, что λ=h/mv, где λ – длина волны, h – постоянная <Node id="1012"/>Планка<Node id="1018"/>, m – масса частицы, а v – её скорость. Так что при одинаковой скорости пучок протонов можно сфокусировать в пятнышко, которое будет примерно в 2000 раз меньше, чем у электронов. А если взять пучок ионов Ga+, то получится ещё круче. Почему именно галлий? Потому что он плавится в ладони (TFGa = 302,93 K [4]). А жидкометаллические источники ионов очень надёжны, неприхотливы, но главное, что они по яркости (т.е., по количеству частиц, испускаемых с единицы площади в единицу времени) превосходят все прочие.
+
+Мастерская наноскульптора, работающего в манере ГФ+СИП, представляет собой вакуумную камеру со столиком, на котором он и создаёт свои шедевры. К столику подведены трубочки для напуска нужных газов, ионная пушка СИП, и электронная пушка для визуализации наноизделий (хотя визуализировать можно и с помощью ионов) (см. Рис. 1).
+
+В качестве исходного сырья используется пар какого-нибудь ароматического углеводорода (например, фенантрена, С14Н10). При напуске этого пара в камеру, молекулы его адсорбируются на всей поверхности подложки-кремния, а в том месте, куда бьёт ионный луч, превращаются в аморфный углерод. Но не простой, а с большой долей sp3-гибридизованного, т.е. алмазоподобного. И если больше ничего не делать, то под ионным пучком вырастает столбик этого почти алмаза. Пучки заряженных частиц особенно хороши тем, что ими можно легко, быстро и точно управлять путём подачи напряжения на пару отклоняющих пластин, между которыми он пролетает. Поэтому для того, чтобы сделать что-нибудь поинтереснее, чем унылый столбик, достаточно сдвинуть творящий лучик на полдиаметра вбок. В этом боковом направлении и продолжится рост (Рис.2).
+
+Дальнейшее очевидно. Хотите получить пружинку – пожалуйста (Рис.3), хотите «просверлить» бактерию, то тоже можно подобрать подходящее сверло (Рис.4). А в качестве действенного средства борьбы с пьянством предлагается пить горячительные напитки из почти алмазных микрорюмок (Рис.5).
+
+Последнее усовершенствование ГФ+СИП технологии состоит в том, что теперь за процессом ваяния можно наблюдать в реальном времени. Процесс создания нанокуколки приведён на Рис.6.
+
+Таким образом, сфокусированный ионный пучок – это замечательный инструмент для изготовления самых разнообразных трёхмерных нанообъектов. Беда только в том, что все они создаются поштучно, поэтому здесь и речи нет о массовом производстве. Увы, эта технология вряд ли станет двигателем прогресса в наноиндустрии. К счастью, кроме наноиндустрии, есть ещё и наноискусство, и в этом последнем у данной технологии фактически нет конкурентов.
+
+Источники:
+ 1. K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, Y. Zhang, S.V. Dubonos, I. V. Grigorieva, A. A. Firsov. Electric field effect in atomically thin carbon films. Science, v.306, pp.666–669 (2004) 2. A.K.Geim, A.H.MacDonald. Graphene: exploring carbon flatland. Physics Today, No 8, pp.35–41 (2007) 3. Чикичев С.И. Принц-технология: <Node id="3919"/>10 лет спустя<Node id="3932"/>. ПерсТ, 2006, т.13,вып.15/16, с.1–3 4. Дж. Эмсли. Элементы. М.: Мир, 1993, с.50–51 5. R. Kometani, S.Ishihara, T. Kaito, S.Matsui. In-situ observation of three-dimensional nano-structure growth on focused-ion-beam chemical vapor deposition by scanning electron microscope. Applied Physics Express (APEX), v.1, paper 055001 (2008) 6. S. Matsui, T. Kaito, J. Fujita, M. Komuro, K. Kanda, Y. Haruyama. Three-dimensional nanostructure fabrication by focused-ion-beam chemical vapor deposition. J. Vac. Sci. Technol., v. 18, No6, pp.3181–3184 (2000) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="467" EndNode="479">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="288" EndNode="294">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="342" EndNode="351">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="512" EndNode="518">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="325" EndNode="339">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Новоселов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="3919" EndNode="3932">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1012" EndNode="1018">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Планк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

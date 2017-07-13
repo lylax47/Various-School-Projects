@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Вопрос о токсичности <Node id="23"/>углеродных <Node id="34"/>нанотрубок<Node id="44"/> в <Node id="47"/>настоящее время<Node id="62"/> остается открытым. Раньше считалось, что углеродные трубки безопасны или по меньшей мере не вызывают серьезных повреждений в клетках. Однако недавно Нанометр уже сообщал о том, что одностенные <Node id="256"/>углеродные <Node id="267"/>нанотрубки<Node id="277"/> накапливаются в ядрах макрофагов человека и вызывают гибель этих клеток.
+ 
+Дальше – больше. На этот раз исследователи из University of Dayton (США) L.Zhu, D.Chang, L.Dai и Y.Hong заинтересовались воздействием многостенных <Node id="500"/>углеродных <Node id="511"/>нанотрубок<Node id="521"/> (MWNT) на эмбриональные стволовые клетки мыши (ESC). Были рассмотрены молекулярные аспекты такого воздействия. 
+ 
+Оказалось, что MWNT способны накапливаться внутри клеток (рисунок 1). Что еще более тревожно, они вызывают повреждения ДНК, по-видимому, через генерацию активных форм кислорода. Клетка реагирует на эти повреждения при помощи белка p53 (повышением то ли его общего количества, то ли концентрации фосфорилированной формы). Поначалу это приводит к так называемому аресту клеточного цикла – клетка прекращает свое нормальное развитие и пытается справиться с повреждениями. В клетках, обработанных MWNT, уже <Node id="1139"/>через 4 часа<Node id="1151"/> можно детектировать повышенный уровень таких белков как OGG1 и Rad 51, участвующих в исправлении дефектов ДНК. 
+ 
+При дальнейшей инкубации ESC с MWNT белок p53 направляет клетки по пути апоптоза – то есть клетки умирают, когда становится ясно, что восстановить повреждения ДНК они уже не в силах. Это происходит <Node id="1464"/>примерно через сутки<Node id="1484"/> после обработки (рисунок 2). 
+ 
+Работа «DNA Damage Induced by Multiwalled Carbon Nanotubes in Mouse Embryonic Stem Cells» опубликована в Nano Letters. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="500" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="47" EndNode="62">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="34" EndNode="44">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1464" EndNode="1484">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="511" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="23" EndNode="44">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="267" EndNode="277">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1139" EndNode="1151">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="256" EndNode="277">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

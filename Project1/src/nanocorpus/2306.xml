@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Исследователи из Национального института стандартов и технологий (НИСТ) в сотрудничестве с учеными из университетов Мэриленда (Maryland) и <Node id="141"/>Ховарда<Node id="148"/> (Howard) разработали технологию получения тонких высокоэффективных <Node id="216"/>светодиодов<Node id="227"/> из <Node id="231"/>нанопроволок<Node id="243"/>. Как описано в недавней статье "365 nm operation of n-nanowire/p-gallium nitride homojunction light emitting diodes", полученные <Node id="373"/>светодиоды<Node id="383"/> испускают ультрафиолетовый свет – свет именно с той длиной волны, которая требуется для нанотехнологий, основанных на использовании света, включая хранение инофрмации.
+ 
+ 
+ 
+Световые устройства нанометрового диапазона могут быть важными блоками для нового поколения компактных недорогих устройств, включая <Node id="690"/>сенсоры<Node id="697"/> и оптические устройства передачи информации. УФ-<Node id="746"/>светодиоды<Node id="756"/>, в частности, важны для устройств хранения информации и <Node id="813"/>биологических <Node id="827"/>сенсоров<Node id="835"/>, таких как детекторы переносимых по воздуху патогенов. <Node id="891"/>Наностержни<Node id="902"/>, сделанные из класса полупроводников, включающего нитрид галлия, нитрид алюминия и нитрид индия – наиболее перспективные кандидаты для наноразмерных <Node id="1052"/>светодиодов<Node id="1063"/>.
+ 
+ 
+ 
+Команда из НИСТ использовала ряд методов синтеза, таких как фотолитография, <Node id="1147"/>травление<Node id="1156"/> и нанесение металлического покрытия. Они ориентировали <Node id="1212"/>нанопроволоки<Node id="1225"/> используя электрическое поле, что позволяло сделать методику более быстрой и менее трудоемкой.
+ 
+ 
+ 
+Одна из особенностей новых светодидов – то, что они сделаны из индивидуального соединения нитрида галлия. Каждый <Node id="1440"/>светодиод<Node id="1449"/> состоит из <Node id="1461"/>наностержня<Node id="1472"/> GaN n-типа, помещенного на тонкую пленку GaN p-типа. <Node id="1526"/>Светодиод<Node id="1535"/>, сделанный на основе p-n перехода одного соединения более эффективен по сравнению с использованием разных соединений. Он также требует меньше энергии.
+ 
+ 
+ 
+Исследователи уже изготовили более 40 <Node id="1731"/>светодиодов<Node id="1742"/>, характеризующихся очень близкими излучательными свойствами. Они также характеризуются отличной термической стабильностью.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="1731" EndNode="1742">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="141" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ховард</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанопроволока" StartNode="1212" EndNode="1225">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="1526" EndNode="1535">
+</Annotation>
+<Annotation Id="6" Type="Светодиод" StartNode="373" EndNode="383">
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="1052" EndNode="1063">
+</Annotation>
+<Annotation Id="8" Type="Светодиод" StartNode="216" EndNode="227">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Биосенсор" StartNode="813" EndNode="835">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Сенсор" StartNode="690" EndNode="697">
+</Annotation>
+<Annotation Id="12" Type="Наностержень" StartNode="1461" EndNode="1472">
+</Annotation>
+<Annotation Id="13" Type="Светодиод" StartNode="1440" EndNode="1449">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Травление" StartNode="1147" EndNode="1156">
+</Annotation>
+<Annotation Id="16" Type="Сенсор" StartNode="827" EndNode="835">
+</Annotation>
+<Annotation Id="19" Type="Наностержень" StartNode="891" EndNode="902">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанопроволока" StartNode="231" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Светодиод" StartNode="746" EndNode="756">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

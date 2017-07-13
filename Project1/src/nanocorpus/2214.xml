@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Группа студентов-исследователей Университета Райса в Хьюстоне, штат Техас (Rice University, Houston) работает над разработкой пива, которое может быть полезно в борьбе с раком и болезнями сердца. Один из лидеров группы – третьекурсник <Node id="236"/>Тейлор Стивенсон<Node id="252"/> (Taylor Stevenson) отметил, что группа использует генную инженерию для создания пива с высоким содержанием ресвератрола (resveratrol), химического компонента, известного положительным эффектом при лечении некоторых видов рака, сердечно-сосудистых заболеваний и т.д. Ресвератрол недавно был обнаружен в красном вине.
+
+Ученые из Университета Висконсина (University of Wisconsin) в <Node id="632"/>июне<Node id="636"/> объявили ресвератрол, натуральный компонент винограда, граната и красного вина- ключевой причиной так называемого Французского Парадокса –того факта, что у жителей Франции отмечено пониженное количество болезней сердца несмотря на кухню, известную своими сливочными соусами и сырами. Последние просто-таки насыщены нерастворимыми жирами, способствующими болезням сердца и сосудов. Исследователи из Висконсина отметили, что небольшие добавки ресвератрола в диету мышей среднего возраста значительно замедляет процессы старения и поддерживает сердце в здоровом состоянии. С другой стороны, использование высоко-жирной пищи в диете мышей, приводит к преждевременной смерти.
+
+Студенты-исследователи из группы <Node id="1342"/>Тейлора Стивенсона<Node id="1360"/> обратили внимание на то обстоятельство, что количество ресвератрола в красном вине варьируется от бутылки к бутылки, поскольку зависит и от сорта винограда и от условий его выращивания и от некоторых других факторов. Идея молодых ученых, большинство из которых еще не достигло юридически легального возраста для потребления алкогольных напитков, заключалась в том, что они могут создать сорт пива, в котором уровень ресвератрола будет повышен по сравнению с вином и всегда постоянен.
+
+Используя методы компьютерного программирования и моделирования, группа <Node id="1918"/>Тейлора Стивенсона<Node id="1936"/> разрабатывает генетически модифицированный тип дрожжей, которые, ферментируя пиво, одновременно будутвырабатывать ресвератрол. Для завершения расчетов группа предполагает использовать не только персональные лаптопы, но и компьютерную сеть университета.
+
+Исследования, поставленные в Университете Райса- последние по времени работы подобного типа – использующие технологические методы в поиске средств лечения таких серьезных заболеваний как рак или болезни сердца. Ряд результатов был получен совсем недавно.
+
+Так, в <Node id="2454"/>августе с.г.<Node id="2466"/> ученые Стенфордского Университета в Пало Альто, Калифорния (Stanford University in Palo Alto, California) объявили о том, что они нашли путь использования нанотехнологии, при котором химиотерапевтические препараты нацелены только на раковые клетки, не воздействуя на клетки здоровой ткани, что должно существенно уменьшить токсический эффект на организм пациента.
+
+В <Node id="2834"/>июле<Node id="2838"/>, исследователи из Калифорнийского Университета в Сан <Node id="2892"/>Диего<Node id="2897"/> (University of California, San Diego) сообщили об открытии способа использования «умных нанотехнологических бомб», что позволяет уменьшить дозы химиотерапии раковых опухолей и ограничить способность раковых клеток к метастазам.
+
+Исследователи Техасского Университета в Остине (University of Texas at Austin) в <Node id="3208"/>мае<Node id="3211"/> объявили, что ими разработан кремниевый чип, который позволяет диагностировать инфаркт быстрее и точнее.
+
+В группе <Node id="3327"/>Тейлора Стивенсона<Node id="3345"/> понимают, что новый вид дрожжей в начале работ скорее всего не прибавит вкусовых качеств пиву, поэтому студенты обратились к профессионалам-пивоварам с просьбой о помощи в оценке и усовершенствовании вкусовых качеств нового пива. Известная в Хьюстоне пивоваренная компания Arnold Brewing Co. подключилась к разработкам, предложив ряд ингредиентов, в частности, качественных пивных дрожжей. Вообще говоря, поскольку ресвератрол – химическое вещество без вкуса и запаха, исследователи надеются на высокие вкусовые качества антиракового пива. Поскольку все компоненты по отдельности работают, студенты-исследователи очень надеются на достаточно скорый прорыв в разработке.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="2454" EndNode="2466">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1918" EndNode="1936">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стивенсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1342" EndNode="1360">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стивенсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="236" EndNode="252">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стивенсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="2834" EndNode="2838">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="632" EndNode="636">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="3327" EndNode="3345">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стивенсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="3208" EndNode="3211">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="2892" EndNode="2897">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

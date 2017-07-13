@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Выделены средства на строительство нанокорпуса СГАУСегодня на заседании правительства Самарской области принято постановление о дополнительном финансировании строительства нанотехнологического корпуса Самарского государственного аэрокосмического университета (СГАУ).
+
+Деньги в размере <Node id="285"/>15 миллионов рублей<Node id="304"/> выделяются министерством экономического развития, инвестиций и торговли региона и должны быть освоены в <Node id="409"/>2008 году<Node id="418"/>. Кроме того, между ведомством и СГАУ будет заключено соглашение, по которому право собственности на часть здания (эквивалентного выделенным средствам) передадут области.
+Николай <Node id="597"/>Яковлевhttp://63.ru/…ne/7766.htmlСамарский<Node id="639"/> государственный аэрокосмический университет <Node id="684"/>(СГАУ)http://www.ssau.ru/Смешно<Node id="715"/> как-то: деньги поспешно (!) выделяются на период чуть <Node id="770"/>более месяца до Нового года<Node id="797"/> с непременным требованием – освоить их ещё в <Node id="843"/>этом году<Node id="852"/>… Уж не «рассовывают» ли власти области средства <Node id="901"/>в конце года<Node id="913"/> – в надежде их быстрого «освоения». И что это за дополнительное требование о «правах собственности на часть здания»? Как-то «подозрительно» всё это…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="901" EndNode="913">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="770" EndNode="797">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="843" EndNode="852">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="409" EndNode="418">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="597" EndNode="639">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="285" EndNode="304">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="409" EndNode="418">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="684" EndNode="715">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

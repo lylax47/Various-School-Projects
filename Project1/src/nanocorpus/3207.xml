@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Московский государственный университет им. М.В.Ломоносова автоэмиссионные свойства, аллотропные формы углерода , аморфный алмаз , нанографит, <Node id="144"/>нанотрубки<Node id="154"/>   <Node id="157"/>наноматериалы<Node id="170"/> наноэлектроника   исследованию электрофизических свойств новых аллотропных форм углерода – линейно-цепочечного и ГЦК углерода исследования, направленные на применение низкоразмерных углеродных систем в наноэлектронике                         Александров Андрей Федорович, заведующий кафедрой, профессор, доктор наук Бабаев Владимир Георгиевич, доцент, кандидат наук Беклешова Вера Федоровна, секретарь Бутылкина Наталья Александровна, секретарь Гусева <Node id="623"/>Мальвина Борисовна<Node id="641"/>, ведущий научный сотрудник, доктор наук Ершов Алексей Петрович, зам.заведующего кафедрой, доцент, доктор наук Хвостов Валерий Владимирович, старший научный сотрудник, кандидат наук 
+В группе ведутся работы по развитию методов синтеза и исследованию электрофизических свойств новых аллотропных форм углерода – линейно-цепочечного и ГЦК углерода. Проводятся исследования, направленные на применение низкоразмерных углеродных систем в наноэлектронике. 
+ 
+По разработанной в группе технологии получен новый углеродный материал на основе sp1-связей с исключительно высокими автоэмиссионными свойствами. Его эмиссионные характеристики существенно выше чем у известных углеродных модификаций (нанографит, <Node id="1340"/>нанотрубки<Node id="1350"/>, аморфный алмаз и др.). Это позволяет использовать sp1-углерод для создания широкого класса устройств на основе полевой эмиссии электронов (гигантские плоские демонстрационные дисплеи, высокоэффективные источники света, рентгеновские трубки и др). 
+   мегаджоульный емкостной накопитель энергии "Фотон" оже- и КР-спектрометры растровые электронные микроскопы рентгеновские микроанализаторы сверхвысоковакуумные камеры, оснащенные масс-спектрографами и источниками ионов и электронов сильноточный релятивистский электронный ускоритель "Тандем" современные установки молекулярно-лучевой эпитаксии установки для лазерного, ионно–лучевого и плазменного напыления тонких пленок    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1340" EndNode="1350">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="623" EndNode="641">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">секретарь</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Борисовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мальвина</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="157" EndNode="170">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="144" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

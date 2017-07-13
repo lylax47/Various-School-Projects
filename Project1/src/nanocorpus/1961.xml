@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>За расходованием средств на развитие нанотехнологий нужен госконтроль, считает депутат ГД Сергей Колесников
+Государственный контроль должен быть установлен за расходованием средств Российской корпорацией нанотехнологий и Фондом содействия реформированию ЖКХ, считает депутат Государственной Думы РФ Сергей Колесников<Node id="316"/>.<Node id="317"/>
+Сергей Колесников
+На пресс-конференции в Иркутске он сообщил, что фонд и корпорация создается в соответствии с задачами, обозначенными президентом России в послании Федеральному Собранию РФ.
+<Node id="509"/>По мнению Сергея Колесникова, создание этих структур облегчает оборот бюджетных средств, но в связи с коррупцией есть риск потерять часть денег<Node id="652"/>.
+
+Законопроект «О Российской корпорации нанотехнологий» был принят в первом чтении <Node id="736"/>14 июня<Node id="743"/>. Предусматривается, что корпорация будет иметь статус некоммерческой организацией, а ее деятельность будет финансироваться за счет средств федерального бюджета. <Node id="905"/>До 2009 года<Node id="917"/> объем бюджетных ресурсов составит <Node id="952"/>не менее 130 млрд. рублей<Node id="977"/>, при этом <Node id="988"/>5 млрд. рублей<Node id="1002"/> будет выделено уже в <Node id="1024"/>текущем году<Node id="1036"/>…
+<Node id="1038"/>http://i38.ru<Node id="1051"/>/?…Важно, КАКУЮ ЧАСТЬ денег можно потерять… Если хоть «что-то» останется для развития нанотехнологий, это одно дело, если же всё растащат, а на «дело» ничего не останется – это дело совсем другое. И, потом, в случае с «госконтролем» ситуация как в анекдоте про слона: «Съесть-то он съест, да кто ж ему даст-то?»</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1024" EndNode="1036">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="905" EndNode="917">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="952" EndNode="977">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="736" EndNode="743">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="988" EndNode="1002">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="509" EndNode="652">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1038" EndNode="1051">
+</Annotation>
+<Annotation Id="13" Type="работает" StartNode="316" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="509" EndNode="652">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="316" EndNode="317">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

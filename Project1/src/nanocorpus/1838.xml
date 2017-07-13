@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Путилов А.В. Введение в технологический маркетинг развития наноиндустрии. – М. : Издательский дом МИСиС, 2008. – 132 с. (тир. 1.500 экз.) ISBN 978–5–87623–205–2
+
+В книге описаны основные подходы к развитию технологического маркетинга в высокотехнологичной индустрии на примере нарождающейся сферы реального сектора экономики, получившей наименование наноиндустрии. Будущая конкурентоспособность продукции многих важных промышленных секторов, таких как авиационно-космическая, химическая, фармацевтическая промышленность, информационные технологии и оптика, в значительной степени зависит от исследований и открытий в области нанотехнологий и <Node id="642"/>наноматериалов<Node id="656"/>. Научно-методические положения проиллюстрированы примерами из различных предметных областей, рыночные методы описаны простым и понятным языком. Книга предназначена для широкого круга читателей.
+ОГЛАВЛЕНИЕ
+Предисловие
+
+Введение
+
+Рекомендуемая литература
+Путилов Александр Валентинович<Node id="940"/> – <Node id="943"/>генеральный директор Всероссийского НИИ неорганических материалов имени академика А.А.Бочвара, доктор технических наук, профессор, лауреат премии Правительства Российской Федерации в области науки и техники. А.В.Путилов – специалист в области физической химии, автор более 150 научных работ, из них 10 монографий, 8 авторских свидетельств и патентов. А.В.Путилов ведёт преподавательскую работу, являясь профессором Российского государственного университета нефти и газа им. И.М.Губкина. А.В.Путилов<Node id="1441"/> – <Node id="1444"/>главный редактор журнала «Цветные металлы», председатель <Node id="1501"/>Экспертного совета<Node id="1519"/> <Node id="1520"/>ВК<Node id="1522"/>,<Node id="1523"/> член специализированного докторского совета Российского химико-технологического университета им. Д.И.Менделеева, член Научно-технического совета Госкорпорации «Роснанотех».
+Хорошая книга! В этой сравнительно небольшой по объёму книге собрано немало умных мыслей и раздумий автора. Естественно, их нужно интенсивно обсуждать, дополнять, критиковать, наконец… Ведь автор – специалист в области физической химии, а у других специалистов и руководителей может быть совсем другой опыт, другие идеи и предложения. Главное, что автор затрагивает очень важные, злободневные и очень актуальные проблемы, которые, на мой взгляд, практически не находят отражения в современной научной литературе по проблемам распространения и восприятия нововведений, тем более как раз на примере наиболее близкого нам предмета – нанотехнологий и наноиндустрии. Я думаю, что всем серьёзным руководителям «Роснанотеха» стоило бы внимательно изучить эту книгу и содержащиеся в ней идеи и предложения. И не важно, что автор – член <Node id="2525"/>Научно-технического совета<Node id="2551"/> ГК «Роснанотех». На заседаниях НТС наверняка есть что обсуждать по текущим делам и проблемам. А до стратегических вопросов развития наноиндустрии часто ещё просто «не доходят руки»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="642" EndNode="656">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="1522" EndNode="1523">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1501" EndNode="1519">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Экспертного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="940" EndNode="943">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1520" EndNode="1522">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="1441" EndNode="1444">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">редактор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="2525" EndNode="2551">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Научно-технического совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="940" EndNode="943">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="1522" EndNode="1523">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="сотрудники" StartNode="1441" EndNode="1444">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В рамках инновационного проекта "ALEGRA" группа наноэлектроники AMO Макса Лемма (Max Lemme) изготовила графеновый полевой транзистор. 
+ 
+Для выполнения закона <Node id="160"/>Мура<Node id="164"/> необходимо интегрировать в кремний новые материалы. Углеродные материалы наиболее подходящие: впечатляющий потенциал использования в наноэлектрических системах был продемонстрирован <Node id="347"/>углеродными <Node id="359"/>нанотрубками<Node id="371"/> и <Node id="374"/>графеном<Node id="382"/>. 
+ 
+Традиционный CMOS-совместимый процесс был применён для изготовления транзистора на монослое углерода. По сравнению со стандартными кремниевыми транзисторами исследователи добились существенного увеличения электронной и дырочной проводимости. Более того, затвор второго транзистора был впервые помещён на лист <Node id="696"/>графена<Node id="703"/>. Полученный результат подтверждает высокий потенциал использования <Node id="771"/>графена<Node id="778"/> в наноэлектронных устройствах. 
+ 
+Подробности будут опубликованы в IEEE Electron Device Letters в <Node id="877"/>апреле 2007<Node id="888"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="696" EndNode="703">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="877" EndNode="888">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="160" EndNode="164">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мур</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="374" EndNode="382">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="359" EndNode="371">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="771" EndNode="778">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="347" EndNode="371">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

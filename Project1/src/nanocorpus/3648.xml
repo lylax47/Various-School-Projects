@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Роснанотех» размещает свои средства в крупных банках России – ИвановМОСКВА, <Node id="77"/>18 дек<Node id="83"/> – «Российская корпорация нанотехнологий» получила <Node id="134"/>130 миллиардов рублей<Node id="155"/> из вырученных государством от продажи «ЮКОСа» средств, и сейчас размещает их в крупных российских банках, сообщил первый вице-премьер РФ Сергей Иванов, возглавляющий совет по нанотехнологиям.
+ 
+«<Node id="351"/>130 миллиардов рублей<Node id="372"/> пошли (в "Роснанотех»), и они пришли, ни <Node id="414"/>одна копейка<Node id="426"/> не потерялась по дороге… Она (корпорация) сейчас занята размещением этих денег в российских банках, это крупные банки – Сбербанк, ВТБ, Газпромбанк«<Node id="574"/>, – сказал Иванов<Node id="591"/> в интервью телеканалу "Вести».
+  
+«Мы не можем рисковать просто финансовыми такими ресурсами огромными, поскольку финансирование конкретных программ в области нанотехнологий по существу еще не началось», – пояснил первый вице-премьер.
+ Пока, по его словам, определяются «правила игры».
+
+Федеральный закон о «Российской корпорации нанотехнологий» был подписан президентом России <Node id="970"/>23 июля 2007 года<Node id="987"/>. Имущество «Роснанотеха» формируется за счет имущественного взноса РФ, средств федерального бюджета, доходов, получаемых от деятельности корпорации, а также за счет добровольных имущественных взносов и пожертвований.
+<Node id="1205"/>http://www.rian.ru/…3065052.htmlХа!<Node id="1240"/> Народ с нетерпением ждёт, когда же начнутся РЕАЛЬНЫЕ дела. А это – в первую очередь – когда пойдут ДЕНЬГИ?.. Вся страна застыла в напряжённом ожидании, направив свои нетерпеливые взоры на Москву, на «Роснанотех», на С.Б.Иванова, наконец. А <Node id="1481"/>он<Node id="1483"/> говорит: «ДенЮшки кладём в банк: Мы, дескать, не можем рисковать просто финансовыми такими ресурсами огромными, поскольку финансирование конкретных программ в области нанотехнологий по существу еще не началось<Node id="1693"/>». А пока… А «пока, по <Node id="1716"/>его<Node id="1719"/> словам, определяются "правила игры»… Ничего себе ответец!.. Так СКОЛЬКО они ещё будут определять эти самые «правила игры»?.. И что это за «ПРАВИЛА» такие?.. Не отвечает «птица-тройка», и только «соседние народы» опять дивятся этим «странным русским» и чешут репу в глубоком раздумье…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="351" EndNode="591">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1716" EndNode="1719">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1481" EndNode="1483">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1205" EndNode="1240">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="351" EndNode="591">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="414" EndNode="426">
+</Annotation>
+<Annotation Id="16" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="19" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="18" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="21" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="24" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="27" Type="упоминает" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="29" Type="цитаты" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="28" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="31" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="1481" EndNode="1693">
+</Annotation>
+<Annotation Id="34" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="35" Type="темы" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="темы" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="38" Type="упоминается_с" StartNode="351" EndNode="574">
+</Annotation>
+<Annotation Id="39" Type="Деньги" StartNode="134" EndNode="155">
+</Annotation>
+<Annotation Id="36" Type="Дата" StartNode="77" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">дек</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="высказывания_заявления" StartNode="1481" EndNode="1693">
+</Annotation>
+<Annotation Id="42" Type="Дата" StartNode="970" EndNode="987">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Деньги" StartNode="351" EndNode="372">
+</Annotation>
+<Annotation Id="40" Type="упоминает" StartNode="351" EndNode="1693">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

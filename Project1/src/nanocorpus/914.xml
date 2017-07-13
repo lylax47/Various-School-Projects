@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Японские учёные исследовали изменения формы отдельной молекулы ретиналя, присоединённой к <Node id="91"/>фуллерену<Node id="100"/> C60 внутри <Node id="112"/>углеродной <Node id="123"/>нанотрубки<Node id="133"/>.
+
+При возбуждении световым импульсом молекулы ретиналя в сетчатке глаза изменяют свою форму, распрямляясь и переходя из цис-конформации в транс-форму. Это изменение формы запускает каскад биохимических реакций, в конечном итоге приводящий к возникновению электрического импульса в зрительном нерве, благодаря чему мы и способны видеть.
+
+Для того, чтобы изучить этот механизм, учёные из Национального Института Передовой Индустриальной Науки и Техники (AIST) «пришили» молекулу ретиналя к <Node id="622"/>фуллерену<Node id="631"/> C60, что позволило им «загнать» гибридный комплекс внутрь <Node id="690"/>углеродной <Node id="701"/>нанотрубки<Node id="711"/>. В данном случае <Node id="729"/>нанотрубка<Node id="739"/> играла роль держателя образца.
+
+Исследование проводилось в трансмиссионном электронном микроскопе. Благодаря использованию аберрационной коррекции и защитной роли стенок <Node id="910"/>нанотрубки<Node id="920"/> учёным удалось добиться разрешения до 0.14 нм – длина связи между атомами углерода. Таким образом стало возможным увидеть изменения отдельных связей в молекуле ретиналя.
+
+Помимо уже полученных результатов, проясняющих молекулярные механизмы зрения, новый метод может быть использован для визуализации и других молекул. Например, авторы надеются, что используя их метод, возможно будет изучить такие эффекты, как молекулярное распознавание, свёртывание белков или аллостерические процессы.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="690" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="123" EndNode="133">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="112" EndNode="133">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="701" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="910" EndNode="920">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="91" EndNode="100">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="729" EndNode="739">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="622" EndNode="631">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

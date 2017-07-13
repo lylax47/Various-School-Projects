@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Техпроцессы, предусматривающие использование 32-нм проектных норм, будут применяться в массовом производстве, по некоторым оценкам, не ранее <Node id="142"/>2010 года<Node id="151"/>.
+
+Нанотехнологии берут новый рубеж: над разработкой 32-нм микросхем в <Node id="222"/>настоящее время<Node id="237"/> работают многие отраслевые гиганты, при этом большинство из них стремится объединять свои усилия. Ведь исследования требуют колоссальных денежных вложений, к тому же объединение «умов» поможет существенно ускорить процесс разработки, что очень важно для выживания на быстроразвивающемся рынке.
+
+Более того, запуск новой фабрики, производящей чипы с соблюдением норм 32 нм техпроцесса, по данным Gartner, будет обходиться более чем в <Node id="671"/>$3 млрд.<Node id="679"/>, что вдвое превышает уровень затрат на запуск 65 нм техпроцесса! Как метко высказался по этому поводу <Node id="782"/>Дэн Хатчесон<Node id="794"/> (Dan Hutcheson), CEO компании VLSI Research, «поизводители чипов стали жертвой <Node id="874"/>Закона Мура<Node id="885"/>».
+
+Таким образом может статься, что со временем в этой гонке выиграют те, кто сможет сохранить собственное производство. Или те, кто сможет прочувствовать тенденции и вовремя объединиться с былыми конкурентами дабы не потерять всё.
+
+И вот на <Node id="1128"/>днях<Node id="1132"/> в «32-нм гонку» включились еще две компании – Matsushita и Renesas, которая является совместным предприятием Hitachi и Mitsubishi Electric. Об этом новом партнерстве во вторник сообщило печатное издание Nikkan Kogyo, правда, подтверждения на официальных сайтах производителей найти не удалось.
+
+<Node id="1428"/>На сегодняшний день<Node id="1447"/> нам известно о союзе японских компаний Toshiba и NEC, начавших сотрудничать с <Node id="1526"/>ноября<Node id="1532"/> <Node id="1533"/>прошлого года<Node id="1546"/>. Также над 32-нм техпроцессом работает огромный промышленный альянс, в который входят Samsung Electronics, IBM, Chartered Semiconductor Manufacturing, Infineon Technologies, STMicroelectronics.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1533" EndNode="1546">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="142" EndNode="151">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1428" EndNode="1447">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1526" EndNode="1532">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="671" EndNode="679">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="782" EndNode="794">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хатчесон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1128" EndNode="1132">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="142" EndNode="151">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="222" EndNode="237">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="874" EndNode="885">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мур</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Оборудование и технологические разработки компании НТ-МДТ вызвали живейший интерес посетителей Международного Форума по нанотехнологиям, организованного государственной корпорацией «Российская корпорация нанотехнологий» (РОСНАНО). Так, платформа нанотехнологических комплексов НаноФаб 100 для создания элементов наноэлектроники и наномеханики была представлена заместителю председателя Правительства РФ Сергею Иванову<Node id="419"/>,<Node id="420"/> Министру образования и науки Андрею Фурсенко, директору научного центра "Курчатовский институт" Михаилу Ковальчуку, генеральному директору РОСНАНО Анатолию Чубайсу<Node id="584"/> <Node id="585"/>и другим участникам правительственной делегации. Отмечалась лидирующая роль НТ-МДТ в разработке подобных комплексов и их возможное значение для конкурентоспособности российской высокотехнологичной продукции на мировом рынке. Высокую оценку получили также научная нанолаборатория Интегра Спектра (специально разработанная для изучения эффектов нелинейной оптики, таких как TERS, SERS и пр.), Интегра Лайф (для исследования объектов живой природы – биологических молекул и живых клеток), автоматизированный зондовый микроскоп Солвер НЕКСТ, классы для нанообразования НаноЭдьюкатор.
+ 
+В рамках пленарного заседания в <Node id="1199"/>первый день<Node id="1210"/> работы Форума состоялась дискуссия «Бизнес и нанотехнологии», в которой вместе с генеральным директором НТ-МДТ Виктором Быковым приняли участие Алексей Мордашов («Северсталь», Россия) 
+Михаил Прохоров («Группа «ОНЭКСИМ», Россия), Виктор Авдеев(«Унихимтек», Россия), <Node id="1477"/>Уве Крюгер<Node id="1487"/> (Oerlikon, Швейцария), Джонг Мин Ким (Samsung Electronics, Корея), Оуэн Кемп (Hewlett-Packard, США).
+ 
+ 
+По итогам деловых встреч был принят целый ряд важных соглашений. Так, с руководством американской корпорации FEI подписан протокол о намерениях. Планируется организация совместного производства электронных микроскопов в ОЭЗ «Зеленоград». Достигнута договоренность с представителями Weizmann Institute of Science (Израиль) о совместных разработках в области молекулярной электроники. Установлены контакты с крупными западноевропейскими фирмами-поставщиками комплектующих для нанотехнологического оборудования.
+ 
+Несомненно, прошедший Форум был крайне важен для всех инновационных и высокотехнологичных отраслей Российской промышленности. Особую гордость вызывает тот факт, что компания НТ-МДТ по праву выступила в авангарде мировых разработок в области нанотехнологий. Мы верим, что компания и в будущем сохранит высочайший темп научных исследований и продолжит создание самого современного оборудования, которое будет принято на вооружение именно отечественными предприятиями и научными центрами.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="584" EndNode="585">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="584" EndNode="585">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="работает" StartNode="419" EndNode="420">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1199" EndNode="1210">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="419" EndNode="420">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="1477" EndNode="1487">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Крюгер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

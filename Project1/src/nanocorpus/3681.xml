@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В ЦНИИ «Прометей» обсудят проблемы Национальной наносети РоссииСАНКТ-ПЕТЕРБУРГ, <Node id="80"/>14 апреля<Node id="89"/> – Совместное заседание Научно-технического совета при правительстве Петербурга, президиума Петербургского научного центра РАН и Научно-технического совета ЦНИИ конструкционных материалов «Прометей» пройдет <Node id="296"/>16 апреля<Node id="305"/> в здании института на Шпалерной улице. Об этом сообщает <Node id="362"/>Комитет по науке и высшей школе городского правительства<Node id="418"/>.
+В повестке <Node id="431"/>дня<Node id="434"/> заседания — обсуждение практической реализации работ в области наноиндустрии и <Node id="514"/>наноматериалов<Node id="528"/>.
+
+На заседании будут представлены результаты и практическая реализация работ по важнейшим инновационным направлениям:
+ фундаментальным исследованиям в области нанотехнологий и новых материалов; создании в России Национальной нанотехнологической сети; конструкционным <Node id="796"/>наноматериалам<Node id="810"/>, их разработке, промышленном освоении и коммерциализации; новым материалыам для медицины и экологии; исследовании в области нанотехнологий и <Node id="952"/>наноматериалов<Node id="966"/> в ведущих университетах Петербурга. Участники заседания совершат экскурсию по открывающемуся «Наноцентру-Прометей».
+<Node id="1083"/>http://www.rosbalt.ru/…/474653.htmlЦНИИ<Node id="1122"/> КМ <Node id="1126"/>«Прометей»http://www.crism-prometey.ru/Питерцы<Node id="1172"/> тоже решили провести смотр и «инвентаризацию» наличных сил – перед решающей схваткой за ресурсы. И это правильно! ЦНИИ КМ «Прометей» – могучее предприятие и хорошо, что оно проявило инициативу в данном вопросе и собирает всех питерских учёных, исследователей, производственников, занимающихся проблемами развития НТ. Думаю, что проведение данного форума будет в любом случае полезно для всех. Пожелаем им успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1126" EndNode="1172">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="796" EndNode="810">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="296" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1083" EndNode="1122">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="362" EndNode="418">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Комитет по науке и высшей школе городского правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="952" EndNode="966">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="514" EndNode="528">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="80" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="431" EndNode="434">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

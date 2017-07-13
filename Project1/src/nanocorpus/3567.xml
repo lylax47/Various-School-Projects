@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Первая вакансия: 
+ 
+В Центральный научно-исследовательский институт нашей компании СЕМКО срочно требуется специалист по компьютерному моделированию (CAD, CAE - computer aided engineering) в области полупроводниковых материалов и устройств (в основном - <Node id="255"/>светодиодов<Node id="266"/>), эпитаксиальных установок (MOCVD). 
+ 
+Работа в современной лаборатории, участие в проектах по разработке новых эпитаксиальных систем, разработка дизайна полупроводниковых устройств твердотельного освещения (<Node id="475"/>светодиодов<Node id="486"/>), внедрение в производство. 
+ 
+Важно: опыт компьютерного моделирования в этих областях. 
+ 
+Полный список вакансий и дополнительная информация на сайте <Node id="638"/>http://www.sem.samsung.ru/careers.html<Node id="676"/>  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="638" EndNode="676">
+</Annotation>
+<Annotation Id="3" Type="Светодиод" StartNode="475" EndNode="486">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="255" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

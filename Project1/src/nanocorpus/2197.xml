@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Светодиоды<Node id="10"/> (LEDs – light-emitting diodes) в 4 раза более эффективны, чем обычные лампы накаливания, и экологически более безопасны в сравнении с компактными флуоресцентными лампами, содержащими токсичную ртуть. Кроме того, они дольше живут (по оценкам, <Node id="253"/>более 15 лет<Node id="265"/>). Однако их широкому распространению препятствует сегодняшняя высокая стоимость – почти в 20 раз дороже ламп накаливания (<Node id="388"/>100 долл.<Node id="397"/> за 10-Вт <Node id="407"/>светодиод<Node id="416"/>, по светимости, однако, равноценный 60-Вт лампе накаливания). Своей высокой стоимости нитридгаллиевые <Node id="519"/>светодиоды<Node id="529"/> во многом обязаны дорогой сапфировой подложке, к тому же требующей введения в конструкцию дополнительных элементов – зеркал для собирания отраженного света.
+
+Исследователи Purdue University (штат Индиана, США) нарушили сложившуюся традицию, использовав для формирования GaN-<Node id="804"/>светодиода<Node id="814"/> кремниевые подложки, покрытые хорошо отражающим эпитаксиальным слоем нитрида циркония [1,2]. Нитрид циркония химически взаимодействует с кремнием, изменяя его свойства. Исследователи решили проблему, предварительно осадив на кремний барьерный слой стабильного нитрида алюминия. Эпитаксиальный слой ZrN обеспечивает омический контакт к слою GaN n-типа и служит орошим рефлектром для отраженного света, в то время как слой AlN выполняет три функции – барьер, препятствующий взаимодействию с кремнием, хороший проводник тепла и электрический изолятор. Для осаждения обоих слоев использован метод реактивного распыления. Работа опубликована в журнале Appl.Phys.Lett., 2008, v.93, p. 023109.
+
+Кремниевые подложки массово выпускаются значительно больших размеров (диаметром до 300 мм) в сравнении с сапфировыми, что позволит значительно увеличить выход <Node id="1662"/>светодиодов<Node id="1673"/> в одном процессе и таким образом снизить их стоимость. Кроме того, кремний лучше рассеивает тепло, чем сапфир, что увеличит надежность работы <Node id="1816"/>светодиодов<Node id="1827"/>.
+
+Массовый переход в домашнем освещении на <Node id="1871"/>светодиоды<Node id="1881"/> приведет к значительной экономии электроэнергии. Так, на освещение затрачивается почти пятая часть всей электрической мощности, потребляемой в США. Известно, что лампы накаливания – это, скорее, нагреватель, чем излучатель света. Они преобразуют в свет только <Node id="2142"/>10%<Node id="2145"/> потребляемого электричества, <Node id="2175"/>90%<Node id="2178"/> уходит на их нагревание. Для сравнения, белые <Node id="2225"/>светодиоды<Node id="2235"/> имеют эффективность от 47 до <Node id="2265"/>64%<Node id="2268"/>. По некоторым оценкам [3], <Node id="2296"/>светодиоды<Node id="2306"/> займут рынок освещения в течение 5–<Node id="2342"/>10 лет<Node id="2348"/>, а лампы накаливания переселятся на полки музейных хранилищ.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="407" EndNode="416">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="2175" EndNode="2178">
+</Annotation>
+<Annotation Id="2" Type="Светодиод" StartNode="1871" EndNode="1881">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2342" EndNode="2348">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="1662" EndNode="1673">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="2342" EndNode="2348">
+</Annotation>
+<Annotation Id="6" Type="Светодиод" StartNode="804" EndNode="814">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="1816" EndNode="1827">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="253" EndNode="265">
+</Annotation>
+<Annotation Id="9" Type="Светодиод" StartNode="2296" EndNode="2306">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="2225" EndNode="2235">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="2265" EndNode="2268">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="2142" EndNode="2145">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="388" EndNode="397">
+</Annotation>
+<Annotation Id="14" Type="Светодиод" StartNode="0" EndNode="10">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Светодиод" StartNode="519" EndNode="529">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

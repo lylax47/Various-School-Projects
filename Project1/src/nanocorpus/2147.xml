@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ч. Пул-мл., <Node id="12"/>Ф. ОуэнсНанотехнологии<Node id="34"/>
+(Introduction to Nanotechnology)
+
+Серия: Мир материалов и технологий (2-е дополненное издание)
+
+Издательство: Техносфера, <Node id="157"/>2006 г.<Node id="164"/> Твердый переплет, 336 стр. ISBN 5–94836–081–4 Тираж: 2000 экз. Формат: 70×100/16 Цена <Node id="251"/>267 руб<Node id="258"/>
+От издателя
+Первое руководство на русском языке, описывающее структуру и свойства <Node id="341"/>наноматериалов<Node id="355"/> от твердотельных до биологических объектов. Исчерпывающе изложены технологии изготовления и методы исследования <Node id="468"/>наноструктур<Node id="480"/>, разнообразные применения – от оптоэлектроники до катализа и биотехнологий.
+
+Второе издание дополнено материалами по методическим аспектам «индустрии наносистем» и применениям <Node id="657"/>нанотрубок<Node id="667"/> в электронике.
+
+Учебник-монография адресован широкому кругу научных работников, инженеров-электронщиков, специалистов в областях химических и биотехнологий.
+<Node id="825"/>http://www.ozon.ru/…/id/2192802/Ещё<Node id="860"/> одно популярное введение в предмет и тематику нанотехнологий. Хорошо, что в последнее время таких изданий становится всё больше. И это – здОрово! Нам книги разные нужны, нам книги разные – важны!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="251" EndNode="258">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="657" EndNode="667">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="12" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="341" EndNode="355">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="825" EndNode="860">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="157" EndNode="164">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="468" EndNode="480">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

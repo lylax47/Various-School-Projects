@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Люминесценция золей CdSe с тремя разными размерами в диапазоне 2.3 нм (зеленый) - 5.1 нм (красный) под воздействием УФ излучения (370 нм). Огромный интерес к <Node id="160"/>квантовым точкам<Node id="176"/> вызван дискретным характером энергетического спектра электронов, что отличает их от объемных полупроводников с непрерывным спектром носителей заряда. Появление дискретных уровней приводит к изменению таких фундаментальных свойств вещества, как длина волны люминесценции и поглощения. Варьирование размера <Node id="482"/>нанокристаллов<Node id="496"/> позволяет получить практически весь видимый спектр излучения на одном веществе.
+    
+ 
+      
+ 
+  
+ 
+                       
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокристалл" StartNode="482" EndNode="496">
+</Annotation>
+<Annotation Id="1" Type="Квантовая+точка" StartNode="160" EndNode="176">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Регистрация Вас ни к чему не обязывает. Тем не менее, если это случилось, то у Вас есть полный выбор:
+   забыть о том, что случилось, как о ночном кошмаре, и больше ничего вообще не делать (может быть, не самый лучший вариант),   вспомнить как-нибудь и посмотреть, как другие решают задачи,   прийти на процедуру награждения и порадоваться за остальных,   засучить рукава и назло всем недругам решить задачи и победить (наилучший вариант)   "забанить нанометр" и нажаловаться на <Node id="481"/>support@nanometer.ru<Node id="501"/> (самый обидный вариант).   
+Надеемся, что все же все у всех будет хорошо...
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="481" EndNode="501">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

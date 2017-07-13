@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Татарстан и ГК «Российская корпорация нанотехнологий» заключили соглашение о сотрудничестве в области развития наноиндустрии, сообщил гендиректор корпорации Леонид Меламед.
+
+Соглашение подписано с учетом наличия в РТ значительного научно-технического и производственного потенциала, а также намерения Татарстана стать «пилотным» регионом РФ по разработке и реализации комплексных проектов развития нанотехнологий и наноиндустрии.
+
+«Мы поддерживаем будущие центры нанотехнологий, – сказал <Node id="489"/>Л.Меламед<Node id="498"/>. – <Node id="502"/>На сегодняшний день<Node id="521"/> одним из таких центров имеет шанс стать Татарстан».
+
+По словам главы Роснанотеха, главным инструментом является инвестирование проектов вместе с частным капиталом, а льготы, которые правительство РФ заложило в госкорпорацию, являются беспрецедентными. В <Node id="776"/>настоящее время<Node id="791"/> получены заявки на проекты, суммарная стоимость которых превышает <Node id="858"/>10 млрд рублей<Node id="872"/>.
+
+По информации Меламеда, в <Node id="901"/>ближайшие 6 лет<Node id="916"/> ожидается, что объем рынка товаров с применением нанотехнологий составит порядка 3 трлн рублей, при этом ежегодно рынок будет иметь рост в <Node id="1056"/>17%<Node id="1059"/>. Перед Россией стоит задача к <Node id="1090"/>2015 году<Node id="1099"/> завоевать на мировом рынке нанотехнологий порядка <Node id="1150"/>3%<Node id="1152"/>, сообщает AK&amp;M.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="489" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1056" EndNode="1059">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="858" EndNode="872">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1090" EndNode="1099">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="502" EndNode="521">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="776" EndNode="791">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1150" EndNode="1152">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1090" EndNode="1099">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="901" EndNode="916">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

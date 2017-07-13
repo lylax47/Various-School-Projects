@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В ЮФУ обещают открыть наноцентр, у которого нет аналогов в миреВ ЮФУ готовятся к введению центра, у которого нет аналогов не только в Росии, но и в других странах мира.
+Технологический институт Южного федерального университета в г. ​Таганроге 
+«<Node id="245"/>В <Node id="247"/>сентябре<Node id="255"/> в Таганроге открывается один из лучших в России технологических наноцентров. С учетом аппаратуры получается более миллиарда рублей, туда вложенных. Можно будет посмотреть, что это такое и для каких целей государство тратит такие деньги. Что интересно, наших вложений там всего 250 миллионов – все остальное получено из других фондов. Для ученых и исследователей это необыкновенный центр<Node id="642"/>», – отметил ректор Владислав Захаревич<Node id="681"/>.
+ <Node id="684"/>http://www.dontr.ru/….woa/wa/Main?…В<Node id="720"/> Таганроге откроют центр по изучению нанотехнологийВ <Node id="773"/>сентябре<Node id="781"/> в <Node id="784"/>городе Таганроге Ростовской области<Node id="819"/> появится центр по изучению нанотехнологий, один из лучших в России и мире. Уровень вложений говорит сам за себя – почти миллиард рублей. Центр откроется на базе местного отделения Южного федерального университета.
+ 
+<Node id="1036"/>В <Node id="1038"/>сентябре<Node id="1046"/> в Таганроге открывается один из лучших в России нанотехнологических центров<Node id="1122"/>, – говорит ректор <Node id="1141"/>ЮФУ Владислав Захаревич<Node id="1164"/>. – С учетом стоимости аппаратуры получается, туда будет вложено более миллиарда рублей. Его можно будет осмотреть и узнать, для каких целей государство тратит такие деньги.
+ 
+Уровень вложений со стороны университета составил 250 миллионов, остальные средства были получены из других фондов. Как утверждают, новый центр просто необходим для ученых и исследователей, сообщает«Дон-ТР»
+<Node id="1547"/>http://kp.ru/…news/133556/Южный<Node id="1578"/> федеральный университетhttp://<Node id="1609"/>www.sfedu.ruТехнологический<Node id="1636"/> институт федерального государственного образовательного учреждения высшего профессионального образования «Южный федеральный университет» в г. <Node id="1779"/>Таганрогеhttp://www.tsure.ru/Ну<Node id="1810"/> что ж, как говорится, наши ряды растут. Инфраструктура прирастает ещё одним центром нанотехнологии – уже на юге нашей страны. В добрый путь и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1036" EndNode="1164">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1547" EndNode="1578">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1038" EndNode="1046">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="1036" EndNode="1122">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1779" EndNode="1810">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="1036" EndNode="1122">
+</Annotation>
+<Annotation Id="9" Type="расположение" StartNode="784" EndNode="819">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="245" EndNode="1122">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="245" EndNode="681">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="684" EndNode="720">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="247" EndNode="255">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1609" EndNode="1636">
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="245" EndNode="642">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="18" Type="Тональность" StartNode="1141" EndNode="1164">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="245" EndNode="681">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="245" EndNode="642">
+</Annotation>
+<Annotation Id="23" Type="упоминается_с" StartNode="245" EndNode="1122">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="24" Type="Дата" StartNode="773" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="245" EndNode="1122">
+</Annotation>
+<Annotation Id="26" Type="темы" StartNode="1036" EndNode="1122">
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="245" EndNode="642">
+</Annotation>
+<Annotation Id="28" Type="автор" StartNode="1036" EndNode="1164">
+</Annotation>
+<Annotation Id="31" Type="упоминается" StartNode="245" EndNode="1164">
+</Annotation>
+<Annotation Id="30" Type="цитаты" StartNode="1036" EndNode="1122">
+</Annotation>
+<Annotation Id="32" Type="темы" StartNode="245" EndNode="642">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

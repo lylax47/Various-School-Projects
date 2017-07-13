@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Татарстанские наноразработки поборются за федеральное финансированиеК <Node id="70"/>1 июня<Node id="76"/> в Татарстане будет сформирован комплексный проект по наноиндустрии. Об этом было заявлено на очередном заседании межведомственной рабочей группы по наноиндустрии РТ.
+Борис ПавловВ совещании приняли участие разработчики татарстанского нанотека: представители КГТУ им.Кирова, КГТУ им. А.Н. Туполева, Казанского физико-технического института Казанского научного центра РАН, Казанского госуниверситета, Института органической и физической химии им. А.Е. Арбузова, а также ФКП ГосНИИХП, ОАО «ВНИИУС», руководители академии наук РТ и другие. На заседании было представлено 40 проектов, подготовленных специалистами татарстанских вузов и научно-исследовательских учреждений.
+
+Комиссия детально рассмотрела предлагаемые разработки, поскольку следующим этапом их возможного претворения в жизнь становится включение в комплексный проект от республики для последующего финансирования из госкорпорации (ГК) «Роснанотех».
+
+Руководитель рабочей группы, первый заместитель премьер-министра республики Борис <Node id="1069"/>Павлов<Node id="1075"/> отметил, что <Node id="1089"/>для повышения конкурентоспособности татарстанской экономики важнейшим фактором является консолидация усилий республики и федерального <Node id="1223"/>правительства<Node id="1236"/> на реализацию проектов наноиндустрии<Node id="1273"/>. Именно поэтому был избран «централизованный» подход, объединяющий проекты местных разработчиков нанотехнологий. Так выявлялись перспективные предложения, которые могут быть полностью, либо частично профинансированы ГК.
+К <Node id="1496"/>1 июня<Node id="1502"/> межведомственная рабочая группа сформирует окончательный вариант проекта, о чем будет объявлено официально. К тому же сроку соискателям нужно представить и бизнес-планы заявленных предложений. На основании собранного пакета документов специалисты «Роснанотеха» проведут экспертизу, которая и определит объемы финансирования татарстанских разработок. Об окончательных итогах станет известно к <Node id="1895"/>августу<Node id="1902"/>.
+Эмилия <Node id="1911"/>ХАБИБУЛЛИНАhttp://www.e-vid.ru/…le-23106.htmИ<Node id="1956"/> это – правильно! Регионы начали постепенно понимать, что при работе «с кондачка» ничего путного у них не получится… С ГК «Роснанотех» дела нужно вести «по-взрослому». Нужно консолидировать свои усилия (ресурсы своих регионов) – беря пример, скажем, с тех же уральцев – <Node id="2226"/>http://www.nanonewsnet.ru/…ovom-formate<Node id="2265"/> – и уже затем «наваливаться всем скопом»… Пожелаем же им успехов в этом непростом, но важном деле!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1496" EndNode="1502">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1069" EndNode="1075">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">премьер-министр</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Павлов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="70" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="1223" EndNode="1236">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="цитаты" StartNode="1089" EndNode="1273">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1895" EndNode="1902">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="1069" EndNode="1273">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="1069" EndNode="1273">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="1069" EndNode="1273">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1911" EndNode="1956">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="1069" EndNode="1273">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="1089" EndNode="1273">
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="2226" EndNode="2265">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

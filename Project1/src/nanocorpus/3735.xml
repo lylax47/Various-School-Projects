@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Группа исследователей из Пенсильванского университета (University of Pennsylvania) использовали электронный пучок для того, чтобы «вручную» вырезать из тонких металлических плёнок структуры и устройства размером менее 10 нм. Их метод может повлиять на развитие нанотехнологий, включая наноэлектронику. 
+ 
+Авторы статьи, опубликованный в Nano Letters, профессор Marija Drndić и аспирант Michael Fischbein, используя новый метод, создали большое большое количество <Node id="464"/>наноструктур<Node id="476"/>: нанодиски, <Node id="489"/>нанокольца<Node id="499"/>, <Node id="501"/>нанопроволоки<Node id="514"/>, нанодырки и многополюсные нанотранзисторы (nanodisks, nanorings, nanowires, nanoholes, multi-terminal nano-transistors). 
+ 
+Drndić и Fischbein использовали электронный пучок электронного микроскопа для создания различных металлических <Node id="751"/>наноструктур<Node id="763"/>, удаляя атомы из металлических пленок, Использовались плёнки из золота, серебра или алюминия толщиной от 10 до 50 нанометров, разрезанные на полосы шириной 80 нанометров. 
+ 
+"Это всё равно, что вырезать изо льда при помощи лупы и солнечных лучей", - говорит Fischbein. "Однако, использование электронного пучка вместо солнечных лучей позволяет получить точность на атомарном уровне". 
+ 
+Описанный метод, названные TEBAL (transmission electron beam ablation lithography), позволяет контролировать процесс создания структуры в реальном времени и получать её изображение с атомным разрешением. Все структуры созданные с использованием TEBAL были сделаны «вручную», т.е. человек управлял электронным пучком и наблюдал за тем, какую форму принимает заготовка. "<Node id="1520"/>Компьютерное управление<Node id="1543"/> приведёт к более высокой степени точности, чем мы продемонстрировали, и созданию достаточно сложных структур на большой площади ", - сказал Fischbein. 
+ 
+TEBAL обладает большим практическим потенциалом, т.к. с помощью этого метода можно создавать разнообразные <Node id="1805"/>наноструктуры<Node id="1818"/>. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="1805" EndNode="1818">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="464" EndNode="476">
+</Annotation>
+<Annotation Id="3" Type="Нанопроволока" StartNode="501" EndNode="514">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="751" EndNode="763">
+</Annotation>
+<Annotation Id="5" Type="Нанокольцо" StartNode="489" EndNode="499">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="1520" EndNode="1543">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Компьютерное управление</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

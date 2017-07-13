@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>30 октября – 1 ноября<Node id="22"/> в Екатеринбурге в Государственном региональном выставочном центре (ул. <Node id="94"/>Громова<Node id="101"/>, 145) при поддержке <Node id="122"/>Министерство промышленности<Node id="149"/>, энергетики и науки Свердловской области, <Node id="192"/>Комитета промышленной политики и развития предпринимательства<Node id="253"/> Администрации г. Екатеринбурга, Уральское отделение РАН, Радиотехнический институт УГТУ-УПИ состоится межрегиональная специализированная выставка «Приборостроение. Электроника. Электротехника». Организаторы: Компания «ЭкспоГрад». 
+  Содействие развитию межотраслевых и межрегиональных связей в целях расширения производственной и сбытовой деятельности  Демонстрация современных технологий и продукции для обеспечения промышленных предприятий  Обмен передовым опытом в области приборостроения   Приборы: контрольно-измерительные, испытательные, лабораторные, диагностические  Электроника: электронные устройства, элементная база, печатные платы, микросхемы, телекоммуникационные устройства, радиостанции, АСУ, полупроводники  Электротехника: высоковольтная аппаратура, генераторы, кабельная и проводная продукция, низковольтная аппаратура, трансформаторы, реакторы, электродвигатели, электроизоляторы, электростанции, электрощитовое оборудование, источники питания, электронагревательное оборудование  Комплексная автоматизация производства  Передовые технологии производства  Оборудование, компоненты, материалы  Датчики, системы идентификации, первичные преобразователи, электроприводы  Защита интеллектуальной собственности  Специализированная литература   
+Научно-техническая конференция по тематическим направлениям, семинары, консультации специалистов, конкурс по номинациям среди участников выставки
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="192" EndNode="253">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Комитета промышленной политики и развития предпринимательства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="94" EndNode="101">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Громов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="122" EndNode="149">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерство промышленности</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Биоинженеры из Калифорнийского Университета в Беркли (University of California, Berkeley) разработали новый метод визуализации динамики биомолекул в живой клетке с высокой степенью разрешения.
+
+В новом методе визуализации профессор биоинженерии <Node id="246"/>Люк Ли<Node id="252"/> (Luke Lee) и <Node id="266"/>его<Node id="269"/> коллеги использовали принцип неоднородного поглощения света органическими и неорганическими молекулами. <Node id="374"/>Как говорит <Node id="386"/>Ли<Node id="388"/>, новый метод будет широко востребован в фармацевтике, цитологии и биомедицинской диагностике<Node id="481"/>.
+
+Благодаря этому, <Node id="501"/>Ли<Node id="503"/> смог в реальном времени проследить за процессами, происходящими внутри живой клетки. Так, например, ученые смогли увидеть, какие энзимы активируются, и увидеть экспрессию определенных генов.
+
+Методика новой технологии визуализации подробно описана в выпуске журнала Nature Methods от <Node id="788"/>18 ноября<Node id="797"/>.
+
+Несмотря на все преимущества метода ядерно-магнитного резонанса, он способен работать только с кластером клеток, а, например, для изучения процессов, происходящих в стволовых клетках, необходимо получать информацию о биохимии и молекулярной динамики внутри отдельно взятой клетки.
+
+Современные методы, позволяющие детально изучить биохимию отдельной клетки, предусматривают разрезание ее внешней мембраны, что, естественно, зачастую ведет к гибели клетки, и невозможности получить информацию о динамике молекулярных процессов в ней в реальном времени.
+
+<Node id="1353"/>Как говорит <Node id="1365"/>Ли<Node id="1367"/>, разработанный им и <Node id="1388"/>его<Node id="1391"/> коллегами метод не требует проникновения в клетку, и, следовательно, не приводит к ее гибели, позволяя ученым наблюдать за процессами, проходящими в ней<Node id="1544"/>.
+
+Основа метода, предложенного <Node id="1576"/>Ли<Node id="1578"/> – традиционная оптическая абсорбционная спектроскопия (optical absorption spectroscopy). В этой технике свет проходит через раствор с биомолекулами, и на выходе из раствора анализируются частоты видимого спектра, которые были поглощены.
+
+Так, например, белок цитохром с, имеет несколько пиков поглощения (абсорбционные пики) спектра в окрестности 550-нм длин волн.
+
+Однако при взаимодействии с другими веществами, например, при окислении, абсорбционный спектр биомолекул меняется. Эти изменения легко заметить, и поэтому абсорбционную спектроскопию применяют для изучения процессов, происходящих в клетках.
+
+Но в живой клетке достаточно много различных белков для точной работы подобной спектроскопии. Результаты могут часто накладываться друг на друга и в этом «шуме» трудно проследить процессы, происходящие с отдельно взятым белком.
+
+Для того, чтобы сделать результаты спектроскопии однозначными, ученые решили «пометить» интересующие их белки с помощью <Node id="2536"/>золотых <Node id="2544"/>наночастиц<Node id="2554"/> размерами 20–30 нанометров. Так можно точно проследить определенный белок, выделив его из тысяч остальных.
+
+Особенность <Node id="2675"/>наночастиц<Node id="2685"/> серебра и золота состоит в том, что при попадании на их поверхность света, электроны на наружной оболочке <Node id="2792"/>наночастиц<Node id="2802"/> начинают осциллировать на особых частотах, вызывая т.н. плазмонный резонанс на длинах волн от 530 до 580 нм, который ученым достаточно просто обнаружить.
+
+Также длины волн плазмонного резонанса <Node id="2997"/>наночастиц<Node id="3007"/> совпадает с абсорбционными пиками цитохрома с.
+
+Кроме цитохрома с <Node id="3074"/>Ли<Node id="3076"/> и <Node id="3079"/>его<Node id="3082"/> коллеги смогли маркировать <Node id="3110"/>наночастицами<Node id="3123"/> серебра гемоглобин, повторив эксперимент по мониторингу белка в клетке.
+
+<Node id="3197"/>Как говорит <Node id="3209"/>Ли<Node id="3211"/>, разработанная исследователями техника убивает двух зайцев сразу: увеличивает разрешение до отдельных молекул, и позволяет прослеживать их состояние в живой клетке<Node id="3375"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="374" EndNode="481">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1388" EndNode="1391">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1576" EndNode="1578">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1353" EndNode="1544">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="3197" EndNode="3375">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1365" EndNode="1367">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="3197" EndNode="3375">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="501" EndNode="503">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="3209" EndNode="3211">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="2997" EndNode="3007">
+</Annotation>
+<Annotation Id="15" Type="Наночастица+золота" StartNode="2536" EndNode="2554">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="3079" EndNode="3082">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="788" EndNode="797">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="266" EndNode="269">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="374" EndNode="481">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="386" EndNode="388">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="2792" EndNode="2802">
+</Annotation>
+<Annotation Id="23" Type="автор" StartNode="1353" EndNode="1544">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="3110" EndNode="3123">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="2675" EndNode="2685">
+</Annotation>
+<Annotation Id="26" Type="Наночастица" StartNode="2544" EndNode="2554">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="246" EndNode="252">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="3074" EndNode="3076">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

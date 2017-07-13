@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Вице-президент РАН предлагает создать в РФ три центра нанотехнологийНОВОСИБИРСК, 6 июн – Вице-президент РАН, председатель сибирского отделения академии Александр Асеев предлагает создать в России три центра по ведению разработок в сфере нанотехнологий – в Москве, Санкт-Петербурге и Новосибирске.
+ «<Node id="299"/>Одно из мышлений, которое мы пытаемся претворить в жизнь, состоит в том, что в России должно быть организовано три центра нанотехнологий, и базироваться они должны на связке из трех городов<Node id="488"/>», – сказал Асеев<Node id="505"/> в пятницу журналистам.
+ 
+По его словам, головным центром должен стать Курчатовский центр по нанотехнологиям при МГУ (Москва), вторым – Санкт-Петербургский научно-образовательный физико-технологический центр, который был образован другим вице-президентом РАН <Node id="764"/>Жоресом<Node id="771"/> <Node id="772"/>Алферовым<Node id="781"/>. Третья площадка – новосибирский Академгородок с Новосибирским госуниверситетом (НГУ) и физматшколой.
+ 
+«<Node id="887"/>Первые обращения в правительство уже состоялись. Думаю, что решение о финансировании этих центров будет принято<Node id="998"/>», – сказал Асеев<Node id="1015"/>.
+  Глава сибирского отделения академии констатировал, что «в рамках бюджета РАН задачи по усилению этих центров для полноценной работы решить невозможно». «Здесь нужно специальное правительственное решение, которое когда-то было по созданию Академгородка», – пояснил вице-президент.
+ <Node id="1300"/>http://www.rian.ru/…9421570.htmlНу<Node id="1334"/> ладно, допустим… А куда тогда мы денем ГК «Роснанотех» во главе с тов./г-ном <Node id="1412"/>Меламедом Л.Б.<Node id="1426"/>? Ведь он уже столько соглашений понаподписывал, столько людей понапринимал в свою «команду» – молодых, энергичных, умеющих играть в теннис…;-))) Правда, вот никаких «нанотехнологиев» пока не видно… И потом, ведь все денЮШки как раз и ушлИ в Госкорпорацию. На какие такие «шишы» теперь создавать эти центры?.. Это ведь и вице-президенты РАН понимать должны…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="772" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="887" EndNode="998">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="цитаты" StartNode="299" EndNode="488">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="299" EndNode="1015">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="764" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="299" EndNode="488">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="299" EndNode="1015">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="299" EndNode="1015">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="299" EndNode="1015">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1412" EndNode="1426">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1300" EndNode="1334">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="887" EndNode="998">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="887" EndNode="1015">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="299" EndNode="505">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="299" EndNode="505">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="887" EndNode="1015">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

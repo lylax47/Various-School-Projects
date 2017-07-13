@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>     Федеральное агентство по науке и инновациям РФ  проводит открытый конкурс 
+на право заключения государственных контрактов на выполнение научно-исследовательс- 
+ких работ для государственных нужд в рамках федеральной целевой программы «Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на <Node id="348"/>2007-2012 годы<Node id="362"/>» 
+(мероприятие 1.3 Программы – VI очередь) 
+ Предмет государственного контракта: 
+<Node id="445"/>ЛОТ<Node id="448"/> 1 
+2007-3-1.3-00-01. Работы по проведению проблемно-ориентированных поисковых 
+исследований и созданию научно-технического задела в области индустрии 
+наносистем и материалов, выполняемых в рамках международного научного 
+сотрудничества со странами Европейского союза. 
+ 
+Прием заявок на участие в конкурсе заканчивается в <Node id="772"/>11.00 часов<Node id="783"/>  <Node id="785"/>23 мая 2007 года<Node id="801"/>. 
+Срок выполнения работы: <Node id="828"/>июнь - ноябрь 2007 года<Node id="851"/>. 
+Конкурсная документация размещена на сайтах: 
+ 
+http://www.fasi.gov.ru; <Node id="926"/>http://fcntp.ru<Node id="941"/> 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="348" EndNode="362">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="785" EndNode="801">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="926" EndNode="941">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="828" EndNode="851">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="445" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лот</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="772" EndNode="783">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Лаборатория прикладных нанотехнологий А.Н.Белоусова магнитоуправляемый сорбент , <Node id="83"/>нанопорошок<Node id="94"/>, нанотехнологии   <Node id="113"/>Наноматериалы<Node id="126"/>   поиск оптимального метода и способа применения продуктов нанотехнологии с целью универсальной коррекции гомеостатических систем живого организма на клеточном и субклеточном уровнях, изучение биохимических процессов старения клетки и механизмов апоптоза разработка, изучение и практическое внедрение продуктов нанотехнологий в область медицины и биологии. создание новых продуктов нанотехнологии медико-биологического значения                         Андрей Николаевич Белоусов , заведующий лабораторией, доктор наук 
+Продукты лаборатории 
+ 
+В <Node id="672"/>настоящее время<Node id="687"/>, на основе химического синтеза магнитных жидкостей Белоусовым А.Н. разработан и внедрен в клиническую практику ряд препаратов нанотехнологии. Впервые в медицинской практике созданы и клинически апробированы продукты нанотехнологии — магнитоуправляемый сорбент «МУС-Б» для экстракорпоральной детоксикации биологических жидкостей, биологически-активная добавка «МИКРОМАГ-Б», магнитоуправляемый сорбент для интракорпоральной коррекции биологических жидкостей «ИКББ».    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="672" EndNode="687">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="113" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанопорошок" StartNode="83" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

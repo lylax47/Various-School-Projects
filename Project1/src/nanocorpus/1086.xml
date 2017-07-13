@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из Испании удалось установить, что островки <Node id="52"/>графена<Node id="59"/> нанометровых размеров могут быть магнитными.
+
+Это удивительно потому, что на атомарном уровне <Node id="154"/>графен<Node id="160"/> не проявляет магнитных свойств, а графеновые кластеры, напротив, этими свойствами обладают.
+
+Фернандес Россье (Fernandez Rossier), один из исследователей из Универститета Аликанте (Alicante University), рассказывает, что грфеновая наноэлектроника намного перспективней современной кремниевой.
+
+Это связано с тем, что электроны в «двумерном» <Node id="502"/>графене<Node id="509"/> ведут себя как безмассовые фермионы <Node id="546"/>Дирака<Node id="552"/>, а процессы, происходящие с ними описываются уже квантовой механикой.
+
+Также благодаря краевым и поверхностным эффектам электронные свойства графеновой пленки существенно отличаются от «объемного <Node id="749"/>графена<Node id="756"/>».
+
+Россье и <Node id="769"/>его<Node id="772"/> коллеги обнаружили еще одно интересное свойство графеновых кластеров небольшого размера – спонтанную поляризацию спина, связанную с формной и размерами немагнитного ранее <Node id="944"/>нанокластера<Node id="956"/>.
+
+Интересно то, что магнетизм проявляется только тогда, когда <Node id="1019"/>нанокластер<Node id="1030"/> формирует треугольник или же любую гексагональную структуру. А это уникально для структуры графеновых <Node id="1133"/>наноматериалов<Node id="1147"/>, говорит Россье.
+
+Как говорят ученые, их исследование открывает новый тип магнетизма, возникающий от изменения спектра кластера, поэтому немагнитные материалы и становятся магнитными.
+
+А это, в свою очередь может вызвать новые изыскания в области наноэлектроники и наномагнетизма.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="154" EndNode="160">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанокластер" StartNode="1019" EndNode="1030">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="749" EndNode="756">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="769" EndNode="772">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="546" EndNode="552">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="52" EndNode="59">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="1133" EndNode="1147">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="502" EndNode="509">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанокластер" StartNode="944" EndNode="956">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

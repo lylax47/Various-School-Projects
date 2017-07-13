@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Основной рынок современной электроники составляет продукция для индивидуальных потребителей (мобильные телефоны, MP3, флэшки, персональные компьютеры и т.п.). Чтобы удержать свои позиции на этом высококонкурентном рынке, производители заинтересованы в массовом производстве продукции с низкой стоимостью.
+
+Отсюда интерес к кремниевым подложкам все большего диаметра для снижения удельных (в пересчете на один чип) производственных расходов. Фабрики, работающие с кремниевыми подложками диаметром 300 мм, появились в <Node id="517"/>2000 г.<Node id="524"/>, а сегодня уже активно дисскутируется вопрос о переходе на 450 мм.
+
+Какова цена вопроса? По мнению Г.Дэна Хатчесона (G. Dan Hutcheson), исполнительного директора консалтинговой компании VLSI Research Inc., достаточно вложить в исследования и разработки 3–<Node id="780"/>4 млрд. долл.<Node id="793"/> и 450 мм фабрика станет реальностью. Но не так скоро, как хотелось бы наиболее заинтересованным производителям.
+
+Intel (США), Samsung (Ю.Корея), TSMC (Тайвань) и Toshiba (Япония) хотели бы иметь такую фабрику уже к <Node id="1009"/>2012 году<Node id="1018"/>. Хатчесон называет, как более реальный срок, период <Node id="1071"/>с 2020 по 2025 годы<Node id="1090"/>.
+
+Автор: C.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="780" EndNode="793">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1009" EndNode="1018">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1009" EndNode="1018">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="517" EndNode="524">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1071" EndNode="1090">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

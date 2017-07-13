@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Таганроге начал работу центр нанотехнологий<Node id="45"/>17 сентября<Node id="56"/> в Таганроге начал работу научно-образовательный центр по разработке нанотехнологий. Он открыт на базе технологического института Южного федерального университета. На новейшее оборудование было потрачено <Node id="260"/>более 400 миллионов рублей<Node id="286"/> из федерального бюджета.
+ Одна из главных задач центра – целевая подготовка кадров высшей квалификации, а также внедрение наукоемких технологий в повcедневную жизнь.  
+«Основная цель центра нанотехнологий – это более тесная интеграция науки и образования. Студенты будут заниматься на передовом рубеже науки и здесь смогут освоить эту новую технику и технологии», – сообщил директор научно-образовательного центра ЮФУ «Нанотехнология» Борис Коноплев.
+ <Node id="739"/>http://www.dontr.ru/…oa/2/wa/Main?…Технологический<Node id="789"/> институт Южного федерального <Node id="819"/>университетаhttp://www.tsure.ru/Ну<Node id="853"/> и замечательно! Значит, в нашей сети научно-образовательных центров появилась ещё одна мощная «единица». Одна из главных задач центра — целевая подготовка кадров высшей квалификации, а также внедрение наукоемких технологий в повcедневную жизнь. Пожелаем новых успехов и достижений новому центру, его преподавателям и будущим исследователям, учёным и специалистам в области НТ и её применений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="45" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="739" EndNode="789">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="819" EndNode="853">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="260" EndNode="286">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

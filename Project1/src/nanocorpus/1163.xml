@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Моше Шукер (Moshe Shuker) и <Node id="29"/>его<Node id="32"/> коллеги из израильского технологического университета Technion, а также — специалисты из института Вайзмана (Weizmann Institute of Science), провели опыт по хранению изображений в атомарном паре.
+
+В качестве среды хранения информации выступал горячий (52 градуса по <Node id="299"/>Цельсию<Node id="306"/>) рубидиевый пар (дополненный неоном).
+
+Пар находился в 5-сантиметровой ячейке. Исследователи направляли в неё световые лучи, несущие изображение (цифры 2, например, или трёх палочек).
+
+Далее свет поглощался атомами рубидия и исчезал. А позже изображение восстанавливалось — пар излучал свет, воспроизводя довольно точно сохранённое трёхмерное световое поле.
+
+Время хранения информации достигало 30 микросекунд. Причём изображение той же двойки хранилось в «зашифрованном» виде — в сочетании квантовых состояний атомов, составляющих пар в ячейке.
+
+По словам Шукера, отправной точкой для данных опытов послужила работа Джона Хоуэлла (John Howell) из университета Рочестера (University of Rochester): в <Node id="1007"/>2007 году<Node id="1016"/> он продемонстрировал так называемую систему хранения данных на одном фотоне, фактически научившись «замораживать» образы букв.
+
+Правда, у Джона картинки сохранялись всего на 100 наносекунд, а Шукер и <Node id="1217"/>его<Node id="1220"/> коллеги сумели продлить это время в 300 раз. Каким образом?
+
+Когда импульс попадает в рубидиевый пар, свет интенсивно поглощается и возбуждает атомы. Если на такой газ направить второй луч, он побуждает атомы вернуться к исходным состояниям, при этом газ излучает ранее поглощённые фотоны — с теми же фазами, той же интенсивностью и прочими исходными параметрами. Это явление называется электромагнитно-индуцированная прозрачность.
+
+В опытной установке на ячейку сначала направляли два луча — один с изображением, второй — управляющий. В момент отключения второго луча свет задерживался в рубидиевом облаке.
+
+После включения луча номер два образ цифр или чёрточек вновь возникал в ячейке и отправлялся дальше — к регистрирующей аппаратуре.
+
+Поскольку время задержки «данных» в серии опытов достигало 30 микросекунд, учёные не могли не заметить влияние движения атомов газа на конечное изображение. Попросту картинки расплывались.
+
+Но физики придумали, как нивелировать этот эффект. В исходном луче соседние элементы картинки кодировались волнами со смещёнными на 180 градусов фазами. Когда некоторые из атомов газа, «впитавших» это изображение, значительно сдвигались со своих первоначальных мест, излучённые ими волны просто гасили друг друга.
+
+Левый большой прямоугольник показывает изображение, сохранённое в ячейке без смещения фаз на время (сверху вниз) в 2, 10, 20 и 30 микросекунд. Самый левый столбик — фактический эксперимент. Правее видно моделирование на компьютере. Правый же большой прямоугольник демонстрирует то же самое изображение, замороженное на то же время, но уже с применением технологии смещения фаз. Видно, что чёрточки расплываются намного меньше (фото M. Shuker et al.).
+
+Шукер и <Node id="2927"/>его<Node id="2930"/> коллеги полагают, что придуманный ими метод хранения информации пригодится при создании оптических и <Node id="3032"/>квантовых компьютеров<Node id="3053"/>, причём в момент, когда данные хранятся в виде набора квантовых состояний атомов, над ними ещё можно и производить различные манипуляции, воздействуя на атомы в облачке пара.
+
+Таким образом, после письма на воде учёные ещё и научились делать «надписи» на атомарном паре, субстанции, которая, казалось бы, мало подходит для хранения образов.
+
+Подробности опыта изложены в статье его авторов в Physical Review Letters.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Квантовый+компьютер" StartNode="3032" EndNode="3053">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="29" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1007" EndNode="1016">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1007" EndNode="1016">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="299" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2927" EndNode="2930">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1217" EndNode="1220">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Американское отделение Yamaha Motor Corporation вчера представило миру первую линейку корпусов для персонального водного транспорта, изготовленных из запатентованного материала NanoXcel ™ с использованием нанотехнологий.
+
+Новая технология основана на использовании прессовки с высокой степенью сжатия и нанотехнологий, что позволяет компании производить конструкции, на <Node id="371"/>25%<Node id="374"/> более лёгкие, чем было достижимо ранее, и при этом более прочные. Заявление Yamaha стало первым серьёзным изменением в технологиях производства лодочных корпусов за <Node id="540"/>десятилетия<Node id="551"/>.
+
+<Node id="554"/>По словам президента Марка Спикса, <Node id="589"/>президента Yamaha Watercraft Group, потребители смогут сразу заметить преимущества технологии NanoXcel<Node id="691"/>. Корпуса из нового материала ведут себя в воде более проворно, нежели всё, что ранее производилось компанией. Погоню за новыми технологиями компания намерена вести везде, где возможно принести реальную пользу потребителям.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="554" EndNode="691">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="371" EndNode="374">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="589" EndNode="691">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="554" EndNode="691">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="554" EndNode="691">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="589" EndNode="691">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="554" EndNode="691">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="540" EndNode="551">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

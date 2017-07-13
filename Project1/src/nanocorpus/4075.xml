@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компактной флэш-памятью пользуются сегодня почти все. Но немногие знают, какой путь они прошли от лаборатории на рынок, и кто стоял у истоков этого изобретения. Нанотехнологии позволят в будущем существенно уменьшить размеры флэш-памяти и увеличить ее объем, но без изобретателей эти популярные устройства вообще могли не появиться
+
+Многие знаменитые изобретатели могут сказать вам, что большая идея пришла к ним, как мгновенное озарение (англ. flash of inspiration), типа легендарного архимедовского «Эврика! Я нашел!». К японскому профессору <Node id="545"/>Фудзио<Node id="551"/> <Node id="552"/>Масуока<Node id="559"/> (Fujio Masuoka), изобретателю флэш-памяти, момент «Эврика!» пришел после многих <Node id="640"/>лет<Node id="643"/> напряженного труда и упорного штурма высоты «ИС» (интегральные схемы), так что в названии изобретения, flash, заключена некоторая парадоксальность. Флэш-память (в широком обиходе – «флэшка») – это энергонезависимое запоминающее устройство (ЗУ), которым оснащены все мобильные телефоны, MP3 плееры, цифровые камеры, а теперь во все увеличивающихся масштабах и персональные компьютеры (энергонезависимая – т.е., данные сохраняются при отключенном питании). По оценкам, объем рынка флэш-памяти в <Node id="1137"/>2007 г.<Node id="1144"/> составил <Node id="1154"/>почти 22 млрд. долл.<Node id="1174"/> и имеет устойчивую тенденцию к росту.
+
+Ранее относительно дешевую энергонезависимую память делали на магнитных лентах, устройство – громоздкое, требующее постоянного места для размещения.
+
+В компании Toshiba проф. <Node id="1389"/>Масуока<Node id="1396"/> начал работать над запоминающим устройством, называемом DRAM (dynamic random access memory, динамическая память с произвольной выборкой, в русской терминологии – ДОЗУ – динамическое оперативное запоминающее устройство). Он разработал ДОЗУ емкостью 1 Мб, и это было в то время большим прорывом. К сожалению, при отключении питания сохраняемая информация в ДОЗУ безвозвратно терялась. Создание портативной энергонезависимой памяти могло бы открыть неограниченные возможности для применений. Было понятно, что очень трудно построить энергонезависимое хранение каждого отдельного бита информации, не увеличивая размер микросхемы до неприемлемых размеров.
+
+Проф. <Node id="2055"/>Масуока<Node id="2062"/> пошел другим путем: вместо того, чтобы делать запоминающую ячейку для каждого отдельного бита, лучше хранить информацию в больших пакетах (группах). Большой пакет информации можно сохранять в более компактных и простых схемах. Ему не удалось убедить в конструктивности своей идеи компанию Toshiba, но сыграло роль его упрямство – <Node id="2393"/>он<Node id="2395"/> стал работать над своей идеей самостоятельно по ночам и выходным <Node id="2461"/>дням<Node id="2465"/>. В результате в <Node id="2482"/>1980 г.<Node id="2489"/> <Node id="2490"/>Масуока<Node id="2497"/> зарегистрировал патент на флэш-память типа NOR (not/or). До истинно триумфальной флэшки оставалось еще <Node id="2601"/>4 года<Node id="2607"/>.
+
+<Node id="2610"/>Масуока<Node id="2617"/> пришел к названию «Flash», потому что его поразила скорость, с которой можно было стирать информацию на любой стадии – в одно мгновение, как мелькающий 25-й кадр! Когда в <Node id="2789"/>1984 г.<Node id="2796"/> проф. <Node id="2803"/>Масуока<Node id="2810"/> рассказал о своем новом приборе на конференции (International Electronics Developers' Meeting (IEDM), США), американские полупроводниковые компании сразу поняли, какая потенциальная опасность грозит их лидерству. А Toshiba была всего лишь удивлена, когда Intel попросила для изучения несколько образцов этой новой флэш памяти.
+
+Ирония состоит в том, что Toshiba действительно изготовила несколько образцов по этой поистинне прорывной технологии, чтобы Intel смогла оценить, как они работают. Intel, не мешкая, перевела на разработку версии флэш памяти 300 сотрудников, трудившихся до этого над проектом DRAM. Toshiba, в свою очередь, предоставила в распоряжение проф. <Node id="3479"/>Масуока<Node id="3486"/> 5 инженеров, чтобы он «часть своего времени» затратил на решение проблемы возможной коммерциализации своего изобретения. Не удивительно, что Intel стала мировым лидером во флэш памяти, хорошо пополнив (и продолжая пополнять) свои финансовые ресурсы.
+
+Действительно, <Node id="3753"/>30 лет назад<Node id="3765"/> японские компании во всем следовали по тропе, проложенной компаниями США, особенно в области инноваций. Никто не мог поверить, что японец может изобрести новую технологию. (Аналогично и в России , посвященные знают, как тихо плакал мужественный главный конструктор оригинальных компьютеров (тогда – ЭВМ) типа Урал, когда «зарубали» этот проект в пользу американской версии – нужно найти свидетелей и рассказать об этом! А <Node id="4188"/>Масуока<Node id="4195"/> пошел дальше.
+
+В <Node id="4213"/>1987 г.<Node id="4220"/> он создал новое запоминающее устройство, известное как NAND (not/and) флэш память, которая, как надеется проф. <Node id="4332"/>Масуока<Node id="4339"/>, в скором времени заменит жесткие диски в современных компьютерах..
+
+С одной стороны, NAND флэш с высокой плотностью записи данных сконструирована с оптимальным соотношением «стоимость/бит» для использования в потребительских приборах, таких как цифровые камеры и USB твердотельные диск-драйверы. В <Node id="4639"/>1992 году<Node id="4648"/> <Node id="4649"/>Масуока<Node id="4656"/>, уже покинув компанию, отсудил у нее компенсацию (<Node id="4707"/>почти 1 млн. долл.<Node id="4725"/>) за свое изобретение, принесшее полупроводниковым компаниям мира многомиллионные прибыли. Флэш память в <Node id="4830"/>ближайшие несколько лет<Node id="4853"/> не будет иметь альтернативных конкурентов.
+
+Сейчас <Node id="4905"/>Масуока<Node id="4912"/> готовит новое потрясение в полупроводниковой технологии в рамках трехмерной интеграции. Потрясение – это мнение самого <Node id="5032"/>Масуока<Node id="5039"/>, а ему, как показывает опыт, стоит доверять. Но это уже другая история.
+
+У меня в кармане 4Гб флэшка, купленная походя в ближайшем киоске за <Node id="5181"/>1000 руб.<Node id="5190"/>, а в этой флэшке весь мир, мой мир: фото семьи, детей, дедов, прадедов, друзей, записи бесед с однокурсниками, музыкальные послания друзей, интересные статьи по нанотехнологиям, вот эта публикация о <Node id="5390"/>Масуока<Node id="5397"/> и тысячи других приятностей. В моем кармане – весь мой мир. То, что вчера казалось экстраординарным, сегодня стало обыденным.
+
+Ариготоу, <Node id="5535"/>Масуока<Node id="5542"/>, саенара!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="4213" EndNode="4220">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="4905" EndNode="4912">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="2789" EndNode="2796">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="5535" EndNode="5542">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1389" EndNode="1396">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="3753" EndNode="3765">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="5181" EndNode="5190">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="5390" EndNode="5397">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2610" EndNode="2617">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="545" EndNode="551">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фудзио</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2490" EndNode="2497">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="4639" EndNode="4648">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="640" EndNode="643">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="1137" EndNode="1144">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="2803" EndNode="2810">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="4332" EndNode="4339">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="2393" EndNode="2395">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="4707" EndNode="4725">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="3479" EndNode="3486">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="2461" EndNode="2465">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="5032" EndNode="5039">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="2601" EndNode="2607">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="4649" EndNode="4656">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="4830" EndNode="4853">
+</Annotation>
+<Annotation Id="31" Type="Год" StartNode="4639" EndNode="4648">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Деньги" StartNode="1154" EndNode="1174">
+</Annotation>
+<Annotation Id="33" Type="Год" StartNode="2482" EndNode="2489">
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="Персона" StartNode="552" EndNode="559">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Персона" StartNode="4188" EndNode="4195">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="2055" EndNode="2062">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Масуока</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

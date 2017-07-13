@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Франции впервые синтезировали химически инертные и при этом биологически совместимые <Node id="96"/>квантовые точки<Node id="111"/> на основе <Node id="122"/>наночастиц<Node id="132"/> карбида кремния, которые могут использоваться во флуоресцентной диагностике и исследованиях живых клеток.
+
+Квантовые полупроводниковые точки групп II-IV и III-IV очень полезны в медицинской диагностике, но из-за их высокой токсичности применение <Node id="379"/>наночастиц<Node id="389"/> ограничено и не получило массового клинического распространения. Но нанотехнологии не стоят на месте, поэтому в ближайшем будущем мы сможем увидеть медицинскую диагностику, использующую <Node id="576"/>квантовые точки<Node id="591"/>.
+
+Жак Ботсоа (Jacques Botsoa) из Института Нанотехнологий в Лионе (Institut des Nanotechnologies, Lyon) нашли способ решения этой проблемы. Созданные ими <Node id="746"/>квантовые точки<Node id="761"/> из карбида кремния характеризуются высокой люминесценцией и при этом они химически инертны, что позволяет их использовать без защитного полимерного покрытия. Более того, <Node id="932"/>квантовые точки<Node id="947"/> могут свободно проникать через клеточные мембраны и «метить» отдельные живые клетки, что, несомненно, открывает новые возможности для клеточной диагностики.
+
+Ученые синтезировали <Node id="1127"/>квантовые точки<Node id="1142"/> благодаря методу электрохимического анодированного <Node id="1194"/>травления<Node id="1203"/> поликристаллической подложки 3C-SiC. Далее, сформированный пористый слой был отделен от субстрата и размолот в порошок, который, в свою очередь, был помещен в буферный раствор Кребса. Полученную взвесь обработали на центрифуге, получив стабильный <Node id="1451"/>коллоидный раствор<Node id="1469"/> с содержанием <Node id="1484"/>наночастиц<Node id="1494"/>-<Node id="1495"/>квантовых точек<Node id="1510"/> диаметром всего от 1 до 4 нанометров.
+
+Так как размеры этих <Node id="1571"/>наночастиц<Node id="1581"/> меньше Боровского диаметра экситона (около 5,4 нанометра), то они характеризуются высокими флуоресцентными качествами.
+
+В тестах ученые исследовали культуры клеток 3T3-L1 фибробластов <Node id="1766"/>квантовыми точками<Node id="1784"/> и получали стабильную <Node id="1807"/>флуоресценцию<Node id="1820"/>, обрабатывая культуру с <Node id="1845"/>наночастицами<Node id="1858"/> ультрафиолетом.
+
+Теперь Жак и <Node id="1889"/>его<Node id="1892"/> коллеги изучат длительное поведение <Node id="1929"/>квантовых точек<Node id="1944"/> в живых тканях, а именно, их накопление в клетках.
+
+О своих исследования ученые сообщили в текущем выпуске Nano Letters.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="1766" EndNode="1784">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1889" EndNode="1892">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Квантовая+точка" StartNode="932" EndNode="947">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="379" EndNode="389">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1845" EndNode="1858">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Флуоресценция" StartNode="1807" EndNode="1820">
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="1929" EndNode="1944">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Квантовая+точка" StartNode="746" EndNode="761">
+</Annotation>
+<Annotation Id="10" Type="Квантовая+точка" StartNode="96" EndNode="111">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1484" EndNode="1494">
+</Annotation>
+<Annotation Id="14" Type="Квантовая+точка" StartNode="1127" EndNode="1142">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="122" EndNode="132">
+</Annotation>
+<Annotation Id="17" Type="Квантовая+точка" StartNode="576" EndNode="591">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1571" EndNode="1581">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Квантовая+точка" StartNode="1495" EndNode="1510">
+</Annotation>
+<Annotation Id="20" Type="Коллоид" StartNode="1451" EndNode="1469">
+</Annotation>
+<Annotation Id="22" Type="Травление" StartNode="1194" EndNode="1203">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

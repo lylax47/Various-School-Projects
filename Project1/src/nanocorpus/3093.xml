@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Первая международная конференция "Гибридные материалы - 2009" состоится <Node id="74"/>15-19 марта<Node id="85"/> во Франции, в Туре. 
+Основная тематика конференции: 
+  Biohybrides and Biomaterials 
+(including bioinspired, biomimetic biomaterials, biomineralization, green materials, 
+synthetic/biopolymer conjugates)  Bottom-up Approaches to Functional Nanomaterials and Nanocomposites 
+(including sol-gel, functional nanoparticles and nanotubes, polymer-matrix nanocomposites)  Functional Porous Materials 
+(including zeolites, MOFS, meso-porous materials, foam, hierarchically structured materials)   
+Срок подачи тезисов - до <Node id="602"/>15 сентября 2008 г.<Node id="621"/> 
+ 
+NEW! Если вы подпишитесь на Email-рассылку на главной странице конференции, то сможете стать одним из 5 счастливчиков, кому Оргкомитет полностью оплатит пребывание на конференции. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="602" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="74" EndNode="85">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

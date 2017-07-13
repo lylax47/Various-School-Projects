@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На химфаке МГУ готовят нанореволюциюXXI <Node id="40"/>век<Node id="43"/> станет <Node id="51"/>веком<Node id="56"/> нанотехнологий. Это усвоили и запомнили даже далёкие от науки люди. Наноразработки ведутся во всем мире, это самая перспективная отрасль науки. Одна из столичных лабораторий – на базе химического факультета МГУ. Здесь молодые учёные получили карт-бланш – и добились в экспериментах заметных результатов.
+ 
+«Это тот момент, когда говорят, насколько мы отстаём от Запада в этой области. Это тот момент, когда мы отстаём не навсегда, мы можем создать региональные <Node id="518"/>наноматериалы<Node id="531"/> и для электроники, и для космических исследований», – подчёркивает декан химического факультета МГУ, академик Валерий Лунин.
+ Академик Валерий Лунин
+Нанотехнологии уже применяются в некоторых отраслях промышленности. Например, цифровые камеры, или мембраны для очистки воды. Загадочные для большинства обывателей, невидимые глазу, эти частицы – в десятки тысяч раз меньше толщины человеческого волоса.
+
+Самый простой и наглядный способ объяснить, что же такое нанотехнологии – это любимый всеми студентами эксперимент с жидким азотом. Берём цветок, опускаем в реактив, цветок затвердевает, разбиваем его. Лепестки, которые получаются, – это милиразмер, если мы разотрем их в пыль – получим микроразмер, а если продолжим этот процесс до практически невидимого состояния – это и будет наноразмер вещества.
+Новый способ получения <Node id="1359"/>наноматериалов<Node id="1373"/> недавно запатентовали в лаборатории химического факультета.
+
+<Node id="1435"/>Чёрный<Node id="1441"/> порошок в стеклянном стакане – <Node id="1473"/>углеродные <Node id="1484"/>нанотрубки<Node id="1494"/>. Образуются в реакторе в результате взаимодействия бензола с солями металлов. А <Node id="1575"/>нанотрубками<Node id="1587"/> частицы назвали потому, что атомы углерода образуют структуру, похожую на трубку. Правда, увидеть это можно только при многократном увеличении.
+
+Полые, чем-то похожие на макароны – и способные изменить мир. С ними сталь станет крепче, цемент прослужит дольше, а лечить людей будет проще. Это почти чудо – <Node id="1893"/>нанотрубки<Node id="1903"/> способны донести нужное лекарство до нужного органа, причем без побочных эффектов.
+ 
+«Эти мельчайшие трубки могут быть имплантированы в пластик, и он не теряет прозрачность. Они очень твёрдые: если вы попробуете, можно поцарапать стекло. Они проводят электричество в одном направлении – вдоль трубочки», – рассказывает кандидат химических наук, старший научный сотрудник химического факультета МГУ Сергей Савёлов<Node id="2316"/>.<Node id="2317"/>
+ 
+Но до практического применения <Node id="2351"/>нанотрубок<Node id="2361"/> ещё далеко. Учёным предстоит масса экспериментов. Например, нужно выяснить, действительно ли они безопасны на все сто для человеческого организма. На химическом факультете исследования продолжают.
+Молодые учёные прогнозируют: нанореволюция свершится <Node id="2612"/>лет<Node id="2615"/> через 10.
+Полина <Node id="2633"/>Ермолаеваhttp://www.vesti-moscow.ru<Node id="2668"/>/rnews.html?…Да, стараются ребята… Молодцы! Только в этом «звенящем» возрасте можно мечтать и можно успеть воплотить свои мечты в жизнь… А задача «более зрелых» коллег – (всячески) помочь им в этом деле… И тогда можно будет надеяться, что у нас ВСЁ получится…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="1473" EndNode="1494">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="2316" EndNode="2317">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">научный сотрудник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2633" EndNode="2668">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1893" EndNode="1903">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="51" EndNode="56">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2612" EndNode="2615">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="40" EndNode="43">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1435" EndNode="1441">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Черный</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1575" EndNode="1587">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1484" EndNode="1494">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="1359" EndNode="1373">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="2351" EndNode="2361">
+</Annotation>
+<Annotation Id="19" Type="сотрудники" StartNode="2316" EndNode="2317">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="518" EndNode="531">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

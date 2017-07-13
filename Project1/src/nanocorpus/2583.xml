@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Портал <Node id="8"/>Nanowerk.com<Node id="20"/> предлагает всем любителям нанотехнологий проверить свои знания и пройти шуточный тест. 
+ 
+Возможно, Вы откроете для себя что-нибудь новое, т.к. к каждому из 20 вопросов помимо правильных ответов прилагаются и развернутые комментарии. 
+  
+Поехали! 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="8" EndNode="20">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

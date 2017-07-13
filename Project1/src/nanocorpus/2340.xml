@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Научно-исследовательский институт прикладной акустики беспроводные сенсорные сети , беспроводные сети, кластерные технологии, нанокомпозитные материалы, <Node id="155"/>наночастицы<Node id="166"/>   <Node id="169"/>Наноматериалы<Node id="182"/>   Беспроводные технологии передачи информации Высокопроизводительные вычисления на основе кластерных технологий                         Вакштейн Максим Сергеевич, старший научный сотрудник, кандидат наук Владимиров Владимир Александрович, начальник лаборатории Зосимов Виктор Васильевич , директор ЦВТ, старший научный сотрудник, доктор наук Кочкин Валентин Васильевич, заместитель директора ЦВТ, кандидат наук Крымов Александр Владимирович, начальник сектора, кандидат наук 
+Центр высоких технологий ФГУП «НИИПА» создан <Node id="704"/>в начале 2006 года<Node id="722"/> для проведения разработок в области нанотехнологий, беспроводных сетей и высокопроизводительных вычислений с применением кластерных технологий. 
+ 
+К <Node id="872"/>началу 2007 года<Node id="888"/> лаборатория нанокомпозитных материалов оснащена необходимым оборудованием для разработки технологии синтеза <Node id="997"/>наночастиц<Node id="1007"/> и нанокомпозитных материалов; контроля параметров <Node id="1058"/>наночастиц<Node id="1068"/> и нанокомпозитных материалов с атомным разрешением; измерения физико-химические свойств; изготовления и испытания средств и систем на их основе.   Nanotrac 150/Nanotrac ultra NPA 253 UV-Vis Спектрофотометр Agilent 8453 Анализаторы спектров Генератор высокочастотный N5182A-503 Жидкостной хроматограф высокого давления Agilent 1200 Лиофильная сушка VirTis Оптическая установка Сканирующая зондовая лаборатория Нтегра Аура (НТ-МДТ) Спектрофлуориметр Cary Eclipse Установка для коллоидного синтеза <Node id="1564"/>квантовых точек<Node id="1579"/> Центрифуга Allegra® X-22 </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="1564" EndNode="1579">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="155" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="997" EndNode="1007">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1058" EndNode="1068">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="169" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="872" EndNode="888">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="704" EndNode="722">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

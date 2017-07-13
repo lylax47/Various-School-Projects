@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанопринтеры будут бороться с <Node id="30"/>подделкамиХайко Вольф<Node id="51"/> (Heiko Wolf) с коллегами из Цюрихской исследовательской лаборатории IBM в <Node id="126"/>сотрудничестве<Node id="140"/> с учёными из Федерального технологического института изобрели высокоточную технику печати (аналогичную традиционной), позволяющую предотвращать подделывание банкнот, сообщает New Scientist.
+Нанометки
+Для печати использовались <Node id="367"/>наночастицы<Node id="378"/> диаметром 60 нм, из которых удалось сформировать образ-картинку, содержащий 20 тыс. <Node id="463"/>наночастиц<Node id="473"/>. Исследователи научились точно управлять местоположением <Node id="531"/>наночастиц<Node id="541"/> на пластине печати. При этом были использованы технологии производства кремниевых чипов.
+Метод может быть использован для борьбы с фальшивомонетчиками: «нанометки» на банкнотах можно обнаружить только при помощи специального оборудования.
+
+В другом эксперименте исследователям удалось получить изображение с помощью кремниевых наноспиралей, но такие приборы еще не готовы к массовому производству. В дальнейшем <Node id="953"/>Вольф<Node id="958"/> предполагает создавать изображения с помощью <Node id="1004"/>наночастиц<Node id="1014"/> размером 2 нм.
+<Node id="1030"/>http://rnd.cnews.ru/…cience.shtml?…Precision<Node id="1074"/> nanoprinting could foil the <Node id="1103"/>forgershttp://technology.newscientist.com/article.ns?…Вот<Node id="1160"/> молодцы, ребята из Швейцарии! Уверен, что вскоре все монетные дворы и гознаки начнут применять эту технику для защиты своих валют. Но это как непрерывная гонка «брони» и «снаряда», и я не уверен, что со временем и эти «плохие парни» (фальшивомонетчики) не найдут ключик к данной технологии… Ведь борьба эта бесконечна!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1103" EndNode="1160">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1030" EndNode="1074">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="531" EndNode="541">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Партнеры_Клиенты" StartNode="126" EndNode="140">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="463" EndNode="473">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="30" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вольф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="953" EndNode="958">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вольф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="367" EndNode="378">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1004" EndNode="1014">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

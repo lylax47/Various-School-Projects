@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российская академия наук примет участие в Международном форуме по нанотехнологиям<Node id="81"/>10 апреля 2008 года<Node id="100"/> бюро Отделения нанотехнологий и информационных технологий (ОНИТ РАН) подтвердило участие РАН в мероприятии, проводимом ГК «Роснанотех».
+ОНИТ РАН выступило с инициативой научно-методического руководства выставкой, которая пройдет в рамках форума, организуемого ГК «Роснанотех».
+
+Для координации мероприятий форума с участием организаций РАН планируется создать рабочую группу во главе с председателем научно-технического совета корпорации академиком М.В.Алфимовым и академиком Ю.В.Гуляевым.
+<Node id="591"/>http://www.rusnanotekh.ru/…8_04_23.htmlМеждународный<Node id="643"/> форум по нанотехнологиям
+Международный форум по нанотехнологиям состоится <Node id="718"/>3—5 декабря 2008 года<Node id="739"/> в Москве, в Центральном выставочном комплексе «Экспоцентр».
+<Node id="800"/>http://www.nanonewsnet.ru/…ekhnologiyamЭто<Node id="842"/> замечательно! Высочайший интеллект и огромный «коллективный разум» наших выдающихся учёных в соединении с энергией, финансовыми ресурсами и деловой хваткой специалистов из ГК «Роснанотеха» – да об этом раньше и мечтать нельзя было! Да мы вместе свернём горы! Желаем успехов этому проекту и предстоящему мировому мероприятию!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="81" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="718" EndNode="739">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="800" EndNode="842">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="591" EndNode="643">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

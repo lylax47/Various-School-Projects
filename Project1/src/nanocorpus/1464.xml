@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Однослойные <Node id="13"/>углеродные <Node id="24"/>нанотрубки<Node id="34"/>, как установили ученые, проявляют сильную противомикробную активность.
+
+Как сообщают ученые из Йельского Университета (Yale University), прямое взаимодействие <Node id="194"/>нанотрубок<Node id="204"/> с клеточными мембранами ведет к их повреждению и гибели клетки.
+
+Опыты ученых проводились на культуре достаточно распространенной бактерии кишечной палочки – E. coli. Для того, чтобы удостовериться в том, что повреждения мембраны носят не химический, а механический характер, исследователи использовали в экспериментах специально очищенные углеродные <Node id="556"/>однослойные <Node id="568"/>нанотрубки<Node id="578"/> диаметром от 0.75 до 1.2 нанометров. Другие <Node id="623"/>углеродные <Node id="634"/>наноструктуры<Node id="647"/>, полученные промышленным путем, отличаются высоким содержанием металлов (от <Node id="724"/>4.5%<Node id="728"/> до <Node id="732"/>15%<Node id="735"/>) и других примесей.
+
+Как считают ученые, многие полагают, что токсичность <Node id="810"/>наноматериалов<Node id="824"/> не зависит от их морфологии, а напрямую связана с примесями. Однако данная работа ученых из Йеля показала, что это не так.
+
+Бактерии E. Coli подвергались обработке <Node id="989"/>нанотрубками<Node id="1001"/> <Node id="1002"/>в течение часа<Node id="1016"/>, в результате чего большая часть бактерий погибла.
+
+В <Node id="1071"/>этом году<Node id="1080"/> ученые много узнали об антимикробном действии <Node id="1127"/>наноматериалов<Node id="1141"/>. Ранее учеными из Индии были получены изображения, поясняющие антисептический эффект <Node id="1227"/>наночастиц<Node id="1237"/> серебра, теперь же известно воздействие <Node id="1278"/>нанотрубок<Node id="1288"/> на микроорганизмы.
+
+Как говорят исследователи, <Node id="1336"/>многослойные <Node id="1349"/>нанотрубки<Node id="1359"/> не так опасны для бактерий, как однослойные. Это связано, в первую очередь, с пропорциями – отношением длины <Node id="1469"/>нанотрубки<Node id="1479"/> к ее диаметру.
+
+Естественно, исследователи отметили, что <Node id="1537"/>нанотрубки<Node id="1547"/> в чистом виде токсичны для человека и животных, и их длительное воздействие на организм сказывается негативно. По степени токсичности <Node id="1682"/>нанотрубок<Node id="1692"/> можно провести параллель с частым вдыханием асбестовых частиц, которые вызывают органические повреждения тканей.
+
+В дальнейшем ученые планируют более детально исследовать различные <Node id="1874"/>наноматериалы<Node id="1887"/> и их биологическую совместимость.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="13" EndNode="34">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1537" EndNode="1547">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1349" EndNode="1359">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="724" EndNode="728">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="568" EndNode="578">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1874" EndNode="1887">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+наноструктура" StartNode="623" EndNode="647">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1469" EndNode="1479">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="634" EndNode="647">
+</Annotation>
+<Annotation Id="11" Type="Многослойная+нанотрубка" StartNode="1336" EndNode="1359">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1682" EndNode="1692">
+</Annotation>
+<Annotation Id="13" Type="Однослойная+нанотрубка" StartNode="556" EndNode="578">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1278" EndNode="1288">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1227" EndNode="1237">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1002" EndNode="1016">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="810" EndNode="824">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="194" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1071" EndNode="1080">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="989" EndNode="1001">
+</Annotation>
+<Annotation Id="20" Type="Наноматериал" StartNode="1127" EndNode="1141">
+</Annotation>
+<Annotation Id="23" Type="Процент" StartNode="732" EndNode="735">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="24" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

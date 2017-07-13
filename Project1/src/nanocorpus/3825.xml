@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученый из Хьюстонского университета (штат Техас) изобрел самый черный материал, известный <Node id="91"/>на сегодняшний день<Node id="110"/>. Материал побил предыдущий рекорд среди светопоглощающих материалов в четыре раза.
+
+<Node id="195"/>Пуликел Аджаян<Node id="209"/> (Pulickel Ajayan), профессор вышеназванного университета создал особое покрытие из <Node id="293"/>углеродных <Node id="304"/>нанотрубок<Node id="314"/>, которое отражает лишь <Node id="338"/>0,045%<Node id="344"/> света. Это в 100 раз темнее, чем существующая <Node id="391"/>на сегодняшний день<Node id="410"/> самая черная краска. Сам ученый не ожидал таких цифр и был просто потрясен полученным результатом.
+
+Сегодняшний рекорд уже подали на рассмотрение в Мировую Книгу рекордов <Node id="582"/>Гиннесса<Node id="590"/>.
+
+<Node id="593"/>Аджаян<Node id="599"/> утверждает, что полученный материал обязательно найдет практическое применение в различных сферах человеческой жизнедеятельности<Node id="728"/>. Например, способность темного покрытия поглощать свет в невероятных количествах может быть на пользу при производстве солнечных батарей. Кроме того, материал минимизирует рассеивание света, что пригодится при проектировании телескопов и другой оптической техники.
+
+Предыдущий рекорд самого темного материала принадлежит никель-фосфорному сплаву, созданному учеными из Лондона. Он отражает лишь <Node id="1124"/>0,16%<Node id="1129"/> света.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="391" EndNode="410">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1124" EndNode="1129">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="593" EndNode="728">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="582" EndNode="590">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гиннесс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="304" EndNode="314">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="91" EndNode="110">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="593" EndNode="599">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="195" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аджаян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="293" EndNode="314">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="338" EndNode="344">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="593" EndNode="728">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

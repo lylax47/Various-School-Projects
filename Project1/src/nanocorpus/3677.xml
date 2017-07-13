@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>     <Node id="5"/>Федеральное агентство по науке и инновациям<Node id="48"/> (Роснаука) при поддержке Министерства промышленности, торговли и труда Государства Израиль и Научно-исследовательского центра израильской промышленности (МАТИМОП) в период <Node id="221"/>с 13 по 18 марта 2007 года<Node id="247"/> в г. Тель-Авив (Израиль) проводит Выставку передовых технологий и Первый Российско-Израильский венчурный форум. Организация выставки поручена Государственной академии инноваций (ГАИ) (Россия). Организатором венчурного форума является Российская ассоциация прямого и венчурного инвестирования (<Node id="541"/>РАВИ<Node id="545"/>). Мероприятия проводятся при участии Национального содружества бизнес-ангелов России (СБАР) и Центра научно- технического и инновационного сотрудничества России и Израиля. 
+     Цель выставки и форума - создание эффективного инструмента привлечения венчурных инвестиций в перспективные технологически ориентированные инновационные компании России и установление кооперационных связей между венчурными инвесторами и бизнес-ангелами обеих стран, а также продвижение российской наукоёмкой продукции на израильский рынок, демонстрация перспективных инновационных разработок и развитие взаимовыгодного сотрудничества в сфере российско- израильского инновационного бизнеса. 
+     Наибольший интерес представляют новейшие инновационные высокотехнологичные разработки и экспортно-ориентированная продукция, обладающие высоким потенциалом коммерциализации с учетом регионального аспекта данного мероприятия. Для создания условий успешной работы российской делегации, установления взаимовыгодных контактов с представителями израильских компаний предусмотрена деловая программа, включающая презентации предприятий-экспонентов, проведение деловых встреч и переговоров. 
+ К участию в выставке и форуме приглашаются научные учреждения, вузы, предприятия и инновационные компании, имеющие разработки, защищенные российскими и/или международными патентами. 
+ 
+Контактная информация: 
+<Node id="1914"/>Федеральное агентство по науке и инновациям<Node id="1957"/> (Роснаука) 
+тел.: (495) 629-24-84 факс: (495) 629-03-88, 
+e-mail: tgor@fasi.gov.ru, <Node id="2042"/>sobol@fasi.gov.ru<Node id="2059"/> 
+ 
+Для участия в выставке 
+Государственная Академия Инноваций - Лидия Ковалева 
+тел./факс: (495) 115-97-66 факс: (495) 655-52-19 
+e-mail: inp@gain.ru, <Node id="2211"/>kovaleva@gain.ru<Node id="2227"/> 
+ 
+Для участия в форуме 
+Исполнительная дирекция <Node id="2277"/>РАВИ<Node id="2281"/> - Ангелина Фраймович, 
+тел./факс: (812) 326-61-80 факс: (812) 326-61-91 
+e-mail: <Node id="2363"/>a.fraymovich@rvca.ru<Node id="2383"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="2042" EndNode="2059">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="541" EndNode="545">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рави</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Электронная_почта" StartNode="2363" EndNode="2383">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="5" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по науке и инновациям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="221" EndNode="247">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1914" EndNode="1957">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по науке и инновациям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Электронная_почта" StartNode="2211" EndNode="2227">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2277" EndNode="2281">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рави</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На международный симпозиум по современным материалам, который пройдет во Владивостоке <Node id="87"/>с 1 по 4 октября<Node id="103"/>, съедутся известные российские ученые-химики из Москвы, Новосибирска, а также их зарубежные коллеги: директора институтов и заведующие кафедрами ведущих университетов Японии, Южной Кореи, Китая и Тайваня.
+
+Как сообщили РИА <Node id="327"/>Дейта.RU<Node id="335"/> в пресс-службе ДВО РАН, в симпозиуме примут активное участие в этом научном мероприятии молодые ученые и студенты.
+
+Ученые обсудят современное состояние наук о материалах, значительное внимание участников симпозиума будет уделено синтезу и свойствам наноматерилов на полимерной основе. Научная программа включает пленарную лекцию академика А. Р. Хохлова и ключевую лекцию академика. Корейской академии наук и технологий Дж. И. Джина (Jung Il Jin), который является президентом Отделения макромолекулярной химии Международного союза чистой и прикладной химии (IUPAC). Научный форум организуется по инициативе Института химии ДВО РАН.
+
+Начало работы симпозиума <Node id="995"/>2 октября<Node id="1004"/> в 9.00 в здании ДВГУ ( ул. <Node id="1032"/>Суханова<Node id="1040"/>, д. 5-А).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="87" EndNode="103">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1032" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Суханов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="995" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="327" EndNode="335">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

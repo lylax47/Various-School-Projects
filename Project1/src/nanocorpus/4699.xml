@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Второй инвестиционный форум «Удмуртия – регион опережающего развития», который пройдет 22 и <Node id="93"/>23 мая<Node id="99"/> в Ижевске, посетят представители Государственной корпорации Роснанотех, сообщается на официальном сайте форума.
+
+В связи с этим на выставке инвестиционных и инновационных проектов, запланированной в рамках Форума, будет отдельное внимание уделено проектам предприятий и институтов Удмуртии в области нанотехнологий. Помимо экспозиции «Инновационный потенциал Удмуртской Республики» будет сформирована отдельная экспозиция на выставке «Проекты наноиндустрии Удмуртской Республики», организацией которой занимается АНО «Региональный центр Удмуртской Республики».
+
+Представители Роснанотеха также примут участие в выставке – презентационной сессии инновационных проектов на соискание венчурного инвестирования.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="93" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

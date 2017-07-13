@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Наночастицы<Node id="12"/> серебра, золота, никеля и других веществ вырастили учёные под руководством Грегори Экзархоса (Gregory J. Exarhos), исследователя из Тихоокеанской северо-западной национальной лаборатории (Pacific Northwest National Laboratory — PNNL). Интересно, что в качестве подложки на сей раз использовались хлопковые волокна. Используя обработанные кислотой целлюлозные нити из хлопка, учёные PNNL смогли вырастить на них <Node id="424"/>нанокристаллы<Node id="437"/> одинаковой формы из золота, серебра, палладия, платины, меди, никеля, других металлов и их оксидов. Полученные конфигурации кристаллов обладают такими каталитическими, электрическими, оптическими свойствами, которые в других <Node id="663"/>нанокристаллах<Node id="677"/> раньше не наблюдались. Дело в том, что в результате кислотной обработки молекула целлюлозы меняется и превращается в длинные полимерные цепи, на которых, на определённом расстоянии друг от друга, расположены гидроксогруппы. Вокруг этих гидроксогрупп и формируются кристаллы. А чтобы процесс роста начался, нити из обработанного таким образом хлопка помещают в раствор из солей металла и под давлением держат при температуре 70-200 градусов <Node id="1118"/>Цельсия<Node id="1125"/>. Кристаллы при этом формируются за время от 4 <Node id="1172"/>до 16 часов<Node id="1183"/>, что для подобных опытов довольно быстро. В зависимости от того, с каким металлом экспериментаторы имели дело, удавалось получать кристаллы почти одинаковых размеров (в рамках одного эксперимента) величиной от 2 до 200 нанометров. Этот метод сами его создатели назвали "зелёным процессом": для него кроме солей интересующих металлов нужна лишь целлюлоза и тепло. Предыдущие попытки сделать похожие <Node id="1582"/>нанокристаллы<Node id="1595"/> требовали использования сильных химикатов. По словам самих участников исследования, это первый в науке случай, когда сообщается об эффективном использовании целлюлозы для выращивания на её поверхности практически одинаковых кристаллов. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1172" EndNode="1183">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанокристалл" StartNode="663" EndNode="677">
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="424" EndNode="437">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанокристалл" StartNode="1582" EndNode="1595">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1118" EndNode="1125">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>11-12 ноября 2008 года<Node id="23"/> в Институте физической химии и электрохимии им. А.Н.Фрумкина РАН (ИФХЭ РАН, Москва, Ленинский просп., 31) состоится конференция молодых ученых "Физикохимия нано- и супрамолекулярных систем – 2008". 
+ОРГАНИЗАТОРЫ КОНФЕРЕНЦИИ: Секция физикохимии нано- и супрамолекулярных систем <Node id="301"/>Ученого совета ИФХЭ РАН<Node id="324"/>, Совет молодых ученых ИФХЭ РАН, Научно-образовательный центр ИФХЭ РАН, Редколлегия журнала «Физикохимия Поверхности и Защита Материалов». Конференция проводится при поддержке Дирекции ИФХЭ РАН. Председатель Оргкомитета – Председатель Секции физикохимии нано- и супрамолекулярных систем <Node id="611"/>Ученого Совета ИФХЭ РАН<Node id="634"/>, Главный редактор журнала «Физикохимия Поверхности и Защита Материалов», Директор ИФХЭ РАН им. А.Н.Фрумкина академик РАН А.Ю.Цивадзе. Избранные статьи по материалам <Node id="800"/>конференции будут опубликованы в ВАКовском русско-англоязычном журнале «Физикохимия Поверхности и Защита Материалов», переводная версия - «Protection of Metals and Physical Chemistry of Surfaces».
+ По результатам конкурса будут определены победители. Предполагается награждение победителей Премией им. В.А.Кистяковского и Премией им. М.М.Дубинина<Node id="1146"/>. Также будут присуждены 1, 2, 3. места победителям. Тезисы конференции будут размещены на сайте http://www.m-protect.ru, также планируется публикация тезисов в бумажной форме.  Более подробная информация содержится в приведенном ниже файле.     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="611" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого Совета ИФХЭ РАН</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1" EndNode="23">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="301" EndNode="324">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого Совета ИФХЭ РАН</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="встречи_и_переговоры" StartNode="800" EndNode="1146">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

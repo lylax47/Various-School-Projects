@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии получат широкое применение в АПКПо информации РИА «Новости», нанотехнологии и <Node id="93"/>наноматериалы<Node id="106"/> сегодня уже активно используются в некоторых секторах сельского хозяйства России, а в ближайшей перспективе могут получить еще более широкое применение, считает директор Федерального государственного научного учреждения (ФГНУ) «Росинформагротех», профессор Вячеслав Федоренко.
+ 
+«Исследования, проводимые нашими учеными, показывают хорошие результаты. Они дают нам возможность говорить о том, что нанотехнологии могут использоваться буквально во всех отраслях сельского хозяйства, начиная от животноводства и заканчивая производством сельхозтехники», – сказал он.
+ 
+В свою очередь, генеральный директор ЗАО «Концерн «Наноиндустрия» Михаил Ананян<Node id="752"/> <Node id="753"/>привел примеры разработок российских ученых в области нанотехнологий, пользующихся спросом у предприятий АПК.
+ 
+«<Node id="866"/>Так, нанотехнологии применяются, например, при упаковке и хранении пищевых продуктов. При помощи <Node id="963"/>наночастиц<Node id="973"/> серебра, обладающих активным антимикробным действием, можно эффективно дезинфицировать различные виды продуктов», – сказал М. Ананян<Node id="1106"/>.
+ 
+<Node id="1110"/>Биологически активные <Node id="1132"/>наночастицы<Node id="1143"/> железа, по словам М. Ананяна, могут также повысить урожайность некоторых зерновых культур от 10 до <Node id="1243"/>40%<Node id="1246"/>.
+Михаил Ананян 
+«В свою очередь, биологически активные подкормки скота на основе нанотехнологий позволяют снизить заболеваемость животных, повысить их массу», – отметил он.
+ 
+На основе <Node id="1432"/>наноматериалов<Node id="1446"/> создано большое число препаратов, позволяющих сократить трение и износ деталей, что продлевает срок службы тракторов и другой сельхозтехники.
+<Node id="1589"/>http://www.agronews.ru<Node id="1611"/>/newsshow.php?…Да, сельское хозяйство, АПК – необъятное поле для применения самых различных НТ и <Node id="1708"/>наноматериалов<Node id="1722"/>. Как для повышения продуктивности с.-х. культур, животных, так и для сохранения урожая, для продления срока службы сельхозтехники. Для с.-х. ведомства это вполне может стать полновесной и разносторонней целевой прогаммой, в выполнении которой могут и должны помочь учёные, исследователи и производственники – специалисты в области НТ…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1110" EndNode="1246">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="752" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1132" EndNode="1143">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="963" EndNode="973">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="752" EndNode="753">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="866" EndNode="1106">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="1432" EndNode="1446">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="93" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1243" EndNode="1246">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1110" EndNode="1246">
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="1708" EndNode="1722">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="866" EndNode="1106">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1589" EndNode="1611">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

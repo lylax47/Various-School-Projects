@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт физики им.Киренского магнитная пленка, <Node id="50"/>наноматериалы<Node id="63"/>, <Node id="65"/>наноструктура<Node id="78"/>   Физика магнитных явлений Физическая химия   Исследование корреляций "магнитные свойства - структура" получение и исследования нанокристаллических и аморфных ферромагнитных пленок на основе магнитных 3d металлов разработка методов исследования данных структур и поиск особенностей физических свойств разработка новых методов получения, либо новых <Node id="427"/>магнитных <Node id="437"/>наноструктур<Node id="449"/> синтез <Node id="457"/>наноматериалов<Node id="471"/> с регулируемыми и заданными параметрами формы, состава, структуры и свойств                         Денисова Елена Александровна , научный сотрудник, кандидат наук Жигалов Виктор Степанович, старший научный сотрудник, кандидат наук Исхаков Рауф Садыкович, зав. лабораторией, профессор, доктор наук Комогорцев Сергей Викторович, научный сотрудник, кандидат наук Мягков Виктор Григорьевич, старший научный сотрудник Поздняков Валерий Григорьевич, научный сотрудник Польский Анатолий Илларионович, старший научный сотрудник, кандидат наук Прокофьев Денис Евгеньевич , научный сотрудник, кандидат наук Столяр Сергей Викторович, научный сотрудник, кандидат наук Фролов Георгий Иванович , ведущий научный сотрудник, докторант, кандидат наук Чеканова Лидия Александровна, научный сотрудник, кандидат наук  Вибрационный магнитометр СВЧ - Спектрометр   Метод термического испарения в вакууме метод <Node id="1361"/>химического осаждения<Node id="1382"/> технология импульсно-плазменного распыления (ИПР)      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="457" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Химическое+осаждение" StartNode="1361" EndNode="1382">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="437" EndNode="449">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="65" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Наноматериал" StartNode="50" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Магнитная+наноструктура" StartNode="427" EndNode="449">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

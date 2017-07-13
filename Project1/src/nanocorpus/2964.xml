@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Инновационный технопарк в Екатеринбурге претендует на федеральное финансированиеИнновационный технопарк, создаваемый в Екатеринбурге, может быть включен в федеральную целевую программу «Создание технопарков высоких технологий» с объемом финансирования до <Node id="255"/>1 млрд. рублей<Node id="269"/> сроком на <Node id="280"/>три года<Node id="288"/>, сообщает департамент информационной политики губернатора со ссылкой на председателя областного <Node id="385"/>правительства Виктора Кокшарова<Node id="416"/>.
+
+В <Node id="421"/>настоящее время<Node id="436"/> по соглашению между <Node id="457"/>правительством<Node id="471"/> области и Мининформсвязи РФ решается вопрос о включении екатеринбургского технопарка в ФЦП.
+Предполагается, что реализация данного проекта начнется на базе академическо-вузовского технопарка при Институте математики и механики Уральского отделения РАН, сообщает Интерфакс.
+
+Кроме того, в регионе продолжается работа по подготовке проекта создания Большого евразийского университетского комплекса. В <Node id="871"/>2007 г.<Node id="878"/> на проведение проектно-изыскательских работ, подготовку генерального плана, проектирование объектов из бюджета области выделено <Node id="1007"/>60 млн. рублей<Node id="1021"/>, на <Node id="1026"/>2008 г.<Node id="1033"/> запланировано <Node id="1048"/>150 млн. рублей<Node id="1063"/>.
+Виктор Анатольевич КокшаровВажнейшим направлением работы властей является поддержка инновационных проектов научных и промышленных организаций, в том числе в сфере нанотехнологий.
+
+Для поддержки проектов, связанных с наноиндустрией, в областном бюджете на <Node id="1320"/>2008 г.<Node id="1327"/> предусмотрено <Node id="1342"/>80 млн. рублей<Node id="1356"/>, которые будут предоставлены предприятиям и организациям в виде субсидий. Общая сумма госфинансирования на <Node id="1464"/>три года<Node id="1472"/> достигнет <Node id="1483"/>370 млн. рублей<Node id="1498"/>.
+<Node id="1500"/>http://www.g2p.ru/…ns/index.php?…Институт<Node id="1541"/> математики и механики Уральского отделения <Node id="1585"/>РАНhttp://www.imm.uran.ru/Концепция<Node id="1620"/> создания в Свердловской области академическо-вузовского технопарка современных информационных <Node id="1715"/>технологийhttp://beuc.ru/…view/57/131/Технопарк<Node id="1762"/> высоких <Node id="1771"/>технологийhttp://beuc.ru/…view/55/111/Ну<Node id="1811"/> вот, как мы и предполагали, ребята ждут государственных ассигнований на развитие нанотехнологий. И вот «Создание технопарков высоких технологий» – это очень «удобная» форма канализации средств на эти цели…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="385" EndNode="416">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1342" EndNode="1356">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1715" EndNode="1762">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1464" EndNode="1472">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1500" EndNode="1541">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="280" EndNode="288">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="421" EndNode="436">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1320" EndNode="1327">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1048" EndNode="1063">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1771" EndNode="1811">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="1007" EndNode="1021">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1483" EndNode="1498">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1585" EndNode="1620">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="871" EndNode="878">
+</Annotation>
+<Annotation Id="17" Type="Властная_Структура" StartNode="457" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1026" EndNode="1033">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="255" EndNode="269">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания <Node id="10"/>Микровижн<Node id="19"/> (Microvision Inc.), разработчик миниатюрных проекционных дисплеев и систем захвата изображений в мобильных устройствах подготовила к выпуску новое усовершенствованное ударопрочное сканирующее зеркало на платформе микроэлектромеханической (MEMS) системы с применением широкоугольногоWVGA (wide video graphics array) стандарта, имеющего разрешение 800 х 480 пикселей. Это приспособление является частью разрабатываемой компанией проекта PicoP по созданию ультра-миниатюрного дисплейного механизма. Тестирование новой системы проведено на базе крупного немецкого исследовательского центра Fraunhofer IPMS, одного из передовых институтов в области разработки MEMS.
+
+<Node id="682"/>По словам Сида Мэдхавана (Sid Madhavan), вице-президента <Node id="739"/>Микровижн<Node id="748"/> в области R&amp;D, «Тестирование надежности устройства является неотъемлемой частью процесса его выпуска на рынок. Результаты проведенных испытаний показали двукратное уменьшение хрупкости во всех направлениях приложенной нагрузки<Node id="975"/>». Надежность в условиях длительной или изменяющейся нагрузки чрезвычайно важна для всех карманных устройств, выпускаемых для ежедневного использования массовым потребителем, подчеркивается в экспертном заключении.
+
+Микроэлектромеханическое сканирующее зеркало – один из ключевых компонентов разрабатываемого компанией <Node id="1294"/>Микровижн<Node id="1303"/> дисплейного механизма PicoP. Тончайшее зеркало по площади не превышает одного квадратного миллиметра и сравнимо по размерам с пишущей поверхностью заточенного простого карандаша. Это устройство предназначено для сканирования в горизонтальном и в вертикальном направлениях: каждый попадающий на него луч света прецизионно переводится в растровый формат, а весь процесс происходит с очень высокой скоростью, что позволяет составить полное видео изображение.
+
+К неотъемлемым преимуществам представленной архитектуры стоит отнести также низкий коэффициент кривизны и низкую энергозатратность, в сочетании с высоким качеством получаемых изображений. Система PicoP работает с коллимированным светом, что позволяет достичь высокой эффективности цветопередачи, высокого разрешения и высокой контрастности изображений. При этом в устройство PicoP не входят проекционные линзы, позволяя работать в фокусе на любом расстоянии от объекта, что является еще одним неоспоримым преимуществом новой микроэлектромеханической оптической системы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="682" EndNode="975">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="739" EndNode="748">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Микровижн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1294" EndNode="1303">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Микровижн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="10" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Микровижн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="682" EndNode="975">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

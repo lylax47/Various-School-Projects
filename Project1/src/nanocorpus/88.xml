@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+“Искусственные молекулы” из двух <Node id="34"/>квантовых точек<Node id="49"/>, называемые также “двойными <Node id="78"/>квантовыми точками<Node id="96"/>” (double quantum dots, DQD), представляют собой идеальные модельные системы для исследования зарядовых и спиновых состояний нескольких взаимодействующих электронов, локализованных в окрестностях двух пространственно разнесенных минимумов потенциальной энергии и способных туннелировать между этими минимумами через разделяющий их потенциальный барьер.
+
+Обычно для экспериментов используются полупроводниковые DQD [1], а в работе [2], выполненной в Великобритании (Hitachi Cambridge Laboratory) и Дании (University of Copenhagen), исследована электронная структура DQD, сформированная в <Node id="683"/>углеродной <Node id="694"/>нанотрубке<Node id="704"/> путем подачи соответствующих электрических потенциалов на управляющие электроды (см. рис.).
+
+Показано, что низколежащие энергетические уровни образуют “оболочки”, для заполнения которых требуется (в зависимости от параметров DQD) четыре или восемь электронов. В DQD с четырехэлектронными оболочками обнаружены синглетные и триплетные состояния, посредством которых осуществляется неупругое сотуннелирование электронов при транспорте через DQD. Изучено влияние магнитного поля до 7 Тл на энергии этих состояний.
+
+Экспериментальные данные хорошо согласуются с теоретическими расчетами. Ожидается, что время сохранения спиновой когерентности в DQD из <Node id="1353"/>нанотрубок<Node id="1363"/> будет гораздо больше, чем в полупроводниковых DQD. Такие DQD можно будет использовать не только для фундаментальных исследований, но и в различных приложениях, например, в квантовых вычислительных устройствах на основе спиновых <Node id="1592"/>кубитов<Node id="1599"/>.
+ 1. J.A.Petta et al., Science 309, 2180 (2005) 2. H.I.Jorgensen et al., Nature Phys. 4, 536 (2008)* </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1353" EndNode="1363">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="694" EndNode="704">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="34" EndNode="49">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="683" EndNode="704">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Кубит" StartNode="1592" EndNode="1599">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="78" EndNode="96">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

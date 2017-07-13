@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>С 14 по 16 июля 2008 г.<Node id="24"/>
+в городе Салоники (Греция) состоится международная конференция 5th International Conference on Nanosciences &amp; Nanotechnologies (NN08). 
+ 
+Основные тематики конференции: 
+  Organic Electronics &amp; Photonics and 
+Nanoelectronics Nanobiotechnology and Nanomedicine Thin Films, Meta-materials and Spintronics  Nanomaterials, Nanoengineering and Nanomechanics 
+ Nanotechnology in Energy and Environment  Theoretical and Computational Modelling at the Nanoscale  Nanotechnology in Safety and Education  Nanometrology, Instrumentation and Tools  Commercialization of Nanotechnology В рамках конференции организаторы также планируют провести летнюю школу  2nd International Summer School on Nanosciences &amp; Nanotechnologies (SS-NN08), которая должна пройти <Node id="771"/>с 12 по 18 июля 2008 г.<Node id="794"/> 
+ 
+Deadline подачи тезисов докладов - <Node id="833"/>18 апреля 2008 г.<Node id="850"/> 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1" EndNode="24">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="771" EndNode="794">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="833" EndNode="850">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

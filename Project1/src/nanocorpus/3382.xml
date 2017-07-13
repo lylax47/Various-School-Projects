@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Компания Nvidia запустила производство видеокарт GeForce GTX 280 и GeForce GTX 260. Известно, что они созданы на базе нового графического процессора GT200, выполненного по 65-нанометровому технологическому процессу.
+
+Карта EVGA GeForce GTX 260 выполнена в полном соответствии с референсным дизайном и оборудована штатной двухслотовой системой активного воздушного охлаждения. Эта видеокарта обладает 192 потоковыми процессорами, функционирующими на частоте 1242 МГц, и укомплектована памятью GDDR3 объемом 896 Мб с 448-битным интерфейсом, которая работает на частоте 1998 МГц, в то время как частота графического ядра составляет 576 МГц.
+
+Более мощные модели – EVGA GeForce GTX 280, EVGA GeForce GTX 280 SC, EVGA GeForce GTX 280 SSC и EVGA GeForce GTX 280 FTW – могут похвастаться 240 потоковыми процессорами и целым гигабайтом памяти GDDR3 с 512-битным интерфейсом, хотя и они также получили стандартный двухслотовый кулер. При всем при этом частотная формула у ускорителей разная и имеет вид 602/1296/2214 МГц, 621/1350/2268 МГц, 648/1404/2322 МГц и 670/1458/2430 МГц соответственно.
+
+Общее в этих картах то, что в них применена унифицированная архитектура второго поколения и реализована поддержка физического движка PhysX. Помимо того, стоит отметить использование шины PCI Express 2.0 х16, совместимость с DirectX 10.0 Shader Model 4.0 и поддержку технологий NVIDIA PureVideo HD Technology, NVIDIA CUDA Technology и NVIDIA SLI Technology (возможны конфигурации 2-Way SLI и 3-Way SLI).
+
+Цены на новые карты колеблются от 400 до <Node id="1533"/>880 долларов<Node id="1545"/> США, сообщает 3DNews.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1533" EndNode="1545">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российско-бельгийский семинар по вопросам сотрудничества в сфере нанотехнологий<Node id="79"/>4 июня<Node id="85"/> в Москве состоится семинар по вопросам сотрудничества России и Бельгии в сфере нанотехнологий. Для участия в семинаре прибудет бельгийская делегация во главе с генеральным директором Федерального офиса по координации, информации и научной политике д-ром Богданом Ван Доннинком. В состав бельгийской делегации входят также представители одного из ведущих в мире исследовательских центров в области наноэлектроники и нанотехнологий – IMEC, ученые, представители компаний Solvay и Nanocyl.
+
+С российской стороны участие в семинаре примут заместители генерального директора ГК «Роснанотех» Лосюков А.П. и Нестеренко А.К., академик Асеев А.Л. и другие.
+В рамках семинара состоится дискуссия по вопросам перспектив развития российско-бельгийского сотрудничества в области нанотехнологий.
+С п р а в к аIMEC – один из ведущих в мире исследовательских центров области наноэлектроники и нанотехнологий. Расположен в г. Левен (Бельгия). Исследования фокусируются на интегральных микросхемах нового поколения. Исследования IMEC нацелены на стыковку между фундаментальными исследованиями университетов и развитием технологий в промышленности.
+
+Имеет «компанию-сестру» в Нидерландах – IMEC Nederland.
+Создала представительства в США, КНР И Японии. Общая численность сотрудников составляет 1500 человек, в том числе более 500 местных промышленных резидентов и приглашенных исследователей.
+
+Доходы в <Node id="1470"/>2006 г.<Node id="1477"/> составили <Node id="1488"/>231 млн. евро<Node id="1501"/>.
+<Node id="1503"/>http://www.rusnano.com/…8_05_26.htmlIMEC<Node id="1543"/> is active on various domains: CMOS-based nanoelectronics Nanotechnology and post-CMOS nanoelectronics Characterization, reliability and modeling Multi-mode multimedia (M4) technologies Wireless autonomous transducer solutions Solar cells Advanced packaging and interconnection technologies Power-efficient devices based on III-V Materials (GaN, GaAs…) Bioelectronics Organic electronics RF devices and technology Design technologies <Node id="1977"/>http://www.imec.be/Ну<Node id="1998"/> что ж, это дело хорошее… Учиться и сотрудничать, а также и учиться сотрудничать никогда не поздно. И не зазорно, если есть у кого и есть чему поучиться… В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1488" EndNode="1501">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1977" EndNode="1998">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="79" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1503" EndNode="1543">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1470" EndNode="1477">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

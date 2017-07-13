@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Rice University предсказали существование и структуру <Node id="72"/>фуллерена<Node id="81"/>, состоящего из атомов бора. 
+ 
+ Обычный <Node id="122"/>фуллерен<Node id="130"/>, «футбольный мяч» C60, состоящий из атомов углерода, был открыт в Rice University в 1985. Борный аналог B80 по структуре и симметрии очень похож на предшественника, однако для повышения стабильности имеет в центре каждой шестиугольной грани дополнительный атом бора. 
+ 
+ В предыдущих работах команда пыталась построить <Node id="450"/>фуллерен<Node id="458"/> из атомов кремния, но обнаружить какие либо стабильные структуры так и не удалось. Поэтому они переключили своё внимание на бор. 
+ 
+ <Node id="592"/>Бор<Node id="595"/> находится рядом с углеродом в периодической таблице химических элементов и по ряду свойств весьма на него похож. Например, атомы бора так же обладают способностью формировать цепи, связываясь друг с другом сильнее, чем с другими атомами. 
+ 
+ Ученые говорят, что пока рано строить какие-либо планы относительно <Node id="906"/>фуллерена<Node id="915"/> B80, сравнивать его с C60, т.к. доказана лишь принципиальная возможность его существования. Однако уже это открывает новое направление дальнейших исследований, в том числе и экспериментальный поиск таких структур. 
+ 
+ Интересен тот факт, что борный <Node id="1165"/>фуллерен<Node id="1173"/> или баккибол (fullerene, buckyball) более соответствует своему названию, чем С60, т.к. он собран из треугольников, как и структуры американского архитектора <Node id="1331"/>Бакминстера<Node id="1342"/> Фуллера (Buckminster Fuller), в честь которого они были названы. 
+ 
+ Работа «B80 Fullerene: An Ab Initio Prediction of Geometry, Stability, and Electronic Structure» была опубликована в журнале Physical Review Letters. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="906" EndNode="915">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1331" EndNode="1342">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бакминстер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="122" EndNode="130">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="592" EndNode="595">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="450" EndNode="458">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="72" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="1165" EndNode="1173">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

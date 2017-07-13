@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Сегодня генеральный директор ГК «Роснанотех» <Node id="46"/>Леонид Меламед<Node id="60"/> <Node id="61"/>и руководитель Федерального космического агентства (Роскосмос) Анатолий Перминов<Node id="141"/> <Node id="142"/>подписали<Node id="151"/> Соглашение о сотрудничестве.
+
+В области нанотехнологий Роскосмос и ГК «Роснанотех» будут совместно организовывать исследования и разработки, поддерживать и развивать научные школы, формировать инновационную инфраструктуру и развивать международное научно-техническое сотрудничество.
+
+Стороны совместно определяют направления научно-технического развития в области нанотехнологий, которые имеют приоритетное значение для социально-экономического развития Российской Федерации.
+
+Для принятия управленческих решений и согласования действий ГК «Роснанотех» и Роскосмос создадут систему технологического прогнозирования и набор дорожных карт для ракетно-космической промышленности.
+
+Российская ракетно-космическая промышленность, опирающаяся на 57 научных и производственных центров, разрабатывает и производит космическую продукцию, конкурентоспособную на мировом рынке. <Node id="1019"/>Мы будем создавать <Node id="1038"/>наноматериалы<Node id="1051"/> и наносистемы с рекордными эксплуатационными характеристиками, – сказал руководитель Федерального космического агентства Анатолий Перминов<Node id="1190"/>.<Node id="1191"/> – Наноструктурированные металлы, например, при малом весе обладают уникальной прочностью и могут работать в экстремальных космических условиях. Сотрудничество с ГК «Роснанотех» позволит нам ускорить разработки и интенсифицировать их коммерциализацию. Это откроет перед предприятиями и организациями Роскосмоса новые отечественные и зарубежные рынки космической продукции и услуг, ускорит трансфер космических технологий в другие области.
+
+В свою очередь <Node id="1646"/>Леонид Меламед подчеркнул, что <Node id="1677"/>подписанное сегодня Соглашение закрепляет сотрудничество, начавшееся с момента создания ГК «Роснанотех» в <Node id="1783"/>сентябре 2007 года<Node id="1801"/>.
+
+Наша корпорация координирует инновационную деятельность и коммерциализацию разработок наноиндустрии в России. Согласно подписанному документу, мы предоставим Роскосмосу необходимый инвестиционный инструментарий, – заявил глава корпорации. – Научно-технологическое прогнозирование и дорожные карты позволят определить потребности в новых продуктах наноиндустрии, конкурентоспособных на мировых рынках. Инвестиционные возможности корпорации позволят осуществить наиболее перспективные проекты и в дальнейшем масштабировать полученные результаты.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="1190" EndNode="1191">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="1677" EndNode="1801">
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="1677" EndNode="1801">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1783" EndNode="1801">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1646" EndNode="1801">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="1190" EndNode="1191">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="60" EndNode="61">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1646" EndNode="1801">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="1019" EndNode="1190">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="60" EndNode="61">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="141" EndNode="142">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="1019" EndNode="1801">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1019" EndNode="1190">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="141" EndNode="142">
+</Annotation>
+<Annotation Id="19" Type="встречи_и_переговоры" StartNode="46" EndNode="151">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="1038" EndNode="1051">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="1019" EndNode="1801">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

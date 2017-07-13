@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Наука<Node id="5"/> о создании косметики не имеет должного признанияНаука о создании косметики не имеет должного признания, считает известный ученый, лауреат медали Maison G. DeNavarre в области искусства и науки косметики профессор Роберт Локхед. Так специалист отмечает, что отрасль косметических разработок является одной их самых прогрессивных в современной науке. Например, именно ее можно считать пионером нанотехнологий. Однако специалисты, которые занимаются созданием косметических средств, становятся более известными в других областях науки.
+ «Для того чтобы создать хорошую косметику, нужно привлечь специалистов с хорошими знаниями коллоидной химии, нанотехнологий, химии, биологии, анатомии, физиологии, физики и других дисциплин. Поэтому светила науки о создании косметики известны как специалисты именно в этих отраслях. Так я сам считаюсь видным ученым в исследовании высокомолекулярных соединений, а не косметики», – говорит <Node id="929"/>Р.Локхед<Node id="937"/>.
+  Он также отмечает, что, например, в отличие от электроники, из-за непризнания косметических журналов, специалисты предпочитают публиковать результаты в специализированных журналах по физике, химии, медицине и биологии, а не косметологии. В итоге значительно затрудняется процесс патентования. <Node id="1234"/>http://www.cosmomir.ru/?…Cosmetic<Node id="1267"/> science ‹not respected by academia›“Cosmetic science is essentially multidisciplinary and the scientists who do publish tend to do so in the peer-reviewed journal of their primary discipline rather than in the cosmetics journals,” – he said.
+“The industry is underpinned by scientific knowledge of surfaces, colloids, nanoscience, chemistry, biology, biochemistry, anatomy/physiology and physics and it is often the first industry to introduce new concepts that subsequently trickle into larger industries,” – he added.
+<Node id="1788"/>http://www.cosmeticsdesign.com<Node id="1818"/>/…-by-academiaНу, выражение «Например, именно ее (косметику) можно считать пионером нанотехнологий» – слишком неопределённо. Здесь, наверное, было бы точне выразиться так: «…именно ее можно считать пионером (в области использования продуктов) нанотехнологий». Ну, а насчёт всего остального автор, несомненно, прав: В <Node id="2135"/>настоящее время<Node id="2150"/> НТ – это «дитя» сразу многих дисциплин. И учёные, специалисты в области этих конкретных дисциплин, публикуют результаты своих исследований в специализированных журналах по вопросам коллоидной химии, химии, биологии, анатомии, физиологии, физики и других дисциплин. Подобное «распыление» публикаций по целому ряду областей явно «принижает» «публикационный статус» как самой НТ, так и особенно – косметологии. Что тут делать? – я не знаю. Но, очевидно, принять во внимание это обстоятельство и трудиться далее во имя развития как своей «отрасли» (косметологии), так и стремительно развивающейся ныне наноиндустрии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2135" EndNode="2150">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="929" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1234" EndNode="1267">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="0" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1788" EndNode="1818">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

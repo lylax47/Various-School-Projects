@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор Калифорнийского университета рекомендует создать в Азербайджане центр IT разработокАзербайджан, Баку – Известный ученый азербайджанского происхождения, математик, профессор Калифорнийского университета (Беркли) <Node id="221"/>Лютфи Заде<Node id="231"/> <Node id="232"/>(Lutfi Zadeh) порекомендовал создать в Азербайджане региональный центр научно-технологических исследований и разработок, обратившись к участникам 13-й международной выставки «Телекоммуникации и информационные технологии» BakuTel 2007, в Баку.
+Lutfi Zadeh
+Ученый считает, что в его состав могут войти небольшое количество экспертов – представителей промышленных сфер, ученых высших учебных заведений и научно-исследовательских институтов не только Азербайджана, но и соседних стран, к примеру, Турции и России.
+ 
+«<Node id="745"/>Такой центр может сыграть большую роль не только для Азербайджана, который владеет богатыми природными ресурсами, но всего региона<Node id="875"/>» – считает Лютфи Заде<Node id="897"/>.
+ 
+По мнению эксперта, необходимо укрепить сферу образования в направлении информационных технологий, организовать визит ученых и профессоров научно-исследовательских институтов и университетов в зарубежные страны, читать лекции по нанотехнологиям.
+ 
+«Азербайджан может и должен воспользоваться положением лидера», – сказал ученый.
+ <Node id="1231"/>http://capital.trendaz.com/index.shtml?…Правильные<Node id="1281"/> слова говорит умный профессор. Но вот КАК это сделать на практике – это уже другой вопрос? Тем не менее, и Азербайджан не хочет оставаться на обочине науно-технического прогресса. Так что надо и тамошним властям обратить пристальное внимание на слова своего знаменитого земляка и сделать соответствующие выводы…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="745" EndNode="897">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="221" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лютфи</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="231" EndNode="232">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="745" EndNode="897">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="745" EndNode="897">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="745" EndNode="897">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="745" EndNode="875">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="231" EndNode="232">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="745" EndNode="875">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1231" EndNode="1281">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

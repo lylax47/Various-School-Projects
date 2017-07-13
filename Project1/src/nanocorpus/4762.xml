@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Нью-Йорке и Осло назовут имена лауреатов премии КавлиНЬЮ-ЙОРК, <Node id="65"/>28 мая<Node id="71"/> – Имена лауреатов премии <Node id="97"/>Кавли<Node id="102"/>, которая составляет <Node id="123"/>1 миллион долларов<Node id="141"/> и вручается за выдающиеся научные достижения в астрофизике, нанотехнологиях и неврологии, назовут в среду в Нью-Йорке и Осло.
+Фред КавлиПремия была учреждена в <Node id="302"/>прошлом году<Node id="314"/> и будет вручаться трем ученым раз в <Node id="351"/>два года<Node id="359"/>.
+
+В Нью-Йорке церемония оглашения лауреатов пройдет в Колумбийском университете, куда прибудет учредитель премии – американец с норвежскими корнями Фред Кавли, а также группа известных ученых, лауреатов Нобелевской премии.
+Объясняя свой выбор наук, Кавли заявил, что астрофизика занимается самым большим, нанотехнологии – самым маленьким, а неврология самым сложным. Общий призовой фонд, таким образом, составит <Node id="772"/>3 миллиона долларов<Node id="791"/>.
+
+Филантроп намерен бросить вызов Нобелевской премии, полагая, что ее механизм стал чрезмерно консервативным. Он намерен в большей степени поддержать молодых и многообещающих ученых, не имеющих академических титулов.
+Момент подписания соглашения об учреждении премии КавлиСоучредители премии – Фонд Кавли, Норвежская Академия наук и министерство образования и науки Норвегии.
+Физик по образованию, Кавли родился и вырос в Норвегии. В <Node id="1226"/>1956 году<Node id="1235"/> он уехал в США, где основал в Калифорнии компанию Kavlico Corporation, которая стала крупнейшим в мире поставщиком датчиков давления, силы и позиционных датчиков для гражданских и военных самолетов и космических аппаратов. Чуть позже Kavlico Corporation начала поставлять автомобильные датчики для компании Ford Motor.
+
+В <Node id="1558"/>2000 году<Node id="1567"/> Фред Кавли продал свой бизнес и теперь все время посвящает собственным фонду и фирме, специализирующейся на сделках с недвижимостью. Фонд также финансирует несколько научных институтов в США и Европе.
+Оглашение лауреатов премии Кавли станет своеобразной увертюрой к всемирному научному саммиту, который откроется при участии Колумбийского университета <Node id="1920"/>1 июня<Node id="1926"/> в Нью-Йорке.
+<Node id="1940"/>http://www.rian.ru/…8632344.htmlМы<Node id="1974"/> уже писали ранее о создании этой премии и о её создателе – <Node id="2034"/>Фреде Кавли<Node id="2045"/>: <Node id="2047"/>http://www.nanonewsnet.ru/…kim-premiyam<Node id="2086"/> // <Node id="2090"/>http://www.nanonewsnet.ru/…otekhnologii<Node id="2129"/> // <Node id="2133"/>http://www.nanonewsnet.ru/…otekhnologii.<Node id="2173"/> Теперь вот подошлО время вручения этих премий первым лауреатам. Посмотрим, посмотрим, КОМУ из нанотехнологов дадут этот миллион… Всё-таки здорово, что в мире ещё есть такие энтузиасты-филантропы, которые совершенно бескорыстно (ну, если не считать всемирной славы ;-)) посвящают себя и свои сбережения прогрессу развития науки… Заранее подравляем лауреатов и с нетерпением ждём-с… Затаив дыхание… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1558" EndNode="1567">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2090" EndNode="2129">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="123" EndNode="141">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="2034" EndNode="2045">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фреда</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="351" EndNode="359">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="302" EndNode="314">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="772" EndNode="791">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1920" EndNode="1926">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="65" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1940" EndNode="1974">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="2047" EndNode="2086">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1226" EndNode="1235">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="97" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кавли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2133" EndNode="2173">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1558" EndNode="1567">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

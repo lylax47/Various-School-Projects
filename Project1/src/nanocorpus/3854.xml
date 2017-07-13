@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>17-20 ноября 2008 г.<Node id="22"/> в г. Генте, Бельгия, состоится 14 Международная конференция "Тонкие пленки" ICTF14 () 
+Тематика конференции: 
+- Фундаментальные основы процессов получения тонких пленок и эпитаксии; 
+- Образование <Node id="220"/>наноструктур<Node id="232"/>; 
+- Органические тонкие пленки; 
+- Методы получения и области применения тонких пленок; 
+- Новейшие технологии осаждения пленок; 
+- Методы исследования (тонких пленок) 
+ 
+Регистрация участников и размещение тезисов докладов - до <Node id="462"/>8 мая 2008 г.<Node id="475"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="220" EndNode="232">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="462" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

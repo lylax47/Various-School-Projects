@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Академик РАЕН, генеральный директор Концерна "Наноиндустрия" <Node id="61"/>Статус<Node id="67"/>:<Node id="68"/> Член наблюдательного совета  Информация о Концерне "Наноиндустрия" </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="67" EndNode="68">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="61" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="67" EndNode="68">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

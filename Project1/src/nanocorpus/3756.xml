@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Санкт-Петербургский электротехнический университет <Node id="53"/>биосенсоры<Node id="63"/>, мономолекулярный слой, нанолитография, пленки, пленки Ленгмюра-Блоджетт, полимеры   Исследование поверхностной структуры пленок Ленгмюра-Блоджетт Особенности строения ультратонких пленок Полиимидные нанослоевые композиции <Node id="287"/>Технология Ленгмюра-Блоджетт<Node id="315"/> Характер надмолекулярной организации в пленках Ленгмюра-Блоджетт                         Голоудина Светлана Игоревна , старший научный сотрудник, кандидат наук Пасюта Вячеслав Михайлович , научный сотрудник, кандидат наук <Node id="538"/>Метод Ленгмюра-Блоджетт<Node id="561"/> позволяет без значительных экономических затрат (не требует вакуумирования и высоких температур), воспроизводимо получать молекулярные моно- и мультислои на основе органических веществ, включая и высокомолекулярные соединения (полимеры, в том числе биологически активные). Уникальность метода заключается в возможности послойно увеличивать толщину пленки, формирующуюся на твердой поверхности, причем толщина каждого слоя определяется размерами молекулы используемого органического вещества и строго контролировать структурное совершенство получаемых пленок   Автоматизированная установка Ленгмюра-Блоджетт    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="287" EndNode="315">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Биосенсор" StartNode="53" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="538" EndNode="561">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

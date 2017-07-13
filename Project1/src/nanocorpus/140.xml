@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые-исследователи из компании Intel показали, что пучки <Node id="60"/>нанотрубок<Node id="70"/> могут заменить традиционные медные контакты в интегрированных микрочипах.
+
+Как сообщает Nanotechweb, потребителю нужны все меньшие электронные чипы с большим быстродействием. Но зачастую технически это обеспечить невозможно, из-за деградации электрических свойств меди в микромасштабах, которая используется в качестве проводника между отдельными функциональными областями чипа.
+
+Углеродные однослойные и <Node id="476"/>многослойные <Node id="489"/>нанотрубки<Node id="499"/> могут, в принципе, заменить медные микропроводники в чипах благодаря высокой электропроводности этих <Node id="601"/>наноструктур<Node id="613"/>. По сути дела, своим исследованием ученые из Intel предложили нанотрубочную альтернативу меди.
+
+Однако сопротивление одиночных <Node id="741"/>нанотрубок<Node id="751"/> на высоких частотах достаточно велико – на некоторых частотах это значение доходит до 100 кОм. Это существенно ограничивает область их применения.
+
+Но ученым из Intel удалось частично решить эту проблему: взяв не одиночную <Node id="975"/>нанотрубку<Node id="985"/>, а пучок, его суммарное сопротивление будет значительно меньше при тех же частотах. При этом сопротивление будет меньше во столько раз, сколько <Node id="1130"/>нанотрубок<Node id="1140"/> содержится в пучке.
+
+Этот простой и эффективный подход позволил ученым сделать прототип соединения из пучка <Node id="1249"/>нанотрубок<Node id="1259"/> длиной 2 микрона, передающего сигнал частотой 20 ГГц от одного чипа к другому. Результаты теста показали эффективность такого соединения по сравнению с медным при меньших размерах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="60" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1130" EndNode="1140">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1249" EndNode="1259">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="975" EndNode="985">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="489" EndNode="499">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="741" EndNode="751">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Многослойная+нанотрубка" StartNode="476" EndNode="499">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="601" EndNode="613">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

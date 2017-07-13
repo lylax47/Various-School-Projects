@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Ульяновске в <Node id="15"/>августе<Node id="22"/> <Node id="23"/>этого года<Node id="33"/> планируется открыть региональный центр нанотехнологий, сообщили РИА Новости в пресс-службе губернатора и правительства Ульяновской области
+Центр нанотехнологий и <Node id="196"/>наноматериалов<Node id="210"/> стал результатом совместной работы областного правительства, Научно-исследовательского института атомных реакторов (НИИАР) и Ульяновского госуниверситета. На реализацию этого проекта на условиях софинансирования было потрачено порядка <Node id="446"/>100 миллионов рублей<Node id="466"/>, сказал представитель пресс-службы.
+Новый научный центр создается на базе Ульяновского государственного университета.
+ 
+«В университете работают 12 докторов наук, занимающихся разработками именно в сфере нанотехнологий, поэтому накоплена определенная база, однако для продолжения исследований необходимо современное технические оснащение. Центр нанотехнологий поможет решить данную проблему», – сказал собеседник агентства.
+ 
+<Node id="893"/>23 июля<Node id="900"/> президент РФ подписал федеральный закон «О Российской корпорации нанотехнологий», принятый Госдумой <Node id="1001"/>4 июля<Node id="1007"/> и одобренный Советом Федерации <Node id="1039"/>6 июля<Node id="1045"/>. Документом устанавливается правовое положение, принципы организации, цели создания и деятельности, порядок реорганизации и ликвидации Российской корпорации нанотехнологий.
+
+В соответствии с законом, корпорация является государственной и действует в целях содействия реализации госполитики в сфере нанотехнологий, развития инновационной инфраструктуры, реализации проектов создания перспективных нанотехнологий и наноиндустрии.
+<Node id="1474"/>http://volga.rian.ru/…1590757.htmlНу<Node id="1510"/> вот и Поволжье подтягивается. Правда, пока результаты там, очевидно, весьма скромные… Но вот получат гос. гранты, прикупят серьёзного оборудования, усадят на его обслуживание студентов и аспирантов, да как начнут пахать!.. Ого-го! <Node id="1742"/>Потом<Node id="1747"/> уж их не догонишь!.. ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="446" EndNode="466">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1474" EndNode="1510">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1039" EndNode="1045">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1742" EndNode="1747">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="893" EndNode="900">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="15" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="23" EndNode="33">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="196" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1001" EndNode="1007">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии в России: состояние и зарубежный опытИздательство «Эльзевир» и ГК «Роснанотех» приглашают принять участие в научно-практическом семинаре «Нанотехнологии в России: состояние и зарубежный опыт». В семинаре примут участие приглашенные зарубежные и российские эксперты.
+Семинар состоится <Node id="299"/>2 октября 2008<Node id="313"/> гогда (11.00–14.30) в Овальном зале Всероссийской государственной библиотеки иностранной литературы им. М.И.Рудомино (ул. Николоямская 6, Москва).
+Программа семинара Коммерциализация нанотехнологии: опыт Великобритании. – Питер Дж. Добсон, профессор, директор Научного <Node id="583"/>Парка Бегбрук<Node id="596"/> Оксфордского университета (Великобритания). Международная коммерциализация технологии <Node id="683"/>наноматериалов<Node id="697"/>: опыт Hardide Plc в Оксфордском Научном <Node id="738"/>Парке Бегбрук<Node id="751"/>. – <Node id="755"/>Юрий Жук<Node id="763"/>, технический директор Hardide Plc (Великобритания). Коммерциализация нанотехнологических разработок при поддержке РОСНАНО. – Татьяна Николенко, директор по инфраструктурным программам РОСНАНО. Возможности издательства «Эльзевир» по взаимодействию с сектором нанотехнологий в области издательской деятельности. – Пол Эванс, старший вице-президент по международной издательской деятельности Elsevier. Для участия в семинаре необходимо пройти регистрацию до <Node id="1219"/>1 октября 2008 г.<Node id="1236"/> Форму регистрации, программу семинара, а также условия участия в нем можно найти на сайте издательства.
+
+По всем вопросам обращайтесь:
+<Node id="1372"/>Галина Якшонок<Node id="1386"/>,<Node id="1387"/>g.yakshonak@elsevier.com<Node id="1411"/>
+тел. + 7 985 727 79 67
+<Node id="1435"/>http://www.nanometer.ru/…7_54070.html#…Издательство<Node id="1486"/> <Node id="1487"/>«Elsevier»http://elsevier.ru<Node id="1515"/>/nano/Да, поздненько расположили на сайте «Нанометра» сообщение об этом семинаре: только сегодня, <Node id="1613"/>1 октября<Node id="1622"/>! И предлагают только сегодня успеть зарегистрироваться для участия в этом семинаре. Так что это сообщение рассчитано скорее на тех, кто ФИЗИЧЕСКИ сможет попасть в Москву к этому сроку – то есть на москвичей и жителей Подмосковья. Очевидно, это было главной ошибкой организаторов. В следующий раз нужно бы объявлять об этом заранее. Размещение этих сведений на сайте издательства таким «объявлением» не является – КТО сможет прочесть его в «обычной» жизни? Надо помнить – No publicity – No prosperity или Под лежачий камень вода не течёт…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="299" EndNode="313">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Электронная_почта" StartNode="1387" EndNode="1411">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="583" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бегбрук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1219" EndNode="1236">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1435" EndNode="1486">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="683" EndNode="697">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="755" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юрий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="738" EndNode="751">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бегбрук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1372" EndNode="1386">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Галина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="1613" EndNode="1622">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1487" EndNode="1515">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

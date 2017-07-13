@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>При нанесении биоактивных кальций-фосфатных покрытий методом микродугового оксидирования возможно формирование различных структур с причудливой морфологией.
+Итак,  <Node id="164"/>Роза<Node id="168"/> – царица цветов…<Node id="185"/>Лилия<Node id="190"/> - изящный цветок, символ красоты и совершенства  или Страшная тыква к Хэлоуину…все зависит от состава электролита, и электро-физических параметров нанесения покрытий. 
+Знание электрохимических процессов, и такая красота появится на свет! </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="185" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лилия</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="164" EndNode="168">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Роза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

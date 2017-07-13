@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Средневековые нанотехнологииАвстралийские исследователи обнаружили, что при создании церковных витражей художники использовали нанотехнологии, обеспечивающие эффективную очистку воздуха.
+
+Нанотехнология как наука возникла в <Node id="224"/>первые годы<Node id="235"/> <Node id="236"/>XXI века<Node id="244"/>. Но сам объект исследований — <Node id="275"/>наночастицы<Node id="286"/> — используется сотни <Node id="308"/>лет<Node id="311"/>. Эта история напоминает «мещанина во дворянстве» <Node id="361"/>Мольера<Node id="368"/>, который и не знал, что говорит прозой. Так и средневековые витражисты использовали золотую краску, не подозревая, что она состоит из мельчайших частиц золота, которые теперь называют <Node id="553"/>наночастицами<Node id="566"/>. Но вот об удивительных свойствах витражей они знали.
+ Цветные витражи в соборах вставлялись в оконные проемы, обычных прозрачных стекол почти не было. С одной стороны, это создавало в помещении некий полумрак, подчеркивающий таинство общения с Господом, но со временем чисто опытным путем выяснилась и гигиеническая роль витражей. Оказалось, что воздух в богатых приходах существенно чище, чем в бедных или в обычных домах горожан. Устройство госпиталей в церквях во время эпидемий чумы оказалось довольно эффективным, больные здесь выздоравливали чаще. Associate Professor Zhu Huai Yong
+Как недавно выяснил профессор <Node id="1186"/>Чжу Хуай<Node id="1194"/> Юн из Технологического университета штата Квинсленд (Австралия), <Node id="1260"/>наночастицы<Node id="1271"/> золотой краски при освещении солнечным светом действуют как катализатор разложения органических веществ в церкви. Пот прихожан, испарения горящих свечей и отравленный патогенными бактериями воздух очищаются, а в результате распада этой органики образуются лишь безвредные углекислота и вода.
+ Важно отметить, что фотокаталитические свойства есть только у <Node id="1627"/>наночастиц<Node id="1637"/> золота<Node id="1644"/>. Ни золотые монеты, ни обручальные кольца такой способностью не обладают. <Node id="1719"/>http://news.mail.ru/society/1972519Church<Node id="1760"/> windows cleanse the soul – and the airhttp://<Node id="1806"/>www.brisbanetimes.com.au/…6241909.htmlНу<Node id="1846"/> о физиологическом воздействии на человека <Node id="1889"/>(http://www.nanonewsnet.ru/…zm-cheloveka)<Node id="1930"/> и о каталитической активности <Node id="1961"/>золотых <Node id="1969"/>наночастиц<Node id="1979"/> мы уже наслышаны <Node id="1997"/>(http://www.nanonewsnet.ru/…nanochastits).<Node id="2039"/> Так что это сообщение нас не очень удивляет. Скорее эта заметка служит популяризации нанотехнологий, за что ей – большое спасибо!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="308" EndNode="311">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1969" EndNode="1979">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="1627" EndNode="1644">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1719" EndNode="1760">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="275" EndNode="286">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="224" EndNode="235">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="236" EndNode="244">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="553" EndNode="566">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="361" EndNode="368">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мольер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1260" EndNode="1271">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица+золота" StartNode="1961" EndNode="1979">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1186" EndNode="1194">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чжу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1889" EndNode="1930">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1997" EndNode="2039">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1806" EndNode="1846">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1627" EndNode="1637">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

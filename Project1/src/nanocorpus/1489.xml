@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Жить вредно для здоровья. В <Node id="30"/>100%<Node id="34"/> случаев жизнь приводит, рано или поздно, к смерти. Особенно опасно стало жить в современном нанотехнологическом мире. Некоторые ученые мужи стараются развивать новые технологии, а может быть этого вовсе и не надо делать? Может, пусть все останется как есть? А то еще, гляди, спровоцируют новую войну, или разработают терминатора терминаторов (как известно, женщина - терминатор из "Восстания машин" - была сделана на основе нанотехнологий), а где потом от него прятаться?
+ 
+Итак, как Вы считаете? верно ли, что: </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="30" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

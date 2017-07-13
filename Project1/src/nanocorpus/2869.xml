@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Новосибирске будут по-новому готовить специалистов в области нанотехнологий. Наш город – один из трех, где специально для этого организуют научные центры.
+
+Рассказал об этом академик <Node id="186"/>Жорес<Node id="191"/> <Node id="192"/>Алферов<Node id="199"/>. Подчеркнув, цитирую, что «для развития настоящего хай-тека сегодня нужно уже другое образование».
+
+Речь идет о создании инновационных центров с новыми стандартами обучения. По инициативе Российской академии наук таковые формируют в Петербурге, Москве и Hовосибирске. Именно здесь есть база для взаимодействия вузов и академических институтов. Кроме того, в таких центрах должны быть бизнес-инкубаторы для продвижения научных достижений. Накануне соглашение уже подписали с Петербургским политехническим университетом.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="186" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="192" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

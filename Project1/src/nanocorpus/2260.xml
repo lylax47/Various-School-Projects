@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Госкорпорации по нанотехнологиям пора начинать работать, считает <Node id="65"/>Сергей<Node id="71"/> ИвановГосударственная корпорация по нанотехнологиям должна начать работу в ближайшее время. Как передает «Интерфакс», об этом сообщил сегодня на совещании у президента РФ Владимира Путина первый вице-премьер Сергей Иванов.
+В пятницу Иванов намерен провести заседание Совета по нанотехнологиям при правительстве РФ, на котором будут рассмотрены четыре вопроса.
+
+Речь пойдет о развитии нанотехнологий в оборонно-промышленном комплексе, кроме того, будет обсуждаться пилотный проект создания на базе Курчатовского института Национального исследовательского центра, а также практическая реализация федерального закона о создании корпорации по нанотехнологиям.
+ 
+«Подготовлены все решения, в том числе кадровые, в части <Node id="787"/>Наблюдательного совета<Node id="809"/> этой корпорации. Корпорация, я считаю, уже должна начать работу», — заявил первый вице-премьер.
+ <Node id="907"/>http://www.opec.ru/news_doc.asp?…С.Иванов<Node id="948"/> проведет в пятницу заседание совета по нанотехнологиям
+МОСКВА, <Node id="1012"/>3 сентября<Node id="1022"/> – Первый вице-премьер РФ Сергей Иванов проведет в пятницу заседание совета по нанотехнологиям, на котором будут рассмотрены 4 вопроса. Как сообщает ИТАР-ТАСС, об этом он доложил сегодня президенту РФ Владимиру Путину.
+
+<Node id="1242"/>По словам С.Иванова, на заседании речь пойдет о развитии нанотехнологий в оборонно-промышленном комплексе<Node id="1347"/>. Будет рассмотрен и утвержден регламент совета, который уже внесен на рассмотрение.
+
+Будут обсуждаться пилотный проект создания на базе Курчатовского института Национального исследовательского центра по нанотехнологиям, а также практическая реализация федерального закона о создании корпорации по нанотехнологиям.
+ 
+«Подготовлены все решения, в том числе кадровые, в части наблюдательного совета, и я считаю, что корпорация уже должна начинать работать», – заключил первый вице-премьер.
+ <Node id="1836"/>http://www.prime-tass.ru/news/show.asp?…Ну<Node id="1878"/> что ж, пора, давно пора… (И на болельщиках поставить номера ;-) ). Отпуска у всех (по крайней мере, у многих) закончились. Пора уже, засучив рукава, приступать к тяжёлой, повседневной работе… С нетерпением будем ждать пятницы (<Node id="2106"/>7 сентября<Node id="2116"/>!), чтобы (из первых уст) узнать, ЧТО там нарешали и КАК будем дальше работать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1242" EndNode="1347">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="65" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сергей</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1012" EndNode="1022">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="787" EndNode="809">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="907" EndNode="948">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="2106" EndNode="2116">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1242" EndNode="1347">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1836" EndNode="1878">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

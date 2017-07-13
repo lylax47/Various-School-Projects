@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Глаукома – опасная глазная болезнь, которая может привести к слепоте, ею страдают миллионы людей во всем мире. Агентство Science Daily сообщает, что в лаборатории университета Центральной Флориды созданы <Node id="205"/>наночастицы<Node id="216"/> на основе окиси церия, способные доставлять лекарственные препараты через гемоэнцефалический барьер глаза. Специалист в области нанотехнологий Садипта Сил (Sudipta Seal) заявляет о проверенной нетоксичности и эффективности <Node id="440"/>наночастиц<Node id="450"/> для лечения глаукомы.
+
+Профессор Сил и его коллеги из Государственного университета Северной Дакоты обращают внимание, что только 1–<Node id="583"/>3%<Node id="585"/> существующих лекарств от глаукомы проникают в глаз, тогда как использование <Node id="662"/>наночастиц<Node id="672"/> увеличивает эффективность глазных капель, состоящих, как правило, из сложных полимеров. Проф. Сил и его команда связали <Node id="793"/>наночастицы<Node id="804"/> с препаратом, блокирующим фермент hCAII, играющий ключевую роль в образовании глаукомы.
+
+Болезнь возникает из-за повышенного давления внутри глазного яблока, которое может привести к повреждению зрительного нерва и потере зрения. В свою очередь, высокое давление возникает из-за накопления в глазном яблоке двуоксида углерода. <Node id="1132"/>Наночастицы<Node id="1143"/> с лекарственным препаратом блокируют работу фермента, вызывающего его образование.
+<Node id="1227"/>http://rnd.cnews.ru<Node id="1246"/>/…cience.shtml?…Да, глаукома – вещь весьма неприятная и, главное, что она поражает большое число людей. В мире понапридумано множество самых различных методов и лекарственных препаратов, с помощью которых врачи – с разной степенью успешности – пытаются помочь пациентам… Если описываемый метод сможет повысить эффективность лечения этого страшного недуга, то множество людей на Земле будут благодарны учёным за сохранение им зрения и здоровья в целом…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1132" EndNode="1143">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="440" EndNode="450">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="662" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="583" EndNode="585">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="793" EndNode="804">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1227" EndNode="1246">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="205" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

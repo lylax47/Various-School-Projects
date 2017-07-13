@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Телеканал PharmaTelevision взял интервью у профессора Тома Радемахера <Node id="71"/>из<Node id="73"/> Университетского Колледжа Лондонского Университета, Президента компании Midatech.
+
+Midatech – уже пятая старт-ап компания профессора Радемахера. Задачей компании является исследование возможностей нанотехнологий, в частности, для терапевтических и диагностических методов. Компания производит биосовместимые <Node id="382"/>наночастицы<Node id="393"/>, называемые «наноклетками».
+
+В видеоролике (на английском языке) профессор рассказывает о бизнес-модели компании Midatech, а также о том, почему структура централизованной компании-группы с тремя дочерними предприятиями хорошо подошла для разработки новой нанотехнологии. Кроме того, он рассказывает о научной стороне технологии компании и о её применениях в терапевтике, диагностике и изготовлении покрытий.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="71" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="71" EndNode="73">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="382" EndNode="393">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

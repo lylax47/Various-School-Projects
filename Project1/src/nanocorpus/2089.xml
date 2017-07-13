@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Европейская лаборатория теоретической спектроскопии (ETSF - European Theoretical Spectrosopy Facility, <Node id="104"/>http://www.etsf.eu)<Node id="123"/> начала прием заявок на проведение совместных исследований структуры и свойств органических и неорганических веществ. 
+Ученым-экспериментаторам предлагается предварительно изложить вкратце проблему  и обговорить пути решения на основании имеющихся экспериментальных данных (<Node id="397"/>http://www.etsf.eu/index.php?page=guadeproposers)<Node id="446"/> , а затем подавать заявку по форме (<Node id="483"/>http://www.etsf.eu/index.php?page=calls)<Node id="523"/> 
+ 
+ Переемник Nanoquanta, сегодня  ETSF объединяет около 120 ученых из 10 научных центров, котрые проводят моделирование  спектров (<Node id="656"/>http://www.etsf.eu/index.php?page=beamline)<Node id="699"/>  различных веществ  (от протеинов до полупроводников) согласно  данным заявки. 
+ 
+ETSF также проводит конференции и школы  для молодых ученых. 
+ <Node id="845"/>20-23 мая 2008 г.<Node id="862"/> в Модене, Италия, состоится 5  Nanoquanta-ETSF Young Reserchers Meeting (http:/yrm2008.unimore.it/index.html) 
+ 
+ Крайний срок подачи заявок - <Node id="1006"/>31 марта 2008 г.<Node id="1022"/> 
+ 
+(Источник - Nature) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1006" EndNode="1022">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="845" EndNode="862">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="656" EndNode="699">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="104" EndNode="123">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="483" EndNode="523">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="397" EndNode="446">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

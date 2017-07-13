@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 6-я  Конференция - Конкурс пройдет <Node id="36"/>с 23 по 25 октября 2007 года<Node id="64"/> в наукограде <Node id="78"/>Королёв, Московской обл.<Node id="102"/> 
+ 
+ Мероприятие  посвящено трём юбилеям в отечественной космонавтике: 150 – летию со <Node id="188"/>дня<Node id="191"/> рождения  К.Э. Циолковского, 100 – летию со <Node id="236"/>дня<Node id="239"/> рождения С.П. Королёва и 50 – летию запуска первого спутника. 
+ 
+ Цели и задачи Конференции - Конкурса 
+ 
+ Развитие инновационной деятельности на предприятиях авиационной, ракетно-космической и металлургической отраслей промышленности. 
+ Выявление, поддержка и стимулирование молодёжных творческих  коллективов и отдельных авторов. 
+ 
+ Развитие системы привлечения инвестиций в инновационную сферу авиационной, ракетно-космической и металлургической отраслей. 
+ 
+ Отработка механизмов финансирования инновационных проектов и различных способов продвижения их на рынок. 
+ 
+ Коммерциализация результатов научно-технических разработок. 
+ 
+ Информация о Конференции - Конкурсе <Node id="913"/>2007г.<Node id="919"/> и материалы Конкурса <Node id="941"/>2006г.<Node id="947"/> размещены на сайте Конференции - Конкурса: <Node id="991"/>http://www.12aprelya.ru<Node id="1014"/> и  сайте ООО «Комметпром»: <Node id="1042"/>http://www.commetprom.ru/konkurs.php.<Node id="1079"/> 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1042" EndNode="1079">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="941" EndNode="947">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="36" EndNode="64">
+</Annotation>
+<Annotation Id="4" Type="расположение" StartNode="78" EndNode="102">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="236" EndNode="239">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="991" EndNode="1014">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="188" EndNode="191">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="913" EndNode="919">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

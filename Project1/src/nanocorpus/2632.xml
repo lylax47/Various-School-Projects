@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Российский министр информационных технологий и телекоммуникаций <Node id="65"/>Леонид Рейман заявил, что <Node id="91"/>Россия начнет производить микропроцессоры и запоминающие устройства в Зеленограде <Node id="173"/>в конце текущего года<Node id="194"/> [1]<Node id="198"/>. <Node id="200"/>Он<Node id="202"/> считает, что российская компьютерная промышленность уже на пути к производству собственного персонального компьютера, который поступит в продажу <Node id="348"/>в конце года<Node id="360"/> по стоимости <Node id="374"/>400 долл.<Node id="383"/>
+
+Двигателем бизнеса является реклама. Известна точка зрения, что, если событие не отражено в СМИ, то оно и не происходило. Еще недавно на зарубежных сайтах информация о российской микроэлектронике не появлялась даже мельком. И вот теперь – изредка – что-то можно найти. Ситуацию может изменить и присоединение Геннадия Красникова, президента и исполнительного директора компании «Микрон» (Зеленоград) к Совету лидеров полупроводниковых компаний Европы, Ближнего Востока и Африки (leadership council EMEA – Europe, Middle East, Africa), сотрудничающих в качестве советников c Глобальным полупроводниковым альянсом (GSA – Global Semiconductor Alliance) [2]. <Node id="1040"/>Красников считает, что присоединение к GSA позволит «Микрону» быстрее интегрироваться в мировое микроэлектронное сообщество<Node id="1163"/>. Помимо президента «Микрона» в EMEA входят руководители разного уровня компаний Wolfson Microelectronics plc (Великобритания), Dialog Semiconductor plc (Германия), Cambridge Semiconductor Ltd. (Великобритания), PicoChip Designs Ltd. (Великобритания), DSP Group (Израиль), CSR plc (Великобритания), Nordic Semiconductor ASA (Норвегия), Infineon Technologies AG (Германия), NXP BV (Голландия).
+
+Россия пытается выбраться из роли замыкающей в мировой микроэлектронике. Государственный банк принял решение о финансировании нескольких ключевых проектов в полупроводниковой промышленности. В <Node id="1750"/>феврале 2008 г.<Node id="1765"/> российская компания-чипмейкер «Ангстрем» (Зеленоград) приняла целевое финансирование на освоение 130-нм технологического процесса для производства КМОП ИС в партнерстве с Advanced Micro Devices Inc. Старт производства запланирован на <Node id="2000"/>конец 2009 г.<Node id="2013"/> с ожидаемым переходом на 65-нм технологию в <Node id="2058"/>2010 г.<Node id="2065"/> Амбиции Ангстрема простираются на разработку и производство микропроцессоров (тоже в партнерстве с компанией AMD). «Ангстрем» позиционируется на мировом рынке как чисто производственная компания [3].
+
+Самый крупный российский чипмейкер «Микрон» планирует приступить к производству флэш-памяти по 65-нм технологии. Для этой цели родительской «Микрону» компанией «Ситроникс» и российским правительством совместно финансируется (в объеме <Node id="2501"/>2,3 млрд. долл.<Node id="2516"/>) строительство новых производственных помещений. Срок окончания строительства заплапнирован на <Node id="2612"/>конец текущего года<Node id="2631"/>, а начало производства 65-нм флэш в <Node id="2668"/>2009 г.<Node id="2675"/>
+
+В <Node id="2679"/>настоящее время<Node id="2694"/> «Микрон» производит КМОП ЭППЗУ (электрически перепрограммируемые постоянные запоминающие устройства) для смарт-карт (в частности, чипов для новых российских паспортов) по 180-нм технологическому процессу, приобретенному у компании STMicroelectronics (Швейцария). В <Node id="2960"/>феврале<Node id="2967"/> <Node id="2968"/>месяце<Node id="2974"/> российское правительство приняло решение прикупить компанию Altis Semiconductor, основанную во Францию. По оценкам, стоимость этого приобретения в диапазоне 600–<Node id="3136"/>750 млн. долл.<Node id="3150"/> Altis производит электронные компоненты для телекоммуникаций, автомобильной промышленности и охранных систем.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1750" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">феврале</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="упоминается_с" StartNode="91" EndNode="198">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="65" EndNode="1163">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="2612" EndNode="2631">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="65" EndNode="198">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1040" EndNode="1163">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="91" EndNode="198">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="3136" EndNode="3150">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="200" EndNode="383">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="348" EndNode="360">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1040" EndNode="1163">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="2668" EndNode="2675">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="2960" EndNode="2967">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">феврале</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="200" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="91" EndNode="198">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="2058" EndNode="2065">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="65" EndNode="1163">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="2968" EndNode="2974">
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="65" EndNode="1163">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="91" EndNode="198">
+</Annotation>
+<Annotation Id="29" Type="Деньги" StartNode="2501" EndNode="2516">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Период_времени" StartNode="173" EndNode="194">
+</Annotation>
+<Annotation Id="30" Type="высказывания_заявления" StartNode="200" EndNode="383">
+</Annotation>
+<Annotation Id="34" Type="Деньги" StartNode="374" EndNode="383">
+</Annotation>
+<Annotation Id="35" Type="Период_времени" StartNode="2000" EndNode="2013">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="упоминает" StartNode="65" EndNode="1163">
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="темы" StartNode="91" EndNode="198">
+</Annotation>
+<Annotation Id="37" Type="Период_времени" StartNode="2679" EndNode="2694">
+</Annotation>
+<Annotation Id="40" Type="автор" StartNode="65" EndNode="198">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Корпорация IBM, которая в последнее время активно занимается различными научными разработками, подписала соглашение с японской корпорацией Hitachi, согласно которому компании в течении как минимум <Node id="198"/>двух лет<Node id="206"/> будут совместно исследовать структуру полупроводников и займутся разработкой 32-нм технологического процесса. Исследования и разработки будут производиться в научных центрах IMB на территории США: в исследовательском центре Thomas J. Watson Research Center в Yorktown Heights, штат Нью-Йорк, и в комплексе нанотехнологий в Олбани (College of Nanoscale Science and Engineering's Albany NanoTech Complex).
+
+Обе компании до настоящего времени никогда не сотрудничали, но представители IBM и Hitachi полны оптимизма и не скрывают, что рады работать друг с другом. В планах совместных разработок создание 22-нм технологического процесса, на который в <Node id="853"/>2011 году<Node id="862"/> планирует перейти корпорация Intel. IBM часто работает в тандеме с другими компаниями. Недавно в вышеупомянутом комплексе в Олбани IBM и AMD добились создания технологии полномасштабной гравировки микрочипа при помощи дальнего ультрафиолета.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="853" EndNode="862">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="853" EndNode="862">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="198" EndNode="206">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

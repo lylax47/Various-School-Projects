@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как установили ученые из Национального Института Стандартов и Технологий США (NIST) и их коллеги из Рочестерского Технологического Института (Rochester Institute of Technology), растянутые однослойные <Node id="202"/>углеродные <Node id="213"/>нанотрубки<Node id="223"/> (SWNT) отличаются неординарными оптическими свойствами.
+
+Как сообщает EurekAlert, ученых интересовало, как свет взаимодействует с <Node id="354"/>углеродными <Node id="366"/>нанотрубками<Node id="378"/>. Определенный класс полупроводящих <Node id="414"/>нанотрубок<Node id="424"/> характеризуется флуоресцентными свойствами в близком инфракрасном диапазоне длин волн. Благодаря этому эти <Node id="532"/>наноматериалы<Node id="545"/> являются идеальными кандидатами для медицинской диагностики.
+
+Текущее же исследование ученых осветило взаимодействие экситонов – квазичастиц, представляющих собой связанное состояние пары электрон-дырка, с фотонами, падающими на <Node id="775"/>нанотрубку<Node id="785"/>.
+
+Исследования поведения экситонов в <Node id="823"/>нанотрубках<Node id="834"/> позволило ученым больше узнать о поглощении и испускании ими света.
+
+Например, можно ли падающим на <Node id="935"/>нанотрубку<Node id="945"/> светом вызвать деформацию экситонов?
+
+Теория говорит, что в углеродной <Node id="1017"/>однослойной <Node id="1029"/>нанотрубке<Node id="1039"/> этого достичь труднее, чем в обычном полупроводнике. Исследования показали, что этого можно достичь только тогда, когда свет распространяется вдоль <Node id="1188"/>нанотрубки<Node id="1198"/>, а зачастую этого добиться в эксперименте очень трудно.
+
+Ученые из NIST элегантно решили эту проблему: <Node id="1302"/>нанотрубки<Node id="1312"/> обработали ДНК для того, чтобы они не «слипались» вместе, и, затем, залили их полимером, в котором они все легли в одном положении.
+
+После того, как ученые получили матрицу из <Node id="1489"/>нанотрубок<Node id="1499"/>, они смогли доказать правильность теории.
+
+Метод по «выравниванию <Node id="1566"/>нанотрубок<Node id="1576"/>», открытый учеными, позволит использовать их в биомедицинской диагностике, оптике и <Node id="1661"/>наносенсорах<Node id="1673"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1188" EndNode="1198">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="1661" EndNode="1673">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1489" EndNode="1499">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1029" EndNode="1039">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1302" EndNode="1312">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="775" EndNode="785">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="532" EndNode="545">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="935" EndNode="945">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1566" EndNode="1576">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="213" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="366" EndNode="378">
+</Annotation>
+<Annotation Id="17" Type="Однослойная+нанотрубка" StartNode="1017" EndNode="1039">
+</Annotation>
+<Annotation Id="16" Type="Углеродная+нанотрубка" StartNode="354" EndNode="378">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="823" EndNode="834">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="414" EndNode="424">
+</Annotation>
+<Annotation Id="20" Type="Углеродная+нанотрубка" StartNode="202" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

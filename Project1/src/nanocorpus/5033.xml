@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Институт нанонаук и нанотехнологий (Institute For Nanoscience and Nanotechnology – INST) – это междисциплинарный межуниверситетский центр, проводящий исследования в области нанотехнологии в Техническом университете <Node id="215"/>Шарифа<Node id="221"/> и программы подготовки студентов на получение степени доктора философии (PhD) в данной сфере. 
+Цели INST – стать основным центром развития НТ в стране и осуществлять методическое руководство исследованиями в данной области в университетах и в масштабах всей страны, координируя работу сети исследователей различных специальностей и поддерживая их деятельность в данной области.
+INST был основан в <Node id="619"/>2005 году<Node id="628"/> как независимый центр в университете <Node id="666"/>Шарифа<Node id="672"/> после двухлетнего изучения задач и целей подобного подразделения. В работе Центра участвуют сотрудники/преподаватели различных факультетов: физического, химического, материаловедения, химической технологии, электротехнического, строительного и механики.
+
+Программа по подготовке и присуждению степеней доктора философии была начата в <Node id="1007"/>октябре 2005 года<Node id="1024"/>. Вначале в ней принимало участие всего 14 студентов с факультетов – физического, электротехнического, материаловедения и механики.
+Проф. Azam Iraji zad, руководитель INST
+Сам Центр (INST) развивается высокими темпами и вскоре после создания был номинирован как «Центр совершенства» («Center of Excellence») в области <Node id="1342"/>наноструктур<Node id="1354"/>.
+Institute For Nanoscience and NanotechnologyINST Contact
+Tel: ++98–21–6616 4123
+
+Fax: ++98–21–6616 4123
+
+Email: <Node id="1468"/>INST@sharif.edu<Node id="1483"/>
+Khodro Building
+
+Sharif University of Technology
+
+Azadi Avenue P.O.Box: 14588–89694
+
+Tehran, IRAN
+<Node id="1582"/>http://nano.sharif.ir/home.php?…Links:<Node id="1620"/> Iranian sites related to Nano Technologyhttp://nano.sharif.ir/home.php?…Очень интересный «эксперимент», достойный как изучения, так и всяческого подражания. Многие наши институты и университеты наверняка могли бы позаимствовать немало полезного для себя из опыта данного Центра…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1007" EndNode="1024">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="1468" EndNode="1483">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="619" EndNode="628">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="1342" EndNode="1354">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1582" EndNode="1620">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="215" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шариф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="666" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шариф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="619" EndNode="628">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

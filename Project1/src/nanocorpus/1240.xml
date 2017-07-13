@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Прорыв: <Node id="8"/>Нано<Node id="12"/> значит <Node id="20"/>наноНикита Максимов<Node id="39"/>, Дмитрий Мунгалов, Антон Злобин
+Партия сказала нано!
+
+<Node id="94"/>Семь лет назад<Node id="108"/> о наступлении эры нанотехнологий возвестил Билл Клинтон. <Node id="166"/>Четыре года назад<Node id="183"/> оду новой науке воспел Жак Ширак. Тони Блэр и Джордж Буш отдали ей должное в <Node id="261"/>прошлом году<Node id="273"/>, опередив саудовского короля <Node id="303"/>Абдаллу<Node id="310"/>, который пожертвовал <Node id="332"/>около $10 млн<Node id="345"/> на «нано» только перед последним <Node id="379"/>новым годом<Node id="390"/>.
+
+А Владимир Путин опередил президента Тайваня. Пока спичрайтеры Чень Шуйбяня готовили ему программную июньскую речь о нанотехнологиях как основе грядущего «экономического чуда», российский президент уже чудесным образом выделил на создание нанотехнологической сверхдержавы <Node id="665"/>180 млрд руб.<Node id="678"/>
+
+На <Node id="683"/>прошлой неделе<Node id="697"/> сумма возросла до 200 млрд. Об этом было объявлено на первом заседании совета по развитию наноиндустрии при <Node id="806"/>правительстве<Node id="819"/>. Этот орган, в который вошли первый вице-премьер Сергей Иванов, министр образования и науки Андрей Фурсенко, директор <Node id="938"/>Курчатовского<Node id="951"/> центра Михаил Ковальчук и другие, будет создавать и поднимать на ноги госкорпорацию «Роснанотех». Она и будет распределять гигантские деньги и создавать российское экономическое чудо.
+Цели поставлены, задачи определены: к <Node id="1174"/>2020 г.<Node id="1181"/>, по прогнозу <Node id="1195"/>Минэкономразвития<Node id="1212"/>, в России будет производиться высокотехнологичных товаров на сумму в два раза большую, чем выдает весь нефтегазовый сектор. Их экспорт составит <Node id="1357"/>$100 млрд<Node id="1366"/> в <Node id="1369"/>год<Node id="1372"/>. Как написано в инициативе президента, появится «цветной асфальт, контролирующий скорость движения, стены, впитывающие и перерабатывающие ядовитые выхлопы, из области сказок перейдут в реальность». А гвоздем проекта станет создание биоробота – ведь к этому стремятся все зарубежные нанотехнологи.
+
+Потребные для этого организационные усилия столь велики, что главный организатор нанопрорыва Михаил Ковальчук сравнил свое детище с атомным проектом СССР <Node id="1825"/>40-х годов<Node id="1835"/>. Однако общего с тем технологическим чудом у нанотехнологий лишь одно – эта наука тоже имеет дело с атомами, только теперь они рассматриваются в качестве строительного материала. Но главная разница в том, что для развития нанотехнологий, как говорят сами ученые, требуется совсем другая организация науки…
+<Node id="2142"/>http://www.runewsweek.ru/theme/?…Отличная<Node id="2183"/> статья из журнала «Русский Newsweek» [№ 26(151), <Node id="2233"/>25 июня – 1 июля 2007<Node id="2254"/>], в которой обсуждаются последние события, проводится анализ современных тенденций и перспектив развития НТ в нашей стране и за рубежом. Хорошо показаны как «болезни роста», так и «подводные камни», существующие на этом пути… Наиболее ценным, на мой взгляд, является обсуждение возникавших проблем и «негативного» опыта исследователей и руководителей науки и техники в других странах. Понятно, что каждый из нас редко когда учитывает чужой опыт и учится в основном на собственных ошибках и синяках (познаЁт, так сказать, действительность «на собственной шкуре»), но всё-таки хотелось бы, чтобы изучение, более того – «усвоение» чужого опыта и ошибок позволило бы избежать уж самых вопиющих «ям» и «ляпов» на этом пути…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="8" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="332" EndNode="345">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2142" EndNode="2183">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="806" EndNode="819">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительстве</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1369" EndNode="1372">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1357" EndNode="1366">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="261" EndNode="273">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="1195" EndNode="1212">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минэкономразвития</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="94" EndNode="108">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1825" EndNode="1835">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="379" EndNode="390">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="938" EndNode="951">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Курчатовского</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="20" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Максимов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="683" EndNode="697">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="303" EndNode="310">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Абдалла</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Деньги" StartNode="665" EndNode="678">
+</Annotation>
+<Annotation Id="35" Type="Период_времени" StartNode="2233" EndNode="2254">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="Период_времени" StartNode="166" EndNode="183">
+</Annotation>
+<Annotation Id="36" Type="Год" StartNode="1174" EndNode="1181">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

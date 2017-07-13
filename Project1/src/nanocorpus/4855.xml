@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Для развития понятий в научном мировоззрении выдвинута идея обобщения генерирующих категориальных структур господства и подчинения классических философских систем (<Node id="166"/>И.Кант<Node id="172"/>, <Node id="174"/>Ф.Ницше<Node id="181"/> и <Node id="184"/>М.Фуко<Node id="190"/>), которые рассматриваются как комплементарные. Выполнен поиск категориальных структур с более богатым, чем у классических структур, контекстом. Для обобщения предложено использовать категорию «комплементарное сотрудничество» взамен категории «власть». Показано, что в дискурсе необходимо соотносить высказывания с понятиями и их философскими комплементарными системами-источниками, что следует считать методологическим принципом познания. Разработана графическая схема генерирующих категориальных структур классических философских систем и их обобщенных аналогов. Главный вывод работы: свободная воля – осознанный выбор философской системы для генерации идейного содержания и смысла жизни.    
+ 
+        
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="184" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фуко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="174" EndNode="181">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ницше</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="166" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

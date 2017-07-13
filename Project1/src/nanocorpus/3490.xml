@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Первый международный конкурс научных работ молодых ученых в области нанотехнологий будет проходить в рамках Международного форума по нанотехнологиям, проводимого Государственной корпорацией «Роснанотех» <Node id="204"/>с 3 по 5 декабря 2008<Node id="225"/> в Экспоцентре (Москва).
+
+Цель конкурса – привлечение внимания научной и деловой общественности к научным достижениям молодых ученых в области нанотехнологий.
+
+К участию в конкурсе допускаются российские и иностранные студенты, аспиранты и молодые специалисты в возрасте <Node id="496"/>до 30 лет<Node id="505"/> включительно. Содержание научных работ, заявленных для участия в конкурсе, должно соответствовать основным тематикам секций Форума (подробная информация на сайте <Node id="668"/>www.rusnanoforum.ru).<Node id="689"/>
+
+Научные работы будут размещены на Форуме в виде стендовых докладов. Участники конкурса должны лично присутствовать на Форуме и представить свой стендовый доклад. По результатам докладов комиссии будут проводить оценку работ конкурсантов и отбирать по три самых лучших работы из каждой секции.
+
+На пленарном заседании Форума <Node id="1015"/>5 декабря 2008 года<Node id="1034"/> будут объявлены победители конкурса. Авторам лучших работ и их научным руководителям будут вручены почетные дипломы Форума. Кроме того, победителям конкурса по каждой секции будут вручены денежные призы:
+ 1-е место – <Node id="1252"/>50.000 руб<Node id="1262"/>; 2-е место – <Node id="1276"/>40.000 руб<Node id="1286"/>; 3-е место – <Node id="1300"/>30.000 руб.<Node id="1311"/> Дирекция Форума: Государственная корпорация «Российская корпорация нанотехнологий» 117420, Россия, Москва, ул. Наметкина, 12А Тел.: +7 (495) 642–73–35, 542–44–44 Факс: +7 (495) 542–44–34 rusnanoforum@
+<Node id="1513"/>rusnano.com<Node id="1524"/> <Node id="1525"/>www.rusnanoforum.ru<Node id="1544"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1015" EndNode="1034">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="668" EndNode="689">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1252" EndNode="1262">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1276" EndNode="1286">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1300" EndNode="1311">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1525" EndNode="1544">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="496" EndNode="505">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1513" EndNode="1524">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="204" EndNode="225">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

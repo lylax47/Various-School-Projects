@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В исследовательский центр компании Samsung Cheil Industries в Корее на постоянную работу требуется химик аналитик. 
+ 
+Требования к кандидату:
+   Образование: ученая степень доктора или кандидата наук  Опыт работы по специальности от <Node id="235"/>3 лет<Node id="240"/> после защиты кандидатской степени Знание английского языка    
+Профессиональные навыки:
+   Анализ органических соединений  
+   анализ структуры полимеров посредством ЯМР и/или спектроскопии КР   идентификация и разделение комплексных органических метериалов (ВЭЖХ + МС)    Анализ неорганических соединений  
+   определение следовых количеств металлов методом ICP-MS   анализ следовых количеств металлов в полимерных материалах с использованием рентгенофлуоресцентного анализа    
+Для подачи заявки необходимо составить на АНГЛИЙСКОМ ЯЗЫКЕ развернутое резюме (личные данные, образование, опыт работы) и направить его по адресу: <Node id="868"/>ilya.goldt@samsung.com<Node id="890"/> до <Node id="894"/>30 декабря 2007 года<Node id="914"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="235" EndNode="240">
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="868" EndNode="890">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="894" EndNode="914">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

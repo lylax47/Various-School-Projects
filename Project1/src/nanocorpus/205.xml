@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Наш сайт уже сообщал о том, что успешно издается Информационно-аналитический журнал "Форсайт", выпускаемый Институтом статистических исследований и экономики знаний (ИСИЭЗ) Государственного университета – Высшей школы экономики (ГУ-ВШЭ). <Node id="240"/>Форсайт<Node id="247"/>, от английского "foresight" (предсказание, предвидение), может явиться один из способов планирования развития нанотехнологий в Российской Федерации (не путать с "гадалками", речь идет о статистических, экономических и прочих серьезных прогностических исследованиях). Ценность этого метода в нынешних условиях, возможно, спорна, однако обойтись без стратегических прогнозов при стратегическом финансировании, конечно, нельзя.
+  
+Скорее всего, в связи с этим Государственная корпорация «Российская корпорация нанотехнологий» проводит отбор исполнителя для оказания услуг по формированию и реализации системы долгосрочного стратегического прогнозирования и мониторинга. Предложения, содержащие состав оказываемых услуг и их стоимость согласно состава и содержания оказываемых услуг, необходимо в срок <Node id="1046"/>до 12 часов<Node id="1057"/> <Node id="1058"/>00 минут<Node id="1066"/> <Node id="1067"/>26 февраля 2008 года<Node id="1087"/> доставить по НОВОМУ адресу ГК "Роснанотех": 117420, г. Москва, улица Намёткина, дом 12А, «ГазОйл Плаза», 11 этаж, ГК «Роснанотех».
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1058" EndNode="1066">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1067" EndNode="1087">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1046" EndNode="1057">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="240" EndNode="247">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Форсайт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

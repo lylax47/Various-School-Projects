@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Стороны будут сотрудничать в реализации научно-технических и инновационных проектов в области нанотехнологий. В частности, правительство Свердловской области будет поддерживать создание и развитие инкубаторов малых предприятий. ГК «Роснанотех» и правительство области планируют обмениваться информацией о научно-технических достижениях и результатах в области нанотехнологий. Кроме того, правительство области будет рекомендовать для предоставления в ГК «Роснанотех» крупные инвестиционные проекты.
+
+«<Node id="502"/>Это первый документ о сотрудничестве, подписанный с исполнительной властью региона. Причем этим регионом России стали не Москва, не Санкт-Петербург, им стала Свердловская область. Мы будем прилагать усилия только в тех регионах, где есть реальные результаты,<Node id="760"/>» – отметил Леонид Меламед<Node id="786"/>.
+
+В Свердловской области уже реализуется «Программа развития наноиндустрии на <Node id="865"/>2008–2010 годы<Node id="879"/>», предусматривающая осуществление инновационных проектов от стадии НИОКР до создания опытных производств. В программе участвуют более 40 научных, научно-технических и производственных предприятий, активно развивается инфраструктура технопарков и центров коллективного пользования.
+
+От предприятий и организаций области в ГК «Роснанотех» уже поступило около 40 заявок на финансирование перспективных проектов, семь из которых находятся на стадии предварительного рассмотрения.
+
+Для реализации Соглашения стороны сформируют <Node id="1402"/>Координационный совет<Node id="1423"/>, в состав которого войдут полномочные представители каждой из сторон.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="2" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="3" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="4" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="6" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="11" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="темы" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="17" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="16" Type="упоминает" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="19" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="23" Type="упоминает" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="22" Type="Властная_Структура" StartNode="1402" EndNode="1423">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Координационный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="865" EndNode="879">
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="26" Type="упоминается" StartNode="502" EndNode="786">
+</Annotation>
+<Annotation Id="29" Type="цитаты" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="28" Type="упоминается_с" StartNode="502" EndNode="760">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="502" EndNode="786">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

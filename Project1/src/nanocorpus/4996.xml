@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>По мнению зампреда, средства венчурного фонда осваиваются медленноСегодня на ПДС при зампреде правительства Саратовской области Алексее Щербакове<Node id="145"/> <Node id="146"/>были подведены первые итоги деятельности Саратовского регионального венчурного фонда.
+
+Замминистра экономического развития и торговли области <Node id="288"/>Наталья Попкова рассказала, что по состоянию на <Node id="336"/>1 августа<Node id="345"/> Фондом рассмотрено 100 инновационных проектов субъектов малого предпринимательства, 5 из них приняты к глубокой прединвестиционной разработке<Node id="487"/>. Общий объем финансирования проектов – <Node id="527"/>80 млн руб.<Node id="538"/>
+ Представленные отрасли – нанотехнологии, нефтепереработка, добыча и переработка полезных ископаемых, машиностроение. 
+Ожидается, что в <Node id="675"/>этом году<Node id="684"/> будут профинансированы 2 проекта, в следующем – 4.
+<Node id="736"/>Наталья Попкова подчеркнула, что в работе Фонда есть несколько проблем: неготовность компаний «делиться бизнесом» (по <Node id="854"/>ее<Node id="856"/> мнению, менталитет пока непреодолим:<Node id="893"/>
+ 
+«Предприниматели предпочитают получать <Node id="935"/>100%<Node id="939"/> с <Node id="942"/>5 тыс. руб.<Node id="953"/>, а не <Node id="960"/>5%<Node id="962"/> с <Node id="965"/>1 млн руб.<Node id="975"/>, например») и невысокое качество проработки бизнес-идей.
+ 
+Зампреду показалось, что средства Фонда осваиваются медленно (весь бюджет Фонда – <Node id="1117"/>280 млн руб.<Node id="1129"/>):
+ 
+«Бюджетные деньги лежат в банке. Бог с ними, с частными средствами, но наши должны работать. Нас не интересует, чтобы банки жили на наши проценты».
+ <Node id="1283"/>http://news.sarbc.ru/…5/82655.htmlДа<Node id="1319"/> уж, совсем смешные – для огромной области – цифры. Боится народишко рисковать и работать «по-взрослому». А, впрочем, разве они одни? Вон, такой же «дурной пример» подаёт и ГК РНТ – им тоже «удобнее» держать свои средства на депозите и автоматом получать «капающие копейки». А зачем суетиться, напрягаться, куда-то бегать, чего-то делать?.. «Копейка капает» и ладно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="942" EndNode="953">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="527" EndNode="538">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1117" EndNode="1129">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="960" EndNode="962">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="288" EndNode="487">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="145" EndNode="146">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="145" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">зампред</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="336" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="965" EndNode="975">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="935" EndNode="939">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1283" EndNode="1319">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="736" EndNode="893">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="288" EndNode="487">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="736" EndNode="893">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="854" EndNode="856">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="675" EndNode="684">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

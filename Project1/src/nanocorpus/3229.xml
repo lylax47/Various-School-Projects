@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из University of Notre Dame нашли новый способ, как увеличить производительность солнечных элементов. Для этого они в пленку из диоксида титана внедрили одностенные <Node id="180"/>углеродные <Node id="191"/>нанотрубки<Node id="201"/>. В результате эффективность превращения ультрафиолета в электричество возросла вдвое. 
+ 
+Такое явление ученые объясняют следующим образом. <Node id="341"/>Наночастицы<Node id="352"/> диоксида титана хорошо поглощают свет и генерируют электроны. Однако для появления тока необходимо, чтобы электроны, перемещаясь от частицы к частице, достигли поверхности электрода. А как раз это не у всех получается. Роль <Node id="577"/>углеродных <Node id="588"/>нанотрубок<Node id="598"/> – собрать электроны и направить их к электроду. 
+ 
+Сначала поверхность электрода устилается <Node id="691"/>углеродными <Node id="703"/>нанотрубками<Node id="715"/>. <Node id="717"/>Потом<Node id="722"/> на такой каркас осаждаются <Node id="750"/>наночастицы<Node id="761"/> диоксида титана. Пока устройство работает только в ультрафиолетовом диапазоне, но это можно исправить, например, покрыв <Node id="882"/>наночастицы<Node id="893"/> полупроводниковыми <Node id="913"/>квантовыми точками<Node id="931"/>. В любом случае, использование <Node id="963"/>углеродных <Node id="974"/>нанотрубок<Node id="984"/> в этой области выглядит довольно интересным и в перспективе может привести к созданию более дешевых солнечных батарей.  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="691" EndNode="715">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="882" EndNode="893">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="963" EndNode="984">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="913" EndNode="931">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="180" EndNode="201">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="191" EndNode="201">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="717" EndNode="722">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="341" EndNode="352">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="577" EndNode="598">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="974" EndNode="984">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="588" EndNode="598">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="750" EndNode="761">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="703" EndNode="715">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

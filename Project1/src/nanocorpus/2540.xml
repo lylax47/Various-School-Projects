@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Сегодня <Node id="9"/>10 апреля<Node id="18"/> в Москве, в конференц-зале бизнес-центра «Александр-хаус», по приглашению Государственной корпорации «Российская корпорация нанотехнологий (ГК «Роснанотех»), исследовательское агентство LUX Research (США) провело презентацию «Глобальные рынки нанотехнологий».
+
+Со вступительным словом выступил руководитель ГК «Роснанотех» Меламед <Node id="350"/>Л.Б. После<Node id="360"/> <Node id="361"/>традиционного русского «поехали», компанию LUX Research представил Раймонд Кримерс (Raymond Creemers), директор епропейского отделения компании. Господин <Node id="515"/>Раймонд Кримерс отметил, что <Node id="544"/>компания рада сотрудничеству с ГК «Роснанотех» и содействию в решении задачи становления России в качестве одного из мировых нанотехнологических центров («powerhouse»)<Node id="711"/>.
+
+В качестве докладчика выступила аналитик компании, наша соотечественница из Томска, ныне живущая в США, Евгения Пекарская (Ph.D).
+
+LUX Research является ведущей организацией в области анализа международных нанотехнологических рынков и сотрудничает с государственными органами и крупнейшими частными компаниями по всему миру.
+
+В ходе презентации были освещены объемы и прогнозы рынков нанотехнологий, нанотехнологическая активность крупнейших мировых экономик и другие актуальные темы. Участники презентации получили обширный взгляд на многие аспекты мировой наноиндустрии по версии одного из самых авторитетных исследовательских агентств. Целью презентации стало формирование общего видения участников наносообщества на роль и место России на глобальных нанотехнологических рынках.
+
+Интересным оказался прогноз Lux Research в отношении перспектив российского нанотеха в мире. Компания выделила четыре сегмента, определяющие положение страны на мировом нанотехнологическом рынке по уровню развития технологической базы и активности, которую она проявляет в своём стремлении к развитию:
+ «Доминанты» «Мечтатели» «Нишевые игроки» «Младшая лига» 
+В ближайшее время, по словам представителя компании, Россия претендует на выход из зоны «Младшей лиги» либо в зону «Мечтателей», либо даже в зону «Доминант» – всё будет зависеть от того, удержит ли наша страна набранный темп своей активности в этой области.
+
+С российской стороны присутствовали члены <Node id="2158"/>Правительства<Node id="2171"/>, члены Наблюдательного совета ГК «Роснанотех», представители научных, деловых кругов, СМИ:
+ Меламед Л.Б. Чубайс А.Б. Алфимов М.В. <Node id="2302"/>Путилов<Node id="2309"/> А.В. Авдеев В.В. Локшин М.А. Володин В.П. Павлюк В.А. Малышев А.Б. Остапюк С.Ф. Кашкаров П.К. Лосюков А.П. <Node id="2417"/>Мартыненко<Node id="2427"/> А.В. Лещенко С.Н. <Node id="2446"/>Лебедев<Node id="2453"/> С.В. Беляев И.И. Конов В.И. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="темы" StartNode="544" EndNode="711">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="544" EndNode="711">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="2158" EndNode="2171">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительства</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="9" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="544" EndNode="711">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="544" EndNode="711">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="360" EndNode="361">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="2302" EndNode="2309">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Путилов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2417" EndNode="2427">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мартыненко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="упоминается_с" StartNode="544" EndNode="711">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="2446" EndNode="2453">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лебедев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="автор" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="упоминается" StartNode="515" EndNode="711">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="350" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="работает" StartNode="360" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

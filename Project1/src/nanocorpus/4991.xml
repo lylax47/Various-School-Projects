@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Традиционно для производства <Node id="30"/>золотых <Node id="38"/>наночастиц<Node id="48"/> используют различные синтетические или искусственные соединения, синтез которых также требует использования синтетических соединений, что обуславливает значительное отрицательное влияние процесса на окружающую среду. В отличие от этого для нового метода требуется исключительно природное сырье.
+
+<Node id="345"/>Золотые <Node id="353"/>наночастицы<Node id="364"/> можно использовать для диагностики и лечения рака <Node id="415"/>(http://www.cbio.ru<Node id="434"/>/…ns/index.php?…), а также при производстве сложных электронных устройств для компьютерной и телекоммуникационной промышленности. Считается, что нанотехнологическая отрасль в скором времени освоит масштабное производство <Node id="655"/>наночастиц<Node id="665"/>, однако специалисты высказывают опасения, что это нанесет значительный ущерб окружающей среде.
+
+Ученые университета Миссури, работающие под руководством профессора <Node id="830"/>Каттеша<Node id="837"/> Катти (Kattesh Katti), установили, что при растворении в воде солей золота и последующем добавлении сои происходит формирование <Node id="966"/>золотых <Node id="974"/>наночастиц<Node id="984"/>. Это обусловлено тем, что вода растворяет содержащееся в сое фитосоединение, эффективно восстанавливающее золото, которое при этом формирует <Node id="1126"/>наночастицы<Node id="1137"/>. Еще одно водорастворимое соединение, входящее в состав сои, стабилизирует <Node id="1213"/>наночастицы<Node id="1224"/> и предотвращает их слияние. В результате этого процесса, на <Node id="1285"/>100%<Node id="1289"/> соответствующего принципам «зеленой химии», получается суспензия, содержащая идентичные по размеру <Node id="1389"/>наночастицы<Node id="1400"/>.
+
+Разработчики подали патентную заявку на новый процесс (теперь понятно, почему технология описана так обтекаемо?) и создали компанию Greennano Company, которая будет заниматься разработкой, коммерциализацией и поставкой на мировой рынок <Node id="1639"/>золотых <Node id="1647"/>наночастиц<Node id="1657"/> для медицинских и промышленных целей.
+
+Специалисты в области нанотехнологии сошлись на мнении, что предлагаемая разработка достойна Нобелевской премии и является огромным достижением в области нанотехнологии, а использование получаемых с ее помощью <Node id="1907"/>наночастиц<Node id="1917"/> откроет огромное количество возможностей, в том числе не рассматриваемых ранее, во многих отраслях медицины, науки и промышленности.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1907" EndNode="1917">
+</Annotation>
+<Annotation Id="1" Type="Наночастица+золота" StartNode="1639" EndNode="1657">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="353" EndNode="364">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="655" EndNode="665">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="415" EndNode="434">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1389" EndNode="1400">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="830" EndNode="837">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Каттеша</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="38" EndNode="48">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="974" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица+золота" StartNode="966" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1213" EndNode="1224">
+</Annotation>
+<Annotation Id="15" Type="Наночастица+золота" StartNode="30" EndNode="48">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="1285" EndNode="1289">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица+золота" StartNode="345" EndNode="364">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1126" EndNode="1137">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="1647" EndNode="1657">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

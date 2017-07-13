@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из <Node id="11"/>Университета Райса<Node id="29"/> (Rice University) удалось рассмотреть <Node id="68"/>углеродные <Node id="79"/>нанотрубки<Node id="89"/> длиной с молекулу ДНК внутри живого организма с помощью оптического микроскопа.
+
+Помогли ученым плодовые мушки-дрозофилы и технология флуоресцентной микроскопии в инфракрасном диапазоне.
+
+Как известно, из-за малых размеров <Node id="313"/>нанотрубки<Node id="323"/> в живой клетке достаточно трудно увидеть с помощью оптической микроскопии. Брюс Вайсман (Bruce Weisman) и <Node id="430"/>его<Node id="433"/> коллеги задались целью разработать метод простого обнаружения <Node id="496"/>нанотрубок<Node id="506"/> в живой ткани для того, чтобы в будущем можно было легко определить их воздействие на организм.
+
+Напомним, что <Node id="618"/>нанотрубки<Node id="628"/> считаются одним из биологически опасных веществ, поэтому определение их концентрации в живой ткани – достаточно важная задача.
+
+<Node id="757"/>Нанотрубки<Node id="767"/> добавлялись в состав пищи, которую затем давали личинкам плодовых мушек.
+
+После <Node id="848"/>нескольких дней<Node id="863"/> развития мушек ученые начали исследовать их под специально сконструированным микроскопом. Подсвечивая красным лазером ткани живых насекомых исследователи смогли наблюдать <Node id="1035"/>флуоресценцию<Node id="1048"/> отдельных <Node id="1059"/>нанотрубок<Node id="1069"/>.
+
+Более того, Брюсу и <Node id="1092"/>его<Node id="1095"/> коллегам удалось снять видео, на котором показывающее как <Node id="1154"/>нанотрубки<Node id="1164"/> совершают движения внутри пищеварительной системы насекомого.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="79" EndNode="89">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="496" EndNode="506">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1059" EndNode="1069">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Флуоресценция" StartNode="1035" EndNode="1048">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="757" EndNode="767">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="313" EndNode="323">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="618" EndNode="628">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="430" EndNode="433">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="848" EndNode="863">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="68" EndNode="89">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="1154" EndNode="1164">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="1092" EndNode="1095">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="11" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

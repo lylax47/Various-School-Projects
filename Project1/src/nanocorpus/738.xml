@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+По словам исследователей из США, лазерное текстурирование германиевых поверхностей может позволить создать новое поколение высокоэффективных фотодетекторов, солнечных элементов и электронных эмиттеров.
+
+По аналогии с микроструктурированным кремнием, учёные создали германиевую поверхность, покрытую наношипами, которые придают ей новые свойства. В частности, структурированная поверхность увеличивает эффективность детектора за счёт повышения поглощения света и снижения его отражения.
+
+Для создания такой поверхности авторы работы подвергали куски германиевой подложки воздействию импульсов титан-сапфирового лазера с длиной волны 800-нм и мощностью 1.4 мДж. Импульсы длительностью 130 фс создавались с частотой 1 кГц и «сканировали» поверхность образца. Вся процедура проводилась в атмосфере гексафторида серы – газа с отличными изолирующими и теплопроводными свойствами.
+
+Исследование поверхности в сканирующем электронном микроскопе показало, что на ней образуются конические структуры с диаметром основания около 5 мкм, высотой 10–15 мкм и с верхушкой диаметром 100 нм. Верхушку можно заострить дальше непродолжительным химическим <Node id="1137"/>травлением<Node id="1147"/>, за <Node id="1152"/>10 секунд<Node id="1161"/> уменьшающим её радиус до 10 нм.
+
+Лидер группы из Университета Вирджинии (University of Virginia) <Node id="1259"/>Мул Гупта<Node id="1268"/> (Mool Gupta) заявляет, что процесс лазерной обработки поверхности может легко быть автоматизирован<Node id="1367"/>. Даже если понадобится использование высоковакуумной техники (например, для контролирования уровня примесей), простая система загрузки образца позволила бы быстро обрабатывать большие объёмы. Сейчас группа пытается лучше понять образование таких наношипов в процессе лазерного текстурирования. Наиболее важными параметрами являются поток лазерного излучения, число лазерных импульсов, давление газа и скорость сканирования образца.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1152" EndNode="1161">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1259" EndNode="1268">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Гупта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1259" EndNode="1367">
+</Annotation>
+<Annotation Id="4" Type="Травление" StartNode="1137" EndNode="1147">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1259" EndNode="1367">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

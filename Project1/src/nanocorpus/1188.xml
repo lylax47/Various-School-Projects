@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>3 июня<Node id="6"/> откроется выставка «Метрология-2008»<Node id="43"/>С 3 по 5 июня 2008 года<Node id="66"/> в Москве (ВВЦ, павильон №55) пройдет Международная выставка-конкурс средств измерений, испытательного и лабораторного оборудования «Метрология-2008» и научно-практическая конференция «Точность рождает качество».
+<Node id="279"/>Федеральное агентство по техническому регулированию и метрологии<Node id="343"/> и Государственная корпорация «Российская корпорация нанотехнологий» выступили с инициативой организации на выставке специализированного раздела, отражающего современное состояние измерений и испытаний <Node id="545"/>наноматериалов<Node id="559"/> и созданной на основе <Node id="582"/>наноматериалов<Node id="596"/> продукции, перспективы создания системы оценки и подтверждения соответствия и обеспечения безопасности использования нанотехнологий и продукции наноиндустрии, а также пути развития стандартизации и нормативного обеспечения в сфере нанотехнологий и <Node id="845"/>наноматериалов<Node id="859"/>.
+
+Приглашаются все заинтересованные организации и предприятия представить разработки, обеспечивающие решение проблем измерений и подтверждения соответствия продукции наноиндустрии, в разделе нанотехнологий на выставке «Метрология-2008», которые могут стать для его участников основой долгосрочного сотрудничества и будут способствовать успешному развитию работ в этом перспективном направлении науки и техники.
+<Node id="1271"/>http://www.cnews.ru/…/index.shtml?…«Последнее<Node id="1316"/> китайское предупреждение»?..;-) Мы уже не первый раз сообщаем об этой выставке – <Node id="1398"/>http://www.nanonewsnet.ru/…ologiya-2008.<Node id="1438"/> Время ещё есть. Возможно, у организаторов возникли некоторые трудности в привлечении участников экспозиции? Хотя, с другой стороны, вон хотя бы <Node id="1583"/>«Росатом»<Node id="1592"/> какие выставки собирал!.. А, может быть, именно как раз поэтому? В любом случае, я полагаю, выставка на данную тему очень важна, наверняка будет интересна и поучительна. Так что и мы приглашаем всех заинтересованных лиц и организации посетить её и познакомиться с её экспонатами и экспонентами…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="43" EndNode="66">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="545" EndNode="559">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="279" EndNode="343">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по техническому регулированию и метрологии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="582" EndNode="596">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1398" EndNode="1438">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1271" EndNode="1316">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="845" EndNode="859">
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="1583" EndNode="1592">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">«Росатом»</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

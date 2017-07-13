@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает Nanowerk, исследователи из Ливерморской лаборатории Лоуренса (Lawrence Livermore National Laboratory), Калифорнийского университета в Беркли (UC Berkeley) и Национальной лаборатории Лоуренса в Беркли (Lawrence Berkeley National Laboratory) обнаружили, что некоторые бактерии способны нейтрализовать вредное действие <Node id="330"/>наночастиц<Node id="340"/>, содержащихся в окружающей их среде.
+
+Ученые обратили внимание на сульфатвосстанавливающие бактерии, обитающие в заброшенных шахтах. Эти бактерии могут вызывать агрегацию <Node id="512"/>наночастиц<Node id="522"/> сульфида цинка. Оказалось, что они выделяют специальный белок, «склеивающий» <Node id="600"/>наночастицы<Node id="611"/>, в результате чего формируются макрокристаллы. Таким образом бактерии защищаются от вредного воздействия <Node id="717"/>наночастиц<Node id="727"/>.
+
+По словам исследователей, подобный принцип может использоваться в будущем в случае необходимости очистки воды от различных <Node id="853"/>наночастиц<Node id="863"/>.
+<Node id="865"/>http://www.polit.ru/…acteria.htmlНу<Node id="900"/> вот, кто-то создаёт и производит <Node id="934"/>наночастицы<Node id="945"/>, а кто-то вынужден от них избавляться… Хорошее дело, тем более что получившиеся макрокристаллы уже могут задерживаться менее совершенными фильтрами, намного удешевляя процесс фильтрации…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="934" EndNode="945">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="865" EndNode="900">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="853" EndNode="863">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="512" EndNode="522">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="717" EndNode="727">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="600" EndNode="611">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="330" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

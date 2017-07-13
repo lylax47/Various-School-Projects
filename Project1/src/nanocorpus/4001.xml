@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Если поместить обычную воду внутрь <Node id="36"/>нанотрубок<Node id="46"/>, то при определённых условиях её молекулы выстроятся таким образом, что будут напоминать спирали молекулы ДНК. К этому неожиданному выводу пришли исследователи из университета Небраски в Линкольне (University of Nebraska–Lincoln) во главе с профессором <Node id="300"/>Сяо<Node id="303"/> Чэн Цзэном (Xiao Cheng Zeng). 
+ 
+ 
+Учёные задумали построить модель поведения воды внутри <Node id="394"/>нанотрубок<Node id="404"/> при помощи суперкомпьютера. В ходе этого эксперимента исследователи попытались выяснить, что произойдёт с молекулами воды при высоком давлении и понижении температуры до -23 градусов по <Node id="591"/>Цельсию<Node id="598"/>. 
+ 
+    
+Каково же было удивление учёных, когда они узнали, что при таких условиях молекулы самостоятельно выстраиваются в спиральные "лесенки", очень напоминающие спиральную структуру ДНК. 
+ 
+ 
+"<Node id="795"/>Это было крайне неожиданно, — говорит профессор <Node id="843"/>Цзэн<Node id="847"/>. — Мы думали, что лёд просто приобретёт форму трубчатой структуры, которые раньше наблюдались внутри <Node id="949"/>углеродных <Node id="960"/>нанотрубок<Node id="970"/>". Примерно то же ожидалось и при нанотрубочном состоянии воды, описанном в другой работе. 
+ 
+ 
+Это необычное состояние оказалось возможным именно при определённом наборе параметров. Диаметр <Node id="1161"/>нанотрубок<Node id="1171"/> должен составлять 1,35-1,9 нанометра, а давление — достигать 40 тысяч атмосфер. 
+ 
+ 
+В этом случае слой молекул воды образовал двойную стенку. Внутренняя стенка состоит из чётырёх "нитей" молекул воды, а внешняя — тоже из четырёх нитей, но двойных (этим она очень напоминает двойную спираль ДНК). 
+ 
+ 
+При иных условиях лёд в <Node id="1498"/>нанотрубках<Node id="1509"/> представляет собой просто "внутренние" трубки безо всяких спиралей. 
+ 
+ 
+<Node id="1583"/>Цзэн<Node id="1587"/> и <Node id="1590"/>его<Node id="1593"/> коллеги уже <Node id="1606"/>несколько лет<Node id="1619"/> занимаются изучением льда внутри <Node id="1653"/>нанотрубок<Node id="1663"/>. "Я надеюсь, что эта модель окажется верной", — комментирует профессор своё открытие. По мнению учёного, проверить это возможно с помощью экспериментальных исследований на основе инфракрасной спектроскопии или рассеяния нейтронов. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="960" EndNode="970">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="591" EndNode="598">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1161" EndNode="1171">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1583" EndNode="1587">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Цзэн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="795" EndNode="847">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1498" EndNode="1509">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="300" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Сяо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="36" EndNode="46">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1653" EndNode="1663">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="949" EndNode="970">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1590" EndNode="1593">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="795" EndNode="847">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="843" EndNode="847">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Цзэн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="394" EndNode="404">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="1606" EndNode="1619">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

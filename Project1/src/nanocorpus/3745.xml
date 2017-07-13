@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Государственная корпорация «Росатом», ФГУП ЦНИИАТОМИНФОРМ 
+ 
+и Центр «Атом-инновации» начинают подготовку третьего отраслевого инновационного форума. Мероприятие пройдет <Node id="172"/>9 июня 2008 г.<Node id="186"/> в «Президент-отеле» (Москва, ул. <Node id="220"/>Б. Якиманка<Node id="231"/>, 24) и будет включать в себя экспозицию комплексных инновационных проектов, конференцию, круглые столы, заседания, деловые встречи и награждение победителей. 
+ 
+<Node id="393"/>Организационный комитет форума<Node id="423"/> приглашает к участию отраслевых и внеотраслевых разработчиков инновационных технологий, услуг, решений по следующим направлениям: 
+   водоочистка и водоподготовка   упрочнение материалов   промышленная диагностика   лазерные, плазменные и ускорительные технологии   сверхпроводимость   нанотехнологии    экология   энергетика и энергосбережение   разное   
+Поступившие проекты пройдут независимую экспертизу по научно-техническим и экономическим критериям с привлечением ассоциации экспертов Центра «Атом-инновации». Лучшие решения будут рекомендованы для реализации в рамках отраслевого бизнес-инкубатора 
+ 
+высоких технологий (для создающихся компаний предоставляются бесплатный офис, Интернет, юридические, бухгалтерские, консультационные услуги). Помимо этого победители получат <Node id="1207"/>750 тыс. руб.<Node id="1220"/> на доработку бизнес плана или технологии. 
+ 
+Информацию о подготовке и проведении мероприятия можно найти на официальном сайте Центра «Атом-инновации». 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="393" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Организационный комитет форума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="220" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="172" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1207" EndNode="1220">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В то время, как с помощью наноэлектроники становится возможным делать все меньшие и меньшие электронные устройства, <Node id="117"/>наноматериалы<Node id="130"/> помогают их эффективно охлаждать.
+
+Как сообщают ученые из Политехнического Института Ренсслеера (Rensselaer Polytechnic Institute), им и их коллегам из Финляндии удалось создать эффективный нано-кулер из <Node id="335"/>углеродных <Node id="346"/>нанотрубок<Node id="356"/>.
+
+Как оказалось, именно многослойные <Node id="394"/>углеродные <Node id="405"/>нанотрубки<Node id="415"/>, расположенные в массив, могут эффективно отводить тепло от нагретого тела любых размеров – будь то макроскопическая микросхема, или же гораздо меньший нано-чип, состоящий всего из нескольких нанотранзисторов.
+
+Матрица из <Node id="638"/>нанотрубок<Node id="648"/> рассеивает тепло так же эффективно, как и медные радиаторы, однако при этом «радиатор» из <Node id="739"/>нанотрубок<Node id="749"/> гораздо меньше в высоту, вдесятеро легче и и может изгибаться в любом направлении. Кроме этого, нанорадиатор дешевле медного.
+
+«Радиатор», построенный учеными, состоит из <Node id="921"/>многослойных <Node id="934"/>нанотрубок<Node id="944"/> длиной 1,2 миллиметра, выращенных на подложке оксида кремния, на которой с помощью лазера были вырезаны «радиаторные панели», покрытые в последствии <Node id="1094"/>нанотрубками<Node id="1106"/>.
+
+Как говорят ученые, радиатор работает гораздо эффективнее, если принудительно пропускать через него охладитель – в экспериментах это был газ азот. Ученые уверены, что со временем кулеры на <Node id="1298"/>нанотрубках<Node id="1309"/> смогут заменить традиционные медные, что значительно снизит массу коммерческих электронных устройств.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="934" EndNode="944">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="405" EndNode="415">
+</Annotation>
+<Annotation Id="4" Type="Многослойная+нанотрубка" StartNode="921" EndNode="944">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1298" EndNode="1309">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="394" EndNode="415">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="335" EndNode="356">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="346" EndNode="356">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="117" EndNode="130">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="739" EndNode="749">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1094" EndNode="1106">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="638" EndNode="648">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

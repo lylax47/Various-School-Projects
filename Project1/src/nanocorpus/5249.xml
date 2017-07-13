@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>10 августа<Node id="11"/> в Сан <Node id="18"/>Диего<Node id="23"/> (Калифорния) открывается симпозиум и выставка NanoScience + Engineering 2008 (10 – 14 August 2008 San Diego Convention Center San Diego, California, USA), которые продлятся до <Node id="200"/>14 августа<Node id="210"/> <Node id="211"/>(http://spie.org/x10913.xml).<Node id="240"/> Симпозиум проходит под эгидой SPIE (международное научно-техническое сообщество, поддерживающее развитие, изучение и коммерческое применение оптики, электронной и оптоэлектронной технологии). В повестке <Node id="444"/>дня<Node id="447"/> этого, крупнейшего события <Node id="475"/>года<Node id="479"/>, вопросы инженерных разработок и технологий на нано уровне. В программе симпозиума – два потока или практически две независимых конференции NanoScience и NanoEngineering. В программу NanoScience включены секции по <Node id="694"/>метаматериалам<Node id="708"/>, материалам для нанофотоники, активным кристаллам, металлическим <Node id="774"/>наноструктурам<Node id="788"/> и их оптическим свойствам и т.д. В программе NanoEngineering работают секции тонких пленок, оптических технологий, метрологии и стандартизации, фотовольтаических технологий, технологий для космических исследований и т.д.
+
+Открывает симпозиум на пленарном заседании Ричард Кинг (Richard King) – представитель Министерства Энергетики Правительства США с докладом «The Solar Decathlon: Building a Better Future with Solar Energy».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="444" EndNode="447">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="774" EndNode="788">
+</Annotation>
+<Annotation Id="5" Type="Метаматериал" StartNode="694" EndNode="708">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="200" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="18" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="211" EndNode="240">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="475" EndNode="479">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

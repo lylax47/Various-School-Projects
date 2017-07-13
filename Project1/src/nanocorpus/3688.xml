@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Специалисты Иранского института полимеров и нефтехимии (Iran Polymer and Petrochemical Institute) с использованием нанотехнологий разработали автомобильные и авиационные шины с повышенным коэффициентом трения (подробности методики не раскрываются).
+ 
+«<Node id="252"/>Согласно этому методу, коэффициент трения шин был увеличен за счёт расчёта их механических характеристик», – говорит научный сотрудник Института Мохаммад Карраби<Node id="413"/> (Mohammad Karrabi).
+  
+«Меньшее сопротивление качения и более высокий коэффициент трения ведут к меньшему потреблению топлива», – добавляет он.
+ 
+Карраби сказал также, что отечественные (иранские) изготовители автомобилей вскоре не смогут выдерживать конкуренции на международных рынках, если они не начнут использовать нанотехнологии.
+
+Он добавил также, что данный проект, который был начат в <Node id="808"/>прошлом году<Node id="820"/> благодаря поддержке <Node id="841"/>Администрации президента<Node id="865"/>, будет закончен в <Node id="884"/>следующем году<Node id="898"/>.
+<Node id="900"/>http://www.nanotechnology.com/news/?…Iran<Node id="941"/> Polymer and Petrochemical <Node id="968"/>Institutehttp://www.iranpolymerinstitute.org<Node id="1012"/>/Ну, что скажешь?.. Молодцы! Только вот не понятно, КАК и с помощью КАКИХ МЕТОДОВ они надеются достичь этой цели. Секретность, блин! Весьма жаль…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="808" EndNode="820">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="841" EndNode="865">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Администрации президента</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="884" EndNode="898">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="900" EndNode="941">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="252" EndNode="413">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="252" EndNode="413">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="968" EndNode="1012">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

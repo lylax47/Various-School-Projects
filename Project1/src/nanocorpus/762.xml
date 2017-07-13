@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Американские инженеры создали новую технологию, названную «нанофотографией», которая может соcтавить конкуренцию жидкокристаллическим дисплеям.
+
+Профессора университета Хьюстона Винсент Доннелли (Vincent Donnelly), Деметр Экономоу (Demetre Economou) и Пол Рачхоефт(Paul Ruchhoeft) разработали технологию, применимую в массовом производстве, которая позволит заменить жидкокристаллические дисплеи (LSD) на экраны с автоэлектронной эмиссией (FED).
+
+В FED используются <Node id="467"/>углеродные <Node id="478"/>нанотрубки<Node id="488"/> для создания изображения более высокого разрешения, чем на LCD. Современные технологии позволяют производить <Node id="598"/>нанотрубки<Node id="608"/> в промышленных масштабах.
+
+Технология использует стандартную фотолитографию и <Node id="687"/>травление<Node id="696"/>, чтобы выборочно удалить части тонкой пленки и создать массивы ионных микролинз на подложке, например, кремниевой. Поток ионов направляется на подложку, и желательный образец одновременно копируется в миллиарды близко расположенных отверстий в области, ограниченной только размером потока ионов.
+
+Создатели метода утверждают, что технология может быть коммерчески доступной через 5–<Node id="1079"/>10 лет<Node id="1085"/>. Университет подал заявку на патент на новую технологию.
+
+Переводчик: Дмитрий Лещев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1079" EndNode="1085">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="598" EndNode="608">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="1079" EndNode="1085">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="467" EndNode="488">
+</Annotation>
+<Annotation Id="6" Type="Травление" StartNode="687" EndNode="696">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="478" EndNode="488">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

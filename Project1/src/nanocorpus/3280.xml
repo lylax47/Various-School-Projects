@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Дебаты вокруг нанотехнологий на телеканале «Столица»<Node id="52"/>6 июня<Node id="58"/> пройдут съемки теледебатов на канале «Столица» по теме «Нанотехнологии – факты и мифы».
+Основные темы для обсуждения: Что такое нанотехнологии? Где применяются нанотехнологии? Что такое наномедицина? Роль нанотехнологий в развитии человечества. Нанотехнологии в образовании. Мифы и заблуждения вокруг нанотехнологий. Приглашаем всех интересующихся нанотехнологиями и наномедициной к участию в съемках. Для отбора участников необходимо прислать резюме с указанием интересующих вопросов по электронному адресу: <Node id="568"/>tv@nano-medicine.ru<Node id="587"/> .
+<Node id="590"/>http://www.nanometer.ru/…i_53081.htmlПрименение<Node id="637"/> нанотехнологий в <Node id="655"/>медицинеhttp://www.nanonewsnet.ru/…-v-meditsineММА-Центр<Node id="711"/> <Node id="712"/>Наномедициныhttp://nano-medicine.ru/modules.php?…А<Node id="762"/> ну-ка, все «интересующиеся нанотехнологиями и наномедициной», бросайте всё и марш на съёмки!..;-))) А если серьёзно, то это очень хорошая инициатива как ММА-ЦМ, так и телевидения. Ведь, согласно результатам опросов (да это и так ясно всем), основные сведения наше население получает через «ящик»… Кстати, давно не посещал сайта «ММА-Центр Наномедицины» – много интересного там уже накопилось. Рекомендую вам тоже посетить его. Найдёте немало интересного и полезного…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="568" EndNode="587">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="590" EndNode="637">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="712" EndNode="762">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="52" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="655" EndNode="711">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

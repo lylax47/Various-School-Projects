@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В РГУ имени <Node id="12"/>Канта<Node id="17"/> осваивают нанотехнологииВ РГУ имени <Node id="54"/>Канта<Node id="59"/> поступило новое оборудование в рамках нацпроекта «Образование». Уже запущена в эксплуатацию первая часть лаборатории нанотехнологий. Преподаватели и студенты осваивают современную технику.
+
+Преподаватели вместе со студентами учатся по-новому исследовать поверхности разных веществ. Освоить работу на новых микроскопах несложно, научились за <Node id="401"/>один день<Node id="410"/>.
+
+Сложнее обработать результат. Новые приборы испытали на себе. Лично убедились в том, какой вред наносит аммиачная краска женскому волосу.
+
+Новые микроскопы позволяют еще эффективнее работать с отдельными атомами. А достижения в этой области звучат как фантастика.
+Николай Никулин, доцент, зав. кафедрой прикладной физики РГУ им. <Node id="742"/>Канта<Node id="747"/>:
+
+«Специалисты в области нанотехнологий занимаются разработкой нанороботов, если удастся создать такую конструкцию, то в принципе, уместно ставить вопрос о бессмертии человека».
+
+Стоимость пяти новых микроскопов – <Node id="962"/>более 100 тысяч долларов<Node id="986"/>. К <Node id="990"/>2010 году<Node id="999"/> университет сможет приобрести еще пять приборов исследовательского класса, стоимость которых превосходит <Node id="1105"/>2 млн. долларов<Node id="1120"/>. Тогда можно будет сказать, что у нас в Калининграде создан центр мирового уровня.
+Тимур Гареев, директор инновационной образовательной программы РГУ им. <Node id="1275"/>Канта<Node id="1280"/>:
+ 
+«У нас впервые нацпроект дал возможность приобрести такого уровня технику».
+ 
+Здесь пока не центр для общего пользования, но к этому стремятся. Чтобы лаборатория стала доступной для студентов и предприятий всего города.
+<Node id="1504"/>http://kaliningrad.rfn.ru/rnews.html?…Российский<Node id="1552"/> государственный университет имени Иммануила <Node id="1597"/>Кантаhttp://www.kantiana.ru/index.phpНу<Node id="1636"/> вот, наконец-то НТ пришли и в самый западный наш край. Постепенно и там появятся новые талантливые исследователи, и оттуда будут приходить новости о новых открытиях и изобретениях. В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="990" EndNode="999">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1105" EndNode="1120">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="990" EndNode="999">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="742" EndNode="747">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1504" EndNode="1552">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="54" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1597" EndNode="1636">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="401" EndNode="410">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="12" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="962" EndNode="986">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1275" EndNode="1280">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

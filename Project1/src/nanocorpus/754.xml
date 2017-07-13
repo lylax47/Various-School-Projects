@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Квантовые компьютеры<Node id="21"/> – «святой грааль» современной физики, ведь создание работоспособного квантового вычислительного устройства позволит за весьма короткое время, по сравнению с традиционными компьютерами, решать ряд специфических задач. Но пока до реальных прототипов еще далеко – необходимо разработать «аппаратную» базу <Node id="324"/>квантовых компьютеров<Node id="345"/>, что является для современной физики сложнейшей задачей.
+
+На данный момент учеными предложен целый ряд путей реализации <Node id="466"/>квантовых компьютеров<Node id="487"/>, в том числе и путем манипуляции электронных спинов, среди которых появился очередной новичок – <Node id="584"/>фуллерены<Node id="593"/>, каркасные молекулы из атомов углерода, наиболее распространенным из которых является <Node id="680"/>фуллерен<Node id="688"/> C__60__ – сфера, составленная из шестидесяти атомов углерода.
+
+Новая идея принадлежит профессору химии Гарри Дорну (Harry Dorn), предложившим идею использования <Node id="850"/>фуллерена<Node id="859"/> C__80__, внутри которого находится два иона иттрия, редкоземельного металла. Наиболее интересно, тем не менее, следующее – при замене одного атома углеродного каркаса на заряженный атом азота, в результате чего заряд может переходить к атомам иттрия. В данном случае образуется пара с одноэлектронной связью, обладающей уникальными спиновыми свойствами, которыми учеными могут относительно легко манипулировать.
+
+Как надеются исследователи, описанный феномен приведет к новым разработкам в области медицины, спинтроники, молекулярной электроники, а также компьютеров будущего – вполне возможным выглядит создание на основе <Node id="1483"/>фуллеренов<Node id="1493"/> устройств хранения информации с высочайшей плотностью размещения данных.
+
+Не менее интересным выглядит и возможность внедрение в молекулу <Node id="1632"/>фуллерена<Node id="1641"/> вместо азота атома бора, что приводит не к появлению «лишнего» электрона, а его недостаток. По всей видимости, подобные соединения можно использовать в качестве основного компонента полупроводниковой структуры.
+
+В опубликованной в журнале Journal of the American Chemical Society (JACS) статье ее авторами описывается методика создания молекулы <Node id="1987"/>фуллерена<Node id="1996"/>, техника, позволяющая заменить один атом углерода на атом азота или бора.
+Александр Бакаткин</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="1483" EndNode="1493">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="680" EndNode="688">
+</Annotation>
+<Annotation Id="3" Type="Квантовый+компьютер" StartNode="466" EndNode="487">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="584" EndNode="593">
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="1987" EndNode="1996">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="850" EndNode="859">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Квантовый+компьютер" StartNode="1" EndNode="21">
+</Annotation>
+<Annotation Id="9" Type="Квантовый+компьютер" StartNode="324" EndNode="345">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="1632" EndNode="1641">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

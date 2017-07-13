@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Обновить ячейки памятиДелегация профессоров и аспирантов Оренбургского госуниверситета побывала в Высшей школе науки Университета Хиросимы (ВШН), где прошли переговоры о развитии совместных исследований в области нанотехнологий и создании новых типов ячеек магнитной памяти. Российские и японские ученые обсудили последние результаты работ в области физики и химии молекулярного магнетизма. Речь шла также о студенческих обменах и визитах ученых и преподавателей.
+Оренбургский госуниверситет
+Еще одной волнующей оба вуза темой оказалось установление побратимских отношений между Хиросимой и Оренбургом. Японский город пострадал от ядерной бомбардировки, а на полигоне в Тоцке (Оренбургская область) испытывали атомную бомбу. Японцы заинтересованы в изучении последствий этих событий.
+
+Члены делегации ОГУ – студентки Ульяна Шевченко и Евгения Курганова – приняли участие в международной конференции по магнитным явлениям (ICMS 2007), прошедшей в Хиросиме. Девушки выступили на форуме с докладами, посетили лаборатории Университета Хиросимы и лекции ведущих профессоров этого вуза, участвовали в обсуждении совместных проектов.
+Оренбургский госуниверситет и Высшая школа науки Университета Хиросимы активно взаимодействуют в области физики и химии молекулярных магнетиков и <Node id="1273"/>магнитных <Node id="1283"/>наноструктур<Node id="1295"/>. В <Node id="1299"/>2006 году<Node id="1308"/> ОГУ и ВШН заключили соответствующий договор о сотрудничестве, а также об обмене студентами. Недавно в рамках этого договора трое профессоров и двое студентов из Университета Хиросимы приняли участие в международном семинаре, прошедшем в Оренбурге. Японские студенты <Node id="1575"/>в течение трех недель<Node id="1596"/> осваивали современное оборудование, слушали лекции и проходили обучение на семинарах ОГУ.
+<Node id="1687"/>Роман<Node id="1692"/> <Node id="1693"/>БОРИСОВhttp://www.poisknews.ru/…pamjati.htmlНу<Node id="1739"/> что ж, обмен учёными, студентами, опытом, идеями и т.п. – это дело хорошее. Заодно ребята и на мир поглядят, и языки подучат. А заодно и сама наука продвинется… Словом, я – за!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1299" EndNode="1308">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1575" EndNode="1596">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Магнитная+наноструктура" StartNode="1273" EndNode="1295">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="1283" EndNode="1295">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1299" EndNode="1308">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1693" EndNode="1739">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1687" EndNode="1692">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Роман</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

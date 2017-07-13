@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Международная стипендия Фулбрайта в области точных наук и технологий предназначена для финансирования получения степени PhD в области: 
+  химии;  биологии;  прикладной физики и химии и др.   
+В рамках программы предоставляется финансирование сроком <Node id="251"/>до трех лет<Node id="262"/>, начиная с <Node id="274"/>августа<Node id="281"/>/<Node id="282"/>сентября 2009 г.<Node id="298"/> 
+ 
+Требования к соискателям, участники конкурса должны иметь:
+  гражданство России и проживать на ее территории;  диплом о высшем образовании к <Node id="443"/>1 июля 2008 г.<Node id="457"/>;  хороший уровень владения английским языком, что должно быть подтверждено сертификатом о сдаче экзамена TOEFL как минимум на 580/237 баллов (бумажный/компьютерный формат).   
+Для участия необходимо заполнить заявку (в режиме on-line). 
+ 
+Заявки принимаются до <Node id="719"/>16 мая 2008 г.<Node id="733"/> (ЗАЯВКА ДОЛЖНА БЫТЬ В ОФИСЕ НЕ ПОЗДНЕЕ <Node id="773"/>16 мая<Node id="779"/> !) 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="443" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="719" EndNode="733">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="274" EndNode="281">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="773" EndNode="779">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="282" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="251" EndNode="262">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

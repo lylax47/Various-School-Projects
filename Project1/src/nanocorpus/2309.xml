@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Имея полную информацию о структуре материала, можно предсказывать его свойства, поэтому эти сведения очень важны при создании новых и использовании уже существующих материалов. Для обычных материалов есть множество методов определения их структуры. Однако, для наноструктурированных (когда элемент структуры имеет размер 1-100 нанометров, или от 5 до 1000 атомов) эти методы не дают возможность определения атомного порядка с высокой точностью. Это так называемая «наноструктурная проблема» («nanostructure problem»). 
+ 
+В статье, опубликованной <Node id="547"/>27 апреля<Node id="556"/> в Science, Игорь Левин (Igor Levin) из Национального институте стандартов и технологии (National Institute of Standards and Technology) и <Node id="695"/>Саймон<Node id="701"/> Дж.Л. Биллинге (Simon J.L. Billinge) из Мичиганского Университета (Michigan State University) рассмотрели методы, используемые при изучении <Node id="842"/>наноструктур<Node id="854"/> различных классов <Node id="873"/>наноматериалов<Node id="887"/>. Авторы отмечают, что существует несколько методов изучения <Node id="948"/>наноструктуры<Node id="961"/>, но ни один из них не даёт полной структурной картины. 
+ 
+Статью завершает призыв к координации усилий исследователей для разработки последовательной стратегии всеобъемлющего решения «наноструктурной проблемы».  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="948" EndNode="961">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="547" EndNode="556">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="842" EndNode="854">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="695" EndNode="701">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Саймон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="873" EndNode="887">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компьютерная модель. 
+Скорость проникновения <Node id="47"/>наночастиц<Node id="57"/> золота<Node id="64"/> в капилляры зависит от размера частиц, "время жизни" - от стабилизатора (оптимально: поли-N-винилпирролидон).
+    
+ 
+      
+ 
+  
+ 
+                                   
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица+золота" StartNode="47" EndNode="64">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="47" EndNode="57">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

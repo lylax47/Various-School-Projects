@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Технология новых солнечных элементов, разработанная исследовательским центром <Node id="79"/>наноматериалов<Node id="93"/> Massey University, сделала возможным генерировать электричество из солнечного света в 10 раз дешевле, чем при использовании обычных кремниевых фотоэлектрических солнечных элементов.
+
+Доктор <Node id="284"/>Уэйн Кэмпбелл<Node id="297"/> (Wayne Campbell) с сотрудниками Центра разработали ряд красителей (например, красный гемоглобин и зеленый хлорофилл) для использования в солнечных элементах. Доктор <Node id="463"/>Кэмпбелл<Node id="471"/> говорит, что в отличие от кремниевых солнечных элементов, представленных на сегодняшнем рынке, демонстрационный зеленый элемент, размером 10 на 10 см, дает достаточно электричества для работы небольшого вентилятора в условиях недостатка света — это идеально для облачного климата<Node id="751"/>. Красители могут быть встроены в окрашенные окна для генерирования электричества.
+
+Доктор говорит, что зеленые солнечные элементы более безвредны для окружающей среды, чем элементы на основе кремния, поскольку они сделаны от диоксида титана — распространенного, возобновляемого и нетоксичного белого минерала, который получают из магнетитового песка в Новой Зеландии. Диоксид титана используется во многих потребительских товарах, например, в зубной пасте, белых красках и косметике.
+
+«Хотя кремний и распространенный элемент, очистка чистого кремния очень энергоемкая и дорогая. И тогда как кремниевые ячейки требуют прямого солнечного света, чтобы работать эффективно, новые солнечные элементы будут работать эффективно и в рассеянном свете», говорит Уэйн.
+
+Ожидаемая стоимость — одна десятая цены солнечной батареи на основе кремния, что делает новые элементы более привлекательными и доступным для домовладельцев. Новый директор Центра, профессор <Node id="1703"/>Астон<Node id="1708"/> Партридж (Ashton Partridge), говорит, что они теперь имеют самую эффективный краситель с порфирином в мире и стремятся оптимизировать и улучшить работу солнечного элемента перед коммерческим использованием.
+
+Следующий шаг должен быть связан с включением красителей в материалы кровли или стенные панели.
+
+«Новозеландские компании проявляли интерес к нашей работе,» — говорит <Node id="2084"/>Астон<Node id="2089"/>. Он уверен, что окончательная цель использования нанотехнологии — развить наилучший солнечный элемент, который преобразовывал бы как можно больше света в электрическую энергию.
+
+Энергия, которая достигает Земли от Солнца за <Node id="2314"/>один час<Node id="2322"/>, больше, чем используемая людьми за <Node id="2359"/>один год<Node id="2367"/>. Новые солнечные элементы — продукт исследования больше чем <Node id="2428"/>10 лет<Node id="2434"/>, финансируемого Foundation for Research, Science and Technology.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2084" EndNode="2089">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Астон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="2428" EndNode="2434">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="79" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="463" EndNode="751">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2314" EndNode="2322">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="2428" EndNode="2434">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1703" EndNode="1708">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Астон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="2359" EndNode="2367">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="463" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кэмпбелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="284" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кэмпбелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="463" EndNode="751">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

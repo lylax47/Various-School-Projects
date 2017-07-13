@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Вице-президентом Академии наук впервые <Node id="39"/>стал<Node id="43"/> член-корреспондентДиректор Курчатовского института Михаил Ковальчук <Node id="112"/>стал<Node id="116"/> вице-президентом Российской академии наук. Вопрос о его назначении решился сегодня на заседании президиума РАН
+Кандидатуру Михаила Ковальчука выдвинул, по информации газеты «Коммерсантъ», сам президент Академии Юрий Осипов. Между тем подобное назначение директора Курчатовского института противоречит уставу РАН. Согласно ему, претендовать на этот пост может только академик, в то время как Ковальчук – только член-корреспондент.
+Владимир Путин и Михаил Ковальчук
+В связи с этим директор Курчатовского института стал только «исполняющим обязанности». Помету «и.о.» с должности нового вице-президента собираются снять, когда тот станет академиком, либо когда академиков и членкоров уравняют в правах.
+
+Продвижение М. Ковальчука по академической лестнице неслучайно. В начале <Node id="891"/>июня<Node id="895"/> <Node id="896"/>он<Node id="898"/> стал заместителем первого вице-премьера Сергея Иванова в правительственном совете по нанотехнологиям. В <Node id="1003"/>следующем году<Node id="1017"/> на развитие этого перспективного направления в науке государство планирует выделить порядка <Node id="1110"/>130 млрд рублей<Node id="1125"/>.
+
+Одновременно нерешенной остается задача установления государственного контроля над Академией. На последней сессии академики отказались проголосовать за новую редакцию устава своей организации, делающую ее подконтрольной <Node id="1348"/>правительству<Node id="1361"/>. Эксперты «И» полагают, что сегодняшнее назначение Михаила Ковальчука – это повторение той же попытки иными средствами.
+<Node id="1482"/>http://www.izbrannoe.ru/5884.htmlКак<Node id="1518"/> бы там ни было, этот факт свидетельствует о том, какое большое значение придаётся в нашей стране развитию современных нанотехнологий. Теперь, как говорится, осталось только садиться и начинать работать… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1110" EndNode="1125">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Кадровые_перестановки" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="112" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1482" EndNode="1518">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Назначения_Увольнения" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="896" EndNode="898">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="891" EndNode="895">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1003" EndNode="1017">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Властная_Структура" StartNode="1348" EndNode="1361">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительству</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="112" EndNode="116">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

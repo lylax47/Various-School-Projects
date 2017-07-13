@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Нанометр продолжает публиковать материалы из серии научно-популярных статей «интервью с лидером научной группы». 
+ 
+Первым из них являлось интервью с генеральным Директором компании НТ - МДТ В.А.Быковым<Node id="204"/>.<Node id="205"/> Сейчас мы предлагаем Вашему вниманию еще одно интервью, на этот раз с руководителем группы «Фотофизики фуллеренсодержащих сред и голографических технологий» Государственного Оптического Института им. С.И. Вавилова профессором Наталией Владимировной Каманиной. 
+ 
+Мы также приглашаем к участию в серии подобных интервью всех руководители групп, зарегистрированных на Нанометре, а также любые группы, занимающиеся нанотехнологиями. Вы сможете описать "профиль" Вашей группы, а также рассказать о наиболее значимых достижениях последнего времени. 
+ 
+Свои идеи и предложения, о том, с кем Вы хотели бы увидеть дальнейшие интервью, направляйте Евгению Гудилину или Дмитрию Зайцеву 
+В ряде случаев мы можем также помочь вынести на обсуждение Нанотехнологического сообщества Ваши научные идеи.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="204" EndNode="205">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="204" EndNode="205">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

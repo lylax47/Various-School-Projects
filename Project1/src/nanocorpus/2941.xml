@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Нитевидные <Node id="12"/>наночастицы<Node id="23"/> Ni на золотой текстурированной подложке. <Node id="65"/>Наноструктуры<Node id="78"/> получены электрохимическим осаждением никеля с использованием матрицы пористого Al2O3 в качестве темплата. 
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="12" EndNode="23">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="65" EndNode="78">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

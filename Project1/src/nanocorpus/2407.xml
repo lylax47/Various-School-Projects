@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Учеными синтезированы <Node id="23"/>наноструктуры<Node id="36"/> нового типа, названные нанопочками – «NanoBuds». Они представляют собой новые <Node id="115"/>углеродные <Node id="126"/>наноструктуры<Node id="139"/>: одностенные <Node id="153"/>нанотрубки<Node id="163"/> с <Node id="166"/>фуллеренами<Node id="177"/>, расположенными на <Node id="197"/>нанотрубках<Node id="208"/> подобно почкам на ветках деревьев.
+
+Большинство <Node id="257"/>фуллеренов<Node id="267"/> представляет собой кластеры C__42__ и С__60__, хотя были зарегистрированы и самые маленькие <Node id="360"/>фуллерены<Node id="369"/> C__20__.
+
+Ключевым фактором для синтеза нанопочек является присутствие в атмосфере паров H__2__O и CO__2__. Оптимизация условий изготовления позволила достичь плотности <Node id="539"/>фуллеренов<Node id="549"/> на <Node id="553"/>нанотрубках<Node id="564"/> свыше 1 <Node id="573"/>фуллерен<Node id="581"/>/нм. <Node id="586"/>Фуллерены<Node id="595"/> прикреплены к <Node id="610"/>нанотрубкам<Node id="621"/> очень прочно: они не смещаются при воздействии иглы СТМ и электронного пучка просвечивающего микроскопа, не «отпочковываются» при нагревании до 7000С и не растворяются в органических растворителях, что свидетельствует о ковалентной природе их взаимодействия с <Node id="882"/>нанотрубками<Node id="894"/>.
+
+Наличие большого числа сильно искривленных «поверхностей» <Node id="955"/>фуллеренов<Node id="965"/> облегчает автоэлектронную эмиссию из нанопочек: пороговая напряженность поля составляет 0.65В/мкм, что в 3 раза меньше, чем у «гладких» одностенных <Node id="1114"/>нанотрубок<Node id="1124"/>, а ток эмиссии значительно больше. Новый <Node id="1166"/>наноматериал<Node id="1178"/> обладает рядом особенностей, благоприятствующих его практическому применению. Например, фуллереновое покрытие препятствует слипанию <Node id="1311"/>нанотрубок<Node id="1321"/> в больших массивах, а неоднородность электронных характеристик вдоль оси <Node id="1395"/>нанотрубки<Node id="1405"/> можно использовать в наноэлектронике (устройства памяти, декодеры, <Node id="1473"/>квантовые точки<Node id="1488"/>). Немаловажна и простота изготовления нанопочек: комнатная температура, атмосферное давление, любые подложки.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="882" EndNode="894">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="539" EndNode="549">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="573" EndNode="581">
+</Annotation>
+<Annotation Id="3" Type="Фуллерен" StartNode="586" EndNode="595">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="257" EndNode="267">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1311" EndNode="1321">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="610" EndNode="621">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="553" EndNode="564">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="197" EndNode="208">
+</Annotation>
+<Annotation Id="9" Type="Фуллерен" StartNode="360" EndNode="369">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1114" EndNode="1124">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+наноструктура" StartNode="115" EndNode="139">
+</Annotation>
+<Annotation Id="12" Type="Фуллерен" StartNode="166" EndNode="177">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="153" EndNode="163">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1395" EndNode="1405">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="23" EndNode="36">
+</Annotation>
+<Annotation Id="17" Type="Фуллерен" StartNode="955" EndNode="965">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1166" EndNode="1178">
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="126" EndNode="139">
+</Annotation>
+<Annotation Id="18" Type="Квантовая+точка" StartNode="1473" EndNode="1488">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

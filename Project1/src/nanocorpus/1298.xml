@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Самый умный российский олигарх – так отзываются о Михаиле Прохорове эксперты после объявления сделки с банком «Ренессанс Капитал». Стратегия главы фонда ОНЭКСИМ позволила ему оказаться с миллиардами долларов в разгар кризиса ликвидности и дешевеющих активов. Подробнее о том, удача или расчет помогли Прохорову оказаться в такой выгодной позиции, журналист Бизнес FM <Node id="368"/>Елена Иванкина<Node id="382"/>.
+
+Михаил Прохоров интересуется практически всеми отраслями экономики. Начавший с металлургии, предприниматель позже увлекся энергетикой, но не пожелал забирать энергетические активы при разделе «Норникеля» с <Node id="591"/>Потаниным<Node id="600"/>. Прохоров видит будущее за нанотехнологиями, вкладывает в недвижимость. Теперь ОНЭКСИМ хочет вложить деньги в ряд проектов финансовой сферы, а именно взять в управление несколько негосударственных пенсионных фондов на <Node id="819"/>10 миллиардов долларов<Node id="841"/>. И это, несмотря на то, что еще недавно глава ОНЭКСИМа Михаил Прохоров<Node id="912"/> <Node id="913"/>называл эту сферу небезопасной:
+
+«Основной рисковой зоной является банковская система, и тот вид бизнеса, который связан с длинным инвестиционным циклом, я имею ввиду строительство, девелопмент, и т.д. Главная задача – не остановить инвестиционный цикл, мы так долго его раскачивали, набрали хороший темп».
+
+По мнению экспертов Прохоров выбрал самое правильное время, когда продавал долю в «Норникеле» «Русалу». Потенциал роста акций никелевой компании на момент продажи был исчерпан, по мнению аналитика инвестиционной компании «Тройка-Диалог» Михаила Стискина<Node id="1474"/>.<Node id="1475"/> Сейчас та же доля стоит в два с половиной раза дешевле.
+
+«Прохоров продал свою долю в «Норникеле» по оценке выше <Node id="1589"/>трехсот долларов<Node id="1605"/> за акцию, <Node id="1616"/>на сегодняшний момент<Node id="1637"/> цена акций порядка <Node id="1657"/>135 долларов<Node id="1669"/>. Если Прохоров продавал сейчас он получил бы порядка <Node id="1723"/>6,25 млрд. долларов<Node id="1742"/> на эту долю. Должен признать, что Прохоров оказался самым умным из российских олигархов».
+
+Прохоров, конечно, не осуществляет инвестиции наугад, но в его истории есть большая доля везения, говорит основатель «Национальной резервной корпорации» Александр Лебедев<Node id="2004"/>:<Node id="2005"/>
+
+«Вряд ли <Node id="2016"/>последние десять лет<Node id="2036"/> он вот так планировал, они там все-таки перессорились, были сложные переговоры. На момент когда он получил эти деньги, условно, в <Node id="2167"/>середине года<Node id="2180"/>, он не успел их никуда инвестировать, и правда, какое-то время тому назад он сказал, у меня тут есть аккумулированные деньги, сейчас многие будут банкротиться в области недвижимости, проперти, ретейле, инвестиционных банков».
+
+Свободные деньги у Прохорова еще остались. Сколько, эксперты затрудняются обозначить, но денежная часть сделки по «Норникелю» оценивается приблизительно в <Node id="2563"/>8 миллиардов долларов<Node id="2584"/>.
+
+Планы по развитию банковского бизнеса у Прохорова грандиозные. На основе «Ренессанс-Капитала» планируется создание глобального инвестбанка. Первый этап развития – освоить развивающиеся рынки, а потом зайти на развитые рынки.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Тональность" StartNode="368" EndNode="382">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="1474" EndNode="1475">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">аналитик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="912" EndNode="913">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1657" EndNode="1669">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1616" EndNode="1637">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="2563" EndNode="2584">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="2004" EndNode="2005">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">основатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="591" EndNode="600">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Потанин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="912" EndNode="913">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="1589" EndNode="1605">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="819" EndNode="841">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2016" EndNode="2036">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="1474" EndNode="1475">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="2167" EndNode="2180">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Деньги" StartNode="1723" EndNode="1742">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="сотрудники" StartNode="2004" EndNode="2005">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

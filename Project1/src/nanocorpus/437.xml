@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Профессору Г.А.Цирлиной и <Node id="28"/>ее<Node id="30"/> коллегам с кафедры электрохимии Химического факультета МГУ к <Node id="92"/>Дню<Node id="95"/> <Node id="96"/>Святого Валентина<Node id="113"/> удалось получить, а потом с помощью <Node id="150"/>сканирующей туннельной микроскопии<Node id="184"/> воочию увидеть формирование сердечко-подобных структур при электролитическом осаждении меди на базисной грани пирографита. Вероятно, данное случайное наблюдение отражает суть сегодняшнего <Node id="373"/>дня<Node id="376"/>, когда все влюбленные друг в друга или в науку (очевидно, однако, что эти вещи не исключают друг друга) видят мир совсеми другими глазами. Благодарим <Node id="527"/>Галину Александровну<Node id="547"/> за столь замечательный подарок. Сама фотография переезжает на почетное место в галерею микрофотографий!
+ 
+ 
+ 
+P.S. Вероятно, формирование подобных структур, имеющих лишь эстетически важное значение, связано с селективным ростом меди по ступени, который прерывается дефектами. Впрочем, это не столь пока важно.
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сканирующая+туннельная+микроскопия" StartNode="150" EndNode="184">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="373" EndNode="376">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="527" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Александровна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Галина</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="92" EndNode="95">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="28" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="96" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Валентин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

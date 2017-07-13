@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Российские и белорусские ученые работают над совместными нанотехнологическими проектами в космической области, сообщил БелаПАН начальник сводного управления организации и планирования космической деятельности Федерального космического агентства РФ (Роскосмос) Юрий Макаров.
+
+По его словам, соответствующая программа «Нанотехнологии-СГ» на <Node id="340"/>2009—2012 годы<Node id="354"/> была одобрена Советом министров Союзного государства на заседании в <Node id="423"/>октябре<Node id="430"/> <Node id="431"/>текущего года<Node id="444"/>. «Со <Node id="450"/>следующего года<Node id="465"/> мы начнем ее реализовывать на белорусских и российских предприятиях», — сообщил представитель Роскосмоса.
+
+<Node id="573"/>Ю.Макаров пояснил, что создание композиционных материалов, <Node id="632"/>наноматериалов<Node id="646"/>, имеющих более высокие прочностные свойства и меньший вес, является важным фактором в развитии космической техники, авиастроении<Node id="775"/>.
+
+В ходе реализации программы «Нанотехнологии-СГ» планируется внедрить данные нанотехнологических процессов, что позволит в ближайшей перспективе обеспечить создание широкой номенклатуры элементов ракетно-космической техники. Среди них — детали гироскопов и измерительных приборов высокой точности, прецизионные подшипники, элементы детальных установок, оптические элементы со сложными рабочими поверхностями, перспективные малогабаритные космические аппараты, в том числе и микроспутники. Планируется и создание специальных материалов для проведения испытаний в космосе.
+
+Ю.Макаров проинформировал, что кроме этой программы подготовлены еще два предложения: программа стандартизации и сертификации ракетно-космической техники и программа мониторинга транспортных коридоров.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="423" EndNode="430">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="340" EndNode="354">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="450" EndNode="465">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="573" EndNode="775">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="431" EndNode="444">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="573" EndNode="775">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="632" EndNode="646">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

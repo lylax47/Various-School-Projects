@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Lady’s Island, SC, November 10, 2008
+
+NanoAndMore USA, Inc. has added one more quality manufacturer’s <Node id="103"/>AFM<Node id="106"/> probes to its most comprehensive inventory in the Americas. A distribution arrangement has been entered with nanotools™ GmbH, a manufacturer of specialty probes utilizing EBD to create consistently uniform high density carbon (HDC) tips. A thorough selection of high aspect ratio and metrology high resolution probes (2nm ROC) with extremely good wear characteristics due to the HDC is now in stock at the main facility in South Carolina with overnight delivery if needed. “These probes are perfect for users with extreme wear problems or who would like to reduce the cost per site on samples, particularly those requiring high aspect ratio and/or 2nm radius tips” said George McMurtry, CEO of NanoAndMore USA. “With wear characteristics better than 3 times standard silicon tips and costs not quite double, high volume users can have substantial ongoing savings. Even occasional users can find these probes attractive since they are much more robust than their fragile silicon counterparts” quoted McMurtry.
+About NanoAndMore USA, Inc.
+NanoAndMore USA was founded in South Carolina in 2005 as one-stop shop to distribute probes for Scanning Probe Microscopy and Atomic Force Microscopy (SPM and <Node id="1303"/>AFM<Node id="1306"/>) such as NANOSENSORS™, NanoWorld™ and BudgetSensors™ probes to North and South America. Since then other products, including scientific instruments other than AFMs, such as the Lyncée tec digital holographic microscope and surface patterning systems from Bioforce Nanosciences for life science researchers have been added.
+About nanotools™ GmbH
+nanotools™ was established in 1997 at the Center for NanoScience/Munich, nanotools designs, manufactures and markets tools for nanotechnology applications. nanotools™ core competencies are electron beam induced processing (EBD), enabling the very controlled deposition of High-Dense, amorphous Diamond like Carbon (HDC) three dimensional features.
+
+The product line includes high aspect ratio and enhanced resolution <Node id="2069"/>AFM<Node id="2072"/> probes, as well as OEM production for various nano-micro applications. The products are customized for industrial needs, in particular for the semiconductor and high tech industry, and are used by leading fabrication facilities worldwide for inline process control. nanotools™ is ISO 9001 certified.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Атомно-силовая+микроскопия" StartNode="103" EndNode="106">
+</Annotation>
+<Annotation Id="1" Type="Атомно-силовая+микроскопия" StartNode="1303" EndNode="1306">
+</Annotation>
+<Annotation Id="2" Type="Атомно-силовая+микроскопия" StartNode="2069" EndNode="2072">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

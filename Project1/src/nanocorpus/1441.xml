@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Для разработки новых приборов, модернизации действующих моделей, исследовательской и экспериментальной работы приглашаем к сотрудничеству инженеров, инженеров-конструкторов, инженеров-физиков, инженеров-электронщиков. Приветствуется опыт научно-исследовательской работы, знание SolidWorks, владение английским языком. 
+ 
+О компании на <Node id="337"/>www.ntmdt.ru<Node id="349"/> 
+Ваши предложения ждем на <Node id="376"/>personal@ntmdt.ru<Node id="393"/> или по факсу + 7 495 535 64 10 
+Дополнительная информация по телефону + 7 495 535 24 93 доб. 131 
+Отдел управления персоналом, Пичурина Элона
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="376" EndNode="393">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="337" EndNode="349">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

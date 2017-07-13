@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>3 марта<Node id="7"/> начнет работу Московский международный салон инноваций и инвестицийС <Node id="77"/>3 по 6 марта<Node id="89"/> в павильоне 69 Всероссийского выставочного центра пройдет VIII Московский международный салон инноваций и инвестиций
+<Node id="207"/>3 марта<Node id="214"/> в 12.00 состоится торжественное открытие выставки. В церемонии открытия примут участие министр образования и науки РФ <Node id="333"/>А. Фурсенко<Node id="344"/>, руководитель Федерального агентства по науке и инновациям <Node id="404"/>С. Мазуренко<Node id="416"/>,<Node id="417"/> представители федеральных органов исполнительной власти, руководители российских и зарубежных изобретательских, инновационных и инвестиционных организаций.
+По окончанию церемонии, в 13.00, в Малом конференц-зале состоится пресс-конференция «Результаты и перспективы инновационной научно-технической политики в России» при участии министра образования и науки РФ <Node id="780"/>А. Фурсенко<Node id="791"/>, руководителя Федерального агентства по науке и инновациям <Node id="851"/>С. Мазуренко<Node id="863"/> <Node id="864"/>и генерального директора ОАО «ГАО ВВЦ» М. Мусаева.
+
+На выставке будет представлено более 600 экспонентов из 22 регионов Российской Федерации и 16 зарубежных стран. Среди них: научные центры и промышленные предприятия, вузы, технопарки, предприятия малого и среднего бизнеса российских регионов, наукограды, центры международного научно-технического и инновационного сотрудничества.
+Мероприятия деловой программы салона, объединенные общей тематикой «Национальные приоритеты развития России: образование, наука, инновации», включат в себя конференции, круглые столы, научно-практические семинары и презентации инновационного и инвестиционного потенциала, проектов и программ регионов и компаний.
+
+Отдельной экспозицией на выставке будут представлены результаты деятельности Минобрнауки России и Роснауки по формированию отечественного инновационного потенциала в рамках ФЦП «Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на <Node id="1846"/>2007–2012 годы<Node id="1860"/>» по разделам: «Нанотехнологии и материалы», «Живые системы», «Энергетика и энергосбережение», «Рациональное природопользование», «Информационно-телекоммуникационные технологии».
+
+Вниманию посетителей будут представлены образцы огнегасящего покрытия, лаборатория для анализа нуклеиновых кислот на основе ПЦР в реальном времени, новые растительные препараты с антибактериальным действием, программно-аппаратный диагностический комплекс, универсальная переносная установка получения питьевой воды, 2х-местный и 4х-местный самолеты с шасси на воздушной подушке, автомобиль ГАЗ 330232 с экологически чистой энергоустановкой и многое другое.
+
+В рамках VIII Московского международного салона инноваций и инвестиций состоится конкурс «Пресса об инновациях» на лучшее освещение в СМИ инновационной деятельности в Российской Федерации.
+Организаторы проекта – Министерство образования и науки России, Министерство экономического развития и торговли России, Федеральное агентство по науке и инновациям, правительство Москвы.
+<Node id="2874"/>http://allmedia.ru<Node id="2892"/>/…lineitem.asp?…Очевидно, очень интересное мероприятие, грандиозная выставка (будет представлено более 600 экспонентов из 22 регионов Российской Федерации и 16 зарубежных стран. Среди них: научные центры и промышленные предприятия, вузы, технопарки, предприятия малого и среднего бизнеса российских регионов, наукограды, центры международного научно-технического и инновационного сотрудничества) и т.п. Вероятнее всего, она готовилась к дате президентских выборов. Единственно, что настораживает, что информация об этом «грандиозном» мероприятии выдаётся в самый его канун, в предвыборной суете, а само мероприятие пройдёт всего за 3–<Node id="3526"/>4 дня<Node id="3531"/>. Какой-то нехороший привкус – всё как-то скомканно: и подготовка авральная, и деятельность лихорадочная (это очевидно – за <Node id="3655"/>3 дня<Node id="3660"/> надо будет провести кучу переговоров), и сроки проведения какие-то «нереальные»… Что, проводим «для галочки»? И опять это демонстрирует, показывает всему миру, что не могут, не умеют «эти ребята» работать планомерно, солидно и систематически… Несолидно как-то. И очень-очень печально…;-(((</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="416" EndNode="417">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="77" EndNode="89">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="780" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="333" EndNode="344">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="863" EndNode="864">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="3655" EndNode="3660">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="3526" EndNode="3531">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="416" EndNode="417">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="2874" EndNode="2892">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1846" EndNode="1860">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="207" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="работает" StartNode="863" EndNode="864">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="404" EndNode="416">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мазуренко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="851" EndNode="863">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мазуренко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

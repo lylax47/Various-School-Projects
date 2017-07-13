@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В <Node id="3"/>октябре<Node id="10"/> в центре внимания СМИ – принятие наблюдательным советом корпорации решения об одобрении первых проектов из области образования и медицины.
+
+Первый образовательный проект РОСНАНО будет реализован совместно с Московским институтом стали и сплавов (МИСиС) и Московским физико-техническим институтом (МФТИ). Для реализации проекта, помимо ведущих профессоров московских ВУЗов, будут привлечены специалисты из США, стран Европейского Союза и Израиля.
+
+Также в <Node id="466"/>октябре<Node id="473"/> состоялось подписание учредительных документов о создании совместного предприятия Новые инструментальные решения. Основной продукцией предприятия, в которое Российская корпорация нанотехнологий вложит <Node id="675"/>500 миллионов рублей<Node id="695"/>, станет твердосплавный инструмент с наноструктурированными покрытиями.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="466" EndNode="473">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="675" EndNode="695">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="3" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

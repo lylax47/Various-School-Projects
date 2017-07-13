@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Завершился этап регистрации участников Второй Интернет-олимпиады по нанотехнологиям «Нанотехнологии – прорыв в будущее!» (e-NANOS'08), проводимой под эгидой Московского государственного университета им. Ломоносова.
+
+Оргкомитет Олимпиады возглавляет ректор МГУ <Node id="261"/>Садовничий В. А.<Node id="277"/> <Node id="278"/>В составе наблюдательного совета Олимпиады: лауреаты Нобелевской премии <Node id="350"/>Алферов Ж.<Node id="360"/> И и Гинзбург В. Л.<Node id="379"/>,<Node id="380"/> генеральный директор Государственной корпорации «Российские нанотехнологии» Меламед Л. Б., декан факультета мировой политики МГУ, депутат Государственной Думы Кокошин А. А.<Node id="553"/>,<Node id="554"/> первый заместитель председателя Президиума НАН Беларуси <Node id="611"/>Витязь П. А.<Node id="623"/>, президент Национальной академии наук Украины Патон Б. Е.<Node id="681"/> <Node id="682"/>и другие ученые, государственные деятели.
+
+Более двух тысяч двухсот участников – школьников, студентов, аспирантов и молодых ученых <Node id="814"/>до 27 лет<Node id="823"/> из России и зарубежных стран решили попробовать свои силы в борьбе за призовые места. Наибольшее число из зарегистрировавшихся «олимпийцев» живут в Российской Федерации.
+
+Однако и наши соседи также проявили немалый интерес к участию в этом событии. В оргкомитет поступило около двухсот заявок из зарубежных государств – 43 из Украины, 44 из Казахстана, 29 – из Белоруссии, по 8 – из Азербайджана и Узбекистана, 7 – из Таджикистана, 5 из Молдовы, по 4 из Армении и Киргизии, 2 из Грузии, а также из других стран.
+
+После жесткого конкурса, проводимого под наблюдением лучших российских экспертов, будут выявлены победители Олимпиады. Они получат не только моральное поощрение в виде направленных по месту их учебы или работы благодарственных писем, но и солидное материальное вознаграждение.
+
+Абсолютные победители первой степени получат <Node id="1660"/>50 000 рублей<Node id="1673"/>, второй – 30 000, третьей
+ <Node id="1701"/>20 000 рублей<Node id="1714"/>. 
+Кроме того, особая номинация «Добрососедство» установлена для лучших участников Олимпиады из зарубежных стран в рамках одноименной программы, осуществляемой при участии Фонда содействия развитию международных связей и социальных систем. Победители в этой номинации также получат денежные гранты.
+
+А впереди новые проекты, направленные на развитие науки в интересах прогресса и развития человечества.
+
+Информацию направил Директор региональных проектов Фонда содействия развитию международных связей и социальных систем
+ Московский Ю.В.
+ ksovet@
+gmail.com,
+ м.8–916–119–83–94,
+ м.8–903–015–32–07,
+ р.+7 (495) 661–16–88,
+ <Node id="2337"/>http://www.dobrososedstvo.info<Node id="2367"/>/</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="261" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1660" EndNode="1673">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="681" EndNode="682">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="553" EndNode="554">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="611" EndNode="623">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="379" EndNode="380">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="814" EndNode="823">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="379" EndNode="380">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="277" EndNode="278">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="681" EndNode="682">
+</Annotation>
+<Annotation Id="19" Type="работает" StartNode="277" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="2337" EndNode="2367">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="350" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ж.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="работает" StartNode="553" EndNode="554">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Деньги" StartNode="1701" EndNode="1714">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

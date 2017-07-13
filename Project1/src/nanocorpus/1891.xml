@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>России нужна база данных по нанотехнологиям – экспертМОСКВА, <Node id="61"/>15 окт<Node id="67"/> – В России необходимо создать специальную базу данных для формирования каталога нанотехнологий, заявил в понедельник генеральный директор ЗАО «Концерн "Наноиндустрия» Михаил Ананян.
+Михаил Ананян 
+«Необходимо провести инвентаризацию всего, что делается в сфере нанотехнологий и создать базу данных»,– сказал он, выступая на «круглом столе» в рамках агропромышленной выставки «Золотая осень-2007» в Москве, информационным партнером которой выступает РИА Новости.
+ 
+<Node id="532"/>Ананян отметил, что сегодня нанотехнологии в отечественном АПК используются, в частности, для дезинфекции сельхозпомещений и инструментов<Node id="669"/>.
+
+По его словам, биологически активные подкормки скота на основе нанотехнологий позволяют снизить заболеваемость животных, а также повысить их массу.
+
+В результате использования нанотехнологий, применяемых для обработки семян <Node id="896"/>наночастицами<Node id="909"/>, специалисты отметили улучшение урожайности растений и злаков, также сообщил Ананян.
+**
+
+Кроме того, отметили участники «круглого стола», создано большое количество средств на основе <Node id="1093"/>наноматериалов<Node id="1107"/>, позволяющих продлить срок службы тракторов, автомобилей – специальных препаратов, сокращающих трение и износ деталей.
+<Node id="1227"/>http://www.rian.ru<Node id="1245"/>/…3992542.htmlДа, совершенно прав уважаемый эксперт: такую (и другие) базу данных непременно нужно будет создавать. Очевидно, это будет «заботой» (одной из функций) только что созданной корпорации «Роснанотех». Не уверен только, что её будут создавать сами чиновные люди. Ну так наверняка они смогут найти организацию (специалистов), которые – по их поручению – будут вести подобную базу, постоянно отслеживать новинки и оперативно обновлять её. Как это принято во всём мире и даже носит красивое название outsourcing: передача специализированной компании функций, напрямую не связанных с основной деятельностью компании…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="532" EndNode="669">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="61" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">окт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1227" EndNode="1245">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="532" EndNode="669">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="896" EndNode="909">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="1093" EndNode="1107">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

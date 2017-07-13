@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+"Возник этот праздник как <Node id="28"/>день<Node id="32"/> борьбы за права женщин. <Node id="57"/>8 марта 1857 года<Node id="74"/> в Нью-Йорке собрались на манифестацию работницы швейных и обувных фабрик. Они требовали 10-часовой рабочий <Node id="182"/>день<Node id="186"/>, светлые и сухие рабочие помещения, равную с мужчинами заработную плату. Работали в то время женщины <Node id="288"/>по 16 часов<Node id="299"/> в <Node id="302"/>сутки<Node id="307"/>, получая за свой труд гроши. Мужчинам после решительных выступлений удалось добиться введения 10 часового рабочего <Node id="423"/>дня<Node id="426"/>. На многих предприятиях в США возникли профсоюзные организации. И вот после <Node id="503"/>8 марта 1857 года<Node id="520"/> образовался еще один - впервые его членами стали женщины. В <Node id="581"/>этот день<Node id="590"/> во многих городах Нью-Йорка сотни женщин вышли на демонстрацию, требуя представления им избирательного права. 
+ В <Node id="705"/>1910 году<Node id="714"/> на Международной конференции женщин социалисток в Копенгагене Клара Цеткин выступила с предложением о праздновании Международного женского <Node id="854"/>дня 8 марта<Node id="865"/>, которое прозвучало, как призыв ко всем женщинам мира включиться в борьбу за равноправие. Откликаясь на этот призыв, женщины многих стран включаются в борьбу против нищеты, за право на труд, уважение своего достоинства, за мир. В <Node id="1096"/>1911 году<Node id="1105"/> этот праздник впервые отмечался <Node id="1138"/>19 марта<Node id="1146"/> в Австрии, Дании, Германии и Швейцарии. Тогда более миллиона мужчин и женщин приняли участие в манифестациях. Кроме права избирать и занимать руководящие посты, женщины добивались равных производственных прав с мужчинами. 
+ А потом его отметили <Node id="1392"/>12 мая 1912 года<Node id="1408"/>. В России впервые Международный женский <Node id="1449"/>день<Node id="1453"/> отмечался в <Node id="1466"/>1913 году<Node id="1475"/> в Петербурге. В прошении на имя градоначальника было заявлено об организации "...научного утра по женскому вопросу". Власти дали разрешение и <Node id="1618"/>2 марта 1913 года<Node id="1635"/> в здании Калашниковской хлебной биржи на Полтавской улице собралось полторы тысяч человек. Повестка <Node id="1736"/>дня<Node id="1739"/> научных чтений включала вопросы: право голоса для женщин; государственное обеспечение материнства; о дороговизне жизни. В <Node id="1862"/>следующем году<Node id="1876"/> во многих государствах Европы <Node id="1907"/>8 марта<Node id="1914"/> или приблизительно в <Node id="1936"/>этот день<Node id="1945"/> женщины организовали марши в знак протеста против войны. 
+ В <Node id="2007"/>1917 году<Node id="2016"/> женщины России вышли на улицы в последнее воскресенье <Node id="2071"/>февраля<Node id="2078"/> с лозунгами "Хлеба и мира". <Node id="2107"/>Через 4 дня<Node id="2118"/> император <Node id="2129"/>Николай II<Node id="2139"/> отрекся от престола, временное <Node id="2171"/>правительство<Node id="2184"/> гарантировало женщинам избирательное право. Этот исторический <Node id="2247"/>день<Node id="2251"/> выпал на <Node id="2261"/>23 февраля<Node id="2271"/> по юлианскому календарю, который в то время использовался в России, и на <Node id="2345"/>8 марта<Node id="2352"/> по григорианскому календарю. 
+ Международный женский <Node id="2406"/>день 8 марта<Node id="2418"/> <Node id="2419"/>с первых лет<Node id="2431"/> Советской власти стал государственным праздником. <Node id="2482"/>С 1965 года этот день<Node id="2503"/> стал не рабочим. Существовал и его праздничный ритуал. В <Node id="2561"/>этот день<Node id="2570"/> на торжественных мероприятиях государство отчитывалось перед обществом о реализации государственной политики в отношении женщин. Постепенно Международный женский <Node id="2733"/>день<Node id="2737"/> в стране терял свою политическую окраску. 
+  После распада Советского Союза <Node id="2814"/>день 8 марта<Node id="2826"/> остался в перечне государственных праздников Российской Федерации. Отмечается Международный женский <Node id="2927"/>день<Node id="2931"/> и в странах СНГ: в Азербайджане, Грузии, Казахстане, Киргизии, Молдавии, Таджикистане, Туркмении, Украине, Белоруссии как Международный женский <Node id="3076"/>день<Node id="3080"/>; в Узбекистане как <Node id="3100"/>День<Node id="3104"/> матери; в Армении его отмечают <Node id="3136"/>7 апреля<Node id="3144"/> как <Node id="3149"/>День<Node id="3153"/> материнства и красоты."
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="2007" EndNode="2016">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="503" EndNode="520">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2406" EndNode="2418">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="2345" EndNode="2352">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="2171" EndNode="2184">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="3149" EndNode="3153">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2007" EndNode="2016">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1096" EndNode="1105">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="28" EndNode="32">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1907" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="2261" EndNode="2271">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="2071" EndNode="2078">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="705" EndNode="714">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="1618" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="2107" EndNode="2118">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1936" EndNode="1945">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="2561" EndNode="2570">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="288" EndNode="299">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="1138" EndNode="1146">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1466" EndNode="1475">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="2247" EndNode="2251">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="3100" EndNode="3104">
+</Annotation>
+<Annotation Id="25" Type="Дата" StartNode="854" EndNode="865">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="2733" EndNode="2737">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="581" EndNode="590">
+</Annotation>
+<Annotation Id="26" Type="Год" StartNode="1096" EndNode="1105">
+</Annotation>
+<Annotation Id="29" Type="Период_времени" StartNode="182" EndNode="186">
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="1449" EndNode="1453">
+</Annotation>
+<Annotation Id="31" Type="Дата" StartNode="1392" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Период_времени" StartNode="3076" EndNode="3080">
+</Annotation>
+<Annotation Id="34" Type="Период_времени" StartNode="1736" EndNode="1739">
+</Annotation>
+<Annotation Id="35" Type="Период_времени" StartNode="2482" EndNode="2503">
+</Annotation>
+<Annotation Id="32" Type="Период_времени" StartNode="302" EndNode="307">
+</Annotation>
+<Annotation Id="33" Type="Период_времени" StartNode="2927" EndNode="2931">
+</Annotation>
+<Annotation Id="38" Type="Дата" StartNode="2814" EndNode="2826">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Дата" StartNode="3136" EndNode="3144">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Период_времени" StartNode="423" EndNode="426">
+</Annotation>
+<Annotation Id="37" Type="Период_времени" StartNode="2419" EndNode="2431">
+</Annotation>
+<Annotation Id="42" Type="Дата" StartNode="57" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Год" StartNode="1466" EndNode="1475">
+</Annotation>
+<Annotation Id="40" Type="Персона" StartNode="2129" EndNode="2139">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Николай</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Период_времени" StartNode="1862" EndNode="1876">
+</Annotation>
+<Annotation Id="44" Type="Период_времени" StartNode="705" EndNode="714">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

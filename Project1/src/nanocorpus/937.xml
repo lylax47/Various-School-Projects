@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Ежегодная конференция NANOTECH Northen Europe 2008 состоится <Node id="63"/>23-25 сентября<Node id="77"/> в Копенгагене. 
+ 
+Обширная тематика конференции включает в том числе разделы:
+  <Node id="158"/>наноматериалы<Node id="171"/> для возобновляемых источников энергии; нанокатализ; углеродные материалы для наноэлектроники; наноэлектроника и молекулярная электроника; нанофотоника; нанобитехнологии и наномедицина;  
+ Будут также организованы семинары и рабочие встречи:
+  кооперация науки и производства; финансирование нанотехнологий; развитие нанотехнологического бизнеса; глобализация нанотехнологий и международное сотрудничество;  Регистрация и прием тезисов до <Node id="610"/>29 февраля 2008 г.<Node id="628"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="63" EndNode="77">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="610" EndNode="628">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="158" EndNode="171">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

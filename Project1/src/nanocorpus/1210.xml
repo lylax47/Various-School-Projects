@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Как показали исследования ("Permanent-magnet-free stabilization and sensitivity tailoring of magnetoresistive field sensors"), проведённые в National Institute of Standards and Technology (NIST), слой рутения толщиной в несколько атомов можно использовать для точной настройки чувствительности и увеличения надёжности магнитных <Node id="329"/>сенсоров<Node id="337"/>. Немагнитный металл действует как буфер между активными слоями материалов датчика, предлагая простое средство настройки полевых инструментов, типа компасов, и стабилизации намагниченности в данном направлении в таких устройствах, как считывающая головка HDD. В <Node id="599"/>сенсоре<Node id="606"/>, разработанном NIST, слой рутений регулирует взаимодействие между ферромагнитным слоем (в котором спины электронов сонаправлены), и антиферромагнитным слоем (в котором спины электронов противоположно направлены). В присутствии магнитного поля, спины электронов в ферромагнитной плёнке поворачиваются, при этом меняется сопротивление <Node id="940"/>сенсора<Node id="947"/>, что приводит к изменению напряжения на выходе. Антиферромагнитный слой необходим для стабильной работы <Node id="1052"/>сенсора<Node id="1059"/>, он не обладает намагниченностью, поэтому магнитное поле не оказывает на него влияния. Антиферромагнитный слой действует как очень жёсткая пружина, которая мешает повороту спинов и этим  стабилизирует <Node id="1261"/>сенсор<Node id="1267"/>. Слой рутения (см. рисунок) необходим для ослабления влияния «пружины», фактически делая <Node id="1357"/>сенсор<Node id="1363"/> более чувствительным, т.к. облегчает поворот спинов электронов. Исследования NIST показали, что увеличение толщины буферного слоя рутения (до 2 нм) приводит к увеличению чувствительности устройства. Уменьшение толщины слоя позволяет расширить диапазон значений внешнего поля, которые может регистрировать устройство. При толщине слоя рутения, превышающей 2 нанометра, взаимодействие между активными слоями прекращается. Буферный слой толщиной менее 2 нм позволяет сохранять намагниченность датчика без дополнительного внешнего воздействия. Это помогает предотвратить размагничивание и отказ <Node id="1955"/>сенсора<Node id="1962"/>. <Node id="1964"/>Сенсоры<Node id="1971"/> были изготовлены в чистой комнате NIST в Boulder  (Колорадо). Технология изготовления позволяет наладить серийное производство датчиков. <Node id="2109"/>Сенсор<Node id="2115"/> состоит из трёх основных слоёв, полученных осаждением на кремниевую пластину:   антиферромагнитный слой толщиной 8 нм из сплава иридия и марганца;   буферный слой (толщиной не более 2 нм) из рутения;   ферромагнитный слой толщиной 25 нм из сплава никеля и железа.   Разработка <Node id="2393"/>сенсора<Node id="2400"/> была ключевым моментом в создании системы анализа магнитной записи для Федерального бюро расследований. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="599" EndNode="606">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="1261" EndNode="1267">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="1052" EndNode="1059">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="1955" EndNode="1962">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="940" EndNode="947">
+</Annotation>
+<Annotation Id="9" Type="Сенсор" StartNode="2109" EndNode="2115">
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="1357" EndNode="1363">
+</Annotation>
+<Annotation Id="11" Type="Сенсор" StartNode="329" EndNode="337">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="1964" EndNode="1971">
+</Annotation>
+<Annotation Id="13" Type="Сенсор" StartNode="2393" EndNode="2400">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

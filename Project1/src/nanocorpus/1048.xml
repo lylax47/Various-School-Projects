@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  1) При интеркаляции лития в графит ионы лития входят в пространство между графеновыми слоями. «Войти» в структуру углерода ионы лития могут только в направлении вдоль графеновых слоев. <Node id="187"/>Углеродная <Node id="198"/>нанотрубка<Node id="208"/> представляет собой свернутые в цилиндр один или несколько графеновых слоев, поэтому вероятность входа иона лития через боковую поверхность трубки ничтожна. По большей степени ионы лития размещаются в зазоре между двумя соседними <Node id="438"/>нанотрубками<Node id="450"/>, а количество таких удобных для интеркаляции мест довольно мало. Если препарат <Node id="530"/>нанотрубок<Node id="540"/> содержит другие формы углерода, то именно туда будет внедряться основное количество лития.
+ 
+В структуре многостенных <Node id="659"/>нанотрубок<Node id="669"/> литий может располагаться в кольцевых пространствах между стенками. В этом отношении многостенные <Node id="768"/>нанотрубки<Node id="778"/> имеют преимущества перед одностенными.
+ 2) Бездефектная структура <Node id="845"/>углеродных <Node id="856"/>нанотрубок<Node id="866"/> обеспечивает очень высокую электропроводность. Кроме того, волокнистые «электропроводные добавки» всегда эффективнее, чем порошки, потому что в последнем случае поток электронов преодолевает множество контактов между отдельными частицами, а контактные сопротивления обычно намного больше, чем сопротивление объема материала.
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="198" EndNode="208">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="530" EndNode="540">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="768" EndNode="778">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="438" EndNode="450">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="659" EndNode="669">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="856" EndNode="866">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="187" EndNode="208">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="845" EndNode="866">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

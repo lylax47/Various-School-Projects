@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+ Предварительный списокпримерно первой десятки лучших по набранным баллам участников по результатам решения задач школьного и творческого туров для школьников (остальные участники узнают свои результаты через 1-<Node id="213"/>2 дня<Node id="218"/> в разделе "результаты"). До <Node id="247"/>30 апреля<Node id="256"/> будут сообщены остальные баллы, а также открыты оценки для всех, решения задач, а также дана возможность апппеляции. После аппеляции и утверждения оценок членами жюри будут подведены окончательные итоги. В любом случае, большинство участников, не попавших в список потенциальных победителей и призеров, получат дипломы участников. Из первой десятки школьников 5-7 человек получат приглашение на очный тур, дальнейшие инструкции для них будут даны персонально после <Node id="722"/>29 апреля<Node id="731"/> по электронной почте. Большая просьба всем участникам максимально подробно заполнить свои персональные карточки, особенно в отношении почтового адреса. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="213" EndNode="218">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="722" EndNode="731">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="247" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

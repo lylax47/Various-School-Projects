@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Германская служба академических обменов (DAAD) и Министерство образования и науки РФ открывают очередной конкурс на научные гранты по совместно финансируемой программе "Михаил Ломоносов II" в области технических и естественных наук: 
+- научно исследовательские стипендии; 
+- научные стажировки. 
+ 
+Соискатели должны быть сотрудниками/аспирантами одного из государственных вузов, подведомственных <Node id="397"/>Рособразованию<Node id="411"/>: 
+- группа А - аспиранты и молодые преподаватели технических и естественных дисциплин (возраст- <Node id="508"/>менее 35 лет<Node id="520"/> на <Node id="524"/>01.10.2009<Node id="534"/>); 
+- группа В - преподаватели технических и естественных дисциплин (возраст - <Node id="613"/>менее 45 лет<Node id="625"/> на <Node id="629"/>15.09.2009<Node id="639"/>), имеющие ученую степень кандидата или доктора наук. 
+ 
+Сроки пребывания в Германии: 
+- группа А - <Node id="739"/>01.10.2009<Node id="749"/>-<Node id="750"/>31.03.2010<Node id="760"/>; 
+- группа Б - <Node id="776"/>15.09.2009<Node id="786"/> -<Node id="788"/>15.12.2009<Node id="798"/>. 
+ 
+Соискатели должны представить 3 комплекта документов : 
+-группа А 
+1. Формуляры министерства образования и науки РФ; 
+2. <Node id="924"/>Бланк<Node id="929"/> заявки DAAD с фотографией; 
+3. Автобиографию 
+4. Список публикаций 
+5. Развернутый научный план исследований (2-3 стр.) 
+6. Приглашение немецкого ученого (со-руководителя) 
+7. Копии документов о среднем и высшем образовании (с приложением), а также их перевод на английский/немецкий. 
+8. Адресный лист с указанием адреса места жительства, телефона, E-mail. 
+ 
+- группа В 
+пп 1-5 - см. документы для группы А 
+6. Приглашение немецкого коллеги 
+7. Копии диплома кандидата/доктора наук, а также их перевод 
+8. Адресный лист (см. п. 8 группа А) 
+ 
+Документы должны быть отправлены до <Node id="1510"/>15 июля<Node id="1517"/> ( по почтовому штемпелю) в Московское представительство DAAD. 
+подробности на сайте DAAD <Node id="1607"/>(http://www.daad.ru/?m=1.5&amp;seite=1_5_1a&amp;id=18<Node id="1652"/> 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1607" EndNode="1652">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="629" EndNode="639">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">09</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="739" EndNode="749">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1510" EndNode="1517">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="776" EndNode="786">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">09</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="750" EndNode="760">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="788" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="613" EndNode="625">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="924" EndNode="929">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бланк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="524" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Властная_Структура" StartNode="397" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Рособразованию</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="508" EndNode="520">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

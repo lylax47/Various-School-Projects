@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Ульяновский Государственный Университет в рамках выполнения госконтракта недавно открыл сайт, посвященный разработке методических и обучающих материалов для школьников "Введение в нанотехнологии". 
+Сайт сделан на движке Wiki и, как и обещали ульяновцы, тем самым позволяет всем желающим участвовать в выполнении этого проекта. Пока что наполнение сайта не завершено, однако можно видеть те контуры работы, которые должны, по идее, привести к созданию программ и учебных пособий для школьников в области нанотехнологий в качестве элективных курсов по химии, физике и биологии.
+ 
+Обсуждение непростых вопросов по созданию подобных пособий, о проблемах и перспективах такой программы планируется обсудить <Node id="703"/>10 сентября<Node id="714"/> на заседании общественного совета по образованию в области нанотехнологий.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="703" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> интенсивно исследуются с целью их дальнейшего применения в электронике. Одной из возможных областей, где <Node id="128"/>нанотрубки<Node id="138"/> могут раскрыть свой потенциал, является изготовление прозрачных проводящих пленок. Такие пленки требуются для производства электродов солнечных батарей, умных окон, прозрачных транзисторов и т.д.. Благодаря своей гибкости они также имеют преимущества перед оксидом индия/олова, широко применяющегося в наши <Node id="446"/>дни<Node id="449"/> в качестве прозрачного проводника. 
+ 
+Для получения пленок из <Node id="512"/>углеродных <Node id="523"/>нанотрубок<Node id="533"/> могут быть использованы различные способы, например, spin-coating, распыление и др. Однако, существуют определенные трудности в достижении желаемых характеристик. Дело в том, что проводимость возрастает с увеличением плотности нанотрубочного покрытия, а прозрачность, наоборот, падает. 
+ 
+Корейские исследователи придумали интересную методику, позволяющую решить эту проблему. Для этого они использовали шаблоны из двумерных коллоидных кристаллов. Схема синтеза приведена на рисунке 1. Из суспензии, содержащей сферические коллоидные частицы и взвешенные <Node id="1089"/>нанотрубки<Node id="1099"/>, самособирается коллоидные кристалл. Так получается, что частицы формируют периодическую структуру, а <Node id="1202"/>нанотрубки<Node id="1212"/> располагаются в промежутках между ними. 
+ 
+После удаления частиц остается прозрачная сетка из <Node id="1307"/>нанотрубок<Node id="1317"/>. Плотность пучков <Node id="1336"/>нанотрубок<Node id="1346"/> достаточно высока, чтобы структура обладала хорошей электропроводностью. Размер ячеек можно легко регулировать, подбирая диаметр коллоидных частиц. Методика уже позволила получить сетки сантиметровых размеров, обладающие коэффициентом пропускания <Node id="1594"/>95%<Node id="1597"/>. 
+ 
+Работа «Carbon Nanotube Network Structuring Using Two-Dimensional Colloidal Crystal Templates» (DOI: 10.1002/adma.200700956) опубликована в журнале Advanced Materials.  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="446" EndNode="449">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1307" EndNode="1317">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1202" EndNode="1212">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1336" EndNode="1346">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1089" EndNode="1099">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="128" EndNode="138">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="523" EndNode="533">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="512" EndNode="533">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1594" EndNode="1597">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

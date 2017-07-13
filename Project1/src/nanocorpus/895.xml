@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>4 апреля<Node id="8"/> состоится подписание соглашения <Node id="41"/>Ростехрегулирования<Node id="60"/> с госкорпорацией «Роснанотех»<Node id="90"/>4 апреля 2008 г.<Node id="106"/> Руководитель Федерального агентства по техническому регулированию и метрологии (<Node id="187"/>Ростехрегулирования<Node id="206"/>) <Node id="208"/>Григорий Элькин<Node id="223"/> <Node id="224"/>и генеральный директор Государственной корпорации «Российская корпорация нанотехнологий» (ГК «Роснанотех») Леонид Меламед<Node id="345"/> <Node id="346"/>подпишут<Node id="354"/> Соглашение о сотрудничестве по метрологическому обеспечению, стандартизации, оценке соответствия при реализации государственной политики в сфере нанотехнологий.
+Важность Соглашения определяется тем, что метрологическому обеспечению, стандартизации, оценке соответствия и безопасности нанопродукции, а также сертификации систем менеджмента качества организаций и предприятий ее выпускающих, уделяется большое внимание на ранних этапах создания наноиндустрии в России.
+
+В мероприятии примет участие заместитель Министра промышленности и энергетики Российской Федерации Андрей Дементьев.
+
+После подписания Соглашения о <Node id="971"/>сотрудничестве<Node id="985"/> между <Node id="992"/>Ростехрегулированием<Node id="1012"/> и ГК «Роснанотех» преставителям СМИ будет предоставлена возможность задать вопросы.
+Подписание Соглашения состоится по адресу: г.Москва, Ленинский пр-т, д.9, зал коллегий (4 этаж)
+Начало мероприятия: 10.00
+Аккредитация прессы по тел. (495) 236 71 74 или по e-mail: <Node id="1278"/>press@gost.ru<Node id="1291"/> (пресс-служба <Node id="1306"/>Ростехрегулирования<Node id="1325"/>)
+<Node id="1327"/>http://www.derrick.ru/index.php?…Федеральное<Node id="1371"/> агентство по техническому регулированию и метрологии <Node id="1425"/>(Ростехрегули­рование)http://www.gost.ru<Node id="1465"/>/wps/portal/Ну, это своевременно, логично и правильно, ибо стандартизация и метрология – всему голова <Node id="1567"/>(http://www.nanonewsnet.ru/…vsemu-golova)<Node id="1608"/> и без разработки соответствующих стандартов и правил, методов и средств измерения нельзя вообще начинать никакого серьёзного дела. Мы уже не раз отмечали это обстоятельство: «Oдобрен проект федерального закона “Об обеспечении единства измерений”» ( <Node id="1858"/>http://www.nanonewsnet.ru/…va-izmerenii<Node id="1897"/> ), «Им подвластны тайны нанометрологии» <Node id="1938"/>(http://www.nanonewsnet.ru/…nometrologii)<Node id="1979"/> и др. В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="90" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="345" EndNode="346">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Партнеры_Клиенты" StartNode="971" EndNode="985">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1858" EndNode="1897">
+</Annotation>
+<Annotation Id="6" Type="Электронная_почта" StartNode="1278" EndNode="1291">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="223" EndNode="224">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="345" EndNode="346">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="992" EndNode="1012">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ростехрегулированием</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1938" EndNode="1979">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1425" EndNode="1465">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1567" EndNode="1608">
+</Annotation>
+<Annotation Id="17" Type="встречи_и_переговоры" StartNode="208" EndNode="354">
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="41" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ростехрегулированием</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Властная_Структура" StartNode="1306" EndNode="1325">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ростехрегулированием</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1327" EndNode="1371">
+</Annotation>
+<Annotation Id="21" Type="Властная_Структура" StartNode="187" EndNode="206">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ростехрегулированием</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="работает" StartNode="223" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

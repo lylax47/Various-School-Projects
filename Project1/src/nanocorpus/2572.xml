@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Двое из наиболее вероятных получателей <Node id="39"/>Нобеля<Node id="45"/> по физике — японцыСТОКГОЛЬМ, <Node id="75"/>9 октября<Node id="84"/>. В <Node id="88"/>этом году<Node id="97"/> фонд Thomson Scientific, владеющий крупнейшей базой данных о научных публикациях, назвал среди наиболее вероятных кандидатов на получение Нобелевской премии по физике Сумио Лидзиму из Университета Меидзо в Нагое (Япония), британского космолога и астрофизика Мартина Риса, канадца Артура Макдоналда и <Node id="398"/>Йоки Тотсуку<Node id="410"/> из университета Токио.
+Как передает Associated Press, Лидзима может получить премию за исследования в области нанотехнологий, британец Рис — за исследования радиационного фона космических микроволн и объяснение генезиса галактик. Макдоналд и <Node id="653"/>Тотсука<Node id="660"/> могут поделить премию за изучение солнечных и атмосферных нейтрино.
+
+Напомним, что в <Node id="746"/>прошлом году<Node id="758"/> нобелевскую премию по физике получили американцы Джон Матер и Джордж Смут. Таким образом им воздали должное за исследования, объясняющие процесс рождения Вселенной и происхождения галактик и звезд. Плоды их работы позволяют получить представление о мире в возрасте 380 тыс. <Node id="1033"/>лет<Node id="1036"/>.
+
+Нобелевские премии присуждает Королевская академия наук Швеции. Она финансируется из фонда Альфреда Нобеля. Награды вручаются за самые великие достижения человечества в области физики, медицины и химии — <Node id="1243"/>с 1901 года<Node id="1254"/>. В <Node id="1258"/>1969 году<Node id="1267"/> была учреждена премия в области экономики. Ее в память о Нобеле учредил и финансирует Шведский государственный банк.
+<Node id="1385"/>http://www.rosbalt.ru<Node id="1406"/>/…/420673.htmlПора, давно пора… И на болельщиках проставить номера… ;-))) Было бы здОрово, конечно, поддержать нанотехнологии. Это бы значительно подстегнуло интерес к данному н.-т. направлению и привлекло бы внимание общества (предпринимателей, молодёжи и др.)к его развитию…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1385" EndNode="1406">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="398" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тотсук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1033" EndNode="1036">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1258" EndNode="1267">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="746" EndNode="758">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="75" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1243" EndNode="1254">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="653" EndNode="660">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тотсук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="39" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Нобель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="88" EndNode="97">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="1258" EndNode="1267">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

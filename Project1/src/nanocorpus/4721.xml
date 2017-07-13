@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Госкорпорация «Роснанотехнологии» выбрала «Тройку Диалог» финансовым консультантом по размещению временно свободных средств, сказал журналистам глава корпорации Леонид Меламед. Имущественный вклад РФ в «Роснанотех» составляет <Node id="227"/>130 млрд руб.<Node id="240"/>
+
+Как сообщил журналистам <Node id="266"/>Л.Меламед<Node id="275"/>, размещение средств будет происходить в ограниченный консервативный набор инструментов. В первую очередь, на депозиты надежных российских банков, в т ч дочерних иностранных банков. Также средства будут инвестироваться в облигации, выпущенные государством или крупными корпорациями. В основном это будут рублевые инструменты на срок 12–<Node id="611"/>18 месяцев<Node id="621"/>.
+
+По словам главы управляющей компании «Тройка-Диалог» Павла Теплухина, <Node id="694"/>в течение двух недель<Node id="715"/> финансовый консультант подготовит предложения, а <Node id="765"/>в течение месяца<Node id="781"/> деньги будут размещены. Планируется, что их доходность составит около 7–<Node id="854"/>8 процентов<Node id="865"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="765" EndNode="781">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="227" EndNode="240">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="694" EndNode="715">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="854" EndNode="865">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="266" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="611" EndNode="621">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

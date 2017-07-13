@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>     Ученые из Южной Кореи совместно с исследователями из США впервые смогли синхронизировать колебания двух наномеханических осцилляторов. 
+ 
+    Эффект, полученный учеными Притирэем Моханти (Pritiraj Mohanty) из Бостонского университета и <Node id="241"/>Сен<Node id="244"/>-Бо Шимом (Seung-Bo Shim) из Национального университета Сеула, повторяет в нанометровом диапазоне эксперимент, проведенный Христианом Гюйгенсом <Node id="388"/>около 300 лет тому назад<Node id="412"/>. 
+ 
+    Эффект синхронизации часто встречается в природе. Это и поведение рыб в косяке, и синхронизация вращения Луны относительно Земли, и другие подобные явления. Гюйгенс еще <Node id="590"/>300 лет назад<Node id="603"/> установил, что двое маятниковых <Node id="636"/>часов<Node id="641"/>, установленных на одной стене, со временем синхронизируют колебания маятников благодаря слабой интерференции акустических волн, исходящих друг от друга. 
+ 
+    Теперь же ученые разместили рядом два наномеханических резонатора, работающих благодаря нанострунам длиной 10 микрон и диаметром 500 нанометров. Эти наноструны связаны между собой струной такого же диаметра и длиной всего 5 микрон. Все наноструны электрически изолированы и охлаждены до температуры 300 мК, так что явления синхронизации, протекающие в наноустройстве, имели сугубо механическую природу. 
+ 
+    Теперь исследователи хотят соединить в массив несколько резонаторов для того, чтобы построить подобие нейросетевого <Node id="1328"/>нанокомпьютера<Node id="1342"/>, сообщает Nanotechweb. Открытие синхронизации наномеханических резонаторов также может помочь при производстве беспроводных систем связи нового поколения. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="636" EndNode="641">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="590" EndNode="603">
+</Annotation>
+<Annotation Id="3" Type="Нанокомпьютер" StartNode="1328" EndNode="1342">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="388" EndNode="412">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="241" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сен</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

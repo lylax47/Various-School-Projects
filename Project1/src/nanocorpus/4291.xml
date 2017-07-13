@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Спиралеобразно закрученные <Node id="29"/>углеродные <Node id="40"/>нанотрубки<Node id="50"/> и <Node id="53"/>наностержни<Node id="64"/> (<Node id="66"/>СУН<Node id="69"/>) являются принципиально новым <Node id="100"/>наноматериалом<Node id="114"/>, обладающим рядом интересных особенностей. Потенциально <Node id="171"/>СУН<Node id="174"/> могут быть использованы при создании тактильных и магнитных <Node id="235"/>сенсоров<Node id="243"/> нового поколения, а также конструкционного пенопласта, предназначенного для амортизации и диссипации энергии.
+ 
+Синтез СУН CVD-методом до настоящего времени осуществлялся исключительно с использованием темплатов соответствующей формы, причем преимущественно наблюдались <Node id="514"/>наностержни<Node id="525"/>. Очевидно, такой метод синтеза сильно ограничивает объем материала за счет распределения катализатора. Кроме того, он зачастую приводит к образованию линейных многостенных <Node id="698"/>нанотрубок<Node id="708"/> вместо спиралевидных структур. Необходимо было найти не зависящий от исходных реагентов путь синтеза, протекающий исключительно в газовой фазе, а также позволяющий контролировать длину и шаг спирали.
+ 
+Группа ученых во главе с Вей Вонг (Wei Wang) предложили подобный метод синтеза, основанный на предположении о том, что образование спиралевидных структур связано со специфическим взаимодействием растущей структуры с частицами катализатора. По мнению исследователей, решающим критерием, определяющим характеристики получаемого материала, является смачиваемость углеродной поверхности жидким металлом-катализатором. Согласно уравнению <Node id="1344"/>Юнга<Node id="1348"/>, некоторые металлы, например In и Sn, обладают большим, близким к 180˚, углом смачивания, в то время как другие, такие как железо, имеют θ&lt;75˚. Как следствие, индиевые и оловянные катализаторы за счет взаимного отталкивания заставляют структуру изгибаться, а железо, напротив, способствует линейному росту. 
+ 
+При синтезе СУН ферроцен и изопропоксид второго металла-катализатора растворялись в ксилоле. Смесь впрыскивалась с постоянной скоростью в CVD-реактор, одновременно через камеру пропускалась смесь ацетилена и аргона при атмосферном давлении. Внутри реактора располагались кварцевые субстраты, на которых <Node id="1962"/>через час<Node id="1971"/> образовывались массивы СУН. 
+ 
+Оказалось, что при использовании In синтезировались <Node id="2055"/>нанотрубки<Node id="2065"/>, а Sn – <Node id="2074"/>наностержни<Node id="2085"/>. Это можно объяснить различными смешиваемостями индия и олова с железом. <Node id="2159"/>Нанотрубки<Node id="2169"/> образовывались в виде упорядоченных массивов с примерно одинаковыми радиусами и другими параметрами трубок, в то время как <Node id="2293"/>наностержни<Node id="2304"/> с большим разбросом радиусов и длин оказывались беспорядочно разбросанными по субстрату. 
+ 
+Кроме того, на характеристики получаемого материала влияют такие параметры, как температура в реакторе и соотношение In(Sn)/Fe: более высокие температуры, а также близкое к единице значение соотношения In/Fe, способствуют образованию <Node id="2631"/>нанотрубок<Node id="2641"/>. 
+ 
+Работа "Rational Synthesis of Helically Coiled Carbon Nanowires and Nanotubes through the Use of Tin and Indium Catalysts" опубликована в журнале Advanced Materials (doi: 10.1002/adma.200701143). 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="40" EndNode="50">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="2159" EndNode="2169">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="235" EndNode="243">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="2074" EndNode="2085">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="514" EndNode="525">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наностержень" StartNode="53" EndNode="64">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2055" EndNode="2065">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="2631" EndNode="2641">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="29" EndNode="50">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="171" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="698" EndNode="708">
+</Annotation>
+<Annotation Id="13" Type="Наностержень" StartNode="2293" EndNode="2304">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1962" EndNode="1971">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="66" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наноматериал" StartNode="100" EndNode="114">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1344" EndNode="1348">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

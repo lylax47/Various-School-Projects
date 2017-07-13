@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>3 июня<Node id="6"/> откроется выставка «Метрология-2008»<Node id="43"/>С 3 по 5 июня 2008 года<Node id="66"/> в Москве (ВВЦ, павильон №55) пройдет Международная выставка-конкурс средств измерений, испытательного и лабораторного оборудования «Метрология-2008» и научно-практическая конференция «Точность рождает качество».
+ <Node id="280"/>Федеральное агентство по техническому регулированию и метрологии<Node id="344"/> и Государственная корпорация «Российская корпорация нанотехнологий» выступили с инициативой организации на выставке специализированного раздела, отражающего современное состояние измерений и испытаний <Node id="546"/>наноматериалов<Node id="560"/> и созданной на основе <Node id="583"/>наноматериалов<Node id="597"/> продукции, перспективы создания системы оценки и подтверждения соответствия и обеспечения безопасности использования нанотехнологий и продукции наноиндустрии, а также пути развития стандартизации и нормативного обеспечения в сфере нанотехнологий и <Node id="846"/>наноматериалов<Node id="860"/>. 
+Приглашаются все заинтересованные организации и предприятия представить разработки, обеспечивающие решение проблем измерений и подтверждения соответствия продукции наноиндустрии, в разделе нанотехнологий на выставке «Метрология-2008», которые могут стать для его участников основой долгосрочного сотрудничества и будут способствовать успешному развитию работ в этом перспективном направлении науки и техники.
+<Node id="1272"/>http://www.cnews.ru/…/index.shtml?…Ещё<Node id="1310"/> одно напоминание о предстоящей выставке. Ранее уже сообщалось об этом: <Node id="1382"/>http://www.nanonewsnet.ru/…ologiya-2008<Node id="1421"/> // <Node id="1425"/>http://www.nanonewsnet.ru/…ologiya-2008.<Node id="1465"/> Если ещё не приняли решение об участии в ней, то поторопитесь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="43" EndNode="66">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1382" EndNode="1421">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="846" EndNode="860">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="280" EndNode="344">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по техническому регулированию и метрологии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1425" EndNode="1465">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="583" EndNode="597">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="546" EndNode="560">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1272" EndNode="1310">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

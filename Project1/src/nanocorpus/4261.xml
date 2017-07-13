@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает New Scientist, фирма Intel запатентовала способ использования <Node id="76"/>углеродных <Node id="87"/>нанотрубок<Node id="97"/> для увеличения срока жизни микропроцессоров.
+
+По словам изобретателя метода <Node id="174"/>Чи-Вон Хванга<Node id="187"/>, частые колебания электрического тока в микросхемах приводят к тому, что внутренние медные соединения становятся хрупкими, в результате чего микросхема выходит из строя. Добавление <Node id="369"/>углеродных <Node id="380"/>нанотрубок<Node id="390"/>, обладающих тепловыделяющими свойствами, увеличивает срок жизни микросхем.
+
+Кроме того, добавление <Node id="490"/>углеродных <Node id="501"/>нанотрубок<Node id="511"/> увеличивает устойчивость микросхем к прямым механическим воздействиям, например, к резким толчкам и падениям.
+<Node id="622"/>http://www.polit.ru/…8/intel.htmlВроде<Node id="660"/> бы пустячок, а всё-таки на пользу людям… Всегда приятно, когда изобретения вроде бы на первый взгляд совсем простые, однако служат конкретным практическим целям…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="174" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чи-Вон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="369" EndNode="390">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="87" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="76" EndNode="97">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="622" EndNode="660">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="490" EndNode="511">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="501" EndNode="511">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="380" EndNode="390">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

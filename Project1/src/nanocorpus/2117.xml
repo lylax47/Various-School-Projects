@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Ученые из Northwestern University (США) разработали простую методику определения ионов ртути с помощью <Node id="104"/>наночастиц<Node id="114"/> золота<Node id="121"/> и молекул ДНК. 
+ 
+ Соединения ртути попадают в окружающую среду вместе с промышленными отходами. Бактерии перерабатывают их в метилртуть, которая накапливается в организме рыб и  ракообразных. Метилртуть – это нейротоксин, который особенно опасен для детей и беременных женщин.Очень важно быстро зафиксировать ртутное заражение. Большинство аналитических методов требует сложного лабораторного оборудования. 
+ 
+ Исследователи предлагают использовать частицы золота размером 15 нм, связанные комплементарными цепями ДНК. В наноразмерном состоянии золото интенсивно окрашено. ДНК удерживает частицы на определенном расстоянии друг от друга, и раствор имеет синюю окраску. При нагревании связи между цепями ДНК разрушаются, частицы золота смещаются, и раствор становится ярко-красным. Было установлено, что температура перехода зависит от концентрации ионов ртути. Когда их нет, окраска изменяется при 46 градусах <Node id="1033"/>Цельсия<Node id="1040"/>, а в присутствии ионов ртути – при более высоких температурах. 
+ 
+ Метод обладает потрясающей чувствительностью – нижняя граница обнаружения составляет 100 наномоль, в то время как самые чувствительные портативные глюкозометры эффективны только для микромолярных концентраций. Нет проблем и с селективностью – определению ртути не мешают ионы Cd2+ и Cu2+. 
+ 
+ Теперь ученые разрабатывают аналогичные методики для определения кадмия и свинца. 
+ 
+ Работа была опубликована в Angewandte Chemie. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1033" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица+золота" StartNode="104" EndNode="121">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Корейские учёные разработали пористую кремниевую «нанобомбу», которая нагревается под воздействием ближнего инфракрасного излучения и уничтожает раковые клетки в организме. 
+ 
+ Последние исследования в области фотодинамической терапии были сосредоточены на использовании одностенных <Node id="284"/>углеродных <Node id="295"/>нанотрубок<Node id="305"/>. Под воздействием ближнего инфракрасного излучения <Node id="357"/>нанотрубки<Node id="367"/> нагреваются, в результате чего происходит гибель раковых клеток. Chongmu Lee и его коллеги из Inha University (Корея) заменили <Node id="495"/>углеродные <Node id="506"/>нанотрубки<Node id="516"/> пористым кремниевым <Node id="537"/>наноматериалом<Node id="551"/>. Исследователи считают, что новый материал будет давать такую же высокую температуру, как <Node id="642"/>углеродные <Node id="653"/>нанотрубки<Node id="663"/>, но, кроме того, генерировать значительно меньшее количество активных форм кислорода (reactive oxygen species, ROS). 
+ 
+ ROS, получающиеся при использовании традиционных фотодинамических методов терапии, могут приводить к целому ряду побочных эффектов у пациентов, проходящих процедуру терапии рака:   чувствительность к освещению;   вздутие или покраснение кожи под воздействием яркого света;   болезненное состояние;   металлический вкус в рту;   болезненные ощущения при глотании.   
+ 
+ ROS, накопившиеся в человеческом организме, могут привести к ускорению старения, ослаблению иммунитета и, в конечном счете, к множеству дегенеративных заболеваний. 
+ 
+ Lee надеется, что их разработка сможет использоваться для лечения рака, но признает, что для этого ещё многое предстоит сделать. «Хотя предварительные результаты в этой работе показывают выполнимость пористого кремния как новый терапевтический агент, очевидно, что необходимо провести много исследований прежде, чем терапия рака, основанная на пористом кремнии, станет реальностью», - говорит он. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="295" EndNode="305">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="653" EndNode="663">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="495" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="506" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="537" EndNode="551">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="284" EndNode="305">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="357" EndNode="367">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="642" EndNode="663">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

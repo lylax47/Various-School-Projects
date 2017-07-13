@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Следователи установили правду о причинах смерти женщины и выяснили происхождение странного порошкаЗавершить расследование гибели замдиректора по научной работе Института кристаллографии РАН решили блюстители законаСветлана ЖелудеваКак уже сообщал “МК”, 59-летняя дама была доставлена в больницу <Node id="295"/>13 мая<Node id="301"/> с диагнозом “острая печеночная недостаточность, печеночная кома”. <Node id="368"/>17 мая<Node id="374"/> она скоропостижно скончалась от полиорганной недостаточности. Вскоре выяснилось, что <Node id="460"/>8 мая<Node id="465"/> специалист вскрыла конверт со странным порошком. Поначалу блюстители закона предположили, что женщина могла заразиться неким вирусом.
+
+Однако специалисты установили, что порошок — двуокись кремния, которая производится для красок, керамики и автомобильных шин. Доктор наук, профессор из Института теоретической и прикладной механики в Новосибирске разослал несколько десятков таких писем, чтобы ознакомить коллег с работой в области нанотехнологий. В конверт и был вложен <Node id="938"/>нанопорошок<Node id="949"/>, полученный на опытно-промышленной установке.
+
+Только на <Node id="1007"/>днях<Node id="1011"/> эксперты смогли сообщить блюстителям закона, что в гибели женщины повинен не таинственный вирус, а гепатит В. Им несчастная могла заразиться от супруга (в медкарте мужчины отмечено это заболевание). Было решено отказать в возбуждении уголовного дела.
+МЕЖДУ ТЕМ
+Также следователям удалось раскрыть тайну плохого самочувствия исполнительного вице-президента Ассоциации российских банков. В <Node id="1400"/>декабре 2006 года<Node id="1417"/> у него появилась слабость, снизилось зрение, он не мог сосредоточиться. Мужчина обратился в четыре медицинских центра, и там ему сказали, что плохое самочувствие может быть связано с отравлением солями тяжелых металлов.
+ Коммерсант предположил, что отравить его могли, всыпав зелье в чашку чая. <Node id="1713"/>В конце 2007 года<Node id="1730"/> гражданин обратился к блюстителям закона. Было возбуждено уголовное дело, назначена экспертиза. Однако специалисты не подтвердили подозрения мужчины. Они заявили, что ухудшение здоровья связано с солидным возрастом. Уголовное дело было прекращено. <Node id="1979"/>http://www.mk.ru<Node id="1995"/>/…chno/364791/Да, в своё время (в <Node id="2029"/>мае с.г.<Node id="2037"/>) смерть Светланы Желудевой наделала немало шуму <Node id="2086"/>(http://www.nanonewsnet.ru/…na-zheludeva<Node id="2126"/> // <Node id="2130"/>http://www.nanonewsnet.ru/…lyi-poroshok<Node id="2169"/> // <Node id="2173"/>http://www.nanonewsnet.ru/…sikh-por-net<Node id="2212"/> ). Но теперь вот выяснилось, что история с «белым порошком» была чистым совпадением. Тем самым <Node id="2308"/>нанопорошок<Node id="2319"/>, который рассылал д-р <Node id="2342"/>С.Бардаханов<Node id="2354"/>, был «реабилитирован»… Тем не менее, всё-таки остаётся проблема, как организовать квалифицированную и оперативную службу анализа и экспертизы подобных материалов, с тем чтобы своевременно и быстро «локализовать» такого рода происшествия и информировать население о степени опасности того или иного вещества. А в плане становления наноиндустрии необходимо создание специальных служб сертификации для планомерной «аттестации» подобной продукции, технологий и изделий с применением <Node id="2834"/>наночастиц<Node id="2844"/>…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="460" EndNode="465">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="368" EndNode="374">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2086" EndNode="2126">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="295" EndNode="301">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанопорошок" StartNode="2308" EndNode="2319">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2173" EndNode="2212">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1979" EndNode="1995">
+</Annotation>
+<Annotation Id="7" Type="Нанопорошок" StartNode="938" EndNode="949">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="2029" EndNode="2037">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1400" EndNode="1417">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2130" EndNode="2169">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2834" EndNode="2844">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1713" EndNode="1730">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1007" EndNode="1011">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2342" EndNode="2354">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бардаханов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

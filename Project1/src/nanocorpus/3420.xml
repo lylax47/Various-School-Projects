@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Подмосковный город Долгопрудный в ближайшее время может стать наукоградом. Как сообщает ИТАР-ТАСС, правительство Московской области поддержало во вторник предложения администрации города о присвоении ему этого статуса.
+ 
+«<Node id="223"/>Долгопрудный полностью соответствует критериям, установленным для наукоградов<Node id="300"/>», – заявил областной министр промышленности Владимир Козырев<Node id="361"/>. По <Node id="366"/>его<Node id="369"/> словам, «на предприятиях научно-производственного комплекса города сосредоточено <Node id="451"/>54%<Node id="454"/> основных фондов, занято <Node id="479"/>более 35%<Node id="488"/> работающих».
+ 
+Чиновник также напомнил, что в городе находится крупнейший вуз – знаменитый Физтех.
+
+<Node id="589"/>Козырев добавил, что <Node id="610"/>Долгопрудный, где проживают 79 тысяч человек, является многопрофильным научно-производственным и образовательным центром, работающим в области создания сложной ракетной и авиационной техники, решения физико-технических проблем энергетики, информатики и электроники, новых материалов, технологий мониторинга окружающей среды , медицинских и биотехнологий<Node id="963"/>.
+
+Глава администрации Долгопрудного Олег Троицкий пояснил, что
+ 
+«статус наукограда позволит городу получить дополнительное финансирование на развитие научно-производственного комплекса». По его словам, «средняя заработная плата должна вырасти с нынешних <Node id="1219"/>15 тысяч рублей<Node id="1234"/> до <Node id="1238"/>33 тысяч рублей<Node id="1253"/> в <Node id="1256"/>месяц<Node id="1261"/>, а на предприятиях, производящих наукоёмкую продукцию – до <Node id="1321"/>38 тысяч рублей<Node id="1336"/>».
+ 
+Троицкий рассчитывает, что в Долгопрудный будут перемещаться высокотехнологичные производства из других регионов. <Node id="1455"/>Он<Node id="1457"/> сообщил, что «в <Node id="1474"/>сентябре<Node id="1482"/> <Node id="1483"/>этого года<Node id="1493"/> будут готовы первые помещения для работы Центра по нанотехнологиям<Node id="1560"/>».
+ 
+«<Node id="1566"/>Во-первых, изменится статус. Для меня лично важна не столько экономика сколько звание. Этот город создавался как город науки. В советские времена он был закрытым, туда не пускали иностранцев: этот город занимался и оборонкой, и наукой. Мы планируем создать более 7 тысяч рабочих мест на предприятиях, которые будут заниматься наукоёмкой продукцией», – подчеркнул Троицкий<Node id="1937"/>.
+ 
+В Московской области статус наукоградов уже имеют 7 муниципальных образований: города Дубна, Королёв, Реутов, Фрязино, Пущино, Троицк, Жуковский. Председательствовавший на заседании областного правительства вице-губернатор Алексей Пантелеев потребовал «ускорить работу по получения статуса наукоградов городом Дзержинский и другими городами Подмосковья». Также среди претендентов на получение высокого статуса – Протвино и Черноголовка.
+
+Статус наукограда присваивает правительство России, и в Московской области надеются, что оно будет единодушно с администрацией Подмосковья в отношении Долгопрудного.
+<Node id="2545"/>http://www.vesti-moscow.ru/rnews.html?…Статус<Node id="2590"/> «наукограда» – это хорошо! Намного улучшаются и экономика, и логистика (снабжение и т.п.). Фактически, это до некоторой степени возвращение на круги своя: только «тогда» (при советской власти) эти города функционировали, как ЗАТО (Закрытые Административно-территориальные образования), куда был запрещён доступ как иностранцев, так и любые сношения населяющих его жителей с «внешним миром». Теперь же эти города-научные центры открыты всему миру, свободно могут развивать свои научные и иные контакты, и одновременно жизнь и работа жителей будут намного комфортнее, а, значит, продуктивнее… Вот только смогут ли нынешние «началники» с пользой использовать это обстоятельство?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="589" EndNode="963">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="610" EndNode="963">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2545" EndNode="2590">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="223" EndNode="300">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="223" EndNode="1937">
+</Annotation>
+<Annotation Id="6" Type="цитаты" StartNode="223" EndNode="300">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1455" EndNode="1457">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="479" EndNode="488">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="610" EndNode="963">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1455" EndNode="1560">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="223" EndNode="361">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="366" EndNode="369">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="1321" EndNode="1336">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="223" EndNode="1937">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="223" EndNode="361">
+</Annotation>
+<Annotation Id="18" Type="Процент" StartNode="451" EndNode="454">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="223" EndNode="1937">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1566" EndNode="1937">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="589" EndNode="963">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="1238" EndNode="1253">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Дата" StartNode="1474" EndNode="1482">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Деньги" StartNode="1219" EndNode="1234">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="1483" EndNode="1493">
+</Annotation>
+<Annotation Id="29" Type="Период_времени" StartNode="1256" EndNode="1261">
+</Annotation>
+<Annotation Id="28" Type="высказывания_заявления" StartNode="1455" EndNode="1560">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="1566" EndNode="1937">
+</Annotation>
+<Annotation Id="32" Type="упоминает" StartNode="223" EndNode="1937">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

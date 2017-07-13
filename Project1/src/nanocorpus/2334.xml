@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  1. Каким образом можно "собрать" из кремнекислородных радикалов [SiO3(OH)]-3 аналог "кремнекислородного" <Node id="107"/>фуллерена<Node id="116"/>? (2 балла) 
+Ответ: Для того чтобы <Node id="151"/>наночастицы<Node id="162"/> не имели способности образовывать кристаллы (иначе они перестанут быть <Node id="234"/>наночастицами<Node id="247"/>), их конфигурации должны обладать симметрией икосаэдра (точечная группа 53m). Из разбиений сферы конфигурациям из связанных между собой кислородными вершинами тетраэдрических [SiO3(OH)]-3- радикалов в наибольшей степени соответствуют разбиения на основе полуправильных многогранников – тел <Node id="538"/>Архимеда<Node id="546"/>. А именно – усеченный додекаэдр и икосододекаэдр. В этих многогранниках геометрические центры тригонов (треугольных граней) располагаются на осях симметрии 3-го порядка, что совпадает с плоской симметрией [SiO3(OH)]-3- радикала (группа OH, при этом, будет располагаться вдоль этой оси симметрии). (Pic. 1)
+ 2. Какие минералы окажутся в кальцитовом порошке после диспергации, например, в шаровой мельнице <Node id="951"/>в течение 1 часа<Node id="967"/>? (2 балла) 
+Ответ: Вследствие проявления фазоразмерного эффекта, после диспергации кальцита, в мельнице окажется смесь кальцита и арагонита.
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="538" EndNode="546">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Архимед</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="951" EndNode="967">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="107" EndNode="116">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="234" EndNode="247">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="151" EndNode="162">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

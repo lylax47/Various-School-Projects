@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Европейские ученые сконструировали «монорельсовую дорогу» из одной <Node id="68"/>нанотрубки<Node id="78"/>, перевозящей кусочек металла на расстояние около 800 нанометров.
+
+Это удалось сделать международной команде исследователей из Университета Барселоны (Autonomous University of Barcelona), Университета Вены (University of Vienna) и Швейцарского Федерального Института Технологии (Swiss Federal Institute of Technology). В качестве основы устройства ученые взяли многослойную <Node id="452"/>углеродную <Node id="463"/>нанотрубку<Node id="473"/>, которую электрическим <Node id="497"/>травлением<Node id="507"/> «уменьшили» до двух слоев.
+
+Интересно то, как ученые организовали перевозку кусочка металла. В качестве подшипника скольжения выступает <Node id="644"/>нанотрубка<Node id="654"/> размером 5 нанометров, надетая на такой же нанотрубочный «монорельс».
+
+Монорельс, в свою очередь, расположен между двумя кусочками кремниевого чипа, на которых расположены электроды. Приводится в движение вся система, как полагают ученые, вибрациями фононов <Node id="913"/>нанотрубки<Node id="923"/>-подшипника.
+
+Как только на электроды подается напряжение, <Node id="982"/>нанотрубка<Node id="992"/> нагревается, но неравномерно, из-за присутствия подшипника с грузом. Благодаря вибрации фононов груз перемещается к краю <Node id="1114"/>нанотрубки<Node id="1124"/> со скоростью около 1 микрон/с.
+
+В <Node id="1159"/>настоящее время<Node id="1174"/> команда ученых будет искать способы улучшить монорельс, для чего сначала нужно построить математическую модель «вагона».
+
+В любом случае, открытие ученых вселяет оптимизм по поводу использования таких «монорельсовых систем» в наноробототехнике и молекулярном производстве.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1114" EndNode="1124">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="644" EndNode="654">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="68" EndNode="78">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="982" EndNode="992">
+</Annotation>
+<Annotation Id="7" Type="Травление" StartNode="497" EndNode="507">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="452" EndNode="473">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="463" EndNode="473">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1159" EndNode="1174">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="913" EndNode="923">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

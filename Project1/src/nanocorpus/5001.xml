@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследования профессора Эндрю Стекла (Andrew Steckl) из Университета Цинциннати (University of Cincinnati) обещают большие успехи в таких областях, как создание «лабораторий на одном чипе». Жидкофазные полевые транзисторы (LiquiFET), которые он изучает, могут быть введены в кровь для мониторинга её химического состава. Сам <Node id="326"/>Стекл<Node id="331"/> называет это «жидкой логикой» – использование для создания электронных приборов жидкостей вместо обычных твёрдых материалов.
+
+Одним из ограничений обычных медицинских <Node id="499"/>сенсоров<Node id="507"/> является то, что информация, содержащаяся в жидкости, должна быть превращена в электрический сигнал, который может быть обработан в измерительном устройстве. Классические методы такого «перевода» основывались, например, на световых и колориметрических измерениях, на прямом оптическом детектировании, или на флуоресцентных красителях. <Node id="843"/>Стекл<Node id="848"/> и его аспирант Дук Юн Ким разработали устройство, основанное на эффекте электросмачивания (зависимость краевого угла жидкости на гиброфодной поверхности от внешнего электрического поля), которое может работать в жидкой фазе и напрямую трансформировать информацию об электрическом заряде в жидкости в измеримые электрические сигналы.
+
+Подобные устройства могли бы работать, например, в человеческом теле, которое, в основном, состоит из воды. Область возможного применения таких технологий широка – биология, медицина и многие другие отрасли. <Node id="1391"/>Стекл<Node id="1396"/> ожидает, что такое устройство может быть использовано одновременно и для аналитических, и для терапевтических нужд (доставка лекарств), поскольку оно позволит в реальном времени оценивать эффект от лечения и подстраивать дозировку – а чем раньше врач узнает о последствиях лечения, тем лучше.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="843" EndNode="848">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стекл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="326" EndNode="331">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стекл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="499" EndNode="507">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1391" EndNode="1396">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стекл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

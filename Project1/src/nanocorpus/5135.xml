@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+(решение задач блока ФИЗИКА, как и других блоков, позволит отобрать ТРЕХ человек на очный тур, набравших при решении задач ЭТОГО блока наибольшее количество баллов. Дополнительно по результатам очного тура эти претенденты будут бороться за специальную номинацию «Физика наносистем». На очный тур будет отобрано также еще 5 человек, набравших наибольшее абсолютное количество баллов, поэтому после решения задач по своей специальности есть полный смысл решать задачи из других блоков.)
+ 
+Известно, что <Node id="503"/>наночастицы<Node id="514"/> полупроводников (<Node id="532"/>квантовые точки<Node id="547"/>) меняют цвет при изменении размера. 
+ Как Вы думаете, можно ли использовать кремниевые <Node id="635"/>квантовые точки<Node id="650"/> для создания дорожного светофора? (2 балла) Какие при этом могли бы быть размеры <Node id="732"/>наночастиц<Node id="742"/>? (1 балл) При оценке уровней квантования в <Node id="786"/>наночастицах<Node id="798"/>  используйте метод эффективной массы для сферических <Node id="852"/>наночастиц<Node id="862"/>. Оцените ширину спектра свечения  <Node id="897"/>квантовых точек<Node id="912"/> при нормальных условиях и минимальную дисперсию их размеров для разрешения цветов светофора (3 балла). Оцените роль экситонных эффектов и электрон-фононного взаимодействия в ширине спектра свечения (2 балла). Какие способы возбуждения свечения (люминесценции) кремниевых <Node id="1184"/>квантовых точек<Node id="1199"/> Вы могли бы предложить (2 балла)? </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="532" EndNode="547">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="786" EndNode="798">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="732" EndNode="742">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="635" EndNode="650">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="852" EndNode="862">
+</Annotation>
+<Annotation Id="5" Type="Квантовая+точка" StartNode="897" EndNode="912">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="503" EndNode="514">
+</Annotation>
+<Annotation Id="7" Type="Квантовая+точка" StartNode="1184" EndNode="1199">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

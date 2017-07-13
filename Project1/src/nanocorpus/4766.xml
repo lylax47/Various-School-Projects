@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Исследовательская группа из американской Национальной лаборатории возобновляемых источников энергии (National Renewable Energy Laboratory) и компании Innovalight открыла в коллоидных <Node id="183"/>нанокристаллах<Node id="197"/> кремния новый квантовый эффект, использование которого может в полтора раза увеличить эффективность солнечных батарей. Статья об открытии опубликована в последнем номере журнала Nano Letters Journal.
+Кристаллический кремний используется в качестве рабочего тела в большинстве типов солнечных батарей (в <Node id="501"/>настоящее время<Node id="516"/> на его долю приходится <Node id="540"/>более 93%<Node id="549"/> общего объёма применяемых материалов). В используемых в <Node id="606"/>настоящее время<Node id="621"/> батареях один фотон солнечного света выбивает один электрон, а бОльшая часть солнечной энергии теряется, превращаясь в тепло. Поэтому КПД солнечных батарей столь низок, и они рентабельны лишь при покрытии очень больших площадей в местах наиболее интенсивной солнечной радиации типа пустынь.
+
+Американские учёные установили, что в определенных условиях, при длине волны поглощенного излучения меньше 420 нм, в так называемых кремниевых <Node id="1057"/>нанокристаллах<Node id="1071"/> ( производства компании Innovalight), возникает эффект генерации множества электронов (Multiple Exciton Generation – MEG), когда один фотон при поглощении кристаллом кремния может выбивать не один электрон, а по крайней мере два. Благодаря открытию эффективность таких батарей можно увеличить почти в полтора раза.
+
+В <Node id="1390"/>настоящее время<Node id="1405"/> учёные в попытках повысить эффективность генерации электронов в кремниевых <Node id="1481"/>нанокристаллах<Node id="1495"/> экспериментируют сразу в двух направлениях: с одной стороны, они пытаются добиться возникновения эффекта MEG при использовании более широкого спектра солнечных лучей, с другой – добиться усиления этого эффекта при дальнейшем уменьшении длины волны фотонов.
+<Node id="1753"/>http://nanotechwire.com/news.asp?…Исследователи<Node id="1800"/> по всему миру «штурмуют бастионы» в попытках хоть ненамного повысить к.п.д. солнечных преобразователей/батарей. И результаты их «натиска» всякий раз радуют. Очевидно, использование <Node id="1982"/>нанокристаллов<Node id="1996"/> кремния – это наиболее перспективный путь исследований в <Node id="2054"/>настоящее время<Node id="2069"/>. Тем не менее, дальнейшие поиски продолжаются, и можно надеяться, что они принесут новые позитивные результаты…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="501" EndNode="516">
+</Annotation>
+<Annotation Id="1" Type="Нанокристалл" StartNode="183" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1753" EndNode="1800">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="606" EndNode="621">
+</Annotation>
+<Annotation Id="4" Type="Нанокристалл" StartNode="1982" EndNode="1996">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="540" EndNode="549">
+</Annotation>
+<Annotation Id="7" Type="Нанокристалл" StartNode="1481" EndNode="1495">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1390" EndNode="1405">
+</Annotation>
+<Annotation Id="9" Type="Нанокристалл" StartNode="1057" EndNode="1071">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2054" EndNode="2069">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

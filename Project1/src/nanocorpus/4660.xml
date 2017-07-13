@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Японская фирма TOKYO BOEKI Ltd. была основана в <Node id="50"/>октябре 1947 году<Node id="67"/> и в <Node id="72"/>настоящее время<Node id="87"/> объединяет 18 дочерних компаний, действующих по всему миру: в Японии, США, Австралии, Корее, Китае, России и др. В <Node id="203"/>октябре 2004 года<Node id="220"/> исполнилось <Node id="233"/>45 лет<Node id="239"/> Московскому Представительству TOKYO BOEKI. Будучи одной из самых стабильных и надежных японских торговых компаний, работающих в России, TOKYO BOEKI прежде всего известна, как официальный представитель ведущих японских производителей научно-аналитического оборудования: JEOL Ltd., Nikon Instech Co. Ltd. , Rigaku Ltd., SPSS и др. Кроме того, фирма поставляет в Россию оборудование OXFORD Instruments Analytical (Великобритания), Gatan (США), Katsuragawa Electric, Plextor и многие другие. При этом нашим заказчикам предоставляется весь спектр услуг: от поставки оборудования, до гарантийного и послегарантийного обслуживания, поставки запчастей, обучения персонала и т.п. TOKYO BOEKI активно сотрудничает со многими институтами Российской Академии Наук, различными научными и производственными предприятиями, осуществляя продажу современного оборудования, сервис и поставку запчастей.
+ 
+Координаты: Россия, 127055, Москва, ул. Новолесная д. 2, Бизнес Центр "Бригантина Холл", 4 этаж, офис 419, тел: +7 (495) 223-4000 (многоканальный), факс: +7 (495) 223-4001, www.tokyo-boeki.ru, www.microscope.ru, e-mail: <Node id="1346"/>main@tokyo-boeki.ru<Node id="1365"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="50" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="233" EndNode="239">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="203" EndNode="220">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="72" EndNode="87">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="233" EndNode="239">
+</Annotation>
+<Annotation Id="6" Type="Электронная_почта" StartNode="1346" EndNode="1365">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

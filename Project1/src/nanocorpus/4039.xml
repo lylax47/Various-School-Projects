@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В обзоре Hiroshi Imahori"Electrophoretic deposition of donor-acceptor nanostructures on electrodes for molecular photovoltaics" (J.Mater.Chem.) рассмотрены процессы электрофоретического осаждения донорно - акцепторных наноструктурированных слоев (содержащих производные порфиринов или <Node id="287"/>фуллеренов<Node id="297"/>) на различные электроды (диоксид титана, олова и др.) с целью создания новых материалов, трансформирующих солнечную энергию в электрическую. В частности, было показано, что эффективность таких материалов может достигать <Node id="518"/>60%<Node id="521"/> по отношению к преобразованию потока падающих фотонов в фототок. Подобные примеры еще раз подтверждают перспективность новых разработок в области молекулярной электроники. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="287" EndNode="297">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="518" EndNode="521">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

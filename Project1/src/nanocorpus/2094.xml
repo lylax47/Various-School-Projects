@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+КПРФ негативно оценила назначение Анатолия Чубайса главой госкорпорации «Роснанотех». Как заявил <Node id="98"/>28 августа<Node id="108"/> Собкор®ru первый заместитель председателя партии Иван Мельников, такое решение руководства страны говорит о том, что «из важной государственной задачи власть решила сделать бизнес».
+
+«<Node id="293"/>Всем известно, что если он и не погубит дело, то уж абсолютно точно выстроит систему так, чтобы она в обход всех интересов страны работала на интересы отдельных лиц», – заявил Мельников<Node id="478"/>. Первы зампред КПРФ считает, что это также свидетельствует о «крайне узкой скамейки кадров власти».
+
+Напомним, что о назначении Чубайса <Node id="615"/>28 августа<Node id="625"/> написала газета «Ведомости». Однако нынешний председатель правления компании Леонид Меламед заявил изданию, что покидать свой пост не намерен и пообещал уйти «только вперед ногами».
+
+Российская корпорация нанотехнологий создана в <Node id="856"/>июне 2007 года<Node id="870"/> как госкорпорация. В <Node id="892"/>декабре 2007 года<Node id="909"/> «Роснано» были выделены <Node id="934"/>130 миллиардов рублей<Node id="955"/> из федерального бюджета.
+Артем Банцевич</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="856" EndNode="870">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="293" EndNode="478">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="293" EndNode="478">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="892" EndNode="909">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="98" EndNode="108">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="615" EndNode="625">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="934" EndNode="955">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В <Node id="3"/>первый день<Node id="14"/> работы Международного форума по нанотехнологиям в пресс-центре были подписны:
+ Соглашения о сотрудничестве между Российской корпорацией нанотехнологий и ведущими научными учреждениями страны – Российской академией наук и Московским государственным университетом. Свои подписи под документами поставили Генеральный директор РОСНАНО Анатолий Чубайс, Президент Российской академии наук Юрий Осипов<Node id="409"/> <Node id="410"/>и ректор МГУ Виктор Садовничий<Node id="440"/> <Node id="441"/>Учредительные документы по созданию нового предприятия. Свои подписи поставили президент ООО «Группа ОНЭКСИМ» Михаил Прохоров<Node id="566"/>,<Node id="567"/> генеральный директор Уральского оптико-механического завода им. Э.С. Яламова Сергей Максин<Node id="658"/> <Node id="659"/>и генеральный директор РОСНАНО Анатолий Чубайс. 
+После была проведена пресс-конференция, на которой подписчикам задавали свои вопросы журналисты с различных регионов страны.
+
+Во вложенных аудио-файлах можно прослушать все вопросы и ответы, прозвучавшие в ходе пресс-конференции:
+ часть 1 часть 2</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="566" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="566" EndNode="567">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="440" EndNode="441">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="409" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="409" EndNode="410">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="440" EndNode="441">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="658" EndNode="659">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="3" EndNode="14">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="658" EndNode="659">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

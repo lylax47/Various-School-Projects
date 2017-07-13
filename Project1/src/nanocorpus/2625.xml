@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Московский государственный университет будет готовить специалистов в области наноиндустрии, сообщает портал «Российское образование» со ссылкой на первого вице-премьера РФ Сергея Иванова, курирующего Роснанотех.
+
+«<Node id="215"/>Мы решили на базе МГУ магистратуру открыть по нанотехнологиям<Node id="276"/>», – сказал Иванов<Node id="294"/>, выступая на заседании Совета Федерации.
+
+Он отметил, что там будут проходить учебу молодые люди «со всей страны – физики, химики, медики». При этом <Node id="444"/>Иванов отметил, что создавать отдельную специальность и обучать ей с первого курса студентов «пока бессмысленно», так как нанотехнологии – это сложное междисциплинарное явление<Node id="620"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="215" EndNode="294">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="215" EndNode="294">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="215" EndNode="620">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="444" EndNode="620">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="444" EndNode="620">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="215" EndNode="620">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="215" EndNode="276">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="215" EndNode="276">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

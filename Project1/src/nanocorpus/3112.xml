@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Россия может учредить премию в области нанотехнологий. Об этом заявил вице-премьер правительства России Сергей Иванов<Node id="118"/> <Node id="119"/>накануне на заседании оргкомитета по подготовке и проведению Международного форума по нанотехнологиям, который состоится <Node id="240"/>3—5 декабря<Node id="251"/> в Москве, передает ПРАЙМ-ТАСС.
+
+Вице-премьер подчеркнул, что учреждение этой премии было инициативой Российской корпорации нанотехнологий, и прецедентов в мире такой премии нет.
+
+Говоря о форуме, который пройдет в столичном «Экспоцентре» в <Node id="492"/>декабре<Node id="499"/>, <Node id="501"/>С. Иванов отметил, что <Node id="524"/>для России это чрезвычайно важное, знаковое событие<Node id="575"/>. <Node id="577"/>Он<Node id="579"/> подчеркнул, что в <Node id="598"/>последние годы<Node id="612"/> государство уделяет повышенное внимание развитию нанотехнологий<Node id="676"/>. «<Node id="679"/>Но достичь успехов на этом поприще можно лишь при условии, что в данный процесс будет максимально вовлечен российский бизнес, в наноиндустрию пойдет талантливая молодежь, наладится международных обмен знаниями», — сказал <Node id="900"/>он<Node id="902"/>.
+
+По сути, считает вице-премьер, необходимо использовать этот форум, как своего рода механизм вовлечения инноваций в производство и вовлечение инвесторов в расширение новых исследований, отмечает «Росбалт».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="501" EndNode="575">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="577" EndNode="676">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="679" EndNode="902">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="900" EndNode="902">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="118" EndNode="119">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="577" EndNode="579">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="679" EndNode="902">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="524" EndNode="575">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="118" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="524" EndNode="575">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="501" EndNode="902">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="577" EndNode="676">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="240" EndNode="251">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="492" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="501" EndNode="575">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="501" EndNode="902">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="598" EndNode="612">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

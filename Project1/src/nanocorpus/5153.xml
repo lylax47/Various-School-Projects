@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Изогнутые и закрученные коллоидные фотонные кристаллы
+
+Вверху представлен коллаж реальных изображений <Node id="102"/>сканирующей электронной микроскопии<Node id="137"/> и нереальных 3D картинок. Использование плоскости симметрии создало много ассоциаций &amp;#61514;
+(3-D картинки (Rhino) а также регулярные литографические бороздки для работы сделаны Мастером и Доктором <Node id="337"/>Ваном<Node id="342"/> Векрисом (E. Vekris) в лаборатории профессора Озина (Geoffrey Ozin) в Университете Торонто. 
+Коллаж был сделан и предложен одной из версий для обложки журнала. Научная суть: полоски коллоидного фотонного кристалла  можно закручивать контролируемо при инверсии матрицы кристалла и ее последующей консолидации, сохраняя при этом высокую степень упорядоченности и структурную целостность полосок. Размер монодисперсных микросфер в данных образцах коллоидных кристаллов варьировался от 260 до 850 нм, показано в основном с 850 нм. (Adv Mat.  2006, 18, 2481.)  
+
+Внизу показаны сильно скрученные, переплетенные и замкнутые в кольца полоски коллоидных кристаллов. Сделано без Наногномов. Замыкание полосок в кольца в значительной степени контролируемо (необходимо создание двойных полосок посредством реализации избыточного верхнего слоя при инфильтрации, связывающего полоски). Авторам работы было отказано в статусе Властелинов Колец в связи с недостаточной мохнатостью лапок. 
+
+Изображения <Node id="1330"/>сканирующей электронной микроскопии<Node id="1365"/> сделаны автором с использованием Hitachi S-4500 (University of Toronto). </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Сканирующая+электронная+микроскопия" StartNode="1330" EndNode="1365">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Сканирующая+электронная+микроскопия" StartNode="102" EndNode="137">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="337" EndNode="342">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ван</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

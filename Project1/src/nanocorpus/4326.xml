@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>В будущем<Node id="11"/> компьютеры станут работать не за счёт управления потоками электронов. И даже не на фотонах. Они смогут оперировать фононами — квантами тепловых колебаний атомарной решётки вещества. Во всяком случае, первый шаг в этом направлении уже сделан: физики построили фононный диод. 
+ 
+Вопрос на знание физики школьного уровня. Если при разности температур в 10 градусов через слой некоего твёрдого материала толщиной в один сантиметр за <Node id="441"/>секунду<Node id="448"/> проходит 10 джоулей энергии, сколько пройдёт тепла в обратном направлении, если мы будем нагревать аналогичным образом не левую, а правую сторону этого же материала? 
+ 
+Ответ кажется очевидным: ровно столько же. Ведь теплу всё равно, в какую сторону распространяться. 
+ 
+А теперь представьте, что скорость теплопередачи у некоего объекта меняется в зависимости от направления потока энергии. Что получится? Получится тепловой аналог электрического диода. 
+ 
+Надо отметить, что в последнем варианте электрическое сопротивление различается в зависимости от направления тока в тысячи и тысячи раз. А в реально построенном тепловом диоде соответствующая разница в теплопроводности пока несравненно скромнее. Но дело тут не в цифрах — важен сам факт. 
+ 
+О создании первого в мире твердотельного термического выпрямителя (Solid-State Thermal Rectifier), или термического диода, отрапортовали в журнале Science профессор Алекс Зеттл (Alex Zettl) из университета Калифорнии в Беркли (University of California, Berkeley) и его соавторы. 
+ 
+Кстати, читателям "Мембраны" Зеттл уже знаком: это он создал самый маленький в мире двигатель, поперечник которого составляет всего 200 нанометров. 
+ 
+<Node id="1631"/>Четыре года назад<Node id="1648"/> <Node id="1649"/>Мишель Пейрар<Node id="1662"/> (Michel Peyrard) из Высшей школы Лиона (École Normale Supérieure de Lyon) первым предложил план построения теплового диода. Вот, кстати, одна из <Node id="1808"/>его<Node id="1811"/> свежих работ (PDF-документ), посвящённых физике этого удивительного устройства. 
+ 
+<Node id="1895"/>Пейрар<Node id="1901"/> вспомнил, что разные материалы по-разному меняют свою теплопроводность в зависимости от температуры. И вместе с коллегами решил сделать тепловой выпрямитель, комбинируя тонкие слои определённых материалов. Но, несмотря на колоссальную сферу потенциального применения теплового выпрямителя (диода), <Node id="2200"/>Пейрар<Node id="2206"/> никогда не пробовал воплотить эти идеи в эксперименте. 
+ 
+По другим теориям, тепловой выпрямитель можно было бы создать иным способом: построить одномерную проводящую систему, у которой на одном конце сосредоточено больше массы, чем на другом. Вот эту версию и предложил проверить на практике аспирант профессора Зеттла Чих <Node id="2531"/>Вэй Чан<Node id="2538"/> (Chih-Wei Chang). 
+ 
+Зеттл и коллеги обратили своё внимание на <Node id="2602"/>нанотрубки<Node id="2612"/>: ведь из-за огромного соотношения между длиной и диаметром их практически можно считать одномерными объектами. Для тепловых потоков, во всяком случае. 
+ 
+Для опыта воспользовались <Node id="2793"/>нанотрубками<Node id="2805"/> двух видов — из углерода и из нитрида бора, диаметром 10 и 40 нанометров. Но как создать разницу в распределении массы? 
+ 
+Учёные решили покрыть <Node id="2951"/>нанотрубки<Node id="2961"/> неравномерным слоем специально подобранного аморфного материала (C9H16Pt), который с одного конца был нанесён весьма щедро, а к другому плавно сходил на нет. 
+ 
+Такую <Node id="3129"/>нанотрубку<Node id="3139"/> закрепляли между электродами на основе кремния и платины — они служили попеременно то нагревательным элементом (на одном конце трубки), то термодатчиком (на другом). 
+ 
+Посылая тепло сначала от одного конца <Node id="3347"/>нанотрубки<Node id="3357"/> к другому, а потом — в противоположном направлении, исследователи каждый раз измеряли её теплопроводность. 
+ 
+Они убедились, что при передаче тепла от конца с большой массой к более лёгкому краю этого устройства по трубке пробегало на <Node id="3593"/>7%<Node id="3595"/> больше фононов, чем при передаче энергии в обратном направлении. 
+ 
+Эта невысокая эффективность ещё недостаточна для практического использования новинки. Однако, как справедливо заметил профессор <Node id="3792"/>Джулио Казати<Node id="3805"/> (Giulio Casati) из итальянского университета Инсубрии (Università degli studi dell'Insubria), который вместе с Пейраром первым предложил идею теплового выпрямителя, "это — первый шаг": "Когда учёные построили первый электрический диод, его эффективность также была очень низкой, — напомнил Казати, — таким образом, нужно ещё время". 
+ 
+Но даже 7-процентное отличие в теплопроводности при протекании энергии в разных направлениях впечатляет. Авторы новой работы пишут, что его нельзя объяснить в рамках обычной теории распространения тепла и предлагают "приспособить" для этого гуляющие по <Node id="4395"/>нанотрубке<Node id="4405"/> солитоны. 
+ 
+Арунава Маджумдар (Arunava Majumdar), ещё один соавтор эксперимента с <Node id="4489"/>нанотрубками<Node id="4501"/>, говорит, что, поскольку тепловые фононы не имеют заряда, ими нельзя управлять на манер электронов в микросхемах. Однако фононный выпрямитель — вот он, построен живьём. А это означает, что в будущем могут появиться и другие необычные системы, командующие потоками тепла. 
+ 
+Это могут быть не только диковинные вычислительные устройства, но и, скажем, необычные системы охлаждения микросхем или новые энергосберегающие материалы для зданий. 
+ 
+Маджумдар рассказывает, что следующим шагом научной группы будет изучение различных конфигураций <Node id="5042"/>нанотрубок<Node id="5052"/> и различных вариаций платинового покрытия. Учёные попробуют повысить разницу в теплопроводности "вправо" и "влево", меняя геометрию и химический состав устройства. 
+ 
+Нам же остаётся помечтать, к примеру, о создании фононных транзисторов. Или о воплощении демона <Node id="5316"/>Максвелла<Node id="5325"/>. 
+ 
+Напомним, этот демон — плод мысленного эксперимента знаменитого английского физика Джеймса Максвелла (James Clerk Maxwell). В этом эксперименте законы термодинамики нарушались путём быстрого открывания и закрывания дверей перед носом молекул, имевших разную скорость, из-за чего терялось тепловое равновесие без затрат энергии. Похоже на прибор, созданный физиками? 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1649" EndNode="1662">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мишель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2200" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пейрар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1895" EndNode="1901">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пейрар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1808" EndNode="1811">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1631" EndNode="1648">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="441" EndNode="448">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="5316" EndNode="5325">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Максвелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="3347" EndNode="3357">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="4489" EndNode="4501">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="3593" EndNode="3595">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="5042" EndNode="5052">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="2" EndNode="11">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="2602" EndNode="2612">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="3792" EndNode="3805">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джулио</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="4395" EndNode="4405">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="2793" EndNode="2805">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="3129" EndNode="3139">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="2951" EndNode="2961">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="2531" EndNode="2538">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вэй</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

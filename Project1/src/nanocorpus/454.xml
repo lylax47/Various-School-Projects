@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нобелевская премия по физике присуждена за нанотехнологиюВ Швеции объявлены имена лауреатов Нобелевской премии по физике за <Node id="124"/>2007 год<Node id="132"/>. Ими стали <Node id="144"/>Альбер Фер<Node id="154"/> (Albert Fert) и Петер Грюнберг (Peter Grunberg), которые в <Node id="214"/>1988 году<Node id="223"/> независимо совершили открытие эффекта гигантского магнитосопротивления.<Node id="295"/>Альбер Фер<Node id="305"/> и Петер Грюнберг
+Эффект гигантского магнитосопротивления Giant Magnetoresistance) позволяет создавать структуры, в которых незначительное изменение магнитного поля приводит к значительному изменению электрического сопротивления системы.
+
+Это открытие, которое в сообщении <Node id="578"/>Нобелевского комитета<Node id="599"/> отнесено к сфере нанотехнологии, нашло практическое применение при разработке компьютерных жестких дисков, что позволило в <Node id="723"/>последние годы<Node id="737"/> значительно уменьшить их размеры и увеличить емкость.
+
+Первые системы считывания информации на основе эффекта гигантского магнитосопротивления были созданы в <Node id="896"/>1997 году<Node id="905"/> и быстро стали промышленным стандартом.
+<Node id="946"/>Альбер Фер<Node id="956"/> родился в <Node id="967"/>1938 году<Node id="976"/>, он гражданин Франции, сотрудник Университета Париж-11. Петер Грюнберг родился в Германии, в <Node id="1070"/>1939 году<Node id="1079"/>. <Node id="1081"/>Он<Node id="1083"/> работает в исследовательском центре немецкого города Юлих (Julich), земля Северный Рейн-Вестфалия.
+
+Начиная <Node id="1192"/>с 2001 года<Node id="1203"/>, Нобелевская премия составляет в каждой номинации 10 миллионов шведских крон (в <Node id="1284"/>2007 году<Node id="1293"/> эта сумма эквивалентна <Node id="1317"/>1,542 миллиона долларов<Node id="1340"/>). Так как в одной номинации победили два человека, денежное вознаграждение будет разделено между ними в равных долях.
+
+Торжественная церемония награждения Нобелевскими премиями состоится <Node id="1528"/>10 декабря<Node id="1538"/>, в <Node id="1542"/>день<Node id="1546"/> смерти Альфреда Нобеля. Король Швеции, по традиции, вручит награды в Концертном доме Стокгольма, а затем в Голубом зале ратуши состоится нобелевский банкет.
+<Node id="1704"/>http://lenta.ru/…9/nobelphys/Ну<Node id="1735"/> вот и свершилось! Хотя речь напрямую не идёт о нанотехнологиях, очевидно, что без них дело не обошлось… Наши поздравления!!!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="295" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Альбер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="946" EndNode="956">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Альбер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1081" EndNode="1083">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="144" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Альбер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="214" EndNode="223">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1284" EndNode="1293">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1070" EndNode="1079">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="124" EndNode="132">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="896" EndNode="905">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1528" EndNode="1538">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1317" EndNode="1340">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="124" EndNode="132">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="967" EndNode="976">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1284" EndNode="1293">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="723" EndNode="737">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="896" EndNode="905">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Властная_Структура" StartNode="578" EndNode="599">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Нобелевского комитета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="967" EndNode="976">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="214" EndNode="223">
+</Annotation>
+<Annotation Id="23" Type="Url" StartNode="1704" EndNode="1735">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1070" EndNode="1079">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="1542" EndNode="1546">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="1192" EndNode="1203">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

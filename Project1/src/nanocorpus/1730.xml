@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Прогноз: больше <Node id="16"/>наноматериалов<Node id="30"/> на сокращающемся рынкеНесмотря на общие тенденции к замедлению и сокращению рынка полупроводников, освоение <Node id="139"/>наноматериалов<Node id="153"/> будет идти ускоренными темпами, и не в последнюю очередь благодаря стремлению поставщиков увеличить прибыльность за счет сокращения себестоимости производства – к такому выводу пришли исследователи рынка из компании The Information Network.
+Средний ожидаемый ежегодный прирост данного сегмента – <Node id="450"/>более 40%<Node id="459"/> на период <Node id="470"/>до 2015 г.<Node id="480"/> Согласно опубликованному прогнозу, уже в <Node id="522"/>следующем году<Node id="536"/> применение <Node id="548"/>наноматериалов<Node id="562"/> в полупроводниковых приложениях вырастет на <Node id="607"/>63%<Node id="610"/>, что увеличит объем рынка до <Node id="640"/>800 млн долл.<Node id="653"/> Аналитики считают, что к <Node id="679"/>2015 г.<Node id="686"/> <Node id="687"/>наноматериалы<Node id="700"/> потеснят традиционные полупроводники, главным образом в RFID-метках и разнообразных <Node id="785"/>сенсорах<Node id="793"/>, приблизительно на <Node id="813"/>58%<Node id="816"/>, отвоевав у них рынок в объеме <Node id="848"/>около 7 млрд долл.<Node id="866"/> В ближайшей же перспективе наиболее активное использование <Node id="926"/>наноматериалов<Node id="940"/> ожидается для выпуска тонкопленочных поликристаллических элементов солнечных батарей методом струйной печати, с красящими материалами, содержащими <Node id="1088"/>наночастицы<Node id="1099"/>. Александр <Node id="1111"/>Харьковскийhttp://www.3dnews.ru/…emsya_rinke/Ну<Node id="1158"/> что ж, это логично. Рынки сужаются, а прибыль получать надо. Начинаем делать, что попроще и подешевле, но зато в массовых количествах, с гарантированным спросом. И это – правильно!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="548" EndNode="562">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1111" EndNode="1158">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="139" EndNode="153">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1088" EndNode="1099">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="607" EndNode="610">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="450" EndNode="459">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="785" EndNode="793">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="16" EndNode="30">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="522" EndNode="536">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="640" EndNode="653">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="848" EndNode="866">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="813" EndNode="816">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="926" EndNode="940">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="470" EndNode="480">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="679" EndNode="686">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="687" EndNode="700">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

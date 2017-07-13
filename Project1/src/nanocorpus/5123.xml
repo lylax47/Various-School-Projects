@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В Институт передовых технологий компании Samsung в Корее требуется специалист в области атомно-эмиссионной спектроскопии. 
+ 
+Требования к кандидату: 
+ 
+·           Опыт работы на атомно-эмиссионном спектрометре 
+ 
+·           Знание английского языка 
+ 
+·           Наличие ученой степени является преимуществом 
+ 
+Для подачи заявки необходимо составить на АНГЛИЙСКОМ ЯЗЫКЕ развернутое резюме (личные данные, образование, опыт работы) и направить его к.х.н. Дмитрию Зайцеву на e-mail: <Node id="487"/>dmitry.zaytsev@samsung.com<Node id="513"/> до <Node id="517"/>25 сентября<Node id="528"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="487" EndNode="513">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="517" EndNode="528">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

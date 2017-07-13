@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Андрей Фурсенко: Объем финансирования фундаментальных исследований может и должен быть увеличенМинистерство образования и науки РФ намеревается в <Node id="146"/>2008–2012 годах<Node id="161"/> направить <Node id="172"/>более 250 млрд. рублей<Node id="194"/> на финансирование программы фундаментальных научных исследований. Часть из этих средств пойдет на развитие нанотехнологий.
+ «<Node id="320"/>Министерством разработан и внесен в правительство РФ проект программы фундаментальных научных исследований на <Node id="430"/>2008–2012 годы<Node id="444"/>. Запланированный объем финансирования программы на <Node id="496"/>пять лет<Node id="504"/> составляет <Node id="516"/>более 250 миллиардов рублей<Node id="543"/>. Но мы считаем, что этот объем может быть и должен быть увеличен<Node id="608"/>», – заявил глава Минобрнауки Андрей Фурсенко<Node id="653"/> <Node id="654"/>на коллегии министерства.
+ 
+Фурсенко рассказал, что
+ 
+«есть и другие направления, и поэтому он не считает, что денег в этой области катастрофически не хватает», сообщает ИТАР-ТАСС. «Но, конечно, для ученых, в том числе занимающихся фундаментальными науками, денег всегда мало, – отметил он. – Хочется исследовать больше».
+  «Будем больше зарабатывать, в том числе за счет реализации коммерческого продукта в нанотехнологиях – будем больше выделять денег на фундаментальные исследования, – подчеркнул министр. – На сегодня катастрофической нехватки денег, на наш взгляд, нет».
+ 
+Министр также отметил, что Минобрнауки в <Node id="1273"/>последние четыре года<Node id="1294"/> активно внедряет метод программного финансирования науки с привлечением внебюджетных средств со стороны бизнеса. По мнению министра, науке сегодня необходимо зарабатывать больше денег за счет реализации коммерческого продукта. <Node id="1522"/>Фурсенко также напомнил, что в <Node id="1553"/>2007 году<Node id="1562"/> на развитие нанотехнологий было выделено <Node id="1604"/>более 5 миллиардов рублей<Node id="1629"/>.
+<Node id="1631"/>http://www.opec.ru/news.aspx?…Правильно<Node id="1670"/> говорит министр! Но здесь, как всегда, есть суровый закон: «Скоро сказка сказывается, да не скоро дело делается…». РАБОТАТЬ надо, дорогие товарищи!.. Работать… В том числе – головой…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="172" EndNode="194">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="430" EndNode="444">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="320" EndNode="653">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="653" EndNode="654">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1273" EndNode="1294">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1553" EndNode="1562">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1522" EndNode="1629">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="516" EndNode="543">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="496" EndNode="504">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="320" EndNode="1629">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1553" EndNode="1562">
+</Annotation>
+<Annotation Id="11" Type="упоминает" StartNode="320" EndNode="1629">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="653" EndNode="654">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="320" EndNode="608">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="320" EndNode="653">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1522" EndNode="1629">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="320" EndNode="608">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="146" EndNode="161">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1631" EndNode="1670">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="1604" EndNode="1629">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

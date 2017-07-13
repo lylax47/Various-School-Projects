@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> На снимке представлена многостенная <Node id="37"/>нанотрубка<Node id="47"/> на основе оксида ванадия (V). Материал был получен с помощью гидротермальной обработки кристаллического оксида ванадия в смешанной растворителе. Стенка нанотубулена представляет собой свернутый в трубочку ванадий-кислородный слой, что объясняет необычную форму частицы. Микрофотография была выполнена при помощи просвечивающего электронного микроскопа LEO 912 AB Omega с катодом на основе LaB. Ускоряющее напряжение составляло 100кВ.    
+ 
+      
+ 
+  
+ 
+                    
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="37" EndNode="47">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

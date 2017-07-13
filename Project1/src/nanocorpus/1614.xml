@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>10 октября 2008 г.<Node id="19"/> состоялся очередной визит делегации корпорации <Node id="67"/>Сант-Гобен<Node id="77"/> (Франция) на факультет наук о материалах МГУ им. М.В.Ломоносова. Возглавлял делегацию Hervé ARRIBART (Х.Аррибар) – вице президент Корпорации, присутствовали и активно участвовали в обсуждении Сергей Назаров, HR-директор SGR, генеральный представитель Корпорации в Польше, России и в Украине, а также Mlle Catherine Barrault (К.Барро), вице-атташе Посольства Франции в Москве по вопросам науки и технологии. 
+Прошел уже <Node id="497"/>год<Node id="500"/> с момента заключения между Корпорацией и ФНМ МГУ долгосрочного рамочного соглашения о сотрудничестве в научной и образовательной областях. <Node id="640"/>Этот год<Node id="648"/> прошел успешно и был насыщен событиями. Наш сайт уже сообщал о проведении новаторского конкурса научных эссе и о стажировках студентах ФНМ МГУ во Франции. Кроме того, Корпорация реализовала важную идею поддержки пост-докторантов для проведения совместных работ не зарубежом, как обычно делется в подобных случаях, а в Российской Федерации, а также предложила совместную разработку новых учебных курсов в рамках реализации магистерских программ в области фундаментального материаловедения. 
+ 
+В этот раз во время визита прошло заседание <Node id="1185"/>совместной комиссии по сотрудничеству<Node id="1222"/>, которая подвела итоги и наметила планы дальнейшей работы. Отчетный доклад от имени ФНМ МГУ сделал профессор <Node id="1332"/>А.Р.Кауль<Node id="1341"/>, заведующей лабораторией координационных соединений кафедры неорганической химии химического факультета МГУ. 
+ 
+В 15-00 состоялась лекция доктора Х.Аррибара «Нанонаука и нанотехнология в области исследования стекол», на которой присутствовали студенты, аспиранты ФНМ и другие приглашенные лица. На лекции было также объявлено о сроках начала и новых темах конкурсов научных эссе Корпорации. Вечером студенты имели возможность задать вопросы высоким гостям. В завершении визита прошло посещение Третьего Фестиваля Науки в г.Москве.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="1185" EndNode="1222">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">совместной комиссии по сотрудничеству</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="640" EndNode="648">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="497" EndNode="500">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1332" EndNode="1341">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="67" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сант-Гобен</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

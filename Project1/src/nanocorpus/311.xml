@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Группа исследователей из Гарвардского Университета заключила, что в общем случае – нет. Этот вопрос особенно важен для материалов, которые сложно допировать (например, ZnO или GaN).
+
+<Node id="184"/>На сегодняшний день<Node id="203"/> самым распространённым применением структур <Node id="248"/>нанопроволока<Node id="261"/>-подложка является создание <Node id="289"/>светодиодов<Node id="300"/>. Самой сложной частью этого процесса является не изготовление <Node id="363"/>нанопроволок<Node id="375"/>, а сборка устройства. Один из аспектов этой проблемы – геометрическое расположение <Node id="459"/>нанопроволок<Node id="471"/> в крупномасштабных структурах – исследовался довольно тщательно. Другой, практически неизученный аспект – управление свойствами границы, разделяющей <Node id="621"/>нанопроволоку<Node id="634"/> и подложку. Свойства полупроводниковых источников света, таких как <Node id="702"/>светодиоды<Node id="712"/> на p-n переходах или лазеры на двух гетеросоединениях, определяются именно границей раздела двух полупроводников.
+
+В исследовании, о котором идёт речь, изучалось образование p-n переходов между <Node id="907"/>нанопроволокой<Node id="921"/> и подложкой для создания ультрафиолетовых <Node id="964"/>светодиодов<Node id="975"/>, и исследовалась физика, стоящая за люминесцентными свойствами и вольтамперными характеристиками. <Node id="1074"/>Светодиоды<Node id="1084"/> изготавливались из <Node id="1104"/>нанопроволок<Node id="1116"/> нитрида галлия n-типа, расположенных на кремниевой подложке p-типа. Согласно результатам работы, получающиеся при таком контакте гетеропереходы далеки от идеала по сравнению со структурами, получаемыми эпитаксиальным выращиванием. Из-за ван-дер-Ваальсовых взаимодействий между <Node id="1394"/>нанопроволокой<Node id="1408"/> и подложкой итоговая структура скорее является не p-n, а туннельным переходом.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="1394" EndNode="1408">
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="1104" EndNode="1116">
+</Annotation>
+<Annotation Id="2" Type="Светодиод" StartNode="964" EndNode="975">
+</Annotation>
+<Annotation Id="3" Type="Нанопроволока" StartNode="363" EndNode="375">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="289" EndNode="300">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="459" EndNode="471">
+</Annotation>
+<Annotation Id="6" Type="Нанопроволока" StartNode="248" EndNode="261">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="621" EndNode="634">
+</Annotation>
+<Annotation Id="8" Type="Нанопроволока" StartNode="907" EndNode="921">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="184" EndNode="203">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="702" EndNode="712">
+</Annotation>
+<Annotation Id="11" Type="Светодиод" StartNode="1074" EndNode="1084">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

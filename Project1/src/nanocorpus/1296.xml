@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Что это такое? (ответ будет дан <Node id="33"/>через несколько дней<Node id="53"/>, после Старого <Node id="69"/>Нового Года<Node id="80"/>…)
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="33" EndNode="53">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="69" EndNode="80">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

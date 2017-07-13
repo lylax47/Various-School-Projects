@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Обяснения о новой сущности политики "бывшей" ГК "Роснанотех", превращающейся <Node id="79"/>день<Node id="83"/> ото <Node id="88"/>дня<Node id="91"/> из гадкого утенка в РОСНАНО были даны много тысячной аудитории из первых уст самим Генеральным директором РОСНАНО А.Б.Чубайсом на открытии Первого международного форума по нанотехнологиям. Можно было запомнить несколько тезисов:
+   РОСНАНО поможет встать на ноги нанобизнесу, а потом отойдет в сторонку, вернув свои деньги, приоритеты - коммерциализация и производство нанопродуктов, неважно кем, главное - в России   РОСНАНО - самый выгодный источник инновационных денег не только в России, но и в мире   РОСНАНО поможет ученым ... заняться коммерциализацией своих идей   РОСНАНО никак не пострадает (а может быть, и выиграет) от финансового кризиса   УЖЕ <Node id="749"/>С 2008 года<Node id="760"/> (!) планируются по нарастающей доходы от наноотрасли (в <Node id="817"/>этом году<Node id="826"/> по плану инвечтиции составят <Node id="856"/>20 млрд. руб.<Node id="869"/>). В конечном итоге будет проинвестировано и потом возвращено что-то <Node id="938"/>около 240 млрд. руб.<Node id="958"/> до пресловутого <Node id="975"/>2015 г.<Node id="982"/>   <Node id="985"/>15 млрд. руб.<Node id="998"/> инвестиций РОСНАНО планирует в образование и популяризацию нанознаний, а <Node id="1072"/>23 млрд. руб.<Node id="1085"/> - в инфраструктуру, сертификацию и стандартизацию   ... а вообще, РОСНАНО - это современный железобетонный арочный мост между наукой и бизнесом (или наоборот?)   Поскольку в ряде СМИ уже появились громкие заголовки и необоснованные цифры, приводим ниже часть слайдов, как они были... </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="938" EndNode="958">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="88" EndNode="91">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="975" EndNode="982">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="749" EndNode="760">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="856" EndNode="869">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="79" EndNode="83">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="985" EndNode="998">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1072" EndNode="1085">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="817" EndNode="826">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>1 сентября<Node id="11"/> новая кафедра микро- и нанотехнологий Тюменского государственного университета примет первых студентов. Распределение по кафедрам на физическом факультете ТюмГУ начинается в конце второго курса – таким образом, нынешние абитуриенты, готовящиеся поступать в вузы, в <Node id="277"/>2010 году<Node id="286"/> будут иметь возможность попасть на эту специализацию, тогда же появятся первые выпускники. Напомним, что кафедра открылась в ТюмГУ в <Node id="420"/>январе 2008 года<Node id="436"/>, однако прием студентов начнется лишь в новом учебном <Node id="491"/>году<Node id="495"/>.
+
+Как рассказал <Node id="512"/>Накануне.RU<Node id="523"/> декан физфака ТюмГУ Анатолий Кислицын, на факультете две специальности – физика и теплофизика, и на обеих специальностях можно получить специализацию по нанотехнологиям, в рамках которой будет проходить ряд спецкурсов – микро- и нанофлюидика, тепло- и массоперенос в нанообъектах, магнитогидродинамика, электронная, ионная оптика и другие. В <Node id="866"/>настоящее время<Node id="881"/> на кафедре завершилось оборудование лаборатории, где установлены зондовые микроскопы и ионоплазменная установка для создания <Node id="1007"/>наноструктур<Node id="1019"/> на поверхности металлов. В дальнейшем факультет приобретет нанофабрику – установку, которая позволяет не только изучать <Node id="1140"/>наноструктуры<Node id="1153"/>, но и управляемо их создавать с помощью электрических магнитных полей – вплоть до отдельных атомов.
+
+В востребованности «наноспециалистов» на рынке труда Анатолий Кислицын не сомневается. «<Node id="1343"/>Выпускники кафедры будут востребованы, в первую очередь, в тюменском технопарке (первая очередь будет запущена уже <Node id="1458"/>этой весной<Node id="1469"/> – прим. Накануне.RU) и строящемся центре нанотехнологий Тюменской области, где часть фирм, а, может быть, и все фирмы, будут наукоемкими. Наше основное научное направление, которым мы будем заниматься – это обработка поверхностей металлов с целью повышения их коррозионной и износостойкости. Этими работами, как мы полагаем, будут заинтересованы и будут их финансировать нефтяники, газовики, а часть выпускников они возьмут на свои производства<Node id="1914"/>», – рассказал <Node id="1929"/>он<Node id="1931"/>.
+
+Центр нанотехнологий в Тюменской области должен появиться и заработать в <Node id="2007"/>2010 году<Node id="2016"/>, и к этому времени в ТюмГУ будет первый выпуск студентов кафедры микро- и нанотехнологий. «Наш университет станет базовым вузом, отвечающим за работу центра, а выпускники составят его основу. В <Node id="2211"/>2011 и 2012 году<Node id="2227"/> они должны быть обеспечены работой именно в этом центре и технопарке», – сказал он. Как отметил декан физического факультета ТюмГУ, первый выпуск студентов будет небольшой – не более десяти человек, в дальнейшем планируется выпускать около 20 специалистов. «Я считаю, что проблем с распределением выпускников в ближайшем будущем не будет, а в отдаленном – тем более», – сказал он.
+
+Напомним, что совокупные затраты по тем программам, которые сейчас реализуются в сфере нанотехнологий в России, превышают <Node id="2732"/>220 млрд руб.<Node id="2745"/> При этом корпорация «Роснанотех» имеет свой объем финансирования в размере <Node id="2821"/>130 млрд руб.<Node id="2834"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="491" EndNode="495">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="277" EndNode="286">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="2007" EndNode="2016">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2007" EndNode="2016">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1929" EndNode="1931">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1343" EndNode="1931">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1458" EndNode="1469">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1343" EndNode="1931">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="420" EndNode="436">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="1343" EndNode="1914">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="512" EndNode="523">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="2732" EndNode="2745">
+</Annotation>
+<Annotation Id="12" Type="Наноструктура" StartNode="1140" EndNode="1153">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2211" EndNode="2227">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="277" EndNode="286">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="2821" EndNode="2834">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="866" EndNode="881">
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="1343" EndNode="1931">
+</Annotation>
+<Annotation Id="19" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="1343" EndNode="1931">
+</Annotation>
+<Annotation Id="21" Type="цитаты" StartNode="1343" EndNode="1914">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="1007" EndNode="1019">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

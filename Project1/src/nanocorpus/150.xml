@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Фонд Фреда Кавли (Fred Kavli), Норвежская академия наук и министерство образования Норвегии учредили три новых научных премии. Премии <Node id="136"/>Кави<Node id="140"/> размером <Node id="150"/>1 млн. долларов<Node id="165"/> каждая будут присуждаться раз в <Node id="198"/>два года<Node id="206"/> в области астрофизики, нанотехнологийи нейронаук. Организаторы считают, что новая премия не будет конкурировать с Нобелевской, но будет ее дополнять, охватывая ученых в тех областях, которые не учитываются самой знаменитой премией в мире. Основатель новой премии предприниматель <Node id="486"/>Фред Кавли говорит, что он выбрал именно эти три области науки, "потому что одна занимается самым большим, другая - самым маленьким, а третья - самым сложным"<Node id="644"/>. Сам Кавли родился в Норвегии, но позже уехал в Соединенные Штаты и основал там корпорацию Kavlico, которая является крупнейшим поставщиком датчиков для авиационной и автомобильной промышленности. Кандидаты на новую премию могут выдвигаться профессорами и директорами исследовательских институтов до <Node id="945"/>15 декабря 2007 года<Node id="965"/>. Самовыдвижения запрещены. Первые лауреаты премии будут объявлены в <Node id="1034"/>июне 2008 года<Node id="1048"/>. Выбор победителей будет осуществляться комитетами, в которые войдут ведущие исследователи, рекомендованные научными академиями, в том числе Британским Королевским Обществом.
+ 
+ 
+ 
+А семья Нобелей объявит об учреждении новой премии за достижения в области человеческой деятельности, название которой пока не раскрывается. Об этом заявил внучатый племянник Альфреда Нобеля и председатель Общества семьи Нобелей Майкл Нобель<Node id="1471"/>.<Node id="1472"/> Название премии будет раскрыто на выставке и конференции nanoTX`07, которая посвящена достижениям в области нанотехнологий и пройдет в Далласе <Node id="1616"/>2-4 октября 2007 года<Node id="1637"/>. <Node id="1639"/>Майкл Нобель заявил:"Экономическое и социальное процветание нашей цивилизации полностью зависит от решения самого важного вызова <Node id="1768"/>XXI века<Node id="1776"/>. Поэтому мы решили учредить новую премию, а nanoTX`07 представляется нам наиболее удобной возможностью объявить об этом". Все это позволяет предполагать, что новая Нобелевская премия будет связана с нанотехнологиями. Нобелевская премия была учреждена в соответствии с завещанием Альфреда Нобеля, составленным в <Node id="2088"/>1895 году<Node id="2097"/>. Каждый <Node id="2106"/>год<Node id="2109"/>, начиная с 1901, награда присуждается по следующим пяти направлениям: физика, химия, физиология и медицина, литература и деятельность по укреплению мира. В <Node id="2266"/>1968 году<Node id="2275"/> была учреждена премия по экономике. Каждая награда состоит из медали, диплома и денежного вознаграждения. В <Node id="2384"/>настоящее время<Node id="2399"/> размер Нобелевской премии составляет 10 млн. шведских крон (<Node id="2460"/>около 1,3 млн. долларов<Node id="2483"/>).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2106" EndNode="2109">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1616" EndNode="1637">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="198" EndNode="206">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="945" EndNode="965">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="1471" EndNode="1472">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="150" EndNode="165">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="1639" EndNode="1776">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="2460" EndNode="2483">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2088" EndNode="2097">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="1471" EndNode="1472">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1768" EndNode="1776">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2266" EndNode="2275">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="136" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кави</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="486" EndNode="644">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="2266" EndNode="2275">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="2384" EndNode="2399">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="486" EndNode="644">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="1034" EndNode="1048">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="2088" EndNode="2097">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="1639" EndNode="1776">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

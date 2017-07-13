@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как выяснили ученые из Австрии, проблемы очистки воды и восстановления кожи могут быть решены с помощью пористых <Node id="114"/>наномембран<Node id="125"/> Ni__3__Al. Нанотехнологии уже представляли различные типы <Node id="184"/>наномембран<Node id="195"/>, но пока они достаточно сложны в массовом производстве.
+
+Однако традиционные Ni-<Node id="276"/>наномембраны<Node id="288"/> легко получить, но они токсичны, поэтому ученые из Технического Университета Брауншвейга (Technical University Braunschweig) разработали способ их покрытия биологически совместимыми материалами с помощью лазерной обработки.
+
+С помощью высокоэнергетической лазерной обработки с последующим нанесением титана или алмазоподобного углерода (diamond-like carbon – DLC) ученые добились формирования защитного слоя на порах <Node id="706"/>наномембраны<Node id="718"/> шириной 200 нанометров и глубиной около 250 микрон!
+
+Нанесение проходило с достаточно высокой скоростью – 5,4 см/сек.
+
+Точность несения покрытия ученые смогли рассмотреть с помощью трехмерной ионно-лучевой томографии, сформировав изображение из 178 срезов <Node id="975"/>наномембраны<Node id="987"/>.
+
+В обеих случаях наносимого материала (титана и DLC) была сформирована гладкая поверхность толщиной около 50 нанометров, причем плазменная обработка проникла глубоко в поверхность мембраны.
+
+Дальнейшим шагом ученых будет проверка <Node id="1219"/>наномембраны<Node id="1231"/> на биологическую совместимость.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наномембрана" StartNode="706" EndNode="718">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наномембрана" StartNode="1219" EndNode="1231">
+</Annotation>
+<Annotation Id="4" Type="Наномембрана" StartNode="184" EndNode="195">
+</Annotation>
+<Annotation Id="5" Type="Наномембрана" StartNode="276" EndNode="288">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наномембрана" StartNode="114" EndNode="125">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наномембрана" StartNode="975" EndNode="987">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

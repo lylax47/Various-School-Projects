@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Вышел в свет очередной номер дайджеста «Нанотехнологии в мире», подготовленный по заказу ГК «Роснанотех».
+ 
+В июньском номере дайджеста содержатся выдержки из наиболее актуальных публикаций средств массовой информации, посвященных тематике нанотехнологий, цитаты выступлений ведущих политиков и лидеров отрасли.
+ 
+Наибольший интерес СМИ в <Node id="341"/>июне<Node id="345"/> привлекла экспозиция ГК «Роснанотех» на XII Петербургском международном экономическом форуме, прошедшем <Node id="450"/>6-8 июня 2008 г.<Node id="466"/> Стенд корпорации посетили президент России Дмитрий Медведев, первый вице-премьер Игорь Шувалов, вице-премьер Сергей Иванов и другие официальные лица РФ. В рамках Петербургского экономического форума <Node id="666"/>7 июня<Node id="672"/> было подписано соглашение о <Node id="701"/>сотрудничестве<Node id="715"/> между ГК «Роснанотех» и компанией Intel.
+ 
+С полным текстом дайджеста можно ознакомиться по адресу <Node id="815"/>http://www.rusnano.com/documents/digest/RNT_digest_2008_06.pdf<Node id="877"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="666" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="450" EndNode="466">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="341" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="815" EndNode="877">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Партнеры_Клиенты" StartNode="701" EndNode="715">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+
+Ещё один шаг к промышленному внедрению нанотехнологий сделали специалисты из университета Цинциннати (The University of Cincinnati) и американской компании First Nano — они вырастили трёхмерную решётку (точнее, нечто вроде густого леса) из <Node id="243"/>углеродных <Node id="254"/>нанотрубок<Node id="264"/> длиной более 7 миллиметров.
+
+Такой размер изделия не слишком подходит под определение "нано", однако сами <Node id="371"/>нанотрубки<Node id="381"/> — это, фактически, сверхбольшие молекулы углерода, составленные из огромного числа атомов. Диаметр же каждой <Node id="491"/>нанотрубки<Node id="501"/> не превышает нескольких десятков атомов (или 20 нанометров).
+
+Понятно, что получить при таком диаметре трубки её длину в 7 миллиметров — задача нетривиальная. Тут исследователям пришлось подумать над выбором подложки, катализатора и условий всего процесса выращивания.
+
+Ранее  Membrana сообщала о выращивании рекордной <Node id="821"/>нанотрубки<Node id="831"/>, длиной 4 миллиметра, теперь же этот рекорд побит.
+
+Создание макрообъектов из гигантских углеродных молекул — важный элемент привлечения <Node id="969"/>нанотрубок<Node id="979"/> к самой различной работе: на их основе можно создавать сверхпрочные кабели, бронежилеты, сверхлёгкие материалы для узлов машин и так далее.
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="371" EndNode="381">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="243" EndNode="264">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="254" EndNode="264">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="491" EndNode="501">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="969" EndNode="979">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="821" EndNode="831">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

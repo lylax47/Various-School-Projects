@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Сегодня в Москве пройдет первое заседание Совета по нанотехнологиям под председательством первого вице-премьера Сергея Иванова.
+
+Как сообщили в аппарате первого вице-премьера, «на заседании будут рассмотрены вопросы, касающиеся современного состояния и направлений развития наноиндустрии в России, первоочередных мероприятий по реализации президентской инициативы "Стратегия развития наноиндустрии».
+
+На заседании планируется одобрить план работы Совета на <Node id="458"/>2007 год<Node id="466"/>. Правительство России своим постановлением от <Node id="513"/>9 июня<Node id="519"/> создало Совет по нанотехнологиям и утвердило положение об этом Совете.
+
+Согласно документу, Cовет является постоянно действующим совещательным органом, созданным для обеспечения взаимодействия федеральных органов исполнительной власти с представителями предпринимательского сообщества и научной общественности по выработке предложений по реализации государственной политики в области нанотехнологий и наноиндустрии.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="458" EndNode="466">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="458" EndNode="466">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="513" EndNode="519">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

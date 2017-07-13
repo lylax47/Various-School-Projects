@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Прогресс в нанотехнологиях позволяет получить больший контроль над традиционными материалами. Как оказалось, пленка из многослойных <Node id="133"/>углеродных <Node id="144"/>нанотрубок<Node id="154"/> (MWCNT) может формировать <Node id="181"/>наносенсор<Node id="191"/> – установили ученые из США.
+
+Команда исследователей из Международного Университета Флориды (Florida International University) разработала полимерную пленку с включением многослойных <Node id="374"/>углеродных <Node id="385"/>нанотрубок<Node id="395"/>. При этом пленка является <Node id="422"/>наносенсором<Node id="434"/> для контроля за структурными вибрациями, что пригодится в исследовании материалов и проектировании новых «умных» композитов.
+
+Легкий в производстве, «умный» <Node id="592"/>наносенсор<Node id="602"/> создан из полоски готовой MWCNT-пленки, изготовленной компанией Nano Lab. Медные контакты, обеспечивающие обмен информацией с пленкой, были нанесены на пленку с помощью тепловой вакуумной обработки.
+
+Тесты <Node id="809"/>наносенсора<Node id="820"/> показали, что он может получать информацию о структурных вибрациях материала. К которому прикреплен, почти каждую <Node id="935"/>секунду<Node id="942"/>. В исследованиях ученые нанесли <Node id="975"/>сенсор<Node id="981"/> на алюминиевую поверхность.
+
+Однако ученым нужно поработать над температурной стабильностью <Node id="1074"/>сенсора<Node id="1081"/> – пока он стабильно работает в диапазоне температур 237–363 K.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="975" EndNode="981">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="1074" EndNode="1081">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="133" EndNode="154">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="935" EndNode="942">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="374" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="809" EndNode="820">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="592" EndNode="602">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="144" EndNode="154">
+</Annotation>
+<Annotation Id="14" Type="Сенсор" StartNode="422" EndNode="434">
+</Annotation>
+<Annotation Id="15" Type="Сенсор" StartNode="181" EndNode="191">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="385" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

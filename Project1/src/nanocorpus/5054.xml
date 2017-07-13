@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Предлагаем вашему вниманию краткий обзор работы <Node id="49"/>второго дня<Node id="60"/> форума, программа которого была разбита на секционные научные и деловые заседания.
+Деловая программа форума затрагивала следующие темы: «НАНОИНДУСТРИЯ ИТАЛИИ», «НАНОТЕХНОЛОГИИ В СТРОИТЕЛЬСТВЕ», «НАНОТЕХНОЛОГИИ В МЕДИЦИНЕ И БИОТЕХНОЛОГИЯХ», «НАНОТЕХНОЛОГИИ В ХИМИЧЕСКОЙ ПРОМЫШЛЕННОСТИ», «ФОРСАЙТ, ДОРОЖНЫЕ КАРТЫ И ИНДИКАТОРЫ В ОБЛАСТИ НАНОТЕХНОЛОГИЙ И НАНОИНДУСТРИИ», «НАНОТЕХНОЛОГИИ В ЭЛЕКТРОНИКЕ И ФОТОНИКЕ».
+Научные секции проходили по темам: «НАНОЭЛЕКТРОНИКА», «НАНОФОТОНИКА», «НАНОДИАГНОСТИКА», «НАНОЭЛЕКТРО- МЕХАНИЧЕСКИЕ СИСТЕМЫ», «НАНОБИО- ТЕХНОЛОГИИ», «БИОЛОГИЧЕСКИЕ МОЛЕКУЛЯРНЫЕ МАШИНЫ», «НАНОТЕХНОЛОГИИ В МЕДИЦИНЕ», «НАНОТЕХНОЛОГИИ В ОНКОЛОГИИ», «МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ НАНОТЕХНОЛОГИЙ», «НАНОТЕХНОЛОГИИ В ЭНЕРГЕТИКЕ, НАНОМЕХАНИКА И НАНОПЛАЗМА», «КОНСТРУКЦИОННЫЕ <Node id="838"/>НАНОМАТЕРИАЛЫ<Node id="851"/> И <Node id="854"/>НАНОМАТЕРИАЛЫ<Node id="867"/> СО СПЕЦИАЛЬНЫМИ СВОЙСТВАМИ», «<Node id="898"/>НАНОМАТЕРИАЛЫ<Node id="911"/> ДЛЯ ЭЛЕКТРОНИКИ, МАГНИТНЫХ СИСТЕМ И ОПТИКИ», «ФУНКЦИОНАЛЬНЫЕ <Node id="973"/>НАНОМАТЕРИАЛЫ<Node id="986"/> ДЛЯ ЭНЕРГЕТИКИ», «НЕОРГАНИЧЕСКИЕ <Node id="1020"/>НАНОМАТЕРИАЛЫ<Node id="1033"/> ДЛЯ ЭЛЕКТРОХИМИЧЕСКИХ ИСТОЧНИКОВ ЭНЕРГИИ».
+
+Перед участниками стоял непростой выбор – какой секции уделить свое внимание, ведь интересы многих ученых и инвестров не ограничиваются одним или даже двумя направлениями обозначенными в названиях секций.
+
+Выступление члена-корреспондента РАН Нарайкина О.С. с докладом «Проблемы и тенденции развития микро- и наноробототехники»
+Во <Node id="1409"/>второй день<Node id="1420"/> работы форума также были проведены два пресс-брифинга по темам: «Инвестиционная политика РОСНАНО» и «Перспективы выхода российской микроэлекстроники на международные рынки». Первый вызвал явный интерес у журналистов. По их просьбе был дополнительно проведен пресс-брифинг с членом правления РОСНАНО <Node id="1720"/>Дионисом Гординым<Node id="1737"/>.<Node id="1738"/>
+В итоге <Node id="1747"/>день<Node id="1751"/> прошел насыщенно. И главным образом хотелось бы отметить такой замечательный факт – в специально предусмотенных переговорных комнатах были подписаны несколько соглашений между учеными и инвесторами, которые впервые встретились на этом форуме.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1020" EndNode="1033">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1720" EndNode="1737">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гордин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1409" EndNode="1420">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="1737" EndNode="1738">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1747" EndNode="1751">
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="1737" EndNode="1738">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="973" EndNode="986">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="838" EndNode="851">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="898" EndNode="911">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="854" EndNode="867">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="49" EndNode="60">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

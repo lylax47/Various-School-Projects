@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Министерство обороны США – через свой центр химико-биологических исследований в штате Мэриленд (Edgewood Chemical and Biological Center in Maryland – <Node id="150"/>http://www.ecbc.army.mil<Node id="174"/> ) выдало компании Platypus Technologies контракт на сумму <Node id="233"/>2,3 млн долл.<Node id="246"/> для доработки её жидкокристаллических датчиков, которые смогут найти широкое применение как в военной, так и гражданской сферах.
+
+Фирма уже получила <Node id="396"/>более 15,5 млн долл.<Node id="416"/> от разных федеральных ведомств для разработки и совершенствования своих нанотехнологических изделий в области физических и медико-биологических исследований.
+
+Компания Platypus Technologies известна своими работами по созданию ЖК-датчиков с использованием нанотехнологий, которые находят широкое применение в области клеточных исследований, межмолекулярных взаимодействий и контроля за загрязнением окружающей среды.
+
+В частности, в <Node id="850"/>августе 2007 года<Node id="867"/> фирма запустила свой анализатор миграции клеток Oris, который привлёк большое внимание исследователей во многих странах мира. Весь штат компании состоит из 21 сотрудника. Она расположена на территории техпарка Fitchburg Technology Campus.
+Platypus <Node id="1116"/>Technologieshttp://www.platypustech.com/http://www.nanotech-now.com/news.cgi?…Ну<Node id="1196"/> вот, совсем небольшая фирмочка и существует едва-едва 6–<Node id="1253"/>7 лет<Node id="1258"/>, а вот её (высокотехнологичная!) продукция уже известна во всём мире, и у неё большой портфель заказов от отечественных ведомств и из-за рубежа…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1116" EndNode="1196">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="233" EndNode="246">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="850" EndNode="867">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="396" EndNode="416">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="150" EndNode="174">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1253" EndNode="1258">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

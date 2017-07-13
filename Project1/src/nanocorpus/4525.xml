@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Уважаемые слушатели интернет-курсов, 
+ 
+В воскресенье-понедельник (до <Node id="71"/>29 октября<Node id="81"/>) преподаватели каждого курса откроют для чтения и ответов на вопросы вторую лекцию. В связи с этим просим вас внимательно ознакомиться с первой лекцией по выбранным Вами курсам, если Вы еще этого не сделали, и ответить на контрольные вопросы (решить домашние задания). <Node id="351"/>После этого<Node id="362"/> <Node id="363"/>в течение недели<Node id="379"/> преподаватели выставят оценки и обсудят с Вами остальные вопросы по лекциям. 
+ 
+Отвечать на вопросы могут ВСЕ, кто имеет доступ к лекциям. Если Вы имеете доступ к выбранным лекциям, значит, Вы АВТОМАТИЧЕСКИ считаетесь обучающимся (независимо от того, оплатили ли Вы уже курсы или нет), то есть должны учиться, читать лекции, отвечать на вопросы, переписываться с преподавателями и пр. 
+ 
+Большая просьба к тем, кто еще не оплатил через Сбербанк прохождение курсов. Это следует сделать в ближайшие 1-<Node id="879"/>2 дня<Node id="884"/>. Пожалуйста, ВСЕ, кто еще не прислал в отсканированном виде копии квитанций просьба это сделать до <Node id="984"/>субботы, 27 октября<Node id="1003"/> - это часть пакета документов, которые мы передаем в Ректорат МГУ. 
+ 
+Еще раз напоминаем адрес для пересылки оригиналов договоров: 119991, г.Москва, Ленинские горы, Московский государственный университет им.М.В.Ломоносова, химический факультет, кафедра неорганической химии, Гудилину Е.А. 
+Тел для справок (495)-939-46-09 (Елена Алимовна Еремина). 
+ 
+С уважением, 
+администрация интернет-курсов 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="351" EndNode="362">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="363" EndNode="379">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="879" EndNode="884">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="71" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="984" EndNode="1003">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

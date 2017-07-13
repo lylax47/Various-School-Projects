@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>С 1 по 2 ноября<Node id="17"/> в Москве состоялся IV Международный симпозиум «Водородная энергетика будущего и металлы платиновой группы в странах СНГ» (ВЭБ-МПГ-2007). Симпозиум был организован при сотрудничестве ряда научных организаций и проводился на базе МИТХТ им. М.В.Ломоносова и технического университета МИРЭА. 
+ 
+В рамках Симпозиума был организован конкурс молодых ученых по теме «Получение <Node id="387"/>наноматериалов<Node id="401"/> на основе платиновых металлов» (см. объявление). Лучшие из представленных на конкурс работ были заслушаны <Node id="508"/>1 ноября<Node id="516"/> в МИТХТ. В номинациях «работа студента», «работа аспиранта» и «работа молодого сотрудника» были объявлены победители. Счастливыми обладателями дипломов победителей и денежных премий стали участники из России, Беларуси и Украины. Авторов всех отобранных членами жюри работ ректор МИТХТ А.К.Фролкова<Node id="814"/> <Node id="815"/>также наградила дипломами участников конкурса и пригласила участвовать в конкурсе в <Node id="899"/>будущем году<Node id="911"/>. 
+ 
+<Node id="916"/>2 ноября<Node id="924"/> работа Симпозиума ВЭБ-МПГ-2007 происходила в здании МИРЭА и была совмещена с работой X Международной деловой конференцией "Российский рынок драгоценных металлов и драгоценных камней: состояние и перспективы" (РДМК-2007). Благодаря такому симбиозу участникам обоих мероприятий представилась возможность услышать доклады, связанные как с добычей и переработкой драгметаллов, так и узнать о новых возможностях применения металлов платиновой группы. 
+ 
+На открытии утреннего заседания были проведены демонстрационные гонки водородных автомобилей. Соревнование увлекло всех участников и повысило интерес присутствовавших к становлению водородной автомобильной промышленности в России. 
+ 
+Среди гостей симпозиума присутствовали ректор МИРЭА А.С.Сигов<Node id="1669"/>,<Node id="1670"/> директоры нескольких научно-исследовательских центров и председатели научных объединений, преподаватели высших учебных заведений. Государственную Думу РФ представлял депутат <Node id="1845"/>П.Б. Шелищ<Node id="1855"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="814" EndNode="815">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="814" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="1669" EndNode="1670">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1845" EndNode="1855">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="508" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="2" EndNode="17">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="1669" EndNode="1670">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="916" EndNode="924">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="387" EndNode="401">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="899" EndNode="911">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

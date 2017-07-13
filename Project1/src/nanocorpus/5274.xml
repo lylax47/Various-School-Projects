@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В начале <Node id="10"/>апреля<Node id="16"/> компания НТ-МДТ участвовала в весенней сессии международной конференции Американского химического общества (ACS).
+
+Организуемая при конференции выставка является одной из самых крупных, посвященных аналитическому оборудованию в США. На выставке НТ-МДТ наряду с уже известным семейством нанолабораторий NTEGRA представляла инновационную разработку Solver NEXT – прибор, открывающий новую линию сканирующих зондовых микроскопов широкого применения.
+
+Известное международное издание The Small Times осветило это событие в своем материале:
+<Node id="553"/>http://www.smalltimes.com/…one/none/1/N<Node id="592"/>
+Solver NEXT отличают максимальная автоматизация, интеллектуальное программное обеспечение и эргономичный дизайн, что позволяет использовать этот зондовый микроскоп как в научной лаборатории, так и в учебном центре. Кроме того, это пока единственный в мире серийный СЗМ прибор, совместимый с операционной системой Mac (Apple).
+
+В ближайшее время компания представит Solver NEXT на российских и зарубежных выставках в Европе и США.
+NT-MDT</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="553" EndNode="592">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="10" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

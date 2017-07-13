@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Федеральное агентство по образованию<Node id="37"/> Российская академия архитектуры и строительных наук Ассоциация ученых и специалистов в области строительного материалове-дения Администрация Белгородской области Белгородский государственный технологический университет им. В.Г. Шухова Белгородский инженерно-экономический институт  Неокомпозиты и наносистемы в строительном материаловедении; Ресурсосберегающие технологии строительных и композиционных материалов; Строительные конструкции, здания и сооружения. Архитектура и градостроительство; Эффективные материалы, технологии и машины для строительства и эксплуатации автомобильных дорог; Инженерная защита окружающей среды; Информационные технологии в управлении техническими системами и моделировании; Энергосберегающие технологические комплексы и оборудование для производства строительных материалов; Современные проблемы электросбережения; Новые инновационные технологии и оборудование в машиностроении; Актуальные проблемы экономического развития; Социальные и гуманитарные исследования в техническом вузе 
+308012, Россия, г.Белгород, ул. Костюкова, 46, БГТУ им. В.Г. Шухова, ОНТИ
+
+Контактный тел./факс: (4722) 55–17–49
+
+е-mail: conf@
+<Node id="1182"/>intbel.ru<Node id="1191"/>
+Адрес конференции: http://conf.bstu.ru</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1182" EndNode="1191">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="1" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по образованию</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

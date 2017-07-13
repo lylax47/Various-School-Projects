@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Американская корпорация из штата Нью-Мексико Hyperion Power Generation заканчивает разработку ядерного реактора нового типа.
+
+Венчурная фирма Hyperion Power Generation планирует изготовить и испытать в <Node id="203"/>будущем году<Node id="215"/> опытный образец компактного ядерного реактора. Его конструкция была предложена группой физиков из Лос-Аламосской Национальной лаборатории, возглавляемой <Node id="369"/>Отисом Питерсоном<Node id="386"/>. Сам <Node id="392"/>Питерсон<Node id="400"/> <Node id="401"/>два года назад<Node id="415"/> <Node id="416"/>уволился<Node id="424"/> из Лос-Аламоса и теперь <Node id="449"/>работает<Node id="457"/> в фирме Hyperion в качестве руководителя исследовательского отдела.
+Новый реактор в качестве топлива использует уран-238, обогащенный ураном-235. Необходимая степень обогащения составляет <Node id="646"/>10%<Node id="649"/> – вдвое выше, чем в большинстве промышленных реакторов. При этом используется не чистый металлический уран, а его соединение с водородом – гидрид урана. Это кристаллическое вещество, молекула которого содержит три водородных атома и один атом урана.
+Стоит отметить, что еще в <Node id="926"/>40-е годы прошлого века<Node id="949"/> гидрид урана изучался в Лос-Аламосе в качестве возможного материала для атомной бомбы. Предполагалось, что атомы водорода будут замедлять нейтроны и тем самым повышать вероятность их захвата ядрами урана-235. Однако на практике эта схема не сработала, и после проведенных в <Node id="1224"/>1953 году<Node id="1233"/> неудачных полигонных испытаний была оставлена.
+
+<Node id="1282"/>Питерсон<Node id="1290"/> и его единомышленники предлагают использовать гидрид урана уже не для начинки ядерных бомб, а как реакторное топливо. Проведенные ими расчеты показывают, что этом случае водород будет очень хорошо работать в качестве замедлителя нейтронов, обеспечивая самоподдерживающуюся цепную реакцию.
+
+Схема нового реактора очень проста. Это герметизированный стальной контейнер поперечником всего в полтора метра, загруженный гидридом урана. Тепло из активной зоны отводится через систему труб, по которым циркулирует жидкий металл. А дальше работает стандартная схема: металл передает тепло парогенератору, пар вращает турбину, а она приводит в действие генератор электричества. Размеры генератора- вот что важно – таковы, что генератор фирмы Hyperion Power Generation может быть перевезен на автомобиле, поезде, небольшом корабле туда, где возникла необходимость в дополнительной электроэнергии, и установлен в подходящем месте.
+
+Готовящийся к испытаниям реакторный модуль должен генерировать 70 тысяч киловатт тепловой энергии, которая обеспечит получение электрической мощности в 25 тысяч киловатт. Таким образом, расчетный коэффициент полезного действия установки составляет <Node id="2460"/>35%<Node id="2463"/> – очень неплохой показатель. Фирма утверждает, что при полной загрузке ядерного топлива реактор будет работать <Node id="2575"/>не менее пяти лет<Node id="2592"/>. <Node id="2594"/>Потом<Node id="2599"/> его потребуется отправить на завод для извлечения ядерных отходов и новой заправки.
+Реактор <Node id="2692"/>Питерсона<Node id="2701"/> – и это очень важно – сам поддерживает безопасный режим своей работы. Дело в том, что гидрид урана при температурах свыше 432 градусов <Node id="2837"/>Цельсия<Node id="2844"/> распадается на уран и водород. Поэтому реактор <Node id="2892"/>Питерсона<Node id="2901"/> в принципе не может пойти вразнос.Если по каким-либо причинам скорость ядерных реакций увеличится выше расчетных показателей, активная зона нагреется выше критической температуры, и свободный водород начнет уходить из реактора в совмещенный с ним накопитель. В отсутствие водорода ядра урана-235 начнут поглощать нейтроны с меньшей интенсивностью, и темпы тепловыделения тут же уменьшатся. В результате начинка реактора охладится, атомы урана вновь соединятся с водородом, и реактор заработает в штатном режиме. Девиз фирмы Hyperion для нового поколения ядерных реакторов – экологически чистый, безопасный, недорогой, энергия доступна <Node id="3537"/>24 часа<Node id="3544"/> в <Node id="3547"/>сутки<Node id="3552"/> <Node id="3553"/>7 дней<Node id="3559"/> в <Node id="3562"/>неделю<Node id="3568"/>.
+
+Во всяком случае, такова теория. Если она подтвердится в ходе испытаний прототипа реактора, фирма сможет приступить к производству серийных реакторных модулей, на которые уже имеются заказчики (правда, пока не в США, а в Европе). Руководство корпорации Hyperion надеется начать эти поставки <Node id="3862"/>летом 2013 года<Node id="3877"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2692" EndNode="2701">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Питерсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="203" EndNode="215">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="3553" EndNode="3559">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1224" EndNode="1233">
+</Annotation>
+<Annotation Id="7" Type="Назначения_Увольнения" StartNode="416" EndNode="424">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="926" EndNode="949">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="2460" EndNode="2463">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="3537" EndNode="3544">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2575" EndNode="2592">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="369" EndNode="386">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Питерсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1224" EndNode="1233">
+</Annotation>
+<Annotation Id="14" Type="Кадровые_перестановки" StartNode="416" EndNode="424">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="449" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="3547" EndNode="3552">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="449" EndNode="457">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="401" EndNode="415">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2837" EndNode="2844">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="392" EndNode="400">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Питерсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="2594" EndNode="2599">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="3562" EndNode="3568">
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="646" EndNode="649">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="2892" EndNode="2901">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Питерсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="3862" EndNode="3877">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="1282" EndNode="1290">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Питерсон</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

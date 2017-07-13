@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Вывешена информация о принятых на конкурс молодых ученых работах . 
+Определен формат постерных докладов: тезисы в объеме до 3 страниц формата А4, которые направляли участники на Международный форум по нанотехнологиям, будут преобразованы в постер размером 300 мм (высота) на 600 мм (ширина) на языке оригинала, отпечатаны и наклеены на специально выделенные панели. На каждой панели будут размещаться два постера. Панели с двумя докладами будут размещены в специально отведенных местах на территории форума.
+ 
+ 
+Если Вы хотите изменить тезисы для печати и размещения постерных докладов на Форуме, просьба не позднее 18-00 (по московскому времени) <Node id="648"/>5 ноября 2008г.<Node id="663"/> направить на электронные адреса Anastasiya.Tizhanina@rusnano.com, <Node id="730"/>Ekaterina.Halatova@rusnano.com<Node id="760"/> или <Node id="765"/>Anastasiya.Nikitkova@rusnano.com<Node id="797"/> нижеуказанную информацию: 
+   Измененный текст тезисов (требования остаются прежними: не боле 3х страниц, 12 шрифт, одинарный интервал)   Графические или иные изображения (если необходимо) в формате tiff, jpg, разрешение не менее 300 dpi   Готовый макет тезисов (горизонтальное расположение, не более 3 страниц подряд, размер – 300*600 мм).   В теме письма просьба обязательно указать краткое название организации, а также «измененная информация для постера». В самом письме просьба обязательно указать название доклада и тип участия конкурс молодых ученых. Дирекция Форума Письмо от <Node id="1382"/>1 ноября<Node id="1390"/>: 
+Уважаемые Участники Международного конкурса научных работ молодых ученых! 
+ 
+ 
+Рады сообщить Вам, что Ваши работы приняты для участия в Международном конкурсе научных работ молодых ученых в рамках Международного форума по нанотехнологиям (<Node id="1632"/>3-5 декабря<Node id="1643"/>, Москва, ЦВК «Экспоцентр»). 
+ 
+Государственная корпорация «Российская корпорация нанотехнологий» приветствует Ваше участие в Конкурсе и просит Вас в срок до <Node id="1801"/>7 ноября<Node id="1809"/> подтвердить свое личное присутствие на Форуме <Node id="1856"/>с 3 по 5 декабря 2008г.<Node id="1879"/>, направив письменное подтверждение по электронной почте <Node id="1936"/>rusnanoforum@rusnano.com<Node id="1960"/> 
+ 
+Во время Форума для участников на конкурса будет обеспечен обед в ресторане 7-ого павильона ЦВК «Экспоцентр». 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1382" EndNode="1390">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="730" EndNode="760">
+</Annotation>
+<Annotation Id="2" Type="Электронная_почта" StartNode="1936" EndNode="1960">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1801" EndNode="1809">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1632" EndNode="1643">
+</Annotation>
+<Annotation Id="5" Type="Электронная_почта" StartNode="765" EndNode="797">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1856" EndNode="1879">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="648" EndNode="663">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

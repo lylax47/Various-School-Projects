@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Компания NanoVic (Nanotechnology Victory Ltd.) объявила победителей конкурса «Art in Nanotechnology». Конкурс проводился в двух номинациях: - для учёных, творчески показавших реальные явления; - для «не учёных», представивших творческое толкование технологии. Peter Liddicot из Сиднейского университета был награждён премий для учёных за работу «Жидкостная эволюция <Node id="367"/>наночастиц<Node id="377"/>». Изображение было получено методом APT (Atom Probe Tomography). 
+ 
+ Премия для «не учёных» была присуждена Michelle Czech за работу «Магнитное поле» - самодельное изображение ярко-раскрашенных «цветов», навеянное магнитными жидкостями. 
+ 
+ Поощрительными премиями были награждёны: доктор Paul Thomas за изображение пальца в качестве зонда атомного силового микроскопа и Carolina Nova с Ann Gooding за SEM изображение <Node id="796"/>золотых <Node id="804"/>наночастиц<Node id="814"/> различных форм и размеров. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="367" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица+золота" StartNode="796" EndNode="814">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="804" EndNode="814">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>И в Пензу пришла нанотехнологияОпилки, траву и солому, оказывается, можно превратить в кирпичи, пеноблоки и теплозвукоизоляционные плиты. Пензенские разработчики решили сказать свое слово в производстве строительных материалов. С помощью нанотехнологий они добились того, что стройматериалы получаются прочнее и дешевле.
+
+К этому шли <Node id="334"/>десятилетия<Node id="345"/>, когда термин «нанотехнологии» еще не был так популярен. Наконец в Пензе научились измельчать материалы до наноразмеров – уровня молекулы и меньше. Если так переработать обычный цемент, то из него можно сформовать плиту, не применяя при этом склеивающих веществ.
+ По словам технолога Николая Борунова, если взять обычный строительный песок и измельчить его до миллионной доли каждой песчинки, а затем смешать при определенных температурных условиях, можно получить идеальный по качеству кирпич. <Node id="841"/>По словам разработчика Владимира <Node id="874"/>Пеннера<Node id="881"/>, из подобных кирпичей (марки «100») можно строить высотки до ста этажей<Node id="953"/>. Такой материал в два-три раза надежнее обычного кирпича, а его себестоимость значительно ниже. Например, при производстве свыше пяти миллионов в <Node id="1100"/>год<Node id="1103"/> себестоимость составит чуть больше <Node id="1139"/>двух рублей<Node id="1150"/> за одну единицу.
+ Пензенцы придумали установку для измельчения цемента, песка и опилок и получают <Node id="1249"/>наноматериалы<Node id="1262"/>. Опыты уже закончены. Дело за реализацией. Свои проекты по производству строительных материалов с помощью нанотехнологий разработчики собираются выставить на инвестиционном форуме Пензенской области. <Node id="1463"/>http://www.pnz.ru/getnews.php?…Сейчас<Node id="1500"/> так и вижу, как наши классические «профессиональные нанотехнологи» («всякие там физики и химики») презрительно кривятся после прочтения этой заметки: Дескать, где же тут «настоящие» нанотехнологии? Не скажите, не скажите… Вон, в Казахстане уже <Node id="1745"/>более 2 десятилетий<Node id="1764"/> главный конструктор ТОО НПО «Инновационные нанотехнологии Казахстана» Алексей Алексеевич Башкирцев<Node id="1863"/> <Node id="1864"/>(он же ИП «NSB: Сверхизмельчение Башкирцева») занимается разработкой и усовершенствованием метода сверхизмельчения самых различных материалов с помощью собственных мельниц — механоактиваторов. И тоже готов продемонстрировать ряд замечательных достижений в этой области. Так что «кесареву – кесарево, а слесарю – слесарево». Как говаривал в своё время умнейший дядька – Дэн <Node id="2237"/>Сяо Пин<Node id="2244"/> – «не важно, какой масти кошка, лишь бы она ловила мышей». Так и здесь – наверняка стОит повнимательнее присмотреться к опыту наших пензенских коллег, может быть, подвести под «это дело» научную базу. А в случае положительных результатов – оказать всемерную помощь во внедрении и максимально широком распространенни этого опыта. Ведь как сказал не так давно наш «самый главный нанотехнолог» – <Node id="2638"/>Сергей<Node id="2644"/>_<Node id="2645"/>Борисыч<Node id="2652"/> <Node id="2653"/>Иванов<Node id="2659"/>, Стране нужен цемент!)… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="1863" EndNode="1864">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">конструктор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="841" EndNode="953">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2645" EndNode="2652">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Борисыч</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="1863" EndNode="1864">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="334" EndNode="345">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1463" EndNode="1500">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="841" EndNode="953">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1100" EndNode="1103">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2638" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сергей</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1139" EndNode="1150">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2237" EndNode="2244">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Пин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2653" EndNode="2659">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1249" EndNode="1262">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1745" EndNode="1764">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="874" EndNode="881">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">разработчик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пеннер</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

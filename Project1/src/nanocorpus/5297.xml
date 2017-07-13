@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> По сообщению сайта Science Daily, инженеры из Вашингтонского университета (<Node id="76"/>Сент<Node id="80"/>-Луис; Washington University in St. Louis) разработали уникальный фотокаталитический элемент, расщепляющий воду на водород и кислород с использованием солнечного света и наноструктурного катализатора. 
+ 
+Группа занимается разработкой новых методов синтеза наноструктурных пленок с улучшенными оптоэлектронными свойствами. Один из разработанных методов предполагает создание компактной трехслойной структуры из полупроводниковых пленок в нанометровом диапазоне и является более простым, эффективным и стабильным, чем существующие многошаговые методы, требующие от <Node id="643"/>нескольких часов<Node id="659"/> до целого <Node id="670"/>дня<Node id="673"/>. 
+ 
+Это открытие предлагает новое экономичное и эффективное решение для производства водорода и может быть использовано в различных распределенных энергетических системах. 
+ 
+Д-р <Node id="853"/>Пратим<Node id="859"/> <Node id="860"/>Бисвас<Node id="866"/> (Pratim Biswas), профессор, зав.кафедрой энергетики, экологических и химических технологий, и его аспирант <Node id="974"/>Элайджа<Node id="981"/> Тимсен (Elijah Thimsen) разработали управляемый газофазный процесс и использовали его для одноступенчатого синтеза пленок оксидных полупроводников, таких как оксид железа и диоксид титана. Процесс основан на применении простого и недорогого пламенно-аэрозольного реактора (flame aerosol reactor, FLAR), состоящего из четырех расходомеров, контролирующих газовые потоки, стандартного питателя для подачи прекурсоров, металлической трубы, используемой в качестве горелки, и водоохлаждаемого подложкодержателя. 
+ 
+«<Node id="1494"/>Мы поместили эти пленки в воду, и они вызвали реакции расщепления воды на водород и кислород,— говорит д-р <Node id="1601"/>Бисвас<Node id="1607"/>.— С этой целью можно использовать любые оксидные материалы, например наноструктурированные диоксид титана, оксид вольфрама и оксид железа, собранные в виде очень компактной трехслойной структуры. Процесс является прямым и занимает всего <Node id="1845"/>несколько минут<Node id="1860"/>. Что еще важнее, его можно использовать в более крупных масштабах для очень экономичного получения более крупных структур при атмосферном давлении». 
+ 
+Метод был описан в последнем выпуске SPIE, журнала Международного общества технической оптики (International Society for Optical Engineering). 
+ 
+Это исследование стало одним из первых результатов работы новой кафедры энергетики, экологических и химических технологий Вашингтонского университета, занимающейся, в частности, исследованиями в области энергетики и окружающей среды, в т.ч. изучением альтернативных видов топлива и источников энергии, исследованием качества воздуха, технологии <Node id="2504"/>наночастиц<Node id="2514"/> и контроля за излучением частиц. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1494" EndNode="1607">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="2504" EndNode="2514">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="643" EndNode="659">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="974" EndNode="981">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">аспирант</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Элайджа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1845" EndNode="1860">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="670" EndNode="673">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="860" EndNode="866">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бисвас</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="1494" EndNode="1607">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1601" EndNode="1607">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бисвас</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="853" EndNode="859">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пратим</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="76" EndNode="80">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

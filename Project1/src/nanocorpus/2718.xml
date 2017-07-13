@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В субботу на Foresight Unconference Роберт Фрайтас и Ральф Меркле представили набор из девяти молекулярных инструментов для механосинтеза нанообъектов. Это является важным шагом на пути к созданию нанофабрик и молекулярному производству.
+
+Используя вычислительные методы квантовой химии, учёные за <Node id="299"/>три года<Node id="307"/> интенсивного моделирования и внимательного анализа химических реакций смоделировали работу «минимального» набора молекулярных инструментов для механосинтеза разнообразных <Node id="479"/>наноструктур<Node id="491"/>. Все устройства составлены только из атомов углерода, водорода и германия. <Node id="567"/>По словам Ральфа Меркла, эти инструменты довольно просты, но достаточно гибки для того, чтобы открыть широкий диапазон возможностей<Node id="698"/>.
+
+Присоединение димера углерода к алмазной поверхностиВ сочетании с программируемой параллельной позиционной сборкой подобные устройства в будущем могут сделать возможным создание нанофабрик, производящих макроскопические количества продуктов с атомарной точностью. Дальнейшим развитием этой технологии должно стать создание автономных нанороботов, в том числе – медицинских. Роберт Фрайтас ожидает появления таких технологий в 2020-е – <Node id="1136"/>2030-е годы<Node id="1147"/>.
+
+Результаты исследования будут опубликованы в статье A Minimal Toolset for Positional Diamond Mechanosynthesis в 4 выпуске журнала Journal of Computational and Theoretical Nanoscience (2007). Помимо собственно описания инструментов и механизмов их работы, для трёх из устройств предложены пути создания, использующие только уже существующие технологии.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="567" EndNode="698">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="479" EndNode="491">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="567" EndNode="698">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1136" EndNode="1147">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="299" EndNode="307">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

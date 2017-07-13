@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Организатор Совещания: Петербургский институт ядерной физики им. Б.П.Константинова РАН Спонсоры: Минобрнауки РФ РФФИ Фонд «Династия» РАН Тематика
+На Совещании будут представлены приглашенные, устные и стендовые доклады по следующим актуальным направлениям:
+ кристаллическая структура и элементарные возбуждения магнетизм некристаллические материалы <Node id="349"/>наноматериалы<Node id="362"/> фармакология и биология материаловедение и прикладные исследования методика и техника нейтронного эксперимента фундаментальные свойства нейтрона Регистрация
+В соответствии с правилами РФФИ для получения финансовой поддержки на проведение мероприятия Оргкомитету необходимо срочно подать в РФФИ заявку, включающую в себя Научную программу (подробное описание тематики секций с указанием докладчиков и перечня докладов).
+
+Для составления такой предварительной Программы Оргкомитет убедительно просит будущих участников Совещания зарегистрироваться и предоставить названия докладов с краткими аннотациями (5–10 строк) обязательно не позднее <Node id="1001"/>20 апреля 2008 года<Node id="1020"/>. При составлении окончательного варианта Программы будут учтены все уточнения и дополнения участников.
+Тезисы
+Участникам Совещания, имеющим устные или стендовые доклады, после регистрации необходимо предоставить тезисы докладов, используя предложенную форму, не позднее чем <Node id="1295"/>1 июня 2008 г.<Node id="1309"/> или выслать электронной почтой Юрию Четверикову по адресу <Node id="1368"/>Yurii.Chetverikov[at]pnpi.spb.ru<Node id="1400"/>
+
+Все тезисы должны быть оформлены в электронном виде с использованием редактора (предпочтительно) Мicrоsоft Wоrd. Максимальный объем тезисов доклада – одна страница формата А4 (не более 3000 знаков, включая пробелы, все поля по 2 см, шрифт Times-New-Roman-12), оформленная соответствующим образом – шаблон для оформления тезиса.
+
+Предполагается публикация докладов в специальном выпуске журнала ФТТ. Объем статьи 12 тыс. знаков, включая пробелы. Оформление статьи по правилам журнала ФТТ. Статьи желательно присылать заранее до <Node id="1929"/>13 октября 2008 г.<Node id="1947"/>, но можно сдать и по прибытии на Совещание.
+Контактная информация: Адрес: Россия, Ленинградская обл., г. Гатчина, Орлова роща, ПИЯФ РАН Телефон: (81371) 4–62–60 (<Node id="2110"/>Манинен Ирина Вячеславовна<Node id="2136"/>, секретарь Совещания) Факс: (81371) 4–62–60, (81371) 3–90–23 Сайт: <Node id="2204"/>http://rno.pnpi.spb.ru/infoconf.php<Node id="2239"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1001" EndNode="1020">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1368" EndNode="1400">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2110" EndNode="2136">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Вячеславовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ирина</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="349" EndNode="362">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1929" EndNode="1947">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1295" EndNode="1309">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2204" EndNode="2239">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

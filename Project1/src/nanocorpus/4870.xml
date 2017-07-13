@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Открыт новый способ получения магнитовСложная многостадийная методика получения сильных постоянных магнитов вскоре уступит место более простой и быстрой технологии
+Постоянные магниты на основе сплава самария-кобальта обладают сильными магнитными свойствами и являются основными материалами для нескольких отраслей промышленности, использующих мощные двигатели и генераторы энергии, включая оборонную и автомобильную отрасли.
+ Самарий-кобальтовые магниты находят применение в таких устройствах, как серводвигатели, <Node id="514"/>сенсоры<Node id="521"/> и другие изделия, где магнитные компоненты должны работать при повышенных температурах или в среде, вызывающей коррозию. 
+До сих пор производство самарий-кобальтовых магнитных материалов было трудоемким и дорогостоящим многостадийным процессом. Прямой химический процесс синтеза магнитных материалов, изобретенный д-ром <Node id="842"/>Чиннасами<Node id="851"/> (C.N.Chinnasamy) из исследовательского центра при Северо-Восточном университете (г. Бостон, США), дает возможность получения самарий-кобальтовых магнитов быстро и в больших количествах, при этом расходы на производство составляют лишь малую долю от стоимости нынешнего метода их изготовления.
+ 
+Кроме того, процесс является экологически чистым, а используемые при этом вещества могут быть полностью регенерированы и использованы повторно. Процесс можно масштабировать для любого объема производства, с изготовлением магнитов самых разных форм. Работа, в которой описано изобретение американских ученых, опубликована в последнем выпуске журнала Applied Physics Letters (от <Node id="1524"/>28 июля 2008 г.<Node id="1539"/>).
+  Руководитель исследовательского центра в Бостоне, где была проведена работа, проф. <Node id="1627"/>Винсент Харрис (Vincent Harris) считает, что ученые смогли наконец получить результат, о котором мечтали не один десяток <Node id="1748"/>лет<Node id="1751"/>. Это удалось сделать с помощью нанотехнологий – частицы сплава нанометровых размеров имеют форму длинных лезвий, из которых можно составлять более компактные и легкие готовые изделия без потери магнитных и механических свойств. Форма <Node id="1986"/>наночастиц<Node id="1996"/> может оказаться особенно ценной при разработке анизотропных магнитов, которыми интересуются ученые из оборонной промышленности и в других приложениях.
+ Работа привлечет внимание ученых разных стран и приведет к быстрому прогрессу в этой области, сообщает PhysOrg. <Node id="2261"/>http://rnd.cnews.ru/…cience.shtml?…Direct<Node id="2302"/> chemical synthesis of high coercivity air-stable SmCo nanoblades
+[Center for Microwave Magnetic Materials and Integrated Circuits, Department of Electrical and Computer Engineering, Northeastern University, Boston, Massachusetts 02115–5000, USA]
+<Node id="2549"/>http://www.cm3ic.neu.edu<Node id="2573"/>/…_APL2008.pdfДа, изготовление сильных постоянных магнитов всегда было довольно сложным и дорогостоящим делом и требовало больших затрат времени и сил. Новая технология более проста и позволяет существенно сократить все эти затраты, что может дать значительную экономию и привести к удешевлению готовых изделий. Молодцы ребята! Надеюсь, что и наши специалисты также владеют подобной технологией, и это принесёт выгоды и нашему народному хозяйству…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1986" EndNode="1996">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="1627" EndNode="1751">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="514" EndNode="521">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1524" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="842" EndNode="851">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Чиннасами</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2549" EndNode="2573">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2261" EndNode="2302">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="1627" EndNode="1751">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1748" EndNode="1751">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

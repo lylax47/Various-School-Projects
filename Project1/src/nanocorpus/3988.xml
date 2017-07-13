@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В ситуации возможной задержки с ЭУФ-<Node id="37"/>литографией<Node id="48"/> ведущие компании-поставщики литографического оборудования ASML (Veldhoven, Голландия), Canon и Nikon (обе – Япония) пересматривают свои дорожные карты, выдвигая вперед для 32– и 22-нм технологий установки 193-нм иммерсионной <Node id="274"/>литографии<Node id="284"/> с двойным экспонированием рисунка.
+
+На конференции Semicon West, проходившей <Node id="362"/>15–17 июля с.г.<Node id="377"/> в Сан-Франциско, голландская IMEC и японская JSR Corp. завладели вниманием аудитории, демонстрируя ролик, представляющий новый подход к методу двойного экспонирования, который включает т.н. процесс «подмораживания» первого проэкспонированного слоя. Этот процесс позволяет сократить число операций, исключив дополнительное <Node id="700"/>травление<Node id="709"/> для проявления рисунка. IMEC в <Node id="741"/>настоящее время<Node id="756"/> передает эту разработку компании ASML Holding NV для реализации его с помощью 193-нм иммерсионной литографической установки этой компании – XT:1950i.
+
+Существует точка зрения, что ЭУФ «созреет» только ко времени, когда промышленность приступит к 16-нм технологии. Это означает, что для 32– и даже 22-нм технологических этапов чипмейкеры должны обратиться к 193-нм иммерсионной <Node id="1134"/>литографии<Node id="1144"/>, применяя двойное экспонирование рисунка критических (т.е. содержащих 32– и 22-нм элементы) слоев.
+
+Nikon Corp. (Токио) в начале с.г. анонсировала, что разрабатывает два типа 193-нм иммерсионных сканнеров для двойного экспонирования – S611C (ранняя версия для исследовательских целей) и S620D (усовершенствованная версия для 45– и 32-нм технологии с производительностью 180 пластин в <Node id="1529"/>час<Node id="1532"/> будет готова к поставкам в <Node id="1560"/>2009 г.<Node id="1567"/>).
+
+В <Node id="1573"/>конце 2007 г.<Node id="1586"/> Canon Inc. (Токио) уже вступила на рынок со своей 193-нм иммерсионной установкой – AS7, которую планирует усовершенствовать для использования в операциях с двойным экспонированием при производительности до 200 пластин в <Node id="1807"/>час<Node id="1810"/>.
+
+Компания ASML также анонсировала разработку новой модели 193-нм иммерсионной установки – Twinscan XT:1950i с увеличенной производительностью (до 148 пластин в <Node id="1972"/>час<Node id="1975"/>) в сравнении с текущей моделью XT: 1900i. Установка оптимизирована для массового производства 38-нм запоминающих схем и 32-нм логических схем с одной операцией экспонирования. В <Node id="2154"/>настоящее время<Node id="2169"/> ASML планирует оптимизировать свои установки, ориентируясь на новый процесс, разработанный совместно голландской IMEC и японской химической компанией JSR. Обычно двойное экспонирование предполагает два этапа <Node id="2378"/>травления<Node id="2387"/> рисунка критического слоя – «экспонирование-<Node id="2432"/>травление<Node id="2441"/>-экспонирование-<Node id="2457"/>травление<Node id="2466"/>». В новом подходе IMEC и JSR используется подход – «экспонирование – «подмораживание» (стабилизация) рисунка первого фоторезистивного слоя – новое экспонирование – <Node id="2631"/>травление<Node id="2640"/>». Стабилизация рисунка в первом слое резиста достигается нанесением специального раствора, разработанного JSR. Этот же слой препятствует взаимодействию первого и второго фоторезистивных слоев.
+
+Новый подход протестирован на 32-нм рисунке.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="37" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="1560" EndNode="1567">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="362" EndNode="377">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1972" EndNode="1975">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1529" EndNode="1532">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1807" EndNode="1810">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Травление" StartNode="2378" EndNode="2387">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Травление" StartNode="700" EndNode="709">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2154" EndNode="2169">
+</Annotation>
+<Annotation Id="14" Type="Травление" StartNode="2631" EndNode="2640">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1573" EndNode="1586">
+</Annotation>
+<Annotation Id="17" Type="Литография" StartNode="274" EndNode="284">
+</Annotation>
+<Annotation Id="16" Type="Литография" StartNode="1134" EndNode="1144">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Травление" StartNode="2432" EndNode="2441">
+</Annotation>
+<Annotation Id="21" Type="Травление" StartNode="2457" EndNode="2466">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="741" EndNode="756">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

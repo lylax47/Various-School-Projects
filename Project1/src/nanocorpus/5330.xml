@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Согласно расчётам физика из Германии, <Node id="39"/>графен<Node id="45"/> может работать в качестве нелинейного устройства – умножителя частоты. Это означает, что этот материал, открытый в <Node id="161"/>2004 году<Node id="170"/>, может под воздействием излучения, используемого в микроволновых печах, генерировать излучение в важном терагерцовом диапазоне.
+
+<Node id="300"/>Графен<Node id="306"/> – двумерный лист углерода толщиной в один атом. Этот материал впервые был получен командой учёных из Манчестерского университета и Института микроэлектронных технологий в Черноголовке.
+
+<Node id="493"/>Графен<Node id="499"/> обладает уникальными физическими свойствами. Из-за того, что <Node id="561"/>графен<Node id="567"/> представляет собой двумерную структуру, электроны в нём ведут себя как релятивистские частицы с нулевой массой покоя и движутся со скоростью 106 м/с. Несмотря на то, что это значение в 300 раз меньше скорости света в вакууме, оно значительно превышает скорость электронов в обычном проводнике.
+
+Сергей Михайлов из University of Augsburg предсказал, что при облучении <Node id="935"/>графена<Node id="942"/> электромагнитными волнами он испускает излучение более высокой частоты и, таким образом, может работать как умножитель частоты. Такое преобразование частоты можно использовать для получения излучения в диапазоне частот, для которых не существует подходящих источников излучения. Одним из таких диапазонов является терагерцовый диапазон (от 100 ГГц до 1–10 ТГц). Для частот менее 100 ГГц есть мощные источники излучения. <Node id="1363"/>Поэтому, по мнению Михайлова, используя эти источники и <Node id="1419"/>графен<Node id="1425"/> в качестве умножителя, можно получить излучение в терагерцовом диапазоне<Node id="1498"/>.
+
+Источники терагерцового излучения могут найти применение в различных областях, включая безопасность, медицину, астрономию и биологию. Терагерцовое излучение проникает через многие материалы (кроме металлов), поэтому может использоваться для контроля содержимого багажа в аэропортах. «<Node id="1785"/>В медицине его можно использовать для обнаружения раковых опухолей на ранних стадиях развития», – говорит Михайлов<Node id="1899"/>. Астрономы также интересуются терагерцовым излучением, т.к. оно входит в космический фон, образовавшийся в результате Большого Взрыва.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="161" EndNode="170">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="1419" EndNode="1425">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="493" EndNode="499">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="161" EndNode="170">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="39" EndNode="45">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="561" EndNode="567">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="935" EndNode="942">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1363" EndNode="1498">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1785" EndNode="1899">
+</Annotation>
+<Annotation Id="17" Type="Графен" StartNode="300" EndNode="306">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1363" EndNode="1498">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="1785" EndNode="1899">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>С.Иванов выступит <Node id="18"/>19 марта<Node id="26"/> в Совете Федерации с докладом о ходе реализации стратегии развития нанотехнологийМОСКВА, <Node id="116"/>13 марта<Node id="124"/> – Первый вице-премьер РФ Сергей Иванов и уполномоченный по правам человека в РФ Владимир Лукин выступят на пленарном заседании Совета Федерации <Node id="269"/>в среду 19 марта<Node id="285"/>.
+Как сообщили ИТАР-ТАСС в пресс-службе СФ, С.Иванов проинформирует сенаторов в рамках «Правительственного <Node id="392"/>часа<Node id="396"/>» о ходе реализации стратегии развития нанотехнологий.
+
+В.Лукин сделает традиционный ежегодный доклад о ситуации с правами человека в России.
+<Node id="538"/>http://www.prime-tass.ru/news/show.asp?…Мы<Node id="580"/> уже <Node id="585"/>недели<Node id="591"/> три тому назад писали об этом событии: «Иванова и <Node id="642"/>Фурсенко<Node id="650"/> вызывают на федеративный ковёр» <Node id="683"/>(http://www.nanonewsnet.ru/…tivnyi-kover).<Node id="725"/> Теперь вот повторяем, чтобы «народ» не забыл. Повторение – мать учения, знаете ли… Интересно-интересно, что-то уважаемый <Node id="847"/>Сергей Борисыч<Node id="861"/> скажет… Тем более что как раз к этому времени они (вместе с <Node id="922"/>А.Фурсенко<Node id="932"/>) должны были представить для В.А.Зубкова НОВЫЙ вариант стратегии развития отечественной НТ, который был забракован <Node id="1048"/>месяца<Node id="1054"/> полтора назад. Тоже будет интересно, чем дело кончилось… Ну вот, весенние праздники прошлИ, пришлА пора засучивать рукава и начинать (интенсивно и энергично) работать. Успехов!.. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="116" EndNode="124">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="18" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="683" EndNode="725">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1048" EndNode="1054">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="922" EndNode="932">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="269" EndNode="285">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="585" EndNode="591">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="538" EndNode="580">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="392" EndNode="396">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Тональность" StartNode="847" EndNode="861">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="642" EndNode="650">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

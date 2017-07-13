@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Благодаря нанотехнологиям ученые научились управлять водой, используя внешнее электромагнитное поле.
+
+Ученые из Политехнического Института Ренсслеера (Rensselaer Polytechnic Institute) создали новый тип жидкой суспензии с <Node id="223"/>наночастицами<Node id="236"/>, которая показала хорошую стабильность в магнитном поле.
+
+Работа с миниатюрными объемами жидкости давно интересует ученых, работающих с МЭМС и лабораториями-на-чипе. Для того, чтобы эффективно управлять свойствами жидкости, ученые из Ренслеера растворили в ней <Node id="498"/>наночастицы<Node id="509"/> теллурида висмута.
+
+<Node id="530"/>Затем<Node id="535"/> капельно нанесли получившуюся смесь на подложку из кремния, обработанную тефлоном. Как только на капли воздействовали электромагнитным полем, они меняли контактный угол с поверхностью, в то время как обычные капли воды, естественно, не проявляли таких войств.
+
+Основное достижение ученых состоит в том, что теперь можно заставить воду перемещаться по капиллярам без необходимости установки микронасосов. Управляя протоком электромагнитным полем, ученые всегда смогут либо «затормозить» ее ход, либо изменить его на противоположный.
+
+Как говорят ученые, это открытие поможет при создании управляемых жидкостных линз, так необходимых во многих оптических приборах, также нано-жидкость пригодится в мониторах для мобильных телефонов. Другое применение «управляемой жидкости» – в жидкостных МЭМС и лабораториях-на-чипе. Там <Node id="1356"/>наночастицы<Node id="1367"/> могут контролировать проток жидкости через капилляры устройств без каких-либо микронасосов.
+
+О своем открытии ученые сообщили в журнале Nanotechnology
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="530" EndNode="535">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1356" EndNode="1367">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="223" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="498" EndNode="509">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

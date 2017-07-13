@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Об этом заявил гендиректор компании Анатолий Чубайс.
+
+«<Node id="56"/>В этом смысле мы – организация с деньгами, с кэшем, без кредитов, без залогов и вообще без каких бы то ни было обременений. И мы, конечно, ну просто в шоколаде», – сказал Чубайс<Node id="233"/>. <Node id="235"/>Он<Node id="237"/> добавил, что <Node id="251"/>специалисты «Роснано» до наступления кризиса успели эффективно разместить <Node id="325"/>130 млрд. рублей<Node id="341"/>, предоставленные корпорацией из российского бюджета<Node id="393"/>.
+
+«<Node id="397"/>Мы даже нарастили объем почти до <Node id="430"/>135 млрд. рублей<Node id="446"/>», – отметил Чубайс<Node id="465"/>. Сейчас «Роснано» рассматривает заявки почти по семистам проектам, пять из которых уже запущено.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="325" EndNode="341">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="430" EndNode="446">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="235" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="56" EndNode="233">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="251" EndNode="393">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="235" EndNode="393">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="56" EndNode="465">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="397" EndNode="465">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="397" EndNode="465">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="251" EndNode="393">
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="56" EndNode="465">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="235" EndNode="393">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="56" EndNode="233">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

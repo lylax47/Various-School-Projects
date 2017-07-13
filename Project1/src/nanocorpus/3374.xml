@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Президент России Владимир Путин подписал Федеральный закон «О внесении изменений в Федеральный Закон "О федеральном бюджете на <Node id="128"/>2007 год<Node id="136"/>», сообщила пресс-служба Кремля.
+
+Законом предусматривается использование в <Node id="212"/>2007 году<Node id="221"/> средств Стабилизационного фонда в целях финансового обеспечения имущественного взноса Российской Федерации в уставный капитал государственной корпорации «Банк развития и внешнеэкономической деятельности» (Внешэкономбанк) и в госкорпорацию «Российская корпорация нанотехнологий», а также в целях формирования Инвестиционного фонда РФ.
+
+Кроме того, законом предлагается направить доходы, поступившие в федеральный бюджет от открытого акционерного общества «Нефтяная компания "ЮКОС», в счет погашения задолженности по налогам, сборам, иным платежам, пеням и штрафам по ним, а также в счет уплаты других платежей в бюджетную систему Российской Федерации, в том числе министерству регионального развития и министерству образования и науки для внесения имущественного взноса соответственно в государственные корпорации «Фонд содействия реформированию жилищно-коммунального хозяйства» и «Российская корпорация нанотехнологий».
+
+Федеральный закон разработан в целях реализации положений послания Президента Федеральному собранию «О положении в стране и основных направлениях внутренней и внешней политики государства».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="212" EndNode="221">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="128" EndNode="136">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="128" EndNode="136">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="212" EndNode="221">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

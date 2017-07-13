@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Одно из замечательных свойств <Node id="31"/>углеродных <Node id="42"/>нанотрубок<Node id="52"/> (УНТ), открывающих широкие возможности для разнообразных применений, связано со взаимной зависимостью механических и электронных характеристик УНТ.
+
+Известно, что вольт-амперная характеристика (<Node id="247"/>ВАХ<Node id="250"/>) УНТ изменяется под воздействием механической нагрузки. Такое свойство может быть положено в основу действия различных устройств, преобразующих механическое усилие в электрический сигнал и обратно. Подобные устройства нанометровых размеров относятся к классу наноэлектромеханических систем (НЭМС), разработка которых составляет одно из главных направлений развития нанотехнологий.
+
+Связь между электрическими и механическими характеристиками УНТ обусловлена изменениями в их электронной структуре, возникающими под воздействием механической нагрузки и приводящими к изменению таких параметров <Node id="844"/>нанотрубки<Node id="854"/>, как положение уровня <Node id="877"/>Ферми<Node id="882"/>, ширина запрещенной зоны, концентрация носителей и т.п. Это, в свою очередь, отражается на макроскопических характеристиках УНТ, таких как максимально достижимый ток через <Node id="1055"/>нанотрубку<Node id="1065"/>, ее электрическое сопротивление и др. Так, в эксперименте, выполненном недавно в университете г. Осака (Япония) установлено, что максимально достижимый ток через <Node id="1228"/>нанотрубку<Node id="1238"/> однозначно связан с модулем <Node id="1267"/>Юнга<Node id="1271"/>, характеризующим ее механическую прочность.
+
+В эксперименте использовали <Node id="1345"/>многослойные <Node id="1358"/>нанотрубки<Node id="1368"/>, синтезированные методом CVD. Некоторое количество таких <Node id="1426"/>нанотрубок<Node id="1436"/>, ориентированных в продольном направлении, помещали на пьезоэлектрическую пластинку, которая при приложении к ней электрического напряжения переменной частоты подвергалась механическим колебаниям. С целью установления резонансной частоты осцилляций исследуемой <Node id="1698"/>нанотрубки<Node id="1708"/> ее облучали пучком электронов с диаметром менее 1 нм, что приводило к вторичной электронной эмиссии с поверхности <Node id="1823"/>нанотрубки<Node id="1833"/>. Если <Node id="1840"/>нанотрубка<Node id="1850"/> колебалась на резонансной частоте, интенсивность вторичной электронной эмиссии достигла минимальной величины.
+
+Для определения модуля <Node id="1985"/>Юнга<Node id="1989"/> <Node id="1990"/>нанотрубки<Node id="2000"/> использовали стандартное соотношение, выражающее резонансную частоту колебаний УНТ через значение этого параметра и геометрические размеры <Node id="2140"/>нанотрубки<Node id="2150"/>. <Node id="2152"/>ВАХ<Node id="2155"/> индивидуальных УНТ измеряли с помощью кремниевого контакта наноманипулятора, покрытого платиновым слоем. Типичная <Node id="2270"/>ВАХ<Node id="2273"/> имеет растущий характер при малых напряжениях и достигает насыщения при напряжении 4 – 5 <Node id="2363"/>В. Результаты<Node id="2376"/> измерений (см. рис.) указывают на связь между максимально достижимой плотностью тока через УНТ, определяемой как отношение максимального тока к произведению πdo ( где do – внешний диаметр <Node id="2565"/>нанотрубки<Node id="2575"/>) и величиной ее модуля <Node id="2599"/>Юнга<Node id="2603"/>. Полученные результаты указывают на роль структурных дефектов УНТ, определяющих как ее электрические характеристики, так и прочностные свойства.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="877" EndNode="882">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="844" EndNode="854">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="31" EndNode="52">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="2152" EndNode="2155">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1823" EndNode="1833">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="247" EndNode="250">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="2140" EndNode="2150">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="42" EndNode="52">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1358" EndNode="1368">
+</Annotation>
+<Annotation Id="14" Type="Многослойная+нанотрубка" StartNode="1345" EndNode="1368">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1267" EndNode="1271">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2599" EndNode="2603">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="1055" EndNode="1065">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="2565" EndNode="2575">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="1426" EndNode="1436">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="1228" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="1840" EndNode="1850">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="1990" EndNode="2000">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="2270" EndNode="2273">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="2363" EndNode="2376">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Нанотрубка" StartNode="1698" EndNode="1708">
+</Annotation>
+<Annotation Id="33" Type="Персона" StartNode="1985" EndNode="1989">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Научный центр мирового значения может быть создан в НовосибирскеВ России будет создано несколько инновационных центров мирового уровня. Новосибирск был назван в числе регионов, где планируется сформировать такой центр.
+
+Как сообщили <Node id="233"/>4 сентября<Node id="243"/> ИА REGNUM в пресс-службе администрации Новосибирской области, об этом заявил губернатор региона Виктор Толоконский, который накануне принимал участие в заседании Правительственной комиссии по высоким технологиям и инновациям в Москве.
+
+<Node id="480"/>Как подчеркнул Виктор Толоконский, на заседании обсуждались вопросы подготовки специалистов для работы в сфере нанотехнологий, методики и критерии оценки деятельности научно-исследовательских организаций<Node id="683"/>.
+ 
+«<Node id="688"/>Приятно отметить, что ведущие российские ученые признали Новосибирск регионом, где может быть создан научный центр мирового значения<Node id="820"/>», – сказал <Node id="832"/>Виктор Толоконский<Node id="850"/>.
+ 
+Губернатор также отметил, что уже сделал ряд специальных поручений, направленных на развитие образования в сфере нанотехнологий и на дополнительную поддержку талантливой молодежи.
+<Node id="1034"/>www.regnum.ru/…1050710.htmlНовосибирск<Node id="1072"/> станет одним из центров подготовки нанотехнологов
+НОВОСИБИРСК, <Node id="1136"/>4 сен<Node id="1141"/> – Новосибирск намерен стать одним из общероссийских центров по подготовке специалистов для работы в сфере нанотехнологий, сообщил журналистам губернатор Новосибирской области <Node id="1317"/>Виктор Толоконский.
+ О необходимости создания таких центров говорилось в среду на заседании правительственной комиссии по высоким технологиям и инновациям во главе с вице-премьером Сергеем Ивановым<Node id="1514"/>.  «На заседании мы рассматривали вопросы подготовки специалистов для работы в нанотехнология. Мне было приятно, ведущие ученые и эксперты, в том числе ректор МГУ, подчеркнули, что в России должны быть созданы три-четыре таких центра и Новосибирск был назван как регион, где такой центр мирового уровня должен быть создан», – сказал глава региона.
+ 
+<Node id="1864"/>Толоконский отметил, что уже сегодня сделал несколько распоряжений по развитию в регионе образования в сфере нанотехнологий и по проведению специальных олимпиад среди школьников и студентов<Node id="2053"/>.
+ 
+«Мы будем заниматься нанотехнологиями не только в науке, но и в образовательных учреждениях. Олимпиады будут и для школьников, и для студентов. Мы установим очень серьезные гранты бюджета области для наиболее талантливых молодых людей, чтобы учить их по этим современным профессиям», – сообщил губернатор.
+  Он добавил, что для Новосибирска развитие науки и образования – две главные возможности быть конкурентоспособным и быстро развиваться. <Node id="2500"/>http://www.rian.ru/…0971054.htmlНу<Node id="2534"/> что ж, очевидно начала реализовываться программа мероприятий, предложенная нашими академиками ещё <Node id="2633"/>весной с.г.<Node id="2644"/> <Node id="2645"/>(http://www.nanonewsnet.ru/…otekhnologii).<Node id="2687"/> Так что РАН и <Node id="2702"/>Министерство образования<Node id="2726"/> снова становятся во главе наногонки, которая так или иначе должна продолжиться в нашей стране <Node id="2821"/>(http://www.nanonewsnet.ru/…-minobrnauki)…<Node id="2863"/> В добрый путь и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="встречи_и_переговоры" StartNode="1317" EndNode="1514">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="1864" EndNode="2053">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2821" EndNode="2863">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="480" EndNode="683">
+</Annotation>
+<Annotation Id="4" Type="Тональность" StartNode="832" EndNode="850">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="2702" EndNode="2726">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерство образования</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2500" EndNode="2534">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="688" EndNode="850">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="480" EndNode="2053">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2645" EndNode="2687">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1034" EndNode="1072">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="233" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1136" EndNode="1141">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="480" EndNode="2053">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="1864" EndNode="2053">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="480" EndNode="683">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="2633" EndNode="2644">
+</Annotation>
+<Annotation Id="18" Type="цитаты" StartNode="688" EndNode="820">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="688" EndNode="850">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="688" EndNode="820">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Омар Яги<Node id="9"/> (Omar Yaghi) и <Node id="25"/>его<Node id="28"/> коллеги из университета Калифорнии в Лос-Анджелесе (UCLA) и Калифорнийского института наносистем (California NanoSystems Institute) создали кристалл с самой низкой плотностью в мире, предполагая, что он найдёт широкое применение в промышленности, а также — в качестве системы хранения газов, в частности — водорода (в роли автомобильного топлива). 
+ 
+ Кристаллическая структура, названная COF-108, обладает плотностью всего в 0,17 грамма на кубический сантиметр. Кристалл составлен из таких элементов, как водород, бор, углерод и кислород. 
+ 
+ Интересно, что COF-108 является органическим кристаллом, или кристаллом-пластмассой: членом сравнительного нового класса веществ, называемых учёными COF (covalent organic frameworks), то есть "ковалентные органические каркасы". 
+ 
+ Теперь <Node id="812"/>Омар Яги<Node id="820"/> с сотоварищами разработал несколько новых таких веществ — трёхмерных структур, составленных из стандартных молекулярных блоков. 
+ 
+ Как пишут авторы работы в своей статье в Science, "поскольку эти материалы полностью построены из сильных ковалентных связей (C-C, C-O, C-B, и B-O), они имеют высокую тепловую стабильность (400-500 градусов по <Node id="1163"/>Цельсию<Node id="1170"/>) и высокую площадь поверхностности, и чрезвычайно низкий удельный вес". 
+ 
+ Площадь поверхности COF-108 превышает 4500 квадратных метров на грамм. "Один грамм COF-108, будучи "распутанным", мог бы покрыть площадь приблизительно в 30 теннисных кортов", — рассказал Яги. 
+ 
+ Он считает, что новые кристаллы из-за своей чрезвычайной пористости идеально подходят для улавливания или хранения газов: водорода или метана в автомобиле, углекислого газа из выбросов электростанций. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="812" EndNode="820">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Омар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1163" EndNode="1170">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Омар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="25" EndNode="28">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

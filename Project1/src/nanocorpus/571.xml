@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  НИИ физики и прикладной математики при Уральском государственном Университете им.А.М.Горького  магниторезистивные плёнки , магниторезистивные преобразователи , плёночные микро- и <Node id="181"/>наноструктуры<Node id="194"/>   <Node id="197"/>Наноматериалы<Node id="210"/> Физика твердого тела   Изучение магнетизма и структурно-чувствительных свойств гетерогенных тонкоплёночных структур, содержащих редкоземельные и 3d-переходные компоненты разработка плёночных магнитных материалов, в том числе с высокими магниторезистивными свойствами                             Васьковский Владимир Олегович, научный руководитель, доктор наук Лепаловский Владимир Николаевич , старший научный сотрудник, кандидат наук Савин Пётр Алексеевич , старший научный сотрудник, кандидат наук Свалов Андрей Владимирович, заведующий сектором, кандидат наук Сорокин Александр Николаевич , научный сотрудник Ювченко Александр Алексеевич , инженер 
+ 
+Группа располагает разнообразным технологическим оборудованием по получению многокомпонентных плёнок методом ионно-плазменного высокочастотного распыления и исследовательскими установками по измерению магнитных и электрических свойств тонких плёнок 
+ 
+Научно-технические разработки  Первичные магниторезистивные преобразователи  Микросборка на основе магниторезистивного преобразователя  Технология получения магниторезистивных плёнок Fe19Ni81 методом ионно-плазменного напыления разработана и внедрена на НПО Автоматики  Датчик угловых перемещений следящих систем  Высокочувствительный магниторезистивный преобразователь переменного тока  Способ отделения металлической плёнки от подложки  Магнитный носитель     Вибрационный магнитометр вращательный анизометр модернизированные установки УРМ3-013 и УРМ3-014 для получения плёнок установка для измерения гальваномагнитных свойств плёнок установка для измерения резистивных свойств плёнок    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="181" EndNode="194">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="197" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

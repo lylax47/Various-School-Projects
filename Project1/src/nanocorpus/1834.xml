@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+ЕКАТЕРИНБУРГ, <Node id="15"/>9 июля<Node id="21"/> – В Екатеринбурге сегодня впервые в России открылась Международная конференция по жидким и аморфным металлам (Liquid and Amorphous Metals), заявки на которую подали более 150 ученых из 19 стран.
+
+Как сообщили ИТАР-ТАСС в министерстве промышленности Свердловской области, в работе конференции принимают участие ученые Австрии, Великобритании, Германии, США, Франции, Швеции, Японии и других стран.
+
+Выступая на пленарном заседании, заместитель министра промышленности, энергетики и науки Свердловской области <Node id="530"/>Юрий Шевелев отметил, что <Node id="556"/>сегодня перед Свердловской областью, как и Россией в целом, стоит первоочередная задача: реализовать свои конкурентные преимущества не только в сырьевой и энергетической сфере, но и в высокотехнологичных отраслях<Node id="768"/>.
+Юрий Шевелев 
+«<Node id="785"/>Для этого у нас есть все предпосылки. В области имеются уникальные заводы, создающие новые <Node id="876"/>материалы на основе нанотехнологий<Node id="910"/>, предприятия атомного комплекса и оборонной промышленности. По научному и кадровому потенциалу Свердловская область также занимает сегодня ведущее место в России. В сфере науки и научного обслуживания у нас занято около 30 тыс человек, а ядром научного потенциала являются 22 академических института Уральского отделения Российской академии наук, 32 университета, 92 научно-исследовательских института<Node id="1312"/>», – заявил Юрий Шевелев<Node id="1336"/>.
+ 
+По оценке организаторов форума, обсуждение фундаментальных основ материаловедения, методов и технологий в металлургии позволит успешно развиваться не только металлургической науке, но и индустрии <Node id="1536"/>наноматериалов<Node id="1550"/> и нанотехнологий.
+ 
+«Выступления же и дискуссии дадут возможность определить направления, по которым будут развиваться научные исследования в этой сфере, найти пути решения научных и практических проблем, связанных с изучением металлургических расплавов и получаемых из них материалов», – подчеркнули в пресс-службе областного министерства промышленности.
+ <Node id="1908"/>http://www.itartass.ur.ru<Node id="1933"/>/news/?…Да, на Урале сосредоточены могучие силы учёных и практиков. Я думаю, что этот край, богатый изобретателями, мастеровыми и другими талантливыми людьми, станет одним из главных центров развития отечественных нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="785" EndNode="1336">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="2" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="530" EndNode="768">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="8" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="11" Type="темы" StartNode="556" EndNode="768">
+</Annotation>
+<Annotation Id="12" Type="цитаты" StartNode="556" EndNode="768">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="785" EndNode="1336">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="21" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="23" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="25" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="24" Type="Наноматериал" StartNode="876" EndNode="910">
+</Annotation>
+<Annotation Id="27" Type="Дата" StartNode="15" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="29" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="28" Type="темы" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="31" Type="упоминается" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="30" Type="Url" StartNode="1908" EndNode="1933">
+</Annotation>
+<Annotation Id="34" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="35" Type="автор" StartNode="530" EndNode="768">
+</Annotation>
+<Annotation Id="32" Type="упоминается_с" StartNode="556" EndNode="1312">
+</Annotation>
+<Annotation Id="33" Type="цитаты" StartNode="556" EndNode="768">
+</Annotation>
+<Annotation Id="38" Type="темы" StartNode="556" EndNode="768">
+</Annotation>
+<Annotation Id="39" Type="упоминает" StartNode="530" EndNode="1336">
+</Annotation>
+<Annotation Id="36" Type="темы" StartNode="785" EndNode="1312">
+</Annotation>
+<Annotation Id="37" Type="Наноматериал" StartNode="1536" EndNode="1550">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

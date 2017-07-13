@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Китайские эксперты призывают к ускоренному развитию информационных нанотехнологийХотя в <Node id="88"/>настоящее время<Node id="103"/> разработка <Node id="115"/>наноматериалов<Node id="129"/> является главным направлением исследований, следует приложить особые усилия по ускоренному развитию информационных нанотехнологий в Китае, поскольку развитие наноэлектроники является наиболее многообещающим направлением нанотехнологии, заявил проф. <Node id="379"/>Ху Вэйву<Node id="387"/> (HU Weiwu) из Института вычислительной техники при АН Китая.Prof. Hu Weiwu
+Он сделал это заявление в ходе 317-ой Сяншаньской научной конференции (Xiangshan Science Conferences), проходившей <Node id="578"/>18–20 декабря<Node id="591"/> в Пекине.
+
+Эта конференция, посвящённая научным аспектам и тенденциям развития наноразмерных информационных функциональных приборов, проходила под руководством FAN Shoushan и XUE Qikun (оба – из Tsinghua University) и GUO Wanlin из Nanjing University of Aeronautics and Astronautics.
+
+Согласно заявлениям экспертов, нынешние наиболее крупные программы НТ в Китае посвящены в основном решению проблем материаловедения и квантовой ИТ, в результате которых были разработаны и изучены свойства малоразмерных <Node id="1096"/>наноструктур<Node id="1108"/>, квантовой криптографии и квантовой оптике. Однако Китаю, чтобы преодолеть отставание и выйти на передовые позиции в области ИТ на базе кремниевых структур, необходимо ускоренными темпами развивать наноэлектронику и молекулярные технологии, что сдерживается более медленным развитием литографической техники по сравнению с темпами разработки аналогичной техники в других промышленно развитых странах.
+
+Хотя по численности научных работников Китай занимает первое место в мире, <Node id="1586"/>около 70%<Node id="1595"/> их работает в системе НИИ. В данных условиях важной задачей <Node id="1656"/>правительства<Node id="1669"/>, а также и самих учёных будет проведение НИОКР в области разработки новых наносистем (nano-device systems) и дальнейших работ в области микроэлектроники на базе кремния, заявили участники конференции.
+Chinese experts call for nanotechnology information <Node id="1923"/>developmenthttp://www.nanowerk.com<Node id="1957"/>/…sid=3864.phpХотя, конечно, каждый кулик СВОЁ болото хвалит, а, потом, это может быть очередным эпизодом в бесконечной борьбе за ресурсы, тем не менее, нужно обратить особое внимание на эти заявления китайских экспертов. Ведь и среди китайских академиков попадаются башковитые ребята… ;-))) Естественно, гнать тонны и составы <Node id="2284"/>нанопорошков<Node id="2296"/> и других <Node id="2306"/>наноматериалов<Node id="2320"/> гораздо легче, чем разрабатывать, скажем, новые наноразмерные системы для будущих вычислительных систем. А пользы и будущей выгоды от последних наверняка будет во много крат больше. Вот суть всех этих заявлений… Нашим «яйцеголовым» это тоже надо бы взять на заметку…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1586" EndNode="1595">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="115" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1923" EndNode="1957">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="88" EndNode="103">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="2306" EndNode="2320">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="379" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ху</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Нанопорошок" StartNode="2284" EndNode="2296">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="578" EndNode="591">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1656" EndNode="1669">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="1096" EndNode="1108">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

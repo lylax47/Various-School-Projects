@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Многим <Node id="9"/>биосенсорам<Node id="20"/> требуются <Node id="31"/>часы<Node id="35"/> и <Node id="38"/>дни<Node id="41"/> для того, чтобы выдать результат. Стремительное развитие технологий в медицине и биологии требует устройств, способных провести анализ <Node id="177"/>в течение нескольких минут<Node id="203"/> или даже <Node id="213"/>секунд<Node id="219"/>. Результаты экспресс-анализа особенно важны при проведении хирургического вмешательства, когда действия врача часто зависят от их результатов. Одним из наиболее перспективных направлений в этой области является использование комбинации сверхчувствительных магнитных <Node id="486"/>сенсоров<Node id="494"/> и магнитных <Node id="507"/>наночастиц<Node id="517"/>. 
+ 
+Механизм действия подобных систем заключается в следующем: на поверхность магнитных <Node id="606"/>наночастиц<Node id="616"/> прививаются химические группы, которые способны связывать определенный класс биомолекул из пробы. <Node id="715"/>После этого<Node id="726"/> образовавшийся комплекс может адсорбироваться на подложку <Node id="785"/>сенсора<Node id="792"/>, покрытую “зондовыми” белками, специфично связывающими молекулы анализируемого соединения. 
+ 
+Передовые разработки в этой области принадлежат Менно Принсу (Menno Prins, Philips Research Laboratories), который представил их на конференции EMBO (European Molecular Biology Organization). 
+ 
+Устройство представляет собой пластинку длиной около 5 см, шириной 1 см и толщиной пару миллиметров. Оно состоит из двух сообщающихся камер, в одну из которых вводится изучаемый образец, а в другой находится среда с <Node id="1298"/>наночастицами<Node id="1311"/> и <Node id="1314"/>сенсором<Node id="1322"/>. Как только антигены пробы свяжутся <Node id="1359"/>наночастицами<Node id="1372"/> и антителами подложки, магнитное поле частиц будет зафиксировано <Node id="1438"/>сенсором<Node id="1446"/> с гигантским магнитосопротивлением. 
+ 
+Опытный выпуск устройства предполагается начать через 4-<Node id="1542"/>6 лет<Node id="1547"/>. По мнению автора изобретения, первыми, кто начнет использовать новые устройства, станут полицейские. В серии экспериментов было показано, что <Node id="1691"/>биосенсор<Node id="1700"/> способен за <Node id="1713"/>1 минуту<Node id="1721"/> определять следовые концентрации морфина в слюне – 10 нанограмм в миллилитре. 
+ Для справки: современные тест-системы способны достоверно определить концентрацию от 100 нг/мл. Рутинный лабораторный анализ (газовая хроматография, <Node id="1951"/>масс-спектрометрия<Node id="1969"/>) – от 30 нг/мл. 
+Существуют и другие принципы построения магнитных <Node id="2037"/>биосенсоров<Node id="2048"/>. Все они демонстрируют перспективность исследований подобного рода и создания легендарной Lab-on-a-chip.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1713" EndNode="1721">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="785" EndNode="792">
+</Annotation>
+<Annotation Id="2" Type="Масс-спектрометрия" StartNode="1951" EndNode="1969">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1298" EndNode="1311">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1542" EndNode="1547">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="486" EndNode="494">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="1438" EndNode="1446">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="38" EndNode="41">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="31" EndNode="35">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="213" EndNode="219">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="606" EndNode="616">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="1314" EndNode="1322">
+</Annotation>
+<Annotation Id="13" Type="Биосенсор" StartNode="9" EndNode="20">
+</Annotation>
+<Annotation Id="14" Type="Биосенсор" StartNode="1691" EndNode="1700">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="715" EndNode="726">
+</Annotation>
+<Annotation Id="17" Type="Биосенсор" StartNode="2037" EndNode="2048">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1359" EndNode="1372">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="507" EndNode="517">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="177" EndNode="203">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

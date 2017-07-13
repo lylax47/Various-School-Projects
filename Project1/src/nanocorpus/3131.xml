@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Наноэлектроника: учебное пособие / В. Е. Борисенко, А. И. Воробьева, Е. А. Уткина. — М., Бином, 2009. — 200 с. : ил.
+
+В учебном пособии рассмотрены фундаментальные физические эффекты, имеющие место в <Node id="200"/>наноструктурах<Node id="214"/> и обусловленные их пониженной мерностью. <Node id="256"/>Дана<Node id="260"/> классификация низкоразмерных структур. Описаны подходы, позволяющие формировать такие структуры в полупроводниках, а также современные методы их исследования. Обсуждаются особенности транспорта носителей заряда в <Node id="474"/>наноразмерных структурах<Node id="498"/>.
+Для студентов специальностей «Микро- и наноэлектронные технологии и системы» и «Квантовые информационные системы».
+ ISBN 978–5–94774–914–4 Серия: Нанотехнология Издательство: Бином. Лаборатория знаний <Node id="701"/>Год<Node id="704"/> издания: 2009 Число страниц: 200 Тираж: 2000 Формат: 60х90/16 
+Учебное пособие составлено на основе курса лекций «Нанотехнология», читаемого студентам специальности «Микроэлектроника» дневной формы обучения. Всего вышло три части этих курсов, в которых последовательно рассмотрены основные известные и нетрадиционные методы изготовления <Node id="1042"/>наноразмерных структур<Node id="1064"/> и функциональных слоев на их основе.
+Виктор Евгеньевич Борисенко, доктор физико-математических наук, профессор кафедры микроэлектроники Белорусского государственного университета информатики и радиоэлектроники, научный руководитель исследовательской лаборатории наноэлектроники и новых материалов. Область научных интересов – электронные и оптические свойства наноразмерных твердотельных структур и полупроводниковых силицидов.
+<Node id="1493"/>http://www.lbz.ru/preview/#…Ещё<Node id="1524"/> одно добротное учебное пособие, подготовленное на основе курса лекций, читаемого в одном из вузов. Таким образом, коллекция отечественных учебников для вузов пополняется ещё одной хорошей книгой…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="1042" EndNode="1064">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="701" EndNode="704">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="256" EndNode="260">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="474" EndNode="498">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1493" EndNode="1524">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="200" EndNode="214">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В мире используют нанотехнологии для производства бумаги и картонаМосква. <Node id="74"/>4 октября 2007 г.<Node id="91"/> – Рассмотрены результаты научно-исследовательских работ и способы применения нанотехнологии на предприятиях целлюлозно-бумажной промышленности в мире.
+
+Так, в бюджете США на разработку и внедрение нанотехнологий выделен <Node id="312"/>$1 млрд.<Node id="320"/>
+
+На бумажной фабрике Stora Enso (Nymola) приборы со сканирующими датчиками высокой чувствительности на базе <Node id="429"/>наночастиц<Node id="439"/> использованы в системе автоматического регулирования профиля массы 1 кв. м покрытия мелованной бумаги.
+
+Научный центр компании Eka Chemicals AB разработал совместно с лабораторией университета Лунд (Швеция) на базе нанотехнологии добавку Compozil Select с частицами диаметром 3–5 мм. Введение добавки Compozil Select в бумажную массу дает возможность увеличить степень удержания в бумажном полотне мелких волокон, частиц наполнителя и улучшить качество формования бумаги.
+
+Лаборатория группы SCA (Швеция) применила нанотехнологию для получения специальных покрытий упаковочной бумаги.
+<Node id="1025"/>http://www.bumprom.ru/index.php?…Stora<Node id="1063"/> <Node id="1064"/>Ensohttp://www.storaenso.com<Node id="1092"/>/…218-,00.html?…Compozil® Select — A fifth-generation retention, drainage and dry strength nanoparticle system based on newly developed sols in combination with Cationic Starch and Novel Polyacrylamide products.
+<Node id="1304"/>http://www.accessmylibrary.com/…-9353403_ITMCellulose-Based<Node id="1363"/> Nanofibres Brings New Forest Product <Node id="1401"/>Opportunitieshttp://www.nanotechnologyworld.co.uk/…/view/148/1/TopChim<Node id="1471"/> claims industry first by applying nano-hybrid technology in paper <Node id="1538"/>productionhttp://<Node id="1555"/>stm<Node id="1558"/>.dev.pennnet.com/…_display.cfm?…NANO<Node id="1594"/> PULP and PAPER, <Node id="1611"/>LLChttp://www.nanopulpandpaper.com<Node id="1645"/>/Оказывается, бумажники Скандинавии (Финляндия, Швеция) и Северной Америки уже давно и очень широко используют нанотехнологии для совершенствования технологии производства и качества своей продукции!.. Вот бы и их российские коллеги начали осваивать эти перспективные технологии. Это наверняка принесло бы огромную выгоду как им самим, так и всей нашей экономике в целом…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="429" EndNode="439">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1611" EndNode="1645">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1538" EndNode="1594">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1401" EndNode="1471">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1304" EndNode="1363">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1064" EndNode="1092">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="74" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1025" EndNode="1063">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="312" EndNode="320">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Сканирующая+туннельная+микроскопия" StartNode="1555" EndNode="1558">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

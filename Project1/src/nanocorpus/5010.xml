@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Семинар-совещание по вопросам создания центра коллективного пользования в сфере нанотехнологий в особой экономической зоне «Дубна» пройдет <Node id="140"/>21 декабря<Node id="150"/> в Доме международных совещаний Объединённого института ядерных исследований.
+
+Его организаторами выступают ОИЯИ, Университет «Дубна», администрация города и территориальное управление РосОЭЗ по Московской области.
+
+<Node id="366"/>Федеральное агентство<Node id="387"/> по управлению особыми экономическими зонами (РосОЭЗ) по предложению Объединённого института ядерных исследований приняло решение о строительстве на территории особой экономической зоны в городе Дубне Центра коллективного пользования исследовательским и испытательным оборудованием в сфере нанотехнологий. Этот центр создаётся в интересах как компаний-резидентов ОЭЗ «Дубна», так и других организаций, работающих в сфере нанотехнологий. Концепцию создания центра и проект технического задания на его проектирование и планируется обсудить на семинаре-совещании <Node id="947"/>21 декабря<Node id="957"/>.
+
+Принять участие в нём приглашены руководители предприятий НПК города, компаний-резидентов ОЭЗ, РНЦ «Курчатовский институт», других российских вузов и инновационных компаний, ведущих разработки в сфере нанотехнологий, а также Федерального агентства по атомной энергии и государственной корпорации «Российская корпорация нанотехнологий» («Роснанотех»).
+По сообщению Министерства промышленности и науки МО</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="366" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="947" EndNode="957">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="140" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

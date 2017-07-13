@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+В Молдове в <Node id="13"/>этом году<Node id="22"/> начнет работать первый научно-технологический парк. <Node id="75"/>Парламент<Node id="84"/> республики принял сегодня закон об инновационных предприятиях.
+Первый парк будет специализироваться в области нанотехнологий.
+
+В Академии наук Молдовы считают: такие структуры привлекут инвестиции в экономику страны. На начальном этапе государство будет выделять деньги на инновационные проекты. Планируется, что со временем они не только перейдут на самоокупаемость, но и начнут приносить прибыль.
+<Node id="484"/>http://www.mirtv.ru/show.php?…Ну<Node id="516"/> вот, всеобщее «увлечение» Н-Т тематикой привело к тому, что к этому «движению» стали присоединяться все и даже такие «гиганты» Н-Т прогресса, как Молдова. Посмотрим, что и как у них получится… Но, на мой взгляд, Украина поступила более мудро и дальновидно, «с самого начала» заключив научный «союз» по данной тематике с Россией. <Node id="846"/>http://www.nanonewsnet.ru<Node id="871"/>/…ekhnologiyam</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="846" EndNode="871">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="13" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="75" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Парламент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="484" EndNode="516">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

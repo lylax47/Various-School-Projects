@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт биологии моря моря им. А.В. Жирмунского ДВО РАН интерколаты, композитные материалы, поверхностные структуры, фторидные полимеры   Кристаллография Микроэлектроника Химия и технология композиционных материалов   Поиск, синтез и исследование свойств композитных материалов фторидных полимеров, интерколатов и стёкол Разработка научных основ направленного формирования поверхностных структур на металлах и сплавах методами локального высокоэнергетического воздействия в контролируемых средах                             А.В. Адрианов, директор, член-корреспондент Д.В. Фомин, гл.специалист лаборатории электронной микроскопии, член-корреспондент 
+ 
+Центр создан в <Node id="671"/>1998 г.<Node id="678"/> приказом по ИБМ ДВО РАН № 39 от <Node id="711"/>5 мая 1998 г.<Node id="724"/> <Node id="725"/>С 2000 года<Node id="736"/> центр поддерживается РФФИ, гранты №№ 00-04-55005-И, 03-04-52003-Б 
+ 
+Условия участия в работе ЦКП: 
+ 
+Свободный бесплатный доступ к приборам учёных всех научных учреждений и учебных заведений. Работа на приборах по предварительной записи. Участие иногородних пользователей возможно на общих основаниях. Препараты для ПЭМ изготовляются пользователем на ультрамикротомах центра, препараты для <Node id="1128"/>СЭМ<Node id="1131"/> готовятся с помощью персонала центра (сушка в критической точке, напыление). 
+ 
+Материальная поддержка Центра позволяет включать в круг пользователей коллективы институтов Дальневосточного отделения РАН (Тихоокеанского института биоорганической химии, Биолого-почвенного института, Дальневосточного геологического института, Института химии, Тихоокеанского океанологического института), а также Дальневосточного государственного университета (ДВГУ) и Владивостокского государственного медицинского университета (ВГМУ). Ежегодно около 50 дальневосточных исследователей регулярно используют приборы Центра для своих исследований, большая часть пользователей - руководители или исполнители инициативных проектов, поддержанных РФФИ. Центр участвует также в профессиональной подготовке студентов ДВГУ, ВГМУ и рыбохозяйственных вузов.   Световой микроскоп Polyvar Сканирующий электронный микроскоп LEO 430 Трансмиссионный электронный микроскоп JEM 100B Трансмиссионный электронный микроскоп JEM 100S Ультрамикротом LKB 8800 III Ультрамикротом UC6 Ультрамикротом Ultracut E    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1128" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="711" EndNode="724">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="725" EndNode="736">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="671" EndNode="678">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>10 сентября<Node id="12"/> в МГУ им.М.В.Ломоносова (<Node id="38"/>начало 15<Node id="47"/>:00, окончание ~17:30, Ленинские горы, МГУ, лаб. корпус "Б", факультет наук о материалах, м. "Университет", затем троллейбусом, автобусом до ост. "улица Д.И.Менделеева", затем 150-200 м вниз по аллее параллельно ходу движения городского транспорта) состоится заседание общественного совета по формированию эффективной системы образования в области наносистем, <Node id="407"/>наноматериалов<Node id="421"/> и нанотехнологий. 
+ Основная повестка <Node id="460"/>дня<Node id="463"/> заседания:    Об организации <Node id="493"/>Общественного Совета<Node id="513"/> (структура, направления деятельности, утверждение Положения об <Node id="577"/>Общественном совете<Node id="596"/>)   О создании учебно - методических материалов для школьников «Введение в нанотехнологии» (опыт Ульяновского государственного университета, Малой Академии МГУ, факультета наук о материалах МГУ и других заинтересованных организаций)   О развитии проекта журнала «Российские нанотехнологии» - научно-популярное приложение – российский электронный наножурнал   Об издании новых учебных пособий в области нанотехнологий, проблемах популяризации знаний и реализации инновационных образовательных программ   О проведении международного форума ГК «Роснанотех»   О возможном взаимодействии <Node id="1179"/>Общественного Совета<Node id="1199"/> с грантообразующими организациями, ГК «Роснанотех», Российским Союзом Ректоров, Торгово-промышленной палатой, Российской Академией Наук, нанотехнологическим обществом РФ и другими организациями   О создании и принципах функционирования системы информационного обмена   Об опыте и проблемах проведения Интернет – олимпиад и о концепции реализации третьей Интернет-олимпиады «Нанотехнологии – прорыв в Будущее» в <Node id="1611"/>2009 г.<Node id="1618"/>   Разное   По вопросам участия в заседании просьба обращаться по телефону (495) – 939 – 20 – 74, факсу (495) – 939 – 09 – 98, электронной почте head@inorg.chem.msu.ru.  Мы предлагаем небольшой опрос по организации <Node id="1833"/>Общественного совета<Node id="1853"/> и, одновременно, о его возможных взаимоотношениях с нанотехнологическим обществом РФ. Конечные данные будут рассмотрены <Node id="1974"/>10 сентября<Node id="1985"/> на заседании <Node id="1999"/>Общественного совета<Node id="2019"/>. Мы заранее благодарны за Ваши советы и помощь, которую Вы, несомненно, можете оказать, ответив на предлагаемый опрос.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="38" EndNode="47">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="1999" EndNode="2019">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="460" EndNode="463">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1974" EndNode="1985">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="577" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="407" EndNode="421">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="1833" EndNode="1853">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="1611" EndNode="1618">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="493" EndNode="513">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="1179" EndNode="1199">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="1" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

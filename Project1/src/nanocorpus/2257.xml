@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Китайские исследователи изготовили бумагу из ориентированных <Node id="62"/>углеродных <Node id="73"/>нанотрубок<Node id="83"/>. В последнее время такая бумага вызывает определенный интерес, т.к. свойства свойства <Node id="170"/>нанотрубок<Node id="180"/> могут быть реализованы в удобном для использования материале. Возможными областями применения являются катализ, фильтрация, конденсаторы, электроды, отвод тепла и др.. 
+ 
+Ранее бумагоподобные материалы получались из суспензий <Node id="407"/>нанотрубок<Node id="417"/>. Тепло- и электроводность такой бумаги всегда оказываются сильно хуже, чем для индивидуальных <Node id="512"/>нанотрубок<Node id="522"/>, т.к. они изогнуты и плохо контактируют друг с другом. Механические свойства тоже оставляют желать лучшего. 
+ 
+Теперь ученые предложили получать бумагу по «принципу домино», схема которого приведена на рис. 1. Таким путем можно легко получать листы бумаги большой площади. Сначала массив ориентированных УНТ, диаметром 10 см, был получен методом CVD. Длина <Node id="880"/>нанотрубок<Node id="890"/> составила более 100 мкм. <Node id="916"/>Потом<Node id="921"/> массив накрывается микропористой мембраной и прокатывается валиком. <Node id="990"/>Потом<Node id="995"/> при помощи мембраны пленка из <Node id="1026"/>нанотрубок<Node id="1036"/> отрывается от подложки. Далее мембрана пропитывается этанолом и отделяется от бумаги. 
+ 
+Бумага получается очень гибкая, с гладкой поверхностью. Электронная микроскопия показала, что <Node id="1220"/>нанотрубки<Node id="1230"/> ориентированы в одном направлении. Теплопроводность бумаги в направлении укладки <Node id="1312"/>нанотрубок<Node id="1322"/> достигает 330 Вт/м*К, что в 10 раз меньше, чем у отдельной <Node id="1382"/>нанотрубки<Node id="1392"/>, но больше, чем у ранее полученных образцов бумаги и таких металлов как алюминий и золото. Также бумага оказалась хорошим проводником, а также неплохо проявила себя в роли электрода суперконденсатора. 
+ 
+Работа "Highly oriented carbon nanotube papers made of aligned carbon nanotubes" опубликована в журнале Nanotechnology. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="916" EndNode="921">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="512" EndNode="522">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="880" EndNode="890">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="990" EndNode="995">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1026" EndNode="1036">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="407" EndNode="417">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="62" EndNode="83">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="73" EndNode="83">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1382" EndNode="1392">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1220" EndNode="1230">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="170" EndNode="180">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1312" EndNode="1322">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

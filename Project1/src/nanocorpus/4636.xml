@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологи из Японии и США поделили престижную премию2 японских и 3 американских ученых стали лауреатами престижной премии принца Астурийского за научные и технические разработки в области нанотехнологии.
+
+Испания присудила награды японским ученым <Node id="251"/>Сумио<Node id="256"/> Иижима и Шужи Накамура, и американцам Джорджу М. Вайтсайду, Тобину Марксу и Роберту Лангеру, за создание новых материалов для блага человечества, как указывается в вердикте жюри.
+ «Эти ученые создали новые, революционные материалы и трансцендентные методы борьбы с заболеваниями, как рак и нарушение работы мозга, а также в производстве искусственных тканей и органов», – говорится в решении, – «Их работа также вносит существенный вклад в защиту окружающей среды и экономию энергии через внедрение новых экологически чистых и низко бюджетных источников энергии».
+ Премия ежегодно распределяется между восемью номинантами за вклад в общественные и гуманитарные науки, научно-технические исследования, искусство, литературу, развитие международного сотрудничества, социальные проекты, проекты нацеленные на рост взаимопонимания между народами, и спорт.
+ Сумма премии <Node id="1123"/>50.000 евро<Node id="1134"/> (<Node id="1136"/>66.000 долларов<Node id="1151"/>). 
+Лауреатом <Node id="1165"/>этого года<Node id="1175"/> за вклад в искусство стал детский оркестр Венесуэлы, а награду в области развития международного сотрудничества разделили между собой четыре научно-исследовательских центра по борьбе с малярией в Африке.
+<Node id="1380"/>http://www.mignews.com/…9_61093.htmlХорошее<Node id="1423"/> это дело. Ребята за дело получили премии, как признание своих замечательных достижений. Наверное, было бы неплохо, если бы и у нас были подобные же награды (помимо государственных) для награждения талантливых изобретателей и рационализаторов, учёных и ислледователей. Это тоже будет служить целям дальнейшего развития отечественных нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1380" EndNode="1423">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="251" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Сумио</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1136" EndNode="1151">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1123" EndNode="1134">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1165" EndNode="1175">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

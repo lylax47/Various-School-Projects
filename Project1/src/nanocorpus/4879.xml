@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> IV Евразийская научно-практическая конференция "Прочность неоднородных структур ПРОСТ-2008" (<Node id="94"/>http://www.prost.misis.ru)<Node id="120"/> состоится <Node id="131"/>8-10 апреля 2008 г.<Node id="150"/> в МИСиС, г.Москва. 
+ 
+Тематика Конференции: 
+1. Деформация и разрушение структурно-неоднородных сплавов. 
+2. Прочность композиционных и градиентных материалов. 
+3. Свойства объемных нано- и аморфных материалов. 
+4. Пеноматериалы и сотовые структуры. 
+5. Свойства сплавов с памятью формы. 
+6.  Методы акустической эмиссии, наблюдения деформации и диагностики разрушения. 
+Срок подачи тезисов - до <Node id="547"/>01 марта  2008 г.<Node id="564"/>. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="131" EndNode="150">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="94" EndNode="120">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="547" EndNode="564">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

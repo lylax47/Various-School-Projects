@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Группой ученых из различных НИИ России, технопарка МГУ и университетов других городов планируется разработать Проект –«Создание <Node id="130"/>наноматериала<Node id="143"/> - 3Д-НаноМодикс, для культивирования клеток (Кл) с использованием нанофибрилярных структур фибронектин (Фн)». 3Д-НаноМодиксы приравниваюся к управляемым индукторам сигналов в межклеточном пространстве Кл, используемых в биотехнологическом производстве. С помощью таких технологий, получают дифференцированные Кл ( включая стволовые и нервные Кл), способные производить различные компоненты Кл активности в частности- ростовые факторы, антитела, ДНК-векторы и мн. др. Эти биоматериалы выгодно отличаются от технологий традиционного выращивания Кл. В проект приглашаются все заинтересованные лица, производители БАВ и участники родственных проектов. Контактный адрес: <Node id="810"/>avfedotov@hotmail.com<Node id="831"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="810" EndNode="831">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="130" EndNode="143">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

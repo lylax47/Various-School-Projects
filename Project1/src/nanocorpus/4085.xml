@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Конкурс-выставка научной фотографии "Красота материалов".  
+В рамках 3-го Фестиваля науки в МГУ Факультет наук о материалах проводит выставку-конкурс научной фотографии. Не секрет, что электронная, атомно-силовая и оптическая микроскопии являются наиболее востребованными и полезными методами анализа. Обывателю микроскопические исследования могут показаться скучными, однако работа связанная с микроскопией объектов нередко приносит сюрпризы. Природа постоянно преподносит сюрпризы и иногда можно лишь догадываться о возможном строении материала. При любых увеличениях можно обнаружить объекты не только с научно ценной, но и с интересной и необычной микроструктурой, похожей на объекты макромира. Фотографии с изображением таких структур и будут представлены на выставке в Фундаментальной библиотеке МГУ <Node id="807"/>с 10 по 12 октября 2008 года<Node id="835"/>. Наиболее оригинальные и интересные работы будут награждены ценными подарками. 
+ 
+Условия участия в конкурсе: 
+   К участию в конкурсе допускаются все желающие без ограничения по возрасту и статусу. От одного автора на конкурс принимаются не более 2-х научных фотографий, полученные за <Node id="1122"/>последние 3 года<Node id="1138"/>, но не участвовавших в конкурсах ранее.   Для участия в конкурсе необходимо прислать цифровые фотографии с разрешением 300 или 600 dpi в формате jpg или tiff в архиве rar по адресу photo.fn.08@mail.ru. Объем каждой фотографии не должен превышать 4 Мб.   Работы (фотографии) на конкурс принимаются до <Node id="1439"/>5 октября 2008 года<Node id="1458"/> включительно. Каждую фотографию необходимо сопроводить описанием в отдельном файле формата rtf или doc. Например, цифровое фото something.jpg должно сопровождаться файлом something.rtf, содержащим информацию об исследователях, приготовивших объект, месте их работы, приборе с использованием которого получено изображение, а также краткую аннотацию изображения не более 0,5 стр. (пояснить какой объект или процесс изображены на фото, в чем заключается их оригинальность). Приветствуются художественные, отвлеченные от научной направленности названия фотографий. Также к письму необходимо приложить rtf файл, который должен содержать информацию об авторе работы:    ФИО;   Место работы/учебы;   Занимаемая должность;   Ученая степень и звание;   Электронный адрес;   Телефон для связи;    В теме письма необходимо указать краткое наименование учебного или научного заведения, где выполнена работа и ФИО автора. Например, письмо с темой ИОНХ_<Node id="2398"/>Иванов<Node id="2404"/>_<Node id="2405"/>Иван<Node id="2409"/>_<Node id="2410"/>Иванович<Node id="2418"/>, должно сопровождаться файлом ИОНХ_<Node id="2454"/>Иванов<Node id="2460"/>_<Node id="2461"/>Иван<Node id="2465"/>_<Node id="2466"/>Иванович<Node id="2474"/>.rtf с информацией об авторе.   
+ 
+Оргкомитет конкурса вправе использовать фотографии для формирования фотовыставок с обязательным указанием автора работ, фотографии-победители конкурса будут включены в календарь Фестиваля науки на <Node id="2706"/>2009 год<Node id="2714"/>.
+ 
+P.S. Для тех потенциальных участников, фотографии которых уже размещены в галерее "Нанометра", необходимо дополнить информацию о фотографии и послать ее оригинал в установленном формате на указанный выше адрес электронной почты. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2461" EndNode="2465">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Иван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="807" EndNode="835">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="2706" EndNode="2714">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2398" EndNode="2404">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="2410" EndNode="2418">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2466" EndNode="2474">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="2706" EndNode="2714">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1439" EndNode="1458">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1122" EndNode="1138">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2405" EndNode="2409">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Иван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="2454" EndNode="2460">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

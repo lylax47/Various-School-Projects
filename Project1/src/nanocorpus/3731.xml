@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Мэриленда сообщили о успехах в разработке технологий массового производства нанострун из оксида цинка. Как говорят ученые, на их основе можно сконструировать множество коммерчески успешных устройств: ультрачувствительных <Node id="232"/>наносенсоров<Node id="244"/>, <Node id="246"/>светодиодов<Node id="257"/> и транзисторов.
+
+Эти полупроводниковые приборы будут востребованы в недорогой и компактной электронике.
+
+Как сообщает в текущем выпуске журнала ACS’ Chemistry of Materials ученый <Node id="437"/>Бабак<Node id="442"/> Никообакт (Babak Nikoobakht) из Национального Института Стандартов и Технологий (National Institute of Standards and Technology), ему и <Node id="579"/>его<Node id="582"/> коллегам удалось разработать уникальный метод сборки полупроводниковых приборов на основе нанонитей, основанный на «точечной адресации» расположения частей будущих наноустройств перед началом их производства.
+
+Основная задача, стоящая перед исследователями состояла в уменьшении количества промежуточных операций при изготовлении матрицы наноустройств.
+
+Весь производственный процесс состоит из трех шагов фотолитографии.
+
+Для этого <Node id="1016"/>Бабак<Node id="1021"/> и <Node id="1024"/>его<Node id="1027"/> коллеги применили оригинальный метод «точечной адресации» – на сапфировую подложку в первую очередь наносятся «координаты» миллионов нанонитей в виде золотых меток размерами 1х5 микрон. Их специально располагали вытянутыми сторонами параллельно направлению [1100]sap для того, чтобы в дальнейшем правильно расположить нанонити.
+
+Второй шаг – выращивание горизонтально расположенных нанонитей ZnO на сапфировой подложке по золотым наномаркерам. Правильность направления роста связана с анизотропией кристаллической структуры сапфировой подложки. Диаметр нанонитей составил от 8 до 13 нанометров.
+
+Металлические соединительные проводники наносились учеными в последнюю очередь – это был третий фотолитографический шаг.
+
+Как говорит <Node id="1758"/>Бабак<Node id="1763"/>, благодаря новой технологии производства, на основе нанонитей можно производить устройства с двумя и тремя соединительными металлическими проводниками. Так, ученые исследовали как 2-х, так и 3-х полупроводниковые устройства в пределах одной матрицы.
+
+Для демонстрации эффективности технологии ученые успешно создали пробную матрицу полевых нанотранзисторов на площади 8х8 миллиметров.
+
+<Node id="2150"/>Бабак<Node id="2155"/> уверен, что при увеличении разрешения оптической <Node id="2205"/>литографии<Node id="2215"/> можно будет достичь более точного выращивания нанонитей ZnO на подложке, и, как следствие, массового производства более сложных электронных устройств, чем те, которые ученые продемонстрировали сейчас.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1024" EndNode="1027">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="232" EndNode="244">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2150" EndNode="2155">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бабак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Светодиод" StartNode="246" EndNode="257">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="437" EndNode="442">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бабак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="579" EndNode="582">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Литография" StartNode="2205" EndNode="2215">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1016" EndNode="1021">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бабак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="1758" EndNode="1763">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бабак</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Фурсенко ознакомится с реализацией образовательных программНИЖНИЙ НОВГОРОД, <Node id="76"/>19 авг<Node id="82"/> – Министр образования и науки РФ Андрей Фурсенко во вторник посетит Ульяновскую область, где ознакомится с ходом реализации региональных программ в сфере образования и пообщается с учителями, сообщает пресс-служба губернатора и правительства области.
+ 
+«В частности, министру будут представлены региональные программы по развитию дошкольного и профессионального образования, начинающий свою работу центр нанотехнологий», – уточнил РИА Новости представитель пресс-службы.
+ 
+<Node id="556"/>В течение дня<Node id="569"/> Фурсенко посетит Ульяновский государственный университет и экспериментальную школу номер 19 в Димитровграде, а также примет участие в работе традиционного августовского образовательного форума педагогов.
+<Node id="774"/>http://www.rian.ru/…0473430.htmlНу<Node id="808"/> да, скоро грядёт новый (учебный) <Node id="842"/>год<Node id="845"/>, и министру было бы интересно, как к нему подготовились в провинции. Заодно и познакомится с состоянием развития нанонауки и натотехнологии в одном из бурно развивающихся регионов страны. Да, кстати, именно из Ульяновска будет исходить свет нанотехнологий, который будет изливаться на неокрепшие души наших школьников…;-): «Школьникам расскажут о нанотехнологиях» <Node id="1210"/>(http://www.nanonewsnet.ru/…khnologiyakh).<Node id="1252"/> Будем надеяться, что это даст огромный приток энтузиастов в эту бурно развивающуюся сферу деятельности…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1210" EndNode="1252">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="842" EndNode="845">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="76" EndNode="82">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">авг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="774" EndNode="808">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="556" EndNode="569">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

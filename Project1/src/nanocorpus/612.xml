@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российские научные нанотехнологические центры
+46 адресов институтов, кафедр и научных центров, где проводятся исследования и разработки в области НТ.
+<Node id="150"/>http://www.rsci.ru/nanotech/?…Сайты<Node id="185"/> инновационных центров и компаний
+Всего 4 адреса, среди них:
+
+= Компания NT-MDT
+
+= Центр <Node id="274"/>наноструктурных материалов<Node id="300"/> и нанотехнологий Белгородского государственного университета
+
+= Группа компаний «Астрин-холдинг»
+
+= Научно-образовательный центр по фундаментальным проблемам приложений физики низкотемпературной плазмы
+<Node id="503"/>http://www.rsci.ru/nanotech/?…Этот<Node id="537"/> список тоже может стать «зародышем» _полновесной_ базы данных, содержащей адреса сайтов организаций, специализирующихся на исследованиях и разработках в области НТ…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="274" EndNode="300">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="503" EndNode="537">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="150" EndNode="185">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

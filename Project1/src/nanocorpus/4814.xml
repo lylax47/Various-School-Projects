@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Выигрыши, которые окружающая среда приобретает от применения <Node id="62"/>наноматериалов<Node id="76"/>, могут быть нейтрализованы потерями в процессах их изготовления. Таковы результаты исследования, опубликованные в Журнале Промышленной Экологии (Hatice Şengül, Thomas L. Theis, Siddhartha Ghosh,– Toward Sustainable Nanoproducts. Journal of Industrial Ecology Volume 12, Issue 3, Date: June 2008, Pages: 329–359).
+
+Хатис Сенгюл (Hatice Şengül) с коллегами из Университета Иллинойс в Чикаго (University of Illinois at Chicago) утверждают, что жесткие требования к чистоте материалов, более низкие допуски на наличие дефектов и необходимость более высокой производительности производственных процессов могут накладывать значительно большее бремя на окружающую среду, нежели таковое, связанное с традиционными производствами.
+
+В независимом исследовании производства <Node id="840"/>нановолокна<Node id="851"/>, которе провела группа Викаса Ханна (Vikas Khanna) в Университете Штата Огайо (Ohio State University), ученые определили, что, например, воздействие на окружающую среду полного цикла такого производственного процесса может оказаться в 100 раз сильнее на единицу веса изделия, чем от производства традиционных материалов, что потенциально нейтрализует некоторые из положительных сторон производства <Node id="1250"/>наноматериалов<Node id="1264"/> в небольших количествах.
+Материалы, имеющие размеры от 1 до 100 нанометров (1–100 миллиардных долей метра), проявляют новые, до сих пор мало изученные, физические, химические и биологические характеристики, открывая потрясающие возможности инноваций в медицине, промышленности и большинстве других секторов экономики.
+Поскольку небольшие количества <Node id="1614"/>наноматериалов<Node id="1628"/> часто могут решить задачи, на которые требуется значительно большее количество традиционных материалов, общее предположение было таким, что <Node id="1769"/>наноматериалы<Node id="1782"/> помогут снизить энергопотребление и потребление ресурсов и, соответственно, загрязнение окружающей среды, сопутствующее им. Возможность поатомного конструирования миниатюрных устройств также пробудило ожидания того, что исключительно высокая точность в машиностроении теперь приведет к меньшему количеству отходов и более чистым технологическим процессам.
+Выводы исследований, теперь уже не одиночных, показывают, что результаты потенциального негативного воздействия нанотехнологий и нанопроизводств на окружающую среду могут отчасти затенить преимущества, которые мы получаем при использовании более легких материалов. Вплоть до сегодняшнего <Node id="2427"/>дня<Node id="2430"/> основное внимание было сконцентрировано на возможных токсических эффектах воздействия <Node id="2517"/>наночастиц<Node id="2527"/>. По всей видимости, соображения возможного загрязнения среды и использования энергии, возникающие при анализе используемых производственных технологий, также являются важными и требующими внимания при рассмотрении нанотехнологий и <Node id="2759"/>наноматериалов<Node id="2773"/>.
+Cм. ссылки и публикации: <Node id="2800"/>http://www.eurekalert.org/…jf102208.php<Node id="2839"/> <Node id="2840"/>http://www3.interscience.wiley.com/…8902538/home<Node id="2888"/> <Node id="2889"/>http://www.nsec.ohio-state.edu<Node id="2919"/>/…ssessing.pdf</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="2840" EndNode="2888">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="1614" EndNode="1628">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нановолокно" StartNode="840" EndNode="851">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1250" EndNode="1264">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2427" EndNode="2430">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2517" EndNode="2527">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2800" EndNode="2839">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1769" EndNode="1782">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="2759" EndNode="2773">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2889" EndNode="2919">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="62" EndNode="76">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

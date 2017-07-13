@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Конференция состоится <Node id="22"/>28–30 ноября 2007 года<Node id="44"/> в г. Фрязино Московской областиОрганизаторы конференции:
+
+= Министерство промышленности и науки Московской области
+
+= Торгово-промышленная палата Российской Федерации Федерального Агентства по промышленности
+
+= Администрация г. Фрязино
+
+= ЗАО «Концерн "НАНОИНДУСТРИЯ»
+Тематика конференции:
+
+= инженерные технологии наноразмерного диапазона
+
+= применения <Node id="399"/>наночастиц<Node id="409"/> и <Node id="412"/>наноматериалов<Node id="426"/>
+
+= наноэлектроника: компоненты и системные решения
+
+= покрытия и пленочные технологии
+
+= <Node id="516"/>сенсоры<Node id="523"/> на основе <Node id="534"/>наноструктурированных материалов<Node id="566"/>
+
+= нанотехнологическое оборудование
+
+= нанометрология
+
+= нанотехнологии для биотехнологии и медицины
+Информация
+= Информационное письмо № 1
+
+= Условия участия
+
+= Заявка
+
+= Требования для подготовки тезисов доклада
+
+= Требования для подготовки статей в сборник трудов конференции
+Заявки принимаются по адресу: Россия, 115184, Москва, ул. <Node id="904"/>Б. Татарская<Node id="916"/>, 38. Оргкомитет Конференции «Нанотехнологии – производству 2007»
+
+Тел.: (095) 953–53–94, 951–32–17, 951–59–00. Факс: (095) 953–53–82
+
+E-mail: <Node id="1059"/>nanotech@mail.magelan.ruhttp://www.nanotech.ru<Node id="1105"/>/fr2007-1/До <Node id="1118"/>ноября<Node id="1124"/> ещё есть время. Посылайте оргвзнос (<Node id="1161"/>5.000 руб.<Node id="1171"/>!), тезисы и статьи. Или как-то по-другому участвуйте в работе конференции… Удачи!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="412" EndNode="426">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1118" EndNode="1124">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="534" EndNode="566">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1161" EndNode="1171">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="516" EndNode="523">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="399" EndNode="409">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="904" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Татарская</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="22" EndNode="44">
+</Annotation>
+<Annotation Id="9" Type="Электронная_почта" StartNode="1059" EndNode="1105">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

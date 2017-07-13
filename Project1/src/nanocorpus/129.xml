@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>РАСПОРЯЖЕНИЕ
+ПРАВИТЕЛЬСТВО РФ
+
+<Node id="31"/>27 февраля 2008 г.<Node id="49"/>
+
+N 233-р
+
+1. В целях обеспечения стабильности финансирования фундаментальных научных исследований утвердить прилагаемую Программу фундаментальных научных исследований государственных академий наук на <Node id="250"/>2008 – 2012 годы<Node id="266"/>.
+
+2. Минобрнауки России при формировании проекта федерального бюджета на <Node id="340"/>2009 год<Node id="348"/> и на плановый период <Node id="370"/>2010 и 2011 годов<Node id="387"/> ассигнования, предусмотренные ему в Федеральном законе «О федеральном бюджете на <Node id="469"/>2008 год<Node id="477"/> и на плановый период <Node id="499"/>2009 и 2010 годов<Node id="516"/>» на поддержку государственных академий наук и их региональных отделений, направить на реализацию Программы фундаментальных научных исследований государственных академий наук на <Node id="694"/>2008 – 2012 годы<Node id="710"/>.
+
+Председатель Правительства
+
+Российской Федерации
+
+<Node id="763"/>В.ЗУБКОВ<Node id="771"/>
+
+<Node id="773"/>27 февраля 2008 г.<Node id="791"/>
+
+N 233-р
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="499" EndNode="516">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="773" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="763" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Зубков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="250" EndNode="266">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="340" EndNode="348">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="694" EndNode="710">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="31" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="370" EndNode="387">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="340" EndNode="348">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="469" EndNode="477">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="469" EndNode="477">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

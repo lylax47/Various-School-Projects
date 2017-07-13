@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>"Коралловый риф" 
+Одной из главных задач современной атомной энергетики является совершенствование технологий обращения  радиоактивными отходами. <Node id="146"/>Наночастицы<Node id="157"/> металлического железа являются перспективным материалом для создание проницаемых реакционных барьеров,очиающих подземные воды. На фотографии изображены продукты окисления <Node id="329"/>наночастиц<Node id="339"/> железа.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="146" EndNode="157">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="329" EndNode="339">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

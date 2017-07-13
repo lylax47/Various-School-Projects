@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Терапия злокачественных опухолей мозга зачастую затруднена доставкой агента к опухолевой ткани. Более того, проблематично селективно воздействовать на раковые клетки, не повреждая здоровые ткани.
+
+Но в свете последних достижений исследователей из США в области моделирования клеточных культур опухолей в трехмерном виде и доставки лекарств <Node id="341"/>наночастицами<Node id="354"/> нового типа есть шансы на успешную терапию злокачественных опухолей мозга.
+
+Ученые из Университета Ноттингема (University of Nottingham), Школы Фармацевтики (School of Pharmacy) и <Node id="535"/>Биомедицинских Наук<Node id="554"/> (Biomedical Sciences) провели ряд экспериментов с биодеградирующими <Node id="623"/>наночастицами<Node id="636"/> из специального полимера – полиадипата глицерина. Кроме того, что полимер может формировать <Node id="729"/>наночастицы<Node id="740"/>, его можно снабдить лекарством, которое можно будет доставить внутрь клетки.
+
+Доктор <Node id="826"/>Теренс Паркер<Node id="839"/>, профессор из Школы Биомедицинских Наук смог создать трехмерную модель культуры раковых клеток, существующих рядом со здоровой тканью. Так как в организме взаимодействие опухолевых клеток с нормальными различается в зависимости от положения их внутри головного мозга, то эта модель дает неплохое представление о поведении опухоли в живой ткани мозга.
+
+Работу по изучении модели выполнил студент Вайна Менг (Weina Meng). Он использовал флуоресцентные <Node id="1290"/>наночастицы<Node id="1301"/> для исследования различных культур опухолевых клеток, растущих совместно со здоровыми тканями.
+
+Особенно помогли ученым тонкие срезы мозга крыс, которые использовались совместно с данными, полученными на основе флуоресцентной диагностики.
+
+Как говорят ученые, синтез диагностических методов и моделирования позволит в будущем надеяться на эффективную терапию рака головного мозга.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="623" EndNode="636">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1290" EndNode="1301">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="826" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Паркер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="341" EndNode="354">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="729" EndNode="740">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="535" EndNode="554">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Посвящается всем участникам Нанометра,
+широте и разнообразию их знаний и мнений
+
+Серебряная нанорадугатм и палитра серебряных нанокрасок. 
+Оптические фотографии водных дисперсий серeбряных <Node id="189"/>наночастиц<Node id="199"/>, концентрация серебра от 0.1 до 0.3 миллимоль/л. Цвет (взаимодействие с фотонами видимого диапазона) обусловлен поверхностным плазмонным резонансом, который зависит от размера и формы частиц.
+
+На верхней фотографии показана радуга, составленная из дисперсий <Node id="458"/>наночастиц<Node id="468"/> серебра различной формы и размера (в основном пластинки от 10 до 60 нм шириной и 4-10 нм толщиной). 
+На нижнем ряду, две палитры по краям представляют характерные цвета структурного преобразования серебряных пластинок в кубические и бипирамидальные частицы с прямым углом у вершин (Chem. Comm. 2008 DOI: 10.1039/b813519c.) Посредине пoмещена фотография одной из двухцветных дисперсий декаэдров. 
+
+Работа многих студентов: Matthew McEachran, Brendаn Pietrobon, Kurt Hartlen, Jason Hanthorn. 
+
+Оптические фотографии сделаны с использованием Canon Powershot S30. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="189" EndNode="199">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="458" EndNode="468">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

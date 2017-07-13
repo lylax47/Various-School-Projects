@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Подробнее о 14,3" «нанотрубочном» дисплее SamsungНа выставке International Meeting on Information Display 2008 (IMID), недавно прошедшей в Южной Корее, компания Samsung Electronics представила целый ряд интересных разработок в области дисплейных технологий и продемонстрировала множество прототипов на стенде под говорящим названием Future Display. Одной из интереснейших новинок стоит признать первый в мире цветной активно-матричный электрофоретический дисплей на базе <Node id="471"/>углеродных <Node id="482"/>нанотрубок<Node id="492"/>.
+Сегодня о новом устройстве удалось получить немного больше информации. Как оказалось, над созданием прототипа трудилась не только Samsung, а и инженеры компании Unidym, занимающейся разработкой и производством <Node id="704"/>углеродных <Node id="715"/>нанотрубок<Node id="725"/> и приборов на их базе. 14,3-дюймовый электрофоретический дисплей использует прозрачный «нанотрубочный» электрод, разработанный в Unidym.
+
+Как отметил президент и CEO компании Unidym Артур Свифт (Arthur L. Swift), это не первое устройство, созданное совместными усилиями инженеров Samsung и Unidym. В <Node id="1026"/>мае<Node id="1029"/> <Node id="1030"/>текущего года<Node id="1043"/> Samsung уже демонстрировала 2,3-дюймовую черно-белую активно-матричную панель, также использующую <Node id="1142"/>углеродные <Node id="1153"/>нанотрубки<Node id="1163"/>.
+ Напомним, к достоинствам электрофоретических дисплеев по сравнению с традиционными плоскопанельными экранами относят малое энергопотребление, а также хорошую видимость изображений даже при ярком внешнем освещении. Разработчики считают, что ЭФ-дисплеи смогут найти применение в мобильных устройствах. Александр <Node id="1476"/>Будикhttp://www.3dnews.ru/…lee_samsung/Unidym<Node id="1521"/>
+Unidym, a majority-owned subsidiary of Arrowhead Research Corporation, is a leader in the manufacture and application of carbon nanotubes (CNTs), a novel material with extraordinary electrical, mechanical, chemical, and thermal properties.
+<Node id="1762"/>http://www.unidym.com<Node id="1783"/>/Ну, как говорится, прогресс не стоит на месте. И вот солидная и уважаемая фирма «находит» полезное изобретение менее известной компании и даёт ему ход. И какие же при этом возникают прекрасные перспективы! Появляются новые приборы с невиданными характеристиками, которые мы наверняка скоро увидим на наших рынках…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="1142" EndNode="1163">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="715" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="471" EndNode="492">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1026" EndNode="1029">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1153" EndNode="1163">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1030" EndNode="1043">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1762" EndNode="1783">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1476" EndNode="1521">
+</Annotation>
+<Annotation Id="16" Type="Углеродная+нанотрубка" StartNode="704" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="482" EndNode="492">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

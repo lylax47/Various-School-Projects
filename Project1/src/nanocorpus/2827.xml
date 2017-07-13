@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>4 апреля<Node id="9"/> генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="61"/> <Node id="62"/>и руководитель Федерального агентства по техническому регулированию и метрологии Григорий Элькин<Node id="158"/> <Node id="159"/>подписали Соглашение о сотрудничестве.
+
+Соглашение определяет порядок взаимодействия сторон при организации и проведении работ по обеспечению единства измерений, стандартизации, оценке соответствия и безопасности использования нанотехнологий, <Node id="402"/>наноматериалов<Node id="416"/> и продукции наноиндустрии, а также сертификации систем менеджмента качества организаций и предприятий, работающих в наноиндустрии.
+
+В рамках подписанного Соглашения специалистами Федерального агентства по техническому регулированию и метрологии и ГК «Роснанотех» будет сформирован системный подход к созданию нормативной базы наноиндустрии и осуществлена разработка комплекса стандартов на приоритетные нанотехнологии и нанопродукцию. Кроме того, стороны обеспечат проведение разработки и производства нанопродукции в условиях, соответствующих требованиям международных стандартов ISO 9000, ISO 14000.
+
+Для подтверждения соответствия продукции установленным требованиям корпорация будет привлекать к работам действующие испытательные и метрологические центры как в рамках создаваемого сертификационного центра ГК «Роснанотех», так и непосредственно при проведении работ по инвестиционным проектам.
+ 
+<Node id="1317"/>Мы считаем обеспечение единства измерений, стандартизации, оценки и подтверждения соответствия и безопасности нанотехнологий, <Node id="1443"/>наноматериалов<Node id="1457"/> и продукции наноиндустрии одной из своих основных задач, – сказал Леонид Меламед<Node id="1538"/>. – Особое значение для нашей корпорации имеет создание систем сертификации и аккредитации компетентных предприятий в разработке нанотехнологий и производстве <Node id="1697"/>наноматериалов<Node id="1711"/>, а также аккредитации испытательных и метрологических центров, которые будут оценивать соответствие в сфере наноиндустрии. Мы предложили агентству в ближайшее время создать совместную рабочую группу, которая обеспечит организацию этой деятельности.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="61" EndNode="62">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="61" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="158" EndNode="159">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="402" EndNode="416">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1697" EndNode="1711">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1317" EndNode="1538">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="158" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="1317" EndNode="1538">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1443" EndNode="1457">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

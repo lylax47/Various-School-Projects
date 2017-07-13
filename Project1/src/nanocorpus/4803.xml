@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>18–19 марта 2009 года<Node id="21"/> в Лондоне в помещении Королевского Медицинского Колледжа состоится международная конференция Инновации в текстильных изделиях 2009 – Умные, <Node id="162"/>Нано<Node id="166"/> и Технические ткани для Медицины, Промышленности и Одежды (18 –19 March 2009: The Royal College of Physicians, London, UK – Innovations in Textiles 2009 – Smart, Nano and Technical Textiles for Medical, Industrial and Clothing Applications)
+Институт Нанотехнологии (Institute of Nanotechnology – IoN) Великобритании ранее уже организовал три международных конференции по текстильгым изделиям, организовав и предоставив международную арену для столь диверсифицированного общества профессионалов. Представители промышленности, академических учреждений и специалисты в дизайне модной одежды смогли собраться и обсудить информацию, результаты исследований и практический опыт – в диапазоне от нано- до «умных» текстильных материалов.
+
+Используя опыт предыдущих успешных и популярных конференций, Институт Нанотехнологии организует следующую, четвертую, конференцию в Лондоне в помещении Королевского Медицинского Колледжа. В программу конференции включены многие дисциплины, различные технологии и разработки в области тканей и изделий из текстиля. На конференции предполагается большая практическая секция, посвященная вопросам использования новых текстильных разработок в различных областях промышленности. Особый акцент на конференции, естественно, будет сделан на последних, новейших технологических разработках и идеях.
+
+На конференции будет работать также и постерная секция.
+
+Среди докладчиков, подтвердивших свое участие, много известных имен, в том числе из ведущих центров Германии, Австралии, Великобритании.
+
+Веб сайт конференции <Node id="1705"/>http://www.nano.org.uk<Node id="1727"/>/…overview.htm</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="162" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="0" EndNode="21">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1705" EndNode="1727">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

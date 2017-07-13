@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт физики полупроводников СО РАН <Node id="41"/>метаматериалы<Node id="54"/>, молекулярно-лучевоя эпитаксия, наноприборы, <Node id="100"/>наноструктура<Node id="113"/>, сверхтонкие пленки   <Node id="136"/>Наноматериалы<Node id="149"/> Физика полупроводников и диэлектриков   организация массового изготовления нанообъектов с высокой воспроизводимостью и точностью разработка технологии формирования из отсоединяемых пленок нанообъектов самых различных форм: трубок, спиралей, колец, полусфер, периодических наногофрированных структур. разработка технологии формирования трехмерных наноэлементов с предельно малыми размерами                          Бородовский Павел Анисимович Булдыгин Анатолий Федорович Голод Сергей Владиславович, технолог, научный сотрудник Принц Виктор Яковлевич, зав.лабораторией, профессор, доктор наук <Node id="742"/>Самойлов<Node id="750"/> Виктор Александрович  Селезнев Владимир Александрович, технолог, старший научный сотрудник, кандидат наук <Node id="857"/>Соотс Регина Альфредовна<Node id="881"/> , ведущий технолог <Node id="901"/>Юкечева Ю.<Node id="911"/>, аспирант 
+В лаборатории сформированы уникальные массивы микро- и наноспиралей и других спиральных объектов, предназначенных для динамического изменения плоскости поляризации гигагерцевого и терагерцевого, а в будущем и оптического излучения. В Институте ядерной физики СО РАН была показана возможность использования массива спиралей для управления поляризацией излучения лазера на свободных электронах.
+ 
+К настоящему времени в лаборатории созданы макеты наношприцев, нейрозондов, нанопринтеров, наноанемометров.Подобными наноинструментами можно будет работать с ядрами отдельных живых клеток (нами это было продемонстрировано). В Институте теоретической и прикладной механики СО РАН было показано, что наноанемометр открывает возможность регистрации быстрых турбулентных течений, поскольку его быстродействие в 100-1000 раз лучше классических датчиков.
+   метод сушки и <Node id="1784"/>травления<Node id="1793"/> структур в сверхкритическом CO2 методы направленного изгиба и сворачивания пленок      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="857" EndNode="881">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Альфредовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Регина</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Метаматериал" StartNode="41" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Травление" StartNode="1784" EndNode="1793">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Наноматериал" StartNode="136" EndNode="149">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="901" EndNode="911">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юкечев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="742" EndNode="750">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Самойлов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Наноструктура" StartNode="100" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

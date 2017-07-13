@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Динамическое светорассеяние (DLS) позволяет с высокой точностью определять размеры и распределение по размерам различных частиц – полимеров, <Node id="142"/>наночастиц<Node id="152"/>, белков. Особенно приятно, что при помощи этого метода можно определять присутствие в растворе даже весьма низких концентраций разнообразных <Node id="294"/>золотых <Node id="302"/>наночастиц<Node id="312"/> (сферической формы, палочек и оболочек) размерами от нескольких десятков до сотен нанометров, благодаря сильному рассеянию света при длинах волн поверхностного плазмонного резонанса. 
+ 
+Группа ученых из University of Central Florida (США) предположила, что при помощи <Node id="581"/>золотых <Node id="589"/>наночастиц<Node id="599"/>, конъюгированных с антителами, можно легко, в одну стадию, проводить быструю диагностику наличия маркеров тех или иных заболеваний с использованием DLS. В качестве примера они показали, как можно быстро количественно определить один из маркеров рака предстательной железы. 
+ 
+В организме здорового мужчины имеется простато-специфический антиген (prostate specific antigen, PSA) в концентрации нескольких нанограмм на миллилитр (считается, что в норме не более 4 нг/мл), из них несвязанного PSA – меньше нанограмма в миллилитре, то есть <Node id="1136"/>около 10%<Node id="1145"/> от общего количества PSA. В случае рака или доброкачественной гиперплазии простаты общее количество PSA возрастает, однако относительное количество свободного PSA в случае злокачественной опухоли ниже, чем в норме или при доброкачественном перерождении предстательной железы. 
+ 
+Для детектирования свободного PSA ученые использовали два типа <Node id="1488"/>золотых <Node id="1496"/>наночастиц<Node id="1506"/>, связанных с разными антителами к этому антигену (рисунок 1). Были синтезированы сферические золотые частицы размером около 37 нм и золотые же нанопалочки 10-40 нм в длину (рисунок 2). Нижний предел их обнаружения методом DLS составил 0,02 пМ для сферических частиц и 0,4 пМ для палочек. После связывания <Node id="1812"/>наночастиц<Node id="1822"/> с антителами их средний размер возрос для сферических частиц до 57 нм, для палочек – до 30-37 нм (рисунок 3). При добавлении PSA к раствору, содержащему оба типа <Node id="1985"/>наночастиц<Node id="1995"/>, образовывались олигомерные частицы больших размеров (рисунок 3, рисунок 4); при этом наблюдалась зависимость от концентрации PSA. Исследователи показали, что метод позволяет определять наличие PSA в концентрациях 0,1-10 нг/мл. 
+ 
+Работа «A One-Step Homogeneous Immunoassay for Cancer Biomarker Detection Using Gold Nanoparticle Probes Coupled with Dynamic Light Scattering» опубликована в JACS. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="142" EndNode="152">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="302" EndNode="312">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="1488" EndNode="1506">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1496" EndNode="1506">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="589" EndNode="599">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1136" EndNode="1145">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1985" EndNode="1995">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1812" EndNode="1822">
+</Annotation>
+<Annotation Id="10" Type="Наночастица+золота" StartNode="294" EndNode="312">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица+золота" StartNode="581" EndNode="599">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

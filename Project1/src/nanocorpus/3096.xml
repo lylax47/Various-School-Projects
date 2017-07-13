@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Комбинация неорганических <Node id="27"/>наночастиц<Node id="37"/> и органических молекул позволяет изготавливать новые материалы с уникальными свойствами. Например, внедрение <Node id="147"/>наночастиц<Node id="157"/> в тонкие полимерные пленки приводит к существенному улучшению их термохимических характеристик [S.M.Liff et al, Nature Mater. 6, 76 (2007)].
+
+Объемная доля <Node id="314"/>наночастиц<Node id="324"/> в таких композитах обычно мала, и они расположены друг относительно друга нерегулярным образом. Это приводит к тому, что длинные полимерные цепочки, образующие матрицу, перепутываются между собой, вследствие чего прочность композита падает.
+
+Авторы работы [K.E.Mueggenburg et al, Nature Mater. 6, 656 (2007)] приготовили <Node id="646"/>нанокомпозит<Node id="658"/>, соответствующий противоположному предельному случаю: в нем сферические <Node id="731"/>наночастицы<Node id="742"/> Au образуют плотноупакованный квазидвумерный монослой и прочно сцеплены друг с другом посредством молекул додекантиола (ДТ). Расстояние между соседними <Node id="895"/>наночастицами<Node id="908"/> (1.7 нм) намного меньше их диаметра (6 нм), и поэтому молекулы ДТ, соединяющие разные <Node id="995"/>наночастицы<Node id="1006"/>, не перепутываются. Это приводит к значительному увеличению прочности монослоя. Если такой монослой сформировать на подложке, в которой предварительно проделано круглое отверстие диаметром ~ 1 мкм, то на отверстии образуется мембрана (см. рис. 1 и 2).
+
+Измерения, выполненные с помощью атомного силового микроскопа, показали, что такие мембраны хоть и тонкие, но очень прочные: их модуль <Node id="1395"/>Юнга<Node id="1399"/> в среднем составляет около 6 ГПа. Высокая прочность мембран прекрасно сочетается с их эластичностью: изгиб под прямым углом вблизи краев отверстия имеет место на длине ~ 10 нм (несколько диаметров <Node id="1597"/>наночастиц<Node id="1607"/>) Мембраны сохраняют свои упругие свойства при нагревании (механические повреждения после воздействия иглы микроскопа отсутствуют вплоть до T ≈ 400 К).
+
+Этот результат довольно неожиданный, поскольку теория [U.Landman, W.D.Luedtke, Faraday Discuss. 125, 1 (2004)] предсказывает плавление сверхрешеток Au/ДТ при T ≈ 350 <Node id="1926"/>К. Такая<Node id="1934"/> термостойкость обусловлена, по-видимому, тем, что край мембраны жестко фиксирован, и поэтому расстояние между <Node id="2045"/>наночастицами<Node id="2058"/> при нагревании почти не изменяется. В отличие от большинства полимеров, системы плотноупакованных <Node id="2157"/>наночастиц<Node id="2167"/> проводят электрический ток (за счет туннельного механизма). Поскольку туннельное сопротивление экспоненциально зависит от расстояния между <Node id="2307"/>наночастицами<Node id="2320"/>, <Node id="2322"/>наномембраны<Node id="2334"/> можно использовать в качестве очень чувствительных электронных датчиков давления.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="147" EndNode="157">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1926" EndNode="1934">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="27" EndNode="37">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="731" EndNode="742">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1597" EndNode="1607">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="995" EndNode="1006">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2157" EndNode="2167">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1395" EndNode="1399">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юнг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="895" EndNode="908">
+</Annotation>
+<Annotation Id="10" Type="Наномембрана" StartNode="2322" EndNode="2334">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="2045" EndNode="2058">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2307" EndNode="2320">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="314" EndNode="324">
+</Annotation>
+<Annotation Id="14" Type="Нанокомпозит" StartNode="646" EndNode="658">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

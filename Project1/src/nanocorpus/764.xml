@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Neuchâtel, November 10, 2008
+
+NANOSENSORS™ today announced the introduction of the Akiyama-probe.
+
+The Akiyama-probe has been developed in cooperation with the Institute of Microtechnology (IMT) at the University of Neuchâtel for the NANOSENSORS™ brand that is specialized on cutting edge scanning probes for Atomic Force Microscopy (<Node id="335"/>AFM<Node id="338"/>) applications. The product is called the Akiyama-probe or A-probe to honour its inventor Dr. Terunobu Akiyama. It is a novel self-sensing and – actuating probe based on a quartz tuning fork combined with a micromachined cantilever for dynamic mode <Node id="587"/>AFM<Node id="590"/>.
+
+It features a symmetrical arrangement of a U-shaped silicon cantilever attached to the two prongs of a quartz tuning fork. The tuning fork serves as an oscillatory force sensor that governs the tip vibration frequency as well as the amplitude and ensures a high mechanical Q-factor. The force constant of the probe is determined by the cantilever and can be adjusted independently from the resonance frequency.
+
+The Akiyama-probe requires neither optical detection, nor an external shaker. A-Probe occupies only a small volume above the sample. These features make it very attractive for creating a new generation of scanning probe microscopy (SPM) instruments.
+
+Up to now the probe was only available to and via <Node id="1306"/>AFM<Node id="1309"/> manufacturers who sell instruments with A-probe capability. Starting November 2008 the Akiyama-probe will also be available to end-customers via our regular distribution channels. For this occasion NANOSENSORS™ has dedicated a complete website <Node id="1554"/>www.akiyamaprobe.com<Node id="1574"/> which offers ample information on this very special product.
+About NANOSENSORS™:
+NANOSENSORS™ is specializing in the development and production of innovative high quality probes for scanning probe microscopy (SPM) and atomic force microscopy (<Node id="1818"/>AFM<Node id="1821"/>). The products are especially designed for scientists at universities, research institutions and industrial R&amp;D centres in the fields of nanotechnology, microtechnology, materials research, semiconductors, biology, biotechnology, chemistry and medicine. NANOSENSORS™ is a trademark of NanoWorld AG.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Атомно-силовая+микроскопия" StartNode="1818" EndNode="1821">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1554" EndNode="1574">
+</Annotation>
+<Annotation Id="5" Type="Атомно-силовая+микроскопия" StartNode="335" EndNode="338">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Атомно-силовая+микроскопия" StartNode="1306" EndNode="1309">
+</Annotation>
+<Annotation Id="7" Type="Атомно-силовая+микроскопия" StartNode="587" EndNode="590">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

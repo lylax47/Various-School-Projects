@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Полупроводниковое производство в индийский Fab City (вблизи Хайдерабада) начало развиваться в <Node id="95"/>2006 г.<Node id="102"/> после инвестиций компанией SemIndia <Node id="139"/>3 млрд. долл.<Node id="152"/> в строительство современной фабрики по выпуску кремниевых подложек. Дополнительно в строительство <Node id="251"/>1,1 млрд. долл.<Node id="266"/> (<Node id="268"/>в течение 10 лет<Node id="284"/>) вкладывает и компания Solar Semiconductor Ltd.
+
+Недавно индийское правительство одобрило предложение пяти компаний принять участие в проектах развития Fab City, в основном, в направлении исследований и разработок в области солнечной энергетики (см. Таблицу).
+
+На первом этапе выполнения этих проектов будет освоено и запущено производство солнечных элементов и солнечных панелей, а на втором этапе планируется достичь емкости производства с общей мощностью, генерируемой изготовленными солнечными ячейками, до 1 ГВт в <Node id="804"/>год<Node id="807"/> (для сравнения, производительность сегодняшних фабрик составляет десятки МВт в <Node id="887"/>год<Node id="890"/>).
+
+В стадии активного рассмотрения правительством Индии находятся еще 5 проектов в области солнечной энергетики с суммой инвестиций между <Node id="1029"/>6 и 7 млрд. долл.<Node id="1046"/>, предлагаемые следующими индийскими компаниями: Chandradeep Solar, Neotech Solutions, Photon Energy Systems, Surana Ventures и RamTerra Solar Pvt. Ltd.
+
+Среди других заинтересовнных компаний – индийский гигант по производству бытовой электроники Videocon (возможны инвестиции в объеме <Node id="1332"/>250 млн. долл.<Node id="1346"/>) и Hindustan Semiconductor Manufacturing Company (HSMC), которая является партнером немецкой Infineon Technologies AG. HSMC готова вложить до <Node id="1489"/>1 млрд. долл.<Node id="1502"/> в производство чипсетов для мобильных телефонов, автомобильной электроники и смарт-карт.
+
+Среди компаний, проявляющих интерес к запуску производства в Fab City:
+ Moser Baer, производитель оптических запоминающих устройств, планирует объединить усилия с компанией Allied Materials Inc., чтобы производить фотовольтаические ячейки; Air Liquide of France предлагает завод по производству газов и химических реактивов; BOC анонсировала, что завершит строительство химического завода в Хайдерабаде уже <Node id="2000"/>в конце следующего года<Node id="2023"/>. 
+Хайдерабад (Hyderabad) известен как вторая Кремниевая долина в Индии после Бангалора (Bangalore). Продукция компаний Хайдерабада, работающих в области информационных технологий, в <Node id="2206"/>2004 г.<Node id="2213"/> превысила <Node id="2224"/>1 млрд. долл.<Node id="2237"/>
+
+Недавно здесь было основано предприятие по производству кремниеых чипов Fab City, в развитие которого консорциум AMD-SemIndia <Node id="2365"/>совместно<Node id="2374"/> с правительством Индии инвестировали <Node id="2412"/>3 млрд. долл.<Node id="2425"/> Планируется производить чипы для компьтерной техники, мобильных телефонов и других цифровых устройств.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Партнеры_Клиенты" StartNode="2365" EndNode="2374">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="804" EndNode="807">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1332" EndNode="1346">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="139" EndNode="152">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="2412" EndNode="2425">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="95" EndNode="102">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1489" EndNode="1502">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="268" EndNode="284">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="251" EndNode="266">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2000" EndNode="2023">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1029" EndNode="1046">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="2206" EndNode="2213">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="2224" EndNode="2237">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="887" EndNode="890">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

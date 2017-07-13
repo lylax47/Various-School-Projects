@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В рамках подготовки третьего инновационного форума <Node id="52"/>Росатома<Node id="60"/> были достигнуты договоренности между Центром «Атом-инновации» и государственной корпорацией «Роснанотех» об участии специалистов ГК «Роснанотех» в предварительной научно-технической экспертизе и оценке (скрининге) поступивших на форум инновационных проектов по направлению «нанотехнологии» с целью их дальнейшей коммерциализации. Кроме того, в рамках конгрессной программы форума запланировано проведение круглого стола, посвященного обсуждению вопросов коммерциализации нанотехнологий
+
+<Node id="548"/>Организационный комитет форума<Node id="578"/> приглашает к участию отраслевых и внеотраслевых разработчиков инновационных технологий, услуг, решений по следующим комплексным инновационным направлениям:
+ промышленная диагностика лазерные, плазменные и ускорительные технологии сверхпроводники водоочистка и водоподготовка нанотехнологии и материалы с заданными свойствами очистка сред и экология энергетика и энергосбережение безопасность и физическая защита углеволокна технологии для судов на атомных реакторах и атомного ледокольного флота. 
+Также к рассмотрению принимаются проекты по другим направлениям, включая альтернативные источники энергии, новые строительные материалы, IT и коммуникации, и т.д.
+
+Организаторами третьего инновационного форума выступают Государственная корпорация «Росатом», ФГУП ЦНИИАТОМИНФОРМ и Центр «Атом-инновации». Мероприятие пройдет <Node id="1401"/>9 июня 2008 г.<Node id="1415"/> в Москве в Президент-отеле (Москва, ул. Большая Якиманка, 24).
+
+Подробную информацию о подготовке и проведении третьего инновационного форума <Node id="1558"/>Росатома<Node id="1566"/> можно узнать на официальном сайте Центра «Атом-инновации» <Node id="1625"/>www.runtech.ru<Node id="1639"/> или по телефонам +7 (495) 662–69–99 и 739–33–57, e-mail: или по телефонам +7 (495) 662–69–99 и 739–33–57, e-mail: inforum@
+runtech.ru.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="1558" EndNode="1566">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="548" EndNode="578">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Организационный комитет форума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1401" EndNode="1415">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1625" EndNode="1639">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="52" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

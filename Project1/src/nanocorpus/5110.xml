@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Согласно стандартной модели, протон состоит из трех кварков, между которыми находится глюонная среда, передающая сильные взаимодействия. Сильные взаимодействия имеют три разных типа – их называют красными, зелеными и синими.
+
+Международная команда физиков из Университета Вупперталя (Bergische Universität Wuppertal, Wuppertal, Germany), Института фон Неймана (John von Neumann–Institut für Computing, Deutsches Elektronen-Synchrotron) и Института Теоретической физики Будапешта (Institute for Theoretical Physics, Eötvös University, Budapest, Hungary) провела численный эксперимент, целью которого было чисто теоретическое вычисление масс протона и нейтрона.
+
+<Node id="662"/>99%<Node id="665"/> всей массы видимой материи во Вселенной приходится на эти частицы. Согласно стандартной модели, протон состоит из трех кварков, масса которых по разным оценкам составляет от <Node id="840"/>1%<Node id="842"/> до <Node id="846"/>5%<Node id="848"/> общей массы протона. Всю остальная массу частицы составляет энергия сильного взаимодействия.
+
+Ученым удалось получить численные решения уравнений квантовой хромодинамики, описывающих протон. Для численного решения использовалась целочисленная сетка, которая заменила в приближенном решении непрерывное пространство-время. Для этого понадобился <Node id="1193"/>год<Node id="1196"/> счета с использованием сети распределенных вычислений Jülich Supercomputing Centre, мощность которой составляет 200 триллионов операций в <Node id="1335"/>секунду<Node id="1342"/>. При расчете необходимо было обработать матрицу из 10000 триллионов чисел. Полученная теоретически масса протона совпала с данными эксперимента с точностью до <Node id="1502"/>2%<Node id="1504"/>. Предыдущие численные эксперименты давали оценку массы протона с точностью <Node id="1580"/>10%<Node id="1583"/>.
+Физики заявили, что теория достаточно точно описывает реальность, и математическую модель можно использовать как для расчета других характеристик элементарных частиц, например, заряда, так и для поиска результатов еще неизвестных в современной физике.
+Одним из результатов эксперимента стала проверка знаменитой формулы <Node id="1905"/>Эйнштейна<Node id="1914"/>, связывающей материю и энергию: E = mc2. Эта формула подтверждена с высокой точностью для ядерных взаимодействий. Как заметил участник эксперимента венгерский физик Стефан Дьюр (Stefan Dürr), эксперимент подтвердил, что на фундаментальном уровне материя похожа на хлопья, и практически вся состоит из энергии.
+
+Исследование опубликовано в журнале Science: «Ab Initio Determination of Light Hadron Masses» (Ab Initio Determination of Light Hadron Masses, – S. Dürr, Z. Fodor, J. Frison, C. Hoelbling, R. Hoffmann, S. D. Katz, S. Krieg, T. Kurth, L. Lellouch, T. Lippert, K. K. Szabo, G. Vulvert,– Science 21 November 2008: Vol. 322. no. 5905, pp. 1224 – 1227
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="846" EndNode="848">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1335" EndNode="1342">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1502" EndNode="1504">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="840" EndNode="842">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1580" EndNode="1583">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1905" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Эйнштейн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1193" EndNode="1196">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="662" EndNode="665">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

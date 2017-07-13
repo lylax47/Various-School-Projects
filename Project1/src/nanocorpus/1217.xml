@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Д-р Михри Озкан (Mihri Ozkan) из Калифорнийского университета в Риверсайде и <Node id="78"/>его<Node id="81"/> коллеги прикрепляли мозаичные вирусы CPMV (CowPea mosaic virus) к <Node id="148"/>квантовым точкам<Node id="164"/>, состоящим из селенида кадмия и сульфида цинка. CPMV представляет собой безопасный для человека растительный вирус, состоящий из оболочки, размером около 30 нм, и молекулы РНК внутри. 
+ 
+Полученные гибриды ученые размещали внутри полимерной матрицы, к которой затем присоединялись электроды, с помощью которых проводилось тестирование изготовленных структур. Исследователи обнаружили, что каждая гибридная единица может работать как энергонезависимое запоминающее устройство, при этом ее проводимость может «переключаться» между высоким и низким уровнями, что соответствует логическим «нулю» и «единице». 
+ 
+Принцип действия прибора основан на передаче заряда от оболочки вируса к <Node id="846"/>наночастице<Node id="857"/> при включении внешнего электрического поля. Тонкий слой сульфида цинка, покрывающий <Node id="942"/>квантовые точки<Node id="957"/>, стабилизирует захваченный заряд, позволяя сохранять информацию, сообщает NewScientist. 
+ 
+По словам разработчиков, теоретически данная технология позволяет создавать запоминающие устройства с высокой плотностью записи данных, т.к. на площади всего несколько квадратных сантиметров можно разместить миллионы подобных гибридных структур. 
+ 
+В ходе тестовых испытаний над гибридными запоминающими устройствами ученые успешно осуществили ряд циклов по записи, чтению и удалению с них информации. В <Node id="1453"/>настоящее время<Node id="1468"/> группа д-ра <Node id="1481"/>Озкана<Node id="1487"/> исследует, как будут изменяться свойства запоминающих устройств при изменении размера <Node id="1574"/>наночастиц<Node id="1584"/>. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="78" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1481" EndNode="1487">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Озкан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1574" EndNode="1584">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Квантовая+точка" StartNode="942" EndNode="957">
+</Annotation>
+<Annotation Id="12" Type="Квантовая+точка" StartNode="148" EndNode="164">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1453" EndNode="1468">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="846" EndNode="857">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

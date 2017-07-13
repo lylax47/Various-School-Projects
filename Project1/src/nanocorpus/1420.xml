@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Факультет наук о материалах МГУ объявляет о приеме в магистратуру на направление ХИМИЯ (дополнительная информация о магистратуре на сайте ФНМ), при этом тема научной работы и выбранные спецкурсы после поступления могут быть связаны с получением и исследованием <Node id="263"/>наноматериалов<Node id="277"/>. Документы принимаются <Node id="301"/>с 20 июня по 5 июля<Node id="320"/> (график работы см.ниже) в приемной комиссии ФНМ (МГУ, Лаб.корпус Б, ауд.237). 
+ 
+Абитуриенты представляют в приемную комиссию следующие документы: 
+ 
+·       заявление на имя ректора (заполняется в приемной комиссии) 
+ 
+·       диплом об окончании высшего учебного заведения и две его копии 
+ 
+·       вкладыш (приложение) к диплому 
+ 
+·       8 фотографий размером 3х4 (черно-белый снимок на матовой бумаге) 
+ 
+·       паспорт и копии страниц с фамилией и адресом регистрации. 
+ Вступительные экзамены:  
+·       Химия (письменно) – <Node id="855"/>08 июля<Node id="862"/>. 
+   Собеседование по специальности (устно) – <Node id="909"/>09 июля<Node id="916"/>.   
+ Краткая информация о ФНМ 
+ФНМ, существующий <Node id="966"/>с 1991 года<Node id="977"/> под патронажем Ректора МГУ – это уникальный факультет Московского университета, в основе которого лежит принцип междисциплинарности, наиболее полно отвечающий современным тенденциям развития естественно-научного образования. <Node id="1203"/>На сегодняшний день<Node id="1222"/> ФНМ является единственным российским факультетом, готовящим материаловедов-исследователей с фундаментальным образованием, и одним из самых активных российских научных центров, занимающихся исследованиями в области <Node id="1437"/>наноматериалов<Node id="1451"/> и нанотехнологий. В <Node id="1472"/>2006-2007 гг<Node id="1484"/>. ФНМ создал крупный Интернет-портал по нанотехнологиям "Нанометр", открыл дистанционные курсы в области <Node id="1589"/>наноматериалов<Node id="1603"/>, выступил инициатором проведения олимпиад «Нанотехнологии – прорыв в Будущее», выпустил книгу «Нанотехнологии. <Node id="1715"/>Азбука<Node id="1721"/> для всех». 
+ 
+Приоритетом обучения на ФНМ МГУ является реальная научная работа в самых разных областях современного фундаментального материаловедения, в том числе - в рамках федеральных целевых, фундаментально-научных и практико-ориентированных и хоздоговорных программ и проектных систем. Выпускники ФНМ имеют, как правило, солидный "багаж" публикаций в высокорейтинговых журналах, легко поступают в аспирантуру МГУ или РАН и успешно завершают ее защитой в срок кандидатских диссертаций (в том числе в области получения и исследования <Node id="2258"/>наноматериалов<Node id="2272"/>), имеют возможность продолжения научной работы в докторантуре. Наши выпускники работают в компаниях "Самсунг", "Русал", Государственной корпорации "Роснанотех", Национальной Инновационной Компании "Новые энергетические проекты" и других крупнейших российских и зарубежных организациях. ФНМ МГУ дает огромную свободу творческого выбора и "строительства" успешной карьеры! </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1203" EndNode="1222">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="909" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1715" EndNode="1721">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1437" EndNode="1451">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="855" EndNode="862">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="966" EndNode="977">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="301" EndNode="320">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="263" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="1589" EndNode="1603">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="2258" EndNode="2272">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1472" EndNode="1484">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

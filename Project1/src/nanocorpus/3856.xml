@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Микротестмашины, ОДО <Node id="23"/>атомно-силовая микроскопия<Node id="49"/>, методика Ленгмюра-Блоджетт, поверхностная химия   атоматизация исследовательских процессов производство научного оборудования разработка специализированного программного обеспечения   <Node id="235"/>атомно-силовая микроскопия<Node id="261"/> поверхностная химия                             Суслов Андрей Анатольевич, директор, без ученого звания, кандидат наук Сыроежкин Сергей Владимирович, заместитель директора, аспирант, без ученой степени Чижик Сергей Антонович, научный консультант, профессор, доктор наук ОБЛАСТЬ ДЕЯТЕЛЬНОСТИ - Приборостроение 
+НАПРАВЛЕНИЯРазработка и изготовление научно-исследовательских приборов и оборудования Комплексная автоматизация измерительных процессов и оборудования Разработка специализированного программного обеспечения СПЕЦИАЛИЗАЦИЯХарактеризация топографии и свойств поверхностей твердых тел на микро- и наноуровне Модификация и исследование поверхностей    атомно-силовой микроскоп ванна для нанесения мономолекулярных слоев по методике Ленгмюра-Блоджетт устройство для тестирования адгезивов   Институт тепло- и массообмена, лаборатория нанопроцессов и технологий, НАН Беларуси, Минск, Беларусь Институт химии новых материалов, НАН Беларуси, Минск, Беларусь </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Атомно-силовая+микроскопия" StartNode="235" EndNode="261">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Атомно-силовая+микроскопия" StartNode="23" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

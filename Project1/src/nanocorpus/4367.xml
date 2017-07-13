@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Евросоюз вложит миллиарды евро в нанотехнологииЕвросоюз намерен в <Node id="66"/>ближайшие десять лет<Node id="86"/> вложить <Node id="95"/>5,5 миллиарда евро<Node id="113"/> в разработку нанотехнологий и встроенных систем, пишет британское издание The Register.
+Используемый в медицине наноробот
+Нанотехнологический проект ENIAC получит финансирование в размере <Node id="302"/>трех миллиардов евро<Node id="322"/> и охватит все возможные аспекты применения нанотехнологий.
+
+Европейские инженеры уже активно ведут разработку устройств с использованием подобных технологий. Так, <Node id="486"/>25 февраля<Node id="496"/> производитель сотовых телефонов Nokia представил нанобраслет Morph, который может превращаться в телефон, плеер, коммуникатор и другие устройства.
+
+В свою очередь, консорциуму ARTEMIS по созданию встраиваемых микрокомпьютеров выделены средства в размере <Node id="751"/>2,5 миллиарда евро<Node id="769"/>. В ARTEMIS уже входят Airbus, Ericsson AB, Nokia и ST Microelectronics&lt;/&gt;.В <Node id="846"/>2007 году<Node id="855"/> на европейском рынке было продано свыше четыре миллиардов встроенных в различные устройства процессоров общей стоимостью <Node id="977"/>около 60 миллиардов евро<Node id="1001"/>. Ожидается, что рынок встроенных систем, для которых характерно низкое энергопотребление и малые размеры, будет расти на <Node id="1123"/>14 процентов<Node id="1135"/> в <Node id="1138"/>год<Node id="1141"/>.
+
+Кроме того, ЕС потратит <Node id="1168"/>19 миллионов евро<Node id="1185"/> на разработку технологии P2P Next, которая позволит телекомпаниям использовать преимущества цифрового распространения контента через файлообменники.
+<Node id="1335"/>http://lenta.ru/…/02/27/nano/EU<Node id="1366"/> throws <Node id="1374"/>€5.5<Node id="1378"/>bn at embedded chips and <Node id="1403"/>nanotechhttp://www.theregister.co.uk/…initiatives/Евросоюз<Node id="1461"/> наращивает «наномускулы» и становится крупным игроком на этом поле. Пока трудно судить, насколько эти последние события продвинут ЕС к достижению научно-технического лидерства в области развития НТ, но величина выделяемых средств свидетельствует о серьёзности намерений европейцев в этой области. Конкуренты-соперники будут внимательно следить за новостями в этой сфере…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1374" EndNode="1378">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1335" EndNode="1366">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="751" EndNode="769">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="302" EndNode="322">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1138" EndNode="1141">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1168" EndNode="1185">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="486" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="846" EndNode="855">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="66" EndNode="86">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="1123" EndNode="1135">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="846" EndNode="855">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="977" EndNode="1001">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="95" EndNode="113">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1403" EndNode="1461">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

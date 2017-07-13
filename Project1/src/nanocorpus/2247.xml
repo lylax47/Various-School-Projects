@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Политехнического Института Ренсслеера (Rensselaer Polytechnic Institute) разработали новый метод компактирования <Node id="131"/>углеродных <Node id="142"/>нанотрубок<Node id="152"/> в плотные пучки. По словам ученых волокна из «прессованных» <Node id="213"/>нанотрубок<Node id="223"/> могут однажды заменить медные проводники, использующиеся в электронных чипах в качестве соединительных элементов.
+
+Как сообщает PhysOrg, профессор физики Джеймс Джиам-Киан <Node id="396"/>Лу<Node id="398"/> (James Jiam-Qiang Lu) из Ренсслеера смог «увязать» <Node id="450"/>нанотрубки<Node id="460"/> в плотные пучки, обработав их органическим растворителем.
+
+Как оказалось, «леса» <Node id="542"/>нанотрубок<Node id="552"/>, длина которых находится в диапазоне от 30 до 65 нанометров достаточно хорошо поддаются «компактизации» органическими растворами.
+
+В течении процесса плотность пучков <Node id="720"/>нанотрубок<Node id="730"/> стала больше в 25 раз, чем в начальном материале. А чем выше плотность, тем выше в результате электропроводность материала. <Node id="855"/>По словам <Node id="865"/>Лу<Node id="867"/>, с помощью высокоплотных пучков <Node id="900"/>нанотрубок<Node id="910"/> в будущем можно будет конструировать трехмерные микроэлектронные чипы с высокой плотностью полупроводниковых элементов<Node id="1029"/>.
+
+В итоге <Node id="1040"/>Лу<Node id="1042"/> и <Node id="1045"/>его<Node id="1048"/> коллегами был получен «жесткий» 500-микронный пучок <Node id="1101"/>нанотрубок<Node id="1111"/> с достаточно хорошими электропроводящими свойствами.
+
+В основе технологии компактизации лежит капиллярный эффект, с помощью которого <Node id="1245"/>нанотрубки<Node id="1255"/> притягиваются друг к другу до того, как вступают в действие силы Ван-дер-Ваальса, удерживающие <Node id="1351"/>нанотрубки<Node id="1361"/> в плотном пучке.
+
+Несмотря на достигнутые успехи <Node id="1411"/>Лу<Node id="1413"/> считает, что совершенствуя технологию компактизации <Node id="1466"/>нанотрубок<Node id="1476"/>, можно получить <Node id="1493"/>наноматериал<Node id="1505"/>, по электропроводным характеристикам превосходящий медь<Node id="1561"/>.
+
+Однако еще рано говорить о будущем промышленном применении нового метода. В основном, из-за достаточно дорогого производства <Node id="1689"/>нанотрубок<Node id="1699"/> и высокой их стоимости.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1493" EndNode="1505">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1411" EndNode="1561">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="396" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="450" EndNode="460">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="865" EndNode="867">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1689" EndNode="1699">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="131" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1351" EndNode="1361">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="855" EndNode="1029">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1466" EndNode="1476">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1045" EndNode="1048">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="автор" StartNode="855" EndNode="1029">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="1040" EndNode="1042">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="900" EndNode="910">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="213" EndNode="223">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="142" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="720" EndNode="730">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="1101" EndNode="1111">
+</Annotation>
+<Annotation Id="30" Type="Нанотрубка" StartNode="1245" EndNode="1255">
+</Annotation>
+<Annotation Id="34" Type="высказывания_заявления" StartNode="1411" EndNode="1561">
+</Annotation>
+<Annotation Id="35" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Персона" StartNode="1411" EndNode="1413">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Нанотрубка" StartNode="542" EndNode="552">
+</Annotation>
+<Annotation Id="38" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания «Ренова», представляющая интересы российского предпринимателя Виктора Вексельберга, увеличила долю в швейцарской компании Oerlikon, которая является одним из мировых лидеров в сфере нано- и полупроводниковых технологий, с <Node id="232"/>13,79 проц<Node id="242"/>. акций до <Node id="253"/>более 24 проц<Node id="266"/>., докупив 1,5 млн акций за <Node id="294"/>примерно 540 млн франков<Node id="318"/> (<Node id="320"/>537 млн долл.<Node id="333"/>).
+
+После этой покупки «Ренова» лишь немного отстает по размеру пакета от австрийской Victory holding group, у которой <Node id="452"/>почти 28 проц<Node id="465"/>. акций компании, пишет Financial Times.
+
+«Ренова» провела переговоры также о еще одном опционе на <Node id="564"/>7,6 проц<Node id="572"/>. акций Oerlikon. Акции и опцион приобретаются у Deutsche Bank.
+
+Акционером Oerlikon «Ренова» стала в <Node id="674"/>январе<Node id="680"/> <Node id="681"/>прошлого года<Node id="694"/>, заплатив <Node id="705"/>420 млн долл.<Node id="718"/> за 10,25-процентную долю в компании.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="294" EndNode="318">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="320" EndNode="333">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="674" EndNode="680">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="681" EndNode="694">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="253" EndNode="266">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="705" EndNode="718">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="452" EndNode="465">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="232" EndNode="242">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="564" EndNode="572">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

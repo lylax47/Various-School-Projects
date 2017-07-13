@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Новый вариант <Node id="15"/>литографии<Node id="25"/> ускорит появление микросхем следующего поколения
+
+Исследователи из Массачусетского технологического института (MIT) добились значительного прогресса в технологии <Node id="188"/>литографии<Node id="198"/>, используемой в производстве микросхем и других электронных устройств. Им удалось получить на поверхности кремниевой подложки линейные структуры шириной 25 нм, разделенные промежутком в 25 нм.
+
+В <Node id="395"/>настоящее время<Node id="410"/> для массового производства самых современных микросхем используют технологию, обеспечивающую минимальное расстояние между проводниками в 65 нм. Компания Intel недавно сообщила о предстоящем в <Node id="603"/>2009 г.<Node id="610"/> вводе в эксплуатацию завода, где будет использоваться 33-нанометровый технологический процесс. Кроме того, Intel представила прогноз о переходе на 25-нанометровый процесс к <Node id="784"/>2013–2015 гг<Node id="796"/>.
+
+Методика, разработанная в MIT, может ускорить появление новых чипов, поскольку не использует методы иммерсионной <Node id="912"/>литографии<Node id="922"/> и дорогостоящее оборудование, требуемое для проведения оптической <Node id="989"/>литографии<Node id="999"/> в этом диапазоне размеров. Для создания периодических структур в наномасштабе исследователи из MIT применили метод интерференционной <Node id="1133"/>литографии<Node id="1143"/>, который изучается уже не <Node id="1170"/>один год<Node id="1178"/> во многих лабораториях мира (в России, в частности, в этом направлении работают группы из Института прикладной физики РАН и Института физики микроструктур РАН).
+
+Успех нового варианта интерференционной <Node id="1381"/>литографии<Node id="1391"/> обеспечила «нанолинейка», созданная двумя студентами MIT. Студенты использовали генератор акустических волн с частотой 100 МГц для управления лазерным излучением, формирующим литографический рисунок на поверхности кремниевой подложки, при этом система позволяла отклонять лазерный луч и менять частоту излучения при помощи нового алгоритма высокоточного определения фазы.
+
+Разработанная система, получившая название интерференционной <Node id="1826"/>литографии<Node id="1836"/> с лучевым сканированием (scanning-beam interference lithography, SBIL), способна создавать рисунок на большой поверхности. Марк Шаттенбург (Mark Schattenburg), один из авторов работы, заявил, что теперь формирование изображения с заданной точностью не является лимитирующим этапом процесса, и точность определяется уже свойствами самого материала подложки (неровностью боковых стенок). Однако уже сейчас просматриваются варианты преодоления этих недостатков.
+
+Работа ученых из Бостона принята к публикации в журнале Optics Letters. Сообщение о разработке было сделано недавно на международной конференции по электронным, ионным и фотонным лучевым технологиям в г. Портленд (США), сообщает пресс-релиз MIT.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="912" EndNode="922">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Литография" StartNode="1133" EndNode="1143">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Литография" StartNode="1381" EndNode="1391">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="395" EndNode="410">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="784" EndNode="796">
+</Annotation>
+<Annotation Id="7" Type="Литография" StartNode="1826" EndNode="1836">
+</Annotation>
+<Annotation Id="8" Type="Литография" StartNode="188" EndNode="198">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="603" EndNode="610">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Литография" StartNode="989" EndNode="999">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Литография" StartNode="15" EndNode="25">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1170" EndNode="1178">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ученые приблизили эффективность поглощения фотонов солнечными батареями к <Node id="74"/>96%<Node id="77"/>Работа над совершенствованием альтернативных источников энергии не прекращается и, судя по всему, уже начинает давать ощутимые результаты. Выделяется одно из последних заявлений ученых, обещающих увеличить эффективность солнечных батарей — поглощение фотонов — практически до абсолютного максимума.
+
+Речь идет о разработке Политехнического института Ренселлера (Rensselaer Polytechnic Institute) под руководством профессора <Node id="501"/>Шона<Node id="505"/>-Ю <Node id="508"/>Лина<Node id="512"/> (Shawn-Yu Lin).
+
+Такого результата ученые намерены добиться с помощью нового семислойного покрытия для солнечных батарей (толщиной 50—100 нм), которое, используя нанотехнологии, представляется учеными как «густой лес, который будет «захватывать» солнечный свет» – причём под любым углом падения.
+
+Кроме того, специальная конструкция слоев позволяет улавливать не только солнечный, но и отраженный от нижних слоев свет. Таким образом в экспериментальных условиях удалось добиться увеличения количества захваченных фотонов с <Node id="1036"/>67,4%<Node id="1041"/> до <Node id="1045"/>96,21%<Node id="1051"/>.
+
+Одним из преимуществ разработки является возможность ее использования на любых солнечных панелях.
+<Node id="1152"/>http://www.onliner.by/….2008/10.47/Researchers<Node id="1198"/> claim “near perfect” absorption of <Node id="1234"/>sunlighthttp://www.tgdaily.com/…w/40019/113/Solar<Node id="1283"/> Power Game-Changer: “Near Perfect” Absorption of Sunlight, From All <Node id="1352"/>Angleshttp://news.rpi.edu<Node id="1377"/>/update.do?…Да-а, вот это прорыв! Если к.п.д. «реальных» солнечных батарей приблизится к такому пределу, то тогда, считай, человечество приблизится к практическому решению проблемы энергоснабжения за счёт максимально эффективного использования солнечной энергии… И это будет здОрово!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1352" EndNode="1377">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="501" EndNode="505">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ш.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Шона</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="74" EndNode="77">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1234" EndNode="1283">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="508" EndNode="512">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1152" EndNode="1198">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="1036" EndNode="1041">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1045" EndNode="1051">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

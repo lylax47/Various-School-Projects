@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Нанокартина» с разрешением 100.000 dpi от IBMУченые из компании IBM, работающие в лаборатории г. Цюрих (Швейцария), объявили о разработке новой методики нанопечати, которая использует технику самоорганизации (self-assembling) наноскопических частиц и кремниевые шаблоны для их точного позиционирования. Размеры частиц не превышают 60 нм, что примерно в 100 раз меньше, чем красные кровяные тельца человека.
+
+Для точного пространственного ориентирования самоорганизующихся структур использовался шаблон на основе кремния и эластомера с размером элементов не превышающим 40 нм.
+
+Фактически процесс печати разделялся на два этапа: подготовки шаблона и последующего нанесения «чернил». <Node id="683"/>Наночастицы<Node id="694"/> распылялись над поверхностью шаблона, а конвекционные силы жидкости распределяли их по подготовленным углублениям, формируя, таким образом, геометрически правильный рисунок.
+
+Переводя точность позиционирования частиц в термины, применяемые в печатном деле, ученые получили плотность печати эквивалентную 100 тыс. точек на дюйм. Напомним, что обычные принтеры оперируют плотностями, как правило, не превышающими 1600 точек на дюйм.
+
+В качестве демонстрации, ученые воспроизвели Солнце художника <Node id="1189"/>17-го века<Node id="1199"/> Роберта Флуда, израсходовав на рисунок порядка 20 тысяч <Node id="1256"/>золотых <Node id="1264"/>наночастиц<Node id="1274"/>. Полученное изображение можно смело назвать самой маленькой из когда-нибудь напечатанных репродукций.
+
+В практическом смысле, возможность формирования сложных структур из различных материалов на наноуровне может быть использовано при производстве <Node id="1522"/>биосенсоров<Node id="1533"/>, кремниевых <Node id="1546"/>нанотрубок<Node id="1556"/> и прочих устройств, полагают авторы проекта.
+<Node id="1602"/>http://www.3dnews.ru<Node id="1622"/>/…_ibm-268416/Очевидно, это та же самая работа, о которой мы сообщали ранее, только опубликованная в другом источнике: <Node id="1741"/>http://www.nanonewsnet.ru/…monetchikami.<Node id="1781"/> Тем не менее, всё равно это – огромное достижение, которое наверняка найдёт широкое применение в самых разных областях (народного) хозяйства. Я думаю, что нашим «ребятам» надо хотя бы повторить эти достижения и успешно внедрить новую технологию…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Биосенсор" StartNode="1522" EndNode="1533">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1546" EndNode="1556">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1741" EndNode="1781">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1602" EndNode="1622">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1264" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1189" EndNode="1199">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="683" EndNode="694">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица+золота" StartNode="1256" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

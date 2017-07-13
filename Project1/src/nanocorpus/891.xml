@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+В <Node id="3"/>1996 году<Node id="12"/> Slonczewski и Berger, (в работах, упомянутых в статье «Как управлять наномагнитами?»), сделали еще одно интересное предположение. Если в кусочек магнита инжектируется ток со спиновой поляризацией перпендикулярной вектору намагниченности, то создаваемое такими спинами магнитное поле, вызывает прецессию магнитного момента.
+
+Как известно, прецессирующий магнитный диполь излучает электромагнитные волны. Это и удалось недавно наблюдать ученым из Cornell University (США) [1] и CNRS (Франция) [2]. Частота излучения соответствует ларморовской частоте 1.1 ГГц с очень узкой полосой 300кГц. Предполагается, что на основе этого эффекта может быть создан простой, компактный и перестраиваемый источник электромагнитного излучения для систем связи.
+ 1. Nature Physics, 3, 498, 2007 2. Nature Physics, 3, 402, 2007 </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="3" EndNode="12">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="3" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

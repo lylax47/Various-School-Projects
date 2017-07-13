@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Молодые исследователи, аспиранты и студенты приглашаются для участия в работе  школы "Будущее прикладной математики", которая состоится <Node id="137"/>19-21 ноября<Node id="149"/> в Институте прикладной математики им. М.В. Келдыша РАН. 
+Пятая ежегодная школа в <Node id="231"/>этом году<Node id="240"/> приурочена к 80-летию со <Node id="266"/>дня<Node id="269"/> рождения  члена-корреспондента РАН Сергея Павловича Курдюмова и посвящена последним достижениям математического моделирования  и развитию новейших вычислительных методов. 
+ 
+Желающим принять участие в работе школы необходимо выслать заявку  на адрес: <Node id="521"/>synergy@keldysh.ru<Node id="539"/> 
+ 
+ В тексте заявки указать: 
+1. Фамилию, Имя, Отчество (полностью) 
+2. Полное название организации. 
+3. Должность 
+4. Гражданство (для иностранных граждан формируется отдельный список) 
+ 
+Предварительная программа в прикрепленном файле. 
+ 
+Источник: <Node id="791"/>http://scholar.keldush.ru<Node id="816"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="266" EndNode="269">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="137" EndNode="149">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="791" EndNode="816">
+</Annotation>
+<Annotation Id="4" Type="Электронная_почта" StartNode="521" EndNode="539">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="231" EndNode="240">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

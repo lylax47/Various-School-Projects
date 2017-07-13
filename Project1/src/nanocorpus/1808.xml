@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Сан-Диего установили, что распространенные <Node id="54"/>на сегодняшний момент<Node id="75"/> <Node id="76"/>наночастицы<Node id="87"/> с содержанием железа могут быть токсичными для нервной ткани живых существ.
+
+Как сообщает EurekAlert, железо – одно из важнейших химических соединений в составе организма млекопитающих, поэтому, казалось бы, такое соединение как <Node id="317"/>наночастицы<Node id="328"/> оксида железа должно без вреда усваиваться организмом.
+
+Так думали ученые из Сан-Диего, когда использовали магнитные <Node id="446"/>наночастицы<Node id="457"/> для манипулирования нервными клетками. Однако в процессе работы профессор <Node id="532"/>Сангху Джин<Node id="543"/> (Sungho Jin) и <Node id="559"/>его<Node id="562"/> коллеги из Калифорнийского Института в Сан-Диего (UCSD) установили, что <Node id="635"/>наночастицы<Node id="646"/> in vitro повреждают клетки РС12, полученные из нервной ткани крыс.
+
+Покрытие <Node id="724"/>наночастиц<Node id="734"/> органической кислотой DMSA предотвращало их агрегацию в кластеры, поэтому в растворе с нервными клетками <Node id="840"/>наночастицы<Node id="851"/> действовали каждая «сама по себе».
+
+Результат обработки <Node id="908"/>наночастицами<Node id="921"/> культуры нервных клеток стал неожиданным: большая часть культуры погибла, а уцелевшие клетки больше не могли производить дендритов, что, естественно, в живой ткани повлекло бы за собой нарушение распространения нервных сигналов.
+
+Когда ученые провели более детальные исследования, то оказалось, что отдельные <Node id="1231"/>наночастицы<Node id="1242"/> оксида железа проникают внутрь клеток и разрушают их цитоскелет, вызывая деформацию клетки и ее последующую гибель.
+
+<Node id="1360"/>Как говорит <Node id="1372"/>Джин<Node id="1376"/>, ни <Node id="1381"/>наночастицы<Node id="1392"/> сами по себе, ни кислота DMSA отдельно не вызывают подобного эффекта из-за того, что <Node id="1478"/>наночастицы<Node id="1489"/> в растворе сразу же агрегируются в «комки»<Node id="1532"/>. И только <Node id="1543"/>наночастицы<Node id="1554"/>, покрытые DMSA могут повреждать клетки.
+
+Открытый учеными эффект ставит крест на перспективном методе лечения рака: предполагалось, что <Node id="1691"/>наночастицы<Node id="1702"/> железа, покрытые специальным составом будут присоединяться к раковым клеткам и, затем, нагреваться внешним магнитным полем, вызывая их гибель.
+
+Теперь же ученые будут всесторонне исследовать биологическую совместимость <Node id="1922"/>наночастиц<Node id="1932"/> для их будущего использования где бы то ни было.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="76" EndNode="87">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1922" EndNode="1932">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="724" EndNode="734">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1691" EndNode="1702">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1543" EndNode="1554">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1381" EndNode="1392">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="1360" EndNode="1532">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="54" EndNode="75">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="908" EndNode="921">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="532" EndNode="543">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="559" EndNode="562">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="1231" EndNode="1242">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="1372" EndNode="1376">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="317" EndNode="328">
+</Annotation>
+<Annotation Id="25" Type="автор" StartNode="1360" EndNode="1532">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="446" EndNode="457">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="840" EndNode="851">
+</Annotation>
+<Annotation Id="26" Type="Наночастица" StartNode="635" EndNode="646">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="1478" EndNode="1489">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

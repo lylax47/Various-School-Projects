@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Иркутске планируют построить Байкальский центр нанотехнологийВ Иркутске к <Node id="76"/>2010 году<Node id="85"/> должен начать работу Байкальский центр нанотехнологий. Общая стоимость проекта – <Node id="167"/>1,1 млрд. рублей<Node id="183"/>. <Node id="185"/>Около 200 млн. рублей<Node id="206"/> из этой суммы требуется на строительство здания Байкальского центра нанотехнологий, <Node id="291"/>900 млн. рублей<Node id="306"/> – на оборудование. Об этом корреспонденту «ФедералПресс» стало известно сегодня, <Node id="388"/>15 июля<Node id="395"/>, в пресс-службе V Байкальского экономического форума.
+ По словам ректора Иркутского государственного технического института, профессора Ивана Головных, уже создан консорциум, в который вошли Иркутский государственный университет, Институт геохимии им. А.П. Виноградова, Лимнологический институт, Иркутский институт химии им. А.Е. Фаворского, Институт систем энергетики им. Л.А. Мелентьева и Иркутский филиал Института лазерной физики. Целью проекта является технологический прорыв в ключевых отраслях экономики: в строительной индустрии, металлургии, машиностроении, химической отрасли и других.
+ Предполагается довести до промышленного внедрения производство новых композитных оптических <Node id="1085"/>наноструктурированных материалов<Node id="1117"/> для фотоники и оптоэлектроники, металлокомплексных и наноразмерных катализаторов, композитных материалов многофункционального назначения. Серьезная работа будет проведена с полимерными материалами: в планах ученых – разработка модифицированных полимеров, нанобиокомпозитов на основе природных биологических активных полимеров и других. В Байкальском центре нанотехнологий будут заниматься вопросами высокотемпературной сверхпроводимости, исследованием реакционной способности <Node id="1594"/>наночастиц<Node id="1604"/>, фотонными кристаллами и <Node id="1630"/>магнитными <Node id="1641"/>наноструктурами<Node id="1656"/>. 
+Проект внесен в «Справочник инвестора», который будет представлен на V Байкальском экономическом форуме.
+ Как напоминает «ФедералПресс», для участников V Байкальского экономического форума <Node id="1848"/>администрацией Иркутской<Node id="1872"/> области готовится к изданию «Справочник инвестора». В справочнике будут представлены инвестиционные проекты на общую сумму <Node id="1996"/>около 150 млрд. рублей<Node id="2018"/>. <Node id="2020"/>http://www.fedpress.ru<Node id="2042"/>/…_106220.htmlПомнится, ровно <Node id="2072"/>год назад<Node id="2081"/> в Иркутске, на базе Физико-технического института ИрГТУ, уже был создан такой центр. И даже с таким же <Node id="2185"/>названием…(http://www.nanonewsnet.ru/…a-v-irkutske).<Node id="2237"/> По-видимому, теперь решено сделать его самостоятельным центром, построить отдельное здание и закупить «серьёзное» оборудование. Ну что ж, как говорится, на месте виднее. Желаем новому центру и его «родителям» всего доброго и новых удач и свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="76" EndNode="85">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="1085" EndNode="1117">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="167" EndNode="183">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Магнитная+наноструктура" StartNode="1630" EndNode="1656">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2185" EndNode="2237">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="1848" EndNode="1872">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">администрацией</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1996" EndNode="2018">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="388" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1594" EndNode="1604">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="291" EndNode="306">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="76" EndNode="85">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="1641" EndNode="1656">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2020" EndNode="2042">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="185" EndNode="206">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="2072" EndNode="2081">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

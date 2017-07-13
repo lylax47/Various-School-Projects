@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Белгородский университет зачислены фантомыВ Белгородском госуниверситете открылся фантомный класс – помещение, в котором будущие стоматологи будут получать первые профессиональные навыки. Тренироваться им предстоит на небольших анатомических моделях человека.
+Стоимость каждой – <Node id="281"/>700 евро<Node id="289"/>. Фантомный класс включает 22 рабочих места – для обучения по дисциплинам: терапевтической и ортопедической стоматологии. На высокотехнологичное оборудование потрачено <Node id="457"/>8,5 млн рублей<Node id="471"/>.
+ 
+«<Node id="476"/>Подобные модернизированные технологии обучения не имеют аналогов в России<Node id="549"/>», – сообщила декан медицинского факультета Нина Жернакова<Node id="607"/>.
+ 
+Опробовать новые бормашины довелось студентам 2 курса стоматотделения. «Препаровка вскрытия кариозной полости по методу Блэка» – так на языке науки звучит их первое задание. Все студенты справились с задание на «отлично».
+В Белгородский университет зачислены фантомыОткрытие фантомного класса стало первым шагом по реализации заказа правительства на подготовку квалифицированных специалистов в области стоматологии. В дальнейшем в университете планируется открытие целой стоматологической клиники. Лечить и протезировать зубы здесь будут на основе собственных разработок университета, связанных с применением нанотехнологий.Олеся <Node id="1241"/>Масальскаяhttp://www.rusnovosti.ru/news/74844/Ужас<Node id="1291"/> какой!.. Но надо отдать должное белгородцам (или белгородчанам?) – они «бегут быстро», умело «пиарятся» <Node id="1396"/>(http://www.nanonewsnet.ru/…universiteta)<Node id="1437"/> и поэтому успевают снять «сливки» там, где другие вузы и регионы только-только начали «сползать с печки» и ещё не успели даже «почесаться»… Молодцы! Вот пример другим – для подражания!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="476" EndNode="607">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="457" EndNode="471">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="476" EndNode="549">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="476" EndNode="607">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="476" EndNode="549">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="476" EndNode="607">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="476" EndNode="607">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="281" EndNode="289">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1396" EndNode="1437">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1241" EndNode="1291">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

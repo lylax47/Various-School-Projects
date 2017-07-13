@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Университета Брауна (Brown University) получили новый тип биологически совместимой поверхности на основе <Node id="116"/>углеродных <Node id="127"/>нанотрубок<Node id="137"/>.
+
+Многослойные <Node id="153"/>углеродные <Node id="164"/>нанотрубки<Node id="174"/>, выращенные в нанопорах титана (Ti) – идеальные кандидаты для их использования в протезировании, так как на полученных поверхностях наблюдается рост костной ткани.
+
+Более того – благодаря <Node id="363"/>нанотрубкам<Node id="374"/> ученые могут проследить процесс роста костной ткани, что будет полезно в ряде ортопедических имплантов.
+
+Плохая адгезия костной ткани к ортопедическом импланту – давняя проблема протезирования. Рост костной ткани на имплантах зачастую не происходит.
+
+<Node id="626"/>Биосенсор<Node id="635"/> на основе выращенных в титане <Node id="666"/>нанотрубок<Node id="676"/> (Ti-MWCNT) измеряет проводимость ткани, окружающей имплант. По величие проводимости ученые могут определить где костная ткань, где здоровая и, даже, где воспаленная!
+
+Более того, данные о проводимости с <Node id="880"/>сенсора<Node id="887"/> можно получать, используя радиочастотный диапазон. Пока ученые получили <Node id="960"/>наносенсор<Node id="970"/> площадью 1 см2, но они уверяют, что следующим шагом будет его аггрегатирование совместно с традиционными протезами.
+
+Со временем ученые планируют нанести на титановую поверхность дополнительное биодеградирующее полимерное покрытие, которое, растворяясь в здоровой ткани, будет служить «строительным материалом» для формирования кости.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="153" EndNode="174">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="116" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="960" EndNode="970">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="363" EndNode="374">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="164" EndNode="174">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="880" EndNode="887">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="127" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="666" EndNode="676">
+</Annotation>
+<Annotation Id="12" Type="Биосенсор" StartNode="626" EndNode="635">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

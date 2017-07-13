@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> С <Node id="3"/>графеном<Node id="11"/> связано множество надежд о будущем электроники. Однако существующие методы его получения обладают значительными недостатками. В частности, расщепление графита на слои выглядит трудно масштабируемым. Альтернативой является эпитаксиальный рост <Node id="254"/>графена<Node id="261"/>, однако в этом случае трудно добиться получения достаточно крупных листов, обладающих равномерной толщиной. Кроме того, сильные взаимодействия с подложкой могут искажать свойства <Node id="441"/>графена<Node id="448"/>. 
+ 
+Исследователи из Brookhaven National Laboratory (США) показали, что при эпитаксиальном росте <Node id="546"/>графена<Node id="553"/> на поверхности Ru(0001) формируются макроскопические графеновые области. При этом рост протекает послойно, и, хотя первый слой сильно связан с подложкой, второй практически с ней не взаимодействует и сохраняет все уникальные свойства <Node id="788"/>графена<Node id="795"/>. 
+ 
+Синтез основан на том, что растворимость углерода в рутении сильно зависит от температуры. При 1150 °С рутений насыщается углеродом, а при снижении температуры до 825 °С углерод выходит на поверхность, в результате чего формируются островки <Node id="1041"/>графена<Node id="1048"/> размером более 100 мкм. Островки разрастаются и объединяются, после чего начинается рост второго слоя. 
+ 
+Расстояние между первым слоем <Node id="1185"/>графена<Node id="1192"/> и рутением составило около 1.45 Å, а между слоями <Node id="1243"/>графена<Node id="1250"/> близко к таковому для графита (3.34 Å). Были проведены измерения электрического сопротивления в слоях <Node id="1353"/>графена<Node id="1360"/> и между ними. Оказалось, что сопротивление между слоями в 1000 раз больше, т.е. электронное взаимодействие между слоями слабо. 
+ 
+Работа «Epitaxial graphene on ruthenium» опубликована в журнале Nature Materials. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="1185" EndNode="1192">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="254" EndNode="261">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="546" EndNode="553">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="788" EndNode="795">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="3" EndNode="11">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="1041" EndNode="1048">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="1243" EndNode="1250">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="441" EndNode="448">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="1353" EndNode="1360">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

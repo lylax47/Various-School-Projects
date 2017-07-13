@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Генеральный директор «Роснано» Анатолий Чубайс<Node id="47"/> <Node id="48"/>видит задачу своей госкорпорации в том, «чтобы к <Node id="97"/>2015 году<Node id="106"/> Россия в области исследований и производства нанотехнологий вышла на уровень <Node id="184"/>900 млрд рублей<Node id="199"/>».
+
+Сейчас в стране объем выпуска продукции с использованием нанотехнологий составляет <Node id="286"/>несколько миллиардов рублей<Node id="313"/>. «Сделать из них почти триллион за <Node id="349"/>семь лет<Node id="357"/> – серьезная задача», – заявил он в интервью, опубликованном в «Известиях». Для ее решения, уверен Чубайс, нужно создавать «такую экономику, которая может производить продукт самого высокого технологического уровня и для собственного потребления с замещением импорта, и для экспорта, и для гражданских отраслей, и для оборонной промышленности».
+
+Глава «Роснано» рассказал, что <Node id="734"/>3 декабря<Node id="743"/> в Москве его ведомство проведет первый международный нанофорум с участием и ученых, и бизнеса, на котором ожидаются более двух тысяч участников со всего мира. «<Node id="904"/>Для нас это очень важное мероприятие. Ведь если мы сейчас не успеем вскочить в поезд нанотехнологий, то для нас он может уйти навсегда», – считает Чубайс<Node id="1057"/>. «Газета.Ru»
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="97" EndNode="106">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="97" EndNode="106">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="184" EndNode="199">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="734" EndNode="743">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="904" EndNode="1057">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="904" EndNode="1057">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="349" EndNode="357">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="286" EndNode="313">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="47" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="47" EndNode="48">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

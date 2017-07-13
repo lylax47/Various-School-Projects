@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Первый номер дайджеста нанотехнологий от ГК «Роснанотех»Вышел первый номер (<Node id="76"/>май<Node id="79"/>) информационно-аналитического дайджеста «Нанотехнологии в мире».
+
+Дайджест основан на мониторинге российских и иностранных СМИ. В издании в сжатом виде представлены публикации в деловых, общественно политических и специализированных СМИ России и Европы, Америки и Азии, которые отражают текущую ситуацию в сфере нанотехнологий и наноиндустрии.
+Традиционные рубрики бюллетеня (Оглавление): ЦИТАТЫ <Node id="476"/>МЕСЯЦА<Node id="482"/> 2 <Node id="485"/>ТЕМЫ<Node id="489"/> В ФОКУСЕ 3 ТЕНДЕНЦИИ В ФОКУСЕ 4 НАНОТЕХНОЛОГИИ В ЗЕРКАЛЕ ЗАРУБЕЖНЫХ СМИ 6 НАНОТЕХНОЛОГИИ В ЗЕРКАЛЕ РОССИЙСКИХ СМИ 13 СОБЫТИЯ, КОНФЕРЕНЦИИ, ВЫСТАВКИ, СЕМИНАРЫ 17 Файл дайджеста в PDF-формате можно посмотреть и скачать <Node id="707"/>здесь:http://www.nanonewsnet.ru/…usnano_1.pdf<Node id="752"/> (650 кB)
+Ну что ж, материал, собранный в одном месте, конечно же, интересен и полезен и будет весьма востребован различными категориями читателей (для целей престижа он должен лежать – в бумажной форме – на столе у всех «больших начальников» ;-)). Повторюсь: интересен и полезен для чтения… Однако, с точки зрения оперативности, без ложной скромности скажу, что наши «издания» (наш блог + «Нанометр») дадут этому бюллетеню вперёд 85 очков…;-) Кстати, сегодня исполняется ровно <Node id="1230"/>1 год<Node id="1235"/>, как начал выходить этот блог (с <Node id="1269"/>29 мая 2007 года<Node id="1285"/>). За это время было выпущено: 132 стр. по 10 сообщений на странице = около 1300 сообщений… Мы, конечно, не хвастаем. Но вот когда бюллетень «Нанотехнологии в мире. Дайджест российской и зарубежной прессы» разместит на своих страницах хотя бы половину подобных сообщений, можно будет наверняка судить о его важности и полезности, о влиянии его на развитие отечественной отрасли НТ… А так, конечно, весьма интересно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="76" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">май</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="485" EndNode="489">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тема</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="476" EndNode="482">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1269" EndNode="1285">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1230" EndNode="1235">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="707" EndNode="752">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

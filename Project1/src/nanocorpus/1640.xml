@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На церемонии открытия присутствовали вице-президент Китайской академии наук Бай Чунли (Bai Chunli) и вице-премьер и министр исследований и технологий Республики Корея <Node id="167"/>Ким Ву-Сик<Node id="177"/> (Kim Woo-Sik), сообщает портал NanoWerk.
+
+По словам Бай Чунли, Китай и Корея в <Node id="257"/>текущем году<Node id="269"/> существенно укрепили отношения в данной области.
+ 
+«Помимо этого, <Node id="336"/>2007 год<Node id="344"/> является 15-й годовщиной установления дипломатических отношений между нашими странами, – продолжал Бай Чунли, – и открытие Центра, несомненно, является лучшим подарком к этой знаменательной дате».
+ 
+Он выразил также надежду, что, используя Центр как платформу для проведения совместных исследований и экспериментов, ученые двух стран получат больше возможностей и существенно увеличат долю своих стран в нанотехе как в масштабах Азии, так и в мировом масштабе…
+<Node id="806"/>Ким Ву-Сик<Node id="816"/> в ответной речи заявил, что <Node id="845"/>у Китая и Кореи существует огромный потенциал в сфере совместных исследований, и на основе взаимовыгодного сотрудничества обе стороны смогут куда более глубоко и полно проводить совместные исследования<Node id="1046"/>.
+
+В <Node id="1051"/>июле 2005 г.<Node id="1063"/> Китай и Корея подписали меморандум о взаимопонимании в области совместных исследований, который послужил базой для <Node id="1179"/>учреждения Объединенного нанотехнологического центра<Node id="1231"/>.
+
+Согласно этому меморандуму, Китайский национальный центр нанотехнологий и Корейский национальный наноцентр будут совместно осуществлять различные инициативы в данной области. <Node id="1409"/>15 марта 2007 года<Node id="1427"/> в Корее состоялся первый совместный симпозиум по нанотехнологии.
+<Node id="1493"/>http://rnd.cnews.ru/…cience.shtml?…http://www.nanowerk.com/…sid=2186.phpВсё<Node id="1568"/> чаще и чаще учёные разных стран объединяют свои усилия в области НТ-ислледований. Излишне говорить, что от этого, как правило, выигрывают обе стороны: обмен идеями, публикациями, опытом, студентами, аспирантами и т.п. Чем плохо?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="806" EndNode="816">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1051" EndNode="1063">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1409" EndNode="1427">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="845" EndNode="1046">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1493" EndNode="1568">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="845" EndNode="1046">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="806" EndNode="1046">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="845" EndNode="1046">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="336" EndNode="344">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="806" EndNode="1046">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="257" EndNode="269">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="806" EndNode="1046">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="167" EndNode="177">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="845" EndNode="1046">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="845" EndNode="1046">
+</Annotation>
+<Annotation Id="15" Type="Властная_Структура" StartNode="1179" EndNode="1231">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">учреждения Объединенного нанотехнологического центра</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="336" EndNode="344">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="806" EndNode="1046">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="806" EndNode="1046">
+</Annotation>
+<Annotation Id="20" Type="упоминается" StartNode="806" EndNode="1046">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

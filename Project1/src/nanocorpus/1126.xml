@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Набиуллина<Node id="10"/> сменила <Node id="19"/>Грефа<Node id="24"/> в госкорпорации по нанотехнологиямМинистр экономического развития и торговли Эльвира Набиуллина сменила на посту члена наблюдательного совета «Российской корпорации нанотехнологий» («Роснанотех») Германа Грефа, который не вошел в правительство Виктора Зубкова, сформированное <Node id="301"/>24 сентября 2007 года<Node id="322"/>. Об этом сообщается в официальном пресс-релизе правительства.
+Эльвира Набиуллина
+Госкорпорация «Роснанотех» была создана еще при правительстве Михаила Фрадкова – Госдума приняла закон о ее создании в <Node id="523"/>июле 2007 года<Node id="537"/>. <Node id="539"/>Наблюдательный совет<Node id="559"/> корпорации является высшим ее органом. Он состоит из восьми членов и гендиректора. Три члена наблюдательного совета назначаются президентом, по одному Госдумой и Советом Федерации, а оставшиеся – правительством.
+
+В <Node id="775"/>сентябре 2007 года<Node id="793"/> гендиректором «Роснанотеха» был <Node id="826"/>назначен<Node id="834"/> Леонид Меламед<Node id="849"/>,<Node id="850"/> бывший глава инвестиционно-финансовой корпорации «Алемар».
+<Node id="910"/>http://lenta.ru/…/11/28/nano/Распоряжение<Node id="951"/> от <Node id="955"/>26 ноября 2007 г.<Node id="972"/> N 1673-рПредседатель Правительства Российской Федерации <Node id="1029"/>В.Зубков<Node id="1037"/>
+Дата: <Node id="1044"/>28.11.2007<Node id="1054"/> 10:40
+<Node id="1061"/>http://www.government.ru<Node id="1085"/>/…/5031092.htmНу, это совершенно логично: одни будут копить и приумножать деньги, а другие – зарабатывать их в поте лица. Отсюда и перемены… Кстати, как-то резанула глаза фраза в отношении Германа Грефа, который «не вошел в правительство Виктора Зубкова, сформированное <Node id="1355"/>24 сентября 2007 года<Node id="1376"/>». Ну, нам-то это всё равно, а вот Герману Орестовичу, наверное, будет обидно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1061" EndNode="1085">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="523" EndNode="537">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="910" EndNode="951">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="775" EndNode="793">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="19" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Греф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="849" EndNode="850">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Кадровые_перестановки" StartNode="826" EndNode="834">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Набиуллина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="301" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Дата" StartNode="955" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="1044" EndNode="1054">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Властная_Структура" StartNode="539" EndNode="559">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Дата" StartNode="1355" EndNode="1376">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Назначения_Увольнения" StartNode="826" EndNode="834">
+</Annotation>
+<Annotation Id="33" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="сотрудники" StartNode="849" EndNode="850">
+</Annotation>
+<Annotation Id="36" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="1029" EndNode="1037">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Зубков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

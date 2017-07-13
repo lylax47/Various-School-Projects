@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Томский госуниверситет и казахстанский ядерный технопарк создадут совместное производство оборудования для медицины и ядерной физикиТОМСК, <Node id="139"/>11 июля<Node id="146"/> – Томский госуниверситет (ТГУ) и «Парк ядерных технологий» в казахстанском городе Курчатов решили создать совместное производство высокотехнологичных систем для медицины и исследований в области ядерной физики. Как сообщила пресс-служба университета, об этом руководители технопарка и вуза договорились сегодня в Томске, где находится с визитом делегация из Казахстана во главе с президентом технопарка Абзалом Кусаиновым.
+
+Планируется совместный выпуск цифровых рентгеновских установок и специальной аппаратуры, позволяющей считать количество гамма-квантов и других энергетических излучений и частиц.
+ 
+«Основа этих систем – детекторы излучений и цифровые модули на их основе – разработана в ТГУ группой ученых под руководством профессора Олега Толбанова»,– сказал представитель вуза.
+ <Node id="934"/>Год назад<Node id="943"/> Россия и Казахстан заключили соглашение о сотрудничестве в области нанотехнологий, которое подписал, в частности, ректор ТГУ Георгий Майер<Node id="1082"/>.<Node id="1083"/> <Node id="1084"/>После этого<Node id="1095"/> уже несколько крупных предприятий из Казахстана заявили о своем желании сотрудничать с Томским университетом.
+ ТГУ – лауреат Всероссийского конкурса инновационных программ, проведенных в <Node id="1283"/>2006 году<Node id="1292"/> в рамках нацпроекта «Образование». Университету был предоставлен государственный грант в размере <Node id="1390"/>680 млн руб.<Node id="1402"/> Эти средства направлены в основном на приобретение новейшего оборудования. В частности, вуз стал обладателем самого мощного в Восточной Европе и странах СНГ суперкомпьютерного комплекса. Он может выполнять до 12 триллионов операций в <Node id="1637"/>секунду<Node id="1644"/>.  
+«<Node id="1649"/>Эта мощнейшая машина "открыла огромные возможности для научно-образовательного комплекса Томска и институтов Сибирского отделения РАН»<Node id="1783"/>, – отметил ректор вуза Георгий Майер<Node id="1820"/>. На базе суперкомпьютера создан Межрегиональный вычислительный центр.
+ <Node id="1892"/>http://www.ami-tass.ru/…e/38083.htmlПарк<Node id="1932"/> ядерных технологийhttp://<Node id="1958"/>www.pnt.kz/Ну<Node id="1971"/> вот и замечательно. Так сказать, по-соседски… Взамопомощь и взаимосотрудничество – вот девиз соратников-соседей. Может быть, поднапрягутся и чего-нибудь «замутят» и в области нанотехнологий. Новых им побед и новых свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1283" EndNode="1292">
+</Annotation>
+<Annotation Id="1" Type="упоминается" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1892" EndNode="1932">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1084" EndNode="1095">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="1082" EndNode="1083">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="139" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="1649" EndNode="1783">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="1082" EndNode="1083">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="1649" EndNode="1783">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="1649" EndNode="1783">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="17" Type="упоминается_с" StartNode="1649" EndNode="1783">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="1390" EndNode="1402">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1958" EndNode="1971">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1637" EndNode="1644">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="934" EndNode="943">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1283" EndNode="1292">
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="1649" EndNode="1783">
+</Annotation>
+<Annotation Id="22" Type="упоминает" StartNode="1649" EndNode="1820">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

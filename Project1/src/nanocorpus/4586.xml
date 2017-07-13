@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>НаностраховщикПоявится на российском страховом рынкеГородская страховая компания (ГСК) намерена заняться страхованием рисков, связанных с высокими технологиями, и в первую очередь нанотехнологиями. Согласно концепции развития ГСК, утвержденной советом директоров компании, это направление бизнеса наряду с другими видами страхования позволит увеличить сборы к <Node id="360"/>2015 году<Node id="369"/> до <Node id="373"/>300 млн долл.<Node id="386"/>
+ 
+«<Node id="390"/>Специалисты компании в <Node id="413"/>ближайшие годы<Node id="427"/> займутся оценкой потенциала развития рынка высоких технологий, а также выделением рисков, связанных с развитием и использованием принципиально новых технологий в производстве и потреблении, — заявила РБК daily владелец и президент ГСК <Node id="663"/>Ирина Люшня<Node id="674"/>. — Будут проведены исследования, наработана статистика».
+  По ее словам, на основании этих исследований компания намерена разработать и предложить рынку страховые продукты (как в корпоративном, так и в розничном сегменте), покрывающие риски взаимодействия с высокотехнологичными процессами или продуктами. На этот процесс компания намерена затратить три-<Node id="1029"/>пять лет<Node id="1037"/>. <Node id="1039"/>Ирина Люшня<Node id="1050"/> говорит, что «сейчас никто не может дать хотя бы приблизительных цифр об объеме рынка страхования рисков, связанных с высокими технологиями. Можно говорить лишь о его большом потенциале<Node id="1236"/>».  
+«По тем сделкам, которые провел «Роснанотех», риски пока не были застрахованы, — сообщили РБК daily в ГК «Роснанотех». — В венчурном бизнесе страхование не часто используется, так как риски высокие». В корпорации поясняют, что даже в очень успешном венчурном бизнесе половина проектов убыточна, однако остальные могут быть настолько прибыльны, что инвесторы получат значительную отдачу на вложения, которая покрывает убыточные проекты.
+ 
+В «Роснанотехе» уверены, что страховые тарифы будут значительные, что существенно повысит необходимые для start up средства. Как пояснили в корпорации, «российские страховщики могут использовать статистику своих зарубежных коллег, ведь на мировом рынке запущено в производство уже около тысячи нанотехнологических продуктов».
+ Отметим, что сейчас ГСК занимается страхованием каско и ОСАГО, недвижимости и имущества. Однако, согласно утвержденной концепции развития компании, к <Node id="2156"/>2015 году<Node id="2165"/> страховые сборы ГСК вырастут до <Node id="2198"/>300 млн долл.<Node id="2211"/>, а чистая прибыль — до <Node id="2235"/>10 млн долл.<Node id="2247"/>, в том числе и за счет новых направлений бизнеса.  
+«<Node id="2301"/>Обозначенные ГСК цели амбициозны, но труднодостижимы, — считает гендиректор компании «АльфаСтрахование» Владимир Скворцов<Node id="2422"/>.<Node id="2423"/> — Сформированного сегмента страхования рынка высоких технологий пока нет, как только он появится, и работать на нем станет выгодно — безусловно, мы начнем там активно работать».
+ АЛЕНА <Node id="2609"/>КОСТЯНЕЦКАЯhttp://www.rbcdaily.ru/…nance/373426Ну<Node id="2658"/> вот и обрастает наша (будущая) наноиндустрия «привычными» финансовыми услугами и инструментами. Значит, дело пойдёт… Успехов новому начинанию и здоровья нам всем!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1039" EndNode="1236">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="2235" EndNode="2247">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="390" EndNode="674">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="2301" EndNode="2422">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="2198" EndNode="2211">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="360" EndNode="369">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2156" EndNode="2165">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="2422" EndNode="2423">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="663" EndNode="674">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ирина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="373" EndNode="386">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1039" EndNode="1050">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ирина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="2301" EndNode="2422">
+</Annotation>
+<Annotation Id="12" Type="сотрудники" StartNode="2422" EndNode="2423">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="360" EndNode="369">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2609" EndNode="2658">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="2156" EndNode="2165">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="413" EndNode="427">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="390" EndNode="674">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="1039" EndNode="1236">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1029" EndNode="1037">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

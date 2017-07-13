@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В <Node id="4"/>1992-1993 годах<Node id="19"/> группой профессора <Node id="39"/>Р. Тенне<Node id="47"/> (Израиль) были получены <Node id="72"/>нанотрубки<Node id="82"/> и фуллереноподобные <Node id="103"/>наночастицы<Node id="114"/> дисульфидов молибдена и вольфрама. Такие <Node id="156"/>наноматериалы<Node id="169"/> оказались очень интересными с точки зрения их применений в электронике, ионике, катализе, в качестве твердых смазок, суперамортизаторов и т.д.
+ 
+Исследователи из Словении сообщили о том, что им удалось синтезировать новые <Node id="392"/>наноструктуры<Node id="405"/> на основе MoS2, а именно, наностручки, в которых сферические фуллереноподобные частицы заключены в <Node id="505"/>нанотрубки<Node id="515"/>. Трубки MoS2 выполняют две функции – нанореакторов и наноконтейнеров. Тонкие стенки стручков могут быть легко разрушены при помощи ультразвука, и тогда «горошины» высвобождаются.
+ 
+В качестве прекурсора для получения стручков были использованы нанопровода Mo6S2I8, которые были синтезированы из элементов при температуре 1320 °С. Длина проводов составила несколько миллиметров, а толщина от нескольких десятков до нескольких сотен нанометров.
+ 
+Нанопровода Mo6S2I8 были сульфидированы в атмосфере аргона, содержащей <Node id="1032"/>1 %<Node id="1035"/> H2S и <Node id="1042"/>1 %<Node id="1045"/> H2. При этом образовался материал, содержащий MoS2 со следовыми количествами MoO3-x.
+ 
+<Node id="1133"/>Просвечивающая электронная микроскопия<Node id="1171"/> выявила, что в образец состоит из фуллереноподобных частиц MoS2, инкапсулированных в <Node id="1257"/>нанотрубки<Node id="1267"/> MoS2. Стенки стручков очень тонкие – 13 ± 5 нм, тогда как диаметр некоторых горошин может достигать нескольких сотен нанометров. <Node id="1397"/>Фуллерены<Node id="1406"/> в форме сфер или многогранников часто имеют общие слои между собой или стенками трубок, т.е. образуют сильно связанные агрегаты.
+ 
+Был предложен следующий механизм образования таких структур. Сначала из верхних слоев проводов Mo6S2I8 формируются трубки MoS2. <Node id="1666"/>Потом<Node id="1671"/> вследствие удаления йода внутри появляется много пустого места, и создаются особые условия для дальнейшего протекания реакции. Далее на дефектах внутренней поверхности стенок образуются фуллереноподобные частицы. Авторы отмечают, что процедура синтеза довольно проста и может быть использована для производства стручков в больших количествах. Также возможно получение стручков других халькогенидов переходных металлов.
+ 
+Исследователи уделяют особое внимание возможности высвобождения <Node id="2157"/>наночастиц<Node id="2167"/> при разрушении стручка ультразвуком. По их словам, хранение <Node id="2228"/>наночастиц<Node id="2238"/> в стручке препятствует агломерации и защищает их от контакта с атмосферой, т.е. стручок является надежным наноконтейнером. Авторы даже предложили особое название для подобных материалов – мамотрубки (mama-tubes).
+ 
+Работа «Inorganic Nanotubes as Nanoreactors: The First MoS2 Nanopods» (DOI: 10.1002/adma.200701784) была опубликована в журнале Advanced Materials.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="156" EndNode="169">
+</Annotation>
+<Annotation Id="1" Type="Просвечивающая+электронная+микроскопия" StartNode="1133" EndNode="1171">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1666" EndNode="1671">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="505" EndNode="515">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="39" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="103" EndNode="114">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1032" EndNode="1035">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1042" EndNode="1045">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="1397" EndNode="1406">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="2228" EndNode="2238">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1257" EndNode="1267">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2157" EndNode="2167">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="4" EndNode="19">
+</Annotation>
+<Annotation Id="14" Type="Наноструктура" StartNode="392" EndNode="405">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="72" EndNode="82">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

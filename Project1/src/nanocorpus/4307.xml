@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ученые придумали, как очищать воду с помощью нанотехнологийАвстралийские ученые разработали дешевый и очень эффективный способ фильтрации питьевой воды.
+
+Он основан на способности крошечных частиц кварца, покрытых специальным активным материалом, очищать воду от химических примесей, бактерий, вирусов и других опасных веществ.
+
+Авторы исследования — Питер Маевски (Peter Majewski) и Чу <Node id="387"/>Пинг Чан<Node id="395"/> из научно-исследовательского института Ian Wark Research Institute при Университете Южной Австралии решили применить нанотехнологии для поиска новых способов очистки питьевой воды.
+
+Исследователи установили, что частицы кварца можно покрыть нанометровым слоем активного вещества, основанного на углеводороде с кремнесодержащим якорем (фиксатором).
+
+Опыты показали, что эти активные <Node id="778"/>наночастицы<Node id="789"/> способны избавлять воду от биологических молекул и патогенов, таких как вирус полиомиелита, кишечная палочка и криптоспоридиоз.
+
+Чтобы очистить воду, достаточно просто размешать <Node id="968"/>наночастицы<Node id="979"/> в загрязненной воде и потом отфильтровать жидкость, удалив <Node id="1039"/>нанопорошок<Node id="1050"/>. Эффект очистки воды, по словам ученых, достигается за счет электростатического притяжения патогенов к поверхности покрытых активным слоем <Node id="1190"/>наночастиц<Node id="1200"/>.
+<Node id="1202"/>http://www.t-l.ru/…615206.shtmlIan<Node id="1236"/> Wark Research Institutehttp://<Node id="1267"/>www.unisa.edu.au/iwri/Очень<Node id="1294"/> удобный способ очистки воды в полевых условиях: во время походов, экспедиций и т.п. Возможно, при дальнейшей доработке, на основе данной методики создание фильтров для стационарных применений. СтОит оценить эффективность обеззараживания воды с помощью данного метода, а затем, возможно, и «взять на вооружение» нам самим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1190" EndNode="1200">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1267" EndNode="1294">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="968" EndNode="979">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="387" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Пинг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="778" EndNode="789">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанопорошок" StartNode="1039" EndNode="1050">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1202" EndNode="1236">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

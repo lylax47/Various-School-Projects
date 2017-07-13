@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Чип экономической независимостиНа базе ФГУП «Омский НИИ приборостроения» (ОНИИП) состоялась презентация первого за Уралом Базового центра проектирования сверхбольших интегральных схем «Система на кристалле» (СБИС СНК).
+Центр состоит из нескольких научно-исследовательских секторов. Каждый занимается одним из четырех направлений проектирования СБИС — цифровым, аналоговым, смешанным и системами на кристалле. Совокупная стоимость одного укомплектованного рабочего места колеблется от 50 до <Node id="490"/>100 тыс. долларов<Node id="507"/>. В целом инвестиции оцениваются в <Node id="542"/>150 млн рублей<Node id="556"/>.
+СБИС — это чип-кристалл, на котором сосредоточены функциональные блоки, процессоры, интерфейсы. Нанотехнологии позволили «упаковать» в кристалл размером не больше пятикопеечной монеты сотни миллионов транзисторов. Встроенные микрочипы применяются в паспортах международного стандарта, в банковских пластиковых картах и других носителях.
+ Как считает начальник Центра проектирования СБИС СНК Юрий Чепин, создание таких центров позволит сократить отставание России в области развития электронной компонентной базы.  «<Node id="1073"/>Речь идет и о национальной безопасности страны», — пояснил Юрий Чепин<Node id="1142"/>.
+ В <Node id="1147"/>настоящее время<Node id="1162"/> в России действует не более четырех дизайн-центров, которые находятся в европейской части страны. <Node id="1261"/>Как сообщил заместитель руководителя Федерального агентства по промышленности Юрий Борисов<Node id="1351"/>,<Node id="1352"/> всего по федеральной целевой программе развития отечественного радиоэлектронного комплекса <Node id="1444"/>до 2015 года<Node id="1456"/> предполагается открыть 37 региональных дизайн-центров<Node id="1510"/>. <Node id="1512"/>По мнению Борисова, «<Node id="1533"/>нам нужны сотни таких центров, которые как пчелы должны нести нектар в улей, где делается мед. В Финляндии таких организаций около 400, в Японии — 500, столько же в Америке<Node id="1705"/>».
+<Node id="1708"/>http://expert.ru/…rezentaciya/Хорошее<Node id="1745"/> это дело… Жалко только уже упущенного времени. Япония, Штаты, Тайвань, Финляндия – имеют по несколько сот подобных дизайин-центров. Нам надо быстрее навёрстывать упущенное и на всех парах догонять ушедшие вперёд страны…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="темы" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1147" EndNode="1162">
+</Annotation>
+<Annotation Id="2" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1444" EndNode="1456">
+</Annotation>
+<Annotation Id="5" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1708" EndNode="1745">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="1351" EndNode="1352">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="542" EndNode="556">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="1351" EndNode="1352">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="1073" EndNode="1142">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="14" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1261" EndNode="1510">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1261" EndNode="1510">
+</Annotation>
+<Annotation Id="16" Type="упоминает" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="1512" EndNode="1705">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="1073" EndNode="1705">
+</Annotation>
+<Annotation Id="20" Type="автор" StartNode="1073" EndNode="1142">
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="1512" EndNode="1705">
+</Annotation>
+<Annotation Id="25" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="24" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="26" Type="темы" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="28" Type="цитаты" StartNode="1533" EndNode="1705">
+</Annotation>
+<Annotation Id="30" Type="Деньги" StartNode="490" EndNode="507">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

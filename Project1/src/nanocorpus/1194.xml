@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Отец и сын совершили революцию в микроскопииАндрей <Node id="51"/>Климов<Node id="57"/> в <Node id="60"/>1990-е годы<Node id="71"/> придумал, как можно исследовать живые клетки с помощью микроскопа, усилив его разрешение в 10–100 раз, а <Node id="177"/>его<Node id="180"/> сын в <Node id="187"/>2004 году<Node id="196"/> понял, как на этом заработать.
+ИТЭБ РАН
+Современные электронные микроскопы высокого разрешения, применяемые для биологических исследований, облучают объект пучком электронов высокой энергии, который был бы смертелен для живой ткани.
+ 
+«Перед исследованием ученые замораживают объект, обрабатывают химикатами и фиксируют в эпоксидной смоле. После такой подготовки объект больше похож на мумию. Флуоресцентная наноскопия – метод микроскопии, который позволит ученым исследовать живые клетки с разрешением в 10–100 раз выше, чем с использованием других методов оптической микроскопии», – говорит 24-летний Дмитрий Климов<Node id="814"/>,<Node id="815"/> генеральный директор ООО «Стереоник».
+ 
+Разработчиком проекта является отец Дмитрия – Андрей Климов, научный сотрудник ИТЭБ РАН, кандидат биологических наук. Изобретенный им наноскоп был запатентован в России в <Node id="1027"/>2005 году<Node id="1036"/>, а в <Node id="1042"/>2006 году<Node id="1051"/> журнал Science признал разработку аналогичного метода одним из 10 важнейших достижений в науке.
+Хороший потенциал
+Проект находится на завершающей стадии НИОКР. Поданы заявки на патенты в США, Японии, Европейском Патентном Ведомстве, Индии и Китае. Необходимая сумма инвестиций – <Node id="1331"/>около $4 млн.<Node id="1344"/> Применение технологии Дмитрий Климов видит в медицине. Устройство можно использовать для исследования молекулярных структур в клетках. По <Node id="1483"/>его<Node id="1486"/> оценкам, рынок подобных приборов составляет от <Node id="1534"/>$50<Node id="1537"/> до <Node id="1541"/>$200 млн<Node id="1549"/> в <Node id="1552"/>год<Node id="1555"/>. У рынка хороший потенциал роста: уже <Node id="1594"/>через 10 лет<Node id="1606"/> его объем может достигать <Node id="1633"/>$2 млрд<Node id="1640"/> в <Node id="1643"/>год<Node id="1646"/>.
+Дмитрий Климов<Node id="1662"/>,<Node id="1663"/> генеральный директор ООО <Node id="1689"/>«Стереоник»http://www.dpgazeta.ru/article/135638Институт<Node id="1745"/> Теоретической и Экспериментальной Биофизики <Node id="1790"/>РАНhttp://web.iteb.ru/МОЛЕКУЛЫ<Node id="1820"/> И КЛЕТКИ: СТЕРЕОПОРТРЕТ В ЦВЕТЕ
+Российские ученые придумали и запатентовали уникальный прибор – флуоресцентный наноскоп. С его помощью увидеть стереоизображение клетки или крупной молекулы, помеченной специальным флуоресцентным маркером, можно будет с разрешением не хуже 20 нм.
+<Node id="2100"/>http://www.informnauka.ru/…-7_143_r.htmРазработка<Node id="2149"/> цветного флуоресцентного трехмерного микроскопа с разрешением <Node id="2212"/>20нмhttp://www.inno.ru/…t24097.shtmlОчень<Node id="2253"/> интересный метод визуализации биологических нанообъектов. Нужно изучать его, а затем, возможно, и использовать для проведения соответствующих исследований. Надеюсь, что это даст в руки исследователей мощный инструмент для изучения живых нанообъектов…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="187" EndNode="196">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1027" EndNode="1036">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="814" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="177" EndNode="180">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2212" EndNode="2253">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1541" EndNode="1549">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="187" EndNode="196">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="1662" EndNode="1663">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1689" EndNode="1745">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1552" EndNode="1555">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="51" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Климов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2100" EndNode="2149">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1042" EndNode="1051">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="1534" EndNode="1537">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="1331" EndNode="1344">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="60" EndNode="71">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="1027" EndNode="1036">
+</Annotation>
+<Annotation Id="23" Type="сотрудники" StartNode="1662" EndNode="1663">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="1483" EndNode="1486">
+</Annotation>
+<Annotation Id="25" Type="сотрудники" StartNode="814" EndNode="815">
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="1042" EndNode="1051">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="1643" EndNode="1646">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="1594" EndNode="1606">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Деньги" StartNode="1633" EndNode="1640">
+</Annotation>
+<Annotation Id="30" Type="Url" StartNode="1790" EndNode="1820">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

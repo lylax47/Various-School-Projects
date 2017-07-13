@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Внутренние полости <Node id="20"/>углеродных <Node id="31"/>нанотрубок<Node id="41"/> могут служить вместилищем для различных кластеров и молекул, в том числе для <Node id="119"/>фуллеренов<Node id="129"/> [1]. В работе [2] методами силовой и <Node id="167"/>просвечивающей электронной микроскопии<Node id="205"/> изучены “стручки” из металлофуллеренов Dy@C82 в одностенных <Node id="266"/>нанотрубках<Node id="277"/>. Они были изготовлены путем соответствующей термообработки и последующего осаждения на подложку SiO2/Si (см. рис.).
+
+Расстояние между центрами соседних <Node id="430"/>фуллеренов<Node id="440"/> составило (1.05 ± 0.05) нм. Авторам [2] удалось с атомным разрешением построить “карту” сил, действующих на иглу микроскопа со стороны “стручка”, и таким образом определить упругие характеристики отдельных <Node id="647"/>фуллеренов<Node id="657"/>. Поскольку теория предсказывает, что заключенные в <Node id="709"/>нанотрубку<Node id="719"/> молекулы могут перемещаться вдоль ее оси практически без трения [3], то на следующем этапе было бы интересно попытаться “подвигать” <Node id="852"/>фуллерены<Node id="861"/> все той же иглой.
+ 1. B.W.Smith et al., Nature 396, 323 (1998) 2. M.Ashino et al., Nature Nanotechnol. 3, 337 (2008) 3. H.Su et al., Nanotechnology 17, 5691 (2006) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="430" EndNode="440">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="709" EndNode="719">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="647" EndNode="657">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="20" EndNode="41">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="266" EndNode="277">
+</Annotation>
+<Annotation Id="5" Type="Просвечивающая+электронная+микроскопия" StartNode="167" EndNode="205">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="31" EndNode="41">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="852" EndNode="861">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="119" EndNode="129">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

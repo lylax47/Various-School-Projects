@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  МГУ им.М.В. Ломоносова нанокристаллические оксиды металлов , пленочные структуры, <Node id="84"/>сенсор<Node id="90"/>, топохимические реакции   <Node id="117"/>наноматериалы<Node id="130"/> Неорганическая химия   Исследование легирующего влияния и каталитической активности металлов Исследование топохимических реакций Методические разработки в области термического анализа Направленный синтез неорганических материалов для создания химических и <Node id="387"/>физических <Node id="398"/>сенсоров<Node id="406"/> на основе сложных оксидов, фосфатов и ванадатов Синтез и исследование пленочных структур Синтез и исследование сложных фосфатов и ванадатов Синтез нанокристаллических оксидов металлов Создание активного элемента <Node id="619"/>сенсора<Node id="626"/> на влажность Химический анализ методом атомно-флуоресцентной спектрометрии с индуктивно-связанной плазмой                             Гаськов Александp <Node id="779"/>Михайлович<Node id="789"/>, заведующий лабораторией, профессор, доктор наук 
+В лаборатории работают следующие группы:  
+ синтез и исследование материалов для газовых <Node id="929"/>сенсоров<Node id="937"/> сенсорные материалы на основе сложных фосфатов и ванадатов термоаналитические исследования синтез и исследование сложных оксидов с перовскитоподобной структурой    Дериватографы OD-102, OD-103, Q-дериватограф Калориметр DSC -7 Perkin Elmer, ДСМ - 2М Оже-электронный микроанализатор JAMP-10, Jeol Спектрометр AFS-2000, BAIRD Спектрофотометр SPECORD UVVIS Спектрофотометр <Node id="1308"/>СФ<Node id="1310"/>-26 Спектрофотометры UR-20, PE 457 Термогравиметрическая установка TGA-7 Perkin Elmer <Node id="1396"/>Фурье<Node id="1401"/>-спектрометр PE FTIR 1600      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1396" EndNode="1401">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="619" EndNode="626">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="117" EndNode="130">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1308" EndNode="1310">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">СФ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="929" EndNode="937">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="84" EndNode="90">
+</Annotation>
+<Annotation Id="7" Type="Физический+сенсор" StartNode="387" EndNode="406">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="779" EndNode="789">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Михайлович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="398" EndNode="406">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

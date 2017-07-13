@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Японии смогли существенно улучшить устойчивость магниевых сплавов к коррозии, используя <Node id="99"/>многослойные <Node id="112"/>нанотрубки<Node id="122"/> в их составе. Также удалось улучшить механические характеристики сплавов.
+
+Как говорят ученые, новые композиты могут составлять альтернативу алюминию и техническому пластику, который используется во многих промышленных и бытовых продуктах.
+
+Магниевые сплавы обычно используются в автомобилестроении, электронике, и спортивных товарах из-за их легкости. Однако после изготовления деталь необходимо покрывать антикоррозионным составом.
+
+Как показала работа ученого Моринобу Эндо (Morinobu Endo) из Университета Шиншу в Нагано (Shinshu University), этого можно избежать, если первоначально армировать сплав <Node id="727"/>5%<Node id="729"/> количеством углеродных <Node id="753"/>многослойных <Node id="766"/>нанотрубок<Node id="776"/>. При этом они должны быть короткими и не запутанными.
+
+Как показали исследования, кроме высокой коррозионной стойкости, эластичность сплава улучшается <Node id="928"/>почти на 11%<Node id="940"/>.
+
+Ученые уверены в том, что эффект коррозионной стойкости достигается благодаря формированию стабильных оксидных пленок вдоль <Node id="1067"/>нанотрубок<Node id="1077"/>.
+
+<Node id="1080"/>Новый композит, по словам <Node id="1106"/>Эндо<Node id="1110"/>, – отличный кандидат для использования в автомобильной промышленности<Node id="1180"/>. Благодаря нанотехнологиям теперь ученые могут существенно управлять свойствами материалов – добавил <Node id="1282"/>он<Node id="1284"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1067" EndNode="1077">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1080" EndNode="1180">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1282" EndNode="1284">
+</Annotation>
+<Annotation Id="5" Type="Многослойная+нанотрубка" StartNode="753" EndNode="776">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1080" EndNode="1180">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1106" EndNode="1110">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Эндо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Многослойная+нанотрубка" StartNode="99" EndNode="122">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="112" EndNode="122">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="727" EndNode="729">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="928" EndNode="940">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="766" EndNode="776">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

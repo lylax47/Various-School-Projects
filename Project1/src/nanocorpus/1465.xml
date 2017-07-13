@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>19 марта 2008 года<Node id="19"/> Национальная ассоциация наноиндустрии проводит в Москве первый из запланированных на <Node id="105"/>2008 год<Node id="113"/> бесплатный семинар на тему «Использование нанотехнологий при утилизации широкого спектра промышленных и бытовых отходов». Приглашаем заинтересованные организации и специалистов принять участие. 
+ 
+Пресс-служба ЗАО "Концерн "Наноиндустрия" </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="105" EndNode="113">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="105" EndNode="113">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

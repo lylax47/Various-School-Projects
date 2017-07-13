@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Компания Cambridge NanoTech, основанная в <Node id="43"/>2003 г.<Node id="50"/>, отмечает необычный юбилей – поставку в Индию для Tata Institute of Fundamental Research (TIFR) 100 (сотового) экземпляра своей установки осаждения атомных слоев ALD (Atomic Layer Deposition).
+
+К слову, свою первую установку Cambridge NanoTech также в свое время поставила в Индию. Установка предназначена для создания наноэлектронных приборов, в частности, для осаждения диэлектриков в нанопроволочных транзисторах, а также для покрытия мезопористых структур.
+Tata Institute of Fundamental Research был учрежден в <Node id="566"/>1945 г.<Node id="573"/> В <Node id="576"/>настоящее время<Node id="591"/> в его штате 400 ученых, работающих в области математики, естественных наук, компьютерной науки и технологии.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="576" EndNode="591">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="566" EndNode="573">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="43" EndNode="50">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

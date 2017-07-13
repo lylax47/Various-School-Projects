@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Спрос на полупроводниковые чипы (особенно на запоминающие устройства) значительно вырос и продолжает расти в связи с интересом потребителей к мобильным устройствам разного типа. Компании расширяют свое производство. Совсем недавно стало известно о крупных инвестициях компании Intel в строительство новых и обновление существующих фабрик.
+
+И вот Toshiba Corp. совместно с калифорнийской Sandisk Corp. для производства запоминающих устройств типа NAND-флэш будет строить новую полупроводниковую фабрику в Kitakami, где уже существует фабрика по выпуску логических схем [1]. Это будет уже пятая полупроводнмковая фабрика Toshiba в Японии.
+
+Инвестиции в строительство составят <Node id="675"/>6,6 млрд. долл.<Node id="690"/>, и часть стоимости нового оборудования внесет Sandisk. Дуэт Toshiba-Sandisk сообщили о совместной разработке 16 Гб NAND с топологическим размером 56 нм, к массовому производству которого компании приступят с <Node id="899"/>марта<Node id="904"/> <Node id="905"/>месяца<Node id="911"/> с.г. В планах – к <Node id="930"/>сентябрю 2008<Node id="943"/> перевести разработку на 43-нм технологию.
+
+Хотя на сегодня самым большим производителем NAND является компания Samsung, Toshiba надеется завоевать желтую майку лидера. Недавно Toshiba запустила производство на своей фабрике (Fab 4) в Yokkaichi и ожидает достичь полного объема выпуска до 80 тысяч 300-мм пластин в <Node id="1258"/>месяц<Node id="1263"/> к <Node id="1266"/>концу 2009 года<Node id="1281"/>. Общий же объем производства всех фабрик на сегодня – 410 тысяч 300-мм пластин ежемесячно, и этот объем с запуском пятой фабрики в Kitakami увеличится до 600 тысяч и больше.
+
+К слову, ниже в таблице представлены полупроводниковые компании, капиталовложения которых в <Node id="1549"/>2008 г.<Node id="1556"/> составят <Node id="1566"/>1 млрд. долл.<Node id="1579"/> и выше (по оценкам консалтинговой компании Gartner):
+
+Россия в лице компании Ситроникс планирует начать в <Node id="1686"/>2008 г.<Node id="1693"/> строительство в Зеленограде новой полупроводниковой фабрики для запуска 45-нм технологии на 300 мм кремниевых пластинах [2]. Известно, что российское <Node id="1844"/>правительство<Node id="1857"/> инвестирует в строительство <Node id="1886"/>2,3 млрд. долл.<Node id="1901"/> (о вложениях Ситроникс не сообщалось).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1686" EndNode="1693">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="1549" EndNode="1556">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1566" EndNode="1579">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="675" EndNode="690">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="899" EndNode="904">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="930" EndNode="943">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябрю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="1844" EndNode="1857">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1886" EndNode="1901">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1258" EndNode="1263">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="905" EndNode="911">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1266" EndNode="1281">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

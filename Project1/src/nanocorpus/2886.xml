@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Группа специалистов из Национального университета Сингапура (National University of Singapore) под руководством доктора <Node id="120"/>Сьюзен Ляо<Node id="130"/> (Susan Liao) создали искусственную кость из неорганического материала с <Node id="203"/>наноструктурой<Node id="217"/>, имитирующей структуру естественных костей, сообщает NanotechWeb.Dr. Susan Liao
+Подробное описание разработки содержится в оригинальной статье исследователей в журнале Bioinspiration &amp; Biomimetics.
+
+Кости человека состоят в основном из <Node id="454"/>нанокристаллов<Node id="468"/> гидроксиапатита (<Node id="486"/>65%<Node id="489"/>) и коллагена (<Node id="504"/>25%<Node id="507"/>). В дентине гидроксиапатита больше — <Node id="545"/>70%<Node id="548"/>, а коллагена меньше – <Node id="571"/>20%<Node id="574"/>. Именно эти естественные вещества сингапурские учёные взяли и для создания искусственных костей. При этом они разработали метод выработки <Node id="713"/>нанокомпозитов<Node id="727"/> с различными концентрациями коллагена и входящих в состав кости карбонатов.
+
+Оказалось, что меняя концентрации карбонатов и коллагена, можно создавать <Node id="879"/>нанокомпозиты<Node id="892"/> различные по морфологии, в частности, с разными по размеру и форме <Node id="960"/>нанокристаллами<Node id="975"/>. Материал разной структуры имеет и разные механические свойства.
+
+В процессе образования искусственной кости формируются игловидные <Node id="1108"/>нанокристаллы<Node id="1121"/>, постепенно укорачивающиеся и составляющие сферические частицы. Авторы отмечают, что это похоже на формирование настоящей кости в ходе развития человека. В дальнейшем исследователи намерены ещё больше приблизиться к структуре естественной кости, подобрав более близкие к естественным условия кристаллизации материала.
+
+Разработка сингапурских исследователей найдёт применение прежде всего, конечно, в протезировании. Кроме того, возможно использование нового <Node id="1581"/>наноматериала<Node id="1594"/> и в технике, например, для опорных конструкций роботов.
+<Node id="1651"/>http://www.polit.ru/…nobones.htmlhttp://www.iop.org/…3190/2/3/001Отличная<Node id="1724"/> работа! Которая, я полагаю, найдёт широкое применение на практике: протезы, поломки и другие дефекты костей скелета – всё это требует применения каких-то материалов, близких по характеристикам натуральной кости. Кроме того, можно придумать ещё массу других практических применений этого материала.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокристалл" StartNode="1108" EndNode="1121">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="1581" EndNode="1594">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="486" EndNode="489">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="545" EndNode="548">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="571" EndNode="574">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанокомпозит" StartNode="713" EndNode="727">
+</Annotation>
+<Annotation Id="9" Type="Нанокомпозит" StartNode="879" EndNode="892">
+</Annotation>
+<Annotation Id="10" Type="Нанокристалл" StartNode="960" EndNode="975">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="504" EndNode="507">
+</Annotation>
+<Annotation Id="12" Type="Нанокристалл" StartNode="454" EndNode="468">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="120" EndNode="130">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сьюзен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1651" EndNode="1724">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноструктура" StartNode="203" EndNode="217">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

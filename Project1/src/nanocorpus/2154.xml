@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Прогноз развития нанотехнологий в будущем, а также отрасли человеческой деятельности, которые будут при этом затронуты 
+Эта статья рассчитана на тех, кто только что познакомился с миром нанотехнологий и хочет узнать, что же будет дальше – каких чудес и разочарований ждать через 20, 30, <Node id="288"/>40 лет<Node id="294"/>? На подобные вопросы всегда трудно ответить точно, поэтому мы предлагаем прогноз того, что могут дать нанотехнологии <Node id="412"/>через несколько десятилетий<Node id="439"/>, при сохранении современных темпов развития.
+ 
+В <Node id="489"/>2003 году<Node id="498"/> командой сайта Nanotechnology News Network была предпринята попытка составить широкий прогноз развития нанотехнологий <Node id="617"/>с 2003 года<Node id="628"/> по 2050. Большинство того, что мы предвидели, сбылось, и, даже удивило темпами развития. Это касается наноэлектроники, спинтроники, квантовых вычислений, материаловедения и других отраслей. Были и ошибочные прогнозы, связанные с развитием нанобиологии и наномедицины, но, как показывает динамика развития этих отраслей, в недалеком будущем они также могут обогнать наши прогнозы.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="617" EndNode="628">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="489" EndNode="498">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="288" EndNode="294">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="288" EndNode="294">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="412" EndNode="439">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="489" EndNode="498">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

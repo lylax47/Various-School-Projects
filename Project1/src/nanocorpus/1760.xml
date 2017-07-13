@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>7 октября<Node id="10"/> в Стокгольме объявили лауреатов Нобелевской премии <Node id="62"/>2008 года<Node id="71"/> по физике. Она присуждена американцу японского происхождения Йоитиру Намбу (Yoichiro Nambu) за открытие спонтанного нарушения электрослабой симметрии и двум ученым из Японии Макото Кобаяси (Makoto Kobayashi) и <Node id="282"/>Тосихидэ Маскава<Node id="298"/> (Toshihide Maskawa) за объяснение причин этого явления. Об этом сообщается на официальном сайте премии
+Йоитиру Намбу, получивший половину премии (<Node id="445"/>около 500 тысяч евро<Node id="465"/>), родился в <Node id="478"/>1921 году<Node id="487"/>. В <Node id="491"/>настоящее время<Node id="506"/> Намбу работает в Институте Энрико Ферми в Чикаго.
+Макото Кобаяси и Тосихидэ Маскава получат по четверти премии (<Node id="619"/>около 250 тысяч евро<Node id="639"/>). Сотрудник лаборатории КЕК в японском городе Цукуба Макото Кобаяси родился в <Node id="718"/>1944 году<Node id="727"/>, а Тосихиде Маскава из Института теоретической физики Киотского университета родился в 1940.
+
+По словам профессора Майкла Турнера (Michael Turner) из Университета Чикаго, Йоитиру Намбу первым понял, что при увеличении сил взаимодействия между частицами, они переходят скачкообразно в новое состояние, из безмассового в массовое. А вот Кобаяси и Маскава, по <Node id="1085"/>его<Node id="1088"/> словам, изучали вопросы, связанные со свойствами частиц и античастиц.
+
+«<Node id="1161"/>У нас есть три поколения кварков, легкие кварки, немножко тяжелее и совсем тяжелые. Кобаяси и Маскава показали, что в случае трех поколений кварков естественным образом и даже с необходимостью возникают различия между свойствами частиц и античастиц. Это имеет фундаментальное значение, так как появился механизм нарушения симметрии<Node id="1492"/>», – сказал д-р Турнер<Node id="1514"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается_с" StartNode="1161" EndNode="1492">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="1161" EndNode="1492">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="491" EndNode="506">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="62" EndNode="71">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="445" EndNode="465">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="1" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="718" EndNode="727">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="62" EndNode="71">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="1161" EndNode="1492">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="478" EndNode="487">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="478" EndNode="487">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="1085" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="темы" StartNode="1161" EndNode="1492">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="цитаты" StartNode="1161" EndNode="1492">
+</Annotation>
+<Annotation Id="28" Type="автор" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="31" Type="упоминает" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Год" StartNode="718" EndNode="727">
+</Annotation>
+<Annotation Id="32" Type="упоминает" StartNode="1161" EndNode="1514">
+</Annotation>
+<Annotation Id="33" Type="Персона" StartNode="282" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тосихидэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Деньги" StartNode="619" EndNode="639">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

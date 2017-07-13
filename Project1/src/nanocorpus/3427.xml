@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Недавно на E-NEWS писали о выступлении министра финансов Украины Николая Азарова:
+Основой экономической политики Украины является стратегия преодоления бедности на пути иновационно – инвестиционного развития страны. Об этом в ходе встречи с послом США в Украине Уильямом Миллером заявил первый вице-премьер, министр финансов Украины Николай Азаров, сообщает пресс-служба Министра.
+
+<Node id="382"/>По словам Николая Азарова, <Node id="409"/>для выполнения этих задач Украина должна обеспечить прозрачность государственного управления и снизить уровень коррупции<Node id="529"/>.
+
+По мнению вице-премьера для снижения коррупции необходимо сделать следующее: укрепить институты гражданского общества в Украине, модернизировать законодательство и судебную систему, способствовать развитию независимой прессы. «<Node id="759"/>У Украины есть отличный потенциал для строительства постиндустриальной экономики, в частности в сфере аэрокосмических, нанотехнологий<Node id="892"/>» – отметил Азаров<Node id="910"/>.
+
+Вице-премьер убежден, что реализация такой стратегии возможна при условии консолидации патриотических политических политических сил.
+<Node id="1046"/>http://e-news.com.ua/…/154565.htmlУчитывая<Node id="1088"/> то, что нанопрограмма Украины упирается в нанофинансирование тем же министерством финансов, результатов в виде построения «постиндустриального общества» придется ждать еще не скоро…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="759" EndNode="910">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="382" EndNode="529">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="409" EndNode="529">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="759" EndNode="892">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="382" EndNode="910">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="759" EndNode="892">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1046" EndNode="1088">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="382" EndNode="910">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="759" EndNode="910">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="382" EndNode="910">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="409" EndNode="529">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="382" EndNode="910">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="382" EndNode="529">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

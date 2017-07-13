@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Подшипник в алмазахНанотехнологии помогают уменьшить износ основных деталей подвижного составаКак сообщил «Гудку» сотрудник Объединённого института машиностроения Национальной академии наук (НАН) Беларуси Владимир Жорник<Node id="220"/>,<Node id="221"/> перспективные методы создания новых материалов и композитов с повышенными эксплуатационными свойствами основаны на использовании современных <Node id="363"/>наноматериалов<Node id="377"/>.
+
+Важнейшее направление исследований белорусских учёных – уменьшение износа подшипников, устанавливаемых в узлах различных машин и механизмов, в том числе и на подвижном составе железнодорожного транспорта. Проведённые в Объединённом институте машиностроения исследования показали, что если в используемый в подшипниках скольжения баббит, содержащий олово, сурьму и медь, добавить мельчайшие <Node id="770"/>ультрадисперсные алмазы<Node id="793"/>, то трение в контактирующих поверхностях значительно снизится.
+
+По словам сотрудника НАН Беларуси, частицы добавляемого в сплав <Node id="922"/>наноматериала<Node id="935"/> имеют округлую форму без кристаллической огранки. Их размер равен всего 4 – 6 нм, но при этом они обладают высокой поверхностной активностью. В результате на сфере идеально круглых подшипников дополнительно образуется оптимальное покрытие с мелкой зернистой структурой.
+В процессе изнашивания баббита формируются мельчайшие осколки кристаллов меди, олова и сурьмы, которые оказывают полирующее действие на контактирующие поверхности, не вызывая их интенсивного абразивного изнашивания. То есть <Node id="1430"/>углеродный <Node id="1441"/>наноматериал<Node id="1453"/> меняет структуру сплава подшипников, повышает их технические характеристики, что положительно сказывается на работе узлов трения различных машин и механизмов.
+
+Например, установка усовершенствованных подшипников на железнодорожный подвижной состав снизит износ осей колёсных пар. Благодаря этому можно будет увеличить межремонтный пробег вагонов и локомотивов.
+<Node id="1815"/>http://www.pulscen.ru/news/118797Объединенный<Node id="1860"/> институт машиностроения НАН Беларусиhttp://<Node id="1904"/>www.oim.by/Хорошие<Node id="1922"/> исследования проводят наши белорусские коллеги. Это ж какой экономии можно достичь за счёт широкого применения этого изобретения! И, по-моему, делом чести наших специалистов будет реализация, широкое практическое применение этих разработок. Кстати, а как насчёт <Node id="2185"/>графенов<Node id="2193"/>? Не будет ли более эффективным их использование в подобных же целях?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1441" EndNode="1453">
+</Annotation>
+<Annotation Id="1" Type="Углеродный+наноматериал" StartNode="1430" EndNode="1453">
+</Annotation>
+<Annotation Id="2" Type="Ультрадисперсный+алмаз" StartNode="770" EndNode="793">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="220" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">сотрудник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1815" EndNode="1860">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="2185" EndNode="2193">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="220" EndNode="221">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="922" EndNode="935">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1904" EndNode="1922">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="363" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

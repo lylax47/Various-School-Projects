@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Визит станет первой международной поездкой Анатолия Чубайса в качестве генерального директора Российской корпорации нанотехнологий (РОСНАНО).
+
+Поездка носит ознакомительный характер и нацелена в первую очередь на установление контактов с политическими и деловыми кругами Тайваня и Республики Корея, а также на создание условий для возможного практического взаимодействия между странами в области нанотехнологий.
+
+<Node id="414"/>На сегодняшний день<Node id="433"/> Тайвань и Ю. Корея входят в число лидеров в области нанотехнологий. Поэтому одной из основных целей визита делегации в эти страны является изучение тайваньского и южнокорейского опыта управления инновационными механизмами, которые способствуют привлечению частного капитала в инновационную сферу. Со своей стороны корпорация ставит перед собой задачу познакомить коллег с той деятельностью, которую ведет, а также с тем беспрецедентным объемом льгот и поддержек, который она предоставляет частным инвесторам, в том числе и иностранным.
+
+<Node id="971"/>С 30 сентября по 5 октября<Node id="997"/> делегация РОСНАНО будет находиться на Тайване. В ходе визита запланирован ряд встреч с официальными кругами страны, в том числе с представителями <Node id="1144"/>Министерства экономики<Node id="1166"/> и Министерства иностранных дел Тайваня. <Node id="1207"/>2 октября<Node id="1216"/> пройдет Круглый стол по науке в Государственном комитете по науке Тайваня с участием специалистов в области нанотехнологий. Делегация РОСНАНО также посетит открытую лабораторию и Центр нанотехнологий в Институте исследований промышленных технологий Тайваня.
+
+<Node id="1476"/>6 октября<Node id="1485"/> делегация РОСНАНО прибудет в г. Сеул, где посетит Ассоциацию нанотехнологических исследований и Корейский институт науки и технологий (KIST). В рамках визита в Республику Корея состоится встреча с представителями Корейского фонда международного сотрудничества, науки и техники, где будут обсуждаться возможные направления взаимовыгодного сотрудничества, которое в первую очередь могло бы заключаться в реализации совместных проектов. Заключительным мероприятием визита делегации РОСНАНО в Республику Корея станет встреча Анатолия Чубайса с Министром образования, науки и технологий Республики Корея.
+
+<Node id="2087"/>29 сентября<Node id="2098"/> был подписан Меморандум о взаимопонимании о <Node id="2143"/>сотрудничестве<Node id="2157"/> между РОСНАНО и <Node id="2174"/>Министерством образования<Node id="2199"/>, науки и технологий Республики Корея.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="971" EndNode="997">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1207" EndNode="1216">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1476" EndNode="1485">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="2174" EndNode="2199">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерством образования</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="2087" EndNode="2098">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="414" EndNode="433">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Партнеры_Клиенты" StartNode="2143" EndNode="2157">
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="1144" EndNode="1166">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства экономики</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

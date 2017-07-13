@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Новочебоксарске в <Node id="20"/>2008 году<Node id="29"/> создадут технопаркЧебоксары. <Node id="59"/>25 декабря<Node id="69"/> – <Node id="72"/>Новочебоксарск (Чувашия)<Node id="96"/> получил грант республиканского <Node id="128"/>правительства<Node id="141"/> в размере <Node id="152"/>5 млн рублей<Node id="164"/> на создание производственно-инновационного бизнес-инкубатора – технопарка «Интеграл» в <Node id="252"/>2008 году<Node id="261"/>.
+
+Как сообщает пресс-служба министерства промышленности и энергетики республики, Новочебоксарск стал победителем второго республиканского конкурса на получение гранта для создания и развития инновационной инфраструктуры в муниципальном образовании, который проходил в <Node id="530"/>текущем году<Node id="542"/>.
+ 
+«Создаваемый технопарк будет специализироваться на транспортном строительстве, химических технологиях, нанотехнологиях», – говорится в сообщении.
+ 
+Реализация проекта будет способствовать развитию в муниципальном образовании малого инновационного бизнеса, созданию новых рабочих мест, увеличению налоговых поступлений в бюджет, отметили в пресс-службе.
+<Node id="899"/>http://www.interfax.ru/…lty/342.html?…Городу<Node id="943"/> Новочебоксарску присужден грант в размере <Node id="986"/>5 млн.рублей<Node id="998"/> на создание технопарка «Интеграл»В <Node id="1034"/>2007 году<Node id="1043"/> Министерством промышленности и энергетики Чувашской Республики организован и проведен второй республиканский конкурс на получение гранта для создания и развития инновационной инфраструктуры в муниципальном образовании.
+
+Конкурсной комиссией были рассмотрены две заявки – от администрации г.Чебоксары по созданию бизнес-технопарка на базе ОАО «Текстильмаш» и администрации г.Новочебоксарск по созданию Технопарка «Интеграл» на базе республиканского имущества, арендуемого Волжским филиалом МАДИ.
+
+Решением конкурсной комиссии от <Node id="1572"/>4 сентября 2007 года<Node id="1592"/> победителем была признана заявка г.Новочебоксарск с предоставлением ему гранта в размере <Node id="1682"/>5 млн.рублей<Node id="1694"/>. <Node id="1696"/>Грант<Node id="1701"/> носит целевой характер. Полученные средства будут направлены на реализацию проекта по созданию в г.Новочебоксарск объекта инновационной инфраструктуры в форме производственно-инновационного бизнес-инкубатора.
+
+Создаваемый технопарк будет специализироваться на транспортном строительстве, химических технологиях, нанотехнологиях. Реализация проекта будет способствовать развитию в муниципальном образовании малого инновационного бизнеса, созданию новых рабочих мест, увеличению налоговых поступлений в бюджет.
+Соответствующее распоряжение Кабинета Министров Чувашской Республики о присуждении гранта в размере <Node id="2311"/>5 млн. рублей<Node id="2324"/> г. Новочебоксарск на реализацию проекта по созданию технопарка «Интеграл» в форме производственно-инновационного бизнес-инкубатора подписано <Node id="2466"/>13 декабря 2007 <Node id="2482"/>года<Node id="2486"/>.http://www.cheboksary.ru<Node id="2511"/>/?…Ну, как говорится, «процесс пошёл»… Если уж в такой глубинке, как приволжский Новочебоксарск создают производственно-инновационный бизнес-инкубатор – технопарк, то значит, идея овладела массами. А с этим уже не поспоришь… Удачи новым предпринимателям!…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="расположение" StartNode="72" EndNode="96">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="2311" EndNode="2324">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="252" EndNode="261">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="252" EndNode="261">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1572" EndNode="1592">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2482" EndNode="2511">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="128" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="530" EndNode="542">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="20" EndNode="29">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1034" EndNode="1043">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="59" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="2466" EndNode="2486">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1696" EndNode="1701">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Грант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="20" EndNode="29">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="152" EndNode="164">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1682" EndNode="1694">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="986" EndNode="998">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1034" EndNode="1043">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="899" EndNode="943">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

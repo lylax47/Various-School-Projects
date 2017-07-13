@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 1-ая Всероссийская конференция по многомасштабному моделированию процессов и структур в нанотехнологиях (ММПСН 2008) пройдет <Node id="126"/>12-14 марта 2008 г.<Node id="145"/> на базе МИФИ. 
+
+Программа конференции
+ 
+  Методология многомасштабного моделирования и прототипирования процессов и структур в нанотехнологиях  Алгоритмы и программы для моделирования в нанотехнологиях  Компьютерное моделирование <Node id="376"/>наноструктур<Node id="388"/>, <Node id="390"/>наноматериалов<Node id="404"/> и устройств с заданными свойствами Компьютерное моделирование физико-химических процессов в нанотехнологиях.  Важные даты 
+Тезисы докладов: <Node id="545"/>20 декабря 2007 г.<Node id="563"/> 
+Информация о принятии тезисов: <Node id="596"/>20 января 2008 г.<Node id="613"/> 
+Полные тексты докладов для опубликования: <Node id="657"/>15 мая 2008 г.<Node id="671"/> 
+Правила оформления тезисов 
+Файл примера оформления тезисов можно загрузить здесь. 
+Анкета участника 
+Заполненную анкету участника и тезисы доклада необходимо выслать по адресу <Node id="850"/>tishchenko@mephi.ru<Node id="869"/> до <Node id="873"/>20-го декабря 2007 г.<Node id="894"/> 
+<Node id="896"/>Бланк<Node id="901"/> анкеты можно загрузить здесь. 
+ 
+Более подробная информация о конференции на сайте <Node id="985"/>www.mmpsn.mephi.ru.<Node id="1004"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="657" EndNode="671">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="985" EndNode="1004">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="126" EndNode="145">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="376" EndNode="388">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="545" EndNode="563">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="390" EndNode="404">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="896" EndNode="901">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бланк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="850" EndNode="869">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="596" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="873" EndNode="894">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>23 апреля 2008 года<Node id="20"/> в 15:00 в рамках выставки "A-TESTex-2008" состоится семинар "Аспекты применения технологий наноиндустрии в химической промышленности".
+ 
+Организаторы: НП РОСХИМРЕАКТИВ, ЗАО "МВК", при содействии Концерна "Наноиндустрия". Место проведения: МВЦ Крокус-Экспо, Павильон 2, Конференц-зал G.
+ 
+Подробная информация на www.arhr.ru, <Node id="346"/>http://analyticaexpo.ru.<Node id="370"/>
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="346" EndNode="370">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> EuroNanoForum 2007 -  главный европейский конгресс, посвященный трансферу нанотехнологий из области исследований в область промышленного производства. Он соединяет вместе выдающихся ученых и исследователей и менеджеров промышленных компаний. 
+ 
+EuroNanoForum 2007 пройдет в <Node id="275"/>Конгресс<Node id="283"/> Центре в Дюссельдорфе <Node id="306"/>с 19 по 21 июня<Node id="321"/> при поддержке Министерства по науке и образованию Германии и Еврокомиссии. 
+ 
+Программа конференции включает в себя доклады лидеров наноиндустрии со всего мира посвященных текущему состоянию нанотехнологии, возможным и уже реализованным приложениям, а также перспективам развития отрасли на <Node id="613"/>ближайшие годы<Node id="627"/>. Параллельно с конференцией пройдет выставка достижений наноиндустрии представленная ключевыми игроками европейского рынка нанотехнологий. 
+ 
+Регистрация участников продлится до <Node id="806"/>25 мая<Node id="812"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="306" EndNode="321">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="613" EndNode="627">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="806" EndNode="812">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="275" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Конгресс</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

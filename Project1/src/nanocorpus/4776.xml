@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Делегация российских ученых приняла участие в подписании соглашения о намерениях по созданию консорциума в области нанотехнологий между Россией и Казахстаном. В состав делегации вошли – ректор Томского государственного университета Георгий Майер<Node id="245"/>,<Node id="246"/> проректоры ТГУ Григорий Дунаевский и Владимир Демкин, начальник научного управления Иван Ивонин, а также группа российских ученых, куда также вошел лауреат Нобелевской премии <Node id="422"/>Жорес<Node id="427"/> <Node id="428"/>АлферовЖорес Алферов<Node id="448"/>
+Подписанный документ ляжет в основу межправительственного соглашения о совместных работах двух государств в области нанотехнологий.
+
+В рамках визита делегация ТГУ посетила Парк информационных технологий особой экономической зоны технико-внедренческого типа «Alatau IT–City», расположенной под <Node id="742"/>Алма–Атой<Node id="751"/>. Решение о создании ОЭЗ «Алатау» (одной из пяти в Казахстане) принято в <Node id="824"/>2003 году<Node id="833"/>, и сегодня здесь уже принимают первых резидентов.
+
+Поиском перспективных научных разработок для их дальнейшего внедрения на площадях технико-внедренческой зоны «Алатау» занимается АО «Национальный инновационный фонд».
+
+В результате переговоров томичи подписали с руководством фонда соглашение о взаимодействии и открытии филиала фонда в Томске. Это позволит, в частности, томским ученым претендовать на внедрение своих разработок на площадях казахской ТВЗ «Алатау».
+
+Еще одним результатом визита стал договор между Томским госуниверситетом и Казахским национальным университетом им. Аль-Фараби.
+
+Документ станет отправной точкой в упрочении научно–образовательных связей между двумя вузами. В первую очередь, речь идет об организации доступа казахских ученых к мощностям суперкомпьютера ТГУ.
+<Node id="1626"/>http://www.fedpress.ru/…d_63350.htmlЧем<Node id="1665"/> больше разноообразие тем и форм сотрудничества, тем лучше. «Пусть расцветают сто цветов», как говорили древние мудрецы. Всё-таки лучше, когда сотрудничают учёные и исследователи, университеты разных стран, чем, к примеру, преступники и бандиты, наркоторговцы и другие «лихие люди»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="824" EndNode="833">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1626" EndNode="1665">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="422" EndNode="427">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="428" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="742" EndNode="751">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алма-Ата</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="работает" StartNode="245" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="824" EndNode="833">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="245" EndNode="246">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Эстонские ученые открыли новый вид наноматериалаФизики и химики из Тартуского университета совместно с учеными из Эстонского центра по развитию нанотехнологий в ходе эксперимента, который вначале считался неудачным, открыли материал с совершенно новой структурой.
+Неизвестный осадок, возникший в колбе в ходе обычного эксперимента, оказался потенциальным сырьем для производства крайне стойких материалов В результате открытого метода образуются самоорганизующиеся, закрученные в трубочку металлооксидные структуры необычайно малой толщины — около половины длины волны света, – сообщает пресс-служба Тартусского университета.
+  При дальнейшей обработке из этого вещества можно получить крайне стойкие материалы с хорошими электро- и теплоизоляционными свойствами, которые можно использовать в химической промышленности, сенсорных приборах, имплантантах, приборах для измерений в микрометровых диапазонах или в качестве композитного материала в лезвиях или в космических шаттлах. 
+По словам руководителя лаборатории <Node id="1015"/>наноструктур<Node id="1027"/> при ТУ Антса Лыхмуса, открытие предоставляет ученым совершенно новые возможности в технологии производства материалов. Кроме того, метод прекрасно подходит для промышленного производства.
+ 
+«<Node id="1219"/>Дальнейшей задачей ученых является добиться того, чтобы трубочки были одного размера, что необходимо для развития новых точных технологий», – говорит Антс Лыхмус<Node id="1380"/>, руководитель лаборатории изучения <Node id="1416"/>наноструктур<Node id="1428"/> при университете.
+  На данный момент группа ученых, в которую входят докторанты Тартуского университета Мартин Ярвекюльг и Вальтер Реэдо, доцент Уно Мяэорг, Антс Лыхмус и директор Эстонского центра по развитию нанотехнологий Ильмар Кинк, ожидают международного патента на свой новый метод изготовления материала. <Node id="1742"/>http://rus.postimees.ee/…ka/36899.phpТартусский<Node id="1789"/> университетhttp://<Node id="1808"/>www.ut.ee/…et_lang_id=2Эстонский<Node id="1840"/> центр развития <Node id="1856"/>нанотехнологийhttp://encc.com/index.phphttp://encc.com/about.php?…Это<Node id="1925"/> что, какая-то новая разновидность <Node id="1960"/>нанотрубок<Node id="1970"/>? Я-то, к сожалению, «некопенгаген»… ;-) Надеюсь, ребята изучили работы своих предшественников и точно знают, что до сих пор «такого» ещё никто не открыл? Наши поздравления и пожелания новых достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="1015" EndNode="1027">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1960" EndNode="1970">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1856" EndNode="1925">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1219" EndNode="1380">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="1416" EndNode="1428">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1808" EndNode="1840">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1219" EndNode="1380">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1742" EndNode="1789">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

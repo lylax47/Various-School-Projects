@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+ 
+Глубокоуважаемые коллеги! 
+ 
+ 
+НАНОМЕТР приглашает к сотрудничеству информационные ресурсы, средства массовой информации, высокотехнологичные компании, ВУЗы и научно-исследовательские институты. 
+ 
+Политика сайта в использовании материалов состоит в следующем:
+   Мы используем открытые материалы   Мы переводим иностранные материалы   Мы пишем собственные оригинальные материалы   Мы ссылаемся в своих публикациях на оригинальный источник информации   Мы с благодарностью относимся к конструктивным предложениям и критике 
+   
+Мы не против перепечатки наших материалов на Вашем сайте или в печатном издании, озвучивания на радио или телевидении. Более того, мы будем рады, если Вы сочли наш материал интересным и достойным Вашего издания. 
+ 
+Единственным, но обязательным условием является наше требование к размещению ссылки на сайт Нанотехнологического сообщества "Нанометр". 
+ 
+Если вы размещаете наши материалы на сайте, то на странице с материалом должна присутствовать гиперссылка на www.nanometer.ru, а лучше непосредственно на страницу с оригиналом материала. 
+ 
+Ссылка может выглядеть так www.nanometer.ru, так Нанометр, или так Нанотехнологическое сообщество "Нанометр" 
+ 
+ 
+Код ссылки:
+ &lt;a <Node id="1206"/>href="http://www.nanometer.ru/"<Node id="1237"/> target="_blank"&gt;Нанометр&lt;/a&gt;
+ 
+ 
+ или картинки: 
+- размером 100 на 100 пикселей
+ 
+&lt;!-- <Node id="1325"/>nanometer.ru<Node id="1337"/> 100x100 --&gt; 
+&lt;a href="<Node id="1360"/>http://www.nanometer.ru"<Node id="1384"/> target="_blank"&gt; 
+&lt;img <Node id="1408"/>src="http://www.nanometer.ru/nm100.gif"<Node id="1447"/> alt="Нанотехнологическое сообщество Нанометр: все что вы хотели знать о нанотехнологиях" width="100" 
+height="100" border="0"&gt; 
+&lt;/a&gt; 
+ &lt;!-- <Node id="1588"/>nanometer.ru<Node id="1600"/> 100x100 --&gt; 
+ 
+Выглядеть картинка будет так: 
+ 
+ 
+ 
+ 
+ 
+- размером 88 на 31 пиксель
+ 
+ 
+ 
+&lt;!-- <Node id="1696"/>nanometer.ru<Node id="1708"/> 88x31 --&gt; 
+&lt;a href="<Node id="1729"/>http://www.nanometer.ru"<Node id="1753"/> target="_blank"&gt; 
+&lt;img <Node id="1777"/>src="http://www.nanometer.ru/nanometer.gif"<Node id="1820"/> alt="Нанотехнологическое сообщество Нанометр: все что вы хотели знать о нанотехнологиях" width="88" 
+height="31" border="0"&gt;&lt;/a&gt; 
+ &lt;!-- <Node id="1957"/>nanometer.ru<Node id="1969"/> 88x31 --&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+Для "бумажной" прессы формат ссылки должен включать в себя название сайта и адрес в интернете - Нанотехнологическое сообщество "Нанометр" (<Node id="2131"/>www.nanometer.ru)<Node id="2148"/> 
+ 
+Если Вы решили озвучить наши публикации в эфире, то достаточным будет, если диктор произнесет фразу: "материал предоставлен Нанотехнологическим сообществом "Нанометр", адрес в интернете <Node id="2338"/>www.nanometer.ru<Node id="2354"/> " 
+ 
+Наш коллектив будет признателен Вам за присланные оттиски или записи эфира. 
+ 
+Для связи используйте адрес - <Node id="2469"/>press@nanometer.ru<Node id="2487"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="2469" EndNode="2487">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1360" EndNode="1384">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2131" EndNode="2148">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1408" EndNode="1447">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1957" EndNode="1969">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1696" EndNode="1708">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="2338" EndNode="2354">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1729" EndNode="1753">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1325" EndNode="1337">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1206" EndNode="1237">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1777" EndNode="1820">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1588" EndNode="1600">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

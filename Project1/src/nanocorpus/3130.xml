@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+"Наносообщество полнится слухами. Не успел Владимир Путин подписать распоряжение о включении в состав Правительственной комиссии по высоким технологиям и инновациям Анатолия Чубайса, как все опять заговорили о возможном назначении последнего руководителем ГК “Роснанотех”. Госкорпорации скоро исполнится <Node id="306"/>год<Node id="309"/>, а она все никак толком не “раскачается”. Нынешнее руководство неспешно перемещается по разным странам для “обмена опытом”: то в Китай наведается, то в Испанию, то, как сейчас, в США… С Чубайсом во главе дело наверняка двигалось бы побыстрее. Решительности харизматичному ликвидатору РАО “ЕЭС России” уж точно не занимать. Но одно дело - ликвидировать, и совсем другое - созидать. Поучиться этому можно хотя бы у ученых - героев очередного выпуска нашего “Наноскопа”", - газета "Поиск".
+ В номере:   синхротронные и нейтронные исследования наносистем,   "Молекула помнит!",   "Генералы минералов",   Шестая международная конференция по биоинформатике регуляции и структуры генома,   Общественный совет по формированию системы эффективного образования в области наносистем, <Node id="1083"/>наноматериалов<Node id="1097"/> и нанотехнологий,   “Современные достижения бионаноскопии”,   нанотоксикология   Спецвыпуск подготовили: <Node id="1203"/>Светлана КРЫМОВА<Node id="1219"/>, Наталия БУЛГАКОВА, <Node id="1240"/>Ольга КОЛЕСОВА<Node id="1254"/>, Андрей ПОНИЗОВКИН, Станислав ФИОЛЕТОВ, <Node id="1295"/>Фирюза ЯНЧИЛИНА<Node id="1310"/>           </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1240" EndNode="1254">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ольга</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1203" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Светлана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="306" EndNode="309">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1083" EndNode="1097">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1295" EndNode="1310">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фирюза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

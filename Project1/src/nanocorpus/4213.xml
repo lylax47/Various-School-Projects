@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+C <Node id="4"/>1 по 6 июня 2008 года<Node id="25"/> в Рио <Node id="32"/>де Жанейро<Node id="42"/> (Бразилия) состоится 9 Международная конференция по <Node id="95"/>наноструктурированным материалам<Node id="127"/>.
+ Тематики: 
+<Node id="141"/>Наноструктурированные материалы<Node id="172"/>
+ 
+Нанофотоника
+ 
+Нанотоксикология
+ 
+Нанометрология
+ 
+<Node id="226"/>Нанокомпозиты<Node id="239"/>
+ 
+Наномагнетизм
+ 
+Комерциализация нанотехнологий и др.
+ Крайний срок подачи тезисов - <Node id="326"/>26 марта<Node id="334"/> 
+Сайт конференции: <Node id="354"/>http://www.cbpf.br/~nano2008/index1.php<Node id="393"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="4" EndNode="25">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанокомпозит" StartNode="226" EndNode="239">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="95" EndNode="127">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="32" EndNode="42">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="354" EndNode="393">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="141" EndNode="172">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="326" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

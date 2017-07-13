@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Рождающиеся из пустоты виртуальные пары элементарных частиц могут серьезно помешать работе прецизионных устройств, видимых только в микроскоп.
+
+По мере развития физики постепенно выяснялось, что многие технологически красивые идеи неосуществимы просто потому, что противоречат законам природы. Из-за этого некоторые законы, обнаруженные в результате многолетних попыток что-то изобрести, остались навсегда тесно связанными с «запретным» устройством. Например, первое и второе начала термодинамики могут быть сформулированы как запрет вечных двигателей первого и второго рода, а теории относительности <Node id="602"/>Эйнштейна<Node id="611"/> постулируют невозможность разогнать покоящееся тело до скорости света. Весьма вероятно, что с подобного рода запретом могут столкнуться физики и инженеры, работающие в столь популярной сейчас сфере нанотехнологий.
+
+Основания для таких подозрений дают некоторые неожиданные проявления известного физического эффекта, открытого в <Node id="940"/>1948 году<Node id="949"/> физиком-теоретиком Хендриком Казимиром (Hendrik Casimir, 1909–2000) — выпускником лейденского университета и учеником Пауля Эренфеста (Paul Ehrenfest, 1880–1933). Вот вкратце его биография. Защитив в <Node id="1150"/>1931 году<Node id="1159"/> докторскую диссертацию по теоретической физике, <Node id="1208"/>Казимир<Node id="1215"/> переехал в Цюрих, где <Node id="1238"/>в течение нескольких лет<Node id="1262"/> работал ассистентом Вольфганга Паули (Wolfgang Ernst Pauli, 1900–1958) — одного из главных творцов квантовой механики. В <Node id="1384"/>1938 году<Node id="1393"/> <Node id="1394"/>Казимир<Node id="1401"/> вернулся в Лейден на должность профессора физики своей alma mater, а в <Node id="1473"/>1946 году<Node id="1482"/> его пригласили в качестве одного из директоров Исследовательских лабораторий фирмы Philips. Именно там, проводя вместе с Дирком Полдером (Dirk Polder) исследования <Node id="1647"/>коллоидных растворов<Node id="1667"/>, Гендрик Казимир вывел «на кончике пера» эффект, активно изучаемый в <Node id="1737"/>настоящее время<Node id="1752"/> физиками и инженерами, работающими в сфере нанотехнологий.
+
+Состоит предсказанный <Node id="1835"/>Казимиром<Node id="1844"/> эффект в следующем. В отличие от абсолютной пустоты, подразумеваемой ньютоновской механикой, вакуум квантовой физики принципиально не может быть совсем пустым — это запрещает известный принцип неопределенности <Node id="2055"/>Гейзенберга<Node id="2066"/>. Из-за того, что энергия и время связаны соотношением неопределенности, закон сохранения энергии не только может, но и должен нарушаться — но только на очень короткие промежутки времени. Такие процессы были уже хорошо известны в <Node id="2296"/>40-е годы прошлого века<Node id="2319"/>: например, электрон-позитронные или протон-антипротонные пары. Родившись из пустоты, частица и античастица должны через очень короткий промежуток времени снова аннигилировать, так что никакой физический эксперимент их присутствия обнаружить не позволяет (их поэтому называют виртуальными). Но учесть их присутствие в теоретических расчетах оказалось не так-то уж и сложно. <Node id="2693"/>Казимир<Node id="2700"/> этим и занялся.
+
+Если в вакууме расположены две параллельных друг другу незаряженные электропроводящие пластины, то каждая из них будет действовать на заряженную виртуальную частицу, как зеркало. А частицы, оказавшиеся между двух пластин, и вовсе будут вести себя как в «потенциальной яме». Энергия даже конечного объема вакуума — что с пластинами, что без них — может быть рассчитана и представлена в виде расходящегося математического ряда, то есть, формально говоря, эти энергии оказываются равными бесконечности. Однако их разность вполне конечная и даже по-своему разумная величина. Из нее, например, можно вывести силу, действующую на пластины — её-то <Node id="3359"/>Казимир<Node id="3366"/> и вычислил. Она оказалась пропорциональной площади каждой из пластин (предполагается, что они одинаковые) и обратно пропорциональной четвертой степени расстояния между ними.
+
+Из численных оценок стало ясно, что физические приборы способны обнаружить этот слабый эффект, только если расстояние между пластинами не больше 2 мкм. Конечно, получить такую же силу можно и при расстоянии в 4 мкм, но тогда пластины должны быть в 16 раз большей площади. Сам <Node id="3818"/>Казимир<Node id="3825"/> считал, что эффект, напротив, должен проявиться при очень малых расстояниях<Node id="3901"/>. Например, в <Node id="3915"/>коллоидном растворе<Node id="3934"/> частицы находятся очень близко друг к другу. Но все-таки никакого притяжения между ними заметить не удалось.
+
+В случае двух идеально плоских сверхпроводящих параллельных друг другу зеркал коэффициент пропорциональности зависит только от двух фундаментальных физических констант — постоянной <Node id="4226"/>Планка<Node id="4232"/> и скорости света. Кроме них, площади и расстояния между зеркалами в формулу не входят ни масса, ни температура, ни теплоемкость. Если же рассматривается взаимодействие металлической сферы и плоскости, то зависимость будет уже несколько иной и сила притяжения становится обратно пропорциональной кубу расстояния между сферой и плоскостью. Если две плоские параллельные металлические пластины имеют площадь в 1 см2 и находятся на расстоянии в один микрон друг от друга, то связывающая их сила <Node id="4724"/>Казимира<Node id="4732"/> будет составлять 10 Н. А на расстояниях порядка 10 нм, что в сотни раз превышает характерный размер атома, давление, вызванное ею, сравнимо с атмосферным.
+
+В течение продолжительного времени эффект <Node id="4931"/>Казимира<Node id="4939"/> считался чуть ли не артефактом теории. Однако по прошествию всего <Node id="5006"/>десяти лет<Node id="5016"/> его существование было подтверждено опытным путем. Сотрудник того же самого центра Маркус Спарней (Marcus Spaarnay) при исследовании тех же самых <Node id="5163"/>коллоидных растворов<Node id="5183"/> заинтересовался эффектом, названным по имени его предшественника, и в конце концов измерил силу между двумя плоскими зеркалами с помощью крутильных весов. О том, что речь шла именно об эффекте <Node id="5377"/>Казимира<Node id="5385"/>, говорила характерная зависимость силы от расстояния между зеркалами.
+
+Но настоящая экспериментальная проверка теории <Node id="5504"/>Казимира<Node id="5512"/> состоялась только в <Node id="5533"/>1997 году<Node id="5542"/>, когда минуло уже <Node id="5561"/>четыре десятилетия<Node id="5579"/> после выхода в свет <Node id="5600"/>его<Node id="5603"/> оригинальной статьи. На этот раз эффект был убедительно продемонстрирован Стивом Ламоро (Steve Lamoreaux), работавшим тогда в Лос-Аламосской национальной лаборатории. Ламоро измерил силу взаимодействия 4-сантиметровой сферической линзы с пластиной из кварца (размером в 2,5 см по диагонали), при том, что и линза, и пластина были покрыты слоями меди и золота. Измеренная в экспериментах сила притяжения линзы и пластины соответствовала расчетной с точностью <Node id="6062"/>5%<Node id="6064"/>.
+
+За это время был достигнут определенный прогресс и в теории: в рамках общей теории ван-дер-ваальсовых сил, советский физик-теоретик академик Евгений Михайлович Лифшиц (1915–1985) вычислил силу <Node id="6260"/>Казимира<Node id="6268"/> для случая пластин, обладающих электрическим сопротивлением. Прежде считалось, что сопротивление настолько мало, что им можно пренебречь.
+
+Прошло ещё <Node id="6419"/>десять лет<Node id="6429"/>. И выяснилось, что сила <Node id="6454"/>Казимира<Node id="6462"/>, оказавшаяся слишком слабой и в микромире, и тем более не заметная в макроявлениях, становится существенным фактором в промежуточной области — когда речь заходит о комплексах из десятков атомов. А именно на масштабах от 10 до 300 нм эффект <Node id="6703"/>Казимира<Node id="6711"/> приводит к возникновению так называемого статического трения (в англоязычной литературе используется термин «stiction», производный от static friction), препятствующего движению отдельных компонентов в микроэлектромеханических устройствах. В большинстве таких устройств важнейшей составной частью является микроактюатор — устройство, преобразующее подводимую к нему энергию в управляемое движение. В медицине, к примеру, микроактюаторы используются в микрохирургии, а в перспективе они должны стать неотъемлемыми частями неврологических протезов, обеспечивая возбуждение мускульных тканей.
+
+На уровне микроэлектромеханических устройств проявление эффекта <Node id="7367"/>Казимира<Node id="7375"/> можно сравнить с действием универсального клея, заставляющего слипаться их отдельные элементы. Проблема усложняется тем, что на этих масштабах проявляют себя и вполне классические эффекты, связанные с поверхностным натяжением и ван-дер-ваальсовыми силами. Эффект <Node id="7639"/>Казимира<Node id="7647"/> оказывается весьма существенным фактором, маскирующим возможные отклонения от закона всемирного тяготения в ходе экспериментов по его проверке на субмиллиметровых расстояниях. Уменьшить влияние эффекта экспериментаторы пытаются в первую очередь путем тщательного подбора материалов, из которых изготавливаются установки.
+
+До недавнего времени эффект <Node id="7998"/>Казимира<Node id="8006"/> считался фундаментальным эффектом квантовой механики, а потому возникновение на нанометровых масштабах силы притяжения казалось таким же неотвратимым, пользуясь высказыванием Роберта Джаффе (Robert Jaffe) из Массачусетского технологического института на страницах журнала New Scientist, «как смерть или налоги». По мнению Федерико Капассо (Federico Capasso), профессора прикладной физики из Гарвардского университета, именно эффект <Node id="8439"/>Казимира<Node id="8447"/> следует считать основной причиной, по которой микроэлектромеханические устройства не удалось миниатюризировать до той же степени, что и компьютерные чипы.
+
+В контексте этих высказываний понятен интерес, с которым ученые воспринимают сейчас любые сообщения об успехах в «борьбе» с эффектом <Node id="8737"/>Казимира<Node id="8745"/>. В частности, совсем недавно в ряде экспериментов удалось уменьшить силу <Node id="8819"/>Казимира<Node id="8827"/>; появились даже предположения, что эффект обратим и эту силу принципиально возможно превратить из притягивающей в отталкивающую. В качестве существенного при этом рассматривается то обстоятельство, что сила <Node id="9035"/>Казимира<Node id="9043"/> чувствительна к изменению формы взаимодействующих тел.
+
+Так, в статье, опубликованной в журнале Physical Review Letters, приводятся результаты, полученные группой физиков под руководством Хо Буньчаня (Ho Bun Chan) из университета Флориды в Гейнсвилле (University of Florida). В своих экспериментах они модифицировали методику изучения эффекта <Node id="9387"/>Казимира<Node id="9395"/>, при которой проводилось измерение силы взаимодействия покрытых слоем золота шарика и пластины. Руководимые Хо Буньчанем физики заменили пластину с золотым покрытием на кремниевую, а на её поверхность методом <Node id="9605"/>травления<Node id="9614"/> нанесли систему бороздок. В результате сила притяжения между пластиной и шариком (сила <Node id="9702"/>Казимира<Node id="9710"/>) уменьшилась, при том что коэффициентом уменьшения можно было управлять посредством изменения схемы расположения бороздок на поверхности кремниевой пластины.
+
+Некоторые физики убеждены, что сила <Node id="9906"/>Казимира<Node id="9914"/> существенно уменьшиться, и, возможно, изменит свой знак, если погрузить взаимодействующие элементы в жидкость. Эту идею разделяет, в частности, уже упоминавшийся выше Федерико Капассо и его аспирант Джереми Манди (Jeremy Munday). В <Node id="10147"/>2007 году<Node id="10156"/> Капассо и Манди измерили силу <Node id="10187"/>Казимира<Node id="10195"/>, возникающую между шариком и пластинкой с золотым покрытыми, когда и они были помещены в смесь этанола и йодида натрия. В этих опытах численное значение силы <Node id="10354"/>Казимира<Node id="10362"/> оказалось в пять раз меньше, чем для тех же взаимодействующих элементов, но в условиях вакуума.
+
+Как нам представляется, заслуживает внимания тот факт, что многие важные результаты в противодействии эффекту <Node id="10570"/>Казимира<Node id="10578"/> получены физиками-экспериментаторами. В нанотехнологиях на данном этапе развития эксперимент, судя по всему, действительно обгоняет теорию. Одно из основных достижений теории — доказательство того, что во всех рассчитанных на данный момент времени конфигурациях сила <Node id="10846"/>Казимира<Node id="10854"/> действительно является силой притяжения. New Scientist приводит весьма категоричное заявление Роберта Джаффа: «Мы установили, что сила <Node id="10990"/>Казимира<Node id="10998"/> всегда является силой притяжения». Тем не менее эксперты продолжают обсуждать возможность «обращения» эффекта. Так, согласно предположениям Диего Далвита (Diego Dalvit) и <Node id="11170"/>его<Node id="11173"/> коллег из Лос-Аламосской национальной лаборатории в Нью-Мексико, силу <Node id="11244"/>Казимира<Node id="11252"/> можно превратить в отталкивающую, если использовать так называемые <Node id="11320"/>метаматериалы<Node id="11333"/> — вещества, создаваемые в условиях лаборатории и обладающие невозможными в природных условиях характеристиками.
+
+Так или иначе, но пока научное сообщество не видит неоспоримых доказательств того, что эффект <Node id="11541"/>Казимира<Node id="11549"/> следует считать законом природы. А следовательно, мы можем надеяться, что с этим эффектом физикам и инженерам удастся когда-нибудь «справиться». И что силу <Node id="11706"/>Казимира<Node id="11714"/> удастся преодолеть…
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="6419" EndNode="6429">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2055" EndNode="2066">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гейзенберг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="8819" EndNode="8827">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="5006" EndNode="5016">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="940" EndNode="949">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="9387" EndNode="9395">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="10990" EndNode="10998">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="9702" EndNode="9710">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Травление" StartNode="9605" EndNode="9614">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="10570" EndNode="10578">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="10354" EndNode="10362">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="5561" EndNode="5579">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="11706" EndNode="11714">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="10147" EndNode="10156">
+</Annotation>
+<Annotation Id="23" Type="Коллоид" StartNode="1647" EndNode="1667">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="940" EndNode="949">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="10187" EndNode="10195">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="5377" EndNode="5385">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="11170" EndNode="11173">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="10846" EndNode="10854">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Метаматериал" StartNode="11320" EndNode="11333">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="1835" EndNode="1844">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="Персона" StartNode="4931" EndNode="4939">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Период_времени" StartNode="1150" EndNode="1159">
+</Annotation>
+<Annotation Id="36" Type="высказывания_заявления" StartNode="3818" EndNode="3901">
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="7367" EndNode="7375">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="Период_времени" StartNode="5533" EndNode="5542">
+</Annotation>
+<Annotation Id="46" Type="Персона" StartNode="5600" EndNode="5603">
+</Annotation>
+<Annotation Id="47" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="Персона" StartNode="6260" EndNode="6268">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Персона" StartNode="11541" EndNode="11549">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Персона" StartNode="6454" EndNode="6462">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="49" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="48" Type="Персона" StartNode="2693" EndNode="2700">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="54" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="53" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="52" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="59" Type="Персона" StartNode="8737" EndNode="8745">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Период_времени" StartNode="1737" EndNode="1752">
+</Annotation>
+<Annotation Id="57" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="56" Type="Период_времени" StartNode="1473" EndNode="1482">
+</Annotation>
+<Annotation Id="63" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="62" Type="Персона" StartNode="6703" EndNode="6711">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="Персона" StartNode="1394" EndNode="1401">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Период_времени" StartNode="2296" EndNode="2319">
+</Annotation>
+<Annotation Id="68" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="69" Type="автор" StartNode="3818" EndNode="3901">
+</Annotation>
+<Annotation Id="70" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="71" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="64" Type="Год" StartNode="1473" EndNode="1482">
+</Annotation>
+<Annotation Id="65" Type="Персона" StartNode="4724" EndNode="4732">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="Персона" StartNode="8439" EndNode="8447">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="76" Type="Персона" StartNode="7639" EndNode="7647">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="78" Type="Персона" StartNode="3359" EndNode="3366">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="72" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="73" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="74" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="75" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="85" Type="Коллоид" StartNode="5163" EndNode="5183">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="87" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="86" Type="Персона" StartNode="5504" EndNode="5512">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Период_времени" StartNode="1384" EndNode="1393">
+</Annotation>
+<Annotation Id="80" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="83" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="82" Type="Персона" StartNode="1208" EndNode="1215">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="Персона" StartNode="7998" EndNode="8006">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="Персона" StartNode="602" EndNode="611">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Эйнштейн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="94" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="89" Type="Персона" StartNode="4226" EndNode="4232">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Планк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="91" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="90" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="102" Type="Год" StartNode="1150" EndNode="1159">
+</Annotation>
+<Annotation Id="103" Type="Персона" StartNode="9906" EndNode="9914">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="101" Type="Персона" StartNode="9035" EndNode="9043">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="Персона" StartNode="3818" EndNode="3825">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Год" StartNode="5533" EndNode="5542">
+</Annotation>
+<Annotation Id="96" Type="Период_времени" StartNode="10147" EndNode="10156">
+</Annotation>
+<Annotation Id="97" Type="Год" StartNode="1384" EndNode="1393">
+</Annotation>
+<Annotation Id="110" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="111" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="108" Type="Персона" StartNode="11244" EndNode="11252">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="Процент" StartNode="6062" EndNode="6064">
+</Annotation>
+<Annotation Id="106" Type="Коллоид" StartNode="3915" EndNode="3934">
+</Annotation>
+<Annotation Id="107" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="104" Type="Период_времени" StartNode="1238" EndNode="1262">
+</Annotation>
+<Annotation Id="105" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

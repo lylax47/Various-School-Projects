@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Впервые в рамках VIII Международного форума «Высокие технологии <Node id="65"/>XXI века<Node id="73"/>», который состоится <Node id="94"/>23–26 апреля<Node id="106"/> <Node id="107"/>текущего года<Node id="120"/> в Центральном выставочном комплексе «Экспоцентр» на Красной Пресне, будет представлена коллективная экспозиция «Наноиндустрия России».
+
+Экспозиция организуется Московским комитетом по науке и технологиям <Node id="325"/>совместно<Node id="334"/> с Концерном «Наноиндустрия». Цель экспозиции – содействие повышению конкурентоспособности наукоемкой продукции на внутреннем и внешнем рынке, широкое внедрение инновационных технологий в сфере промышленности и социального сектора, привлечение инвестиций, содействие формированию и реализации государственных программ.
+
+Тематические разделы коллективной экспозиции – функциональные <Node id="716"/>наноматериалы<Node id="729"/>, наноинженерия и наноэлектроника, нанобиотехнологии, медицинское оборудование, лекарственные средства и технологии, конструкционные композитные материалы, специальные применения нанотехнологий, наносистемная техника, метрологическое оборудование. На площади более 120 кв.метров будут представлены ведущие научные и производственные организации Москвы и регионов России.
+
+Работа экспозиции будет сопровождаться деловой программой, в рамках которой <Node id="1177"/>25 апреля<Node id="1186"/> состоится семинар «<Node id="1206"/>Наноматериалы<Node id="1219"/> и нанотехнологии – будущее отечественной индустрии». Желающие выступить на семинаре с презентацией собственных проектов, могут обращаться в Концерн «Наноиндустрия».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1177" EndNode="1186">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="107" EndNode="120">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="1206" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="65" EndNode="73">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="716" EndNode="729">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="94" EndNode="106">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Партнеры_Клиенты" StartNode="325" EndNode="334">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

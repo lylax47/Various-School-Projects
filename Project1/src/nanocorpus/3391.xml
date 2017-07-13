@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Достижения в области <Node id="22"/>наноматериалов<Node id="36"/>, нанотехнологий позволяют существенно уменьшить вес и габариты ракетоносителей и той полезной нагрузки, которая будет выводиться в космос.
+
+Об этом в прямом эфире <Node id="200"/>«Русской службы новостей»<Node id="225"/> во вторник сообщил депутат Госдумы РФ Андрей Кокошин<Node id="278"/>.<Node id="279"/>
+
+«<Node id="282"/>Мы стоим перед задачей резкой активизации деятельности в космосе», – сказал Кокошин<Node id="365"/>. В частности, <Node id="380"/>он<Node id="382"/> отметил, что идет работа с учеными, конструкторами над тем, «чтобы сформулировать нашу программу развития космических аппаратов, в рамках общей программы космических исследований, которая бы обеспечила прорыв именно в уменьшении массы габаритных характеристик аппаратов с повышением их качества, надежности, их ресурса на основе нанотехнологий»<Node id="727"/>.
+
+Эксперт отметил, что применение нанотехнологий может привести к уменьшению массогабаритных характеристик космических аппаратов. «<Node id="859"/>И скажем, одна ракетоноситель вместо того, чтобы вводить 10 небольших спутников зондов, будет выводить 100, и создавать сразу целую мини-систему, которая бы обеспечила получение данных о космической погоде», – добавил Кокошин<Node id="1084"/>.
+
+Правда, как именно нанотехнологии помогут в облегчении веса космических аппаратов, депутат не сообщил.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="859" EndNode="1084">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="282" EndNode="365">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="278" EndNode="279">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="200" EndNode="225">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">«Русской службы новостей»</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="22" EndNode="36">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="278" EndNode="279">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="380" EndNode="727">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="380" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="859" EndNode="1084">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="282" EndNode="365">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="380" EndNode="727">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

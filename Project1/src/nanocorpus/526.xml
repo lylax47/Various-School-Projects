@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как известно, электроника космических кораблей и спутников подвергается постоянному воздействию ионизирующей радиации и высокоэнергетических космических лучей.
+
+Как следствие – изготовить ее довольно трудно, и стоит это недешево. Однако недавнее открытие, сделанное международной командой ученых, позволит существенно снизить стоимость «космической электроники», повысив ее защищенность от космических лучей.
+
+Нитрид галлия (GaN)  – многообещающий полупроводниковый <Node id="467"/>наноматериал<Node id="479"/> для электроники, так как полупроводниковые структуры на его основе устойчивы к ионизирующей радиации.
+
+Как установили ученые из Молдовы, России и США, нанотехнологически модифицированный нитрид галлия может похвастаться еще более высокой устойчивостью к ионизирующему излучению.
+
+Как сообщает Nanotechweb, Йон Тигиняну из Академии Наук Молдовы и <Node id="826"/>его<Node id="829"/> коллеги из Института Ядерных Исследований России обработали пластину GaN мощным ультрафиолетовым излучением в среде гидрооксида калия.
+
+В результате на поверхности образовалась матрица нанопирамидок, которая позволила GaN-<Node id="1052"/>наноструктуре<Node id="1065"/> выдерживать вдесятеро большую ионизирующую радиацию!
+
+Эксперименты ученые проводили с 85 и 130 -МэВ ионами на циклотроне в Лаборатории Ядерных Реакций в г. Дубны.
+
+Как полагает Йон и <Node id="1249"/>его<Node id="1252"/> коллеги, новый материал позволит делать различные электронные приборы для их использования в экстремальных условиях. Например, датчики и электронику спутников и приборы другой аэрокосмической техники.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1249" EndNode="1252">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="1052" EndNode="1065">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="467" EndNode="479">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="826" EndNode="829">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

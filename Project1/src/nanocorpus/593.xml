@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Указом президента России генеральным директором государственной корпорации нанотехнологий назначен Леонид Меламед, возглавляющий инвестиционно-финансовую корпорацию "Алемар". 
+ 
+Леонид Меламед окончил Новосибирский электротехнический институт по специальности "радиоинженер" и Московский институт повышения квалификации Минатома РФ. Кандидат экономических наук, защитил диссертацию в <Node id="385"/>1996 году<Node id="394"/>. 
+ 
+<Node id="399"/>С 1998 до 2000 год<Node id="417"/> был гендиректором концерна "Росэнергоатом", а <Node id="464"/>с января 2001 по июнь 2004 года<Node id="495"/> занимал должность первого зампредправления РАО "ЕЭС России". После ухода из энергохолдинга он сосредоточился на развитии собственного бизнеса - инвестиционно-финансовой корпорации "Алемар". 
+ 
+Председателем наблюдательного совета корпорации назначен министр образования Андрей Фурсенко. В наблюдательный совет корпорации вошли 15 человек, включая председателя совета (Фурсенко) и его исполнительного директора, которым является гендиректор (Меламед). Пять кандидатур в наблюдательный совет внес Президент страны. Это директор Института кристаллографии им. Шубникова РАН и директор Курчатовского института Михаил Ковальчук<Node id="1117"/>,<Node id="1118"/> замекретаря Совбеза РФ Владимир Назаров, первый вице-президент ОАК и гендиректор холдинга "Сухой" Михаил Погосян<Node id="1231"/>,<Node id="1232"/> замглавы Экспертного управления президента РФ Василий Попик и председатель правления РАО "ЕЭС России" Анатолий Чубайс<Node id="1350"/>.<Node id="1351"/> Еще пять кандидатур были внесены <Node id="1385"/>правительством<Node id="1399"/> и по два - Советом Федерации и Госдумой. В наблюдательный совет вошли также Герман Греф, Владимир Дмитриев, Андрей Кокошин, Дмитрий Мезенцев, Михаил Прохоров, Евгений Федоров, Виктор Христенко и Виктор Шудегов.   
+ 
+Эту информацию озвучил <Node id="1639"/>7 сентября<Node id="1649"/> на заседании правительственного совета по нанотехнологиям первый вице-премьер РФ Сергей Иванов. 
+ 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="1350" EndNode="1351">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="399" EndNode="417">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="1350" EndNode="1351">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="1117" EndNode="1118">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="1231" EndNode="1232">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="464" EndNode="495">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="1639" EndNode="1649">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="1385" EndNode="1399">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="385" EndNode="394">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="сотрудники" StartNode="1117" EndNode="1118">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="сотрудники" StartNode="1231" EndNode="1232">
+</Annotation>
+<Annotation Id="38" Type="Год" StartNode="385" EndNode="394">
+</Annotation>
+<Annotation Id="39" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="42" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="45" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

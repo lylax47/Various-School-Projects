@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Государственная корпорация «Российская корпорация нанотехнологий» проводит отбор исполнителя для оказания услуг по разработке концепции логотипа и руководства по использованию фирменного стиля (брендбука) Корпорации.
+
+Если вашей компании интересно сотрудничество с ГК «Роснанотех», ознакомьтесь, пожалуйста, с условиями проведения тендера и предоставьте документы в срок до <Node id="375"/>7 марта 2008 года<Node id="392"/> по адресу: 117420, г. Москва, ул. Наметкина, д. 12А.
+
+Настоящим обращаем внимание на тот факт, что настоящее сообщение не является безусловной офертой и не влечет на данном этапе юридических обязательств по заключению договора.
+
+Со стороны Заказчика ответственным сотрудником является:
+Жилин Денис Вячеславович – Руководитель направления по рекламе и специальным проектамТелефон: +7 (495) 542 4444Факс: +7 (495) 542 4434</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="375" EndNode="392">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

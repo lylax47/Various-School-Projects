@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Издательство  "Эльзевир" и ГК "Роснанотех" приглашают принять участие в научно-практическом семинаре "Нанотехнологии в России: состояние и зарубежный опыт". В семинаре примут участие приглашенные зарубежные и российские эксперты. 
+ 
+Семинар состоится <Node id="252"/>2 октября 2008<Node id="266"/> гогда (11.00-14.30) в Овальном зале Всероссийской государственной библиотеки иностранной литературы им. М.И.Рудомино (ул. Николоямская 6, Москва). 
+ 
+Для участия в семинаре необходимо пройти регистрацию до <Node id="473"/>1 октября 2008 г.<Node id="490"/> Форму регистрации, программу семинара, а также условия участия в нем можно найти на сайте издательства. 
+  
+По всем вопросам обращайтесь: 
+<Node id="630"/>Галина Якшонок<Node id="644"/>, 
+<Node id="647"/>g.yakshonak@elsevier.com<Node id="671"/> 
+тел. + 7 985 727 79 67 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="647" EndNode="671">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="630" EndNode="644">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Галина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="473" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="252" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

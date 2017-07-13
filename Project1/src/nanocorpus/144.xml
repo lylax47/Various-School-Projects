@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Европейская лаборатория теоретической спектроскопии (ETSF - European Theoretical Spectrosopy Facility) начала прием заявок на проведение совместных исследований структуры и свойств органических и неорганических веществ. Для этого ученым-экспериментаторам предлагается предварительно изложить вкратце проблему и обговорить пути решения на основании имеющихся экспериментальных данных , а затем подавать заявку по специальной форме. Переемник Nanoquanta, сегодня ETSF объединяет около 120 ученых из 10 научных центров, котрые проводят моделирование спектров различных веществ (от протеинов до полупроводников) согласно данным заявки. ETSF также проводит конференции и школы для молодых ученых. Так, <Node id="699"/>20-23 мая 2008 г.<Node id="716"/> в Модене, Италия, состоится 5 Nanoquanta-ETSF Young Reserchers Meeting. Крайний срок подачи заявок - <Node id="818"/>31 марта 2008 г.<Node id="834"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="818" EndNode="834">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="699" EndNode="716">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

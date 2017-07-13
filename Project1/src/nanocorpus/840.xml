@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Летняя стажировка для выпускников вузов в московском офисе Samsung Electronics с возможностью последующего трудоустройства  Samsung Electronics Co., Ltd. объявляет о начале кампании “Fresh Graduate Recruitment” 
+ 
+Цель кампании – прием выпускников ведущих вузов страны вначале на одномесячную стажировку, а затем на работу в Московский офис компании Самсунг Электроникс (Москва, Россия). Основные области деятельности – маркетинг, экономика, менеджмент, управление по продукту, финансы, право. 
+ Преимущества работы в компании Самсунг Электроникс:   Уникальный опыт работы по специальности в передовой транснациональной компании  Конкурентоспособная заработная плата во время стажировки и последующей работы  Бонусы по результатам работы в сочетании с хорошим социальным пакетом  Возможность проявить свои лидерские качества и профессиональные знания во время одномесячной стажировки   План кампании:    Прием резюме: до <Node id="922"/>8 мая 2008 года<Node id="937"/>   Интервью с кандидатами: 12~<Node id="967"/>29 мая 2008 года<Node id="983"/>   Стажировка: 1~<Node id="1000"/>29 августа 2008 года<Node id="1020"/>   Прием на работу (по результатам стажировки): <Node id="1068"/>1 сентября 2008 года<Node id="1088"/>   Требования к кандидатам:    Образование: высшее (бакалавр, специалист, магистр: диплом <Node id="1178"/>2008 года<Node id="1187"/>)   Специализация: экономика, маркетинг, менеджмент, финансы, право, а также математические и физико-технические специальности   Интерес к работе в сфере маркетинга, экономики, менеджмента, управления по продукту, финансов, права   Английский язык: выше среднего   Средний балл: выше 4.0 (из max 5.0)   Вакансии / Vacancy    Специалист по продажам   Специалист по работе с клиентами   Специалист по маркетингу   Специалист по маркетингу продукции   Специалист по исследованию рынка   Специалист по продукту   Специалист по логистике   Специалист по закупкам   Бухгалтер   Юрист   
+Для подачи заявки необходимо составить на АНГЛИЙСКОМ ЯЗЫКЕ развернутое резюме (личные данные, образование, опыт работы) и направить его по адресу до <Node id="1917"/>8 мая 2008 года<Node id="1932"/>: <Node id="1934"/>Fresh@samsung.ru<Node id="1950"/> с темой письма “Fresh Graduate Recruitment.” 
+ 
+Дополнительная информация: <Node id="2026"/>http://www.samsung.ru/<Node id="2048"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="967" EndNode="983">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1178" EndNode="1187">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="922" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1917" EndNode="1932">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="1178" EndNode="1187">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1068" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1000" EndNode="1020">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1934" EndNode="1950">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2026" EndNode="2048">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

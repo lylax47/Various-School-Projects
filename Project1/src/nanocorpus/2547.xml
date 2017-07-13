@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>«Поздняя <Node id="9"/>осень<Node id="14"/>. Грачи улетели,
+Лес обнажился, поля опустели...»
+
+АСМ изображение границы пленки ДНК. Подложка - кварцевое стекло.
+
+<Node id="131"/>AFM<Node id="134"/>, tapping mode (NanoScope V, Veeco), 26.03.2008</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="9" EndNode="14">
+</Annotation>
+<Annotation Id="1" Type="Атомно-силовая+микроскопия" StartNode="131" EndNode="134">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

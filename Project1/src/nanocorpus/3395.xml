@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Глава <Node id="8"/>Министерства образования и науки<Node id="40"/> ознакомил президента с подготовкой программы развития нанотехнологий <Node id="110"/>до 2015 года<Node id="122"/>.
+ 
+<Node id="126"/>На встрече с Владимиром Путиным Фурсенко отметил, что основной упор будет сделан на развитие фундаментальных исследований. Кроме того, достаточно серьезное внимание уделено развитию экономики, в основе которой будет заложена наноиндустрия.
+ 
+Андрей Фурсенко<Node id="383"/>, министр образования и науки Российской Федерации: «Мы считаем, что за счет развития инфраструктуры и новых подходов к окончанию действия программы, к <Node id="535"/>2015 году<Node id="544"/> объем продукции наноиндустрии составит около триллиона рублей».
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="8" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства образования и науки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="встречи_и_переговоры" StartNode="126" EndNode="383">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="535" EndNode="544">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="535" EndNode="544">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="110" EndNode="122">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

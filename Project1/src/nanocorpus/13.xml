@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Путин требует тщательно контролировать расходы госкорпорацийМОСКВА, 9 июн – Правительство РФ должно тщательно контролировать расходование средств госкорпораций и институтов развития, заявил в понедельник премьер-министр Владимир Путин на заседании президиума правительства.
+ «Конкретные проекты, связанные с использованием этих средств, правительство, ведомства обязаны отслеживать постоянно», – заявил он.
+  <Node id="409"/>Путин напомнил, что <Node id="429"/>в <Node id="431"/>2007 году<Node id="440"/> была проведена капитализация важнейших институтов развития – Банка развития, инвестиционного фонда, корпорации нанотехнологий, а также Фонда реформирования ЖКХ<Node id="600"/>.  
+«В общей сложности, речь идет о сумме порядка <Node id="650"/>640 миллиардов рублей<Node id="671"/>», – сказал премьер.
+ 
+<Node id="694"/>Путин также напомнил, что <Node id="720"/>в понедельник запланировано заседание наблюдательного совета Банка развития<Node id="795"/>.
+ 
+«Рассмотрим ряд инвестиционных программ», – сказал премьер, который одновременно является председателем наблюдательного совета этого банка.
+ <Node id="940"/>http://www.rian.ru/…9592609.htmlДа<Node id="974"/> уж… Деньги огромные, и нужен глаз да глаз за их рациональным расходованием… Ведь ещё со времён В.И.Ленина, который сказал крылатую фразу: «Учёт и контроль – прежде всего» – она остаётся весьма актуальной. Так что, как говорится, «пей-пей» (это касается недавнего успеха выставки ГК РНТ на Всемирном экономическом форуме в Санкт-Петербурге), «а дело разумей» – это уже касательно повседневной, рутинной деятельности госкорпораций… И это – правильно!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается_с" StartNode="429" EndNode="795">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="409" EndNode="600">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="431" EndNode="440">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="409" EndNode="600">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="694" EndNode="795">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="940" EndNode="974">
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="429" EndNode="600">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="720" EndNode="795">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="429" EndNode="600">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="694" EndNode="795">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="431" EndNode="440">
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="650" EndNode="671">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="720" EndNode="795">
+</Annotation>
+<Annotation Id="23" Type="темы" StartNode="429" EndNode="600">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="24" Type="упоминает" StartNode="409" EndNode="795">
+</Annotation>
+<Annotation Id="26" Type="темы" StartNode="429" EndNode="600">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

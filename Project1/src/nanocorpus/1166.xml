@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Беларусь заработает на экспорте разработок ученых 10 млн. долларовКак <Node id="70"/>1 августа<Node id="79"/> на пресс-конференции сообщил председатель президиума Национальной академии наук Беларуси (НАНБ) Михаил Мясникович, в <Node id="197"/>2008 году<Node id="206"/> экспортная выручка от продажи научных разработок белорусских ученых составит <Node id="284"/>10 млн. долларов<Node id="300"/>, пишет БелаПАН.
+<Node id="317"/>Михаил МясниковичРуководитель НАНБ подчеркнул, что научные публикации белорусских ученых пользуются большой популярностью за рубежом<Node id="449"/>.
+ 
+«Ежедневно в мире на статьи белорусских ученых ссылаются по семь—восемь раз», — сказал он.
+ 
+По словам М.Мясниковича, экспорт ноу-хау и инжиниринговых услуг, а также непосредственно продажи научных работ являются для Беларуси «новым направлением».
+ Наибольшей популярностью пользуются разработки белорусских ученых в сфере освоения космоса, в области водородной энергетики, нанотехнологий, малотоннажной химии, специальной металлургии. 
+Экспорт продукции белорусского Парка высоких технологий в <Node id="948"/>2008 году<Node id="957"/> составит <Node id="967"/>100 млн. долларов<Node id="984"/>.
+ 
+«Это фактически чистое сальдо. За первое полугодие ПВТ импортировал продукции на сумму <Node id="1075"/>699 тыс. долларов<Node id="1092"/>, экспортировал — на <Node id="1113"/>43,5 млн.долларов<Node id="1130"/>», — пояснил М.Мясникович.
+ <Node id="1158"/>http://naviny.by/…_113_294821/Белоруссия<Node id="1198"/> начала экспорт ноу-хау
+МИНСК, <Node id="1229"/>1 августа<Node id="1238"/>. Белоруссия намерена в <Node id="1262"/>текущем году<Node id="1274"/> экспортировать научных разработок на <Node id="1312"/>$10 млн.<Node id="1320"/> Об этом корреспонденту «Росбалта» сообщили в Национальной академии наук Белоруссии.
+НАН Белоруссии начала экспорт ноу-хау, инжиниринговых услуг, непосредственно продажи научных разработок.
+ 
+«Это первые робкие шаги, но в <Node id="1542"/>этом году<Node id="1551"/> они оцениваются порядка <Node id="1576"/>$10 млн<Node id="1583"/>», — отметили специалисты Национальной академии наук.
+ Известно, что у Белоруссии есть заказы в области космических технологий, разработки спутника для народного хозяйства, экспортируются разработки в области водородной энергетики, нанотехнологий, малотоннажной химии, специальной металлургии.
+ Определенные успехи наблюдаются у белорусского Парка высоких технологий. Эта структура в <Node id="1967"/>2008 году<Node id="1976"/> увеличит экспорт до <Node id="1997"/>$100 млн<Node id="2005"/>, а зарубежные компании регистрируют свои предприятия в качестве резидентов парка. Главными партнерами Белоруссии является американская компания General Electric, китайские и французские компании. <Node id="2202"/>http://www.rosbalt.biz/…/509623.htmlБелоруссия<Node id="2248"/> – небольшая страна, но живут там скромные, грамотные и работящие люди. Кроме того, в республике значительно развит научный потенциал. И вот теперь решено зарабатывать с его помощью, экспортируя результаты проводимых в НИИ Белоруссии научных исследований и разработок. Хорошее это дело. И хороший пример. Ведь результаты никому не нужных, третьесортных НИОКР никто не купит… Я думаю, что и многим нашим НИИ было бы неплохо выйти на международный рынок, чтобы: а) подтвердить свой высокий научный уровень и б) немного заработать на этом деле – для любимой страны и чуть-чуть – для себя…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1229" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="284" EndNode="300">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="967" EndNode="984">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="317" EndNode="449">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1542" EndNode="1551">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1576" EndNode="1583">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1997" EndNode="2005">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1262" EndNode="1274">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1113" EndNode="1130">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="197" EndNode="206">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="317" EndNode="449">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="1075" EndNode="1092">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1967" EndNode="1976">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="1967" EndNode="1976">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="948" EndNode="957">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="2202" EndNode="2248">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="948" EndNode="957">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="197" EndNode="206">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="1158" EndNode="1198">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="1312" EndNode="1320">
+</Annotation>
+<Annotation Id="22" Type="Дата" StartNode="70" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

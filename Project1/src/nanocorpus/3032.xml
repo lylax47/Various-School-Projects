@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Министры РФ и Кубы провели встречу в МосквеВозможность модернизации на Кубе устаревших советских инфокоммуникационных (ИКТ) объектов обсудил на встрече в Москве министр информационных технологий и связи России Леонид Рейман c министром информатики и связи Республики Куба Рамиро Вальдес Менендесом и министром <Node id="310"/>Правительства<Node id="323"/> <Node id="324"/>Республики<Node id="334"/> <Node id="335"/>Куба Рикардо Кабрисасом.
+Об этом сообщили ИТАР-ТАСС в пресс-службе Мининформсвязи РФ.
+ 
+«Стороны обсудили возможность создания и других проектов в сфере ИКТ, – отмечают в пресс-службе. – Проект Меморандума о сотрудничестве в области информационных технологий между профильными министерствами был одной из главных тем беседы».
+ 
+В соответствии с Меморандумом, который дорабатывается и готовится к подписанию, стороны, в частности, «планируют проводить работу, направленную на обмен опытом, знаниями и технологиями в области информатики и коммуникаций».
+ 
+«На встрече рассматривались вопросы развития различных форм торгово- экономического и научно-технического сотрудничества, в частности, создание "электронного <Node id="1047"/>правительства<Node id="1060"/>», информационная безопасность, системы охраны, теле- и радио коммуникации, электроника, автоматика, нанотехнологии, цифровое телевидение, дата-центры", – констатировали в Мининформсвязи РФ.
+ 
+Кубинская сторона заинтересована также в обучении и повышении квалификации своих специалистов в российских вузах связи и информатики. В связи с этим Леонид Рейман высказал готовность Московского технического университета связи и информатики «рассмотреть предложения обмена преподавателями и специалистами в области ИКТ».
+<Node id="1574"/>http://gzt.ru/…/115704.htmlНу<Node id="1603"/> вот, давно пора… Постепенно восстанавливаются былые научно-технические связи с бывшими союзниками по социалистическому лагерю: сегодня – с Венгрией, а завтра – с Кубой… И это – замечательно!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="334" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">министр</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="334" EndNode="335">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="310" EndNode="323">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1047" EndNode="1060">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="324" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">министр</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1574" EndNode="1603">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

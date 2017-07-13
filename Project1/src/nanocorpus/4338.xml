@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Харьковский политехнический институт магнетики, микроэлектроника, многослойные системы, оптоэлектроника   Микроэлектроника <Node id="125"/>Наноматериалы<Node id="138"/> Оптоэлектроника   Изучение структуры и оптических свойств многослойных систем функциональных материалов микро- и оптоэлектроники исследование неоднородных состояний и фазовых переходов в магнетиках со сложной анизотропией развитие методов синтеза оптимальных многослойных систем разработка методик исследования функциональных материалов широкого назначения создание комплексных экспериментальных оптических и спектральных методов создание математического и программного обеспечения для восстановления рельефа поверхности. создание физической модели металлической поверхности первых зеркал для диагностики плазмы в ядерных реакторах                             Баранова Екатерина Владимировна , аспирант Беляева Алла Ивановна, руководитель лаборатории, профессор, доктор наук Галуза Алексей Анатольевич, доцент, кандидат наук Коломиец Сергей Николаевич, инженер Костик Екатерина Александровна , студент Кудленко Анна Дмитриевна , аспирант Слатин Кирилл Александрович, аспирант 
+Лаборатория располагает обширной методической базой  
+ Криогенная оптическая и ИК - спектроскопия  Интерферометрия  Оптическая микроскопия  Криогенная спектроэллипсометрия  Гониометрические методы    Los Alamos Lab. , Los Alamos, USA Max-Plank-Institute fur Plasmaphysik, Munchen, Germany National Institute for Fusion Science, Oroshi-cho Toki-shi, Gifu-ken, Japan University of Toronto Institute for Aerospace Studies, Toronto, Canada Институт Физики, СО РФ, Красноярск, Россия Институт Электрофизики и Радиационных Технологий НАН Украины, Харьков, Украина Национальный Научный Центр "ХФТИ", <Node id="1709"/>Харьков, Украина<Node id="1725"/> Национальный Университет им.Т.Г. Шевченко, Киев, Украина    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="125" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="расположение" StartNode="1709" EndNode="1725">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

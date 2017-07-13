@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> МОСКВА, <Node id="9"/>17 января<Node id="18"/>. У России уже есть достижения в сфере наноиндустрии, считает глава комитета Госдумы по науке и наукоемким технологиям академик Андрей Кокошин. 
+«Обсуждение сегодня на заседании правительства России вопроса о развитии в нашей стране наноиндустрии, нанотехнологий показало, что у нас уже есть определенные достижения, — заявил депутат. — Свою часть работы в целом успешно сделали и делают Минобрнауки, Российская академия наук».
+ 
+<Node id="448"/>Кокошин отметил, что <Node id="469"/>«сейчас успех в государственной политике во многом зависит от отраслевых министерств, от ряда госкомпаний — Объединенной авиационной корпорации, от ГК «Ростехнологий» и др., которые должны стать крупными потребителями нанотехнологий»<Node id="702"/>.
+ 
+По его словам, члены <Node id="727"/>правительства<Node id="740"/> обоснованно отметили важность технических регламентов и стандартов, стандартов в области нанотехнологий, сказал депутат. Он подчеркнул, что на эти вопросы пристальное внимание обращает Госдума.
+ 
+<Node id="937"/>Как отметил Кокошин, «плохо то, что частный бизнес не торопится вкладывать в создание наноиндустрии, считая это делом особенно рискованным<Node id="1075"/>». К тому же, полагает <Node id="1098"/>он<Node id="1100"/>, у многих бизнесменов «просто нет достаточных современных научно-технических знаний для деловой деятельности в сфере высоких технологий».
+ 
+По словам депутата, у фракции «Единая Россия» имеется специальное соглашение с Российским союзом промышленников и предпринимателей (РСПП), подписанное спикером Госдумы Борисом Грызловым<Node id="1426"/> <Node id="1427"/>и главой РСПП Александром Шохиным<Node id="1460"/>,<Node id="1461"/> в рамках которого «мы работаем над вопросами коммерциализации целого ряда достижений наших ученых и инженеров».
+ 
+«<Node id="1577"/>Следует особо отметить роль высокопроизводительных вычислений, суперЭВМ и суперкомпьютерных центров в развитии нашей наноиндустрии, соответствующих <Node id="1725"/>НИР<Node id="1728"/> и ОКР. Сегодня, наряду с наукой теоретической и наукой экспериментальной, есть и наука вычислительная, которая играет все более важную роль в создании сложных и сверхсложных систем<Node id="1909"/>», — сказал Кокошин<Node id="1928"/>.
+ 
+По его словам, суперкомпьютеры должны стать одним из важнейших элементов быстро создающейся инфраструктуры в нанотехнологической сфере.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="727" EndNode="740">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="1426" EndNode="1427">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1577" EndNode="1928">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="469" EndNode="1909">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="1460" EndNode="1461">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="448" EndNode="702">
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="9" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="469" EndNode="702">
+</Annotation>
+<Annotation Id="15" Type="упоминается_с" StartNode="469" EndNode="1909">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="469" EndNode="702">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="1725" EndNode="1728">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="23" Type="темы" StartNode="1577" EndNode="1909">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="1098" EndNode="1100">
+</Annotation>
+<Annotation Id="25" Type="цитаты" StartNode="1577" EndNode="1909">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="сотрудники" StartNode="1460" EndNode="1461">
+</Annotation>
+<Annotation Id="29" Type="цитаты" StartNode="469" EndNode="702">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="высказывания_заявления" StartNode="1577" EndNode="1928">
+</Annotation>
+<Annotation Id="34" Type="высказывания_заявления" StartNode="448" EndNode="702">
+</Annotation>
+<Annotation Id="35" Type="высказывания_заявления" StartNode="937" EndNode="1075">
+</Annotation>
+<Annotation Id="32" Type="упоминается" StartNode="448" EndNode="1928">
+</Annotation>
+<Annotation Id="33" Type="темы" StartNode="469" EndNode="702">
+</Annotation>
+<Annotation Id="36" Type="работает" StartNode="1426" EndNode="1427">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">спикер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="автор" StartNode="937" EndNode="1075">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

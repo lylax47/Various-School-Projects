@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Samsung Electronics – крупнейший производитель чипов памяти для компьютеров, в четверг объявил о выпуске нового чипа для цифрового телевидения изготовленного по технологии 65 нм. Данные чипы будут использоваться для стандарта ATSC распространенного на североамериканском и корейском рынках. 
+
+ Пропускная способность данного чипа на <Node id="334"/>30 процентов<Node id="346"/> больше аналогов, при этом потребление энергии снижено до 400 милливатт, то есть почти в два раза. 
+
+ Вице президент Samsung Electronics Ри <Node id="486"/>ДоДжин<Node id="492"/> <Node id="493"/>Rhee Do Jun рассказал, что <Node id="520"/>данная разработка "еще раз подтверждает лидирующие позиции технологий Samsung на рынке цифрового телевидения"<Node id="629"/>. Также он анонсировал, что данная технология появится на североамериканском и корейском рынках уже в <Node id="731"/>третьем квартале этого года<Node id="758"/>. 
+
+ Согласно аналитическим прогнозам DisplaySearch количество пользователей цифрового телевидения вырастет с 87 миллионов в <Node id="883"/>этом году<Node id="892"/> до 147 миллионов к <Node id="912"/>2010 году<Node id="921"/>, то есть годовой рост будет на уровне <Node id="960"/>25%<Node id="963"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="520" EndNode="629">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="334" EndNode="346">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="492" EndNode="493">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="520" EndNode="629">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="486" EndNode="629">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="912" EndNode="921">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="486" EndNode="629">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="912" EndNode="921">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="883" EndNode="892">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="731" EndNode="758">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="486" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="486" EndNode="629">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="492" EndNode="493">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="960" EndNode="963">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="486" EndNode="629">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

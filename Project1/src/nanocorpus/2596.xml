@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт химических наук им. А.Б. Бектурова биоматериалы, имплантаты, композиты, микрочастицы, микрочипы, <Node id="108"/>наночастицы<Node id="119"/>, полиимидные материалы   <Node id="145"/>Наноматериалы<Node id="158"/> Химия  полимеров   Исследования по созданию «умных» имплантатов с контролируемой терапевтической активностью разработка  принципиально новых терапевтических систем с контролируемой активностью для гормональной хроно- и пульсотерапии, а также для локального депонирования микро- и <Node id="439"/>наночастиц<Node id="449"/> в пораженные органы разработка полиимидных композитов с регулируемыми морфологическими и механо-физическими свойствами                        
+В <Node id="595"/>настоящее время<Node id="610"/> в лаборатории проводятся исследования в рамках международного гранта НАТО "Наука во имя мира" по созданию технологии создания новых металлизированных полиимидных материалов с заданными электропроводящими и оптическими свойствами. 
+ 
+Лаборатория, располагая парком совеременного оборудования, специализируется в анализе полимерных и резинотехнических изделий, в частности:  
+ механические свойства материалов  вязкостные свойства полимерных растворов  термостабильность изделий  анализ состава полимерных или резинотехнических композиций  изготовление растворов полимеров в больших объемах  изготовление медицинских имплантатов на основе биодеградируемых полимеров    Институт космический исследований Центра астрофизических исследований, Казахстан Институт нанофазных исследований, Университет штата Техас, США Институт передовых материалов, Университет Монпелье 2, Франция Казахский Национальный Университет, Российский Государственный Педагогический Университет, Москва Токкийский женский медицинский университет, Япония Университет Поля Сезанна, Франция Университет Тор Вергата, Италия    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="595" EndNode="610">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="439" EndNode="449">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="145" EndNode="158">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="108" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

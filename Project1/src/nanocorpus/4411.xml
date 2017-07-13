@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые Массачусеттского Технологического Института (MIT- Massachusetts Institute of Technology) разработали мембрану из сетки <Node id="127"/>нанопроволок<Node id="139"/> для очистки нефтяных пятен. Мембрана, толщина которой примерно такая же, как у листа бумаги, способна поглощать в воде нефть или другие органические загрязнители в по массе в 20 раз превышающей массу самой мембраны.
+Изображения сетки мембраны при больших увеличениях.
+Высокопористая мембрана представляет собой сетку, изготовленную из нанопроволочек окисла магния, собранных в пучки. Каждая из проволочек имеет диаматр порядка 20 нм и длину около 1 мкм. Нанопроволочки подвергаются специальной обработке, приводящей к селективному поглощению загрязняющего вещества. После такой обработки проволочки становятся абсолютно негигроскопичными, что было подтверждено испытаниями в воде в продолжении <Node id="834"/>нескольких месяцев<Node id="852"/>.
+
+Авторы отмечают, что технология изготовления таких мембранных фильтров напоминает технологию изготовления бумаги.
+Изображения фильтра при сравнении с объектом известного размера (авторучка).
+Результаты работы были опубликованы в журнале Nature Nanotechnology, дополнительная информация может быть почерпнута на вебсайт MIT
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="127" EndNode="139">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="834" EndNode="852">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

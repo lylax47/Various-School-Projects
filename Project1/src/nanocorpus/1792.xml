@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Использование <Node id="14"/>наноматериалов<Node id="28"/> и нанотехнологий в строительствеОдноименная научно-практическая конференция состоится <Node id="115"/>5–6 ноября 2007 года<Node id="135"/> в г. Валенсия (Испания).
+
+В ходе работы конференции предполагается сформировать массив данных по наиболее перспективным проектам – в рамках программы EUREKA и особенно – в рамках подпрограммы EurekaBuild. И уже на базе этих данных будут выработаны рекомендации по проведению соответствующих НИОКР в области создания новых материалов – в интересах строительных фирм.
+
+На конференции предполагается рассмотреть следующие вопросы:
+
+= применение нанотехнологий в цемент-содержащих материалах;
+
+= многофункциональные покрытия на базе <Node id="665"/>наноматериалов<Node id="679"/>, применяемых в строительстве;
+
+= материалы-датчики для «умных» домов, обеспечивающие функции безопасности и комфорта;
+
+= применение <Node id="812"/>нанокомпозитов<Node id="826"/> в полимерных конструкционных материалах;
+
+= использование нанотехнологий для создания энергосберегающих материалов.
+Подробности см. на сайте конференции:«Nanomaterials and Nanotechnologies for Construction Applications»<Node id="1046"/>http://gesprecons.aidico.es/…68A3F0D49417Полезная<Node id="1095"/> конференция. Я думаю, наши специалисты в области строительных материалов могли бы поприсутствовать на ней и почерпнуть немало полезной и нужной информации. Время для оформления командировки ещё есть… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="115" EndNode="135">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1046" EndNode="1095">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="14" EndNode="28">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="665" EndNode="679">
+</Annotation>
+<Annotation Id="4" Type="Нанокомпозит" StartNode="812" EndNode="826">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

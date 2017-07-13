@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>11 апреля 2008 года<Node id="20"/> на Химическом факультете МГУ им. М.В. Ломоносова пройдет <Node id="78"/>День<Node id="82"/> Карьеры Химика – 2008 
+<Node id="106"/>День<Node id="110"/> карьеры химика ежегодно проводится на Химическом факультете МГУ им. М.В. Ломоносова <Node id="195"/>с 1998 г.<Node id="204"/> и является единственной в Москве ярмаркой вакансий для химиков. В <Node id="271"/>Дне<Node id="274"/> Карьеры участвуют работодатели, которые заинтересованы в привлечении на работу молодых талантливых специалистов с химическим, биохимическим, физическим и инженерным образованием.
+ 
+В <Node id="458"/>этом году<Node id="467"/> «<Node id="469"/>День<Node id="473"/> карьеры Химика - 2008» пройдет в рамках молодежной научной конференции «Ломоносов - 2008». На Химический факультет МГУ съедутся самые талантливые студенты и аспиранты химики не только со всей Москвы, но и со всей России. 
+ 
+В ходе мероприятия компании представят свои вакансии, программы летних стажировок, преддипломных практик. Презентации компаний помогут повысить осведомленность молодых специалистов о деятельности компании в целом и перспективах трудоустройства. 
+ 
+В свою очередь студенты и выпускники смогут оставить свое резюме, задать вопросы, пройти предварительное собеседование, а также выбрать место для преддипломной практики, летней стажировки и будущей работы.
+ 
+Для участия в <Node id="1168"/>Дне<Node id="1171"/> Карьеры Химика – 2008 приглашаются студенты и выпускники МГУ, РУДН, РХТУ, МГАТХТ, МПГУ и других технических вузов. 
+ 
+Информацию о прошлогоднем мероприятии и о его участниках можно найти на сайте отдела маркетинга Химического факультета МГУ им. М.В. Ломоносова.
+ 
+Там же можно найти и небольшой фоторепортаж о событии.
+ Контактная информация:  
+Якубович Екатерина 
+Тел./факс: +7 495 939-4888 
+<Node id="1565"/>kate@market.chem.msu.ru<Node id="1588"/> 
+Адрес: Ленинские горы, д. 1, стр. 3, к. 439
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="271" EndNode="274">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="458" EndNode="467">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="195" EndNode="204">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1168" EndNode="1171">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="78" EndNode="82">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Электронная_почта" StartNode="1565" EndNode="1588">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="469" EndNode="473">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="106" EndNode="110">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

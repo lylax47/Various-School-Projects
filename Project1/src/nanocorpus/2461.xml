@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Президент Бразилии выступает за исследования на стволовых клеткахРИО-ДЕ-ЖАНЕЙРО, 5 мар – Президент Бразилии поддержал опыты на стволовых клетках человеческих эмбрионов.
+ 
+«<Node id="172"/>Лично я выступаю за разрешение (исследований) на стволовых клетках», – сказал Луис Инасио<Node id="261"/> <Node id="262"/>Лула<Node id="266"/> да <Node id="270"/>Силва<Node id="275"/> журналистам в Кампинасе (штат Сан-Паулу), где принимал участие в открытии исследовательского Центра нанотехнологий.
+ 
+По мнению бразильского президента, исследования на стволовых клетках могут дать всему миру знания, необходимые для спасения «многих человеческих жизней».
+
+В среду Верховному федеральному суду Бразилии предстоит решить на пленарном заседании, являются ли исследования на стволовых клетках эмбрионов человека конституционными. Вопрос будет поставлен на прямое голосование одиннадцати судей.
+
+[рисунок] + [видео] по теме…
+Прорыв в создании стволовых клеток. ВидеоУченые превратили обычные клетки человеческой кожи в группу клеток, которые очень похожи на стволовые, получаемые из эмбрионов. Исследователи использовали питательную среду четырех генов. В результате доказали, что клетки могут превращаться буквально в любую ткань человеческого тела.(54 сек./2.19Mb)
+<Node id="1155"/>http://www.rian.ru<Node id="1173"/>/…0659228.htmlСмотри, какой продвинутый у бразильцев президент!… Открывает Центр нанотехнологии. Выступает за исследования на стволовых клетках. Вот, небось, как ему завидуют его «ближайшие» коллеги – тот же <Node id="1381"/>Дж. Буш<Node id="1388"/>, мл. Он же ведь «правильно» воспитан, да и подопечные ему этого не простят… А у бразильцев – всё проще: футбол, так футбол, карнавал, так карнавал, тогда чего уж «церемониться» с какими-то «стволовыми клетками». Раз учёные говорят, что это – хорошо, значит, так и есть. Тем более, что он сам убеждён: исследования на стволовых клетках могут дать всему миру знания, необходимые для спасения «многих человеческих жизней»… Ну и всё! Какие ещё могут быть вопросы?!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="172" EndNode="261">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="262" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лула</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="270" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Силва</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1381" EndNode="1388">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Буш</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1155" EndNode="1173">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="172" EndNode="261">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

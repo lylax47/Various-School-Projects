@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Проводящие организации: 
+- Национальная академия наук Украины; 
+- Министерство образования и науки Украины; 
+- Национальный научный центр «Харьковский физико-технический институт»; 
+- Ассоциация металловедов и термистов Украины; 
+- Украинское вакуумное общество.
+ Сроки проведения: <Node id="283"/>23-27 апреля 2007 г.<Node id="303"/>
+ Место проведения: г. Харьков.
+ Направления работы: 
+- 8-я Международная научно-техническая конференция "ВАКУУМНЫЕ ТЕХНОЛОГИИ И ОБОРУДОВАНИЕ ДЛЯ ПОЛУЧЕНИЯ <Node id="459"/>НАНОМАТЕРИАЛОВ<Node id="473"/>"; 
+- 2-й Международный научно-технический симпозиум "НАНОСТРУКТУРНЫЕ ФУНКЦИОНАЛЬНЫЕ ПОКРЫТИЯ И МАТЕРИАЛЫ ДЛЯ ПРОМЫШЛЕННОСТИ"; 
+- 19-й Международный симпозиум "ТОНКИЕ ПЛЕНКИ В ОПТИКЕ, НАНОФОТОНИКЕ И НАНОЭЛЕКТРОНИКЕ"; 
+- 2-й Международный научно-технический семинар "ВАКУУМНО-ДУГОВОЙ РАЗРЯД С ХОЛОДНЫМ КАТОДОМ: ФИЗИКА, ТЕХНОЛОГИИ И УСТРОЙСТВА"; 
+- 3-я Школа молодых ученых и специалистов по нанотехнологиям, <Node id="880"/>наноматериалам<Node id="894"/>, наноструктурным покрытиям и тонким пленкам.
+ Сайты ассамблеи: <Node id="958"/>http://www.nanotor.org.ua/<Node id="984"/> и <Node id="987"/>http://www.ottom.com.ua/.<Node id="1012"/>
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="283" EndNode="303">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="987" EndNode="1012">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="459" EndNode="473">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="880" EndNode="894">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="958" EndNode="984">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

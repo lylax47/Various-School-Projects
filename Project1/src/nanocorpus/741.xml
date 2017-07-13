@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Данные волокна выращены на поверхности полированной пластины монокристаллического кремния из газовой фазы при температуре порядка 1300 гр. Цельсия. Время обработки при максимальной температуре - <Node id="197"/>1 час<Node id="202"/>.
+    
+ 
+      
+ 
+  
+ 
+                    
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="197" EndNode="202">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

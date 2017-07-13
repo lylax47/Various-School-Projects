@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Заместитель генерального директора ГК «Роснанотех» Александр Лосюков<Node id="68"/> <Node id="69"/>встретился с Послом Республики Корея Кю-Хен <Node id="113"/>Ли<Node id="115"/>16 апреля 2008 г.<Node id="132"/> в ГК «Роснанотех» состоялась встреча Заместителя генерального директора Корпорации Александра Лосюкова с Чрезвычайным и Полномочным Послом Республики Корея Кю-Хен <Node id="296"/>Ли<Node id="298"/>. В ходе беседы обсуждались перспективы сотрудничества между ГК «Роснанотех» и южнокорейскими организациями и компаниями, занимающимися вопросами нанотехнологий и наноиндустрии.
+Корейский дипломат выразил готовность содействовать развитию российско-южнокорейского взаимодействия в сфере производства продуктов с использованием нанотехнологий, налаживанию практического партнерства в этой области между Российской Федерацией и Республикой Корея.
+<Node id="743"/>http://www.rusnanotekh.ru/…8_04_16.htmlНу<Node id="784"/> вот и Александр Прохорович начал свою деятельность… И это здорово! Теперь будем дружить странами, университетами, семьями…;-))), обмениваться студентами, преподавателями, идеями, опытом и т.п. В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="743" EndNode="784">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="115" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="68" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="68" EndNode="69">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="113" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="296" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+У физиков есть традиция – раз в 50 миллиардов <Node id="47"/>лет<Node id="50"/> они собираются и строят адронный коллайдер… (из анекдотов о Большом Адронном Коллайдере)
+
+<Node id="141"/>В пятницу 19 сентября<Node id="162"/> в работе Большого Адронного Коллайдера (БАК) произошел серьезный сбой, из-за которого крупнейший ускоритель элементарных частиц остановлен на некоторое время. В 14:05 по московскому времени, в ходе тестов магнитной системы сектора 3–4 (34) произошёл инцидент, отодвинувший дальнейшие эксперименты.
+
+Напомним, что первые проблемы в работе БАК возникли <Node id="514"/>примерно через сутки<Node id="534"/> после пуска системы <Node id="555"/>10 сентября<Node id="566"/>. Из строя вышел один из трансформаторов цепи электроснабжения, в результате чего отключились компрессоры криогенной системы в двух секторах. Инженеры достаточно быстро заменили 30-тонный трансформатор, однако <Node id="776"/>днем 19 сентября<Node id="792"/> произошла вторая авария.
+
+Физики отмечают, что электрический сбои в коллайдерах – это дело относительно привычное, однако в случае с Большим адронным коллайдером есть два фактора, которые существенно затрудняют ремонт: во-первых в 27-километровой конструкции довольно сложно точно найти поломку, а во-вторых, этот аппарат работает при абсолютном нуле (около минус 271 градуса), что также препятствует быстрому ремонту.
+
+Как сообщается в официально пресс-релизе Европейской организации ядерных исследований (ЦЕРН), согласно данным предварительного расследования, во время подготовки одного из секторов коллайдера к работе на энергии пять тераэлектронвольт произошла значительная утечка жидкого гелия в туннель ускорителя. Предварительное расследование случившегося показало, что причиной утечки гелия стал поврежденный электрический контакт между двумя магнитами. По всей видимости, при высокой силе тока контакт расплавился, что вызвало механические повреждения. Установленная в ускорителе система магнитов, которая в итоге разгонит протоны до <Node id="1837"/>99,9999991%<Node id="1848"/> скорости света, охлаждается почти до абсолютного нуля, благодаря чему ток идет по их катушкам без сопротивления. Эта сверхпроводимость позволяет магнитам создавать значительно более сильные поля, чем обычно. Однако, когда магниты нагреваются и теряют свои сверхпроводящие свойства, происходит перегрев. В журнале наблюдений ученых произошедший на БАКе инцидент был назван “сильным перегревом”. Сбой повредил ту часть ускорителя, в которой поддерживается температура в 1,9 градуса <Node id="2329"/>Кельвина<Node id="2337"/> (минус 271 градус по <Node id="2359"/>Цельсию<Node id="2366"/>), так что прежде чем можно будет полностью разобраться в проблеме и решить ее, эту зону необходимо прогреть до комнатной температуры.
+
+На сайте ЦЕРН отмечается, что проведение ремонтных работ станет возможно только после повышения температуры в секторе. После починки температура будет вновь понижена до практически абсолютного нуля. Весь процесс займет <Node id="2721"/>не менее двух месяцев<Node id="2742"/>. Таким образом, первые столкновения пучков в Большом адронном коллайдере, ранее намеченные на <Node id="2837"/>21 октября<Node id="2847"/>, в <Node id="2851"/>текущем году<Node id="2863"/>, вероятно, осуществляться не будут. С учетом того обстоятельства, что <Node id="2934"/>зимой<Node id="2939"/> в Европе имеет место <Node id="2961"/>сезон<Node id="2966"/> экономии электроэнергии, а БАК потребляет ее как средней величины город, наиболее вероятно, что коллайдер остановлен <Node id="3084"/>до весны 2009 года<Node id="3102"/>. <Node id="3104"/>23 сентября<Node id="3115"/> это было официально объявлено представителями ЦЕРН.
+
+Торжественная церемония его официального открытия, тем не менее, состоится <Node id="3244"/>21 октября<Node id="3254"/>, как и планировалось.
+
+На следующем этапе испытаний будут производиться одновременные запуски пучков навстречу друг другу, чтобы наблюдать, что происходит при их «лобовых» столкновениях. <Node id="3442"/>Затем<Node id="3447"/> частицы будут сталкиваться на более высоких энергиях. Выход на энергию 14 ТэВ протон-протонного столкновения намечен на <Node id="3568"/>начало 2009 года<Node id="3584"/>.
+
+Евгений Биргер
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="3084" EndNode="3102">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1837" EndNode="1848">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="2837" EndNode="2847">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="2851" EndNode="2863">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="555" EndNode="566">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2934" EndNode="2939">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="47" EndNode="50">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="3442" EndNode="3447">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="2721" EndNode="2742">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2961" EndNode="2966">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="3244" EndNode="3254">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="3104" EndNode="3115">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="2329" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кельвин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="776" EndNode="792">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="3568" EndNode="3584">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="514" EndNode="534">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="141" EndNode="162">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2359" EndNode="2366">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

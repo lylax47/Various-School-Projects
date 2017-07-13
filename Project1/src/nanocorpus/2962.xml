@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>7 июня<Node id="8"/> состоялось официальное открытие XII Петербургского Международного экономического форума. Стенд государственной корпорации «Российская корпорация нанотехнологий», развернутый в 7 павильоне «Ленэкспо», посетили Президент Российской Федерации Дмитрий Медведев в сопровождении официальных лиц РФ и стран СНГ. <Node id="314"/>В течение дня<Node id="327"/> стенд корпорации также посетили вице-премьер Сергей Иванов, вице-премьер Александр Жуков, вице-премьер Игорь Шувалов, министр образования и науки Андрей Фурсенко, министр внутренних дел Рашид Нургалиев, председатель Государственной Думы Борис Грызлов<Node id="578"/>,<Node id="579"/> полномочный представитель Президента РФ по Северо-Западному Федеральному округу Илья Клебанов, губернатор Красноярского края Александр Хлопонин. На стенде ГК «Роснанотех», как уже сообщалось, представлены более 80 нанотехнологических разработок, созданных 50 коллективами из 18 регионов России.
+ 
+В рамках XII Петербургского международного экономического форума состоялось подписание Соглашения о намерениях по <Node id="991"/>сотрудничеству<Node id="1005"/> между ГК «Роснанотех» и компанией Intel. В церемонии подписания приняли участие генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="1137"/>,<Node id="1138"/> председатель совета директоров Intel Крейг Барретт<Node id="1189"/> <Node id="1190"/>и региональный директор Intel по странам России и СНГ Дмитрий Конаш. ГК «Роснанотех» и корпорация Intel намереваются осуществить совместную научно-исследовательскую работу по нескольким проектам. В частности, планируется разработка и использование многопроцессорных и многоядерных систем, программного обеспечения для моделирования <Node id="1522"/>наноматериалов<Node id="1536"/>, наноустройств и методик их создания. Также будут проводиться поисковые исследованиях в микро- и наноэлектронике, в том числе, разработки новых материалов и технологий для производства интегральных схем по нормам менее 45 нм.
+ 
+В рамках соглашения стороны будут участвовать в проведении конкурсов инновационных идей и бизнес-планов. Перспективные российские компании смогут использовать знания и опыт компании Intel в осуществлении производства нанотехнологий и развитии своего бизнеса. Подписанное соглашение станет основой для совместной работы в области подготовки и переподготовки кадров по направлениям менеджмента инноваций, коммерциализации технологий и управления исследованиями. 
+ 
+«<Node id="2229"/>Компания Intel является одним из несомненных лидеров в области исследований, разработок и масштабного производства в сфере микроэлектроники. Сотрудничество с Intel дает нам возможность опереться на прочный фундамент практического применения результатов научных разработок<Node id="2500"/>», – подчеркнул Леонид Меламед<Node id="2530"/>. 
+ 
+«<Node id="2536"/>Наша компания осознает всю важность и ответственность задачи по развитию нанотехнологической отрасли в России. Сейчас в мире глубокие научные исследования и серьезные технологические и производственные разработки невозможны без современных методов исследований, основанных на математическом моделировании процессов и высокопроизводительных вычислениях, что является одним их основных инструментов для разработок в области нанотехнологий. Для реализации сложнейших задач России в области нанотехнологий мы готовы привлечь весь наш опыт, знания и технологии производства. Мы надеемся, что подписание этого соглашения станет нашим первым вкладом в данном направлении, и мы видим хорошие перспективы для дальнейшего развития наших отношений<Node id="3272"/>», - сказал <Node id="3284"/>Дмитрий Конаш<Node id="3297"/>,<Node id="3298"/> региональный директор Intel по странам России и СНГ.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="314" EndNode="327">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="2536" EndNode="3297">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="2" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="3297" EndNode="3298">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="2229" EndNode="2530">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="2229" EndNode="2500">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="2536" EndNode="3272">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Тональность" StartNode="3284" EndNode="3297">
+</Annotation>
+<Annotation Id="19" Type="Наноматериал" StartNode="1522" EndNode="1536">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="2229" EndNode="2530">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="2536" EndNode="3272">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="цитаты" StartNode="2536" EndNode="3272">
+</Annotation>
+<Annotation Id="26" Type="Партнеры_Клиенты" StartNode="991" EndNode="1005">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="упоминает" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="31" Type="темы" StartNode="2229" EndNode="2500">
+</Annotation>
+<Annotation Id="30" Type="упоминает" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="34" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="цитаты" StartNode="2229" EndNode="2500">
+</Annotation>
+<Annotation Id="32" Type="цитаты" StartNode="2536" EndNode="3272">
+</Annotation>
+<Annotation Id="33" Type="работает" StartNode="1137" EndNode="1138">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="высказывания_заявления" StartNode="2536" EndNode="3297">
+</Annotation>
+<Annotation Id="39" Type="сотрудники" StartNode="3297" EndNode="3298">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="сотрудники" StartNode="578" EndNode="579">
+</Annotation>
+<Annotation Id="42" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="упоминает" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="сотрудники" StartNode="1189" EndNode="1190">
+</Annotation>
+<Annotation Id="47" Type="упоминается" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="44" Type="упоминается" StartNode="2229" EndNode="3297">
+</Annotation>
+<Annotation Id="45" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="51" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="50" Type="сотрудники" StartNode="1137" EndNode="1138">
+</Annotation>
+<Annotation Id="49" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="48" Type="работает" StartNode="1189" EndNode="1190">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель совета директоров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="работает" StartNode="578" EndNode="579">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="цитаты" StartNode="2229" EndNode="2500">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

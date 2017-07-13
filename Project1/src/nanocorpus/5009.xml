@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Китайская компания Semiconductor Manufacturing International Corp. (SMIC, Шанхай) заявила о своих планах приступить во <Node id="120"/>второй половине 2009 г.<Node id="143"/> к массовому производству интегральных схем на 300-мм подложках по 45-нм технологии, полученной на основе лицензионного <Node id="263"/>соглашения<Node id="273"/> с IBM Corp.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="120" EndNode="143">
+</Annotation>
+<Annotation Id="1" Type="Партнеры_Клиенты" StartNode="263" EndNode="273">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

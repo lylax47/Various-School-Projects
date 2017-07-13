@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Корейского Научного Института Биологичсских Наук и Биотехнологии (Korea Research Institute of Bioscience and Biotechnology) в Тэджоне (Daejeon) разработали новый вид <Node id="177"/>наноструктур<Node id="189"/>, способных находить и разрушать раковые клетки.
+
+Новая структура сочетает несколько новых перспективных компонентов и позволяет объединить два современных метода: магнитно-резонансную томографию и направленную доставку лекарства к пораженной области.
+
+В качестве основы для нанолекарства Бон <Node id="482"/>Хун Чан<Node id="489"/> (Bong Hyun Chung) и <Node id="510"/>его<Node id="513"/> коллеги использовали полые <Node id="541"/>наночастицы<Node id="552"/> из золота. Новая структура имеет в своем составе антитело, которое распознает поверхность раковой клетки и связывается с ней. Антитела конъюгированы с гадолиниевым комплексом, который позволяет выявлять связавшиеся с раковыми клетками <Node id="788"/>наночастицы<Node id="799"/> с помощью магнитно-резонансной томографии (MRI).
+
+При воздействии на такие <Node id="875"/>наночастицы<Node id="886"/> инфракрасным лазером образующееся тепло разрушает раковые клетки и их окружение. Этот метод лечения раковых заболеваний называется гипертермией, и <Node id="1034"/>на настоящий момент<Node id="1053"/> является довольно перспективным, но недостаточно изученным. Изменяя энергию лазера, ученые показали возможность приводить раковую опухоль к саморазрушению, инициируя апоптотические процессы в раковых клетках.
+
+<Node id="1264"/>Наноструктуры<Node id="1277"/> на основе золота предпочтительнее широко используемых оксидов железа в качестве контрастного агента, полагает Чан. Железо может приводить к интерференции и негативным эффектам контраста, вызывая ошибки диагностики.
+
+Неинвазивная (без хирургического отбора проб тканей) диагностика эффективна для выявления ранних стадий заболевания. Метод Чана позволяет увидеть и обработать специфическую область, в отличие от химиотерапии, которая влияет на весь организм.
+
+<Node id="1737"/>В будущем<Node id="1746"/> эти <Node id="1751"/>наночастицы<Node id="1762"/> также могут использоваться для анализа хирургически полученного материала.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="1264" EndNode="1277">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="510" EndNode="513">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="541" EndNode="552">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="177" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1751" EndNode="1762">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1737" EndNode="1746">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="788" EndNode="799">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="482" EndNode="489">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="875" EndNode="886">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1034" EndNode="1053">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

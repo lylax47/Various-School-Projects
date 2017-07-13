@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Агентство по науке и инновациям Министерства образования и науки РФ, Московская государственная академия тонкой химической технологии имени М.В.Ломоносова, Московский государственный институт радиотехники, электроники и автоматики (технический университет), Московский государственный университет им. М.В. Ломоносова, РНЦ «Курчатовский институт», ОАО «Горно-металлургическая компания «Норильский никель», Национальная Инвестиционная Компания «Новые Энергетические Проекты», Национальная Ассоциация водородной энергетики и ФГУП «Суперметалл» проводят II – й Конкурс работ молодых исследователей по теме “<Node id="605"/>Наноматериалы<Node id="618"/> для водородной энергетики”.  
+В Конкурсе могут принять участие студенты, аспиранты, научные сотрудники, инженеры, специалисты из вузов Российской Федерации и стран СНГ, институтов РАН и НАН, отраслевых институтов, предприятий, расположенных в РФ и странах СНГ, в возрасте <Node id="891"/>до 35 лет<Node id="900"/>. Отдельно проводится конкурс рефератов по заявленной теме для школьников. 
+ 
+Конкурс проводится в два этапа: первый – заочный, итоги которого будут подведены в период <Node id="1068"/>с 15 сентября по 22 сентября 2008 года<Node id="1106"/>; второй – очный, на который приглашаются для устного выступления авторы работ, прошедших предварительную экспертизу, и который состоится <Node id="1244"/>31 октября 2008 года<Node id="1264"/> в МИТХТ им. М.В.Ломоносова по адресу: Москва, пр. <Node id="1315"/>Вернадского<Node id="1326"/>, 86, станция метро «Юго-Западная», актовый зал.
+ 
+Во второй этап пройдут победители заочного тура. Участники второго этапа награждаются дипломами, а победители Конкурса – денежной премией. 
+ 
+Премиальный фонд Конкурса составляет <Node id="1556"/>100000 рублей<Node id="1569"/>. Работы участников очного тура будут изданы в виде отдельной брошюры. Работы победителей будут опубликованы в <Node id="1680"/>2009 году<Node id="1689"/> в журналах «Вестник МИТХТ» и «Драгоценные металлы и драгоценные камни». 
+ 
+Заявки на участие в Конкурсе следует направить не позднее <Node id="1823"/>15 сентября 2008 года<Node id="1844"/> по адресу: 119571 Москва, пр. <Node id="1875"/>Вернадского<Node id="1886"/>, 86, ученому секретарю Оргкомитета, к.х.н. Волчковой Елене Владимировне, E-mail: volchkovaev@bk.ru.
+     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1823" EndNode="1844">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1680" EndNode="1689">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1680" EndNode="1689">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="891" EndNode="900">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1315" EndNode="1326">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вернадский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1068" EndNode="1106">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1556" EndNode="1569">
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="605" EndNode="618">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1875" EndNode="1886">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вернадский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1244" EndNode="1264">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

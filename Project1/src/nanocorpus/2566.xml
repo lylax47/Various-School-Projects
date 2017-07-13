@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Энтальпия образования <Node id="23"/>углеродных <Node id="34"/>нанотрубок<Node id="44"/> Решение 
+1. Энтальпия образования равна энтальпии реакции образования соединения из простых веществ. В данном случае - из графита, который принят в качестве наиболее устойчивой модификации (стандартного состояния). В нашем случае
+ С(графит) ---&gt; C(<Node id="293"/>нанотрубка<Node id="303"/>) 
+Ошибкой было считать, что энергия образования - это формирование <Node id="371"/>нанотрубки<Node id="381"/> из АТОМОВ углерода.
+ 
+Эта величина может быть измерена в единицах энергии на единицу массы. Величина (1*), вероятно, будет величиной положительной. Именно положительная энтальпия делает <Node id="568"/>нанотрубки<Node id="578"/> термодинамически неустойчивыми относительно графита (по аналогии с <Node id="646"/>фуллеренами<Node id="657"/>).
+ 
+2. Самый простой способ - определить энтальпию сгорания грамма <Node id="725"/>нанотрубок<Node id="735"/> с образованием СО2(2*), используя закон <Node id="776"/>Гесса<Node id="781"/> (сжигание в калориметре).
+ 
+3. Возможный набор: (1)+(3)+(5)+(11). Хиральность однозначно определяет диаметр! (1)+(3)+(5)+(6) – правильный ответ, но жюри давало дополнительное очко тому, кто поставил (11) вместо (6).
+ Примечание: упомянутые в тексте величины и формулы вы можете найти в прикрепленном jpg-файле. 
+Автор – проф. М.В.Коробов
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="725" EndNode="735">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="568" EndNode="578">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="371" EndNode="381">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="646" EndNode="657">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="23" EndNode="44">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="293" EndNode="303">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="776" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гесс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="34" EndNode="44">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

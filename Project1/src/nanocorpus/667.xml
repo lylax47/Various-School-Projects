@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Intel oбещает рывок в сфере нанотехнологийIntel Corp, крупнейший в мире производитель микрочипов, сможет выпускать микропроцессоры по технологии 32 нанометра уже <Node id="162"/>через два года<Node id="176"/>.
+
+Об этом сообщил глава компании во вторник.
+В <Node id="224"/>настоящее время<Node id="239"/> компания намеревается уменьшить технологии, применяемые в процессорах до 45 нанометров, однако, <Node id="336"/>как сообщил Пол Отеллини, компании впервые удалось сделать процессор с технологиями 32 нанометра<Node id="432"/>.
+
+Таким образом, Intel опередит своего конкурента Advanced Micro Devices Inc, который обещает выпускать чипы с технологией 45 нанометров лишь к <Node id="577"/>середине 2008 года<Node id="595"/>.
+
+Отеллини сообщил, что его компания начнет выпуск таких чипов, под названием Penryn, уже <Node id="686"/>12 ноября 2007 года<Node id="705"/>.
+
+По его словам, дизайн процессора следующего поколения, который пока носит имя Nehalem, уже завершен, и даже продемонстрировал компьютер, работающий на базе такого процессора.
+<Node id="883"/>http://www.vz.ru/…/110211.htmlНу<Node id="915"/> вот, темп работ растёт, и сама гонка ускоряется. Первопроходцы рвутся вперёд, сметая на пути все преграды и преодолевая трудности. А в затылок им дышат их ближайшие конкуренты. Это и называется НАУЧНО-ТЕХНИЧЕСКИЙ ПРОГРЕСС… Вот бы и нам суметь устроить у себя такую же «гонку», глядишь, все работы пошлИ бы веселее, а этот «редкий зверь» (= научно-технический прогресс) поселился бы и под нашей крышей…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="336" EndNode="432">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="686" EndNode="705">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="224" EndNode="239">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="336" EndNode="432">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="162" EndNode="176">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="883" EndNode="915">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="577" EndNode="595">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

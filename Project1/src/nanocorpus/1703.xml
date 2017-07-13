@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В <Node id="4"/>ноябре<Node id="10"/> <Node id="11"/>Наблюдательный совет<Node id="31"/> РОСНАНО одобрил очередной инвестиционный проект. Цель проекта – производство техники для каскадной нанофильтрации плазмы крови, применяемой при лечении атеросклероза, ишемической болезни сердца, стенокардии, сердечной недостаточности и других заболеваний. Также, Корпорацией и Министерством науки и техники КНР было подписано соглашение о сотрудничестве. А <Node id="389"/>21 ноября<Node id="398"/> <Node id="399"/>Госдума<Node id="406"/> приняла в первом чтении законопроект, предоставляющий РОСНАНО статус квалифицированного инвестора. 
+ 
+Это и многое другое вы можете прочитать в седьмом выпуске Дайджеста.     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="4" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="389" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="399" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="11" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

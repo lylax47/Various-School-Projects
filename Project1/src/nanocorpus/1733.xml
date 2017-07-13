@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В Послании <Node id="12"/>Федеральному Собранию<Node id="33"/> В.В. Путин вновь обратил внимание на нанотехнологии, выделив их как одно из ключевых направлений развития России. 
+ 
+«Надо создать эффективные системы разработок нанотехнологий. Они - ключевое направление развития современной науки» - заявил президент. Путин напомнил о утверждённой программе развития нанотехнологий. Финансирование программы предусматривает выделение <Node id="403"/>130 млрд. рублей<Node id="419"/> государственных средств, которые пойдут в государственную нанотехнологическую корпорацию. Кроме того, планируется привлечь <Node id="543"/>не менее 50 млрд. рублей<Node id="567"/> негосударственных инвестиций. 
+ 
+«<Node id="602"/>Масштабность и уникальность проблем предполагают участие всех стран СНГ в проекте нанотехнологий<Node id="698"/>», - заявил В.В. Путин<Node id="720"/>. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="403" EndNode="419">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="упоминает" StartNode="602" EndNode="720">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="602" EndNode="720">
+</Annotation>
+<Annotation Id="4" Type="цитаты" StartNode="602" EndNode="698">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="12" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральному Собранию</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="602" EndNode="698">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="602" EndNode="720">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="602" EndNode="720">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="543" EndNode="567">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

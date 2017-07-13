@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Одним из важных факторов восприятия мира является зрение, которое фактически обеспечивает нам львиную долю информации и современных знаний (в ассортименте). Если говорить прагматически, все более распространенным в учебном процессе становится использование видео- и медиаматериалов, которые позволяют повышать качество обучения. В ряде случаев такие материалы просто необходимы, особенно когда происходит передача опыта работы со сложным современным оборудованием или наглядно объясняется картина происходящего сложного процесса. Такие образовательные подходы могли бы быть полезны и при чтении специальных курсов в области <Node id="626"/>наноматериалов<Node id="640"/> и нанотехнологий. И вообще, мало ли для чего могут быть полезны учебные видеофильмы! Нанометр планирует перейти к сбору и созданию таких материалов. В связи с этим нас интересует Ваше мнение, какие именно жанры (или классы) видеоматериалов были бы наиболее интересны и востребованы. Ниже приводится несколько разножанровых "сырых" видеозарисовок, которые могут дать представление лишь о малой доле того, что можно (и нужно) сделать... Если у Вас есть конкретные идеи о предложения о сотрудничестве, пишите на <Node id="1150"/>support@nanometer.ru<Node id="1170"/> ...
+ TEST.WMV - данный ролик не предназначен для коммерческого использования. Для его создания (Ulead Studio 10) использованы видеофрагменты и фотографии, в основном взятые из Интернета (в частности, с сайтов Наноньюснет, Транcгуманизм и др.). 
+ EQ1.WMV - этот ролик основан на работе отделения факультета наук о материалах ЦКП МГУ. Без комментариев ... В буквальном смысле...
+ TVINST.WMV - фрагмент фильма <Node id="1578"/>И.Комбачевой<Node id="1590"/>, Д.Буневича, <Node id="1604"/>П.Филиппова<Node id="1615"/> (Гуманитарный институт телевидения) о факультете наук о материалах МГУ. Показан эксперимент по магнитной левитации сверхпроводника (самарий-кобальтового постоянного магнита над сверхпроводящим купратом, охлажденным жидким азотом).
+ NANOAB.WMV - ролик социальной рекламы с сайта PRO Нанотехнологии, специально разработанный для вовлечения в нанотехнологическую "надотрасль" молодых кадров (видимо, еще мало знакомых с нанотехнологиями).
+ INTERVIEW.WMV - мнения студентов и аспирантов факультета наук о материалах МГУ о нанотехнологиях, интервью для передачи "Спорный вопрос" (канал "Столица+").
+ ITKIS1.WMV - курс молодого бойца - микроскописта, аспирант ФНМ МГУ <Node id="2278"/>Д.М.Иткис<Node id="2287"/> демонстрирует работу сканирующего-зондового микроскопа, а также дорогого электронного микроскопа и уникального <Node id="2399"/>Раман<Node id="2404"/>-спектрометра, на который в конце уже просто не хватает времени (съемка канала Столица+).
+ Нас интересует Ваше мнение (в комментариях), что должно выкладываться на сайте в виде видеоматериалов:   рекламные социальные ролики   просто красивые ролики   учебные ролики   ролики по работе с оборудованием   научные ролики по реальным наблюдениям наномира с комментариями   ролики пользователей   что-то другое (флэш-клипы, что именно?)...   Обсуждение - на специальной теме Форума! Поскольку в будущем лучшие материалы будут доступны только пользователям сайта, рекомендуем гостям зарегистрироваться...
+ 
+Спасибо!
+               </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2278" EndNode="2287">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="626" EndNode="640">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="2399" EndNode="2404">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Раман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1578" EndNode="1590">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Комбачева</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Электронная_почта" StartNode="1150" EndNode="1170">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1604" EndNode="1615">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Филиппов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

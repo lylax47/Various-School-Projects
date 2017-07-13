@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Псковской области пройдет семинар по нанотехнологиям. Об этом корреспонденту ИА «Росбалт-Север» сообщил доктор физико-математических наук, проректор по научной работе Ульяновского государственного университета Виктор Голованов.
+
+<Node id="232"/>Как отметил Голованов, <Node id="255"/>Министерство образования решило проводить семинары по новому курсу в наиболее прогрессивных по введению образовательных технологий регионах и тем самым проверить оценки курса<Node id="429"/>. По <Node id="434"/>его<Node id="437"/> словам, область была выбрана, поскольку является прогрессивной по введению образовательных технологий.
+
+В <Node id="544"/>настоящее время<Node id="559"/> в Пскове проходит апробирование, разрабатываются факультативные курсы по физике, химии и биологии «Введение в нанотехнологии» для учеников 10–11 классов. Конкурс на разработку проекта с таким названием был объявлен в <Node id="777"/>августе 2008 года<Node id="794"/>, по итогам которого победителем стал Ульяновский государственный университет. Срок исполнения проекта — всего <Node id="905"/>три месяца<Node id="915"/>. Одно из условий — проведение двухдневных семинаров в Ростове и Пскове.
+
+В межрегиональном научно-методическом семинаре «Введение в нанотехнологии» принимают участие только представители университетов Москвы, Ульяновска и Пскова. Он проходит как ознакомительный курс для учителей. Подобные семинары уже были проведены в Ульяновске и Ростове.
+
+Планируется, что со <Node id="1279"/>следующего года<Node id="1294"/> «Введение в нанотехнологии» будет введено как факультативный курс во всех школах. В рамках нового предмета школьникам будет представлен интересный материал из перспективной области. Специально для сельских школьников планируется создание мобильного курса, то есть ребятам будет доставляться специальное лабораторное оборудование, на котором они будут заниматься.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="544" EndNode="559">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1279" EndNode="1294">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="255" EndNode="429">
+</Annotation>
+<Annotation Id="3" Type="упоминается" StartNode="232" EndNode="429">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="232" EndNode="429">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="232" EndNode="429">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="434" EndNode="437">
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="255" EndNode="429">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="232" EndNode="429">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="777" EndNode="794">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="905" EndNode="915">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Академия наук РМ выберет лучшие проекты госпрограммы «Нанотехнологии и <Node id="71"/>наноматериалы<Node id="84"/>»КИШИНЕВ, <Node id="94"/>23 июля<Node id="101"/> – Научный совет Академии наук Республики Молдова совместно с независимыми экспертами выберет семь-десять лучших проектов, разработанных институтами и университетами Кишинева и Бельц в рамках государственной программы «Нанотехнологии и <Node id="337"/>наноматериалы<Node id="350"/>», сообщает агентство «НОВОСТИ-МОЛДОВА».
+Академия наук Республики МолдоваКак отметили в Академии наук, дальнейшая разработка и реализация лучших проектов будет финансироваться <Node id="526"/>с 2009 года<Node id="537"/>. В процесс их разработки и реализации будет привлекаться научная молодежь.
+ Цель программы – формирование инфраструктуры нанотехнологий в РМ, которая позволит создавать новые многофункциональные материалы для производства на их базе электронных и фотонных устройств. Программа «Нанотехнологии и <Node id="833"/>наноматериалы<Node id="846"/>» – одна из семи государственных научных программ. Руководит ею член-корреспондент, вице-президент Академии наук РМ <Node id="962"/>Ион Тигиняну<Node id="974"/>.
+Ион <Node id="980"/>Тигиняну<Node id="988"/> Государственные программы в области науки начали выполняться <Node id="1050"/>с 2004 года<Node id="1061"/>. <Node id="1063"/>http://www.newsmoldova.ru<Node id="1088"/>/news.html?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="94" EndNode="101">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="962" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тигинян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="980" EndNode="988">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тигинян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1063" EndNode="1088">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="337" EndNode="350">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="71" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="526" EndNode="537">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1050" EndNode="1061">
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="833" EndNode="846">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

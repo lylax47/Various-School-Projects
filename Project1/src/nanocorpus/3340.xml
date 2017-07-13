@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Заместитель генерального директора ГК «Роснанотех» Андрей Малышев<Node id="65"/> <Node id="66"/>призвал участников II Всероссийского совещания ученых, инженеров и производителей в области нанотехнологий к подаче инвестиционных заявокАндрей Малышев<Node id="217"/>15 мая<Node id="223"/> в Москве состоялось II Всероссийское совещание ученых, инженеров и производителей в области нанотехнологий, организованное Комитетом по образованию и науке Совета Федерации РФ, ГК «Роснанотех», Российской академией наук и РАО «ЕЭС России». Участники совещания представили 58 научных докладов, из которых в 10 сообщается о разработках, близких к созданию конечной продукции.
+ В задачу нашего совещания входит мониторинг результатов, полученных за <Node id="670"/>последние два года<Node id="688"/>, и «продуктовый» их вариант будет представлен в ГК «Роснанотех». <Node id="754"/>Совет Федерации по образованию и науке, который был инициатором первого совещания, планирует и далее оказывать все возможное содействие координации и проведении работ российских специалистов на всех этапах цепочки «фундаментальная наука – прикладная наука – готовый продукт – серийный выпуск»<Node id="1046"/>, – отметил в послании участникам совещания председатель Комитета по образованию и науке Совета Федерации РФ Хусейн Чеченов<Node id="1169"/>.<Node id="1170"/>
+ Хусейн Чеченов
+На совещании с приветственной речью выступил заместитель генерального директора ГК «Роснанотех» Андрей Малышев<Node id="1297"/>.<Node id="1298"/> Он кратко остановился на основных принципах работы ГК «Роснанотех» и рассказал о том, как через Корпорацию проходят конкретные инвестиционные проекты.
+ 
+Сегодня у ГК «Роснанотех» есть ресурс, структура и механизмы принятия решений. <Node id="1531"/>Мы призываем участников Всероссийского совещания к сотрудничеству и ждем подачи инвестиционных заявок,– подчеркнул Андрей Малышев<Node id="1660"/>.
+ Все участники совещания получили пакет документов с приглашением участвовать в Международном форуме по нанотехнологиям, который состоится <Node id="1801"/>3–5 декабря<Node id="1812"/> в Москве, в Центральном выставочном комплексе «Экспоцентр».
+<Node id="1873"/>http://www.rusnano.com/…8_05_15.htmlНу<Node id="1911"/> что ж, очевидно, «лёд тронулся», «процесс пошёл»… Уже и сама ГК «Руснанотех» приглашает подавать заявки. Как говорится, «то ли ещё будет»! Весьма отрадно, что в содействие этому процессу вносят свой весомый вклад и наши законодатели, в частности Комитет по образованию и науке Совета Федерации РФ. Ну, как говорится, «В добрый путь!»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="65" EndNode="66">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="754" EndNode="1660">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="217" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="754" EndNode="1169">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1531" EndNode="1660">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="754" EndNode="1660">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="754" EndNode="1046">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1873" EndNode="1911">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="754" EndNode="1046">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="1169" EndNode="1170">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="65" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="754" EndNode="1169">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1801" EndNode="1812">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="670" EndNode="688">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="автор" StartNode="1531" EndNode="1660">
+</Annotation>
+<Annotation Id="23" Type="работает" StartNode="1297" EndNode="1298">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="сотрудники" StartNode="1297" EndNode="1298">
+</Annotation>
+<Annotation Id="24" Type="работает" StartNode="1169" EndNode="1170">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

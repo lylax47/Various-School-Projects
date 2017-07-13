@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Медицинское подразделение издательства ELSEVIER открывает бесплатный текстовый доступ к статьям по медицине (80 журналов), а также к интегрированной базе MEDLINE и др. источникам информации MD COSULT 
+ до <Node id="206"/>30 декабря 2008 г.<Node id="224"/> 
+Условия доступа и предварительная регистрация по адресу: 
+<Node id="284"/>http://www.elsevier.ru/products/demo-access/md-consult<Node id="338"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="284" EndNode="338">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="206" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

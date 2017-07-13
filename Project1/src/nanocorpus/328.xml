@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Японские исследователи разработали метод пайки серебряных <Node id="59"/>нанопроволок<Node id="71"/>. Метод описан в статье, опубликованной в журнале Journal of Materials Chemistry со свободным доступом читателя.
+
+Постоянная потребность электроники во все меньших габаритах приборов и деталей, инициировала большой интерес в исследовании возможности дизайна и изготовления. Ключевой является важнейшая задача соединения <Node id="391"/>нанопроволок<Node id="403"/> при изготовлении схемы. Качество этого соединения определяет стабильность схемы. Простое наложение <Node id="503"/>нанопроволок<Node id="515"/> поперек друг друга является механически нестабильным.
+
+Японские исследователи Такааки Торийама (Takaaki Toriyama) и Тситому Ишиватари (Tsutomu Ishiwatari) из Университета Шиншу (Shinshu University, Ueda) разработали метод пайки металлических <Node id="758"/>нанопроволок<Node id="770"/>, описали и продемонстрировали его на примере серебряных <Node id="827"/>нанопроволок<Node id="839"/> (Takaaki Toriyama and Tsutomu Ishiwatari,– Preparation of glue joints and bridges between Ag nanowires and their metallization. A possible method for nano-soldering, J. Mater. Chem., 27 October 2008). По мнению специалистов, этот метод является крупным шагом в технологии изготовления наносхем.
+
+Предыдущая техноология соединения серебряных <Node id="1181"/>нанопроволок<Node id="1193"/> включает в себя операцию химической редукции золотохлорной кислоты (HAuCl4) для получения частиц металлического золота. При глубоком изучении этого процесса <Node id="1351"/>Торийама<Node id="1359"/> и Ишиватари обнаружили, что после пайки серебряные проволоки корродируют. При обработке тиолом (сернистый аналог спирта), который защищает поверхность серебра, а затем уже золотохлорной кислотой, им удалось избежать коррозии и создать постоянное соединение между <Node id="1623"/>нанопроволоками<Node id="1638"/>.
+
+Далее, <Node id="1648"/>Торийама<Node id="1656"/> и Ишиватари преобразовали золотохлорную кислоту. Они обнаружили, что после реакции химической редукции часть кислоты остается, но простым нагревом смеси можно довести реакцию до полного разложения. Японские исследователи предположили, что новая версия метода пайки является более совершенной по сравнению с химической редукцией и предполагает более надежное и качественное соединение <Node id="2041"/>нанопроволок<Node id="2053"/>. По мнению <Node id="2065"/>С. Рао<Node id="2071"/> (С. Rao) известного эксперта в химии материалов из Центра Развития Научных Исследований, Бангалор, Индия (Centеr for Advanced Scientific Research, Bangalore, India) метод Торийамы и Ишиватари проще и технологичнее, что делает его более перспективным при изготовлении изделий и в других нано приложениях.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="827" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="59" EndNode="71">
+</Annotation>
+<Annotation Id="2" Type="Нанопроволока" StartNode="758" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1648" EndNode="1656">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Торийама</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2065" EndNode="2071">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="391" EndNode="403">
+</Annotation>
+<Annotation Id="6" Type="Нанопроволока" StartNode="1181" EndNode="1193">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="1623" EndNode="1638">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанопроволока" StartNode="2041" EndNode="2053">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанопроволока" StartNode="503" EndNode="515">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1351" EndNode="1359">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Торийама</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Ученые из Национального института стандартов и технологий США (NIST) и их коллеги из университета Колорадо (University of Colorado) разработали оригинальную систему из <Node id="170"/>нанотрубок<Node id="180"/>, позволяющую разрезать микроскопические объекты таким образом, как домохозяйки нарезают сыр с помощью ножа из тонкой нити. 
+ 
+В статье, появившейся в <Node id="331"/>этом месяце<Node id="342"/> на 2006 Межнациональном конгрессе и выставке по проблемам технологии машиностроения (International Mechanical Engineering Congress and Exposition), ученые представили прототип нано-ножа, который может в будущем стать настольным инструментом многих исследователей, сообщает PhysOrg. Например, с его помощью биологи смогут более точно разрезать даже отдельные клетки. 
+ 
+Многие <Node id="719"/>годы<Node id="723"/> ученые-биологи разрезают замороженные ткани сверхтонкими алмазными или стеклянными ножами. Причем точно разрезать не всегда удается – чаще всего экземпляр деформируется или просто раскалывается. 
+ 
+Углеродные же <Node id="936"/>нанотрубки<Node id="946"/> – идеальные кандидаты для «ниточных ножей» благодаря своей высокой механической прочности и малому диаметру. 
+ 
+Естественно, что такой «режущий потенциал» не укрылся от глаз цитологов. Так, благодаря <Node id="1147"/>нанотрубкам<Node id="1158"/>, ученые планируют создавать трехмерные изображения клеток и тканей для электронной томографии, технология которой требует использовать образцы срезов толщиной менее 300 нанометров. 
+ 
+В <Node id="1345"/>последние несколько лет<Node id="1368"/> арсенал наноинструментов на основе <Node id="1404"/>углеродных <Node id="1415"/>нанотрубок<Node id="1425"/> значительно пополнился. Это и различные осцилляторы, и подшипники скольжения, выполненные из <Node id="1519"/>многослойных <Node id="1532"/>нанотрубок<Node id="1542"/>, и миниатюрные пинцеты. Теперь <Node id="1574"/>нанотрубки<Node id="1584"/> будут использоваться в более «простой», но, несмотря на это, и в более эффективной для производства срезов технологии. 
+ 
+Чтобы создать нано-нож, ученые сначала с помощью методов электрохимии «заострили» вольфрамовые опоры для <Node id="1812"/>нанотрубки<Node id="1822"/>. <Node id="1824"/>Затем<Node id="1829"/> к ним приварили собственно сам «нож», состоящий из однослойной <Node id="1893"/>углеродной <Node id="1904"/>нанотрубки<Node id="1914"/>. 
+ 
+Прочность нано-ножа ученые проверяли с помощью атомно-силового микроскопа. Его зондом-кантилевером удалось прогнуть <Node id="2035"/>нанотрубку<Node id="2045"/> таким образом, чтобы можно было измерить прочность устройства. Как показали результаты теста, нано-нож можно с успехом использовать для «нарезки» образцов для электронной томографии. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="719" EndNode="723">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="2035" EndNode="2045">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="936" EndNode="946">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="331" EndNode="342">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1812" EndNode="1822">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1893" EndNode="1914">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1415" EndNode="1425">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1532" EndNode="1542">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="1404" EndNode="1425">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1904" EndNode="1914">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1345" EndNode="1368">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1147" EndNode="1158">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1574" EndNode="1584">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1824" EndNode="1829">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="170" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Многослойная+нанотрубка" StartNode="1519" EndNode="1542">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

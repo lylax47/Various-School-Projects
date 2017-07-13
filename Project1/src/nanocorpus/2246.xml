@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компании General Electric Global Research, согласно ее утверждениям, удалось первой в мире произвести <Node id="103"/>органические <Node id="116"/>светоизлучающие диоды<Node id="137"/> (organic light-emitting diodes, <Node id="170"/>OLED<Node id="174"/>) на гибкой рулонной подложке, используя технологии печати.
+
+Как исходный материал, так и конечный продукт свернуты в рулоны, что отражено в англоязычном термине roll-to-roll manufacturing. В этом варианте изготовление <Node id="393"/>OLED<Node id="397"/>-устройств здорово походит на процесс печати газет, а себестоимость производства снижается до такой степени, что позволяет рассматривать <Node id="534"/>OLED<Node id="538"/>-светильники в качестве более эффективной с точки зрения энергопотребления альтернативы лампам накаливания и люминесцентным светильникам.
+
+Инвестиции в эту энергосберегающую разработку GE производит как часть своей общей инициативы Ecomagination, направленной на улучшение характеристик своей продукции с точки зрения экологии. Ожидается, что подобной технологией производства скорее всего заинтересуются также производители солнечных панелей.
+
+Представители GE выразили надежду, что коммерческие образцы <Node id="1043"/>OLED<Node id="1047"/>-светильников появятся к <Node id="1072"/>2010 г.<Node id="1079"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Органический+светодиод" StartNode="170" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Органический+светодиод" StartNode="534" EndNode="538">
+</Annotation>
+<Annotation Id="7" Type="Органический+светодиод" StartNode="1043" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1072" EndNode="1079">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="116" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Органический+светодиод" StartNode="103" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Органический+светодиод" StartNode="393" EndNode="397">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+На <Node id="5"/>днях<Node id="9"/> японские учёные заявили, что исследование роста кристаллов гидроксида никеля в нанополостях может привести к повышению рабочих характеристик аккумуляторов. Их работа ("Crystal formation and growth during the hydrothermal synthesis of β-Ni(OH)2 in one-dimensional nano space") была опубликована в Dalton Transactions. 
+Hironori Orikasa и его коллеги из Tohoku University использовали одномерные нанополости в роли реакторов для контроля размера <Node id="454"/>наностержней<Node id="466"/>. В качестве нанополостей выступали покрытые углеродом нанопоры в анодированном оксиде алюминия. Преимущество этой матрицы состоит в том, что нанопоры имеют одинаковые размеры, а также расположены параллельно друг другу. Диаметр пор меняли от 25 до 300 нм. Используя <Node id="733"/>химическое осаждение<Node id="753"/> из газовой фазы (CVD), матрицу покрыли углеродом.  
+Гидроксид никеля получали при помощи гидротермального синтеза, при протекании которого происходило растворение матрицы. Используя <Node id="936"/>просвечивающую электронную микроскопию<Node id="974"/> (TEM), исследователи изучили процесс кристаллизации внутри <Node id="1034"/>нанотрубок<Node id="1044"/>. На первом этапе происходит образование гексагональных кристаллов. Когда границы кристалла достигают стенок прочной <Node id="1161"/>углеродной <Node id="1172"/>нанотрубки<Node id="1182"/>, кристаллу приходится принимать её форму, что и приводит к формированию нанострежней. Это позволяет синтезировать <Node id="1297"/>наностержни<Node id="1308"/> гидроксида никеля заданной формы и размера. 
+Гидроксид никеля используется в качестве материала электродов в аккумуляторах. Orikasa отмечает, что контролируя форму и размер <Node id="1482"/>нанокристаллов<Node id="1496"/> гидроксида никеля, можно повысить производительность и долговечность электродов, и, следовательно, аккумуляторов. 
+Angus Kirkland из университета University of Oxford, UK отметил, что описанный метод может быть использован для крупномасштабного синтеза <Node id="1750"/>наноразмерных частиц<Node id="1770"/> оксидов металлов.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Химическое+осаждение" StartNode="733" EndNode="753">
+</Annotation>
+<Annotation Id="2" Type="Просвечивающая+электронная+микроскопия" StartNode="936" EndNode="974">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наностержень" StartNode="1297" EndNode="1308">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="454" EndNode="466">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1034" EndNode="1044">
+</Annotation>
+<Annotation Id="8" Type="Нанокристалл" StartNode="1482" EndNode="1496">
+</Annotation>
+<Annotation Id="9" Type="Нульмерная+наноструктура" StartNode="1750" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="5" EndNode="9">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="1161" EndNode="1182">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1172" EndNode="1182">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

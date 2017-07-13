@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Группа исследователей из Филадельфии (Lankenau Institute for Medical Research) разработала терапевтический агент, основанный на ДНК и доставляемый с помощью <Node id="158"/>наночастиц<Node id="168"/>, способный специфично лечить гипертрофию простаты и локализованные опухоли, не оказывая токсичного действия в окружающих тканях.
+
+Исследователи использовали <Node id="326"/>наночастицы<Node id="337"/> биосовместимого и биодеградируемого полимера для доставки «суицидального гена», кодирующего токсин дифтерии. Для того, чтобы ген работал только в ткани простаты, к нему был присоединён регулятор, реагирующий на присутствие белка, специфичного для простаты. В отсутствие этого белка ген токсина пассивен и, следовательно, безвреден для всех остальных тканей.
+
+Новый метод был протестирован на мышах. При прямой инъекции в простату наблюдалось значительное снижения размера предстательной железы и опухолей. Исследователи показали, что этот эффект вызван апоптозом – «запрограммированной гибелью» клеток. Однократная инъекция вызывала апоптоз в <Node id="981"/>80%<Node id="984"/> клеток опухоли. Инъекции же генного конструкта без <Node id="1036"/>наночастиц<Node id="1046"/> не вызывали какого-либо эффекта. Учёные полагают, что повторное введение препарата позволит повысить процент подвергающихся апоптозу клеток опухоли. В <Node id="1198"/>настоящее время<Node id="1213"/> идёт проверка этой гипотезы.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="158" EndNode="168">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="981" EndNode="984">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="326" EndNode="337">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1036" EndNode="1046">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1198" EndNode="1213">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

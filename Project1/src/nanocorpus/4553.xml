@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Евгений Евдокимов приступил к работе в должности управляющего директора по инфраструктурной деятельности РОСНАНОЕвгений Евдокимов приступил к работе в должности управляющего директора по инфраструктурной деятельности Российской корпорации нанотехнологий.
+Евгений Евдокимов <Node id="273"/>родился 7 октября <Node id="291"/>1972<Node id="295"/> года<Node id="300"/>. Получил базовое высшее экономическое образование в США. Степень MBA – в Финляндии в Helsinki School of Economics. Прошел курс Американского фонда гражданских исследований и развития (CRDF) «Создание и управление венчурным фондом».
+ Имеет <Node id="540"/>более 10 лет<Node id="552"/> опыта работы в сфере венчурных инвестиций. Участвовал в финансировании start-up компаний в США, Израиле, России. <Node id="666"/>Несколько лет<Node id="679"/> руководил проектами Российской ассоциации прямого и венчурного инвестирования (<Node id="759"/>РАВИ<Node id="763"/>). 
+С 2003 сотрудничал как консультант, а <Node id="805"/>с 2006 по 2008 г.<Node id="822"/> – управляющий Российского технологического фонда, где занимался развитием портфельных компаний на уровне совета директоров. В <Node id="949"/>2007 – 2008 гг<Node id="963"/>. – занимался формированием УК «Bioprocess Capital Partners» (фонд венчурных инвестиций – «Bioprocess Capital Ventures»). Принимал участие в разработке концепции фонда, а также в процессе привлечения средств инвесторов и подготовки инвестиционных сделок.
+<Node id="1218"/>http://www.rusnanotekh.ru/…ication.aspx?…Да<Node id="1261"/> уж… И сама ГК РОСНАНО усложняется, и инфраструктура будущей наноиндустрии в нашей стране становится всё более сложной и разнообразной. И руководить, и управлять этим всё более усложняющимся хозяйством надо… Вот и поставили на этот пост молодого, но уже довольно опытного руководителя. (Умыкнули у <Node id="1559"/>РАВИ<Node id="1563"/>? ;-)) В добрый путь! Поздравим его и пожелаем удачи и новых, больших свершений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата_рождения" StartNode="273" EndNode="295">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="540" EndNode="552">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1559" EndNode="1563">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рави</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1218" EndNode="1261">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="949" EndNode="963">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="666" EndNode="679">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="759" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рави</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="805" EndNode="822">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="291" EndNode="300">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Торгпредство РФ в Австрии будет продвигать инновационные проекты РАНВЕНА, <Node id="74"/>23 авг<Node id="80"/> – Торговое представительство России в Австрии будет сотрудничать с Российской Академией наук в целях продвижения на европейский рынок инновационных проектов – такое соглашение <Node id="257"/>подписали в пятницу торгпред РФ Юрий Стеценко и председатель научного центра РАН в Черноголовке академик Сергей Алдошин<Node id="376"/>.
+«<Node id="379"/>Этот документ мы рассматриваем как пилотный проект для отработки связей всей Академии наук в области новых технологий с Западом и привлечению инвестиций<Node id="531"/>», – сказал РИА Новости Сергей Алдошин<Node id="569"/>.
+По его словам,
+ 
+«Вена – центр Европы, и РАН надеется на высокую отдачу в деле продвижения своих разработок».
+  «У нас есть уже несколько готовых серьезных проектов, которые должны заинтересовать зарубежных партнеров, – отметил академик. – Речь идет, в частности, о терапии раковых опухолей с помощью пучков протонов, об уничтожении мусора для получения синтез-газа с целью использования его в качестве экологически чистого топлива, о разработке новых технологий утилизации парниковых газов, причем мы рассчитываем осуществить в этой области совместный российско-европейский проект. Наконец, есть много планов в сфере создания новых нанотехнологий и <Node id="1221"/>наноматериалов<Node id="1235"/>».
+ 
+В свою очередь, <Node id="1256"/>Стеценко подчеркнул, что<Node id="1280"/>, согласно соглашению, торгпредство будет «обеспечивать конкретную работу с конкретными проектами на территории Австрии и других европейских стран»<Node id="1427"/>.
+ «Инновационный товар – это продукт, который создает новый рынки, – заявил он. – Торгпредство будет участвовать в формировании такого нового рынка».
+ <Node id="1579"/>Юрьев<Node id="1584"/> <Node id="1585"/>Александрhttp://www.rian.ru/…0615365.htmlДипломаты<Node id="1635"/> будут продвигать инновационные проекты РАН. И это – очень правильно и очень здорово! Ибо, всем известно, что под лежачий камень вода не течёт. Нужно именно «продвигать», предлагать, заинтересовывать. Чем, кстати, уже давно и небезуспешно занимаются торгпреды и дипломаты других стран. Так что можно сказать, что это событие, пожалуй, знаменует начало знАковой тенденции в нашем «наступлении» на Европу и Запад вообще. Тем более, что у нас есть ЧТО предложить. Знаменательно, что в этом деле уже с самого начала отводится самостоятельное место продукции нарождающейся отечественной наноиндустрии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1256" EndNode="1427">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1256" EndNode="1427">
+</Annotation>
+<Annotation Id="2" Type="упоминает" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="74" EndNode="80">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">авг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="379" EndNode="531">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="379" EndNode="531">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1579" EndNode="1584">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юрьев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="379" EndNode="531">
+</Annotation>
+<Annotation Id="15" Type="встречи_и_переговоры" StartNode="257" EndNode="376">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="379" EndNode="569">
+</Annotation>
+<Annotation Id="16" Type="упоминается_с" StartNode="379" EndNode="1427">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1585" EndNode="1635">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="1280" EndNode="1427">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="379" EndNode="531">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="379" EndNode="569">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="цитаты" StartNode="1280" EndNode="1427">
+</Annotation>
+<Annotation Id="24" Type="Наноматериал" StartNode="1221" EndNode="1235">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

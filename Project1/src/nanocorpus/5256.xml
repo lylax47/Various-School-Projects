@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Коллаж реальных изображений <Node id="30"/>сканирующей электронной микроскопии<Node id="65"/> и нереальных 3D картинок. Использование плоскости симметрии создало много ассоциаций :) 
+(3D картинки (Rhino) а также регулярные литографические бороздки для работы сделаны Мастером и Доктором <Node id="259"/>Ваном<Node id="264"/> Векрисом). 
+Коллаж был сделан и предложен, как одна из версий для обложки журнала. 
+ 
+Научная суть: полоски коллоидного фотонного кристалла можно закручивать контролируемо при инверсии матрицы кристалла с сохранением высокой степени упорядоченности. 
+    
+ 
+      
+ 
+  
+ 
+              
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="259" EndNode="264">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ван</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Сканирующая+электронная+микроскопия" StartNode="30" EndNode="65">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

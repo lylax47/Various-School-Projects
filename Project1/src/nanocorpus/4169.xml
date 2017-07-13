@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Иркутский институт химии им А.Е. Фаворского  ацетилен, высокоосновные гетерофазные системы , наноразмерные катализаторы , наноразмерные сверхчувствительные <Node id="158"/>сенсоры<Node id="165"/>, оптоэлектронные материалы, пиррольные системы, радионуклид   <Node id="228"/>Наноматериалы<Node id="241"/> Химия высокомолекулярных соединений   использование высокоосновных гетерофазных систем для генерирования и синтетического использования фосфид- и фосфинит-анионов из  <Node id="409"/>нанокомпозитов<Node id="423"/> элементного фосфора с углеродом, серой: направленный синтез фосфинов, фосфиноксидов и органических кислот фосфора наноразмерные катализаторы на основе переходных металлов и природных стабилизирующих матриц в химии ацетилена особенности строения гетероатомных и функциональных виниловых и ацетиленовых соединений развитие новой методологии синтеза фосфинов и фосфинхалькогенидов на основе элементного фосфора и его <Node id="838"/>нанокомпозитов<Node id="852"/> с использованием ацетиленов и других электрофилов в присутствии сильных оснований: дизайн новых негорючих материалов, катализаторов нового поколения, наноструктурированных полупроводников и специальных растворителей для стабилизации наносистем, экстрагентов и сорбентов тяжелых металлов и радионуклидов разработка методов направленного синтеза новых веществ и материалов разработка методов синтеза новых функционализированных пиррольных систем с использованием ацетилена – прекурсоров оптоэлектронных материалов, новых поколений органических проводников и полупроводников, наноразмерных сверхчувствительных <Node id="1460"/>сенсоров<Node id="1468"/> синтез новых фармакофоров и прекурсоров лекарственных средств на базе ацетилена синтез пирролов и N-винилпирролов из кетоксимов и ацетилена                             Борис Александрович Трофимов, заведующий лабораторией, профессор, доктор наук 
+В состав лаборатории входят группы:
+  пиррольных соединений  химии ацетилена и фосфора  химии активированных ацетиленов  химии гетероциклических соединений  химии комплексных соединений  электропроводящих и электрохимически активных материалов  
+Число сотрудников: 50 
+в том числе: 13 д. х. н., 26 к. х. н., 7 аспирантов 
+   BASF Aktiengesellscahft , Germany Brigham Young University , USA Heidelberg University , Germany Moltech Corporation , USA      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="1460" EndNode="1468">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанокомпозит" StartNode="409" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="158" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="228" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанокомпозит" StartNode="838" EndNode="852">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

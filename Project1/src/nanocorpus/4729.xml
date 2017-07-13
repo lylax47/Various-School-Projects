@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Материал лекции публикуется с разрешения автора для размещения на данном сайте. При копировании и любом другом использовании лекции следует проконсультироваться с правобладателем материала, а также, помимо гиперссылки на данную публикацию, указать название и автора оригинального источника. Лекция "Основные тенденции и перспективы развития микро- и наноэлектроники" была публично прочитана <Node id="392"/>26 июня<Node id="399"/> на пленарной секции Санкт-Петербургского научного форума "Наука и общество. Нанотехнологии: исследования и образование" — III Петербургская встреча лауреатов Нобелевской премии.
+ 
+Генеральный директор ОАО "НИИМЭ и Микрон" Г.Я.Красников<Node id="635"/> <Node id="636"/>был избран академиком в <Node id="660"/>2008 г.<Node id="667"/> по отделению нанотехнологий и информационных технологий РАН. Лекция была посвящена обсуждению фундаментальных и прикладных проблем развития микро- и наноэлектроники в приложении к Российской Федерации. Ниже приводятся копии слайдов, а также аудиозапись выступления и ответов на вопросы.
+         </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="660" EndNode="667">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="635" EndNode="636">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="635" EndNode="636">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="392" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

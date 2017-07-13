@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Оптическая микроскопия (размер поля около 25 микрон на 50 микрон). 
+Серебряные <Node id="80"/>наностержни<Node id="91"/> (пока еще не монодисперсные). 
+Ширина стержней порядка 50 нм (из ПЭМ). 
+Разные цвета определяются разбросом ширины стержней и их различным прилеганием к поверхности, вызывающих вариацию плазмонного резонанса. 
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наностержень" StartNode="80" EndNode="91">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Воспользовавшись способностью <Node id="31"/>наночастиц<Node id="41"/> золота<Node id="48"/> самостоятельно собираться в определённые структуры, Вэй Линь Лэун (Wei Lin Leong) и <Node id="133"/>его<Node id="136"/> коллеги из сингапурского технологического университета <Node id="192"/>Наньян<Node id="198"/> (Nanyang Technological University) создали новую органическую систему компьютерной памяти. 
+Как можно увидеть на схеме, она состоит (сверху вниз) из золотого электрода, слоя пентацена, <Node id="384"/>наночастиц<Node id="394"/> золота<Node id="401"/> (они окружены стабилизирующим веществом – цитратом, и лежат в один слой), скрепляющего слоя и далее из слоёв диоксида кремния и кремния, которые формируют нижний электрод. 
+Пентацен (органический полупроводник) и <Node id="615"/>наночастицы<Node id="626"/> золота<Node id="633"/> создают систему, способную хранить информацию в виде зарядов на <Node id="698"/>золотых <Node id="706"/>наночастицах<Node id="718"/>. Последние оказались способными заманивать в ловушку и хранить "дырки", то есть положительные заряды. Запись и чтение производились приложением напряжения, соответственно, одной или другой полярности. 
+"Этот подход к использованию <Node id="950"/>золотых <Node id="958"/>наночастиц<Node id="968"/>, стабилизированных солью лимонной кислоты, в качестве наноловушек для зарядов, благодаря простоте устройства, простоте и дешевизне его изготовления, может пригодиться для создания чипов памяти, которые могут быть интегрированы в дёшевые пластмассовые электронные схемы", — рассказал Линь Лэун. 
+Данная работа — часть более крупного проекта "Полимерные молекулярная электроника и устройства" (PMED), выполняемого совместно сингапурским агентством науки, технологий и исследований (A*STAR) и технологическим университетом <Node id="1489"/>Наньян<Node id="1495"/>. 
+Электроника на основе органики и полимеров, вместо кремния, равно как на основе различных неорганических соединений, нанесённых на гибкую полимерную подложку — одно из перспективных направлений техники, развиваемых в разных странах. 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица+золота" StartNode="615" EndNode="633">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="31" EndNode="41">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="950" EndNode="968">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица+золота" StartNode="384" EndNode="401">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица+золота" StartNode="31" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="384" EndNode="394">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="615" EndNode="626">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="192" EndNode="198">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наньян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1489" EndNode="1495">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наньян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="706" EndNode="718">
+</Annotation>
+<Annotation Id="19" Type="Наночастица+золота" StartNode="698" EndNode="718">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="133" EndNode="136">
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="958" EndNode="968">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

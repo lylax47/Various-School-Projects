@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Японии (Shiga University of Medical Science) изобрели метод разделения стереоизомеров <Node id="104"/>нанотрубок<Node id="114"/> с помощью химического «нанопинцета».
+
+Этот метод является важным шагом на пути к использованию оптически активных <Node id="229"/>нанотрубок<Node id="239"/> в таких областях, как нано- и оптоэлектроника.
+
+С помощью современных методов синтеза однослойных <Node id="338"/>углеродных <Node id="349"/>нанотрубок<Node id="359"/> возможно приготовить лишь смесь, содержащую в равных пропорциях лево- и право-спиральные <Node id="449"/>нанотрубки<Node id="459"/>. Ранее были предложены способы сортировки <Node id="502"/>нанотрубок<Node id="512"/> по диаметру и длине, но разделение различных хиральностей (оптических или стереоизомеров) являлось труднорешаемой задачей.
+
+Впервые разделение хиральных (от греческого слова «рука» – объект, который не тождественен своему зеркальному отражению) молекул было осуществлено Луи Пастером в <Node id="799"/>1849 году<Node id="808"/>. Он отделял асимметричные кристаллы виннокаменной кислоты вручную, используя пинцет и микроскоп. Следуя подобным принципам, <Node id="933"/>Наоки Коматсу<Node id="946"/> с коллегами разработали «нанопинцет», способный различать хиральные изомеры <Node id="1023"/>нанотрубок<Node id="1033"/>. <Node id="1035"/>Он<Node id="1037"/> состоит из двух связанных порфириновых циклов, соединённых мостиками-разделителями (Рис. 1).
+
+Метод работает по принципу молекулярного распознавания. Бипорфириновые молекулы имеют различное сродство к лево- и правовращательным изомерам <Node id="1274"/>нанотрубок<Node id="1284"/> и образуют с ними комплексы с различной устойчивостью, которые легко могут быть разделены. После разделения бипорфирины удаляются, а на руках у исследователей остаются образцы, обогащённые лево- или право-спиральными <Node id="1502"/>нанотрубками<Node id="1514"/> (Рис. 2).
+
+Полученные таким способом образцы оптически активны – они по-разному поглощают свет с круговой поляризацией, в то время как исходная смесь одинаково сильно поглощает свет с правой и левой поляризациями. Подобные методы разделения <Node id="1756"/>нанотрубок<Node id="1766"/> позволят лучше понимать и контролировать их оптические свойства. Это является важным шагом на пути к приложениям <Node id="1880"/>нанотрубок<Node id="1890"/> в фотонике и квантовой оптике.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="799" EndNode="808">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="799" EndNode="808">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1502" EndNode="1514">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1023" EndNode="1033">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1035" EndNode="1037">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="338" EndNode="359">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="349" EndNode="359">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1274" EndNode="1284">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="933" EndNode="946">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наоки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="502" EndNode="512">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="229" EndNode="239">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="449" EndNode="459">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1880" EndNode="1890">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1756" EndNode="1766">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

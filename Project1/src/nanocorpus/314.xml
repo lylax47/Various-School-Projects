@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Член-корреспондент РАН, профессор кафедры неорганической химии химического факультета МГУ, заместитель декана факультета наук о материалах МГУ. Статус: Член организационного комитета 
+Избран членом-корреспондентом РАН в <Node id="220"/>2006 г.<Node id="227"/>, преподает на кафедре неорганической химиихимического факультета МГУ, заместитель декана факультета наук о материалах МГУ, редактор сайта "Нанометр".
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="220" EndNode="227">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>20 июля 2007 года<Node id="18"/>
+РАСПОРЯЖЕНИЕ Правительства РФ от <Node id="52"/>14.07.2007<Node id="62"/> N 937-р &lt;КОНЦЕПЦИЯ ФЕДЕРАЛЬНОЙ ЦЕЛЕВОЙ ПРОГРАММЫ «РАЗВИТИЕ ИНФРАСТРУКТУРЫ НАНОИНДУСТРИИ В РОССИЙСКОЙ ФЕДЕРАЦИИ НА <Node id="177"/>2008 – 2010 ГОДЫ<Node id="193"/>»&gt;
+Утвержденная Концепция развития федеральной целевой программы «Развитие инфраструктуры наноиндустрии в Российской Федерации на <Node id="323"/>2008 – 2010 годы<Node id="339"/>» содержит, в частности, обоснование соответствие решаемой проблемы приоритетным задачам социально-экономического развития нашей страны, целесообразности решения проблемы выбранным методом, возможные варианты решения проблемы, ориентировочный срок ее решения.
+
+Определена цель программы – создание в Российской Федерации современной инфраструктуры национальной нанотехнологической сети.
+
+<Node id="727"/>Дана<Node id="731"/> предварительная оценка ожидаемой эффективности и результативности решения проблемы. В числе ожидаемых результатов – создание нового поколения <Node id="874"/>наноматериалов<Node id="888"/> и нанотехнологий для использования в ключевых областях науки и техники, увеличение доли продукции, произведенной с помощью созданной в рамках Программы инфраструктуры наноиндустрии, до <Node id="1074"/>75 процентов<Node id="1086"/> общего объема продукции наноиндустрии, произведенной в России.
+
+Государственным заказчиком – координатором названной федеральной целевой программы определено Минобрнауки РФ.
+<Node id="1261"/>http://www.consultant.ru/…/158314.htmlНу<Node id="1301"/> вот, появился и сам документ. По крайней мере, известны его индивидуальный/порядковый номер и дата выпуска в свет. Вся, как говорится, «бумажная» работа подошла к концу. Теперь нужно, засучив рукава, приступать к его реальному воплощению в жизнь. Доброго пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="52" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">07</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1074" EndNode="1086">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1261" EndNode="1301">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="727" EndNode="731">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="323" EndNode="339">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="177" EndNode="193">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="874" EndNode="888">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

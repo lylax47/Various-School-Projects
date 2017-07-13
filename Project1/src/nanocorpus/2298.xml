@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые-химики из Италии разработали способ очистки старинных полотен, написанных маслом с помощью так называемых «наномагнитных губок». Как говорят ученые, нанотехнологии помогут не только в реставрации произведений искусства: картин, фресок, скульптур, но будут полезны и в косметике и биотехнологии.
+
+Известный реставратор Пьеро Баглиони (Piero Baglioni) и <Node id="360"/>его<Node id="363"/> коллеги из Флорентийского Университета установили, что новая технология «наномагнитных губок» также позволяет не только очищать, но и консервировать на длительный срок, например, полотна, написанные маслом.
+
+Зачастую для консервации на картину наносят специальный гель с очищающими веществами, по консистенции и внешнему виду схожий с желатиновыми десертами.
+
+По сравнению с действием на картину жидкостей, гели хуже проникают внутрь нее гораздо хуже, поэтому причиняют ей меньше вреда.
+
+Пьеро и <Node id="860"/>его<Node id="863"/> коллеги «усовершенствовали» эти очищающие гели <Node id="911"/>наночастицами<Node id="924"/>, состоящими из кобальта и окиси железа. В результате гель с <Node id="985"/>наночастицами<Node id="998"/> назвали «наномагнитной губкой» из-за ее пористой структуры. Поры диаметром около 50 нанометров ученые заполнили очищающими микроэмульсиями, которые и будут «драить» поверхность картины.
+
+С помощью геля-губки очищать «тестовую» картину не составило труда. Сперва ее покрыли слоем геля толщиной несколько миллиметров, и после получаса (вообще-то для очистки различной степени загрязнения требуется разное время) пассивной очистки пленку убирают обычным магнитом. Таким образом физических усилий к картине никто не прилагает, и это существенный плюс для реставраторов – старые шедевры требуют осторожного ухода.
+
+Интересно и то, что после использования гель можно высушить, и, наполнив его очищающим средством, использовать повторно.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="860" EndNode="863">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="911" EndNode="924">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="360" EndNode="363">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="985" EndNode="998">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

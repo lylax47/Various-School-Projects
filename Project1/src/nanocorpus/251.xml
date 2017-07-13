@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На фотографии изображен рельеф металлической подложки, образующийся при анодном окислении титана. В ходе анодного окисления происходил рост слоя <Node id="147"/>нанотрубок<Node id="157"/> диоксида титана, ориентированных перпендикулярно подложке. Интересно, что радиус <Node id="239"/>нанотрубок<Node id="249"/>, получаемых таким методом, практически одинаков, и его можно контролировать путем подбора электролитов и напряжений. После удаления <Node id="382"/>нанотрубок<Node id="392"/> на подложке остается массив из углублений. Фотография получена на растровом электронном микроскопе LEOSupra 50 VP и обработана в цвете с помощью графического редактора. Размер изображения 7.27*4.77 мкм.     
+ 
+        
+ 
+  
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="382" EndNode="392">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="147" EndNode="157">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="239" EndNode="249">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

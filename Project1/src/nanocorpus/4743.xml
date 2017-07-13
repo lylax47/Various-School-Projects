@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Одна из тем деловой программы <Node id="31"/>второго дня<Node id="42"/> работы Международного форума по нанотехнологиям была посвящена вопросу форсайта, дорожных карт и индикатороров в области нанотехнологий и наноиндустрии. Эта тема обсуждалась в течении всего <Node id="233"/>дня<Node id="236"/> в одном из залов секционных заседаний. Обсуждение темы началось с панельной дискуссии и была завершена презентациями участников.
+ Леонид Гохберг<Node id="381"/> – <Node id="384"/>Первый проректор Высшей школы экономики с презентацией на тему: «Статистика нанотехнологий в России».
+ Кристофер Палмберг – Директорат по науке, технологиям и промышленности, Организация экономического сотрудничества и развития (ОЭСР) с презентацией «Измерение нанотехнологий» (по-английски).
+ Мэтью Нордан (LUX Research) «Рынки нанотехнологий» (по-английски)
+ Михаил Рычев – Российский научный центр «Курчатовский институт» – «Национальная нанотехнологическая сеть: от научных исследований к бизнесу».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="381" EndNode="384">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">проректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="31" EndNode="42">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="381" EndNode="384">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="233" EndNode="236">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

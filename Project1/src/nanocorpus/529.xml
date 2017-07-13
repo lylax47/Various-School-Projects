@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Как сообщает пресс-служба ОИЯИ, <Node id="33"/>20—21 ноября 2008 года<Node id="55"/> в Дубне состоится конференция «Особая экономическая зона «Дубна» — первые шаги».
+
+В рамках конференции пройдет заседание секции «Формирование и развитие кластера в сфере ядерно-физических и нанотехнологий. Композитные материалы» и расширенное заседание <Node id="309"/>Научно-технического совета<Node id="335"/> по ядерно-физическим и нанотехнологиям. Предполагается обсудить вопросы, связанные с мировыми тенденциями в развитии ядерно-физических и нанотехнологий и коммерциализаций научных разработок в ОЭЗ «Дубна».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="309" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Научно-технического совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="33" EndNode="55">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

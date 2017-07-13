@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+МОСКВА, <Node id="9"/>14 июня<Node id="16"/> – Россия и Украина договорились о тесном взаимодействии в области нанотехнологий и совместном финансировании инновационных проектов, сообщил министр образования и науки РФ Андрей Фурсенко.
+ 
+«Мы договорились о тесном взаимодействии в области науки, нанотехнологий, совместном финансировании инновационных проектов, проведении форумов студентов», – сказал он журналистам по итогам второго заседания Подкомитета по вопросам гуманитарного сотрудничества российско-украинской Межгоскомиссии «Путин – Ющенко».
+ 
+По словам министра, в <Node id="546"/>июле<Node id="550"/> <Node id="551"/>текущего года<Node id="564"/> будет объявлен конкурс о поддержке инновационных проектов, пишет РИА «Новости». Кроме того, будет создана совместная рабочая группа по нанотехнологиям, в задачи которой войдет определение общих приоритетов для обеспечения финансирования проектов и формирования рынка нанотехнологической продукции.
+
+Фурсенко сообщил также, что в <Node id="894"/>августе<Node id="901"/> правительство представит проекты соглашений России и Украины о признании качества медицинских препаратов, о реадмиссии, о культурном сотрудничестве, а также о взаимодействии в туристической сфере.
+<Node id="1099"/>http://www.strana.ru/…/315147.htmlИ<Node id="1134"/> это правильно! Народы-братья должны должны сотрудничать и вместе развивать всё ценное и полезное, что у нас есть. Тем более, что на Украине наверняка сохранились талантливые кадры и специалисты…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1099" EndNode="1134">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="551" EndNode="564">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="9" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="546" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="894" EndNode="901">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

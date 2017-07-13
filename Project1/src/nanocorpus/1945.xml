@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Израильские ученые разработали покрытие, освобождающее домохозяек от мытья оконИзраильские ученые профессор <Node id="108"/>Хана Давидюк<Node id="120"/>, возглавляющая отдел технологии пластмасс в институте Шенкар в Рамат-Гане и доктор <Node id="204"/>Ана Дотан<Node id="213"/> разработали новое покрытие, предотвращающее прилипание и накопление материалов на поверхности, на которую оно было нанесено, сообщает газета «Едиот Ахронот».
+ Покрытие, разработанное при помощи нанотехнологий, предназначено для защиты поверхностей от пыли, грязи и льда, и имеет широчайший спектр предназначений: от нанесения на окна в жилых домах до защиты самолетов от обледенения поверхности. Покрытие еще не запатентовано и не имеет собственного имени. В лаборатории его называют «Лотос», в честь цветка, по легенде всегда сохраняющим свою чистоту.
+
+Недавно «Лотос» был проверен в специальной канадской лаборатории в условиях, имитирующих полет самолета в верхних слоях атмосферы. Материал был признан лучшим из ныне существующих для защиты самолетов от обледенения.
+ По словам профессора <Node id="1007"/>Давидюк<Node id="1014"/>, новый материал имеет огромное преимущество, он не наносит ни малейшего ущерба окружающей среде, дешев в разработке и прозрачен. <Node id="1144"/>http://www.newsru.co.il/…chen307.htmlНу<Node id="1183"/> что ж, не они первые, не они последние… Только вот что-то не слышно об аналогичных наших, отечественных разработках. А, казалось бы, ЧТО тут сложного? Может быть, просто мы об этом не знаем?.. Хорошо бы, если б это было так…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="108" EndNode="120">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Давидюк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1144" EndNode="1183">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1007" EndNode="1014">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Давидюк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="204" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

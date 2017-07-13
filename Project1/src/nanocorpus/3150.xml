@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Европейское Космическое Агентство (ESA)<Node id="40"/> поручило Национальной Физической Лаборатории (National Physical Laboratory – NPL), Великобритания сделать обзор по развитию нанотехнологии в Европе. Группа <Node id="197"/>наноматериалов<Node id="211"/> NPL возглавит консорциум, призванный определить следующее поколение нано и смарт («умных») материалов, которые будут применяться в космических программах будущего.
+
+NPL получила контракт с космическим агентством благодаря длительной экспертизе в области материаловедения и обширного опыта в области космической промышленности. NPL является британским и мировым лидером в разработке, поддержке и применении наиболее точных измерительных стандартов, современных научных и технологических знаний. NPL работает в данном сегменте рынка <Node id="743"/>более ста лет<Node id="756"/>.
+
+Ведущий исследователь группы <Node id="788"/>наноматериалов<Node id="802"/> Национальной Физической Лаборатории Лори Уинклесс (Laurie Winkless) считает, что прогресс в нанотехнологии будет важным условием успеха Европейской космической программы. Вес космического корабля является ключевым фактором в общей стоимости любого космического полета. Правильный выбор наиболее легких, прочных и эффективных материалов и способов их использования может оказать огромное влияние на космическую программу.
+
+Консорциум, возглавляемый NPL должен помочь <Node id="1269"/>Европейскому Космическому Агентству<Node id="1304"/> определить компании с наивысшим потенциалом в области <Node id="1359"/>наноматериалов<Node id="1373"/>, которые смогут внести серьезный вклад в будущее околоземной космической техники. Более того, консорциум должен определить каким образом эти предполагаемые материалы могут быть использованы в реальных космических приложениях. «Умные» материалы высокого качества и тщательно тестированные будут играть существенную роль в будущих программах.
+
+Партнерами Национальной Физической Лаборатории по консорциуму станут специальное консультационное агентство ESYS Ltd. и Институт Нанотехнологии (Institute of Nanotechnology). Первый отчет консорциум долен предоставить в <Node id="1936"/>августе 2009 г.<Node id="1951"/> Это позволит космическому агентству рассмотреть потенциальные приложения <Node id="2025"/>наноматериалов<Node id="2039"/> для космических исследований и полетов и оценить количественно возможные усовершенствования космических систем. К <Node id="2154"/>июлю 2009 года<Node id="2168"/> уже будет понятно, как космическая программа может использовать <Node id="2233"/>наноматериалы<Node id="2246"/> в <Node id="2249"/>следующем десятилетии<Node id="2270"/>.
+Дополнительная информация: NPL ESYS Ltd. Institute of Nanotechnology ESA </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2249" EndNode="2270">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Европейское Космическое Агентство (ESA)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="743" EndNode="756">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="2025" EndNode="2039">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="2154" EndNode="2168">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июлю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="788" EndNode="802">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="1936" EndNode="1951">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="2233" EndNode="2246">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="1269" EndNode="1304">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Европейское Космическое Агентство (ESA)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="197" EndNode="211">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1359" EndNode="1373">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

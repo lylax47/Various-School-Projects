@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Недавно проданные активы Advanced Micro Devices (AMD) в Дрездене, возможно, куплены российским правительством. Речь идет о части оборудования завода AMD, сообщает сайт Fudzilla со ссылкой на свои источники.
+
+По этим данным, AMD продала России часть своего завода в Дрездене за 300–<Node id="281"/>500 миллионов долларов<Node id="303"/>.
+Подобная покупка нужна РФ для ускорения разработки устройств с использованием нанотехнологий.
+
+В самой AMD не стали комментировать возможную сделку, однако ранее неоднократно сообщалось, что компания может продать завод в Дрездене, чтобы решить свои финансовые проблемы.
+<Node id="576"/>http://hitech.newsru.com/…2007/drezdenЧего<Node id="618"/> ж не купить, если продаётся, да ещё и недорого? А нам пригодится для ускоренного развития НТ. Все довольны, все танцуют и поют… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="281" EndNode="303">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="576" EndNode="618">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

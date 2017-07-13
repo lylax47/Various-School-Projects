@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Процессор, производимый с соблюдением норм 45-нм техпроцесса, вызывает у потребителя если не восхищение, то уважение так точно, уважение к разработчику, который смог воплотить в кремнии свои идеи. Дисплей, имеющий рекордную диагональ, также вызывает восхищение, а может ли вызвать такое же чувство новая <Node id="305"/>OLED<Node id="309"/>-панель Sony?
+
+На выставке Display 2008, проходящей в Токио, компания Sony продемонстрировала <Node id="403"/>OLED<Node id="407"/>-панель толщиной всего в 0,2 мм. Напомним, что средняя толщина человеческого волоса – 0,05 мм. Данная 3,5-дюймовая панель имеет разрешение 320х220 пикселей. Более крупный по размеру, 11-дюймовый дисплей может похвастаться уже разрешением в 960×540 пикселей. Стоит отметить, что размер не повлиял на качество изображения.
+
+Если представить, что протестированный нами ноутбук Sony VAIO серии TZ оснащался бы такой <Node id="819"/>OLED<Node id="823"/>-панелью, то вместо толщины дисплейного блока в 4,7 мм возможно получили бы другую цифру, гораздо меньшую.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Органический+светодиод" StartNode="403" EndNode="407">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Органический+светодиод" StartNode="819" EndNode="823">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Органический+светодиод" StartNode="305" EndNode="309">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

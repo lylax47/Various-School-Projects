@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В литературе обсуждаются различные факторы, влияющие на зависимость электропроводимости <Node id="89"/>графена<Node id="96"/> σ от концентрации носителей заряда n, в том числе короткодейстующий потенциал дефектов структуры, “рябь” на поверхности и т.д.
+
+Сотрудники University of Maryland и University of Central Florida (США) выполнили систематические исследования транспортных характеристик <Node id="363"/>графена<Node id="370"/> как функции концентрации заряженных примесей nimp, которую они изменяли путем осаждения на <Node id="462"/>графен<Node id="468"/> атомов калия в сверхвысоком вакууме [1].
+
+Было показано, что зависимость σ от n (см. рис.) в целом неплохо описывается теоретической формулой σ = Ce(n/nimp) + σres (e – элементарный заряд, C – константа), причем величина “остаточной” проводимости σres, как и предсказывает теория, близка к σmin = 4e2/h, то есть к удвоенному “кванту проводимости” 2e2/h. Интересно, что σres минимальна (и ближе всего к σmin) при конечной величине n**σimp (а не при nimp=0). Из этого авторы [1] делают вывод, что наличие у s минимума связано не с “дираковской сингулярностью”, а с пространственной неоднородностью концентрации носителей, индуцированной примесным потенциалом.
+ 1. J.H. Chen et al., Nature Phys. 4, 377 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="363" EndNode="370">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="462" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="89" EndNode="96">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

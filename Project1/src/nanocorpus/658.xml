@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Проводящие организации: 
+- Министерство образования и науки РФ 
+- Южный научный центр РАН 
+- ГОУ ВПО "Северо-Кавказский государственный технический университет" 
+ Сроки проведения: <Node id="182"/>17-22 сентября 2007 г.<Node id="204"/> 
+Место проведения: г. Кисловодск 
+Сроки подачи заявок: <Node id="260"/>15.05.2007<Node id="270"/> Список секций и направлений: 
+- химия твердого тела, новые материалы; 
+- физика низкоразмерных структур (квантово-размерные гетероструктуры и <Node id="413"/>наноструктуры<Node id="426"/>); 
+- нанотехнология и наноэлементы; 
+- материалы и технологии создания нано- и микросистемной техники; 
+- новые широкозонные полупроводники (SiC, AlN, GaN): технология, свойства, применение; 
+- технология выращивания монокристаллов и их свойства. 
+ Сайт конференции: <Node id="694"/>http://www.ncstu.ru/<Node id="714"/> Информационное письмо </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="694" EndNode="714">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="260" EndNode="270">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">05</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="182" EndNode="204">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="413" EndNode="426">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

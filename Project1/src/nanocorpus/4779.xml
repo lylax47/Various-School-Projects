@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>13 февраля<Node id="11"/> корпорация NEC представила транзистор на основе <Node id="60"/>углеродных <Node id="71"/>нанотрубок<Node id="81"/>, изготовленный по технологии струйной печати. Первые тесты показали, что такие транзисторы могут успешно применяться в электронике. 
+ 
+Характеристики транзистора тесно связаны с длиной <Node id="267"/>нанотрубок<Node id="277"/> и плотностью их нанесения. Путем подбора этих параметров была достигнута чрезвычайно высокая подвижность электронов. 
+ 
+В пресс-релизе отмечается, что одним из преимуществ подобного рода устройств, основанных на органических и углеродных материалах, является меньший вред, который их производство наносит окружающей среде по сравнению с кремниевой технологией. Снижение выбросов CO2 может быть снижено <Node id="680"/>более чем на 90%<Node id="696"/>. Также процесс печати значительно упрощает производство электронных компонентов. 
+ 
+Материалы для органических транзисторов, как правило, обладают малой подвижностью носителей и поэтому считаются непригодными для создания высокопроизводительных устройств. Использование <Node id="967"/>углеродных <Node id="978"/>нанотрубок<Node id="988"/> позволяет в 100 раз повысить скорость работы транзисторов. 
+ 
+В NEC считают, что новая транзисторная технология  станет ключевой для дальнейшего развития электроники нового типа.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="967" EndNode="988">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="680" EndNode="696">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="60" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="978" EndNode="988">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="267" EndNode="277">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="71" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

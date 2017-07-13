@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>22 апреля<Node id="11"/> прошла официальная церемония открытия крупнейшей в странах СНГ конференции по <Node id="90"/>наноматериалам<Node id="104"/> и нанотехнологиям - Первой международной конференции "НАНО-2008" ("<Node id="172"/>Наноструктурные материалы<Node id="197"/> - 2008: Беларусь - Россия - Украина", <Node id="236"/>22-25 апреля 2008 г.<Node id="256"/>, г. Минск). На церемонии открытия прозвучали приветствия от <Node id="317"/>правительства<Node id="330"/> Республики Беларусь, мэрии г.Минска, фонда фундаментальных исследований Республики Беларусь, Национальной Академии Наук Республики Беларусь. Работа конференции в <Node id="493"/>последующие дни<Node id="508"/> проходила по 8 секциям:
+ Секция 1.<Node id="543"/>Физико<Node id="549"/>-химия <Node id="556"/>наноструктурированных материалов<Node id="588"/> (Доклады устные, Доклады стендовые)
+ Секция 2.Наноструктурные металлы, сплавы, керамика и композиционные материалы (Доклады устные, Доклады стендовые)
+ Секция 3.<Node id="750"/>Углеродные <Node id="761"/>наноматериалы<Node id="774"/> (<Node id="776"/>Фуллерены<Node id="785"/>, <Node id="787"/>нанотрубки<Node id="797"/> и материалы на их основе) (Доклады устные и стендовые)
+ Секция 4.Магнитные <Node id="873"/>наноматериалы<Node id="886"/> (Доклады устные, Доклады стендовые)
+ Секция 5.Наноэлектроника и микросистемы (Доклады устные, Доклады стендовые)
+ Секция 6.Наноструктурированные коллоидные системы (Доклады устные и стендовые)
+ Секция 7.Методы аттестации и сертификации <Node id="1123"/>наноматериалов<Node id="1137"/> (Доклады устные и стендовые)
+ Секция 8.Сессия МНТЦ (Доклады устные)
+ 
+На конференции присутствовало около 400 участников из Беларуси, Украины, России, стран СНГ.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="90" EndNode="104">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="2" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="493" EndNode="508">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="761" EndNode="774">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="543" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Физико</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="556" EndNode="588">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="1123" EndNode="1137">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Углеродный+наноматериал" StartNode="750" EndNode="774">
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="317" EndNode="330">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Фуллерен" StartNode="776" EndNode="785">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="787" EndNode="797">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="236" EndNode="256">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="172" EndNode="197">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="873" EndNode="886">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

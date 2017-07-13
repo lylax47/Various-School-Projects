@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Изобретена новая краска стойкая к грязи и царапинамКомпания Nanovere, специализирующаяся на внедрении нанотехнологий, представила новую технологию окраску автомобилей. Новый тип краски названный Zyvere 2K Nanocoating стойка к любым загрязнениям и царапинам.
+Как утверждает производитель, новая краска на <Node id="304"/>53%<Node id="307"/> более стойка к царапинам и отталкивает грязи на <Node id="356"/>60%<Node id="359"/> больше, чем это делают обычные автомобильные краски. Немаловажным фактором является и то, что <Node id="454"/>в течение пяти лет<Node id="472"/> новое покрытие сохраняет свой первоначальный блеск. В ходе испытаний Zyvere 2K Nanocoating показала лучшие результаты в сравнении с изделиями таких фирм, как CeramiClear и DuPont.
+<Node id="653"/>http://www.carpark.ru/…ws/index.php?…Началось<Node id="698"/> производство «суперкраски»
+Специалисты компании Nanovere разработали лакокрасочное покрытие, устойчивое к повреждениям и загрязнению.
+
+Краску под называнием Zyvere 2K Nanocoating, сделали с применением нанотехнологий. Её покрытие на <Node id="932"/>53%<Node id="935"/> лучше сопротивляется повреждениям и на <Node id="975"/>60%<Node id="978"/> — загрязнению, сохраняет первозданный блеск <Node id="1023"/>в течение пяти лет<Node id="1041"/>. Эффективно противостоит маслу, грязи, краске, воде и снегу, оставаясь чистым насколько это возможно.
+
+Если ею покрыть диски колес, они намного лучше противостоят «тормозной» пыли.
+<Node id="1223"/>http://www.cars.ru/news/3029/Nanovere<Node id="1260"/> <Node id="1261"/>Technologieshttp://www.nanocoatings.com/about_us.htmlhttp://www.nanocoatings.com/…n%202007.pdfZyvere<Node id="1361"/> – это что, искажённое русское слово «зверь»? ;-))) Ну, и где ж наши «химики-лирики»? Или они тоже мирно почивают, как и этот «зверь»?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="356" EndNode="359">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1023" EndNode="1041">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="932" EndNode="935">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="975" EndNode="978">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1223" EndNode="1260">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1261" EndNode="1361">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="304" EndNode="307">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="653" EndNode="698">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="454" EndNode="472">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

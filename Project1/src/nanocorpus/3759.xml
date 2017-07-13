@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Кокошин<Node id="7"/> считает креативность преимуществом РФКонкурентные преимущества России состоят в креативности нашего населения, считает замруководителя думской фракции «Единая Россия», академик РАН Андрей Кокошин.
+Об этом он сказал журналистам <Node id="235"/>в пятницу, 8 февраля<Node id="255"/>, в своем комментарии к выступлению президента РФ Владимира Путина на заседании Государственного совета в Кремле.
+ 
+«<Node id="372"/>В выступлении главы Российского государства Владимира Путина приведена впечатляющая картина развития нашей страны за <Node id="489"/>годы<Node id="493"/> пребывания его у власти и обозначены целый ряд стратегических, магистральных направлений развития России на обозримую перспективу<Node id="623"/>», – заявил Андрей Кокошин<Node id="649"/>.
+ 
+По его словам, президент обоснованно уделил внимание в определении задач на ближайшую и долгосрочную перспективу росту производительности труда в отечественной промышленности, развитию малого и среднего предпринимательства, решению всего комплекса вопросов развития современной инновационной экономики.
+<Node id="956"/>Как отметил Кокошин, <Node id="977"/>у нас в стране есть мощный потенциал, богатые ресурсы для создания самой современной инновационной экономики, опирающийся на уникальные конкурентные преимущества России – такие, как креативность нашего населения, способность создавать и эксплуатировать сложные и сверхсложные технические системы<Node id="1272"/>. 
+«Партия и фракция «Единая Россия», реализуя целый комплекс партийных проектов, последовательно и целенаправленно занимается развитием в России современной инновационной экономики, целого ряда высоко наукоемких производств, обеспечивающих национальную конкурентоспособность и национальную безопасность страны. <Node id="1584"/>Среди них – высокопроизводительная вычислительная техника, различные виды нанотехнологий, биотехнологии для медицинских целей, перспективная альтернативная энергетика, различные системы и средства защиты окружающей среды, обеспечение населения чистой водой и другие», – сообщил Андрей Кокошин<Node id="1876"/>.
+ Глеб <Node id="1884"/>Васильковhttp://www.km.ru/news/view.asp?…Креативность<Node id="1937"/> креативностью, а без денег и современного (дорогостоящего) оборудования тоже ничего не получится… Так что давайте там, подводите побыстрее итоги и, засучив рукава, снова за работу…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="372" EndNode="623">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="235" EndNode="255">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кокошин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="956" EndNode="1272">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="956" EndNode="1272">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="372" EndNode="1272">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="372" EndNode="1272">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1884" EndNode="1937">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="упоминается" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="14" Type="упоминает" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="15" Type="упоминает" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="1584" EndNode="1876">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="977" EndNode="1272">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="372" EndNode="649">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="372" EndNode="649">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="489" EndNode="493">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="977" EndNode="1272">
+</Annotation>
+<Annotation Id="25" Type="упоминает" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="упоминается" StartNode="372" EndNode="1876">
+</Annotation>
+<Annotation Id="26" Type="автор" StartNode="1584" EndNode="1876">
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="372" EndNode="623">
+</Annotation>
+<Annotation Id="28" Type="темы" StartNode="372" EndNode="623">
+</Annotation>
+<Annotation Id="31" Type="цитаты" StartNode="372" EndNode="623">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

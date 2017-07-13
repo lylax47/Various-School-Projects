@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>То, что доктор прописал: Принтер нано-напылилУ меня есть знакомый, назовем его <Node id="79"/>Володя<Node id="85"/>, который разделяет мою фобию к загрязненному воздуху. И вот он придумал такой выход: «Надо просто жить в помещении. В хорошей офис-плазе есть все, что нужно, — и рестораны, и бассейн. После работы быстро в машину — и домой. Главное — не дышать уличным воздухом».
+<Node id="349"/>Володя<Node id="355"/> не прав. Исследование, предпринятое группой ученых из Технологического университета Квинсленда (Австралия), поначалу имело только одну цель: понять, как изменилось качество воздуха после того, как из офисного здания выгнали курильщиков. В зале с 22 рабочими местами расставили сверхточные аналитические камеры. Приборы брали пробы воздуха пять раз в <Node id="706"/>минуту<Node id="712"/> <Node id="713"/>в течение двух суток<Node id="733"/> — с вечера четверга до вечера субботы. Данные сравнивались с результатами замеров на улице.
+ В науке о загрязнении воздуха все решает размер частиц. Частицы больше микрометра (это 1/50 толщины волоса) мало кого беспокоят: они оседают на поверхностях и удаляются при уборке. Частицы меньше микрометра — нанометрового калибра — представляют серьезную угрозу: они висят в воздухе <Node id="1111"/>месяцами<Node id="1119"/> и проникают в самые тонкие бронхиолы. 
+Когда в офисе работали люди, резко повышалось количество крупных, микронных частиц — это отмершие клетки кожи. Что касается <Node id="1283"/>наночастиц<Node id="1293"/>, в <Node id="1297"/>первые минуты<Node id="1310"/> с утра их число колебалось вместе с уличным — сказывалась неидеальная изоляция. Но вдруг очередная проба показала резкий скачок. <Node id="1440"/>Потом<Node id="1445"/> еще одна. В это трудно было поверить, но источником оказался лазерный принтер — во время его работы воздух во всем офисе делался в четыре раза более загрязненным по сравнению с уличным.
+
+Исследователи развешали дополнительные камеры над 62 принтерами во всем здании — принтерами разных марок известных производителей. Тринадцать из них «коптили» ровно с той же интенсивностью, что и репрессированные ныне курильщики (воздух около принтера был в 10 раз грязнее среднего по офису); восемь — послабее, а 41 принтер вообще не давал выброса. Выброс зависел от возраста картриджа (новые пылят сильнее) и количества используемого тонера (выброс при печати картинок больше по сравнению с выбросом при печати текста). Два принтера одной и той же модели могли вести себя совершенно по-разному: один пылил, а другой нет.
+
+С момента австралийской публикации <Node id="2292"/>прошло несколько месяцев<Node id="2316"/>, и я решил поинтересоваться, как продвигаются исследования.
+ 
+«<Node id="2380"/>Мы уже выяснили, из чего состоят эти <Node id="2417"/>наночастицы<Node id="2428"/> и почему некоторые принтеры их не распыляют, — сообщила мне автор работы д-р <Node id="2506"/>Лидия Моравска<Node id="2520"/>.
+  
+Мы подали результаты на публикацию, но вам не скажем: ждите выхода статьи».
+ 
+Обычно процесс рецензирования серьезной статьи занимает полгода; в ожидании конкретики попробуем так:
+ 1) по возможности держать принтеры не в том помещении, где сидят люди; 2) как можно лучше вентилировать помещение; 3) и хватит уже распечатывать и вешать над столом юмористические картинки — это же дурной тон!. Илья Колмановский, кандидат биологических <Node id="2959"/>наукhttp://www.vedomosti.ru<Node id="2986"/>/…rticle.shtml?…Ну, интуитивно это и так чувствовалось. Попробуйте зайти с улицы в офис, где сосредоточено много ксероксов и принтеров. Ваш нос сразу же почувствует это, если только у вас нет в данный момент насморка. Я думаю, что давно назрела пора разработать какие-то санитарные и гигиенические правила по использованию подобной (офисной) техники и даже выпустить на их основе некие нормативные документы. Словом, гулять по лесу с детьми и собакой гораздо здоровЕЕ, чем сидеть в душном офисе… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="79" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Володя</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2292" EndNode="2316">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1440" EndNode="1445">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1297" EndNode="1310">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="2380" EndNode="2520">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1283" EndNode="1293">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="2417" EndNode="2428">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="2380" EndNode="2520">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1111" EndNode="1119">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="706" EndNode="712">
+</Annotation>
+<Annotation Id="12" Type="Тональность" StartNode="349" EndNode="355">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="349" EndNode="355">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Володя</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="2506" EndNode="2520">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лидия</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="713" EndNode="733">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="2959" EndNode="2986">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

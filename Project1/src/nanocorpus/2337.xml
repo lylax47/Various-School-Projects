@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Научное общество Ирландии заключило с компанией HP контракт стоимостью ?1,8 млн. на проведение исследований в центре адаптивных <Node id="129"/>наноструктур<Node id="141"/> и наноустройств (Centre for Research on Adaptive Nanostructures and Nanodevices, CRANN), сообщает SiliconRepublic. Теперь у центра CRANN два сильных партнера в области высоких технологий — к давнему сотрудничеству с Intel добавился контракт с НР. 
+ 
+Ранее компания НР неоднократно демонстрировала результаты лабораторных исследований в этой области и представляла прототипы гибких дисплеев и электронных логических схем. 
+ 
+Исследования же в CRANN будут направлены, в первую очередь, на разработку новых гибридных гибких электропроводных материалов на основе пластиковых полимеров и <Node id="725"/>углеродных <Node id="736"/>нанотрубок<Node id="746"/>. Их механоэлектрические и оптические свойства как нельзя лучше подходят для использования материалов на основе <Node id="858"/>нанотрубок<Node id="868"/> в гибкой электронике — например, в дисплеях, мобильных телефонах и электронных газетах. 
+ 
+Профессор Марк Кин (Mark Keane), директор информационных технологий при научном сообществе, считает, что контракт позволит не только получить ряд новых коммерчески успешных устройств, но и поможет глубже изучить фундаментальную нанофизику, в частности, материалы на основе <Node id="1233"/>нанотрубок<Node id="1243"/>. 
+ 
+В исследовательском центре CRANN будут работать не только ирландские ученые — руководство компании НР настояло на том, чтобы над проектами работали и ее сотрудники из исследовательских отделов. По окончании срока контракта проект пройдет экспертизу в лабораториях НР, находящихся в США. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="129" EndNode="141">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="858" EndNode="868">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1233" EndNode="1243">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="725" EndNode="746">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="736" EndNode="746">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

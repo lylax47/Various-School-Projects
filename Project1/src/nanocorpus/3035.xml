@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Редколлегия Международного научного журнала «Альтернативная энергетика и экология» объявляет конкурс на лучшую научную работу по тематике «Водородная энергетика и транспорт».
+ 
+ 
+ 
+Редакция принимает статьи <Node id="209"/>с 1 января 2007 г . до 20 марта 2007 г .<Node id="249"/> по адресу: а/я 687, <Node id="270"/>г. Саров, Нижегородская область<Node id="301"/>, Россия, 607183 (с пометкой на конверте «на конкурс «Водородная энергетика и транспорт»), или по одному из электронных адресов: gusev@hydrogen.ru, kondirina@hydrogen.ru. Работы принимаются как на русском, так и на английском языках.
+ 
+ 
+ 
+Подробности на сайте <Node id="562"/>hydrogen.ru<Node id="573"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="расположение" StartNode="270" EndNode="301">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="209" EndNode="249">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="562" EndNode="573">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

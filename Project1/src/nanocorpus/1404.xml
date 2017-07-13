@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Нанотехнологии: Иран и Индия проводят конференциюВ воскресенье (<Node id="64"/>27 апреля<Node id="73"/>) в тегеранском госпитале им. Имама <Node id="109"/>Хомейни<Node id="116"/> началась совместная ирано-индийская конференция по развитию нанотехнологий.
+
+Секретарь конференции сообщил, что среди главных докладчиков будет д-р C.N.R.Rao, главный советник премьер-министра Индии по делам науки.
+C.N.R.Rao
+Д-р Saeed Sarkar сообщил также, что на конференцию было представлено около 150 докладов, из которых 100 было принято. Четыре лучших из них в конце конференции получат специальные призы.
+В рамках конференции будет проведен ряд семинаров по 9 направлениям НТ, в частности о применении нанотехнологий в области материаловедения, биологии и медицины.
+
+Он отметил далее, что Индия находится в первой десятке стран по развитию нанотехнологии и призвал к расширению связей между двумя странами в этой области. Отметив, что обе страны имеют много общего в области культуры, он заявил:
+ 
+«Мы заинтересованы в расширении наших научных связей с Индией больше, чем со странами Запада».
+ Он призвал также к расширению обмена студентами и преподавателями, к проведению семинаров, выставок, конференций и другим формам обмена опытом в данной области между двумя странами.
+
+Конференция продлится <Node id="1222"/>три дня<Node id="1229"/>. В конце мероприятия запланирована трёхдневная ознакомительная поездка в г. Шираз.
+Iran and India hold nanotechnology <Node id="1348"/>conferencehttp://www.nanowerk.com/…sid=5492.phphttp://iijcn.tums.ac.ir/COMMON/?…http://www.nano.ir/en/news.php?…Iranian<Node id="1467"/> Nanotechnology Initiativehttp://<Node id="1500"/>www.nano.ir/en/В<Node id="1516"/> условиях (почти) полной экономической блокады страны со стороны стран Запада, сотрудничество Ирана с Индией будет очень выгодным (обмен опытом, специалистами, подготовка кадров, поставка спец. оборудования и т.п.). Кстати, выгодным для обеих сторон, учитывая богатый опыт работы иранских исследователей в различных областях нанотехнологии. И данная конференция (плюс выставки, плюс спец. семинары) явится большим и важным событием в данной области…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1500" EndNode="1516">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1222" EndNode="1229">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="64" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="109" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Хомейни</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1348" EndNode="1467">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

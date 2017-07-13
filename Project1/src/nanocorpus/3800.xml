@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>27 июня<Node id="7"/> в Ижевске откроется Всероссийская конференция «От <Node id="58"/>наноструктур<Node id="70"/>, <Node id="72"/>наноматериалов<Node id="86"/> и нанотехнологий к наноиндустрии»
+С помощью Интернета участие в конференции примут и иностранные специалисты.
+
+<Node id="198"/>В течение трех дней<Node id="217"/> в Ижевском государственном техническом университете будут обсуждаться последние достижения в наноматериаловедении и нанотехнологии и проблемы развития наноиндустрии в России, сообщает пресс-служба ИжГТУ.
+Научная программа конференции охватывает получение и производство <Node id="488"/>наноструктур<Node id="500"/>, наноматериаловедение, исследование <Node id="537"/>наноструктур<Node id="549"/> и <Node id="552"/>наноматериалов<Node id="566"/>, развитие прогностического аппарата при получении и исследовании нанопродуктов, а также применение нанопродуктов и нанотехнологий в различных отраслях.
+
+«В фойе ДС «Интеграл» будут установлены компьютеры, с помощью которых желающие смогут ознакомиться с материалами иностранных участников конференции из Германии, Швеции и Испании – рассказал «Udm-Info» председатель локального оргкомитета, заведующий кафедрой химии и химической технологии ИжГТУ Владимир Кодолов, – также в режиме реального времени можно будет задать вопросы зарубежным специалистам».
+
+«Реальное» же участие в конференции примут крупнейшие научные центры России, в том числе концерн «Наноиндустрия», Институт химической физики РАН, Московский инженерно-физический институт, МГТУ им. Н.Э. Баумана, Институт химии твердого тела УрО РАН.
+
+Оргкомитет конференции возглавляет академик РАН, директор Института прикладной механики Удмуртского научного центра УрО РАН Алексей Липанов<Node id="1510"/>.<Node id="1511"/> Открытие конференции состоится <Node id="1543"/>27 июня<Node id="1550"/> в 10.00 в ДС «Интеграл».
+<Node id="1576"/>http://www.udm-info.ru/…07/nano.htmlНу<Node id="1614"/> вот и славненько! Деньги – деньгами, корпорации – корпорациями, советы – советами… Но нужно же и по сути дела поговорить, между собой, между специалистами. Хорошо бы, как это принято в «цивилизованных» странах, было бы к началу конференции издать её материалы – хотя бы в тезисной форме… Если же это уже было предусмотрено, то тогда я умолкаю и беру свои слова обратно.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="1510" EndNode="1511">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="1510" EndNode="1511">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="488" EndNode="500">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1543" EndNode="1550">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="198" EndNode="217">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="552" EndNode="566">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="72" EndNode="86">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1576" EndNode="1614">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноструктура" StartNode="58" EndNode="70">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноструктура" StartNode="537" EndNode="549">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

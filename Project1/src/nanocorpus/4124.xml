@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Исследователи из Кореи разработали методику получения высокоанизотропных магнитных структур из <Node id="97"/>наночастиц<Node id="107"/> кобальта, основанную на самосборке этих частиц в магнитном поле.
+ 
+Сферические кобальтовые <Node id="199"/>наночастицы<Node id="210"/> были синтезированы при разложении Co2(CO)8 в присутствии ПАВ.   Их диаметр составлял около 10 нм. Далее они были диспергированы в нонане и нанесены на кремниевую подложку, которая была помещена в перпендикулярное магнитное поле. При испарении растворителя на подложке сформировались вытянутые стержни, собранные из <Node id="526"/>наночастиц<Node id="536"/>. В поле 2400 Э толщина образующихся стержней составляет около 130 нм, а длина около 450 нм.
+ 
+Оказалось, что стержни имеют высокоупорядоченную структуру, в которой <Node id="701"/>наночастицы<Node id="712"/> кобальта образуют гранецентрированную кубическую решетку с параметром около 18 нм. Стержни вытянуты вдоль направления сверхструктуры [110].
+ 
+Размер и соотношение сторон стержней можно регулировать путем варьирования магнитного поля и начальной концентрации <Node id="971"/>коллоидного раствора<Node id="991"/>. При увеличении концентрации размеры и анизотропия формы стержней растут, увеличение магнитного поля приводит к росту анизотропии. Если поле прикладывать вдоль подложки, то на ней формируются вытянутые провода.
+ 
+Магнитные свойства таких структур, как и следовало ожидать, заметно отличаются от свойств неупорядоченных <Node id="1311"/>наночастиц<Node id="1321"/>. В частности, коэрцитивная сила при 5 К возрастает в 4 раза с 1600 Э до 6400 <Node id="1399"/>Э. При<Node id="1405"/> комнатной температуре данные измерений почему-то не приводятся, возможно, из-за того, что частицы в таких условиях суперпарамагнитны.
+ 
+Работа «Highly crystalline anisotropic superstructures via magnetic field induced nanoparticle assembly» была опубликована в журнале Chemical Communications.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="526" EndNode="536">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="701" EndNode="712">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="97" EndNode="107">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1311" EndNode="1321">
+</Annotation>
+<Annotation Id="4" Type="Коллоид" StartNode="971" EndNode="991">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1399" EndNode="1405">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="199" EndNode="210">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

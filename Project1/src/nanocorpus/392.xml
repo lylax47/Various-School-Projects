@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учёные из Университета Манчестера создали <Node id="43"/>сенсоры<Node id="50"/>, способные обнаруживать отдельные молекулы опасных газов, на основе самого тонкого материала в мире.
+
+<Node id="153"/>Три года назад<Node id="167"/> Константин Новосёлов и <Node id="191"/>Андрей Гейм из Манчестерского Университета впервые смогли получить <Node id="258"/>графен<Node id="264"/> – однослойный лист из атомов углерода. Этот новый материал сразу стал одной из наиболее быстро развивающихся областей материаловедения и физики твёрдого тела.
+
+Теперь исследователи обнаружили, что <Node id="462"/>графен<Node id="468"/> чрезвычайно чувствителен к присутствию малейших количеств таких газов, как пары этанола или токсичный моноксид углерода. Когда молекула газа садится на лист <Node id="626"/>графена<Node id="633"/>, она принимает от него или отдаёт ему электроны. Это приводит к изменению электропроводности материала, которое можно легко детектировать.
+
+В экспериментах учёные могли зафиксировать индивидуальные события адсорбции молекул газа-аналита на графеновом <Node id="885"/>сенсоре<Node id="892"/>. <Node id="894"/>По словам Новосёлова<Node id="914"/>, этот уровень чувствительности в миллионы раз превосходит все сегодняшние детекторы газов<Node id="1004"/>.
+
+Коммерцализация новой технологии представляется довольно простой – методы эпитаксиального выращивания <Node id="1109"/>графена<Node id="1116"/> хорошо развиты и уже используются в лабораториях по всему миру. Однако, для того, чтобы сделать такие <Node id="1219"/>сенсоры<Node id="1226"/> чувствительными только к определённым газам, необходимы дальнейшие исследования.
+
+В нынешнем виде метод не пригоден к тому, чтобы, например, определять наличие воспламеняющихся веществ в багаже пассажиров в аэропорту. Такие факторы, как влажность воздуха, будут давать ложный сигнал, маскирующий основной. Однако, в точности та же проблема стояла перед разработчиками всех современных детекторов газов, и использование различных схем детектирования, фильтров и анализов температурного поведения позволяет обойти это препятствие. Авторы этого исследования не видят каких-либо причин, которые могли бы сделать это невозможным для графеновых детекторов.
+
+Помимо манчестерских учёных, среди авторов работы также есть исследователи из Института Проблем Микроэлектронной Технологии и <Node id="2005"/>Особочистых Материалов<Node id="2027"/>, а также голландские учёные.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="626" EndNode="633">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="153" EndNode="167">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="894" EndNode="1004">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="1219" EndNode="1226">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="1109" EndNode="1116">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="258" EndNode="264">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="встречи_и_переговоры" StartNode="191" EndNode="914">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2005" EndNode="2027">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="885" EndNode="892">
+</Annotation>
+<Annotation Id="11" Type="Сенсор" StartNode="43" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="462" EndNode="468">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="894" EndNode="1004">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

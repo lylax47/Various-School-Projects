@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В конце <Node id="9"/>сентября<Node id="17"/> появилось сообщение, что в группе Hideo Ohno из Tohoku University (Япония), работающей в области полупроводниковой спинтроники, получен новый замечательный результат: электрическое поле может переключать намагниченность в устройстве на основе полупроводника (Ga,Mn)As [1].
+
+Принцип действия устройства схож с основной идеей полевого транзистора (см. рис.): изменение электрического потенциала на затворе изменяет концентрацию дырок в полупроводниковом материале, отделенном от затвора слоем изолятора. Спецификой данного устройства является то, что изменение концентрации сказывается не только на проводимости материала, но и на магнитной анизотропии вещества, изменяя направление оси легкого намагничивания от к , что, в свою очередь, приводит к повороту намагниченности на 90 градусов.
+
+<Node id="807"/>Управление магнетизмом<Node id="829"/> в полупроводниках электрическим полем идея сама по себе не новая (см. например, ПерсТ 15, вып.10 (2008)), однако до сих пор оно основывалось на управлении обменным взаимодействием между ионами марганца, позволяя «включать» или «выключать» магнетизм, балансируя вблизи точки <Node id="1104"/>Кюри<Node id="1108"/> [2]. В данном же случае переключается вектор намагниченности в исходно магнитном состоянии, далеко от точки <Node id="1217"/>Кюри<Node id="1221"/>, и, следовательно, мало зависящем от температурных флуктуаций. Немедленному использованию данного эффекта в устройствах компьютерной памяти препятствует одно досадное обстоятельство: температуры, при которых полупроводник (Ga,Mn)As является магнитным, далеко не комнатные (температура <Node id="1507"/>Кюри<Node id="1511"/> ~ 70 K). В этом плане гораздо лучше обстоят дела с магнитоэлектрическими веществами, демонстрирующими аналогичные эффекты при комнатной температуре («Электрошок для магнитных доменов», ПерсТ 15, вып. 9 (2008)).
+<Node id="1723"/>А. Пятаков<Node id="1733"/> 1. D.Chiba et al., Nature 455, 515 (2008) 2. H.Ohno et al., Nature 408, 944 (2000) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="807" EndNode="829">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Управление магнетизмом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1723" EndNode="1733">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пятаков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1507" EndNode="1511">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кюри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="9" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1104" EndNode="1108">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кюри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1217" EndNode="1221">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кюри</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

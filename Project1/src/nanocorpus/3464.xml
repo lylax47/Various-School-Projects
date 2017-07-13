@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Наши коллеги получили приз Европейского Физического ОбществаНашим коллегам – Andre Geim и Kostya Novoselov из University of Manchester – была присуждена премия ЕФО за <Node id="167"/>2008 год<Node id="175"/> (2008 EPS CMD Europhysics Prize) за открытие и создание <Node id="232"/>графена<Node id="239"/> и изучение его замечательных электронных свойств
+Профессор Andre Geim – действительный член Royal Society Великобритании и директор Manchester Centre for Mesoscience and Nanotechnology. Его главные работы касаются открытия <Node id="463"/>графена<Node id="470"/> и липкой <Node id="480"/>наноленты<Node id="489"/> (типа лапок геккона).
+Kostya Novoselov тоже является членом Royal Society и совсем недавно стал одним из 200 (из более чем 9000) молодых исследователей, получивших престижный «начальный грант» <Node id="683"/>Европейского Совета по научным исследованиям<Node id="727"/> (European Research Council, Starting Grant).
+ EPS Europhysics Prize присуждается за выдающиеся достижения в области физики конденсированных состояний. Он стал одной из наиболее престижных (европейских) премий в данной области. Многие лауреаты этой престижной премии впоследствии становились и лауреатами Нобелевской премии в знак признания их научных достижений, включая, к примеру, лауреатов Нобелевской премии по физике (Albert Fert и Peter Grünberg) и по химии (Gerhard Ertl) за <Node id="1210"/>2007 год<Node id="1218"/>. 
+Коллеги Geim и Novoselov первыми открыли методику изготовления графеновых плёнок, а также продемонстрировали некоторые из их замечательных свойств. Их работа послужила затем началом интенсивных экспериментальных и теоретических исследований по всему миру.
+
+Сообщение и диплом о присуждении премии можно посмотреть на сайте EPS: <Node id="1549"/>www.eps.org.<Node id="1561"/>
+Наши искрение поздравления обоим лауреатам!2008 EPS CMD Europhysics Prize awarded to Geim and <Node id="1656"/>Novoselovhttp://www.nanowerk.com/…sid=7018.phpНу<Node id="1704"/> вот, награда и нашла героев. Мы уже писали об этом ранее: «<Node id="1764"/>Графен<Node id="1770"/> похоронит транзистор?» <Node id="1794"/>(http://www.nanonewsnet.ru/…t-tranzistor).<Node id="1836"/> А также и о замечательных свойствах липкой <Node id="1880"/>наноленты<Node id="1889"/> типа лапок геккона <Node id="1909"/>(http://www.nanonewsnet.ru/…ayut-prirode).<Node id="1951"/> Ещё раз искренне поздравляем коллег с наградой и желаем им новых открытий и достижений!.. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1794" EndNode="1836">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="683" EndNode="727">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Европейского Совета по научным исследованиям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1656" EndNode="1704">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1210" EndNode="1218">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1909" EndNode="1951">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="232" EndNode="239">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="167" EndNode="175">
+</Annotation>
+<Annotation Id="7" Type="Нанолента" StartNode="1880" EndNode="1889">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="463" EndNode="470">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="1210" EndNode="1218">
+</Annotation>
+<Annotation Id="11" Type="Нанолента" StartNode="480" EndNode="489">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="1764" EndNode="1770">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="167" EndNode="175">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1549" EndNode="1561">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

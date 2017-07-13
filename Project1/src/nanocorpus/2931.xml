@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Компания IntelliSense анонсировала новую версию пакета IntelliSuite 8.2, в состав которого вошло все необходимое для проектирования микроскопических электромеханических устройств (MEMS) и оборудования, построенного с применением современных нанотехнологий.
+
+Устройства на основе НЕМС NEMS-резонаторов (NanoElectroMechanical Systems) и однослойных <Node id="348"/>углеродных <Node id="359"/>нанотрубок<Node id="369"/> (SWCNT) обладают достаточным потенциалом для того, чтобы совершить революцию в самых разных отраслях, включая производство вычислительной техники и медицинского оборудования, телекоммуникации и т.п. Пакет IntelliSuite 8.2 может с успехом использоваться для проектирования <Node id="642"/>наноструктур<Node id="654"/> и MEMS-систем, созданных с использованием нанотехнологий (таких как SWCNT).
+
+Вниманию пользователей предлагается новый модуль Thermo-Electro-Magneto-Mechanical (TEMM), предназначенный для проектирования и моделирования электростатических и магнитостатических датчиков и приводов, в работе которых используется эффект, вызываемый силой <Node id="990"/>Лоренца<Node id="997"/>. Средства трехмерного моделирования различных эффектов. В пакет включены дополнительные средства трехмерного моделирования, оптимизированные для создания радиочастотных MEMS-решений (RF-MEMS), а также модуль VisualEase, предоставляющий расширенные возможности визуализации и исследования данных.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="348" EndNode="369">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="359" EndNode="369">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="990" EndNode="997">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоренц</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="642" EndNode="654">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

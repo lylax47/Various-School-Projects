@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Позиция для аспиранта в области Нанофизики, Новых материалов, и Хранения Водорода. 
+ 
+Данная заявка приглашает молодого специалиста с дипломом Магистра в области Химии, Физики или <Node id="181"/>Наук<Node id="185"/> о Материалах для работы над кандидатской диссертацией в Университет города Умео, Швеция (Umeå University). 
+ 
+Обязанности и требования к кандидату: работа в области синтеза новых <Node id="365"/>наноматериалов<Node id="379"/> для хранения водорода, измерения адсорбции водорода, синтез новых углерод-водород материалов на основе <Node id="483"/>фуллеренов<Node id="493"/>. Аспирант будет заниматься исследованием различных новых материалов и обобщением экспериментальных данных полученных с помощью рентгеновской дифракции, <Node id="646"/>Раман<Node id="651"/>-спектроскопии и <Node id="668"/>масс-спектрометрии<Node id="686"/>. Предыдущий опыт работы с вышеперечисленным методами не является обязательным, но будет являться важным преимуществом. Свободное владение английским языком обязательно. 
+ 
+Работа в лаборатории будет включать в себя использование водорода при высоких давлениях, поэтому высокая точность и пунктуальность требуется от кандидата из соображений безопасности. 
+Заинтересованные кандидаты должны выслать на указанный адрес электронной почты своё CV, список публикаций, и сопроводительное письмо с кратким описанием вашей квалификации и мотивов для этой работы. Отобранные кандидаты будут иметь собеседование в Умео или по телефону с научным руководителем. 
+ 
+ Позиция открыта до тех пор, пока не поступила заявка от успешного и хорошо мотивированного, перспективного кандидата. Ожидаемый срок начала работы <Node id="1488"/>март-апрель 2008 года<Node id="1509"/>. 
+ 
+ Адрес для связи: <Node id="1532"/>Umea_PhD@yahoo.com<Node id="1550"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="646" EndNode="651">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Раман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="1532" EndNode="1550">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Масс-спектрометрия" StartNode="668" EndNode="686">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="365" EndNode="379">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1488" EndNode="1509">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="483" EndNode="493">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="181" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

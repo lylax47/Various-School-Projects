@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Все атомы одностенных <Node id="24"/>углеродных <Node id="35"/>нанотрубок<Node id="45"/> (SWNT) расположены на поверхности, это делает их электронную структуру очень чувствительной к изменениям окружающей среды. Измеряя проводимость цепи таких <Node id="201"/>нанотрубок<Node id="211"/> в полевом транзисторе, можно обнаружить присутствие биомаркера астмы – оксида азота (NO). 
+Alexander Star – доцент University of Pittsburgh –возглавляет разработку нового <Node id="383"/>сенсора<Node id="390"/>. Работа исследователей была опубликована в журанале Nanotechnology. 
+Оксид азота (NO), содержащийся в выдыхаемом воздухе больного астмой, проходит через окислитель CrO3 и превращается в NO2. Далее NO2 попадает на поверхность полевого транзистора из SWNT. Покрыв транзистор полиэтиленимином, исследователям удалось значительно повысить чувствительность <Node id="743"/>сенсора<Node id="750"/>. Более того, благодаря газовому фильтру, измерения можно проводить даже в присутствии  посторонних компонентов, таких как O2 и CO2. 
+Сегодняшние технологии исследования концентрации NO у больных астмой требуют большого, дорогостоящего оборудования, что вынуждает пациентов совершать регулярные поездки в больницу. Вышеуказанный <Node id="1079"/>сенсор<Node id="1085"/> позволит создать недорогое, портативное устройство многоразового использования, которым можно будет воспользоваться в любое время. Это позволит больным астмой (также, как сейчас больным диабетом) производить диагностику в домашних условиях и на высоком уровне.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="1079" EndNode="1085">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="35" EndNode="45">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="201" EndNode="211">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="383" EndNode="390">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="743" EndNode="750">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="24" EndNode="45">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

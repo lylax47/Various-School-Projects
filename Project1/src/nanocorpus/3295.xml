@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Фотодинамическая терапия, при которой фотосенсибилизатор активирует кислород, убивающий клетки, может стать эффективным методом лечения некоторых типов рака. Онкологи хотели бы более широко применять фотодинамическую терапию, но до сих пор не было способа сделать накопление фотосенсибилизатора в раковых клетках избирательным, чтобы не нарушать здоровую ткань. Исследователи из государственного университета Нью-Йорка, Буффало, развили необходимый метод доставки фотосенсибилизатора на основе кварцевых <Node id="505"/>наночастиц<Node id="515"/> избирательно в область опухоли. <Node id="548"/>Наночастицы<Node id="559"/> состоят из пористого кварца, который заполнен молекулами фотосенсибилизатора. При освещении фотосенсибилизатор начинает вырабатывать активный кислород, который диффундирует из <Node id="736"/>наночастицы<Node id="747"/> и разрушает окружающие клетки. В ходе исследования выяснилось, что раковые клетки толстой кишки накапливают такие кремниевые частицы, и, что особенно важно, погибают после облучения. А клетки, не имеющие <Node id="952"/>наночастиц<Node id="962"/>, не испытывали сильного негативного влияния света.
+ Посмотреть резюме статьи.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="952" EndNode="962">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="548" EndNode="559">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="505" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="736" EndNode="747">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

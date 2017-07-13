@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В Национальном университете Сингапура открыта программа обмена и сотрудничества с восточно-европейскими учеными.
+Она предусматривает 3 визита. На первом, продолжительностью 2 – <Node id="178"/>3 недели<Node id="186"/>, обсуждаются области и проекты для совместных исследований, проводятся научные семинары. Во время второго визита, продолжительностью 1 – <Node id="324"/>2 месяца<Node id="332"/>, уточняются и углубляются исследовательское сотрудничество, проводятся научные семинары и читаются короткие курсы. Во время третьего визита, продолжительностью 1 – <Node id="497"/>3 месяца<Node id="505"/>, детализируются исследовательские предложения, сравниваются результаты исследований, готовятся публикации и проводятся научные семинары.
+
+Предпочтения отдается проектам, заканчивающимся совместными публикациями и перспективами применения результатов.
+
+Ученым выплачивается гонорар в зависимости от их опыта и квалификации, оплачиваются авиабилеты. Из получаемого гонорара ученые должны сами платить за жилье, еду, транспорт, страховку, налоги и т.д.
+
+Может быть выделен грант на исследовательские расходы.
+
+Ученые могут рекомендовать для посещения университета своих аспирантов и магистрантов. Эти визиты могут пройти после первого визита ученого. Их продолжительность - 1-<Node id="1179"/>3 месяца<Node id="1187"/>. Их учеба в университете будет бесплатной. Более того, им оплатят авиабилеты и будут выплачивать <Node id="1285"/>900 долларов<Node id="1297"/> США в <Node id="1304"/>месяц<Node id="1309"/>.
+
+Направления исследований:
+1. Electromagnetics: generation, transmission, propagation, scattering, measurement, antennas and signal processing.
+2. Physical oceanography, underwater sensors and acoustics
+3. Hydrodynamics.
+4. Flight sciences, aerodynamics, navigation and control.
+5. Wireless communications.
+6. High Power Lasers and laser propagation.
+7. Image and Signal Processing.
+8. Sensor and Information fusion.
+9. Information Security.
+10. Quantum computing and quantum information.
+11. Photonics.
+12. Materials: electromagnetic, optical, magnetic, structural.
+13. Nanotechnology.
+14. Chemical, biological and radiological protection.
+15. Human Science and Human Performance in extreme environments.
+16. Bio-engineering, Ergonomics and Man-machine interface.
+17. Robotics.
+
+Заявления принимаются до <Node id="2116"/>31 декабря<Node id="2126"/>.
+
+Форма заявления имеется в Межгосударственной ассоциации последипломного образования (495 434-24-38)
+
+Подробности...&gt;&gt;
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="324" EndNode="332">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1285" EndNode="1297">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2116" EndNode="2126">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1179" EndNode="1187">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1304" EndNode="1309">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="178" EndNode="186">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="497" EndNode="505">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

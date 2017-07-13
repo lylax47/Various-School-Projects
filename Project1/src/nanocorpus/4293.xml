@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  1) Для успешного синтеза энергия  <Node id="36"/>Гиббса<Node id="42"/> для процесса образования алмаза из графита должна быть меньше нуля. Она подсчитывается с помощью данных таблицы 2 по формуле (1) 
+Только в случае синтеза CVD необходимо признать, что процесс идет в условиях, когда по данным таблицы 2 ΔGT,P &gt;0  Получаем для синтезов 1-3 в Таблице 1, соответственно (2) 
+ 2) Синтез  CVD следует использовать для оценки энтальпии образования  кристалла <Node id="427"/>наноалмаза<Node id="437"/>. Эта энтальпия должна быть существенно меньше, чем величина для объемных образцов, приведенная в таблице 2. (Объемными следует считать все образцы с характерным диаметром больше 20 нм. ) Получаем (3) 3) Эффективные константы скорости подсчитываются по формуле (4) 
+Получаем (5)  
+что значительно выше, чем приводимая в литературе оценка. 
+ 
+Автор – проф. М.В.Коробов
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноалмаз" StartNode="427" EndNode="437">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="36" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гиббс</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

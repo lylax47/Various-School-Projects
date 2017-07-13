@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Команда исследователей из лондонского центра нанотехнологий при исследовательском центре UCL разработала ново биомедицинское устройство, благодаря которому диагностика рака молочной железы может существенно упроститься.
+
+Новый магнитометр высокой чувствительности HistoMag способен с помощью нанотехнологий находить отдельные раковые клетки в образцах тканей достаточно быстро. Устройство настолько инновационно, что получило престижную премию Королевского Наученного Общества Великобритании.
+
+Принцип действия устройства состоит в нанесении магнитных <Node id="553"/>наночастиц<Node id="563"/> с прикрепленными к ним антителами, присоединяющимися к белку HER2, который находится на поверхности раковых клеток.
+
+После обработки раствором <Node id="707"/>наночастиц<Node id="717"/> образца ткани можно уверенно говорить о том, что раковые клетки в ней «помечены» для дальнейшего исследования прибором-магнитометром, через микроскоп которого можно пересчитать раковые клетки.
+
+Как говорит руководитель проекта, профессор <Node id="956"/>Панкхурст<Node id="965"/> (Pankhurst), автоматизация поиска «помеченных» раковых клеток через микроскоп может привести к его преобладанию над другими методами диагностики рака молочной железы.
+
+Ученые планируют на полученную премию (<Node id="1173"/>£25000<Node id="1179"/>) доработать HistoMag с таким расчетом, чтобы в <Node id="1227"/>2010 году<Node id="1236"/> он уже появился в клинической практике.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="1173" EndNode="1179">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1227" EndNode="1236">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1227" EndNode="1236">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="553" EndNode="563">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="956" EndNode="965">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Панкхурст</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="707" EndNode="717">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые центра сенсорных технологий Уральского государственного экономического университета (УрГЭУ) разработали и начали производство электрохимических <Node id="152"/>сенсоров<Node id="160"/> – уникального оборудования на основе <Node id="198"/>наночастиц<Node id="208"/>. Директор центра <Node id="226"/>Марк Ходос сообщил, что новинка найдет применение в медицине и мониторинге окружающей среды<Node id="317"/>.
+
+"Разработка основана на том, что у <Node id="355"/>наночастиц<Node id="365"/> очень чувствительная поверхность. Поэтому с помощью электрохимических <Node id="436"/>сенсоров<Node id="444"/> можно определять точное содержание тяжелых металлов в воздухе, почве и воде.
+
+Кроме того, разработка будет очень полезна в иммуноанализе. Она позволяет не только выявлять частицы тяжелых металлов в биологических жидкостях, но и проводить экспресс-диагностику инфекционных заболеваний, поиск патогенных микроорганизмов. <Node id="764"/>Это важно, например, если есть угроза эпидемии", – рассказал Марк Ходос<Node id="835"/>, добавив, что аналогичное медицинское оборудование стоит недешево и им располагают далеко не все лечебные учреждения.
+
+Проект, разработанный центром сенсорных технологий, оказался одним из лучших на областном конкурсе научных работ в сфере нанотехнологий и получил финансовую поддержку правительства Свердловской области.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="152" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="764" EndNode="835">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="226" EndNode="317">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="436" EndNode="444">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="198" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="226" EndNode="317">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="764" EndNode="835">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="355" EndNode="365">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Жорес<Node id="5"/> <Node id="6"/>Алферов<Node id="13"/>: основная задача Госдумы – борьба с бедностью в РоссииНобелевский лауреат, депутат Госдумы от фракции КПРФ <Node id="121"/>Жорес<Node id="126"/> <Node id="127"/>Алферов<Node id="134"/> призвал коллег-депутатов бороться с бедностью, развивая «экономику знаний». Об этом старейший депутат <Node id="237"/>нижней палаты<Node id="250"/> заявил, открывая первое пленарное заседание Госдумы пятого созыва. 
+«<Node id="320"/>Мы, депутаты Госдумы, должны начать борьбу с бедностью<Node id="374"/>», – сказал <Node id="386"/>Алферов<Node id="393"/>. Прежде всего, по <Node id="412"/>его<Node id="415"/> словам, необходимо изменить налоговое законодательство, обеспечив «переход от "плоской» к прогрессивной шкале" налогообложения. Академик напомнил новым парламентариям о «проблеме устойчивого развития нашей планеты в целом» – теме, которая обсуждалась на «специальном симпозиуме нобелевских лауреатов в Потсдаме в <Node id="729"/>октябре<Node id="736"/> <Node id="737"/>этого года<Node id="747"/>».
+ 
+Эта важнейшая проблема нашла свое отражение в любопытной метафоре. <Node id="819"/>Ее, по словам <Node id="833"/>Алферова<Node id="841"/>, можно сравнить с «бокалом шампанского», в верхнем резервуаре которого находятся <Node id="923"/>80 процентов<Node id="935"/> доходов самой богатой части населения, а в тонкой ножке – скромные доходы многочисленных бедных<Node id="1031"/>. Стеклянный бокал очень легко разбить, заявил <Node id="1078"/>Алферов<Node id="1085"/> и тут же, для наглядности, расколол о центральную трибуну бокал, предусмотрительно упакованный в целлофановый пакет. Однако, продолжил академик, это «трудно сделать с реальной экономикой».
+Как сообщает ИТАР-ТАСС, старейший депутат призвал коллег ступить на «единственную дорогу» для решения основной экономической проблемы – путь «создания и развития экономики знаний, основанной на достижениях науки и наукоемких технологий».
+ «Глубокоуважаемые депутаты, глубокоуважаемый председатель правительства, Вы будете получать налоги с наших открытий в области нанотехнологий, если своевременно профинансируете научные исследования и разработки», – обратился он к парламентариям и присутствующим на заседании членам правительства, в том числе премьер-министру Виктору Зубкову.
+ 
+<Node id="1858"/>Затем<Node id="1863"/> <Node id="1864"/>Алферов<Node id="1871"/> обратился к своим коллегам по депутатскому корпусу.
+ 
+«Авторитет Госдумы, – сказал он, – определяется и качеством законов, и тем, как они принимаются». <Node id="2024"/>Принимать законы «просто нажатием кнопок» – «это не то, что нам нужно», – сказал <Node id="2105"/>Алферов<Node id="2112"/>, подчеркнув. что «каждый должен отвечать за принимаемое решение». «Мы представляем различные политические партии, профессиональные группы, регионы, но давайте помнить, что мы представляем российский народ и его интересы», – заключил старейший депутат Госдумы.
+ <Node id="2374"/>http://www.vesti.ru<Node id="2393"/>/doc.html?…Да, не зря говорят, что талант не пропьёшь… Молодец, <Node id="2457"/>Жорес<Node id="2462"/> <Node id="2463"/>Иванович<Node id="2471"/>! Всё-таки не зря он и физик, и изобретатель, первооткрыватель, и академик, и даже Нобелевский лауреат. Знает, что людям и стране нужно и умеет это донести даже до самых «умных» и «выдающихся» людей. А этот его призыв нужно напечатать большими золотыми буквами на ярком фоне, вставить в красивую рамочку и подарить каждому из депутатов Думы, чтобы он/она поставил его на свой стол и постоянно имел перед глазами: «Мы представляем различные политические партии, профессиональные группы, регионы, но давайте помнить, что мы представляем российский народ и его интересы»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="320" EndNode="393">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="833" EndNode="841">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="237" EndNode="250">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">нижней палаты</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="320" EndNode="374">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="412" EndNode="415">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1078" EndNode="1085">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="2024" EndNode="2112">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="2024" EndNode="2112">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2105" EndNode="2112">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="819" EndNode="1031">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="2463" EndNode="2471">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="127" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="темы" StartNode="320" EndNode="374">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2457" EndNode="2462">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="320" EndNode="2112">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="737" EndNode="747">
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="6" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="386" EndNode="393">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="упоминает" StartNode="320" EndNode="2112">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="автор" StartNode="320" EndNode="393">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="0" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Период_времени" StartNode="1858" EndNode="1863">
+</Annotation>
+<Annotation Id="42" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="автор" StartNode="819" EndNode="1031">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="Персона" StartNode="1864" EndNode="1871">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="Дата" StartNode="729" EndNode="736">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Url" StartNode="2374" EndNode="2393">
+</Annotation>
+<Annotation Id="50" Type="Процент" StartNode="923" EndNode="935">
+</Annotation>
+<Annotation Id="49" Type="Персона" StartNode="121" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

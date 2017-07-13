@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Krishna Singh сделал самый большой подарок в истории School of Engineering and Applied Science при Университете Пенсильвании (University of Pennsylvania). 
+<Node id="158"/>20 миллионов долларов<Node id="179"/> пойдут на создание Центра нанотехнологий имени Krishna P. Singh, который будет занимать 10000 квадратных метров и будет проводить исследования не только для Университета Пенсильвании, но и для всего округа Филадельфии. Он станет центром исследований, образования и инноваций. 
+«Kris Singh поддерживал свой родной институт во многих важных направлениях долгие <Node id="539"/>годы<Node id="543"/>, - сказала Amy Gutmann, президент Университета Пенсильвании. - Мы очень благодарны Kris за его великодушную поддержку». 
+Krishna Singh – директор компании Holtec International в Marlton, которую он учредил в <Node id="752"/>1986 году<Node id="761"/>. Он  - выпускник Университета Пенсильвании и директор Института ядерной энергетики (Nuclear Energy Institute). «Нанотехнологии повлияют на образование и научные исследования по всему миру, - говорит Eduardo Glandt, декан Университета Пенсильвании. – Мы рады, что Kris так благородно помог Университету Пенсильвании стать лидером в этой области».
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="158" EndNode="179">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="752" EndNode="761">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="752" EndNode="761">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="539" EndNode="543">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

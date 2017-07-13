@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Форум «Наука и общество. Нанотехнологии: исследования и образование» — тема III Петербургской встречи лауреатов Нобелевской премии, которая состоится <Node id="151"/>22–27 июня 2008 года<Node id="171"/> в Санкт-Петербурге. Как сообщает ИА «Росбалт-Петербург» со ссылкой на СПб НЦ РАН, цель форума — собрать вместе ученых, работающих в различных областях нанотехнологий, выработать направления совместных междисциплинарных исследований, разработать современные образовательные программы, привлечь молодежь к научной работе и образованию в этой области.
+
+На форуме пройдут пленарные заседания с докладами лауреатов Нобелевской премии, российских и зарубежных ученых с мировым именем, по различным направлениям нанотехнологий и круглые столы с сообщениями приглашенных докладчиков и дискуссиями. Научная программа форума определена <Node id="798"/>Программным комитетом<Node id="819"/>.
+
+<Node id="822"/>Программный комитет форума<Node id="848"/> возглавляет академик, лауреат Нобелевской премии <Node id="898"/>Жорес<Node id="903"/> <Node id="904"/>Алферов<Node id="911"/>. В числе членов программного комитета — академики Игорь Горынин, Сергей Инге-Вечтомов, Александр Асеев, Дмитрий Варшалович, Юрий Наточин, Владимир Окрепилов, Николай Никольский, Виктор Садовничий, член-корреспондент РАН Михаил Ковальчук и другие крупные учение России. Оргкомитет форума возглавляет академик Геннадий Терещенко.
+
+Форум проводится по инициативе и при поддержке правительства Санкт-Петербурга, а также Санкт-Петербургского научного центра Российской академии наук, Санкт-Петербургского физико-технологического научно-образовательного центра РАН, Фонда поддержки образования и науки (Алферовского фонда). Место проведения мероприятия — здание Санкт-Петербургского научного центра Российской академии наук и Санкт-Петербургский физико-технологический научно-образовательный центр РАН.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="898" EndNode="903">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="798" EndNode="819">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Программным комитетом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="151" EndNode="171">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="904" EndNode="911">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Властная_Структура" StartNode="822" EndNode="848">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Программный комитет форума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

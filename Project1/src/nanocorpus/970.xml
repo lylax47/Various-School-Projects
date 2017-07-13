@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Южнокорейская LG Group заявила о завершении строительства самой большой в стране солнечной электростанции в округе Taean, в 110 км южнее Сеула.
+
+Станция генерирует 14 МВт электрической мощности в <Node id="197"/>год<Node id="200"/>, достаточной для обеспечения 8 тысяч домов. На строительство этой электростанции LG затратила <Node id="295"/>105 млн. долл.<Node id="309"/> В планах компании – строительство еще одной аналогичной электростанции. Солнечные элементы для электростанций поставляет собственное производство LG Group и компания LG Electronics.
+
+Завод по производству солнечных элементов намерена построить южнокорейская компания Hanwha Chemical Corp. и приступить к массовому производству во <Node id="640"/>второй половине 2009 г.<Node id="663"/> Компания готова затратить <Node id="690"/>около 800 млн. долл.<Node id="710"/>, чтобы к <Node id="720"/>2015 г.<Node id="727"/> производить солнечные элементы, способных генерировать до 1 ГВт электрической мощности.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="690" EndNode="710">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="720" EndNode="727">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="197" EndNode="200">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="640" EndNode="663">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="295" EndNode="309">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

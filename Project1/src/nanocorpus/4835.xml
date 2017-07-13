@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Новый выпуск Нанометра за <Node id="28"/>ноябрь 2008 г.<Node id="42"/> В номере: результаты конкурса фотографий Фестиваля Науки, юбилеи и конференции...
+    
+ 
+        
+ 
+                                                        
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="28" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябрь</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

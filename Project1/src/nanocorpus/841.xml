@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Используя мощные компьютеры для моделирования белковых процессов, ученые Государственного университета Флориды (FSU) открыли новый механизм, позволяющий по-новому взглянуть на процесс эволюции на молекулярном уровне. Понимание таких процессов дает возможность создания новых и более эффективных антипаразитарных лекарств.
+
+Вей <Node id="328"/>Янг<Node id="331"/> (Wei Yang), профессор факультета химии и биохимии в FSU, а также ведущий сотрудник Института молекулярной биофизики в FSU, при участии сотрудников Duke University и Brandeis University недавно создал поразительные компьютерные модели белковых молекул инозин монофосфат дегидрогеназы (IMPDH). Этот белок контролирует метаболические процессы, связанные с ДНК и РНК и влияет на способность биологической системы к быстрому самовоспроизводству.
+
+«<Node id="775"/>Создав такие модельные системы IMPDH, мы увидели нечто не известное ранее, – рассказывает <Node id="865"/>Янг<Node id="868"/>. – Изначально ученые предполагали, что существует единственный путь катализа метаболических процессов, однако IMPDH оказалась способна обеспечивать еще один механизм, в результате которого могут происходить подобные изменения. Второй процесс несколько менее продуктивен в клетках, но все равно происходит».
+
+Почему же один белок управляет двумя путями одного и того же процесса? <Node id="1248"/>Янг<Node id="1251"/> и <Node id="1254"/>его<Node id="1257"/> коллеги полагают, что более медленный механизм оказался «побочный продуктом» в эволюционных изменениях работы белка.
+
+«<Node id="1377"/>Это открытие можно считать значимым по нескольким причинам, – рассказывает <Node id="1452"/>Янг<Node id="1455"/>. – В первую очередь, оно предлагает задуматься об эволюционных процессах в структуре белковых молекул. Обычно мы говорим об эволюции как о процессе адаптации популяций организмов к условиям окружающей среды в течение довольно длительных промежутков времени. Наши результаты показали механизм такой адаптации на молекулярном уровне, и такое рассмотрение помогает ученым видеть процесс эволюции «изнутри».
+
+Наши результаты представляют собой также успешную попытку компьютерного моделирования биологических процессов. Сначала мы строим процесс на компьютере, предполагая и предсказывая его особенности, а затем проверяем полученные результаты в условиях реальных лабораторных экспериментов. Те результаты, которые нам удалось увидеть, говорят о расширении возможностей ученых в ответе на вопросы о функционировании клетки на молекулярном уровне.
+
+Поскольку IMPDH является ключевым регулятором некоторых процессов, мы можем сконцентрироваться на поиске лекарств, нацеленных на взаимодействие именно с IMPDH мишенью, такие лекарства будут иметь антипаразитарные свойства».
+
+Декан факультета Химии и Биохии в FSU Joseph Schlenoff признает, что подход <Node id="2602"/>Янга<Node id="2606"/> очень удачный, поскольку он основан на четких предположениях и скурпулезных расчетах и может описывать сложнейшие процессы в реальных биологических системах. Безусловно, это открывает большое будущее в использовании учеными компьютерного моделирования.
+
+Команда ученых, проводивших данное исследование, <Node id="2910"/>этим летом<Node id="2920"/> опубликовала свои открытия в работе An Enzymatic Atavist Revealed in Dual Pathways for Water Activation в журнале cо свободным доступом PLoS Biology.
+
+Профессор Стэнфордского университета Dan Herschlag, редактировавший эту публикацию, также воодушевлен ее новаторским исследовательским качеством: «Работа проясняет основные аспекты нашего понимания того, как белок работает и как он произошел. Эта работа подготовила мощное воссоединение компьютерного и экспериментального методов и является примером междисциплинарного подхода к ответам на важные вопросы».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1248" EndNode="1251">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Янг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2602" EndNode="2606">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Янг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1377" EndNode="1455">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1377" EndNode="1455">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1254" EndNode="1257">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="775" EndNode="868">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="775" EndNode="868">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="865" EndNode="868">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Янг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="328" EndNode="331">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Янг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1452" EndNode="1455">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Янг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="2910" EndNode="2920">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

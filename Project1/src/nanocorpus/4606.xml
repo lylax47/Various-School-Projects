@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Делегация <Node id="10"/>ЮКО<Node id="13"/> во главе с заместителем акима области посетила ИранАСТАНА. <Node id="73"/>8 августа<Node id="82"/> – При участии Посольства РК в Иране <Node id="119"/>6–7 августа<Node id="130"/> состоялся рабочий визит делегации <Node id="165"/>ЮКО<Node id="168"/> во главе с заместителем акима области <Node id="207"/>Эльданой Садвакасовой<Node id="228"/> в ИРИ. Об этом корреспонденту Казинформа сообщили в диппредставительстве Казахстана.
+<Node id="314"/>Эльдана Макиновна Садвакасова<Node id="343"/>
+В ходе визита состоялись встречи с и.о. губернатора провинции Хорасан Маруджом <Node id="423"/>Шариа<Node id="428"/>, а также руководством <Node id="451"/>Торгово-промышленной палаты<Node id="478"/>, Организации развития сельского хозяйства провинции Хорасан, СЭЗ «Серахс», расположенной на границе с Туркменистаном.
+
+В столице Ирана Тегеране делегация <Node id="633"/>ЮКО<Node id="636"/>, помимо встречи с руководством Центра нанотехнологий Ирана, в ходе которой были презентованы последние достижения и технологии Ирана, используемые в различных сферах во многих странах мира, также ознакомилась с потенциалом Научно-технологического парка. Заместитель акима позитивно оценила итоги визита, обозначив интерес казахстанской стороны в привлечении инвестиций и опыта иранских компаний в проектах развития Южно-Казахстанской области.
+
+<Node id="1081"/>Как отметил Посол Казахстана в Иране <Node id="1118"/>Ерик Утембаев<Node id="1131"/>, <Node id="1133"/>провинция Хорасан обладает мощным потенциалом и является одной из ведущих провинций Ирана по многим экономическим показателям<Node id="1258"/>. Товарооборот между Казахстаном и Ираном сегодня превышает <Node id="1318"/>2 млрд. долларов<Node id="1334"/> США и в этом отношении Хорасан играет определенно одну из значимых ролей, существенно увеличивая динамику торгово-экономического сотрудничества между двумя странами.
+В ходе обсуждения перспектив двустороннего сотрудничества было отмечено наличие широких возможностей <Node id="1602"/>ЮКО<Node id="1605"/> и Хорасана по использованию транзитно-транспортного потенциала, которые могут способствовать построению стабильного, взаимовыгодного и перспективного партнерства в промышленной, индустриальной, сельскохозяйственной, электроэнергетической, нефтеперерабатывающей, медицинской, транзитно-транспортной, научно-технической отраслях, а также в сфере туризма.
+ По итогам визита сторонами достигнута договоренность о создании рабочей группы на уровне заместителей руководителей <Node id="2076"/>ЮКО<Node id="2079"/> и провинции Хорасан, подписании соответствующего Меморандума о сотрудничестве между областями и проведении выставки иранских возможностей в ходе ответного визита Губернатора провинции Хорасан Мохаммад Мохаммадизаде в <Node id="2297"/>ЮКО<Node id="2300"/> <Node id="2301"/>осенью текущего года<Node id="2321"/>. <Node id="2323"/>http://www.zakon.kz/…ews/news.asp?…Южно-Казахстанская<Node id="2376"/> <Node id="2377"/>областьhttp://ru.wikipedia.org/wiki/Чимкентская_область<Node id="2432"/>
+Провинция <Node id="2443"/>Хорасанhttp://ru.wikipedia.org/wiki/Хорасан_Резави<Node id="2493"/>
+Nanotechnology Research Centerhttp://<Node id="2531"/>www.ripi.ir/…chnology.aspДве<Node id="2559"/> богатые и промышленно-развитые провинции обеих стран решили наладить сотрудничество друг с другом. И замечательно! Ибо их экономики хорошо дополняют друг друга. Наверняка обе стороны выиграют от такого сотрудничества. СтОит обратить внимание на то, что казахстанской делегации показали самое ценное и важное, чем так гордится Иран: Центр нанотехнологий Ирана и Научно-технологический парк. А <Node id="2952"/>осенью<Node id="2958"/> в Казахстане будет проведена выставка достижений науки и техники Ирана. Так развивается и углубляется сотрудничество между обеими странами…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="207" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Садвакасова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="451" EndNode="478">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Торгово-промышленной палаты</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1118" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">посол</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Утембаев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2323" EndNode="2376">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="1133" EndNode="1258">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="1133" EndNode="1258">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2297" EndNode="2300">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1602" EndNode="1605">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="10" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="423" EndNode="428">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">губернатор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шариа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="2443" EndNode="2493">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="165" EndNode="168">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Url" StartNode="2377" EndNode="2432">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="119" EndNode="130">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="2076" EndNode="2079">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="темы" StartNode="1133" EndNode="1258">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="633" EndNode="636">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Юко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="упоминается_с" StartNode="1133" EndNode="1258">
+</Annotation>
+<Annotation Id="31" Type="Url" StartNode="2531" EndNode="2559">
+</Annotation>
+<Annotation Id="30" Type="цитаты" StartNode="1133" EndNode="1258">
+</Annotation>
+<Annotation Id="34" Type="Период_времени" StartNode="2301" EndNode="2321">
+</Annotation>
+<Annotation Id="35" Type="Дата" StartNode="73" EndNode="82">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="упоминается" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="33" Type="высказывания_заявления" StartNode="1081" EndNode="1258">
+</Annotation>
+<Annotation Id="38" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="Период_времени" StartNode="2952" EndNode="2958">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="314" EndNode="343">
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Макиновна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Садвакасова</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Деньги" StartNode="1318" EndNode="1334">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

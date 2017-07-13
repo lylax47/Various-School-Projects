@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Новые термопластические материалы с использованием углеродных нанотрубокОтличная электропроводимость и механическая прочность <Node id="126"/>углеродных <Node id="137"/>нанотрубок<Node id="147"/> (УНТ) Baytubes® стали решающими факторами, которые привели к сотрудничеству в области создания новых термопластических материалов между компаниями Bayer MaterialScience AG и Clariant Masterbatches (Deutschland) GmbH.
+Фирма Bayer MaterialScience будет снабжать компанию Clariant (швейцарскую фирму, широко известную своим большим опытом в области разработки термопластиков) достаточным количеством УНТ Baytubes® для производства продукции серии CESA®, используемой для изготовления множества изделий, где могут применяться эти свойства УНТ. К примеру, для создания электропроводящих компонентов машин и упаковки сравнительно небольших электронных компонентов (таких как компьютерные чипсы).
+
+Таким образом будет объединён специфический опыт двух известных фирм для производства нового класса (упаковочных и конструкционных) материалов.
+Carbon nanotubes for new thermoplastic <Node id="1022"/>materialshttp://www.nanotech-now.com/news.cgi?…Вот<Node id="1072"/> пример разумного объединения сил двух специализированных фирм. Каждая специализируется в своей области, и объединение их усилий может привести как к появлению нового класса (термопластических) материалов, так и к взаимной выгоде обеих компаний…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1022" EndNode="1072">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="126" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="137" EndNode="147">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

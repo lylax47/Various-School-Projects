@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Военные нанотехнологии. Возможности применения и превентивного контроля вооружений (Перевод с английского)Military Nanotechnology: Potential Applications and Preventive Arms ControlСерия: Мир материалов и технологий
+
+Автор: <Node id="224"/>Альтман Ю.<Node id="234"/> (Jurgen Altmann) Издательство: «Техносфера» Переплет: твердый <Node id="297"/>Год<Node id="300"/> издания: 2006 Страниц: 421 Тираж: 3000 экз. ISBN: 5–94836–096–2 Формат: 60×90/16 (145×215 мм) Цена: <Node id="401"/>282 руб.<Node id="409"/>
+
+Книга является первым систематическим обзором потенциальных военных приложений нанотехнологий. В ближайшие <Node id="518"/>10–20 лет<Node id="527"/> могут быть созданы сверхмалые компьютеры, более легкие и прочные материалы, новые типы оружия и даже имплантанты, вводимые в организм военнослужащих.
+
+Перспективы военных нанотехнологий рассматриваются прежде всего с точки зрения международной безопасности и предотвращения новой гонки вооружений.
+Монография полезна для ученых, инженеров и преподавателей высшей школы, студентов и аспирантов, бакалавров и магистров, специализирующихся в области нанотехнологий и <Node id="992"/>наноматериалов<Node id="1006"/>, микро- и наносистемной техники.
+<Node id="1040"/>http://www.colibri.ru<Node id="1061"/>/binfo.asp?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="518" EndNode="527">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="224" EndNode="234">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альтман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="297" EndNode="300">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1040" EndNode="1061">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="401" EndNode="409">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="992" EndNode="1006">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Лаборатории Беркли (Lawrence Berkeley National Laboratory) создали наименьший в мире интегральный чип со встроенным <Node id="127"/>наносенсором<Node id="139"/>, детектирующий фотоны. Это – первый шаг к массовому производству наноустройств на базе традиционной микроэлектроники. И первый шаг к коммерческой реализации нанотехнологий.
+
+<Node id="314"/>Наноструктуры<Node id="327"/>, изготовленные из определенного материала, как правило, имеют различные полезные особенности. Если же на их поверхность наносятся различные примеси, то есть все шансы получить на основе нанонити или наноповерхности <Node id="543"/>сенсор<Node id="549"/>, чувствительный или к свету, или к определенным химическим веществам.
+
+Особенно перспективная база для различных <Node id="663"/>сенсоров<Node id="671"/> – нанонити и наноструны. Их миниатюрные размеры и геометрия как нельзя способствуют возникновению ответной реакции на «входящее» возбуждение. Особенно, если это световые волны.
+
+Фотосенсоры на основе нанострун – не редкость, их конструировали и испытывали уже <Node id="932"/>несколько лет тому назад<Node id="956"/>. Однако они так и не смогли «выйти» из стен лабораторий и институтов, оставаясь всего лишь интересным эффектом.
+
+Теперь ситуация может измениться – ученые из США во главе с профессором Али Джавеем (Ali Javey) разработали технологию простого изготовления интегральных чипов со встроенными фотосенсорами на основе нанострун!
+
+Как поясняет <Node id="1294"/>Али<Node id="1297"/>, основная проблема, не дающая до сих пор сконструировать фотосенсоры массово, заключается в трудности производства матрицы нанострун –<Node id="1432"/>сенсоров<Node id="1440"/>. Обычно при синтезе нанострун, они располагаются хаотично, и часто запутываются, что, естественно, не позволяет их использовать в качестве отдельных полупроводниковых приборов.
+
+В замену выращиванию, ученые решили использовать печать нанострун на заранее подготовленной подложке. При этом, <Node id="1731"/>как сообщает <Node id="1744"/>Али<Node id="1747"/>, подложка может быть практически любой – от пластика до бумаги<Node id="1810"/>.
+
+Печать <Node id="1820"/>наноструктур<Node id="1832"/> может быть как «плоской» – когда наноструны выращиваются на матрице, и затем сильно прижимаются к субстрату-основе, и «роликовой», когда они выращиваются на ролике, прокатывающемся затем по выбранной основе.
+
+Пока с помощью печати удается воспроизвести один слой нанонитей из селенида кадмия, но и это уже достижение. Селенид кадмия выбран не случайно – нанонити, сформированные из этого материала, особенно чувствительны к видимому свету.
+
+Дальше – больше. Кремниево-германиевые коаксиальные наноструны (германий составлял ядро, кремний – оболочку), созданные по той же технологии, послужили усилителями сигналов от того же фотосенсора. Фактически, ученые создали матрицу полевых транзисторов.
+
+Интегрирование полученных полупроводниковых приборов в состав чипа проходило достаточно просто – с помощью традиционного <Node id="2650"/>травления<Node id="2659"/>. При этом вся матрица присоединялась на электроды внутри чипа. Полученные чипы ученые расположили на подложке, фактически получив матрицу миниатюрных фоточувствительных пикселей.
+
+Правда, светочувствительными оказалась всего <Node id="2885"/>80%<Node id="2888"/> всех пикселей. Это связано с дефектами изготовления – <Node id="2943"/>5%<Node id="2945"/> брака приходится на соединения <Node id="2977"/>наносенсор<Node id="2987"/>-электроды чипа, <Node id="3004"/>5%<Node id="3006"/> – брак самих нанонитей, <Node id="3031"/>10%<Node id="3034"/> – дефекты соединений внутри самого чипа.
+
+В целом, как думает <Node id="3097"/>Али<Node id="3100"/>, такой процент брака не столь велик для подобной сложной интегральной схемы с работающими наноустройствами.
+
+Далее Али Джавей планирует оптимизировать матрицу фотопикселей так, чтобы они различали отдельные цвета (пока <Node id="3320"/>сенсоры<Node id="3327"/> монохромны). А в дальнейшем <Node id="3356"/>Али<Node id="3359"/> думает о производстве биологических и химических <Node id="3409"/>наносенсоров<Node id="3421"/>, расположенных вместе с чипами на пластиковых пленках. А это уже – новое поколение в диагностике и развитии сенсорной техники.
+
+О своей работе ученые сообщили <Node id="3581"/>1 августа<Node id="3590"/> в PNAS (Proceedings of the National Academy of Sciences).
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="663" EndNode="671">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1744" EndNode="1747">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Али</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="2977" EndNode="2987">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="3031" EndNode="3034">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="314" EndNode="327">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="3004" EndNode="3006">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="127" EndNode="139">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="3581" EndNode="3590">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="1432" EndNode="1440">
+</Annotation>
+<Annotation Id="13" Type="Сенсор" StartNode="543" EndNode="549">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="932" EndNode="956">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="3097" EndNode="3100">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Али</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Процент" StartNode="2885" EndNode="2888">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="3356" EndNode="3359">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Аля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Сенсор" StartNode="3409" EndNode="3421">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="2943" EndNode="2945">
+</Annotation>
+<Annotation Id="23" Type="автор" StartNode="1731" EndNode="1810">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="высказывания_заявления" StartNode="1731" EndNode="1810">
+</Annotation>
+<Annotation Id="24" Type="Травление" StartNode="2650" EndNode="2659">
+</Annotation>
+<Annotation Id="27" Type="Наноструктура" StartNode="1820" EndNode="1832">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="1294" EndNode="1297">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Али</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Сенсор" StartNode="3320" EndNode="3327">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

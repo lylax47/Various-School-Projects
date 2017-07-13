@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Ученые-химки из университета Райса смогли разрезать одиночную <Node id="64"/>нанотрубку<Node id="74"/> на отдельные «семена», с помощью которых затем «вырастили» новые <Node id="140"/>нанотрубки<Node id="150"/>, сообщает PhysOrg. Как считают ученые, это существенно ускорит появление эффективных технологий массового производства <Node id="270"/>нанотрубок<Node id="280"/> высокой чистоты. 
+
+«<Node id="301"/>Углеродные <Node id="312"/>нанотрубки<Node id="322"/> обычно выращиваются разного диаметра и длины, поэтому долгое время ученые стараются привести технологию их массового производства к унификации полученных образцов, - говорит <Node id="497"/>Джеймс Тур<Node id="507"/> (James Tour), директор лаборатории углеродных нанотехнологий при университете Райса. – Поэтому одной из наших задач стало массовое производство одинаковых <Node id="663"/>углеродных <Node id="674"/>нанотрубок<Node id="684"/>. И я считаю, что мы преуспели в этой области». 
+
+«Посадочный материал», полученный учеными – отрезки <Node id="786"/>нанотрубки<Node id="796"/> длиной 200 нанометров и 1 нанометр в диаметре. К концам каждого «черенка» химическими методами были прикреплены <Node id="909"/>наночастицы<Node id="920"/> железа и, далее, <Node id="938"/>нанотрубки<Node id="948"/> располагались на пластине из оксида кремния с нанесенным на поверхность специфическим полимером, связывающим железные <Node id="1067"/>наночастицы<Node id="1078"/>. После прилипания «семян» к пластине ее поместили в CVD-камеру выращивания <Node id="1154"/>нанотрубок<Node id="1164"/> методом осаждения в паровой фазе. И, как и ожидали исследователи, из «семян» за <Node id="1245"/>несколько минут<Node id="1260"/> выросли одинаковые <Node id="1280"/>нанотрубки<Node id="1290"/>, в 30 раз превышающие по длине начальный размер семян. 
+
+Одно из применений одинаковых по размерам <Node id="1390"/>нанотрубок<Node id="1400"/> – в экономичных элементах питания. Также не стоит забывать о том, что <Node id="1471"/>нанотрубки<Node id="1481"/> сегодня – востребованный продукт в микроэлектронной, оборонной и аэрокосмической промышленности, поэтому их массовое производство - особо важная проблема в области нанотехнологий.
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1154" EndNode="1164">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="663" EndNode="684">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="497" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джеймс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1280" EndNode="1290">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="301" EndNode="507">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="140" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1245" EndNode="1260">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="909" EndNode="920">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="270" EndNode="280">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1390" EndNode="1400">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="301" EndNode="507">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1471" EndNode="1481">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1067" EndNode="1078">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="674" EndNode="684">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="312" EndNode="322">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="786" EndNode="796">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="938" EndNode="948">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="301" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="64" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

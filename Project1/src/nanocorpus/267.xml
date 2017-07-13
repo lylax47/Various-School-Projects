@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Нанотехнология и молекулярные <Node id="30"/>компьютерыРамбиди Н.Г.<Node id="52"/>
+ISBN: 5–9221–0869–0
+ Оформление: твердый пер., 256 стр. Физматлит, <Node id="120"/>2007 г.<Node id="127"/> Цена по прайс-листу: <Node id="149"/>231,00 руб.<Node id="160"/> А н н о т а ц и я
+Эта книга об одном из наиболее ранних и активно развивающихся направлений нанотехнологии — создании вычислительных устройств, в которых в качестве элементной базы используются отдельные молекулы или же их сравнительно небольшие ансамбли.
+
+Изложены основные принципы обработки информации на молекулярном уровне, сложная и во многом противоречивая история разработки молекулярных вычислительных устройств и последние результаты, которые позволяют надеяться на новый прорыв в современной вычислительной технике. Рассматриваются цифровые молекулярные системы, сходные по своей архитектуре с современными компьютерами, а также устройства, имитирующие биологические принципы обработки информации, которые, по-видимому, смогут эффективно решать задачи искусственного интеллекта.
+Для студентов, аспирантов и научных работников, создающих новые перспективные средства обработки информации, а также для широкого круга читателей, интересующихся этой проблемой.
+<Node id="1129"/>http://www.fml.ru/books.php?…Не<Node id="1160"/> читал, но скажу…;-))) Учебник, он и есть учебник. Кто читал – поделитесь мнениями…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="30" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1129" EndNode="1160">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="120" EndNode="127">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="149" EndNode="160">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

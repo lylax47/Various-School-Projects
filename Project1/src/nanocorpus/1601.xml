@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Национального Института Передовых Промышленных Исследований и Технологий (Self-assembled Nano-electronics Group of the Nanotechnology Research Division of the National Institute of Advanced Industrial Science and Technology) измерили способность различных <Node id="274"/>углеродных <Node id="285"/>наноматериалов<Node id="299"/> "удалять" синглетный кислород. Они установили, что высшие <Node id="358"/>фуллерены<Node id="367"/> и эндоэдральные металлофуллерены могут с высокой эффективностью дезактивировать синглетный кислород. 
+ 
+Поскольку синглетный кислород обладает высокой химической активностью, то процессы, связанные с возникновением синглетного кислорода, приводят также к разрушению различных веществ на свету. Это сильно влияет на различные аспекты нашей жизни, например, на повреждение ДНК в живых организмах, процессы старения кожи и т.д. Вот почему вещества, обладающие способностью связывать или "пассивировать" синглетный кислород, важны как с точки зрения контроля фотодеградации, так и для профилактической медицины. 
+ 
+  
+ 
+Несмотря на то, что <Node id="1004"/>углеродные <Node id="1015"/>наноматериалы<Node id="1028"/> имеют самые различные перспективные области применения, тем не менее, они до сих пор ни разу не были протестированы на предмет способности пассивировать синглетный кислород. В проведенном исследовании было установлено, что высший <Node id="1259"/>фуллерен<Node id="1267"/> С82 и эндоэдральные металлофуллерены обладают такой же способностью к удалению синглетного кислорода, как и пигмент бета-каротин, характеризующийся наибольшей известной в природе способностью к этому. В пользу использования <Node id="1492"/>фуллеренов<Node id="1502"/> в этой новой ипостасии говорит также возможность их массового производства и нанесения в виде покрытий. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="1492" EndNode="1502">
+</Annotation>
+<Annotation Id="1" Type="Углеродный+наноматериал" StartNode="1004" EndNode="1028">
+</Annotation>
+<Annotation Id="2" Type="Углеродный+наноматериал" StartNode="274" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="285" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1015" EndNode="1028">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="1259" EndNode="1267">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="358" EndNode="367">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

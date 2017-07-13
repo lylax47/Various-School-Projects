@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В <Node id="3"/>первую неделю<Node id="16"/> <Node id="17"/>сентября<Node id="25"/> в Москву прибыл с визитом Фидель Кастро Диас-Баларт, советник по науке Государственного Совета Республики Куба. Программа его пребывания была весьма насыщенной: встреча и переговоры с руководством <Node id="223"/>Министерства образования и науки<Node id="255"/>, Российской академии наук, РНЦ «Курчатовский институт».
+
+Кроме того, в рамках проходившей на ВВЦ XXI Международной выставки-ярмарки доктор <Node id="395"/>Кастро<Node id="401"/> провел презентацию своей книги «Ядерная энергия: угроза окружающей среде или решение энергетической проблемы <Node id="511"/>XXI века<Node id="519"/>?». Она впервые издана на русском языке.
+
+Фидель Кастро Диас-Баларт — член Академии наук Кубы, доктор физико-математических наук, в <Node id="651"/>1980-е годы<Node id="662"/> в качестве исполнительного секретаря Комиссии по атомной энергии Республики Куба активно участвовал в разработке и осуществлении кубинской ядерной программы. А с Курчатовским институтом он знаком давно – в ведущем атомном центре бывшего СССР Фидель Кастро Диас-Баларт защитил докторскую диссертацию.
+
+На встрече кубинской делегации с руководством Курчатовского института обсуждались вопросы возможного сотрудничества. Ф.<Node id="1083"/>Кастро<Node id="1089"/> отметил значительные подвижки в развитии науки на Кубе в целом, в том числе на сегодня нанотехнологии являются одним из приоритетов для кубинских ученых. Директор РНЦ Михаил Ковальчук<Node id="1273"/> <Node id="1274"/>подробно рассказал о ведущихся в Курчатовском институте исследованиях и разработках, потенциально интересных кубинской стороне для сотрудничества. Также он обратил внимание <Node id="1447"/>Ф.Кастро<Node id="1455"/> на образовательные программы Курчатовского института — сегодня РНЦ «КИ» имеет ряд базовых кафедр в ведущих вузах, например в МГУ, Физико-техническом институте, МИФИ, МГТУ им. Н.Э. Баумана, МФТИ. где планируется подготовка магистров по нанотехнологиям . Кроме того, Курчатовский институт располагает уникальным экспериментальным, научно-техническим потенциалом, открытым для коллективного междисциплинарного использования.
+
+<Node id="1879"/>М.Ковальчук подчеркнул: <Node id="1903"/>сегодня Курчатовский институт имеет особый статус — национального исследовательского центра<Node id="1994"/>. Это даст возможность осуществлять весь комплекс научных работ — от идеи до коммерциализации..
+
+Кубинский гость в свою очередь рассказал о кубинском Институте биотехнологий. По его словам, кубинским ученым также есть, что предложить российским коллегам для совместного сотрудничества. Доктор <Node id="2287"/>Кастро<Node id="2293"/> подчеркнул, что <Node id="2310"/>сегодня на Кубе активно развиваются биотехнологии, поэтому ему интересно все, что делается сейчас в России в этом направлении<Node id="2435"/>. Кроме того, ему было важно узнать о российских работах в области нанотехнологий, приборостроения и научного оборудования в целом, .
+
+<Node id="2570"/>М. Ковальчук подчеркнул, что <Node id="2599"/>в качестве совместных проектов можно рассматривать многие разработки в сфере нано- и биотехнологий, которые ведутся сегодня в Курчатовском институте совместно с целым рядом институтов Российской академии наук<Node id="2807"/>. По <Node id="2812"/>его<Node id="2815"/> словам, в институте сегодня активно развивается направление белковой кристаллографии, также приступили к проекту по расшифровке генома, созданию модели искусственной клетки.
+
+Ф. <Node id="2994"/>Кастро<Node id="3000"/> пригласил руководство Курчатовского института принять участие в Международном нанофоруме, который будет проходить на Кубе в начале <Node id="3132"/>ноября<Node id="3138"/> <Node id="3139"/>этого года<Node id="3149"/>, и познакомится с успехами кубинских ученых по ряду перспективных научных направлений и проектов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="2599" EndNode="2807">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="2287" EndNode="2435">
+</Annotation>
+<Annotation Id="3" Type="упоминается_с" StartNode="1903" EndNode="2807">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1083" EndNode="1089">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кастро</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="2287" EndNode="2435">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="10" Type="темы" StartNode="2310" EndNode="2435">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="2812" EndNode="2815">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="упоминает" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1447" EndNode="1455">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="223" EndNode="255">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства образования и науки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="651" EndNode="662">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="511" EndNode="519">
+</Annotation>
+<Annotation Id="24" Type="темы" StartNode="1903" EndNode="1994">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="1903" EndNode="2807">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="упоминается_с" StartNode="1903" EndNode="2807">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="цитаты" StartNode="2599" EndNode="2807">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Период_времени" StartNode="3139" EndNode="3149">
+</Annotation>
+<Annotation Id="32" Type="цитаты" StartNode="2310" EndNode="2435">
+</Annotation>
+<Annotation Id="33" Type="упоминает" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="38" Type="упоминается" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="работает" StartNode="1273" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="высказывания_заявления" StartNode="1879" EndNode="1994">
+</Annotation>
+<Annotation Id="42" Type="автор" StartNode="1879" EndNode="1994">
+</Annotation>
+<Annotation Id="43" Type="цитаты" StartNode="1903" EndNode="1994">
+</Annotation>
+<Annotation Id="40" Type="Персона" StartNode="2287" EndNode="2293">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кастро</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="47" Type="Дата" StartNode="17" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="45" Type="Дата" StartNode="3132" EndNode="3138">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Период_времени" StartNode="3" EndNode="16">
+</Annotation>
+<Annotation Id="50" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="49" Type="сотрудники" StartNode="1273" EndNode="1274">
+</Annotation>
+<Annotation Id="48" Type="упоминает" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="55" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="54" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="53" Type="Персона" StartNode="395" EndNode="401">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кастро</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="цитаты" StartNode="2310" EndNode="2435">
+</Annotation>
+<Annotation Id="59" Type="автор" StartNode="2570" EndNode="2807">
+</Annotation>
+<Annotation Id="58" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="57" Type="упоминается" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="56" Type="упоминается" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="63" Type="Персона" StartNode="2994" EndNode="3000">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кастро</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="цитаты" StartNode="2599" EndNode="2807">
+</Annotation>
+<Annotation Id="61" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="60" Type="высказывания_заявления" StartNode="2570" EndNode="2807">
+</Annotation>
+<Annotation Id="68" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="69" Type="упоминается" StartNode="1879" EndNode="2807">
+</Annotation>
+<Annotation Id="70" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="71" Type="темы" StartNode="2599" EndNode="2807">
+</Annotation>
+<Annotation Id="64" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="65" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="66" Type="темы" StartNode="2310" EndNode="2435">
+</Annotation>
+<Annotation Id="67" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Университета Пенсильвании (University of Pennsylvania) создали аэрогель из <Node id="93"/>углеродных <Node id="104"/>нанотрубок<Node id="114"/>, обладающий низкой плотностью и способный выдерживать нагрузку, в 8000 раз превосходящую его вес.
+
+Новый материал обладает прочностью, лёгкостью и теплоизоляционными свойствами обычных аэрогелей в сочетании с электропроводящими свойствами <Node id="354"/>нанотрубок<Node id="364"/>.
+
+Аэрогели, новый и перспективный класс материалов, представляют собой полупрозрачные лёгкие структуры, создаваемые на основе диоксида кремния или органических полимеров путём замены жидкой компоненты геля газом. В <Node id="580"/>настоящее время<Node id="595"/> они используются в качестве сверхлёгких строительных материалов, детекторов излучения, а также в теплоизоляторах. По сравнению с обычными, аэрогели на основе <Node id="754"/>углеродных <Node id="765"/>нанотрубок<Node id="775"/> обладают преимуществами, обещающими в будущем применение этих материалов в химических и <Node id="864"/>биологических <Node id="878"/>сенсорах<Node id="886"/>.
+
+Новые аэрогели были созданы на Факультете Физики и Астрономии Пенсильванского Университета путём сублимации суспензии <Node id="1007"/>углеродных <Node id="1018"/>нанотрубок<Node id="1028"/>. В результате получались сети <Node id="1059"/>углеродных <Node id="1070"/>нанотрубок<Node id="1080"/>, концентрацией, электропроводностью и прочностью которых можно было управлять. Кроме того, учёным удалось контролировать плотность, микроскопическую структуру и форму аэрогелей на основе <Node id="1268"/>углеродных <Node id="1279"/>нанотрубок<Node id="1289"/>. Добавление поливинилового спирта позволило усилить дисперсию <Node id="1352"/>углеродных <Node id="1363"/>нанотрубок<Node id="1373"/> в аэрогеле, что приводило к возрастанию прочности материала.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1018" EndNode="1028">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="580" EndNode="595">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="1059" EndNode="1080">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1070" EndNode="1080">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1279" EndNode="1289">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="765" EndNode="775">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Биосенсор" StartNode="864" EndNode="886">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="354" EndNode="364">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1363" EndNode="1373">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="1007" EndNode="1028">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="1268" EndNode="1289">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="754" EndNode="775">
+</Annotation>
+<Annotation Id="21" Type="Сенсор" StartNode="878" EndNode="886">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Углеродная+нанотрубка" StartNode="1352" EndNode="1373">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Углеродная+нанотрубка" StartNode="93" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

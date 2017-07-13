@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>9-11 декабря 2008 г.<Node id="22"/> в Белгородском государственном университете будет проходить Всероссийская школа-семинар молодых ученых, аспирантов, студентов "Нанобиотехнологии: проблемы и перспективы". Регистрация участников до <Node id="220"/>25 ноября 2008 г.<Node id="237"/>
+ 
+Проезд и проживание участников за счет принимающей стороны.
+ 
+Подробная информация на сайте Школы.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="220" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

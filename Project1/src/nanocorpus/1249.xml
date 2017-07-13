@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Благодаря нанотехнологиям появилась возможность создать назальную вакцину на масляной основе, борющуюся с разнообразными инфекционными заболеваниями, в том числе и с вирусом иммунодефицита человека.
+
+Исследователи из Университета Мичигана (University of Michigan) сообщили о создании <Node id="285"/>наноэмульсии<Node id="297"/> на основе соевого масла, состоящей из капель детергента размерами до 400 нанометров, содержащего микробные или вирусные белки, которые таким образом легче доставлять к клеткам и вызывать иммунный ответ.
+
+В <Node id="504"/>2003 году<Node id="513"/> этой же командой ученых была создан назальный препарат на основе <Node id="579"/>наноэмульсии<Node id="591"/>, которая эффективно боролась с гриппом, теперь же, как утверждают исследователи, появился шанс побороться с таким страшным заболеванием, как вирус иммунодефицита человека.
+
+Технология, открытая учеными, лицензирована компанией NanoBio Corp., основанной одним из ученых – профессором <Node id="875"/>Бэйкером<Node id="883"/>.
+
+Принцип действие нановакцины достаточно прост: нано-капели содержат вирусные белки, которые и вызывают иммунный ответ. При этом повреждаются только поверхностные ткани человека. Препарат уже опробован на таком заболевании, как оспа, показав прекрасные результаты.
+
+В середине <Node id="1162"/>февраля 2008 года<Node id="1179"/> <Node id="1180"/>Бэйкер<Node id="1186"/> опубликовал в журнале AIDS Research Human Retroviruses результаты предварительных тестов эффективности <Node id="1290"/>наноэмульсии<Node id="1302"/> против вируса иммунодефицита человека.
+
+По результатам тестов на мышах, которым вакцина распылялась в носовую полость, <Node id="1422"/>наноэмульсия<Node id="1434"/> вызывала сильный иммунный ответ слизистой оболочки, что, по словам, Бэйкера очень важно для борьбы с ВИЧ.
+
+Как далее заявил <Node id="1559"/>Бэйкер<Node id="1565"/>, работы в этом направлении только начались, и еще необходимо проделать ряд тестов для окончательных модификаций нановакцины. То, что <Node id="1699"/>наноэмульсия<Node id="1711"/> станет коммерческим продуктом, <Node id="1743"/>Бэйкер<Node id="1749"/> не сомневается.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1559" EndNode="1565">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бэйкер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноэмульсия" StartNode="579" EndNode="591">
+</Annotation>
+<Annotation Id="2" Type="Наноэмульсия" StartNode="285" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноэмульсия" StartNode="1422" EndNode="1434">
+</Annotation>
+<Annotation Id="4" Type="Наноэмульсия" StartNode="1699" EndNode="1711">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="875" EndNode="883">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бэйкер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1743" EndNode="1749">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бэйкер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноэмульсия" StartNode="1290" EndNode="1302">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="504" EndNode="513">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="504" EndNode="513">
+</Annotation>
+<Annotation Id="19" Type="Дата" StartNode="1162" EndNode="1179">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1180" EndNode="1186">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бэйкер</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

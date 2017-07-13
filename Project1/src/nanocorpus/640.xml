@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Саратовский госуниверситет выиграл крупнейший грант – 111 миллионов рублейДеньги пойдут на создание научно-образовательного центра по направлению нанотехнологии.
+Саратовский госуниверситет
+Исследования в этой области в госуниверситете ведутся уже несколько десятков <Node id="266"/>лет<Node id="269"/>.
+К примеру, в этом вузе изобрели установку, где <Node id="318"/>наночастицы<Node id="329"/> поставили на борьбу с раковыми опухолями и другими заболеваниями.
+
+<Node id="397"/>Грант<Node id="402"/> позволит купить новое оборудование и продолжить исследования.
+<Node id="465"/>http://news.telekom-media.ru/news/all/14722/Потихоньку-полегоньку<Node id="530"/> обрастаем новым оборудованием… Нужно в первую очередь помогать тем, кто уже что-то делает, уже имеет опыт. И это правильно, что саратовчанам дают большой грант на обновление оборудования и продолжение исследований…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="266" EndNode="269">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="465" EndNode="530">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="397" EndNode="402">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Грант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="318" EndNode="329">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

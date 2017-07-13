@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+На выставке «НаноЭкспо», завершившей работу <Node id="46"/>16 октября<Node id="56"/>, большой интерес посетителей привлек стенд научно-производственной компании «Наномет», представившей уникальные разработки в области биохимического синтеза <Node id="213"/>наночастиц<Node id="223"/> металлов широкого спектра (Ag, Au, Cu, Zn, Ni, Co и др.). 
+ 
+Собственная лаборатория, оснащенная новейшим оборудованием, и оригинальные запатентованные методики позволяют ООО НПК «Наномет» получать <Node id="422"/>наночастицы<Node id="433"/> различных металлов малого размера (не более 15 нм), стабильные в растворе на воздухе в течение длительного времени (от <Node id="553"/>нескольких месяцев до нескольких лет<Node id="589"/>) в промышленных объемах. 
+ 
+Исследования, проведенные в компании, дают возможность получать новые, действительно инновационные вещества и материалы, обладающие биоцидными, каталитическими, магнитными и электрическими свойствами. Это открывает широкие перспективы для практического использования достижений нанотехнологий в различных отраслях. Например, <Node id="943"/>наночастицы<Node id="954"/> меди могут быть использованы как присадки к техническим маслам, <Node id="1019"/>наночастицы<Node id="1030"/> цинка могут существенно повысить антикоррозионные свойства покрытий, одновременно снизив их стоимость и улучшив эксплуатационные свойства, <Node id="1170"/>наночастицы<Node id="1181"/> кобальта могут быть использованы при создании быстровысыхающих покрытий (сиккативов) в лакокрасочной промышленности, а <Node id="1301"/>наночастицы<Node id="1312"/> кобальта и других магнитных металлов (например, железа) могут найти широкое применение везде, где востребованы их магнитные свойства. 
+ 
+Особый интерес представляют наиболее изученные <Node id="1497"/>на сегодняшний день<Node id="1516"/> биоцидные свойства <Node id="1536"/>наночастиц<Node id="1546"/> серебра и модифицированных ими материалов – во всех случаях обнаружено наличие высокой антимикробной активности против широкого спектра видов микроорганизмов. 
+ 
+Активный интерес посетителей выставки к продукции научно-производственной компании «Наномет» был обусловлен и тем, что разработки компании могут быть внедрены в различные сферы реального сектора экономики в кратчайшие сроки. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1497" EndNode="1516">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="213" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1170" EndNode="1181">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="553" EndNode="589">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="943" EndNode="954">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1301" EndNode="1312">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1536" EndNode="1546">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="422" EndNode="433">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1019" EndNode="1030">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="46" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

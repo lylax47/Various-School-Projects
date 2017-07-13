@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Созданы осветительные панели на основе органических светодиодовУченые из Мичиганского университета разработали конструкцию нового осветительного прибора на основе <Node id="163"/>органических <Node id="176"/>светодиодов<Node id="187"/> с применением нанотехнологий. Создатели расценивают свое изобретения как альтернативу привычным лампам накаливания и лампам дневного света. Статья, содержащая подробное описание конструкции, опубликована в журнале Nature Photonics.
+<Node id="420"/>Органические <Node id="433"/>светодиоды<Node id="443"/> (Organic Light Emitting Device – <Node id="477"/>OLED<Node id="481"/>) представляют собой тонкие пленки органического материала, играющего роль полупроводника, которые под воздействием электрического тока испускают свет. При этом материал светится по всей толщине, и <Node id="679"/>более 60 процентов<Node id="697"/> производимого света не попадает наружу.
+ Для увеличения процента выхода ученые использовали специальную двухслойную конструкцию. Первый слой представляет собой решетку с нанометровыми ячейками, выполненную из органического материала. Второй слой состоит из нанолинз, каждая из которых накрывает ровно одну ячейку. Линзы улавливают свет, который иначе отправился бы внутрь материала, и отправляют его наружу. Представленная конструкция производит около 70 люмен света (люмен – единица измерения светового потока) на один потраченный ватт электричества. Для сравнения, этот показатель для обычных ламп накаливания составляет около 15 люмен, а для ламп дневного света 90 люмен. К достоинствам изобретения следует отнести доступность материалов, из которых оно изготавливается. Так, например, первый слой можно изготавливать из натуральных красителей. Кроме этого они не содержат токсичных веществ (например, лампы дневного света содержат ртуть) и изготавливаются в виде панелей, которым при желании можно придавать любую форму.
+<Node id="1723"/>http://lenta.ru/…07/16/light/Freeing<Node id="1759"/> light shines promise on energy-efficient <Node id="1801"/>lightinghttp://lenta.ru<Node id="1824"/>/…07/16/light/Да, идёт, идёт дело к тому, что скоро простые лампы накаливания просто-напросто исчезнут… Пора начать сохранять их на память и для экспозиций будущих музеев. Молодцы ребята! Нашим тоже надо поспешать в этой области. Где там ГК «Роснанотех» со своим «большим мешком» денежек?.. Это уже не первый звоночек…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1723" EndNode="1759">
+</Annotation>
+<Annotation Id="1" Type="Органический+светодиод" StartNode="420" EndNode="443">
+</Annotation>
+<Annotation Id="2" Type="Органический+светодиод" StartNode="477" EndNode="481">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="433" EndNode="443">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1801" EndNode="1824">
+</Annotation>
+<Annotation Id="6" Type="Светодиод" StartNode="176" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Органический+светодиод" StartNode="163" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="679" EndNode="697">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

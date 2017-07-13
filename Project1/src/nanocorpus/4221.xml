@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Nokia Research Center (NRC) и университет Кембриджа (Великобритания) на выставке «Дизайн и творчество» («Design and the Elastic Mind»), проходящей в Нью-йоркском музее современного искусства, представили концепт нанотехнологического устройства под названием Morph.
+
+Morph должен продемонстрировать гибкость будущих мобильных устройств и возможность изменения их формы по желанию пользователя в зависимости от его задач.
+
+Нанотехнологии будущего позволят создавать такие устройства из гибких материалов, прозрачной электроники и самоочищающихся поверхностей. По словам доктора Боба Януччи (Dr. Bob Iannucci), СТО Nokia, Morph служит демонстрацией того, что это возможно.
+
+<Node id="672"/>Партнерство<Node id="683"/> между компанией Nokia и Кембриджским университетом было анонсировано в <Node id="755"/>марте 2007 года<Node id="770"/> в рамках долгосрочного исследовательского проекта. Nokia Research Center развернул на базе университета исследовательскую лабораторию и организовал работу с некоторыми его отделениями, сделав основной упор на нанотехнологию.
+
+Элементы, использованные в Morph'е, смогут быть применены в коммерческих портативных устройствах приблизительно <Node id="1109"/>через семь лет<Node id="1123"/>.
+
+Видеодемонстрацию работы устройства можно загрузить здесь (файл имеет размер более 40 МВ)
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Партнеры_Клиенты" StartNode="672" EndNode="683">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="755" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1109" EndNode="1123">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

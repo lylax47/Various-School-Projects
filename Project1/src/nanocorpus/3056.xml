@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Перед решением задачи, пожалуйста, прочитайте здесь инструкции и советы... В частности, Вы узнаете, что задания ТВОРЧЕСКОГО конкурса будут приниматься еще <Node id="156"/>спустя неделю<Node id="169"/> после закрытия школьного этапа (то есть это задание можно решить позже остальных, а можно решить только его и еще два аналогичных, потому что участники творческого конкурса могут победить по номинации "Романтик нанотехнологий")! 
+Одна из ведущих передачи «От первого лица» (радио «Россия») задала как-то вопрос, был бы сейчас первооткрыватель Периодического закона Д.И.Менделеев «на уровне» с теми, кто исследует <Node id="583"/>наночастицы<Node id="594"/> и «наноматерию». Пусть этими исследователями будете Вы, причем Вам, наоборот, следует доказать, что это Вы «на уровне», поэтому в этой задаче Вам предлагается использовать гениальное открытие Д.И.Менделеева – периодическую систему элементов (ПСЭ). 
+ Вопросы:    Что такое, по-Вашему, <Node id="879"/>наночастицы<Node id="890"/>? (1 балл) Какой они могут быть формы и размера? (1 балл)   Будут ли свойства <Node id="968"/>наночастиц<Node id="978"/> отличаться от общеизвестных свойств простых веществ такого же состава и если будут, то почему (2 балла)?   Какие из элементов в форме простых веществ могут быть получены в принципе (1 балл) и уже получены на практике (3 балла) в виде <Node id="1213"/>наночастиц<Node id="1223"/>, а какие получены быть не могут и почему (1 балл)?   Каковы могут быть практические применения полученных <Node id="1330"/>наночастиц<Node id="1340"/> ? (3 балла)   Какие методы получения <Node id="1378"/>наночастиц<Node id="1388"/> Вы можете предложить (4 балла)?   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="156" EndNode="169">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1213" EndNode="1223">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="968" EndNode="978">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1378" EndNode="1388">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1330" EndNode="1340">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="879" EndNode="890">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="583" EndNode="594">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

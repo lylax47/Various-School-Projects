@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Центр «Атом-инновации» объявляет о переносе сроков проведения третьего инновационного форума <Node id="95"/>Росатома<Node id="103"/> на <Node id="107"/>16 июня 2008 г.<Node id="122"/> Мероприятие пройдет в Москве в Президент-отеле (ул. Большая Якиманка, д. 24) и будет включать в себя экспозицию наиболее перспективных инновационных проектов, составляющих комплексные программы инноваций, пленарные заседания, тематические круглые столы и мастер-классы. Срок приема проектов продлен до <Node id="425"/>12 мая 2008 г.<Node id="439"/> <Node id="440"/>На сегодняшний день<Node id="459"/> на инновационный форум поступило более 100 заявок от организаций и предприятий <Node id="539"/>Росатома<Node id="547"/>, институтов РАН, малого инновационного бизнеса и других отраслей. Наибольшее количество проектов связаны с разработками в области нанотехнологий и новых материалов, диагностики, сверхпроводимости, водных технологий, изотопной и ядерной медицины, экологии, энергетики и энергосбережения. Лучшие инновационные решения будут представлены для инвесторов в рамках выставочной экспозиции Форума и, кроме того, рекомендованы для инвестиционной поддержки в рамках создаваемого специализированного бизнес-инкубатора. Генеральным партнером третьего инновационного форума выступает ОАО «ТВЭЛ», генеральным информационным партнером – АЭИ «Прайм-ТАСС». Информационную поддержку инновационного форума оказывают более 20 ведущих специализированных СМИ. 
+ 
+Организаторы третьего инновационного форума: Государственная корпорация «Росатом», ФГУП ЦНИИАТОМИНФОРМ и Центр «Атом-инновации». Подробную информацию о подготовке и проведении третьего инновационного форума <Node id="1496"/>Росатома<Node id="1504"/> можно узнать на официальном сайте Центра «Атом-инновации» или по телефонам +7 (495) 662-69-99 и 739-33-57, e-mail: inforum@runtech.ru. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="107" EndNode="122">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="95" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1496" EndNode="1504">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="425" EndNode="439">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="440" EndNode="459">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Властная_Структура" StartNode="539" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

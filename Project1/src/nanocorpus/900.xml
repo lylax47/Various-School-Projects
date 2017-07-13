@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Рост цен на нефть и растущая озабоченность загрязнением окружающей среды породили взрывной интерес к возобновляемым источникам энергии и, особенно, к солнечной энергетике, как имеющей наибольший потенциал для быстрого технического совершенствования.
+
+Премьер-министр Японии <Node id="275"/>Ясуо Фукуда<Node id="286"/> заявил <Node id="294"/>9 июня с.г.<Node id="305"/>, что в длительной перспективе (к <Node id="339"/>2050 г.<Node id="346"/>) необходимо на 60–<Node id="365"/>80%<Node id="368"/> уменьшить содержание технических газов в атмосфере. Преследуя эту цель, к <Node id="443"/>2020 г.<Node id="450"/> <Node id="451"/>70%<Node id="454"/> вновь возводимых в Японии зданий должны быть оборудованы автономными солнечными панелями [1].
+
+Солнечные разработки захватывают все большее число полупроводниковых компаний, включая такие как Intel и IBM [2]. Не отстают и энергетические компании. Так, американская GE Energy (Schenectady, New York), которая уже <Node id="767"/>более 100 лет<Node id="780"/> является поставщиком электроэнергетических услуг, <Node id="831"/>приобрела<Node id="840"/> блокирующий пакет акций солнечной компании PrimeStar Solar, Inc. Компания разрабатывает и поставляет тонкопленочные (CdTe) фотовольтаические модули [3].
+
+По оценкам iSuppli Corp., инвестиции в производство фотовольтаических элементов будут непрерывно расти вместе с соответствующими разработками. В результате объем произведенной в мире электроэнергии к <Node id="1195"/>2010 г.<Node id="1202"/> возрастет до 12 ГВт в сравнении с 3,5 ГВт, произведенными на уровень <Node id="1272"/>2007 г.<Node id="1279"/> [4]. По предсказаниям iSuppli, к <Node id="1313"/>2010 году<Node id="1322"/> в мире будет действовать 400 производственных линейки для фотовольтаических элементов (сегодня их – 90–100). Согласно заключению Наблюдательного Совета по глобальным изменениям (Германия), к <Node id="1514"/>2100 г.<Node id="1521"/> <Node id="1522"/>80%<Node id="1525"/> электроэнергии должно будет генерироваться возобновляемыми источниками. Консалтинговые компании предсказывают существенное снижение стоимости фотовольтаических систем (снижение до <Node id="1706"/>40 %<Node id="1710"/> к <Node id="1713"/>2010 г.<Node id="1720"/> в сравнение <Node id="1733"/>с 2006 г.<Node id="1742"/>). В результате в богатых солнцем регионах к <Node id="1787"/>2012 г.<Node id="1794"/> установится паритет стоимости электроэнергии, произведенной тепловыми электростанциями и полученной от солнечных источников. В регионах со средним солнечным достатком такой паритет может наступить к <Node id="1994"/>2018 г.<Node id="2001"/> [4].
+
+Широкую рекламную компанию солнечной энергетике развернула компания Nanosolar, параллельно предлагающая собственную разработку – эффективную установку для непрерывного осаждения тонких пленок медь-индий-галлиевого диселенида (CIGS). На основе этих пленок могут изготавливаться относительно дешевые фотовольтаические элементы с эффективностью преобразования до <Node id="2368"/>14 %<Node id="2372"/> (в сравнении с <Node id="2388"/>25%<Node id="2391"/> для кремниевых элементов). На сайте [5] представлены многочисленные интересные комментарии к Nanosolar рекламе, в частности, в одном из них приводится ссылка на публикацию о росте цен на индий (с <Node id="2588"/>60 долл.<Node id="2596"/> до <Node id="2600"/>1000 долл.<Node id="2610"/> за кг, не в последнюю очередь, из-за высокого «солнечного» спроса на этот материал [6]).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1787" EndNode="1794">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="2388" EndNode="2391">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="365" EndNode="368">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="1706" EndNode="1710">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="1522" EndNode="1525">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="1195" EndNode="1202">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="294" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1713" EndNode="1720">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1733" EndNode="1742">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="275" EndNode="286">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ясуо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="451" EndNode="454">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="1272" EndNode="1279">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="767" EndNode="780">
+</Annotation>
+<Annotation Id="13" Type="покупка" StartNode="831" EndNode="840">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="339" EndNode="346">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="2588" EndNode="2596">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="2368" EndNode="2372">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1313" EndNode="1322">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="2600" EndNode="2610">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="1994" EndNode="2001">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="443" EndNode="450">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1313" EndNode="1322">
+</Annotation>
+<Annotation Id="23" Type="покупает" StartNode="831" EndNode="840">
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="1514" EndNode="1521">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

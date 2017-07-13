@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учеными-материаловедами совершен прорыв в области <Node id="51"/>наноматериалов<Node id="65"/>. Им удалось синтезировать цельную <Node id="100"/>нанотрубку<Node id="110"/> длиной 12 миллиметров, и этот «<Node id="142"/>наноматериал<Node id="154"/>» уже видно невооруженным глазом.
+
+Как сообщает EurekAlert, <Node id="214"/>углеродные <Node id="225"/>нанотрубки<Node id="235"/> уже давно попали в поле зрения ученых благодаря своим уникальным механическим характеристикам. Длинные <Node id="339"/>нанотрубки<Node id="349"/> могут открыть новую эру в разработке сверхпрочных материалов.
+
+Также <Node id="419"/>нанотрубки<Node id="429"/> – отличные проводники электричества, а это позволяет использовать их в составе различных <Node id="519"/>сенсоров<Node id="527"/>.
+
+Правда, до сегодняшнего <Node id="554"/>дня<Node id="557"/> можно было синтезировать только небольшие участки <Node id="608"/>нанотрубок<Node id="618"/> – самый большой из которых был 3 миллиметра.
+
+Полученная <Node id="676"/>нанотрубка<Node id="686"/> в 900000 раз длиннее, чем ее диаметр, который составляет около 20 нанометров.
+
+Для того, чтобы ее получить, ученым из Университета Цинциннати (University of Cincinnati – UC) и их коллегам из частной компании First Nano пришлось разработать дополнения к традиционному методу парового осаждения углерода в вакууме (CVD). Большинство <Node id="1018"/>нанотрубок<Node id="1028"/> получают с помощью именно этого метода.
+
+На этот раз ученые Веселин Шанов (Vesselin Shanov) и Марк Шульц (Mark Schulz) использовали специальную установку EasyTube 3000 и катализаторы на основе тонких слоев керамики и металла.
+
+«<Node id="1257"/>Этот процесс производства <Node id="1283"/>нанотрубок<Node id="1293"/> особен тем, что катализатор в течение долгого времени остается в установке, в то время как в традиционной CVD-камере он со временем не достает до зоны активного образования <Node id="1467"/>наноматериала<Node id="1480"/>», – говорит Шанов<Node id="1498"/>.
+
+Таким образом, на подложке из кремния ученые получили 10-сантиметровывй «ковер» из <Node id="1584"/>нанотрубок<Node id="1594"/> 12-мм высотой.
+
+О своем достижении ученые сообщили на апрельском заседании Single Wall Carbon Nanotube Nucleation and Growth Mechanisms workshop, организованный <Node id="1756"/>НАСА<Node id="1760"/> и Институтом Райса (Rice University).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="554" EndNode="557">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="519" EndNode="527">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="214" EndNode="235">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1257" EndNode="1498">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="51" EndNode="65">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="142" EndNode="154">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1283" EndNode="1293">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="100" EndNode="110">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1018" EndNode="1028">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="419" EndNode="429">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="339" EndNode="349">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1584" EndNode="1594">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1257" EndNode="1498">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="676" EndNode="686">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="225" EndNode="235">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1467" EndNode="1480">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="1756" EndNode="1760">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="608" EndNode="618">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

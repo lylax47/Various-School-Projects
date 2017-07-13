@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Германская Siemens открыла представительство в ТомскеГерманская фирма Siemens открыла представительство в Томске, сообщил корреспондент агентства «Интерфакс-Сибирь» с церемонии открытия.
+ 
+«<Node id="190"/>Специализацией Томского подразделения Siemens станут разработки в сфере автоматизации технологических процессов<Node id="301"/>», – сказал руководитель представительства компании в Сибирском федеральном округе (СФО) Владимир Мамонов<Node id="406"/> на встрече губернатора Томской области Виктора Кресса с чрезвычайным и полномочным послом ФРГ в России Вальтером Шмидом.
+ <Node id="529"/>В. Мамонов отметил, что <Node id="553"/>в ближайшее время Siemens и Томский научный центр Сибирского отделения РАН намерены подписать соглашение о сотрудничестве в области электротехники, нанотехнологий, энергосберегающих технологий<Node id="745"/>.
+ 
+«Бизнес компании Siemens в России активно развивается. Об этом можно судить по тому, что объем реализованных проектов за <Node id="870"/>прошедшие несколько лет<Node id="893"/> вырос на порядок и достигает сегодня <Node id="931"/>1 млрд 300 млн евро<Node id="950"/> в <Node id="953"/>год<Node id="956"/>», – подчеркнул руководитель представительства.
+ <Node id="1005"/>http://obzor.westsib.ru<Node id="1028"/>/news/261480Ну, судя по всему, компания Siemens решила обосноваться на томской земле всерьёз и надолго. Так, в ближайшее время Siemens и Томский научный центр Сибирского отделения РАН намерены подписать соглашение о сотрудничестве в области электротехники, нанотехнологий, энергосберегающих технологий. А это огромный фронт работ. И наверняка обе стороны много выиграют от такого сотрудничества…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="529" EndNode="745">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="870" EndNode="893">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="190" EndNode="406">
+</Annotation>
+<Annotation Id="4" Type="упоминается_с" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="553" EndNode="745">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="529" EndNode="745">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="190" EndNode="406">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="931" EndNode="950">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="953" EndNode="956">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="упоминает" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="190" EndNode="301">
+</Annotation>
+<Annotation Id="19" Type="цитаты" StartNode="553" EndNode="745">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1005" EndNode="1028">
+</Annotation>
+<Annotation Id="21" Type="цитаты" StartNode="190" EndNode="301">
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="23" Type="упоминается" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="упоминает" StartNode="190" EndNode="745">
+</Annotation>
+<Annotation Id="24" Type="цитаты" StartNode="553" EndNode="745">
+</Annotation>
+<Annotation Id="26" Type="темы" StartNode="553" EndNode="745">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

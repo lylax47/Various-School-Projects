@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Делегация Российской корпорации нанотехнологий (РОСНАНО) во главе с генеральным директором корпорации Анатолием Чубайсом ознакомится с опытом стран-лидеров Юго- Восточной Азии в области нанотехнологий, сообщил РИА Новости по телефону во вторник директор по вопросам международного сотрудничества РОСНАНО Сергей Мостинский<Node id="322"/>.<Node id="323"/>
+
+«<Node id="326"/>С 30 сентября по 8 октября<Node id="352"/> пройдет визит делегации РОСНАНО на Тайвань и в Республику Корея, целью которого станет знакомство с опытом стран-лидеров в области нанотехнологий», – сказал он.
+
+Российскую делегацию интересует, прежде всего, практические вопросы привлечения бизнеса к развитию нанотехнологий, их внедрение в производственные процессы, формирование правовых основ и национальной политики в этой области, рассказал собеседник агентства.
+
+«<Node id="774"/>Еще одной целью визита будет представление корпорации РОСНАНО зарубежным коллегам, поиск новых бизнес-партнеров, которые смогут участвовать в инновационных проектах в России и за рубежом<Node id="960"/>», – добавил Мостинский<Node id="983"/>.
+
+Российская делегация ознакомится с тем, как происходит взаимодействие науки, бизнеса и образования на Тайване и в Южной Корее. «На Тайване активно развиваются технопарки, в Южной Корее организуются особые экономические зоны, где нанотехнологии внедряются в производство коммерческих продуктов», – уточнил он.
+
+Делегация РОСНАНО <Node id="1314"/>с 30 сентября по 5 октября<Node id="1340"/> будет находиться на Тайване, где посетит открытую лабораторию и Центр нанотехнологий в Институте исследований промышленных технологий Тайваня. <Node id="1484"/>Затем<Node id="1489"/> делегация прибудет в Сеул, где посетит Ассоциацию нанотехнологических исследований и Корейский институт науки и технологий. Заключительным мероприятием визита делегации РОСНАНО в Республику Корея станет встреча Анатолия Чубайса с министром образования, науки и технологий Республики Корея.
+Юлия Медведовская</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="326" EndNode="352">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1484" EndNode="1489">
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="322" EndNode="323">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="322" EndNode="323">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="11" Type="упоминает" StartNode="774" EndNode="983">
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1314" EndNode="1340">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="21" Type="упоминается_с" StartNode="774" EndNode="960">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

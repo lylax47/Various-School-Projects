@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>с 6 по 13 апреля 2008 г.<Node id="25"/> – заочный тур Олимпиады для школьников. 
+ 
+Участие в этом туре засчитывается только школьникам, все остальные могут участвовать, но при отборе победителей их результаты приниматься во внимание не будут. 
+ Список заданий </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1" EndNode="25">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

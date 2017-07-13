@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Проблема считывания результата вычислений является одной из основных в <Node id="72"/>квантовом компьютере<Node id="92"/>. Заманчиво использовать обычные микроэлектронные структуры для проведения подобного измерения.
+
+Идея измерять состояние <Node id="213"/>зарядовых <Node id="223"/>кубитов<Node id="230"/>, помещенных рядом с каналом кремниевого полевого транзистора, уже приходила в голову японским исследователям (ПерсТ, вып. 1/2, <Node id="358"/>2000г.<Node id="364"/>). Недавно подобная идея, но уже по отношению к спиновым <Node id="421"/>кубитам<Node id="428"/>, посетила ученых из University of California (Беркли, США) [1]. Они предложили определять спиновое состояние электрона на атоме фосфора, помещенном в канал полевого транзистора, по величине тока. Величина тока определяется спин-зависимым рассеянием электронов проводимости на примесных атомах. Амплитуда этого рассеяния зависит не только от прямого кулоновского взаимодействия, но и обменного взаимодействия, которое определяется спиновым состоянием.
+
+К сожалению, знак обменного взаимодействия определяется полным спином системы из двух электронов. Если электроны имеют противоположную ориентацию спинов вдоль оси z, то полный спин может быть равен как S=1, так и S=0.
+
+Другим препятствием является процесс взаимного переворота спина измеряемого электрона в результате рассеянии на нем пролетающего электрона. Этот процесс аналогичен эффекту <Node id="1272"/>Кондо<Node id="1277"/>. Последствия его таковы: мы еще не успели ничего измерить, а спин уже перевернулся. Чтобы подавить этот нежелательный процесс, авторы предлагают использовать сверхтонкое взаимодействие спина измеряемого электрона со спином ядра атома фосфора ─ тогда переворот спина измеряемого электрона запрещает закон сохранения энергии. Однако энергия сверхтонкого расщепления слишком мала (примерно 10-8 эВ), чтобы исключить переворот. Ее всегда можно взять из кинетической энергии электрона. К сожалению, в работе не представлен расчет самой величины эффекта даже в идеализированных условиях.
+
+Но, как бы то ни было, для повышения чувствительности метода необходимо делать канал транзистора как можно уже. И тогда мы естественным путем приходим к идее измерения состояния спина с помощью тока в <Node id="2062"/>квантовой нити<Node id="2076"/>.
+
+Эту идею уже на протяжении многих <Node id="2113"/>лет<Node id="2116"/> разрабатывают российские ученые <Node id="2149"/>А. Орликовский<Node id="2163"/>, <Node id="2165"/>В. Вьюрков<Node id="2175"/>, <Node id="2177"/>А. Ветров<Node id="2186"/> (ФТИАН) и <Node id="2197"/>Л. Горелик<Node id="2207"/> (Chalmers University, Швеция). В последней работе [2] предложено использовать резонанс Фано для увеличения амплитуды рассеяния. В резонансных условиях коэффициент отражения может приблизиться к единице. А вот для подавления переворота спина в процессе измерения предлагается использовать спин-орбитальное взаимодействие. Энергия спин-орбитального взаимодействия может достигать в полупроводниках нескольких мэВ.
+ 1. M. Sarovar et al., arXiv:0711.2343,15 Nov (2007) 2. L. Gorelik et al. Int. Symp. “Quantum Informatics 2007”, Zvenigorod, Oct. 2007, Book of Abstracts, p. Q4 </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Зарядовый+кубит" StartNode="213" EndNode="230">
+</Annotation>
+<Annotation Id="1" Type="Квантовый+компьютер" StartNode="72" EndNode="92">
+</Annotation>
+<Annotation Id="2" Type="Кубит" StartNode="421" EndNode="428">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="2165" EndNode="2175">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вьюрков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="2149" EndNode="2163">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Орликовский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="358" EndNode="364">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2197" EndNode="2207">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Квантовая+нить" StartNode="2062" EndNode="2076">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Кубит" StartNode="223" EndNode="230">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="1272" EndNode="1277">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Кондо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2177" EndNode="2186">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ветров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2113" EndNode="2116">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

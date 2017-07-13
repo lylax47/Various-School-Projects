@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Центре Нанотехнологий и <Node id="27"/>Молекулярных Материалов<Node id="50"/> Университета Уейк Форест (Wake Forest University, Center for Nanotechnology and Molecular Materials) достигнуты значительные успехи в области возобновляемы источников энергии.
+
+Исследователи Центра объявили о создании пластиковых солнечных элементов с эффективностью <Node id="318"/>более 6%<Node id="326"/>. Такая высокая эффективность была достигнута за счёт внедрения <Node id="390"/>нановолокон<Node id="401"/> в светопоглощающий пластик, аналогично жилам в листьях растений. Такой подход позволяет создавать устройства с более толстым светопоглощающим слоем, улавливающие больше солнечного света.
+
+Эффективные пластиковые солнечные батареи важны для создания недорогих и лёгких элементы питания – особенно в сравнении с традиционными кремниевыми солнечными батареями, которые обладают большим весом и размерами. Благодаря гибкости и простоте в обращении, пластиковые солнечные батареи могут использоваться в качестве покрытий на домах и автомобилях. А поскольку такие элементы намного легче обычных, отпадает необходимость в прочных опорных конструкциях.
+
+Современные кремниевые элементы достигают эффективности преобразования света в электрическую энергию порядка <Node id="1157"/>12%<Node id="1160"/>. Максимальная эффективность пластиковых солнечных элементов не превышала <Node id="1234"/>3%<Node id="1236"/>, пока в <Node id="1245"/>2005 году<Node id="1254"/> директор Центра Дэвид Кэрролл (David Carroll) и его группа не объявили о создании устройств с эффективностью <Node id="1364"/>почти 5%<Node id="1372"/>, а теперь, спустя чуть <Node id="1396"/>более года<Node id="1406"/>, они превзошли отметку <Node id="1430"/>6%<Node id="1432"/>. Таким образом за <Node id="1451"/>два года<Node id="1459"/> им удалось более чем вдвое повысить эффективность элементов. Исследователи ожидают добиться ещё больших успехов <Node id="1572"/>в течение следующих двух лет<Node id="1600"/>, что наконец сделает пластиковые солнечные элементы лидерами среди солнечных батарей. Для коммерческой рентабельности эффективность солнечных элементов должна быть не ниже <Node id="1773"/>8%<Node id="1775"/>; исследователи из Уейк Форест ожидают достигнуть <Node id="1825"/>10%<Node id="1828"/> отметки в <Node id="1839"/>следующем году<Node id="1853"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1773" EndNode="1775">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1157" EndNode="1160">
+</Annotation>
+<Annotation Id="2" Type="Нановолокно" StartNode="390" EndNode="401">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="27" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="1234" EndNode="1236">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1364" EndNode="1372">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1839" EndNode="1853">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1245" EndNode="1254">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1245" EndNode="1254">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1396" EndNode="1406">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1430" EndNode="1432">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="1825" EndNode="1828">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1572" EndNode="1600">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="318" EndNode="326">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1451" EndNode="1459">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Авторы работы использовали метод <Node id="35"/>химического осаждения<Node id="56"/> из газовой фазы для получения сферических частиц аморфного кремния, которые затем подвергали отжигу при температуре 800°<Node id="177"/>С в течение 1 часа<Node id="195"/> при низком атмосферном давлении. Таким образом, получали сферические частицы размером от 0.5 до 5 микрон (рис.1), для которых были измерены коэффициенты пропускания в ближней инфракрасной области (рис.2), другие оптические свойства, а также проведены теоретические расчёты коэффициента пропускания и величины добротности для "фотонной губки" (рис.3), достигавшие в теории 6*105. Впадины на приведенном слева спектре свидетельствуют об оптическом резонансе кремниевых микрополостей (эффект "шепчущей галереи"). Авторы работы показали (рис.4), что при разных длинах волн рассеивание имеет различную природу (для больших длин волн – релеевское рассеивание, для более коротких волн – согласно нелинейной электромагнитной теории <Node id="920"/>Густава Ми<Node id="930"/> (<Node id="932"/>1912 г.<Node id="939"/>), граница находится между 10-25 микронами). 
+ 
+"Фотонные губки" на основе кремниевых поликристаллических частиц рассеивают свет в широком интервале длин волн. Учёные полагают, что "фотонные губки" найдут применение в фотогальванических батареях, <Node id="1186"/>химических <Node id="1197"/>сенсорах<Node id="1205"/>, в световых детекторах и излучателях.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="177" EndNode="195">
+</Annotation>
+<Annotation Id="1" Type="Химическое+осаждение" StartNode="35" EndNode="56">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="932" EndNode="939">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="920" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Густав</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="1197" EndNode="1205">
+</Annotation>
+<Annotation Id="5" Type="Химический+сенсор" StartNode="1186" EndNode="1205">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

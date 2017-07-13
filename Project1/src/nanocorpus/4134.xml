@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Омском государственном университете стартовал конкурс инновационных идейКонкурс на лучшую инновационную идею начался <Node id="119"/>10 октября 2008 года<Node id="139"/> в Омском государственном университете им. Ф. М. Достоевского (ОмГУ)
+В конкурсе могут принимать участие студенты, аспиранты и молодые учёные университета, представившие привлекательные для инвестиций и технологически перспективные проекты, содержащие «техническую новизну и изобретательскую составляющую».
+Проекты должны относиться к одной из восьми номинаций: информационные технологии и телекоммуникации, нанотехнологии и новые материалы, электроника, медицина и биотехнологии, приборостроение, энергетика и энергоносители, экология и ресурсосбережение, инновации в социальной сфере. Первый этап конкурса продлится до <Node id="759"/>10 ноября<Node id="768"/>, когда будут отобраны заявки по критериям реальности исполнения, актуальности и новизны представленных идей и «наличия элементов научной обоснованности». Защита проектов, победивших в первом этапе, состоится <Node id="977"/>30 ноября<Node id="986"/> на заседании конкурсной комиссии научно-технического совета ОмГУ. Победители конкурса получат финансовую поддержку от 20 до <Node id="1111"/>40 тысяч рублей<Node id="1126"/>.Филипп <Node id="1134"/>Ермиловhttp://www.strf.ru<Node id="1159"/>/innovation.aspx?…Ну, вот ещё один способ приобщения молодых сил к научной работе, прививки вкуса к проведению исследований. Молодцы омичи! Вот пример, достойный подражания также и в других вузах нашей страны…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="119" EndNode="139">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="977" EndNode="986">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1134" EndNode="1159">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1111" EndNode="1126">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="759" EndNode="768">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

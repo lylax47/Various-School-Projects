@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Среди многих будущих применений <Node id="32"/>графенов<Node id="40"/> заметное место будут занимать датчики газов, способные обнаруживать даже отдельные молекулы.
+
+<Node id="135"/>Графены<Node id="142"/>, представляющие собой слой атомов углерода и образующие своеобразный двумерный кристалл, были открыты <Node id="245"/>три года назад<Node id="259"/> в лаборатории Манчестерского университета.
+
+Уникальные оптические, электрические и механические свойства <Node id="365"/>графенов<Node id="373"/> можно использовать в самых разных приложениях, в том числе в микро- и наноэлектронике, создании дисплеев, различных композиционных материалов.
+
+Новое направление практических применений <Node id="560"/>графена<Node id="567"/> предложили изобретатели <Node id="592"/>графена<Node id="599"/> д-р Константин Новоселов и проф. Андре Гейм. В своей статье, опубликованной в Nature Materials, они представили результаты экспериментов по взаимодействию <Node id="755"/>графенов<Node id="763"/> с газообразными веществами.
+Andre Geim
+Раньше считалось, что <Node id="825"/>графены<Node id="832"/> с газами не реагируют из-за своей чрезвычайно высокой инертности. Оказалось, что, хотя химические связи и не образуются и структура <Node id="965"/>графена<Node id="972"/> не нарушается, газы детектировать можно – при взаимодействии их с <Node id="1039"/>графеном<Node id="1047"/> происходит перемещение электронов, которое можно зарегистрировать по электропроводности <Node id="1136"/>графена<Node id="1143"/>.
+Д-р <Node id="1149"/>Новоселов считает, что с помощью <Node id="1182"/>графенов<Node id="1190"/> можно регистрировать отдельные молекулы, т.е<Node id="1235"/>. достичь предельной чувствительности датчиков газа. Нынешние приборы имеют чувствительность в миллионы раз хуже.
+
+Для разработки <Node id="1365"/>сенсоров<Node id="1373"/> уже создана база, многие лаборатории научились получать <Node id="1430"/>графены<Node id="1437"/>. Среди возможных объектов детектирования можно назвать в первую очередь различные токсические газы, а также просто окись углерода, уровень которой надо контролировать и выхлопах автомобилей, и в жилых помещениях.
+
+Однако, считают разработчики, необходимо сначала создать правильные методики, которые позволяют отделить нужные соединения от, скажем паров воды, всегда присутствующих в воздухе. Эта проблема, общая для всех методов анализа газов, может быть решена путем введения различных методов фильтрации или с использованием разницы в температурной зависимости взаимодействия с <Node id="2019"/>графеном<Node id="2027"/> различных веществ, сообщает PhysOrg.
+<Node id="2065"/>http://rnd.cnews.ru/…cience.shtml?…Прекрасная<Node id="2110"/> вещь! Если удастся реализовать такого рода устройства, то это революционизирует огромный пласт контрольно-измерительной аппаратуры. И тем самым позволит значительно ускорить научно-технический прогресс во многих отраслях…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="1430" EndNode="1437">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="1365" EndNode="1373">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1149" EndNode="1235">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="1136" EndNode="1143">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2065" EndNode="2110">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="365" EndNode="373">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="2019" EndNode="2027">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="1182" EndNode="1190">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="755" EndNode="763">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="245" EndNode="259">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Графен" StartNode="965" EndNode="972">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Графен" StartNode="560" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="1039" EndNode="1047">
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="825" EndNode="832">
+</Annotation>
+<Annotation Id="21" Type="Графен" StartNode="135" EndNode="142">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Графен" StartNode="32" EndNode="40">
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="1149" EndNode="1235">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Графен" StartNode="592" EndNode="599">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

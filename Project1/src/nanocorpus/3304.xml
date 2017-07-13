@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Компания Intel объявила о планах по инвестированию  <Node id="53"/>1 - 1,5 млрд. долларов<Node id="75"/> в модернизацию завода по производства процессоров в штате Нью Мексико (США). В компании говорят, что намерены сделать в будущих процессорах ставку на новые технологии производства для того, чтобы успешнее конкурировать с AMD. Ожидается, что завод в городе Рио Ранчо (Нью Мексико, США) станет четвертым в активе Intel заводом по производству процессоров на основе 45-нм технологического процесса. Напомним, что на сегодня большинство процессоров Intel и все процессоры AMD используют 65-нм технологию, Intel намерена выпустить на массовый рынок 45-нм процессоры для рабочих станция и серверов во <Node id="671"/>второй половине 2007 года<Node id="696"/>. В свою очередь AMD намерена перейти на 45-нм процесс в <Node id="753"/>середине 2008 года<Node id="771"/>. Завод Intel в Рио Ранчо является одной из трех крупнейших производственных мощностей компании, расположенных на территории США. Вместе с тем, третий завод (Fab 11X) будет достроен лишь в <Node id="960"/>первой половине 2008 года<Node id="985"/>. Первый же завод компании в городе Хиллсборо (штат Орегон, США) начнет производство 45-нм процессоров <Node id="1088"/>в конце 2007 года<Node id="1105"/>, в строительство этой мощности компания вложила <Node id="1154"/>3 млрд. долларов<Node id="1170"/>. Также компания имеет завод в Израиле в городе Кирьят-Ат, данный завод должен заработать <Node id="1260"/>в конце 2007 года<Node id="1277"/>, а в его строительство было вложено <Node id="1314"/>4,5 млрд. долларов<Node id="1332"/>. Кроме того, в последнее время появились данные о строительстве еще одного завода в Китае. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1260" EndNode="1277">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="53" EndNode="75">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1088" EndNode="1105">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1154" EndNode="1170">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="753" EndNode="771">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="671" EndNode="696">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="960" EndNode="985">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1314" EndNode="1332">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

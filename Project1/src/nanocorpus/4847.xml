@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Нанотехнологии на блогахЧто такое <Node id="34"/>«пульс»?http://blogs.yandex.ru/pulse/Для<Node id="74"/> чего нужен Пульс блогосферы?
+С помощью Пульса блогосферы вы сможете увидеть, как менялось отношение общественного мнения в интернете к тем или иным событиям во времени и сравнить их между собой. Держите руку на пульсе!
+Как устроен Пульс?
+Пульс позволяет строить графики упоминаемости слов или словосочетаний за разные периоды. Вы можете посмотреть, как менялся интерес публики к тем или иным темам с момента появления русскоязычной блогосферы.
+Как много тем я могу сравнить?
+Вы можете ввести до шести тем для сравнения. Для того, чтобы ввести ещё одну тему, нажмите на кнопку с плюсом около любой из уже введённых.
+За какой период времени можно посмотреть пульс?
+Вы можете посмотреть графики за <Node id="770"/>два месяца<Node id="780"/>, полгода, <Node id="791"/>год<Node id="794"/> (2007), два (2006 + 2007) или за всё время существования русскоязычной блогосферы.
+Какие именно упоминания учитываются?
+Учитываются все упоминания в блогах, индексируемых Поиском по блогам Яндекса…
+<Node id="993"/>http://blogs.yandex.ru/faq.xml?…<Node id="1025"/>
+ Пульс блогосферы за <Node id="1047"/>год<Node id="1050"/> по запросам Нанотехнологии
+ Пульс блогосферы за <Node id="1099"/>2 года<Node id="1105"/> по запросам НанотехнологииЗабавную игрушку придумали на «Яндексе». Я вставил слово «Нанотехнологии» и дал «задание» на поиск за <Node id="1234"/>1 год<Node id="1239"/> и <Node id="1242"/>2 года<Node id="1248"/> (со сроком поиска можно поэкспериментировать). И вот что получилось. <Node id="1318"/>Потом<Node id="1323"/> надо бы проанализировать, на какие моменты приходятся заметные пики. Я думаю, это может дать информацию/пищу для размышлений…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="770" EndNode="780">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="34" EndNode="74">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1242" EndNode="1248">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="993" EndNode="1025">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1318" EndNode="1323">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="791" EndNode="794">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1047" EndNode="1050">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1099" EndNode="1105">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1234" EndNode="1239">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

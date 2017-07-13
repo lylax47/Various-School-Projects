@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+Материаловедение не перестает радовать нас постоянными успехами в создании новых и улучшении старых материалов. Например, очень многообещающей стала новость о создании «электронной кожи». Также стоит обратить внимание на опасность <Node id="454"/>наноматериалов<Node id="468"/> и необходимости выработать критерии оценки их токсичности для окружающей среды. Об этом и ряде событий, произошедших за прошлую нанотехнологическую <Node id="617"/>неделю<Node id="623"/>, подробнее читайте в выпуске!
+Итак, – nanoWeek 28 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="454" EndNode="468">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="617" EndNode="623">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

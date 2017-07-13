@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Рашид Башир, работающий над проблемой доставки лекарств в Центре Нанотехнологий в Барке при институте (Nanotechnology Center), смог поместить <Node id="143"/>наночастицы<Node id="154"/> на поверхность бактерии, связав их с отрезками ДНК. 
+ 
+Размеры <Node id="218"/>наночастиц<Node id="228"/> – от 40 до 200 нанометров, их ученые прикрепили на поверхность бактерии специальными молекулами-линкерами. На одной бактерии можно разместить до нескольких сотен <Node id="391"/>наночастиц<Node id="401"/>, расширив таким образом количество и «типы» грузов, которые нужно доставить. Так, например, можно совместить диагностический груз с лечебным, и в процессе терапии врач сможет детально наблюдать за регионом, в котором проходит лечение. 
+ 
+Когда бактерии-носители добавили в культуру живых клеток, отрезки ДНК попали в их ядра, что вызвало производство флуоресцентного белка, светящегося зеленым цветом. Этот эффект был заранее подобран учеными в виде соответствующих цепей ДНК, которые и были полезным грузом для бактерий. 
+ 
+<Node id="927"/>Как говорит <Node id="939"/>Башир<Node id="944"/>, подобным образом можно доставлять внутрь клеток лекарства, или же диагностические агенты<Node id="1034"/>. 
+ 
+Так как бактерии обладают естественной способностью проникать в живые клетки, то <Node id="1120"/>на сегодняшний день<Node id="1139"/> они являются идеальными кандидатами для доставки лекарств. Особенно это ценно в генной терапии, где необходимо доставить фрагменты ДНК по назначению, не убив при этом здоровую клетку. После того, как гены попадают в клеточное ядро, оно начинает вырабатывать специфические белки, корректируя, таким образом, генетическое заболевание. 
+ 
+Доставка груза по назначению происходит в тот момент, когда бактерия попадает внутрь клетки в специальной капсуле-везикуле, образованной мембраной клетки. Через время бактерия растворяет мембранную стенку везикулы, и <Node id="1693"/>наночастицы<Node id="1704"/> с ДНК или лекарством попадают внутрь клетки. 
+ 
+ Работоспособность метода <Node id="1779"/>Башир<Node id="1784"/> и <Node id="1787"/>его<Node id="1790"/> коллеги продемонстрировали на экспериментах in vivo, поместив бактерии в культуру человеческих раковых клеток. Через время клетки начали вырабатывать тот самый флуоресцентный белок, благодаря которому больные клетки можно было видеть под микроскопом. 
+ 
+<Node id="2045"/>Как говорит <Node id="2057"/>Башир<Node id="2062"/>, бактерии можно научить доставлять ценный груз в различные типы клеток<Node id="2133"/>. 
+ 
+Следующий шаг <Node id="2152"/>Башира<Node id="2158"/> и <Node id="2161"/>его<Node id="2164"/> коллег – создание сложных <Node id="2191"/>наноструктур<Node id="2203"/> на основе бактерий. Например, <Node id="2234"/>наносенсоров<Node id="2246"/> и других биологических детекторов. Кроме этого ученые надеются с помощью пустотелых <Node id="2331"/>углеродных <Node id="2342"/>нанотрубок<Node id="2352"/> разрушать раковые клетки. Правда, работы в этом направлении <Node id="2413"/>Башир<Node id="2418"/> и <Node id="2421"/>его<Node id="2424"/> коллеги еще не проводили. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="143" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2421" EndNode="2424">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="218" EndNode="228">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="939" EndNode="944">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="2045" EndNode="2133">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="2152" EndNode="2158">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2057" EndNode="2062">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="927" EndNode="1034">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="2191" EndNode="2203">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="2342" EndNode="2352">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="2331" EndNode="2352">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2413" EndNode="2418">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="391" EndNode="401">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1120" EndNode="1139">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Сенсор" StartNode="2234" EndNode="2246">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="927" EndNode="1034">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="2161" EndNode="2164">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="1693" EndNode="1704">
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="автор" StartNode="2045" EndNode="2133">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="1787" EndNode="1790">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="1779" EndNode="1784">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

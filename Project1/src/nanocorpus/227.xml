@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из Швеции изготовили <Node id="36"/>биосенсор<Node id="45"/> c использованием <Node id="63"/>наностержней<Node id="75"/> ZnO. Такой <Node id="87"/>сенсор<Node id="93"/> позволяет точно измерять pH непосредственно внутри живой клетки и изучать in vivo протекающие там биологические процессы. Предложенный <Node id="229"/>сенсор<Node id="235"/> отличается высокой чувствительностью и позволяет проводить измерения в реальном времени. 
+ 
+Метод измерения pH внутри клетки основан на использовании двух электродов – рабочего электрода из ZnO и электрода сравнения из Ag/AgCl. Рабочий электрод представлял собой массив <Node id="506"/>наностержней<Node id="518"/> оксида цинка с гексагональным сечением, выращенных на кончике стеклянного капилляра. Диаметр стержней составлял 80-100 нм, а длина 700-900 нм. 
+ 
+Разность потенциалов между электродами линейно зависит от pH в интервале 4-11. <Node id="744"/>Сенсор<Node id="750"/> проявил хорошую обратимость свойств при изменении pH. Устройство было опробовано на жировых клетках человека (адипоцитах). Измеренные значения pH оказались очень близки к известным из литературы данным, которые были получены непрямыми методами. 
+ 
+Ученые отмечают, что при уменьшении размеров капилляра и <Node id="1056"/>наностержней<Node id="1068"/> ожидается рост чувствительности метода, а также жизнеспособности клеток после протыкания клеточной мембраны. Таким образом, при введении электрода можно добиться минимального влияния на протекание внутриклеточных процессов. Пока разработка находится лишь на начальной стадии, однако метод уже доказал свою работоспособность. 
+ 
+Работа «ZnO nanorods as an intracellular sensor for pH measurements» была опубликована в Journal of Applied Physics. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наностержень" StartNode="506" EndNode="518">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="87" EndNode="93">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="744" EndNode="750">
+</Annotation>
+<Annotation Id="3" Type="Биосенсор" StartNode="36" EndNode="45">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="63" EndNode="75">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="229" EndNode="235">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="1056" EndNode="1068">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

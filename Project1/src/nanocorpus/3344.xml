@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Милиция проводит проверку по факту получения краснодарским ученым письма с белым порошком, предположительно, диоксидом кремния, сообщил РИА Новости в среду начальник пресс-службы УВД города Илья Шакалов.
+
+В НИИ им. Склифосовского <Node id="231"/>17 мая<Node id="237"/> скоропостижно скончалась замдиректора Института кристаллографии Светлана Желудева<Node id="319"/>,<Node id="320"/> которая вскрыла конверт с подобным порошком, поступивший в институт по почте <Node id="398"/>8 мая<Node id="403"/>.
+
+Накануне газета «Известия» сообщила, что конверт прислал доктор наук и профессор Сергей Бардаханов из Института теоретической и прикладной механики в Новосибирске. <Node id="570"/>По словам директора ИТПМ Василия Фомина, находившийся в конверте порошок не представляет опасности для здоровья людей – это двуокись кремния, которая производится для красок, керамики и автомобильных шин<Node id="773"/>.
+
+Главный государственный санитарный врач России <Node id="823"/>Генндий Онищенко<Node id="839"/> <Node id="840"/>16 мая<Node id="846"/> сообщил РИА Новости, что результаты анализов не подтвердили версию о том, что именно порошок из конверта стал причиной резкого ухудшения здоровья Желудевой.
+
+<Node id="1005"/>Письмо из Новосибирска, от института теоретической и прикладной механики СО РАН имени Христиановича от профессора Бардаханова пришло <Node id="1138"/>16 мая<Node id="1144"/> в Кубанский государственный университет на имя проректора по научной работе и инновациям"<Node id="1234"/>, – сказал Шакалов<Node id="1252"/>.
+
+По его словам, в письме находился белый порошок неизвестного состава.
+
+«Предположительно, белый порошок представляет собой диоксид кремния», – сказал представитель УВД.
+
+Следственно-оперативная группа УВД осмотрела письмо и сняла отпечатки пальцев.
+
+«<Node id="1506"/>Порошок отправлен на экспертизу, которая установит его точный состав. По данному факту проводится проверка», – сказал Шакалов<Node id="1631"/>.
+Как и в случае со Светланой Желудевой, скорее всего, что наноструктурированный порошок Сергея Бардаханова не представляет угрозы для здоровья. Не повезло новосибирскому ученому – на фоне произошедших событий подозрительность к его порошковой нано-корреспонденции начинает возрастать – прим. Свидиненко Юрия</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="цитаты" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="4" Type="упоминается_с" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="5" Type="цитаты" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1005" EndNode="1252">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="319" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">замдиректора</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="823" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Онищенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="1506" EndNode="1631">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="1506" EndNode="1631">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="570" EndNode="773">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="231" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="1005" EndNode="1252">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Дата" StartNode="840" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="26" Type="высказывания_заявления" StartNode="570" EndNode="773">
+</Annotation>
+<Annotation Id="29" Type="Дата" StartNode="1138" EndNode="1144">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Дата" StartNode="398" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="сотрудники" StartNode="319" EndNode="320">
+</Annotation>
+<Annotation Id="30" Type="упоминается_с" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="34" Type="темы" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="35" Type="упоминает" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="32" Type="упоминается" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="33" Type="упоминает" StartNode="570" EndNode="1631">
+</Annotation>
+<Annotation Id="38" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="темы" StartNode="1005" EndNode="1234">
+</Annotation>
+<Annotation Id="37" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Мичиганского университета подготовили к <Node id="51"/>победе Барака Обамы на выборах президента США<Node id="96"/> его портреты, выполненные из <Node id="126"/>углеродных <Node id="137"/>нанотрубок<Node id="147"/>. Об этом сообщается на официальном сайте этого проекта <Node id="203"/>nanobama.com<Node id="215"/> . Каждое лицо состоит из миллионов вертикально выровненных <Node id="275"/>углеродных <Node id="286"/>нанотрубок<Node id="296"/>, выращенных методом высокотемпературной химической реакции.
+
+Каждый портрет состоит из более чем 150 миллионов <Node id="408"/>нанотрубок<Node id="418"/>, цифра, характеризующая число американских избирателей, голосовавших <Node id="488"/>4 ноября<Node id="496"/>.
+
+Изображения были созданы с использованием метода оптической <Node id="559"/>литографии<Node id="569"/>. На первом этапе этого метода «предварительная» картинка формируется на светочувствительной слое излучением, проходящим через фотомаску. <Node id="707"/>Затем<Node id="712"/> поверхность обрабатывается специальными химикатами для закрепления изображения. Поэтапный процесс изготовления портрета новоявленного президента США представлен на сайте проекта <Node id="891"/>nanobama.com<Node id="903"/>
+Целью проекта <Node id="918"/>nanobama.com<Node id="930"/> является привлечение внимания <Node id="961"/>правительства<Node id="974"/> к перспективным научным разработкам. Создатели выбрали для своего проекта девиз «Голосуй за науку» (Vote for Science).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="126" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="891" EndNode="903">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="918" EndNode="930">
+</Annotation>
+<Annotation Id="4" Type="Литография" StartNode="559" EndNode="569">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="137" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="286" EndNode="296">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="707" EndNode="712">
+</Annotation>
+<Annotation Id="10" Type="участники_фигуранты" StartNode="51" EndNode="96">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="488" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="408" EndNode="418">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="203" EndNode="215">
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="961" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="деятельность_в_контексте_выборов" StartNode="51" EndNode="96">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="275" EndNode="296">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

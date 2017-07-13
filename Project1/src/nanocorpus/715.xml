@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Третий по размеру производитель автомобилей в Японии Nissan Motor Co. заявил <Node id="77"/>в пятницу 27 июля<Node id="94"/>, что разработал катализатор для бензиновых двигателей, который позволяет наполовину уменьшить использование компонентов из драгоценных металлов для очистки выхлопных газов.
+Данное изобретение обещает значительную экономию средств в условиях высоких цен на сырье драгметаллов.
+
+Компания применила нанотехнологию для предотвращения кластеризации мелких частиц металла в катализаторах при высокой температуре. Это дает возможность сократить количество металла, необходимого для очистки выхлопных газов. В автомобильных катализаторах используется смесь платины, родия и палладия, вызывающая химическую реакцию, в ходе которой оксид азота, моноксид углерода и углеводороды образуют нетоксичные соединения.
+
+Согласно заявлению Nissan, технология, которой она владеет <Node id="856"/>совместно<Node id="865"/> со своим французским партнером Renault SA, будет впервые представлена в новом автомобиле, чье появление в продаже запланировано на <Node id="997"/>вторую половину финансового года<Node id="1029"/>, заканчивающегося в <Node id="1050"/>марте 2009 года<Node id="1065"/>.
+
+Новый метод будет распространен также и на другие модели.
+
+Производители автомобилей в <Node id="1155"/>настоящее время<Node id="1170"/> испытывают давление в связи с ростом цен на сырье, что отразилось в больших, чем ожидалось, показателях их расходов на сырьевые материалы за истекший <Node id="1321"/>квартал<Node id="1328"/>. По данным журнала Platinum Today, средние цены на платину в период <Node id="1397"/>с апреля по июнь<Node id="1413"/> выросли на <Node id="1425"/>9%<Node id="1427"/> в сравнении <Node id="1440"/>с прошлым годом<Node id="1455"/>, цены на родий подскочили на <Node id="1485"/>24%<Node id="1488"/>, а на палладиум – на <Node id="1510"/>6%<Node id="1512"/>.
+<Node id="1514"/>http://www.k2kapital.com<Node id="1538"/>/…/243376.htmlДа, интересное, а, главное, нужное и полезное изобретение, которое послужит не только охране окружающей среды, но и экономии (всегда) дефицитных ресурсов.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1425" EndNode="1427">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="997" EndNode="1029">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1155" EndNode="1170">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1397" EndNode="1413">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="1510" EndNode="1512">
+</Annotation>
+<Annotation Id="5" Type="Партнеры_Клиенты" StartNode="856" EndNode="865">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="77" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1321" EndNode="1328">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1514" EndNode="1538">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1440" EndNode="1455">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1485" EndNode="1488">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1050" EndNode="1065">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

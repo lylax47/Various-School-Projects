@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Семинар-презентация результатов нацпроекта «Образование» по вопросу системы подготовки кадров по нанотехнологиям и <Node id="115"/>наноматериалам<Node id="129"/> прошел в ННГУВсероссийский семинар-презентация результатов нацпроекта «Образование» по направлению «Создание основы распределенной системы подготовки кадров по нанотехнологиям и <Node id="308"/>наноматериалам<Node id="322"/>» прошел в Нижегородском госуниверситете имени Лобачевского <Node id="382"/>26 июня<Node id="389"/>.
+Роман Григорьевич Стронгин, председатель Советa ректоров Нижегородской областиСеминар стал первым в серии тематических мероприятий, направленных на распространение лучших результатов вузовских проектов.
+ Программа семинара включала презентации на тему подготовки кадров по нанотехнологиям и <Node id="682"/>наноматериалам<Node id="696"/> на физическом факультете ННГУ и технологиях получения и методах исследования <Node id="774"/>наноматериалов<Node id="788"/> в учебно-научном центре «Физика». 
+Кроме того, в рамках семинара состоялась экскурсия по лабораториям физического факультета, научно-исследовательского физико-технического института ННГУ и научно-образовательного центра «Физика твердотельных <Node id="1031"/>наноструктур<Node id="1043"/>» с целью ознакомления с новым технологическим и исследовательским оборудованием, используемым для получения и изучения <Node id="1163"/>наноматериалов<Node id="1177"/>.
+ Участниками семинара стали около 200 представителей вузов – победителей конкурса, проводимого в рамках нацпроекта «Образование». Организатор семинара – Федеральное агентством по образованию РФ. 
+Как ранее заявлял ректор Нижегородского госуниверситета имени <Node id="1437"/>Лобачевского<Node id="1449"/> Роман Стронгин, вопрос кадров становится центральным в инновационной политике.
+ По его словам, если Россия не перейдет на новые технологии, никакого существенного сдвига в социально-экономическом положении в стране не произойдет. Однако он отметил, что для разработки и внедрения новых технологий необходимо подготовить соответствующие кадры. Для этого, по его словам, необходимо переоснащение высших учебных заведений.
+ Стронгин также заявил о необходимости сотрудничества вузов с предприятиями, которые, по <Node id="1959"/>его<Node id="1962"/> словам, должны ставить перед высшими учебными заведениями задачи по подготовке тех или иных специалистов.
+<Node id="2069"/>http://www.niann.ru<Node id="2088"/>/?…Да, всё правильно говорит <Node id="2117"/>Роман Григорьевич<Node id="2134"/>! Действительно, если Россия не перейдет на новые технологии, никакого существенного сдвига в социально-экономическом положении в стране не произойдет. А для разработки и внедрения новых технологий необходима подготовка соответствующих кадров. Ну, а для этого необходимо переоснащение высших учебных заведений. Всё логично! Необходимо и сотрудничеств вузов с предприятиями, которые должны не только ставить перед высшими учебными заведениями задачи по подготовке тех или иных специалистов, но и помогать в их переоснащении… Вот так всё, цепляясь одно за другое, оно и будет развиваться… А иначе – никак!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Тональность" StartNode="2117" EndNode="2134">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="682" EndNode="696">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="774" EndNode="788">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1437" EndNode="1449">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лобачевский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="1031" EndNode="1043">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="382" EndNode="389">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1959" EndNode="1962">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="2069" EndNode="2088">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="1163" EndNode="1177">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="115" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="308" EndNode="322">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

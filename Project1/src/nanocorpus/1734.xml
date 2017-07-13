@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>РФ и США обсудили сотрудничество в области нанотехнологийВАШИНГТОН, <Node id="68"/>19 июля<Node id="75"/> – Россия и США наметили пути сотрудничества в области нанотехнологий. Об этом сообщил генеральный директор «Роснанотеха» Леонид Меламед<Node id="211"/>.<Node id="212"/> В пятницу он провел презентацию этой госкорпорации в посольстве РФ в Вашингтоне.
+Меламед назвал «очень хорошими» дискуссии, которые у него уже состоялись в столице США с представителями американских нанотехнологических структур.
+
+По его словам,
+ 
+«Соединенные Штаты проявляют большую заинтересованность в сотрудничестве, даже несмотря на то, что они являются мировыми лидерами в данной отрасли, а мы только начинаем ее развивать».
+ Глава «Роснанотеха» отметил, что в ходе состоявшихся переговоров стороны «обсудили конкретные практические шаги и наметили ряд направлений для партнерства». В первую очередь, по его словам, это касается «всего, что связано с обеспечением стандартизации и безопасности, а также совместных программ по продвижению нанотехнологий и работе с представителями бизнеса».
+ Меламед отметил, что ряд американских компаний уже подали в Роснанотех заявки на проведение разработок в сфере нанотехнологий.  
+По его словам, «пока таких заявок единицы, но мы начали прием только в <Node id="1210"/>апреле<Node id="1216"/> и рассчитываем, что их число заметно возрастет».
+ <Node id="1267"/>http://www.itar-tass.com/level2.html?…http://www.vz.ru/…/188239.htmlСудя<Node id="1339"/> по всему, впрочем, как и следовало ожидать, это был довольно «бледный» визит… Ну, чем может заинтересовать дошкольник уже довольно зрелого мужчину?.. Естественным, конечно, был вежливый интерес. Естественным было налаживание сотрудничества в области «всего, что связано с обеспечением стандартизации и безопасности, а также совместных программ по продвижению нанотехнологий и работе с представителями бизнеса». Причём вторая часть этого утверждения мутна и маловразумительна… Куда их «продвигать», а, главное, зачем? И что за наука такая, эта «работа с представителями бизнеса»? – Ведь для американцев главное: Сколько чего продали и сколько удалось на этом заработать? Всё! – А по первой части много совместных работ и программы сотрудничества наверняка уже осуществляются между соответствующими ведомствами обеих стран. Словом, как в том анекдоте: Сидит <Node id="2196"/>Маня<Node id="2200"/> на завалинке, лузгает семечки, а сама думает: «Зачем <Node id="2254"/>Ваня<Node id="2258"/> приходил? Может, сказать что хотел?»… Ну, подождём, может быть, последуют новые подробности…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2254" EndNode="2258">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ваня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="211" EndNode="212">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1210" EndNode="1216">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1267" EndNode="1339">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="68" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="211" EndNode="212">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2196" EndNode="2200">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Маня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

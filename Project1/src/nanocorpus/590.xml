@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Команда исследователей из Технологического Института Джорджии (Georgia Institute of Technology) разработала новую технологию производства полимерных пленок с включением <Node id="170"/>наночастиц<Node id="180"/>.
+
+Как сообщает EurekAlert, эти нано-пленки будут крайне важны для создания конденсаторов высокой емкости.
+
+И это станет возможным благодаря <Node id="321"/>наночастицам<Node id="333"/> титаната бария (BaTiO3), которые могут хранить вдвое больше электричества, чем в современных сверх емких конденсаторах. Особенно это открытие пригодится в разработке мощных батарей для мобильных телефонов.
+
+Профессор Йозеф Пери (Joseph W. Perry) говорит, что полученный им <Node id="607"/>нанокомпозит<Node id="619"/> характеризуется высокой диэлектрической постоянной и высоким барьером электрического пробоя, и поэтому этот материал как нельзя лучше подходит для конденсаторов высокой емкости.
+
+Новый <Node id="805"/>наноматериал<Node id="817"/> был протестирован на частотах до одного гигагерца. <Node id="869"/>Как говорит <Node id="881"/>Перри<Node id="886"/>, по результатам исследования видно, что <Node id="927"/>нанокомпозит<Node id="939"/> будет работать при частотах, превышающих это значение<Node id="993"/>.
+
+Так как композит представляет интерес для производителей электронных устройств, то уже идет речь о его коммерциализации. Однако перед этим пройдет еще несколько тестовых экспериментов, в которых <Node id="1191"/>Перри<Node id="1196"/> и <Node id="1199"/>его<Node id="1202"/> коллеги попытаются еще улучшить емкостные параметры будущего суперконденсатора.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="869" EndNode="993">
+</Annotation>
+<Annotation Id="1" Type="Нанокомпозит" StartNode="607" EndNode="619">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="805" EndNode="817">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="881" EndNode="886">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Перри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1191" EndNode="1196">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Перри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="869" EndNode="993">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="170" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанокомпозит" StartNode="927" EndNode="939">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="321" EndNode="333">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="1199" EndNode="1202">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

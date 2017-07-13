@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+(решение задач блока КОНСТРУКЦИОННЫЕ МАТЕРИАЛЫ, как и других блоков, позволит отобрать ТРЕХ человек на очный тур, набравших при решении задач ЭТОГО блока наибольшее количество баллов. Дополнительно по результатам очного тура эти претенденты будут бороться за специальную номинацию «Конструкционные и строительные <Node id="315"/>наноматериалы<Node id="328"/>». На очный тур будет отобрано также еще 5 человек, набравших наибольшее абсолютное количество баллов, поэтому после решения задач по своей специальности есть полный смысл решать задачи из других блоков.)
+   Как и всему, ученью есть свой срок.   Вы перешли через его порог.   У вас есть опыт, так что вам пора,   По-моему, самим в профессора.   И.В. Гете, «Фауст»   
+<Node id="695"/>Фуллерен<Node id="703"/> – один из самых известных символов нанотехнологий, имеющий к тому же большие перспективы практических применений в микроэлектронике и медицине.
+ 1. Каким образом можно "собрать" из кремнекислородных групп [SiO3(OH)]-3 аналог "кремнекислородного" <Node id="950"/>фуллерена<Node id="959"/>? (2 балла) 2. Предположите, какой будет фазовый состав порошка кальцита после диспергирования в планетарной шаровой мельницев течение <Node id="1094"/>1 часа<Node id="1100"/>? (2 балла) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="695" EndNode="703">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1094" EndNode="1100">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="950" EndNode="959">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="315" EndNode="328">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Одной из важных задач нанотехнологии является разработка <Node id="58"/>наноструктур<Node id="70"/>, управление строением и свойствами которых может осуществляться дистанционно. В работе «Peptide-Assembled Optically Responsive Nanoparticle Complexes» (Nano Letters) описываются структуры, сформированные золотыми нанооболочками (NS, nanoshells) и полупроводниковыми <Node id="337"/>квантовыми точками<Node id="355"/> (QD, quantum dots).  Нанооболочки и <Node id="392"/>квантовые точки<Node id="407"/> скрепляются посредством скрученных пептидных молекул (coiled-coil peptides) в комплексы NS-NS и NS-QD. 
+ 
+ Под действием ближнего ИК-излучения NS-NS структуры разрушаются, что очень похоже на плавление. Причем, это явление обратимо – через некоторое время после облучения структуры собираются снова. В случае NS-QD комплексов разрушение не наблюдается, а происходит изменение мощности <Node id="793"/>флуоресценции<Node id="806"/> <Node id="807"/>квантовых точек<Node id="822"/>. 
+ 
+ Всё объясняется тем, что для подобных нанооболочек характерен сильный фототермический эффект – при облучении их светом определенной частоты они разогреваются. Это приводит к распутыванию пептидных молекул и разрушению структуры NS-NS. А у NS-ND комплексов происходит перестройка конфигурации, что отражается  на оптических свойствах. 
+ 
+ Системы <Node id="1174"/>наночастиц<Node id="1184"/>, свойства которых контролируются светом, могут оказаться полезными при  конструировании устройств, находящихся в труднодоступных местах, например, в теле человека. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Флуоресценция" StartNode="793" EndNode="806">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1174" EndNode="1184">
+</Annotation>
+<Annotation Id="2" Type="Квантовая+точка" StartNode="392" EndNode="407">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="807" EndNode="822">
+</Annotation>
+<Annotation Id="4" Type="Квантовая+точка" StartNode="337" EndNode="355">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="58" EndNode="70">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

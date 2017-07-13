@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Метрология — 2009<Node id="17"/>Федеральное агентство по техническому регулированию и метрологии<Node id="81"/> приглашает Вас принять участие в 5-ой юбилейной Международной специализированной выставке-конкурсе средств измерений, испытательного и лабораторного оборудования «Метрология-2009», которая пройдет <Node id="279"/>с 19 по 21 мая 2009 года<Node id="303"/> в Москве, на ВВЦ и посвящена Международному <Node id="348"/>Дню<Node id="351"/> метрологии.
+
+В рамках выставки планируется провести впервые за <Node id="415"/>последние 20 лет<Node id="431"/> Всероссийский симпозиум метрологов с международным участием, который рассмотрит наиболее актуальные проблемы в области метрологии, стандартизации и сертификации.
+Мероприятия проводятся при содействии Департамента оборонной промышленности и высоких технологий Правительства Российской Федерации, Минпромторговли России, Роснауки, Роскосмоса, с участием Государственных корпораций «Роснанотех», «Ростехнологии» и «Росатом».
+ ГК «Роснанотех» представит коллективную экспозицию новейших разработок по метрологии, стандартизации и сертификации в области нанотехнологий, а также проведут специализированную научную секцию в рамках симпозиума метрологов. 
+Предприятия и организации, своевременно заявившие приборы и оборудование на Всероссийскую конкурсную программу «За единство измерений», которая проходит на базе экспертных комиссий ФГУ «Ростест-Москва» и 32 ГНИИИ Минобороны России, могут быть номинированы на Золотую медаль выставки «Метрология-2009» и Сертификат «Знак Качества» по одной из пяти номинаций.
+
+Подробную информацию об условиях участия можно получить в Дирекции выставки по тел. (495) 937–40–23, e-mail: metrol@
+exopoprom.ru, сайт: <Node id="1577"/>www.metrol.expoprom.ru.<Node id="1600"/>
+<Node id="1601"/>http://www.elec.ru/…ya-2009.htmlПроблемы<Node id="1641"/> метрологии всегда занимали важное место в развитии любой отрасли. Ведь, как гласит известная поговорка: «Нельзя измерить – нельзя произвести». РОСНАНО совместно с <Node id="1805"/>Федеральным агентством по техническому регулированию и метрологии<Node id="1870"/> даже учредилa первую школу «Метрология и стандартизация в нанотехнологиях и наноиндустрии. <Node id="1962"/>Наноматериалы<Node id="1975"/>», которая пройдёт <Node id="1994"/>с 27 по 31 октября 2008 г.<Node id="2020"/> в Москве. А теперь вот планируется ещё и выставка в <Node id="2073"/>мае<Node id="2076"/> <Node id="2077"/>следующего года<Node id="2092"/>. Закладываются солидные основы будущей отрасли – наноиндустрии. В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1805" EndNode="1870">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по техническому регулированию и метрологии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2077" EndNode="2092">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="17" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по техническому регулированию и метрологии</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="2073" EndNode="2076">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="1962" EndNode="1975">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1994" EndNode="2020">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="415" EndNode="431">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1601" EndNode="1641">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="348" EndNode="351">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1577" EndNode="1600">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="279" EndNode="303">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

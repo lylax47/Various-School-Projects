@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Изучение тонких конструкционных пенопластов для амортизации и поглощения энергии сегодня, как никогда, актуально в инженерном деле, например, для защиты электронных приборов (MP3 плееров, мобильных телефонов КПК и пр.) от микровоздействий при случайных падениях, а также на макроуровне для обеспечения сохранности взрывоопасных грузов. Достижение в области контролируемого выращивания <Node id="387"/>углеродных <Node id="398"/>нанотрубок<Node id="408"/> и других <Node id="418"/>наноструктур<Node id="430"/> позволило исследователям создавать улучшенные системы, специально предназначенные для инженерных целей. 
+ 
+Аспирант Клемсонского университета (Clemson University) Вей <Node id="598"/>Ванг<Node id="602"/> (Wei Wang) под руководством профессора <Node id="642"/>Аппарао<Node id="649"/> Рао (Apparao Rao) создал хорошо регулируемые покрытия из вертикально выровненных и единообразно закрученных кольцами <Node id="767"/>нанотрубок<Node id="777"/>. Эта работа может расширить область применения <Node id="825"/>нанотрубок<Node id="835"/>. Ученым удалось вырастить в температурном CVD реакторе пенообразные леса из закрученных <Node id="924"/>нанотрубок<Node id="934"/> с контролируемой толщиной и едиными диаметром колец (~20 нм) и интервалом между ними ~500 нм. Эти произвольные структуры с дефектами могут применяться при разработке нанопружин, а также защитных покрытий, если использовать их в пенообразном виде. 
+ 
+Исследования упорядоченных лесов из <Node id="1221"/>наноколец<Node id="1230"/> в последнее время проводились в Университете Калифорнии аспиранткой Калифорнийского Университета Чиарой Дарайо (Chiara Daraio) под руководством профессоров Виталия Нестеренко и Сунхэ Цзиня (Sungho Jin). Результаты опубликованы в он-лайн версии номера Journal of Applied Physics <Node id="1509"/>22 сентября<Node id="1520"/> в работе под названием "Impact response by a foamlike forest of coiled carbon nanotubes". 
+ 
+Ученые сообщают, что эти &lt;коврики&gt; из закрученных <Node id="1664"/>нанотрубок<Node id="1674"/> помимо модулей упругого сжатия и изгиба обладают нелинейными упругими свойствами, что позволяет использовать их при создании настраиваемых защитных слоев для защиты приборов от воздействия. Простые эксперименты по микровоздействию, основанные на использовании пьезодатчиков для определения силы, позволили оценить рассеяние энергии в условиях динамических нагрузок. Эти тесты падающего груза имели целью определить амортизирующие свойства пенообразных пленок. Они показали резкое снижение амплитуды колебаний в сочетании с почти идеальным упругим откликом (экстраполированный коэффициент восстановления был близок к 1), то есть было продемонстрировано полное восстановление исходной формы после воздействия. 
+ 
+Кроме того, отклик сила-смещение показал, что леса из <Node id="2440"/>наноколец<Node id="2449"/> обладают характерным нелинейным поведением, которое сильно отличается, например, от поведения, наблюдаемого при ударе упругой сферы о плиту (закон <Node id="2597"/>Герца<Node id="2602"/>), а также от поведения других покрытий из <Node id="2645"/>углеродных <Node id="2656"/>нанотрубок<Node id="2666"/> с другими микроструктурными свойствами (зависящими от условий выращивания). 
+ 
+В <Node id="2748"/>настоящее время<Node id="2763"/> ученые пытаются смоделировать механизм образования вертикально упорядоченных закрученных <Node id="2853"/>нанотрубок<Node id="2863"/>, чтобы в дальнейшем добиться более глубокого понимания механизма их контроля для более массового производства и технического применения. Рассматриваемые свойства пенообразных пленок из углеродных <Node id="3060"/>наноколец<Node id="3069"/> могут найти новые применения, например, в фотонных кристаллах, линиях задержки и настраиваемых акустических волноводах. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокольцо" StartNode="1221" EndNode="1230">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="924" EndNode="934">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="825" EndNode="835">
+</Annotation>
+<Annotation Id="4" Type="Нанокольцо" StartNode="3060" EndNode="3069">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2748" EndNode="2763">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2597" EndNode="2602">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Герц</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="767" EndNode="777">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="387" EndNode="408">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="418" EndNode="430">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="398" EndNode="408">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="642" EndNode="649">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Аппарао</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="1664" EndNode="1674">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="2853" EndNode="2863">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="598" EndNode="602">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ванг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Нанокольцо" StartNode="2440" EndNode="2449">
+</Annotation>
+<Annotation Id="28" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Дата" StartNode="1509" EndNode="1520">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Нанотрубка" StartNode="2656" EndNode="2666">
+</Annotation>
+<Annotation Id="33" Type="Углеродная+нанотрубка" StartNode="2645" EndNode="2666">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

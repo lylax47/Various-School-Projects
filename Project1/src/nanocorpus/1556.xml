@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания NEC сообщила об успешной разработке транзисторов на базе <Node id="67"/>углеродных <Node id="78"/>нанотрубок<Node id="88"/> (carbon nanotube, CNT), получаемых при помощи технологий струйной печати. Сообщается, что создаваемые компоненты выгодно отличаются от создаваемых до сих пор на базе кремнийорганических материалов печатных полупроводников характеристиками производительности, и разница эта приблизительно в 100 раз.
+
+Кроме того, свойства CNT-транзисторов можно задавать, изменяя длину и плотность <Node id="469"/>нанотрубок<Node id="479"/>, и соответствующая технология также была разработана. Ожидается, что это изобретение в перспективе позволит существенно расширить диапазон приложений, в которых может использоваться «напечатанная» электроника.
+
+Большой интерес к технологиям создания полупроводников с помощью методов струйной печати, в частности, объясняется тем, что они представляют собой один из способов совместить удовлетворение все более растущего спроса на электронику с необходимостью снижения вредных выбросов во внешнюю среду при производстве. Альтернативный метод создания электронных компонентов позволяет кардинально упростить производственные процессы по сравнению с традиционными технологиями кремниевых полупроводников, снизить количество отходов, а выбросы двуокиси углерода уменьшить <Node id="1249"/>более чем на 90%<Node id="1265"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1249" EndNode="1265">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="67" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="78" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="469" EndNode="479">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

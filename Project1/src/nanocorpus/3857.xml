@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым удалось создать особый класс кремния, который способен «тянуться». Заставить полупроводник растягиваться ученым необходимо было для того, чтобы дать зеленый свет гибким микроэлектронным устройствам нового поколения, которые в <Node id="234"/>настоящее время<Node id="249"/> востребованы на рынке.
+
+Как говорит ученый-материаловед Джон Роджерс (John Rogers) из Университета Иллинойса в Урбана-Шампейн (University of Illinois at Urbana-Champaign), заставить кремний тянуться – это часть проблемы, гораздо труднее добиться его возвращения в первоначальное состояние без потери полупроводниковых свойств.
+
+Роджерс и <Node id="588"/>его<Node id="591"/> коллеги из Университета Аризоны (University of Arizona) создали ультратонкую полупроводниковую кремниевую мембрану, которую затем совместили с пластиной полимера на основе кремния.
+
+Как сообщает PhysOrg, процесс совмещения был разделен на несколько производственных этапов: во-первых, перед процессом необходимо было подготовить полимер, растянув его специальным образом так, что он образовал структуру с шаблоном, похожим на «елочку» (это можно увидеть на рисунке). Только после этого ученые смогли создать гибридный <Node id="1110"/>наноматериал<Node id="1122"/>.
+
+Благодаря «елочной» структуре полимера <Node id="1164"/>наноматериал<Node id="1176"/> может растягиваться как в длину, так и в ширину. Толщина слоя «гибкого» кремния составила 100 нанометров.
+
+Ранее Роджерс и <Node id="1300"/>его<Node id="1303"/> коллеги уже представляли различные гибкие <Node id="1346"/>наноструктуры<Node id="1359"/>, однако эти <Node id="1372"/>наноматериалы<Node id="1385"/> могли растягиваться только в одном направлении.
+
+Для нового материала уже есть ряд применений: это и специальные «умные» хирургические перчатки, и средства персонального мониторинга здоровья, и гибкие дисплеи.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="588" EndNode="591">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1372" EndNode="1385">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1164" EndNode="1176">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1300" EndNode="1303">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="1346" EndNode="1359">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="1110" EndNode="1122">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="234" EndNode="249">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

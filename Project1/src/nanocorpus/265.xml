@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Фонд содействия отечественной науке начинает прием представлений на соискание грантов Фонда на <Node id="97"/>2006 год<Node id="105"/> в области естественных и гуманитарных наук по номинации «Кандидаты и доктора наук РАН». Прием представлений проводится до <Node id="228"/>1 декабря 2006 года<Node id="247"/>. 
+ 
+Гранты Фонда будут выделяться по 7 направлениям: 
+  Математические науки  Физика и астрономия  Биология  Химия и науки о материалах  Науки о Земле  Инженерные и технические науки  Общественные и гуманитарные науки   
+Соискателями грантов Фонда могут стать граждане РФ - сотрудники научных учреждений Российской академии наук. Возраст соискателя гранта на момент подачи заявки не должен превышать <Node id="648"/>35 лет<Node id="654"/> для кандидатов наук и <Node id="677"/>45 лет<Node id="683"/> для докторов наук. 
+ 
+Для каждого соискателя гранта Фонда необходимо представление <Node id="767"/>Ученого совета<Node id="781"/> института РАН или члена Российской академии наук (академика или члена-корреспондента РАН). 
+ 
+В заявку на соискание гранта должны входить следующие документы: 
+  Представление <Node id="958"/>Ученого совета<Node id="972"/> института РАН или члена Российской академии наук на соискание гранта Фонда;  Отзыв Председателя <Node id="1069"/>Ученого совета<Node id="1083"/> института РАН или члена Российской академии наук, выдвинувшего соискателя, о научной работе соискателя;  Персональные данные соискателя.   
+Правила оформления заявки находятся на сайте фонда:
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="228" EndNode="247">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="677" EndNode="683">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="767" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="97" EndNode="105">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="1069" EndNode="1083">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="677" EndNode="683">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="958" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="648" EndNode="654">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="97" EndNode="105">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="648" EndNode="654">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

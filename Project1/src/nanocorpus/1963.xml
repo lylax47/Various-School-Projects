@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство РФ упразднило рабочую группу по вопросам в области нанотехнологий и наноиндустрии<Node id="95"/>17.11.2008<Node id="105"/>, Москва – Правительство РФ упразднило межведомственную рабочую группу по вопросам координации работ в области нанотехнологий и наноиндустрии. Об этом говорится в сообщении пресс-службы <Node id="291"/>правительства<Node id="304"/>
+Напомним, что межведомственная рабочая группа по вопросам координации работ в области нанотехнологий и наноиндустрии была создана распоряжением правительства РФ от <Node id="469"/>27 декабря 2006г.<Node id="486"/> N1823 для исполнения поручения президента РФ по вопросам оперативного решения задач по обеспечению ускоренного развития наноиндустрии в России, рационального использования финансовых средств, предусмотренных на эти цели, а также организации работы в этой сфере на системной основе.
+ Организационно-техническое обеспечение деятельности межведомственной рабочей группы было возложено на <Node id="872"/>Министерство образования и науки<Node id="904"/> (Минобрнауки) РФ. <Node id="923"/>http://www.rbc.ru<Node id="940"/>/…eenews.shtml?…Ну, это чисто технический вопрос. Тогда – создали, теперь вот (спустя 2 (два) <Node id="1034"/>года<Node id="1038"/>) – упразднили. Ещё стОило бы удивиться, что этот процесс (упразднения) занял столь большой период. Наверное, просто забыли об этом распоряжении…;-))) С той поры уже много что поменялось, много воды утекло в Москва-реке. Главное, что была создана ГК РОСНАНО, которая «рулит» всем процессом (по крайней мере, так кажется), и есть начальники, с которых – в случае чего – и спросить можно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="923" EndNode="940">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="95" EndNode="105">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="872" EndNode="904">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерство образования и науки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="469" EndNode="486">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="291" EndNode="304">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1034" EndNode="1038">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

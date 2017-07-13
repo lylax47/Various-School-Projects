@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Швейцарскими учеными впервые получены доказательства неклассического оптического излучения <Node id="92"/>углеродной <Node id="103"/>нанотрубки<Node id="113"/>.
+
+Исследователи из Института Квантовой Электроники в Цюрихе (Institute of Quantum Electronics), получили доказательства испускания одиночного фотона углеродной <Node id="274"/>однослойной <Node id="286"/>нанотрубкой<Node id="297"/> в процессе фотолюминесценции.
+
+Это явление может широко использоваться в устройствах, использующих квантовую передачу данных. В недалеком будущем квантовые коммуникационные сети помогут существенно обезопасить передачу данных.
+
+В эксперименте использовалась <Node id="556"/>нанотрубка<Node id="566"/> длиной 500 нанометров и диаметром 0,8 нм.
+
+<Node id="610"/>Углеродную <Node id="621"/>нанотрубку<Node id="631"/> при температуре 4,2 К перевели в возбужденное состояние лазером, после чего она начала излучать свет с длиной волны 880 нанометров.
+
+В первоначальных исследованиях <Node id="796"/>нанотрубка<Node id="806"/> излучала фотоны с промежутком в несколько наносекунд, однако потом ученым удалось достичь однофотонного излучения регулировкой лазерного импульса.
+
+Как дополнительно установили исследователи, длина волны излучаемых фотонов зависит от диаметра <Node id="1050"/>нанотрубки<Node id="1060"/>.
+
+О своей работе ученые сообщили в текущем выпуске журнала Physical Review Letters.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="621" EndNode="631">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1050" EndNode="1060">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="610" EndNode="631">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="92" EndNode="113">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="796" EndNode="806">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="103" EndNode="113">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="286" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="556" EndNode="566">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Однослойная+нанотрубка" StartNode="274" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

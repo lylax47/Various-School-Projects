@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Инвестиционные проекты Удмуртии включены в федеральную программу <Node id="65"/>Министерства развития<Node id="86"/> регионовВ республике планируется создать пять зон опережающего развития. Некоторые из них получат поддержку федерального бюджета. Создание новых зон предусмотрено в новой стратегии социально-экономического развития республики <Node id="313"/>до 2025 года<Node id="325"/>.
+
+Об этом сообщил заместитель министра экономики Удмуртии Михаил Зайцев. По <Node id="402"/>его<Node id="405"/> словам большое влияние на решение федеральных чиновников оказал последний инвестиционный форум. Там были показаны зоны, на которых можно развивать производство оружия, автомобилей, внедрять атомные и нанотехнологии.
+ И только на <Node id="635"/>третий месяц<Node id="647"/> после закрытия инвестиционного форума «Удмуртия-2008» стали известны конкретные результаты. Заключены десятки контрактов на сотни миллионов рублей. В ближайшее время в республику поступит современное оборудование, например лесозаготовительная техника для предприятия «Удмуртлес». <Node id="928"/>http://www.myudm.ru<Node id="947"/>/news/new/?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="402" EndNode="405">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="928" EndNode="947">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="65" EndNode="86">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства развития</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="313" EndNode="325">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="635" EndNode="647">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

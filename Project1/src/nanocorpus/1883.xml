@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Углеродные <Node id="11"/>нанотрубки<Node id="21"/> токсичны для микроорганизмовСогласно результатам последних исследований, проведенных учеными из университета Ватерлоо (Канада), <Node id="150"/>углеродные <Node id="161"/>нанотрубки<Node id="171"/> могут быть токсичными для микроорганизмов. Если простейшие одноклеточные организмы подвергаются воздействию <Node id="280"/>нанотрубок<Node id="290"/>, то они утрачивают возможность поглощать и переваривать бактерииСиним цветом показаны <Node id="377"/>нанотрубки<Node id="387"/> (как вне, так и внутри клеток)
+Исследователи изучали простейший организм – инфузорию (Tetrahymena thermophila), которая обитает в воде и передвигается с помощью ресничек. Та группа живых организмов, к которой принадлежит инфузория, очень важна для экологического равновесия в природе: она помогает регулировать популяцию микробов в воде, поглощая и перерабатывая бактерии. Помимо того, инфузория является неким индикатором качества сточной воды.
+Был проведен эксперимент, в ходе которого инфузория была подвержена влиянию <Node id="910"/>углеродных <Node id="921"/>нанотрубок<Node id="931"/>. Исследователи заключили, что если в реальной ситуации подобный организм окажется под влиянием <Node id="1027"/>нанотрубок<Node id="1037"/>, то пищевая цепь под влиянием нанотехнологий будет нарушена.
+
+<Node id="1100"/>Углеродные <Node id="1111"/>нанотрубки<Node id="1121"/> – это структуры, построенные из отдельных атомов, обладающие особенными свойствами. Широта их возможного применения очень впечатляет – считается, что уже <Node id="1276"/>через несколько лет<Node id="1295"/> мировой оборот <Node id="1311"/>нанотрубок<Node id="1321"/> составит миллиарды долларов. Но с тем большей осторожностью стоит относиться к этому новому материалу.
+ В <Node id="1428"/>настоящее время<Node id="1443"/> <Node id="1444"/>Углеродные <Node id="1455"/>нанотрубки<Node id="1465"/> широко изучаются в самых различных областях, включая медицину. <Node id="1529"/>http://www.mk.ru/…chno/359177/Carbon<Node id="1565"/> Nanotubes Compromise the Functions of Certain Protozoa, Study <Node id="1628"/>Showshttp://www.physorg.com/…2996964.htmlОчень<Node id="1674"/> интересные данные. Если <Node id="1699"/>нанотрубки<Node id="1709"/> действительно нарушают метаболизм (обмен веществ) инфузорий – этих «санитаров» наших водоёмов – то это очень нехороший сигнал. Это значит, что в случае массового использования УНТ (а к этому дело идёт) необходимо будет предусмотреть особые меры предосторожности для того, чтобы предотвратить их попадание в окружающую среду. Вниманию тов. <Node id="2049"/>Г.Онищенко<Node id="2059"/> и <Node id="2062"/>его<Node id="2065"/> коллег!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="280" EndNode="290">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1276" EndNode="1295">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="2062" EndNode="2065">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="2049" EndNode="2059">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Онищенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="1100" EndNode="1121">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="910" EndNode="931">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="11" EndNode="21">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="377" EndNode="387">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="150" EndNode="171">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1699" EndNode="1709">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1628" EndNode="1674">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1428" EndNode="1443">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1111" EndNode="1121">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1027" EndNode="1037">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1529" EndNode="1565">
+</Annotation>
+<Annotation Id="17" Type="Углеродная+нанотрубка" StartNode="0" EndNode="21">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="921" EndNode="931">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="1444" EndNode="1465">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="1455" EndNode="1465">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="1311" EndNode="1321">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="161" EndNode="171">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

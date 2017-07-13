@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Требуется лаборант. З.п. от <Node id="30"/>20000руб.<Node id="39"/>  Компания "Донкат". По всем вопросам обращаться - к Екатерине Якубович (market@market.chem.msu.ru). 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="30" EndNode="39">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

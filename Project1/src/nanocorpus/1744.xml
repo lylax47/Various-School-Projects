@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительственные комиссии нашли руководителейПравительство опубликовало список изменений в составе руководства образованных им координационных и совещательных органов.
+Премьер-министр Владимир Путин <Node id="200"/>стал<Node id="204"/> главой совета по конкурентоспособности и предпринимательству, а также комиссии по бюджетным проектировкам (вместо Виктора Зубкова).
+
+Первый вице-премьер Виктор Зубков <Node id="372"/>возглавил<Node id="381"/> <Node id="382"/>комиссию по защитным мерам<Node id="408"/> во внешней торговле (вместо Алексея Кудрина), комиссию по вопросам АПК (вместо Алексея Гордеева), комиссию по вопросам развития рыбохозяйственного комплекса (вместо Сергея Нарышкина).
+
+Первый вице-премьер Игорь Шувалов <Node id="628"/>получил<Node id="635"/> посты руководителя комиссии по противодействию нарушениям в сфере интеллектуальной собственности (вместо Дмитрия Медведева), комиссию по вопросам ВТО и ОЭСР (ранее ее возглавлял господин Кудрин), комиссию по техрегулированию (ранее — Виктор Христенко), ряд других комиссий.
+
+Вице-премьер Игорь Сечин возглавил комиссию по ТЭК (ранее ее возглавлял премьер-министр Виктор Зубков). Вице-премьер Сергей Собянин, глава аппарата Белого дома, получил от Сергея Нарышкина руководство комиссией по проведению административной реформы, а от вице-премьера Александра Жукова, возглавившего ряд других структур,— комиссией по законотворческой деятельности.
+Совет по нанотехнологиям преобразуется в комиссию по высоким технологиям и инновациям, главой ее утвержден вице-премьер Сергей Иванов.
+<Node id="1415"/>http://www.kommersant.ru/doc-y.aspx?…Распределили?<Node id="1465"/> Ну вот и славненько… Самое главное для нас, что Совет по нанотехнологиям был преобразован в комиссию по высоким технологиям и инновациям, и главой ее утвержден вице-премьер Сергей Иванов. Тем самым соблюдена преемственность. Он своё дело знает, и я думаю, что теперь развитие отечественной отрасли нанотехнологии пойдёт ещё более высокими темпами… В добрый путь!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Кадровые_перестановки" StartNode="372" EndNode="381">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Кадровые_перестановки" StartNode="628" EndNode="635">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="382" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">комиссию по защитным мерам</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Кадровые_перестановки</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Назначения_Увольнения" StartNode="372" EndNode="381">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Назначения_Увольнения" StartNode="628" EndNode="635">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="работает" StartNode="628" EndNode="635">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="сотрудники" StartNode="628" EndNode="635">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="сотрудники" StartNode="200" EndNode="204">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="работает" StartNode="200" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="Url" StartNode="1415" EndNode="1465">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

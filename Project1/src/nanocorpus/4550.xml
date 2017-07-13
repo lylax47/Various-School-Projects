@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В результате экспериментальных исследований инженеры Калифорнийского университета (г. Сан-Диего, США) получили полупроводниковый материал, который поможет существенно понизить стоимость <Node id="188"/>светоизлучающих диодов<Node id="210"/> (<Node id="212"/>LED<Node id="215"/>). Новый материал может составить серьезную конкуренцию широко распространенному для производства <Node id="313"/>LED<Node id="316"/> нитрида галлия.
+ 
+Как известно, далеко не всякие полупроводниковые материалы могут использоваться для получения <Node id="429"/>светодиодов<Node id="440"/>. Первые попытки получения <Node id="467"/>светодиодов<Node id="478"/> на основе оксида цинка, легированного донорными и акцепторными примесями, появились сравнительно давно. Однако многие полученные таким образом диоды вообще не люминесцировали, хотя нелегированные пленки ZnO имеют обычно хорошую ультрафиолетовую фотолюминесценцию в области связанных экситонов. Поэтому необходимо выбирать легирующую примесь таким образом, чтобы она не только давала необходимую величину и тип проводимости, но и не ухудшала спектр свечения и прозрачность оксида цинка.
+ 
+Стоить отметить, что ZnO практически всегда обнаруживает проводимость n-типа (это используют при создании так называемых "<Node id="1089"/>нанотрубок<Node id="1099"/> ZnO n-типа"). А вот с дырочной проводимостью все гораздо сложнее. Многие ученые задавались целью определения оптимальных легирующих элементов и способа их введения в состав ZnO для получения проводимости p-типа. И вот, наконец, ученым из Сан-Диего удалось синтезировать цилиндрические <Node id="1385"/>наноструктуры<Node id="1398"/> ZnO, которые способны переносить носители позитивного заряда и при этом практически не ухудшают спектр свечения и прозрачность оксида цинка.
+ 
+Для получения <Node id="1556"/>нанотрубок<Node id="1566"/> p-типа, инженеры легировали оксид цинка фосфором, используя <Node id="1627"/>химическое осаждение<Node id="1647"/> из паровой фазы, что является гораздо более дешевым методом, чем химическое газофазное осаждение из элементоорганических соединений (известное как MOCVD, metal organic chemical vapor deposition), часто используемое для производства <Node id="1880"/>LED<Node id="1883"/>-диодов<Node id="1890"/> на основе нитрида галлия. Таким образом, новая разработка может привести к значительному удешевлению производства <Node id="2005"/>светодиодов<Node id="2016"/>. Кроме снижения стоимости, еще одним плюсом является повышение эффективности цинк оксидных <Node id="2108"/>светодиодов<Node id="2119"/>.
+ 
+Новое открытие позитивно скажется не только на производстве <Node id="2183"/>светоизлучающих диодов<Node id="2205"/>. Согласно исследователям, комплементарные пары <Node id="2253"/>полупроводниковых <Node id="2271"/>нанотрубок<Node id="2281"/> p- и n-типа также могут пригодиться, к примеру, для создания транзисторов, в области спинтроники, ультрафиолетовых детекторах, наногенераторах, световой микроскопии и др.
+ 
+По материалам physorg.com.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Светодиод" StartNode="2108" EndNode="2119">
+</Annotation>
+<Annotation Id="1" Type="Светодиод" StartNode="2005" EndNode="2016">
+</Annotation>
+<Annotation Id="2" Type="Химическое+осаждение" StartNode="1627" EndNode="1647">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="467" EndNode="478">
+</Annotation>
+<Annotation Id="5" Type="Светодиод" StartNode="429" EndNode="440">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1556" EndNode="1566">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Светодиод" StartNode="1880" EndNode="1890">
+</Annotation>
+<Annotation Id="9" Type="Светодиод" StartNode="2183" EndNode="2205">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="1880" EndNode="1883">
+</Annotation>
+<Annotation Id="11" Type="Полупроводниковая+нанотрубка" StartNode="2253" EndNode="2281">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1089" EndNode="1099">
+</Annotation>
+<Annotation Id="13" Type="Светодиод" StartNode="212" EndNode="215">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Светодиод" StartNode="313" EndNode="316">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="2271" EndNode="2281">
+</Annotation>
+<Annotation Id="17" Type="Светодиод" StartNode="188" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="1385" EndNode="1398">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

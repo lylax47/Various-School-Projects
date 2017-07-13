@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Началась небольшая перестройка сайта Нанометр. В связи с тем, что документы по включению Всероссийской Интернет-олимпиады "Нанотехнологии - прорыв в Будущее!" прошли первую ступень экспертизы, было решено перенести все материалы по олимпиадам в отдельный раздел. Теперь вся информация об Интернет-олимпиадах по <Node id="313"/>наноматериалам<Node id="327"/> <Node id="328"/>2007-2008 г.<Node id="340"/> перенесена в раздел "Олимпиада", на который в меню ("красной полоске") теперь есть отдельная ссылка. За <Node id="445"/>лето<Node id="449"/> раздел будет дополнен, работа с олимпиадой будет продолжена. Планируется, что в дальнейшем появятся и другие образоввательные и тематические страницы.
+ P.S. Форум Нанометра не удален, он доступен пользователям с повышенным приоритетом. Позже эта опция будет также модифицирована.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="445" EndNode="449">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="328" EndNode="340">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="313" EndNode="327">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

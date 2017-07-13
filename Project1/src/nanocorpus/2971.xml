@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Премьер Михаил Фрадков подписал распоряжение, которым утверждена концепция Федеральной целевой программы «Развитие инфраструктуры наноиндустрии на <Node id="147"/>2008–2010 годы<Node id="161"/>», сообщила пресс-служба Белого ДомаМихаил Фрадков
+Государственным заказчиком-координатором целевой программы определено Минобрнауки России, госзаказчиками – Роснаука, Рособразование, Росатом, Роскосмос, Роспром, Ростехрегулирование и ФСТЭК России.
+
+Предельный объем финансирования программы за счет средств федерального бюджета составит <Node id="499"/>24 млрд 944 млн рублей<Node id="521"/>.
+
+Напомним, <Node id="534"/>Госдума<Node id="541"/> в начале <Node id="551"/>июля<Node id="555"/> приняла в третьем чтении законопроект «О Российской корпорации нанотехнологий», разработанный в соответствии с посланием президента РФ.
+
+Документом установлен правовой статус корпорации, ее организационная структура, а также порядок реорганизации и ликвидации.
+
+Предполагается, что она станет некоммерческой организацией и будет принимать участие в выработке государственной политики РФ в области нанотехнологий, а также займется оказанием организационной и финансовой поддержки инновационной деятельности в этой сфере.
+
+В частности, корпорация сможет проводить координацию и финансирование проектов в области нанотехнологий по специальным поручениям правительства РФ.
+<Node id="1225"/>http://www.opec.ru/news_doc.asp?…Ну<Node id="1260"/> вот и ещё одно большое дело завершено… Теперь уже, можно сказать, подведена правовая (документальная) база под концепцией ФЦП «Развитие инфраструктуры наноиндустрии на <Node id="1429"/>2008–2010 годы<Node id="1443"/>», выделены (и довольно немалые) денежки. Теперь можно начинать и работать. Правда, когда всё начальство вернётся из отпусков и… что немаловажно, когда, наконец-то, «капнут» денежки… Тем не менее, повторюсь, закончено большое и нужное дело, длинная цепочка правовых актов доведена до логического конца… А пока… А пока: Сделал дело – гуляй (в отпуск) смело!…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="147" EndNode="161">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="551" EndNode="555">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1225" EndNode="1260">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="499" EndNode="521">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="534" EndNode="541">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдума</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1429" EndNode="1443">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Друзья мои, буду краток. Увлекшись спорами о достижениях нанотеха мы нечуствительно прозевали рождение новой пурги, или по иностранному "hype"'а. Произошло это счастливое событие в <Node id="183"/>августе<Node id="190"/> <Node id="191"/>этого года<Node id="201"/>. Оглядываясь назад видишь мелкие знаки перемен. Возрастающая заинтересованность Конгресса США в альтернативных источниках энергии, возможный приход к власти демократов, вскипание пурги глобального потепления, подвернувшийся кстати тропический шторм, растущие цены на нефть и прочие энергоносители. Примеров много. 
+ 
+Название нового направления в деятельности прогрессивного человечества CleanTech, поломав голову над переводом, не придумал ничего лучше чем ЧистоТехнология. С ударение на первом слоге и небольшой паузой после слова чисто. 
+ 
+В <Node id="747"/>августе<Node id="754"/> одна из ведущих НаноКонсалтинговых контор Lux Research успешно сменила насадки на пурго-генераторах. Теперь Lux Research будет ЧистоКонсалтинговой фирмой. Весьма странный шаг учитывая бурные успехи в области нанотехнологий. Очевидно, что в ближайшее время Интернет позеленеет и цена на зеленую краску резко возрастет. Встречайте будущее!
+ 
+ 
+Несколько ссылок по теме: 
+ 
+1. cleantechБлог 
+ 
+2. Статья на Википедии 
+ 
+Угадайте кому принадлежит сайт <Node id="1203"/>www.cleantech.ru.<Node id="1220"/> Ни за что не догадаeтесь. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1203" EndNode="1220">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="747" EndNode="754">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="191" EndNode="201">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="183" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

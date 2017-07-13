@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В РАМН создадут отделение по применению нанотехнологий в медицинеВ Российской академии медицинских наук (РАМН) планируется создать специальное отделение, которое будет заниматься вопросами применения нанотехнологий и <Node id="217"/>наноматериалов<Node id="231"/> в медицине. Такое решение было принято на прошедшей сегодня 19-й сессии Общего собрания РАМН и зафиксировано в проекте комплексной программы по развитию нанотехнологий на <Node id="403"/>2008–2015 годы<Node id="417"/>.
+Вице-президент РАМН, академик РАМН <Node id="454"/>А.Л.Гинцбург<Node id="466"/>
+Как сообщил ИТАР-ТАСС вице-президент РАМН, академик Александр Гинцбург, «нанотехнологии призваны решить многие принципиальные вопросы современной медицины».
+В частности, использование <Node id="651"/>наночастиц<Node id="661"/> поможет созданию новых иммунобиологических препаратов для защиты человека от инфекционных заболеваний, не вызывающих аллергии, и вакцин для лечения раковых опухолей.
+ 
+«В нашей стране уже есть хорошие работы, есть препараты, созданные на основе нанотехнологий, и работа ученых в этой области продолжается», – отметил Гинцбург.
+  «С помощью таких лекарств, – подчеркнул он, – можно вылечить рак груди, рак мозга и рак крови на третьей стадии на <Node id="1106"/>95%<Node id="1109"/>». Он также добавил, что на нанотехнологии возлагают надежды по лечению таких серьезных заболеваний, как СПИД и гепатит С.
+ 
+Одновременно с этим, отметил академик, нанотехнологии активно используются для создания технологических аппаратов для диагностики и лечения больных.
+ 
+«Из новых сверхпрочных и одновременно гибких материалов производятся протезы, которые не нужно менять раз в <Node id="1493"/>15 лет<Node id="1499"/> – они служат всю жизнь!» – рассказал он.
+ 
+Кроме того, по словам Гинцбурга,..
+ 
+…«сейчас активно ведутся разработки биологических наночипов для диагностики соматических и инфекционных заболеваний, а также специальных нанороботов, способных устранять сложные дефекты в организме человека».
+ Эти разработки, считает Гинцбург, станут активно использоваться в медицине уже в ближайшие в <Node id="1883"/>четыре года<Node id="1894"/>. При активной поддержке <Node id="1919"/>Минобрнауки<Node id="1930"/> и Минздрава внедрение новейших изобретений, призванных спасти жизни сотням и тысячам людей, может произойти еще раньше, уверен академик.
+<Node id="2068"/>http://gzt.ru/…/223822.htmlНу<Node id="2097"/> вот, наконец-то, и наши медики подключаются к общенациональному движению за зазвитие нанотехнологий. А то всё разные физики-химики и технари двигали вперёд эту «экзотическую» отрасль. Теперь, надеемся, дело пойдёт повеселее, а отечественная медицина и здравоохранение получат мощный импульс для развития, и население наше будет более здоровым, весёлым и долгоживущим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="454" EndNode="466">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1919" EndNode="1930">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобрнауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1493" EndNode="1499">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2068" EndNode="2097">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="217" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1493" EndNode="1499">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1883" EndNode="1894">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1106" EndNode="1109">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="403" EndNode="417">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="651" EndNode="661">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Российский чипмейкер «Ангстрем», главный конкурент другого российского чипмейкера «Микрон», в <Node id="95"/>июне с.г.<Node id="104"/> закончил получение оборудования для полупроводнкового производства от компании AMD и планирует уже <Node id="204"/>осенью<Node id="210"/> начать производство сателитных навигационных систем GPS, RFID tags (Radio-frequency identification devices) и смарт-карт по 130–нм технологии, в основном для российского рынка.
+
+«Ангстрем» заплатил <Node id="409"/>462 млн. долл.<Node id="423"/>за оборудование и еще дополнительно 300–<Node id="463"/>400 млн. долл.<Node id="477"/> за модернизацию производства. Для оплаты расходов «Ангстрем» получил кредит в размере <Node id="564"/>1,3 млрд. долл.<Node id="579"/> от Внешэкономбанка.
+
+«Ангстрем» позиционирует себя как «чисто заводской игрок»(pure-play foundry). Оборудование, полученное от AMD, позволит перейти в дальнейшем на 90-нм технологию изготовления чипов, но необходимо предварительно получить лицензию на ее использование (соответствующее ведомство США ограничивает распространение технологий на чипы с технологической нормой ниже 130 нм). «Ангстрем», однако, ожидает получить лицензию на 90-нм и 65-нм технологии <Node id="1041"/>в течение ближайших двух лет<Node id="1069"/>.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="409" EndNode="423">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="95" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="463" EndNode="477">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1041" EndNode="1069">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="564" EndNode="579">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="204" EndNode="210">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

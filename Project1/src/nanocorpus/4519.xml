@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Группа исследователей из Национального Института Стандартов и Технологий (National Institute of Standards and Technology), бразильского Федерального <Node id="150"/>Университета Пернамбуко<Node id="173"/> (Universidade Federal de Pernambuco) и <Node id="213"/>Университета Райт<Node id="230"/> (Wright State University, Dayton, Ohio) продемонстрировала, что одиночная наноразмерная пора в тонкой мембране может использоваться для детектирования и сортировки полимерных цепей различного размера.
+
+Обычно для исследования и идентификации неизвестных молекул используют метод <Node id="510"/>масс-спектрометрии<Node id="528"/>. Большое количество изучаемых молекул ионизируется и расщепляется на фрагменты, массы которых затем анализируют и получают таким образом «отпечаток пальцев» молекулы. Такие приборы имеют довольно большие размеры. Новая система «одномолекулярной <Node id="774"/>масс-спектрометрии<Node id="792"/>» является недеструктивным методом, способным проводить измерения на отдельных молекулах с помощью устройства, которое может поместиться на одном микрочипе.
+
+Метод основан на использовании двухслойной липидной мембраны, подобной мембранам живых клеток. В мембране с помощью альфа-гемолизина (белок, вырабатываемый бактериями Staphylococcus aureus для проникновения через клеточные мембраны) проделывается отверстие диаметром 1.5 нм. С помощью электрического потенциала в отверстие по одной вводятся заряженные молекулы (например, одноцепочечная ДНК). Во время прохождения молекулы через канал ток ослабляется пропорционально размеру полимерной цепи, что позволяет определить её массу.
+
+В своих экспериментах вместо биомолекул авторы использовали цепочки полиэтиленгликоля (ПЭГ). Различные типы молекул ПЭГ по-разному понижали электрическую проводимость канала, что позволило исследователям различать полимерные цепочки по длине. В контрольном исследовании на высокочистом ПЭГ определённой длины «отпечаток пальцев» контрольного вещества близко совпал с его же сигнатурой в смешанном растворе. По результатам экспериментальных и контрольных исследований удалось провести измерения массы и идентификацию молекул, совпадающие с результатами масс-спектрометрических исследований.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Масс-спектрометрия" StartNode="510" EndNode="528">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="150" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пернамбуко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Масс-спектрометрия" StartNode="774" EndNode="792">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="213" EndNode="230">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райт</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

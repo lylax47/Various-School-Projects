@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  
+Директор Российского научного центра "Курчатовский институт" <Node id="64"/>Михаил Ковальчук заявил, что <Node id="93"/>развитие нанотехнологий позволит России реализовывать масштабные проекты по экономии энергоресурсов<Node id="192"/>. Об этом он говорил на конференции, посвященной исследованиям и разработкам приоритетных направлений развития науки, технологий и техники, сообщает РИА Новости. В форуме принимают участие свыше 400 представителей научно-технических организаций из всех регионов России. 
+    
+<Node id="468"/>По словам Ковальчука, энергосбережение станет возможным благодаря созданию материалов с необходимыми свойствами, то есть сегодня необходимо использовать технологии конструирования объектов, состоящих из нескольких молекул или атомов<Node id="700"/>. <Node id="702"/>Он<Node id="704"/> отметил, что на освещение тратится <Node id="740"/>20%<Node id="743"/> мировой энергии, которую позволит сэкономить переход от обычных ламп к светодиодным<Node id="827"/>. 
+    
+Эксперт считает, что Россия сейчас находится в равных условиях с ведущими мировыми державами в сфере разработки нанотехнологической продукции, а в ряде областей нанотехнологий российские и советские ученые стали первооткрывателями. 
+    
+Отчитываться о положении дел в сфере нанотехнологий и наноиндустрии руководству страны теперь будет недавно созданная рабочая группа. Конференция в Курчатовском институте стала одним из этапов подготовки доклада правительству по данной теме.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="64" EndNode="192">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="93" EndNode="192">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="702" EndNode="704">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="702" EndNode="827">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="468" EndNode="700">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="64" EndNode="192">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="702" EndNode="827">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="468" EndNode="700">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="740" EndNode="743">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="64" EndNode="827">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="64" EndNode="827">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="93" EndNode="192">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

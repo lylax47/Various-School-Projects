@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Физики из США создали самый маленький в мире резонатор на основе графеновой пленки – самого тонкого материала в мире.
+
+<Node id="120"/>Графен<Node id="126"/> – это «двумерная пленка» из атомов углерода, или, если представить наглядно, то <Node id="207"/>нанотрубка<Node id="217"/>, разрезанная вдоль оси и раскатанная на плоскости тоже будет <Node id="279"/>графеном<Node id="287"/>.
+
+Впервые <Node id="298"/>наноматериал<Node id="310"/> <Node id="311"/>графен<Node id="317"/> был синтезирован в <Node id="337"/>2004 году<Node id="346"/> профессором Эндрю Геймом. Тогда же ученые установили, что по электропроводности он не уступает <Node id="442"/>углеродным <Node id="453"/>нанотрубкам<Node id="464"/> и, в перспективе, может заменить нанотранзисторы на их основе.
+
+Как сообщает Nanotechweb, <Node id="555"/>графен<Node id="561"/> является уникальным материалом для исследования свойств так называемых «двумерных электронов», т.е. электронов, «привязанных» к структурным особенностям этого материала толщиной в один атом.
+
+Теперь же команде исследователей из Корнельского Университета (Cornell University) удалось заставить работать двумерную графитовую пленку в качестве наноэлектронного устройства.
+
+Пол МакЮн (Paul McEuen) и <Node id="959"/>его<Node id="962"/> коллеги смогли разместить слой <Node id="994"/>графена<Node id="1001"/> длиной несколько микрон между двумя кремниевыми «зажимами», получив резонатор толщиной в атом углерода. Ученые сделали несколько резонаторов с графеновой полосой различной толщины (толщина менялась путем увеличения количества слоев материала). При этом ее толщина изменялась от одного до 50 нанометров.
+
+Далее исследователи воздействовали на полоску пульсирующим лазером, ученые добились работы резонатора на частотах от 1 до 170 МГц. Разбег в частотах обуславливался толщиной графеновой пленки и количеством ее слоев.
+
+Также Пол прикладывал к пленке переменное напряжение и также наблюдал колебания пленки. Это было заметно по неравномерному отражению лазерного излучения от поверхности пленки.
+
+Как говорит МакЮн, столь малая масса графенового резонатора-пленки может позволить использовать его в качестве детектора массы, причем с его помощью можно будет взвешивать с высокой точностью отдельные молекулы.
+
+Также графеновый резонатор может выступать в качестве сверхточного детектора силы, так как он практически не вибрирует после снятия напряжения, что обуславливает его высокую точность.
+
+Ученые уверены, что новый <Node id="2123"/>наноматериал<Node id="2135"/> только начинает открывать свои уникальные возможности в наноэлектронике, поэтому они собираются продолжать свои исследования для того, чтобы сделать первый графеновый масс-детектор
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="279" EndNode="287">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="453" EndNode="464">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="311" EndNode="317">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="207" EndNode="217">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="337" EndNode="346">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="298" EndNode="310">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="337" EndNode="346">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="555" EndNode="561">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="959" EndNode="962">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="994" EndNode="1001">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="442" EndNode="464">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="120" EndNode="126">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="2123" EndNode="2135">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

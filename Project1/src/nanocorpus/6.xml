@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Американское химическое общество представляет новый журнал ACS Nano, посвященный достижениям нанонауки и нанотехнологии.  
+ 
+ Журнал уже начал принимать публикации для первого номера,  выходящего в <Node id="199"/>третьем квартале 2007 года<Node id="225"/>. Для размещения статей необходимо зарегистрироваться по адресу 
+<Node id="290"/>http://pubs.acs.org/journals/ancac3/alerts.html.<Node id="338"/>  
+ 
+ ACS Nano станет международным междисциплинарным форумом, способствующим установлению плодотворных контактов между научными группами, которые работают в различных областях – химии, физике, материаловедении, биологии и т.д.  
+ 
+ Тематика журнала: Синтез, сборка, исследование и моделирование <Node id="634"/>наноструктур<Node id="646"/> <Node id="647"/>Наноматериалы<Node id="660"/> и <Node id="663"/>наноструктуры<Node id="676"/> Наноустройства Самособирающиеся структуры НанобиотехнологияИнструменты и методы в нанотехнологии </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="634" EndNode="646">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="199" EndNode="225">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="647" EndNode="660">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="663" EndNode="676">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="290" EndNode="338">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

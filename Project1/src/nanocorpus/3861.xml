@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Лекции по нанотехнологиям на Фестивале НаукиВ <Node id="46"/>воскресенье, 12 октября<Node id="69"/>, в Фундаментальной библиотеке МГУ в рамках проведения Третьего Фестиваля Науки в г.Москве состоится лекция декана Факультета Наук о Материалах МГУ академика Ю.Д.Третьякова «Нанотехнологии – благо, блеф или грядущая катастрофа», которая является существенно переработанной версией лекции, состоявщейся <Node id="371"/>несколько месяцев назад<Node id="394"/> в Доме Ученых.
+Приглашаются все желающие!
+Лекция начнется в 11–45 в Актовом Зале библиотеки.
+ Это будет вторая лекция, первую лекцию с названием «Медицина и нанотехнологии – точки соприкосновения», в 10–30, начнет читать академик В.А.Ткачук (декан факультета фундаментальной медицины МГУ). 
+Здесь о Фестивале Науки говорит проректор МГУ академик, лауреат Государственной Премии РФ <Node id="776"/>2008 г.<Node id="783"/> А.Р.Хохлов.
+<Node id="796"/>http://www.nanometer.ru/…i_54211.htmlЕсли<Node id="837"/> даже и не удастся побывать на этих лекциях, то всё равно будет интересно познакомиться с иллюстративным материалом, подготовленным к лекции академика Ю.Д.Третьякова. Выше (по ссылке) прилагаются слайды этой лекции.
+К примеру, вот этот:
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="371" EndNode="394">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="776" EndNode="783">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="796" EndNode="837">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="46" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

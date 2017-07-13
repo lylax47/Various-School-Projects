@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Корнельского Университета (Cornell University) разработали метод, позволяющий наблюдать поведение отдельных <Node id="119"/>наночастиц<Node id="129"/> при нанокатализе с высоким разрешением.
+
+Результаты, полученные учеными, показали, что не все <Node id="224"/>наночастицы<Node id="235"/> ведут себя одинаково в каталитических реакциях. Оказалось, что скорости катализа у <Node id="319"/>наночастиц<Node id="329"/> изменяются со временем, что было установлено учеными.
+
+Проблемы катализа очень интересуют специалистов в области химии и энергетики. Именно нано-катализаторы сыграют большую роль в развитии топливных элементов, удалении вредных веществ и химическом производстве.
+
+Оказалось, что вещества, не обладающие каталитической природой в «макроскопическом виде», приобретают ее, становясь <Node id="710"/>наночастицами<Node id="723"/>. Понимание механизмов возникновения катализа поможет исследователям создать новые виды химических реагентов.
+
+Профессор химии из Корнелла <Node id="862"/>Пен Чен<Node id="869"/> (Peng Chen) поясняет, что катализ с помощью <Node id="914"/>наночастиц<Node id="924"/> протекает в динамике, и подробности этого процесса как раз удалось установить. <Node id="1004"/>Чену<Node id="1008"/> и <Node id="1011"/>его<Node id="1014"/> коллегам удалось даже снять видеозапись с дискретностью 30 миллисекунд/кадр, что до сих пор было трудно достижимо.
+
+Эксперимент базировался на сферических <Node id="1170"/>золотых <Node id="1178"/>наночастицах<Node id="1190"/> диаметром 6 нм, закрепленных на стеклянной подложке. Их омывал раствор с красителями, которые, при воздействии с <Node id="1304"/>наночастицами<Node id="1317"/>, переходили во флуоресцентную форму. Эти превращения исследователи смогли наблюдать и записывать с помощью микроскопа, фокусирующегося на плоскости, в которой протекала реакция.
+
+Молекула краски прикреплялась к <Node id="1529"/>наночастице<Node id="1540"/>, с высвобождением атома кислорода, вызывая новую флуоресцентную форму молекулы. Благодаря высокому разрешению микроскопа и флуоресцентным вспышкам, ученые смогли детектировать отдельные каталитические события, происходящие с единичными <Node id="1777"/>наночастицами<Node id="1790"/>!
+
+Как оказалось, не все <Node id="1815"/>наночастицы<Node id="1826"/> имеют идеальную сферическую форму, поэтому нанокатализ протекает по разным схемам. На <Node id="1913"/>наночастицах<Node id="1925"/> молекулы краски освобождаются, не меняя свое пространственное расположение, на других – перемещаются перед тем, как «отцепиться» от поверхности.
+
+Места реакции на поверхности <Node id="2101"/>наночастиц<Node id="2111"/> также изменяются со временем. Это вызвано реструктуризацией золотой поверхности катализатора после нескольких реакций. Поэтому последующие превращения протекают на «старых местах» на поверхности <Node id="2307"/>наночастицы<Node id="2318"/> медленнее, а на новых – быстрее.
+
+Время реструктуризации золотой поверхности, определенное учеными, довольно велико – от десяти до сотни <Node id="2456"/>секунд<Node id="2462"/>.
+
+<Node id="2465"/>В будущем<Node id="2474"/>, <Node id="2476"/>Чен<Node id="2479"/> и <Node id="2482"/>его<Node id="2485"/> коллеги планируют «записать» другие каталитические реакции, но уже с использованием не иммобилизованных <Node id="2590"/>наночастиц<Node id="2600"/> в растворе.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="2476" EndNode="2479">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1011" EndNode="1014">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="862" EndNode="869">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="2456" EndNode="2462">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1815" EndNode="1826">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="2101" EndNode="2111">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1913" EndNode="1925">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="224" EndNode="235">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="914" EndNode="924">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="2482" EndNode="2485">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1777" EndNode="1790">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1004" EndNode="1008">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="2590" EndNode="2600">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2465" EndNode="2474">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1304" EndNode="1317">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="319" EndNode="329">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="1529" EndNode="1540">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="710" EndNode="723">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="2307" EndNode="2318">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="119" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Наночастица" StartNode="1178" EndNode="1190">
+</Annotation>
+<Annotation Id="28" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Наночастица+золота" StartNode="1170" EndNode="1190">
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

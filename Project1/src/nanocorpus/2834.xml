@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Именно такое название придумано для конкурса компании Intel, проводимого совместно с интернет порталом "Активист" накануне <Node id="124"/>Нового года<Node id="135"/>. Задача участников конкурса - "изобразить Деда Мороза и его помощников в стиле...техно, проявив фантазию и творческий подход". Прием работ - до <Node id="280"/>20 января<Node id="289"/>, подведение итогов -<Node id="310"/>25 января<Node id="319"/>. Победителей - ждут призы. 
+Более подробная информация на сайте конкурса... 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="124" EndNode="135">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="280" EndNode="289">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="310" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

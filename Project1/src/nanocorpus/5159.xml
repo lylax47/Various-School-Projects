@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  
+Толщина монослоя воды (1) 
+Поверхность неразделенного на отдельные части кварца имеет порядок 6a2, где (2) 
+a2= 49 см2=4.9×10-3 м2 
+Наноструктурирование:
+ 
+r – минимальный размер <Node id="182"/>наноструктур<Node id="194"/>  должен быть больше размера молекулы в кварце ~0.5 нм.
+ 
+<Node id="252"/>Нано<Node id="256"/>-слои: (3) 
+<Node id="268"/>Нано<Node id="272"/>-цилиндры: (4) 
+<Node id="288"/>Нано<Node id="292"/>-сферы: (5) 
+Масса воды для адсорбции на нано-слоях и нано-цилиндрах: (6) 
+Для наносфер: mH2O=1.05 кг (Больше 1 л воды!)
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="268" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="252" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="182" EndNode="194">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="288" EndNode="292">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

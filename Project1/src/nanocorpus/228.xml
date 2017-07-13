@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>С.Иванов проведет во вторник заседание совета по нанотехнологиям, на котором рассмотрят механизм отбора проектов для финансированияМОСКВА, <Node id="139"/>14 апреля<Node id="148"/> – Первый вице-премьер РФ Сергей Иванов проведет во вторник заседание правительственного совета по нанотехнологиям, на котором будет рассмотрен механизм отбора проектов для финансирования.
+ «<Node id="339"/>Планируем рассмотреть вопрос о деятельности корпорации "Роснанотехнологии», о подготовке к отбору конкретных проектов в сфере нанотехнологий"<Node id="480"/>, – сообщил сегодня С.Иванов<Node id="508"/> на совещании у президента РФ Владимира Путина.
+ 
+Первый вице-премьер напомнил, что главная задача корпорации – создавать условия для производства нанотехнологичных товаров на принципах софинансирования государством и предприятиями.
+ «Хотим заслушать готовность корпорации к созданию системы отбора проектов, поскольку к <Node id="829"/>1 апреля<Node id="837"/> поступило несколько сот заявок на финансирование», – сказал он.
+ <Node id="903"/>По словам С.Иванова, «механизм, своего рода "сито» отбора заявок, уже создан корпорацией"<Node id="992"/>. Он предусматривает деятельность научно-технического совета и совета по инвестициям. Эти органы будут выносить решения на утверждение наблюдательным советом, который возглавляет министр науки и образования РФ Андрей Фурсенко.
+<Node id="1219"/>С.Иванов добавил, что <Node id="1241"/>также будет рассмотрен вопрос о взаимодействии «Роснанотехнологий» с отраслевыми лидерами – Роскосмосом, «Росатомом», ОАК<Node id="1362"/>. Первый вице-премьер также намерен уделить внимание возможной помощи госкорпорации малому и среднему бизнесу, который занимается производством наукоемкой продукции.
+ «Чтобы не замыкаться на крупных игроках, но и давать возможность малому бизнесу заниматься не торговлей и услугами, а производством наукоемкой продукции», – пояснил он.
+ <Node id="1699"/>http://www.prime-tass.ru/news/show.asp?…Ну<Node id="1741"/> что ж, как говорится, пора, давно пора (и на болельщиках проставить номера ;-) ). Времечко бежит, а (упущенная) выгода так и не поступает. Надо пошевеливаться и крутиться… Народишко на местах уже давно изождался: когда поступят средства, да когда можно будет начать – начать закупать оборудование и оборудовать рабочие места, когда верстать планы и «включать станки», когда готовить квалифицированные кадры и т.п. А без денег (да, ещё и обещанных «несметных» денег), как в старой песне, «и ни туды, и ни сюды»… В Москве-то ещё как-то можно перекантоваться, а вот в провинции, на необъятных просторах нашей Родины чудесной, нужно сделать ещё многое и очень многое… И никакая тут тебе компания Lux Research не поможет. А ВРЕМЯ не ждёт…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="339" EndNode="508">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="3" Type="упоминается_с" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="903" EndNode="992">
+</Annotation>
+<Annotation Id="5" Type="цитаты" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="139" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="339" EndNode="508">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="903" EndNode="992">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1699" EndNode="1741">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="339" EndNode="480">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="16" Type="упоминает" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="19" Type="темы" StartNode="339" EndNode="480">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="1219" EndNode="1362">
+</Annotation>
+<Annotation Id="21" Type="цитаты" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="упоминает" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="22" Type="упоминает" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="24" Type="автор" StartNode="1219" EndNode="1362">
+</Annotation>
+<Annotation Id="27" Type="упоминается_с" StartNode="339" EndNode="1362">
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="1241" EndNode="1362">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Дата" StartNode="829" EndNode="837">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Приэльбрусье на базе Кабардино-Балкарского госуниверситета (КБГУ) открылась научно-техническая конференция «Микро-нанотехнологии и фотоэлектроника». Об этом сообщает ИТАР-ТАСС.
+
+Свое участие в форуме подтвердили более 50 специалистов из Берлина, Минска, Самарканда, Москвы, Санкт-Петербурга, а также Южного федерального округа. Сопредседателями конференции являются доктора технических наук – руководитель Федерального агентства по науке и инновациям Сергей Мазуренко<Node id="470"/>,<Node id="471"/> замруководителя Федерального агентства по промышленности профессор Юрий Борисов, гендиректор <Node id="565"/>Владикавказского<Node id="581"/> технологического центра «Баспик» Сослан Кулов, ректор КБГУ Барасби Карамурзов.
+
+«Ученые обменяются разработками в сфере физико-химических свойств материалов электронной техники, обсудят технологии получения современных фотоэлектронных материалов, характеристики фото- и вторичноэлектронных приборов и устройств», – сообщили в оргкомитете.
+
+Организатор и спонсор конференции – центр «Баспик», который является основным российским разработчиком и изготовителем главных устройств в технике ночного видения – микро-канальных пластин (МКП). «МКП – это сложно устроенный тонкий диск из специального стекла размером с монету, который пронизан миллионами ультратонких каналов. Функциональные слои этих каналов имеют наноразмерную толщину», – пояснили ученые. В КБГУ изучают <Node id="1348"/>наноструктуру<Node id="1361"/> и свойства функциональных слоев МКП с целью улучшения их рабочих характеристик.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="470" EndNode="471">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="565" EndNode="581">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Владикавказского</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="1348" EndNode="1361">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="470" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

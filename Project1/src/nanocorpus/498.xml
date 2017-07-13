@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Университет Райса (Rice University, Houston Texas) вышел на первое место среди исследовательских университетов США по внедрению патентов в промышленность. Специалисты университета действительно работают над проблемами первостепенной важности и всегда являются одними из лидеров в той области науки и техники, где проводят исследования. <Node id="337"/>Патентный Совет<Node id="352"/> только подтвердил высокие достижения исследователей из Хьюстона
+
+<Node id="418"/>Патентный Совет (ПС)<Node id="438"/> – организация, <Node id="454"/>в течение десятилетий<Node id="475"/> специализирующаяся в оценке компаний по эффективности их деятельности, повысила рейтинг университета до № 1 в стране по влиянию на промышленные разработки, связанные с патентной деятельностью исследовательского сектора университета. <Node id="709"/>ПС<Node id="711"/> опубликовал данные своих оценок в средствах массовой информации первый раз и планирует делать это отныне ежегодно в <Node id="828"/>сентябре<Node id="836"/> <Node id="837"/>месяце<Node id="843"/>.
+
+Для оценки эффективности внедрения запатентованных разработок <Node id="908"/>ПС<Node id="910"/> собрал и проанализировал десятки отзывов о различных университетах и информацию о состоянии этих разработок по данным из государственных и промышленных источников. Rice University оказался первым по категории, которая определяет насколько высоко влияние патентного портфеля на технологические разработки других компаний или организаций. Наибольшее внимание промышленности привлекли патенты университета, имеющие отношение к нанотехнологиям. Оценка <Node id="1359"/>ПС<Node id="1361"/> сформулировала, что несмотря на сравнительно небольшой портфель патентов, этот портфель оказался весьма влиятельным, что неудивительно, поскольку его большую часть составляют актуальные разработки, относящиеся к нанотехнологиям. Специальной отметки удостоились разработки наноячеек, активируемых оптическими методами, которые использованы компанией NanoSpectra Biosciences Inc. (Хьюстон) в тестах по лечению раковых больных. Компания была создана именно под данную разрабоку.
+
+Несмотря на то, что в Rice University серьезное внимание передовым научным технологиям и, в частности, нанотехнологиям уделяют лишь в последнее десятилете, благодаря созданию на базе университета специализированного Центра Нанонауки и Технологии, в котором сотрудничают специалисты высокого калибра, агрессивность и эффективность разработок резко пошла вверх, выведя университет в число ведущих исследовательских учреждений страны.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="908" EndNode="910">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Патентный Совет (ПС)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="418" EndNode="438">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Патентный Совет (ПС)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="454" EndNode="475">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="828" EndNode="836">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="337" EndNode="352">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Патентный Совет (ПС)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="709" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Патентный Совет (ПС)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="1359" EndNode="1361">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Патентный Совет (ПС)</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="837" EndNode="843">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

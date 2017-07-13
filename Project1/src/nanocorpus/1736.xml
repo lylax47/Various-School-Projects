@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Шорохов Владислав ВладимировичИССЛЕДОВАНИЕ ОДНОЭЛЕКТРОННОГО ТРАНСПОРТА В <Node id="73"/>НАНОСТРУКТУРАХ<Node id="87"/> МОЛЕКУЛЯРНОГО МАСШТАБА
+Специальность <Node id="125"/>01.04.04<Node id="133"/> – Физическая электроника
+
+АВТОРЕФЕРАТ диссертации на соискание ученой степени кандидата физико-математических наук
+
+Москва 2007
+
+Работа выполнена на кафедре атомной физики, физики плазмы и микроэлектроники физического факультета МГУ им. М.В. Ломоносова.
+<Node id="388"/>http://www.phys.msu.ru/…shorohov.pdfВот<Node id="427"/> совершенно новая диссертация по данной тематике, защищённая <Node id="488"/>31 мая с.г.<Node id="499"/>, которую я «выдернул» для примера. (А вообще-то тов. Гугл.Ру сходу находит более 17 тыс. наименований диссертационных работ, в которых значится тема «нанотехнологии»). Я полагаю, это будет очень благодатной областью изучения для тех, кто собирается или уже готовится защищать диссертацию по близкой теме. Возможно, в данной области (написания и защиты диссертаций) мы уже давно переплюнули все другие страны. Может быть, этим и ограничимся? Зато тогда мы могли бы сэкономить огромные средства для любимой Родины… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="488" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="125" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">04</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="73" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="388" EndNode="427">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Первый на Дальнем Востоке «Технопарк» будет построен в Амурской областиБлаговещенск. <Node id="85"/>18 марта<Node id="93"/> – В <Node id="98"/>Благовещенске (Амурская область)<Node id="130"/> на базе двух вузов будет построена научно-исследовательская лаборатория «Технопарк».
+Александр Мигуля 
+«Речь идет о новом крупном инвестиционном проекте. Будет создана свободная экономическая зона, где будут разрабатываться современные нанотехнологии и инновационные технологии», – сообщил журналистам мэр города Александр Мигуля.
+ По его словам, на базе двух благовещенских вузов – Амурского государственного университета и Дальневосточного государственного аграрного университета с помощью ученых из Санкт-Петербурга планируется построить мощную научную лабораторию.
+ 
+«Такие проекты уже реализуются в пяти регионах Российской Федерации. На Дальнем Востоке подобных зон пока нет и благовещенский проект – единственная заявка от ДФО», – подчеркнул градоначальник.
+ 
+По его данным, под «Технопарк» будет выделен земельный участок площадью около 100 гектаров. Эта зона будет иметь особый налоговый и особый таможенный режим.
+<Node id="1055"/>http://www.interfax.ru/realtyinf.asp?…Амурский<Node id="1101"/> Государственный <Node id="1118"/>Университетhttp://www.amursu.ru/Дальневосточный<Node id="1165"/> государственный аграрный <Node id="1191"/>университетhttp://www.dalgau.ru/news.phpНу<Node id="1233"/> вот, не знаю, ЧЕМ там будет прирастать богатство Сибири, а богатство Дальнего Востока нашей Родины будет прирастать современными нано- и другими инновационными технологиями. «Освоение целины», «поход в народ, в глубинку» – вот как раньше назвали бы это движение. Характерный штрих: «с помощью ученых из Санкт-Петербурга»… <Node id="1556"/>Молодец Жорес<Node id="1569"/> <Node id="1570"/>Иванович<Node id="1578"/>! Знает, как забИты уже площадки в столицах и областных (научных) центрах. Поднимать науку в регионах – вот магистральный путь развития новых технологий. Опять же и «вектор движения» интересный… Рядом великий Китай… Пожелаем же им успехов на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="расположение" StartNode="98" EndNode="130">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1570" EndNode="1578">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванович</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="85" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1191" EndNode="1233">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1055" EndNode="1101">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1118" EndNode="1165">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1556" EndNode="1569">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

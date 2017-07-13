@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Этанол получил широкую популярность в наши <Node id="44"/>дни<Node id="47"/>. И несмотря на то, что мы употребляем его уже очень <Node id="100"/>много лет<Node id="109"/>, недавний интерес к нему был вызван применением его в качестве возобновляемого топлива, альтернативного бензину.
+
+Использование биомасс для проиводства топлива на основе этанола порождает бурные разногласия, связанные с экономическими и экологическими преимуществами данного метода. Кажется, что <Node id="406"/>углеродные <Node id="417"/>нанотрубки<Node id="427"/> могли бы помочь в решении этой проблемы.
+
+<Node id="470"/>Углеродные <Node id="481"/>нанотрубки<Node id="491"/> (УНТ) широко известны как перспективные и многообещающие материалы для катализа: в качестве непосредственно катализаторов, каталитических добавок или носителей. Исследователи из Китая (Dalian Institute of Chemical Physics, Chinese Academy of Sciences) совсем недавно применили <Node id="769"/>углеродные <Node id="780"/>нанотрубки<Node id="790"/>, внутри которых были добавлены <Node id="822"/>наночастицы<Node id="833"/> родия (Rh), как реактор для превращения газовой смеси монооксида углерода и водорода в этанол.
+
+Это первый пример, когда активность и селективность газофазной метал-катализируемой реакции существенно повышаются в результате проведения ее в таком реакционном сосуде, как <Node id="1104"/>нанотрубки<Node id="1114"/>.
+
+По мнению исследователей, наблюдаемый эффект объясняется уникальным распределением электроной плотности внутри <Node id="1228"/>нанотрубок<Node id="1238"/>. Когда углеродный лист сворачивается в трубку, образуются деформации, которые «выталкивают» большую часть электронов наружу <Node id="1363"/>нанотрубки<Node id="1373"/>.
+
+Такое распределение электронов позволяет катализатору более эффективно расщеплять связи между молекулами углерода и кислорода.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="481" EndNode="491">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="417" EndNode="427">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="406" EndNode="427">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1104" EndNode="1114">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="470" EndNode="491">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="44" EndNode="47">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1228" EndNode="1238">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="822" EndNode="833">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="100" EndNode="109">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="780" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1363" EndNode="1373">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="769" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

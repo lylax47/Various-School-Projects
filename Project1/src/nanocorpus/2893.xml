@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Графеновые материалы давно привлекают внимание ученых из-за своих механических и электрических свойств. Индивидуальные листы <Node id="127"/>графена<Node id="134"/> или химически модифицированного <Node id="167"/>графена<Node id="174"/> (CMG) могут быть получены разными способами, например, отшелушиванием, эпитаксиальным ростом, модификацией восстановленного "оксида <Node id="307"/>графена<Node id="314"/>". Ученые из Техасского университета сосредоточили свое внимание именно на приготовлении стабильного <Node id="415"/>коллоидного раствора<Node id="435"/> восстановленного "оксида <Node id="461"/>графена<Node id="468"/>" для производства тонких пленок и композитов. Восстановление "оксида <Node id="538"/>графена<Node id="545"/>" обычно приводит к агломерации гидрофобных частиц, имеющих большую поверхность, чего можно избежать, химически модифицируя <Node id="669"/>графен<Node id="675"/> при высоких (&gt;10) pH. Простой способ такой модификации и был предложен учеными.
+ 
+Известно, что контролируя химический состав графеновых листов, можно влиять на свойства получаемых на их основе материалов, например, получать прозрачные композитные пленки с высокой электропроводностью в ходе химического восстановления высокодисперсного "оксида графита" в силиконовом золе, используя гидразин. В этой же работе ученые добивались образования однородной суспензии, обрабатывая CMG раствором KOH. Последовательная обработка взвеси CMG в воде KOH и гидразином приводит к образованию сначала чуть более темной суспензии (KMG) при реакции KOH с карбоксильными, гидроксильными и эпокси-группами, приводящей к образованию отрицательного заряда, а затем темной гомогенной суспензии (hKMG) после восстановления гидразином при перемешивании при 35 °<Node id="1514"/>С в течение 6 часов<Node id="1533"/> (Рис. 1). Эта суспензия до момента написания статьи – вот уже <Node id="1596"/>4 месяца<Node id="1604"/> – оставалась стабильной.
+ 
+После простого фильтрования из hKMG образуется блестящий «бумажный» материал, из которого затем очисткой в сверхчистой воде вымывали возможные примеси. СЭМ этих листков подтверждает слоистую структуру (Рис. 2). Метод XPS демонстрирует изменение состава функциональных групп. Так, интенсивность сигналов карбонильных, карбоксильных и эпокси-групп снижается; при этом появляются сигналы других форм углерода, относящихся к связи углерода с азотом.
+ 
+Ученые полагают, что предложенный ими простой способ образования однородной стабильной суспензии электропроводящих листов на основе <Node id="2212"/>графена<Node id="2219"/> приведет к упрощению получения композитов и пленок на его основе, а сама суспензия станет хорошим прекурсором для дальнейшей химической модификации.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="127" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1514" EndNode="1533">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="538" EndNode="545">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="2212" EndNode="2219">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="461" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="669" EndNode="675">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="167" EndNode="174">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="307" EndNode="314">
+</Annotation>
+<Annotation Id="14" Type="Коллоид" StartNode="415" EndNode="435">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1596" EndNode="1604">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

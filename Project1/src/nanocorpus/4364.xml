@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Джеймс Хедберг (James Hedberg) с соавторами представил на Канадском нано-форуме разработанный ими атомно-силовой микроскоп с улучшенными характеристиками (Ultra-Low Temperature Scanning Probe Microscope: Design and Construction)James Hedberg
+Применение нанотехнологий позволило создать микроскоп, который работает при температурах около 0,05 градусов <Node id="351"/>Кельвина<Node id="359"/> (практически абсолютный ноль) в магнитном поле напряженностью 16 Тесла. Поле такой мощности является настолько сильным при данной температуре, что электроны выстраиваются в кристаллическую решетку (т.н. решетка Вигнера), которая очень похожа на кристаллическую решетку соли.
+
+Новая версия атомно-силового микроскопа имеет достаточно большое разрешение также за счет использования топографической карты, похожей на карту <Node id="780"/>Брайля<Node id="786"/>. Для создания интерференции в магнитном поле используются серебряные болты. Однако данный инструмент требует тщательной подготовки к исследованиям, в частности, применения специальных электронных систем, чтобы избежать возможных шумов и ошибок.
+<Node id="1032"/>http://www.physics.mcgill.ca/…ll.ca-0.htmlНу<Node id="1076"/> что ж, молодцы ребята… Чем больше будет таких изобретений и разработок, тем быстрее человечество будет овладевать глубинами нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="780" EndNode="786">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Брайль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="351" EndNode="359">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кельвин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1032" EndNode="1076">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

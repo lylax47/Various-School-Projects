@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из исследовательского центра IBM Almaden Research Center, США на базе обычного атомно-силового микроскопа создали производственный модуль, который может сортировать молекулы и выкладывать из них различные <Node id="213"/>двумерные <Node id="223"/>наноструктуры<Node id="236"/>.
+
+Атомно-силовой микроскоп, или АСМ – самый распространенный инструмент нанотехнолога, на его основе проводится большинство исследований физики твердого тела, выполняется тестирование новых типов производства двумерных и трехмерных наносистем, изучаются биологические макромолекулы (ДНК, РНК, белки). Поэтому неудивительно, что у такого многостороннего инструмента появилось еще одно применение.
+
+Удивительно другое – ученым удалось с помощью АСМ ускорить работу электрофорезной сортировки, которая широко используется при секвенировании ДНК и изучении белков.
+
+«Использование АСМ в сортировке молекул – отличная находка для нас, так как такой подход обеспечивает высокоскоростное и надежное отделение молекул одних типов от других, – комментирует Дэвид Гарфин (David Garfin), президент американского общества по изучению <Node id="1059"/>электрофореза<Node id="1072"/> (American Electrophoresis Society). – Сегодня для того, чтобы отделить одну молекулу от другой, необходимо поместить их в капилляр, наполненный гелем и подвергнуть воздействию электромагнитного поля, и, <Node id="1276"/>через несколько минут<Node id="1297"/>, а иногда и <Node id="1310"/>часов<Node id="1315"/>, мы можем достичь результата. И вот, сегодня стало известно, что этот процесс можно ускорить в сотни раз, используя наработки ученых из IBM. Продемонстрированная ими "сырая» технология технологического процесса сортировки впечатляет своим быстродействием и надежностью".
+
+Для примера ученые работали с молекулами ДНК разной длины. Оказалось, что они могут перемещаться под действием эффекта <Node id="1707"/>электрофореза<Node id="1720"/> вверх и вниз по зонду-кантилеверу АСМ, причем скорость их перемещения зависит напрямую от длины. Так, например, ДНК с пятью базовыми основаниями спускалась вниз по зонду АСМ длиной 11.2 микрон за 5 миллисекунд, а молекула с 16 основаниями – за 15 миллисекунд.
+
+Более того, после преодоления этого расстояния, молекулы съехали на подложку микроскопа, таким образом, двигая зонд АСМ, можно было «писать» различные слова и создавать <Node id="2151"/>двумерные <Node id="2161"/>наноструктуры<Node id="2174"/>, как если бы мы печатали струйным принтером по бумаге. Только вместо чернил – молекулы ДНК разного размера, а вместо бумаги – подложка микроскопа.
+
+«<Node id="2324"/>Мы смогли управлять движением десяти молекул ДНК разной длины, а это значит, что ДНК-сортировщик может пригодиться при анализе сверхмалых биологических образцов, не прибегая к "долгому» <Node id="2510"/>электрофорезу<Node id="2523"/>", – говорит ученый <Node id="2543"/>Камар<Node id="2548"/>, один из исследовательской группы IBM.
+
+Расскажем поподробнее о принципе действия новой технологии. Молекулы ДНК разного размера хранились в резервуаре под зондом АМС. Как только ученые подавали на зонд напряжение, молекулы разных типов «выползали» из резервуара и спускались вниз к концу зонда, причем, со скоростью, зависящей от их размера. Так, сначала возле подложки оказались короткие молекулы, а через время- длинные. Как только все молекулы оказались «внизу», ученые поменяли полярность напряжения, заставив молекулы подниматься обратно. И в этот момент, контролируя их подъем, они оставили некоторые молекулы «внизу». Так и происходил цикл всего письма – нанесением поэтапно молекул нужного размера.
+
+Освоившись с нанописьмом, ученые выложили из молекул ДНК с пятью основаниями логотип компании IBM. Габариты логотипа составили всего 3.3 х 8.8. микрон. Толщина же линии, которой писали ученые, составила 59–79 нанометров.
+
+Как говорят исследователи, тот же метод можно применить при построении наноэлектронных цепей, в которых роли транзисторов будут играть отдельные молекулы.
+
+«Мы можем "писать» молекулами только когда электрическое поле присутствует, – поясняет <Node id="3723"/>Камар<Node id="3728"/>. – То есть, если нам необходимо, мы можем поднять зонд, перевести его на другое место и там писать снова без потери молекул. Также благодаря контролируемому нанесению молекул на основание эта технология производства менее чувствительна к химическим свойствам подложки".
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="223" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="2324" EndNode="2548">
+</Annotation>
+<Annotation Id="2" Type="Электрофорез" StartNode="2510" EndNode="2523">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Двумерная+наноструктура" StartNode="2151" EndNode="2174">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1276" EndNode="1297">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="2324" EndNode="2548">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="2324" EndNode="2548">
+</Annotation>
+<Annotation Id="12" Type="Электрофорез" StartNode="1059" EndNode="1072">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Электрофорез" StartNode="1707" EndNode="1720">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Двумерная+наноструктура" StartNode="213" EndNode="236">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="3723" EndNode="3728">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Камар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="2161" EndNode="2174">
+</Annotation>
+<Annotation Id="23" Type="Персона" StartNode="2543" EndNode="2548">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Камар</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1310" EndNode="1315">
+</Annotation>
+<Annotation Id="24" Type="автор" StartNode="2324" EndNode="2548">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

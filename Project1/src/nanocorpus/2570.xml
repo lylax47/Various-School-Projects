@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Предполагается, что в в рамках III российско-японского инвестиционного форума Северную столицу посетит японская делегация в составе более 250 руководителей госструктур, союзов предпринимателей, компаний и банков. Ожидается также около 350 делегатов с российской стороны. В рамках форума пройдет специальная сессия «Инвестиционные проекты в Санкт-Петербурге — примеры успеха и новые перспективы».
+
+Пленарное заседание в <Node id="420"/>день<Node id="424"/> открытия будет посвящено развитию российских регионов и географическому расширению российско-японского инвестиционного сотрудничества. <Node id="560"/>5 сентября<Node id="570"/> состоятся круглые столы по темам: «Инвестиции в российскую автомобильную промышленность», «Развитие транспортной инфраструктуры в России», «Новый этап сотрудничества в традиционных отраслях: нефть, газ, уголь, атомная энергетика», «Сотрудничество в инновационных областях – телекоммуникации, информационные технологии, партнерство в науке и промышленности, партнерство в области нанотехнологий», «Финансирование российско-японских инвестиционных проектах и инвестиционно- банковские услуги», «Инвестиции в сферу услуг», «Инвестиции в экологию».
+
+<Node id="1117"/>По словам Игоря Павлова, <Node id="1142"/>советника вице-губернатора Юрия Молчанова, одной из «фишек» форума станут представленные на выставке роботы, помогающие восстанавливать психику, а также достижения в области нанотехнологий<Node id="1330"/>.
+
+Как рассказал генеральный консул Японии в Петербурге <Node id="1386"/>Такуо<Node id="1391"/> Кидокоро, сегодня в на берегах Невы работают около 50 японских компаний. Предприятия из страны Восходящего Солнца стали появляться в городе после <Node id="1538"/>2004 года<Node id="1547"/>, когда состоялся первый визит в Японию губернатора Петербурга Валентины Матвиенко. Первой «ласточкой» стал завод «Тойота», после чего в городе открылись и другие предприятия, в основном связанные с автомобилестроением и смежными с ним отраслями. Только в <Node id="1803"/>2007 году<Node id="1812"/> в город пришли еще 10 японских компаний.
+
+По словам <Node id="1865"/>Такуо<Node id="1870"/> Кидокоро, в Японии много фирм, готовых выйти на петербургский рынок. Ожидается, что среди них могут быть фирмы, работающие в области логистики и в транспортной системе. <Node id="2040"/>Такуо<Node id="2045"/> Кидокоро отметил, что за последнее время японцы очень продвинулись в строительстве морских портов и аэропортов, так что не исключена вероятность появления в Петербурге японский предприятий, работающих в этой сфере.
+
+Напомним, что I российско-японский инвестиционный форум прошел в <Node id="2327"/>2006 году<Node id="2336"/>. Тогда губернатор Петербурга Валентина Матвиенко выступила с предложением открыть авиарейс между Петербургом и Японией. Эта идея была осуществлена в <Node id="2486"/>апреле 2008 года<Node id="2502"/>.
+
+Ежегодный прирост товарооборота и инвестиций между Японией и Петербургом составляет <Node id="2589"/>40 процентов<Node id="2601"/>. Однако Северная столица в основном «поставляет» в Японию интеллектуальные ресурсы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="420" EndNode="424">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1386" EndNode="1391">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">консул</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Такуо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2486" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1117" EndNode="1330">
+</Annotation>
+<Annotation Id="4" Type="цитаты" StartNode="1142" EndNode="1330">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="560" EndNode="570">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="1117" EndNode="1330">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1803" EndNode="1812">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="2589" EndNode="2601">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="2327" EndNode="2336">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1865" EndNode="1870">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">консул</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Такуо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="1538" EndNode="1547">
+</Annotation>
+<Annotation Id="12" Type="упоминается" StartNode="1117" EndNode="1330">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1117" EndNode="1330">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2327" EndNode="2336">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="1803" EndNode="1812">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2040" EndNode="2045">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">консул</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Такуо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="1142" EndNode="1330">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1538" EndNode="1547">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

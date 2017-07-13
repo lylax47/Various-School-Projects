@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>16 июня 2008 г.<Node id="15"/> в Москве («Президент-отель») пройдет Третий отраслевой инновационный форум <Node id="91"/>Росатома<Node id="99"/>16 июня 2008 г.<Node id="114"/> в Москве («Президент-отель») пройдет Третий отраслевой инновационный форум <Node id="190"/>Росатома<Node id="198"/>. Мероприятие, организаторами которого выступают ГК «Росатом», ФГУП ЦНИИАТОМИНФОРМ и Центр «Атом-инновации», будет включать экспозицию лучших инновационных проектов, составляющих комплексные программы инноваций и отобранных по результатам научно-технической и экономической экспертизы.
+ В числе комплексных инновационных направлений: промышленная диагностика, лазерные, плазменные и ускорительные технологии, сверхпроводники, водоочистка и водоподготовка, нанотехнологии и материалы с заданными свойствами, очистка сред и экология, энергетика и энергосбережение, безопасность, физическая защита, альтернативные источники энергии, новые строительные материалы, IT, коммуникации, и т.д. 
+Лучшие инновационные решения будут представлены для инвесторов в рамках выставочной экспозиции Форума и, кроме того, рекомендованы для инвестиционной поддержки в рамках создаваемого специализированного бизнес-инкубатора.
+ Деловая программа Форума также включает пленарные заседания, конференции, тематические круглые столы, деловые встречи и мастер-классы, награждение победителей. В рамках подготовки Третьего инновационного форума <Node id="1317"/>Росатома<Node id="1325"/> были достигнуты договоренности между Центром «Атом-инновации» и ГК «Роснанотех» об участии специалистов ГК «Роснанотех» в предварительной научно-технической экспертизе и оценке (скрининге) поступивших на форум инновационных проектов по направлению «нанотехнологии» с целью их дальнейшей коммерциализации.
+ Кроме того, в рамках конгрессной программы форума запланировано проведение круглого стола, посвященного обсуждению вопросов коммерциализации нанотехнологий. 
+Генеральный партнер форума  – ОАО «ТВЭЛ», генеральный информационный партнер – АЭИ «Прайм-ТАСС». Информационную поддержку форума оказывают более 20 ведущих специализированных СМИ.
+ Подробную информацию о подготовке и проведении Третьего инновационного форума <Node id="2049"/>Росатома<Node id="2057"/> можно узнать на официальном сайте Центра «Атом-инновации» <Node id="2116"/>www.runtech.ru<Node id="2130"/>
+или по
+Tелефонам: +7 (495) 662–69–99 и 739–33–57,
+E-mail: inforum@runtech.ru.
+<Node id="2209"/>http://www.sovetnikprezidenta.ru/58/8_tek.htmlЗдесь<Node id="2260"/> уже сообщалось о проведении этого форума и о переносе даты его открытия – <Node id="2335"/>http://www.nanonewsnet.ru/…uma-rosatoma<Node id="2374"/> // <Node id="2378"/>http://www.nanonewsnet.ru/…osatoma-2008<Node id="2417"/> . Теперь вот привожу эту заметочку – для напоминания, что уже в ближайший понедельник – открытие этого форума… Успехов участникам и организаторам этого солидного мероприятия!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="190" EndNode="198">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="91" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="99" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2378" EndNode="2417">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="2049" EndNode="2057">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="1317" EndNode="1325">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2209" EndNode="2260">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="0" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="2335" EndNode="2374">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2116" EndNode="2130">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

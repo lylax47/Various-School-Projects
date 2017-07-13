@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Медведев отправился в мировое турнеПрезидент России Дмитрий Медведев отправляется в свое первое зарубежное турне. В четверг он посетит с государственным визитом Астану, а в пятницу полетит в Пекин. <Node id="198"/>Как заявил помощник президента Сергей Приходько, <Node id="247"/>визит в Казахстан – «демонстрация отношения России к интеграционным процессам на постсоветском пространстве в рамках СНГ и своего рода оценка достигнутого уровня отношений с Казахстаном»<Node id="433"/>.
+Президент Казахстана Нурсултан Назарбаев был настолько польщен, что Медведев выбрал в качестве первого зарубежного визита его страну, что намерен, со своей стороны, предложит Дмитрию Медведеву план объединения экономик двух стран.
+
+В Астане Медведев намерен провести переговоры на которых «предполагается обсудить широкий круг вопросов двусторонней повестки <Node id="793"/>дня<Node id="796"/>, в том числе ход реализации Плана совместных действий России и Казахстана на <Node id="874"/>2007–2008 годы<Node id="888"/>».
+Кроме того, будут обсуждаться газопроводные и атомные проекты, вопросы военно-технического сотрудничества (ВТС), совместное освоение космического пространства и использование космодрома «Байконур», разработка и охрана ресурсов Каспия, а также взаимодействие в области нанотехнологий.
+
+В Пекине <Node id="1185"/>Медведев проведет переговоры с председателем КНР <Node id="1234"/>Ху Цзиньтао<Node id="1245"/>, встретится с премьером Госсовета КНР Вэнь Цзябао, председателем <Node id="1311"/>Постоянного комитета<Node id="1331"/> <Node id="1332"/>ВСНП<Node id="1336"/> <Node id="1337"/>У Банго и председателем Всекитайского комитета Народного политического консультативного совета <Node id="1432"/>Цзя Цинлинем<Node id="1444"/>.
+В состав российской делегации, сопровождающей Медведева в Казахстан, входят, в частности, глава МИД РФ Сергей Лавров, министр промышленности и торговли Виктор Христенко, глава Минобороны Анатолий Сердюков<Node id="1650"/>,<Node id="1651"/> министр энергетики РФ Сергей Шматко, руководитель Федеральной таможенной службы Андрей Бельянинов<Node id="1749"/>,<Node id="1750"/> глава Роскосмоса Анатолий Перминов, глава госкорпорации Росатом Сергей Кириенко, глава «Раснанотеха» Леонид Меламед<Node id="1866"/>,<Node id="1867"/> президент ОАО «ЛУКОЙЛ» Вагит Алекперов<Node id="1906"/>,<Node id="1907"/> глава «Роснефти» Сергей Богданчиков<Node id="1943"/>,<Node id="1944"/> глава «РусАла» Олег Дерипаска<Node id="1974"/>,<Node id="1975"/> представители руководства «Газпрома», а также ряд губернаторов приграничных с Казахстаном российских областей.
+ Как отмечает «Коммерсант», Дмитрию Медведеву не впервой заниматься международной политикой. Еще до мартовских президентских выборов в России прежний глава государства Владимир Путин принялся готовить своего преемника к самостоятельному ведению внешнеполитических дел. Путин сначала стал брать тогда еще первого вице-премьера Медведева на важные двусторонние встречи с лидерами других стран. И, после нескольких таких «мастер-классов», отправил Медведева, в то время возглавлявшего совет директоров «Газпрома», с самостоятельной миссией в Белград и Будапешт вести переговоры о строительстве газопровода «Южный поток». <Node id="2705"/>http://www.polit.ru/…edvedev.htmlНу<Node id="2740"/> что ж, как говорится, «с боевым крещением»! Довольно интересна география поездок. И уже по набору руководителей ведомств становится ясно, о чём пойдёт речь на этих переговорах. Отрадно, что в состав делегации включили и «нашего» Леонид Борисыча (Меламеда). Это значит, что будут вестись переговоры и по этим вопросам – вопросам сотрудничества в области развития нанотехнологий. И, очевидно, что если Казахстан будет выступать в данной области как «младший партнёр» (это не «оскорбление», а просто констатация факта ;-)), то уже в Китай мы едем «с большим любопытством во взоре», ибо эта страна совершила огромный рывок в области развития НТ в <Node id="3384"/>последние годы<Node id="3398"/>. И нам бы стоило немалому поучиться в этой области у нашего могучего восточного соседа. Так что – в добрый путь и к новым свершениям!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="1906" EndNode="1907">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="1943" EndNode="1944">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2705" EndNode="2740">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="1866" EndNode="1867">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="1974" EndNode="1975">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="793" EndNode="796">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="сотрудники" StartNode="1749" EndNode="1750">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="работает" StartNode="1866" EndNode="1867">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Властная_Структура" StartNode="1311" EndNode="1331">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Постоянного комитета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="темы" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="упоминается" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="33" Type="Период_времени" StartNode="3384" EndNode="3398">
+</Annotation>
+<Annotation Id="38" Type="темы" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="39" Type="работает" StartNode="1974" EndNode="1975">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Персона" StartNode="1432" EndNode="1444">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цзя</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="42" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="43" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="47" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="упоминает" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="45" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="51" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="50" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="49" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="48" Type="работает" StartNode="1943" EndNode="1944">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="54" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="53" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="52" Type="сотрудники" StartNode="1906" EndNode="1907">
+</Annotation>
+<Annotation Id="59" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="58" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="57" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="56" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="63" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="62" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="61" Type="автор" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="60" Type="Период_времени" StartNode="874" EndNode="888">
+</Annotation>
+<Annotation Id="68" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="69" Type="темы" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="70" Type="цитаты" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="71" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="64" Type="высказывания_заявления" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="65" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="66" Type="темы" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="67" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="76" Type="встречи_и_переговоры" StartNode="1185" EndNode="1245">
+</Annotation>
+<Annotation Id="77" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="78" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="79" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="72" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="73" Type="работает" StartNode="1749" EndNode="1750">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="цитаты" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="75" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="85" Type="упоминается" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="84" Type="цитаты" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="87" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="86" Type="упоминает" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="81" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="80" Type="Персона" StartNode="1332" EndNode="1336">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="82" Type="сотрудники" StartNode="1650" EndNode="1651">
+</Annotation>
+<Annotation Id="93" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="92" Type="Персона" StartNode="1234" EndNode="1245">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ху</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="94" Type="работает" StartNode="1336" EndNode="1337">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="работает" StartNode="1650" EndNode="1651">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="91" Type="упоминает" StartNode="198" EndNode="433">
+</Annotation>
+<Annotation Id="90" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="98" Type="упоминается_с" StartNode="247" EndNode="433">
+</Annotation>
+<Annotation Id="99" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="96" Type="сотрудники" StartNode="1336" EndNode="1337">
+</Annotation>
+<Annotation Id="97" Type="цитаты" StartNode="247" EndNode="433">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

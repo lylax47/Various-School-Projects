@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компания ЭлекТрейд-М приглашает принять участие в семинаре, посвященном обзору современных методик измерения вольт-амперных, вольт-фарадных и СВЧ характеристик полупроводниковых приборов при помощи зондовых станций производства CASCADE Microtech. 
+ 
+<Node id="252"/>http://www.eltm.ru/events<Node id="277"/>  
+ 
+Семинар состоится <Node id="300"/>11 сентября 2007 года<Node id="321"/> в офисе компании ЭлекТрейд-М по адресу: Москва, Кутузовский проспект 7/4, корпус 6, офис 50. 
+ 
+Участие в семинаре бесплатное, но только после обязательной регистрации. Зарегистрироваться для участия в семинаре можно по адресу: 
+ 
+<Node id="553"/>http://www.eltm.ru/index.sema?a=demos&amp;pid=62<Node id="597"/> 
+ 
+За любой дополнительной информацией можно обращаться к Козлову Игорю Александровичу (kia@eltm.ru) по телефону (495) 974-14-80.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="300" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="252" EndNode="277">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="553" EndNode="597">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

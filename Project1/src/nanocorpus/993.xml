@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Россия и Венгрия подписали соглашения о сотрудничестве в области нанотехнологийРоссия и Венгрия намерены укреплять сотрудничество в области нанотехнологий. Соответствующие соглашения о научно-техническом сотрудничестве были подписаны в пятницу в Будапеште в рамках завершившегося специального семинара-выставки.
+
+Трехдневные мероприятия были организованы Российским культурным центром в Будапеште при содействии торгового представительства РФ. Для участия в них из России прибыла группа ученых-специалистов из Технологического института сверхтвердых и новых углеродных материалов, а также представители министерства образования и науки.
+Российские специалисты провели презентацию-встречу в институте нанотехнологий Фонда прикладных исследований имени <Node id="751"/>Золтана Бая<Node id="762"/> в городе Мишкольц, где подписали соглашение о научно-техническом сотрудничестве. Аналогичные договоренности были достигнуты и с другим подразделением этого фонда – Институтом материаловедения.
+
+Как отметили в торговом представительстве, выставка привлекла серьезное внимание венгерских ученых, специалистов из Академии наук, государственных и частных структур, Национального ведомства по исследованиям и инновациям.
+В дальнейшем к этому сотрудничеству планируется привлечь российско-венгерское нанотехнологическое совместное предприятие «Наново», в задачи которого будет входить распространение результатов совместных исследований.
+<Node id="1395"/>http://www.vesti.ru/doc.html?…Институт<Node id="1433"/> нанотехнологий Фонда прикладных исследований имени Золтана Бая в городе <Node id="1506"/>Мишкольцhttp://www.nanonewsnet.ru/…-g-mishkoltsJV<Node id="1555"/> set up by Russian, Hungarian tech groupshttp://<Node id="1603"/>www.neurope.eu/view_news.php?…MTA<Node id="1636"/> MFA Budapest – Nanostructures <Node id="1667"/>Laboratoryhttp://www.nanowerk.com<Node id="1700"/>/…oratory.htmlИнтересно, а что презентовали-то? Что показывали? Вон, уж скоро <Node id="1778"/>год<Node id="1781"/> пройдёт, как создали этот Центр в Мишкольце… А что есть предъявить народу? Так что «дружба» и «сотрудничество» – это хорошо. А «в сухом остатке»-то что?.. Или ждут, когда ГК «Роснанотех» развернётся?…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1603" EndNode="1636">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1506" EndNode="1555">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="751" EndNode="762">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Золтан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1778" EndNode="1781">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1395" EndNode="1433">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1667" EndNode="1700">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

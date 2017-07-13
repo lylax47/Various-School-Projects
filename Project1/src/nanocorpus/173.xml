@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Глубокоуважаемые коллеги! 
+ 
+Это первый номер нашего информационного бюллетеня. 
+Мы бы, однако, хотели, чтобы этот бюллетень представлял собой форум 
+для общения заинтересованный людей в области <Node id="196"/>наноматериалов<Node id="210"/>. 
+ 
+Приглашаем Вас с удовольствием к сотрудничеству и ждем Ваших 
+заметок, материалов, предложений к интервью. 
+ 
+С уважением, 
+Е.А.Гудилин 
+ 
+ 
+    
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="196" EndNode="210">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

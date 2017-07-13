@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В связи с концом эры оптической <Node id="33"/>литографии<Node id="43"/> мировые чипмейкеры пока находятся в состоянии трудного выбора – какой из методов окажется оптимальным: <Node id="147"/>литография<Node id="157"/> с использованием экстремального ультрафиолета, иммерсионная лазерная 193-нм <Node id="234"/>литография<Node id="244"/> с двойным экспонированием, рентгеновская или многолучеая электронная <Node id="314"/>литографии<Node id="324"/>? Каждый из методов требует значительных первоначальных капитальных затрат, разработки новых материалов и самого литографического процесса.
+
+Решительные действия предприняла Европа. CEA-LETI (Electronics and Information Technology Laboratory of the French Atomic Energy Commission, Grenoble, Франция) официально запускает новую исследовательскую программу по безмасочной электронно-лучевой <Node id="714"/>литографии<Node id="724"/> (Maskless lithography – ML2) для 32-нм технологии. Результатом выполнения трехлетней программы станет поставка опытной установки в <Node id="856"/>конце 2010 г.<Node id="869"/> Программа, получившая название MAGIC – Maskless Lithography for IC Manufacturing (Безмасочная <Node id="964"/>литография<Node id="974"/> для изготовления <Node id="992"/>ИС<Node id="994"/>), будет финансироваться Европейской Комиссией. Фактически исследования будут сфокусированы на доработке существующего многолучевого метода компании Mapper Lithography BV (Delft, Голландия) и метода безмасочного проецирования компании IMS Nanofabrication AG (Vienna, Австрия). Будет также создана необходимая инфраструктура и разработаны методы коррекции эффекта близости.
+
+CEA-LETI возглавит консорциум MAGIC, в который также войдут компании IMS-chips (Stuttgart, Германия), Delong Instruments a.s. (Brno, Чешская республика), Fraunhofer Institutes (Германия), Synopsys International Ltd. (Dublin, Ирландия), STMicroelectronics (Geneva, Швейцария), Qimonda AG (Munich, Германия), Fachhochshule Vorarlberg GmbH (Dornbirn, Австрия), Fujifilm Electronics Material NV (Zwijndrecht, Бельгия) и KLA-Tencor Corp. (San Jose, Calif., США).
+
+<Node id="1827"/>В течение нескольких лет<Node id="1851"/> к чипмейкерам все больше приходило понимание, что стоимость изготовления масок для микроэлектронной технологии переднего края будет возрастать по пути от 45– к 32– и 22-нм. Потенциальное решение проблемы видится в безмасочной технологии, во всяком случае, для формирования рисунка критических слоев. Потенциальные барьеры на пути ML2 – это значительные первоначальные капитальные затраты, необходимость решения проблем стабильности луча и коррекции эффекта близости для многолучевого метода. Хотя проблема стоимости пока остается непреодолимой, другие технические проблемы успешно преодолеваются активными усилиями таких компаний, как STMicro, Qimonda и Taiwan Semiconductor Manfuacturing Co. Ltd.
+
+“Консорциума MAGIC, сориентированный исключительно на безмасочную <Node id="2617"/>литографию<Node id="2627"/>, придаст решению проблемы необходимую динамику, привлечет инвестиции, сформирует инфраструктуру, создаст критическое число результатов для принятия метода», – считает Laurent Pain, координатор проекта от CEA-LETI.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="2617" EndNode="2627">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="964" EndNode="974">
+</Annotation>
+<Annotation Id="2" Type="Литография" StartNode="714" EndNode="724">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1827" EndNode="1851">
+</Annotation>
+<Annotation Id="7" Type="Литография" StartNode="234" EndNode="244">
+</Annotation>
+<Annotation Id="8" Type="Литография" StartNode="314" EndNode="324">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="856" EndNode="869">
+</Annotation>
+<Annotation Id="10" Type="Литография" StartNode="147" EndNode="157">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="992" EndNode="994">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Литография" StartNode="33" EndNode="43">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

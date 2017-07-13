@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Международный экспресс под названием “нано” набирает ход. Не опоздала ли на него наша страна? Впишемся ли мы в общий процесс смены технологических эпох или у нас и в этой революции какой-то свой, особый путь? Власти в последнее время всячески демонстрируют готовность поддерживать науку, выводить разработки ученых на рынок. Одно за другим принимаются прямо-таки судьбоносные решения во благо зарождающейся наноиндустрии. Тут вам и госкорпорация с завидными ресурсами, и целый ворох разнообразных программ…С нескрываемым любопытством следят за новостями из России иностранные конкуренты. При этом охотно идут на контакт - хотят понять наши истинные возможности. Да нам и самим интересно, во что же все это выльется? Поэтому и появилось в “Поиске” специальное приложение, целиком посвященное одной, но воистину многогранной и многоликой теме. С помощью “Наноскопа” мы постараемся пристальнее всматриваться в происходящее - рассказывать о достижениях ученых, вместе с ними анализировать события, обсуждать возникающие проблемы и пути их решения. Присоединяйтесь! 
+ Основные материалы электронной версии спецвыпуска даны в PDF файлах внизу текста. Спецвыпуск подготовили: <Node id="1171"/>Светлана БЕЛЯЕВА<Node id="1187"/>, Юрий ДРИЗЕ, <Node id="1201"/>Ольга КОЛЕСОВА<Node id="1215"/>, <Node id="1217"/>Светлана КРЫМОВА<Node id="1233"/>, Андрей ПОНИЗОВКИН, <Node id="1254"/>Ольга ПРУДНИКОВА<Node id="1270"/>, Татьяна СИМОНОВА           </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="1254" EndNode="1270">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ольга</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1217" EndNode="1233">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Светлана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1171" EndNode="1187">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Светлана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1201" EndNode="1215">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ольга</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

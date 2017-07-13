@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В Санкт-Петербурге в ЦНИИ конструкционных материалов «Прометей»   будет создан технологический комплекс для получения <Node id="119"/>наноматериалов<Node id="133"/>. Он будет создан в 4 этапа. В <Node id="164"/>2007 году<Node id="173"/> планируется создать научно-исследовательский комплекс, в 2008 — научно-технологический комплекс по полимерным <Node id="284"/>наноматериалам<Node id="298"/>, в 2009 — научно-технологический комплекс по металлическим <Node id="358"/>наноструктурам<Node id="372"/>. В <Node id="376"/>2010 году<Node id="385"/> должен быть создан комплекс по изготовлению полуфабрикатов и заготовок из <Node id="460"/>наноматериалов<Node id="474"/>. Целью создания комплекса является освоение технологии получения <Node id="540"/>наноматериалов<Node id="554"/>, получение же в промышленном масштабе планируется после <Node id="611"/>2011 года<Node id="620"/>. 
+ 
+Технологический комплекс создаётся в рамках федеральной программы «Развитие <Node id="701"/>наноструктур<Node id="713"/> в Российской Федерации», на его финансирование выделено <Node id="770"/>более 1.5 млрд. рублей<Node id="792"/> на <Node id="796"/>4 года<Node id="802"/>. 
+ 
+ЦНИИ «Прометей» был основан в <Node id="837"/>1939 году<Node id="846"/> на базе броневой лаборатории Ижорского завода. В данный момент институт занимается разработкой материалов для нефтегазовой промышленности, судостроения, машиностроения, энергетики и других областей. Институт имеет 6-летний опыт работы в области разработки <Node id="1103"/>наноматериалов<Node id="1117"/>. В частности, были разработаны материалы магнитных классов (э/м изоляция и др.), каталитические материалы для ускорения химических реакций, композитные материалы на полимерной и металлической основе и др. 
+ 
+Сегодня мировой рынок <Node id="1348"/>наноматериалов<Node id="1362"/> составляет <Node id="1374"/>около двух миллиардов долларов<Node id="1404"/>, и ожидается его рост до 4,23 млрд. к <Node id="1443"/>2010 году<Node id="1452"/>.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="796" EndNode="802">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="164" EndNode="173">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="770" EndNode="792">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="540" EndNode="554">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1103" EndNode="1117">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="837" EndNode="846">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="284" EndNode="298">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="376" EndNode="385">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="1348" EndNode="1362">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="376" EndNode="385">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="611" EndNode="620">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="611" EndNode="620">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="460" EndNode="474">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1374" EndNode="1404">
+</Annotation>
+<Annotation Id="14" Type="Наноструктура" StartNode="358" EndNode="372">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1443" EndNode="1452">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="837" EndNode="846">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1443" EndNode="1452">
+</Annotation>
+<Annotation Id="19" Type="Наноматериал" StartNode="119" EndNode="133">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="164" EndNode="173">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="701" EndNode="713">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

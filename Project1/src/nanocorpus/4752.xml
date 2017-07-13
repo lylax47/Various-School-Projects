@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из США удалось впервые проткнуть живую клетку <Node id="54"/>нанотрубкой<Node id="65"/> без ее гибели и доставить в клеточную цитоплазму «полезный груз».
+
+Как сообщает PhysOrg, для того, чтобы изучить процессы, проходящие внутри клеточной цитоплазмы или в органеллах необходим специальный инструмент, позволяющий проникать внутрь клеток без существенного повреждения мембраны.
+
+Наиболее подходящими на роль «иголки» в наноразмерном диапазоне являются <Node id="429"/>углеродные <Node id="440"/>нанотрубки<Node id="450"/>. Они имеют характерную игловидную форму и достаточно гибки и жестки, чтобы проткнуть мембрану. Однако самое главное то, что с их помощью можно доставлять внутрь клетки лекарства и фрагменты ДНК.
+
+Ученые <Node id="654"/>Синг Чен<Node id="662"/> (Xing Chen), Андракс Кис (Andrax Kis), <Node id="702"/>Алекс Зеттл (Alex Zettl) и <Node id="729"/>Каролина Берточчи<Node id="746"/> (Carolyn Bertozzi) из Калифорнийского Университета (University of California) и Национальной Лаборатории Беркли (Berkeley National Laboratory) представили «микро-иголку» на основе <Node id="927"/>углеродной <Node id="938"/>нанотрубки<Node id="948"/>, способную протыкать клеточную мембрану без ее повреждения даже при повторной «инъекции» через полчаса.
+
+Предыдущие методы «протыкания» мембраны <Node id="1094"/>углеродными <Node id="1106"/>нанотрубками<Node id="1118"/> приводили к гибели клетки <Node id="1145"/>через несколько секунд<Node id="1167"/> после проникновения <Node id="1188"/>нанотрубки<Node id="1198"/> внутрь клетки.
+
+Как говорят<Node id="1226"/> ученые, им впервые удалось создать инструмент с точным пространственным позиционированием, способный доставлять внутрь клетки дозированные порции различных молекул и отрезков ДНК.
+
+<Node id="1408"/>Нанотрубки<Node id="1418"/> безболезненно проникают внутрь клеточной мембраны благодаря малому диаметру. Так, например, отверстие в клеточной мембране, оставленное <Node id="1555"/>нанотрубкой<Node id="1566"/> диаметром 1 нанометр, достаточно быстро затягивается благодаря липидной диффузии – пассивного перемещения молекул мембраны.
+
+Установка исследователей состоит из зонда атомно-силового микроскопа, к которому прикреплена многослойная <Node id="1798"/>углеродная <Node id="1809"/>нанотрубка<Node id="1819"/>. Сам же атомно-силовой микроскоп управляет иголкой с нанометровым разрешением.В эксперименте, который продемонстрировали ученые, груз, который <Node id="1963"/>нанотрубка<Node id="1973"/>-игла должна была доставить внутрь клетки, состоял из флуоресцентных <Node id="2042"/>квантовых точек<Node id="2057"/>.
+
+Целью наноиглы была культура HeLa – раковых клеток эпителия человека. После успешного позиционирования иглы (на это ушло <Node id="2181"/>около 30 минут<Node id="2195"/>) и последующей инъекции <Node id="2220"/>квантовых точек<Node id="2235"/>, ученые могли наблюдать кластеры <Node id="2269"/>квантовых точек<Node id="2284"/> размером от 50 до 100 нанометров внутри клетки.
+
+Как говорят ученые, доставка генов и молекул РНК внутрь клетки – одно из потенциальных применений нового инструмента. Наноигла также позволит больше узнать о внутриклеточных процессах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="938" EndNode="948">
+</Annotation>
+<Annotation Id="2" Type="встречи_и_переговоры" StartNode="702" EndNode="1226">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="1094" EndNode="1118">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="54" EndNode="65">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="2220" EndNode="2235">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1963" EndNode="1973">
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="2042" EndNode="2057">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="1798" EndNode="1819">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="440" EndNode="450">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1408" EndNode="1418">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="654" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Синг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1145" EndNode="1167">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1106" EndNode="1118">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="927" EndNode="948">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1809" EndNode="1819">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="1188" EndNode="1198">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="1555" EndNode="1566">
+</Annotation>
+<Annotation Id="26" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="729" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Каролина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="2181" EndNode="2195">
+</Annotation>
+<Annotation Id="31" Type="Углеродная+нанотрубка" StartNode="429" EndNode="450">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Квантовая+точка" StartNode="2269" EndNode="2284">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

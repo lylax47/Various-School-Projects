@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Онлайн-курс Оксфордского университета по нанотехнологиям, стартовавший в <Node id="74"/>прошлом году<Node id="86"/>, принимает заявки абитуриентов.
+
+Оксфордский курс состоит из трёх десятинедельных модулей, проходить которые можно из любой точки мира:
+
+(<Node id="225"/>1 октября 2007<Node id="239"/>) The Wider Context of Nanotechnology – курс для специалистов из любой области, рассказывающий о вопросах использования нанотехнологий и их социальных и экологических последствиях;
+
+(<Node id="422"/>26 ноября 2007<Node id="436"/>) The Fundamental Science of Nanotechnology – более глубокое изучение научных аспектов нанотехнологий для людей, имеющих техническое образование, охватывающее математические основы явлений наномира;
+
+(<Node id="637"/>10 марта 2008<Node id="650"/>) &lt;a href= <Node id="661"/>http://www.conted.ox.ac.uk/…risation.asp&gt;Fundamental<Node id="713"/> Characterization for Nanotechnology – курс, также предназначенный для слушателей со знанием физики, и направленный на изучения методов характеризации структуры и состава нанообъектов.
+
+По окончании курса слушатели получат сертификаты о дополнительном образовании (магистерский уровень). Кроме того, каждый из модулей может изучаться просто как самостоятельный короткий курс. Заявления от желающих пройти весь курс принимаются до конца <Node id="1149"/>августа<Node id="1156"/>, а на участие в отдельных модулях – до самого <Node id="1203"/>дня<Node id="1206"/> начала модуля.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1149" EndNode="1156">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1203" EndNode="1206">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="637" EndNode="650">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="422" EndNode="436">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="225" EndNode="239">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="661" EndNode="713">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="74" EndNode="86">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

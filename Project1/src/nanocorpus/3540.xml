@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ
+
+РАСПОРЯЖЕНИЕ от <Node id="53"/>2 июня 2008 г.<Node id="67"/> № 788-р
+
+1. Принять предложение Минобрнауки России о возложении на государственное учреждение «Государственная дирекция целевой научно-технической программы», находящееся в ведении Роснауки, выполнения функций дирекции при осуществлении текущего управления реализацией федеральной целевой программы «Развитие инфраструктуры наноиндустрии в Российской Федерации на <Node id="432"/>2008—2010 годы<Node id="446"/>», утвержденной постановлением Правительства Российской Федерации от <Node id="515"/>2 августа 2007 г.<Node id="532"/> № 498 «О федеральной целевой программе «Развитие инфраструктуры наноиндустрии в Российской Федерации на <Node id="637"/>2008—2010 годы<Node id="651"/>».
+ 2. Роснауке предусмотреть финансирование деятельности указанного в пункте 1 настоящего распоряжения учреждения, связанной с выполнением функций дирекции при осуществлении текущего управления реализацией федеральной целевой программы «Развитие инфраструктуры наноиндустрии в Российской Федерации на <Node id="953"/>2008—2010 годы<Node id="967"/>», в объемах, предусмотренных указанной Программой.
+ 3. Признать утратившим силу распоряжение Правительства Российской Федерации от <Node id="1099"/>3 ноября 2007 г.<Node id="1115"/> № 1557-р (Собрание законодательства Российской Федерации, 2007, № 46, ст. 5618).
+
+Председатель Правительства
+
+Российской Федерации <Node id="1247"/>В. Путин<Node id="1255"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="53" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="432" EndNode="446">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="637" EndNode="651">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1247" EndNode="1255">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Путин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="953" EndNode="967">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1099" EndNode="1115">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="515" EndNode="532">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

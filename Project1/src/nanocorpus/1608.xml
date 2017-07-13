@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии будут узаконеныИз Гос. Думы сообщает собкор KMNews Константин ВакуровЗакон о корпорации нанотехнологий рекомендован к первому чтению
+На заседании Комитета по экономической политике, предпринимательству и туризму <Node id="227"/>8 июня<Node id="233"/> было принято решение рекомендовать Государственной Думе принять в первом чтении законопроект «О Российской корпорации нанотехнологий».
+
+Об этом сообщил журналистам глава комитета Евгений Федоров.
+Евгений Федоров 
+"<Node id="448"/>Внесенный законопроект был разработан совместно с Правительством РФ, он предусматривает создание и порядок деятельности Российской корпорации нанотехнологий<Node id="604"/>, – сказал Е.Федоров<Node id="624"/>. – Создание такой организации вытекает из президентского плана национального развития России и утвержденной Президентом Стратегии развития наноиндустрии. Корпорация будет являться некоммерческой организацией, ее деятельность будет направлена на реализацию государственной политики в научно-технической и инновационной сфере.
+  
+Наша основная цель – содействие переходу экономики на инновационный путь развития, организационная и финансовая поддержка перспективных проектов в области нанотехнологий и наноиндустрии".
+ 
+Глава комитета пояснил, что корпорация будет осуществлять отбор и финансирование проектов, а в отдельных случаях выполнять функции государственного заказчика по реализации федеральных целевых программ в области нанотехнологий. <Node id="1370"/>Управление Корпорацией<Node id="1392"/> будет строиться на принципах единоначалия и коллегиальности.
+ 
+Органами управления Корпорацией станут наблюдательный совет, правление и генеральный директор Корпорации. Вообще же структура законопроекта во многом схожа с недавно принятым нами Федеральным законом «О банке развития».
+  
+Мы не стали изобретать велосипед там, где уже есть выработанные механизмы. Законопроектом устанавливается широкая компетенция <Node id="1805"/>Правительства<Node id="1818"/>. В частности, оно формирует наблюдательный совет Корпорации, одобряет Регламент Корпорации. Но главное – <Node id="1924"/>Правительство<Node id="1937"/> будет вправе определять объемы имущественного взноса Российской Федерации и порядок дальнейшего финансирования деятельности Корпорации.
+ В законопроекте предусмотрены и механизмы контроля деятельности Корпорации: представление в <Node id="2167"/>Правительство<Node id="2180"/> и опубликование годового отчета, бухгалтерского баланса; создание соответствующей Ревизионной комиссии.
+<Node id="2285"/>Евгений Федоров считает, что отдельные уточнения и поправки при необходимости можно будет внести во втором чтении<Node id="2398"/>.
+<Node id="2400"/>http://www.km.ru/news/view.asp?…Ну<Node id="2434"/> вот и славненько!.. Если ребята успеют провести чтения и принять Закон до летних каникул, то есть надежда, что РГКН может быть создана уже в <Node id="2576"/>текущем году<Node id="2588"/>, и (давно ожидаемая) «могучая отрасль» начнёт функционировать хотя бы <Node id="2659"/>с Нового года<Node id="2672"/>.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="2285" EndNode="2398">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="227" EndNode="233">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="448" EndNode="2398">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="1370" EndNode="1392">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Управление Корпорацией</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="448" EndNode="2398">
+</Annotation>
+<Annotation Id="8" Type="упоминается_с" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="448" EndNode="624">
+</Annotation>
+<Annotation Id="12" Type="Властная_Структура" StartNode="1805" EndNode="1818">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Властная_Структура" StartNode="2167" EndNode="2180">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="448" EndNode="624">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="2659" EndNode="2672">
+</Annotation>
+<Annotation Id="19" Type="цитаты" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="2285" EndNode="2398">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="2576" EndNode="2588">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="2400" EndNode="2434">
+</Annotation>
+<Annotation Id="25" Type="цитаты" StartNode="448" EndNode="604">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="упоминает" StartNode="448" EndNode="2398">
+</Annotation>
+<Annotation Id="26" Type="Властная_Структура" StartNode="1924" EndNode="1937">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="упоминает" StartNode="448" EndNode="2398">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Несмотря на то, что <Node id="21"/>наночастицы<Node id="32"/> уже широко применяются, например, в косметике и материалах для упаковки пищевых продуктов, а выбросы продуктов переработки топлива содержат значительное количество частиц наноразмера, мы по-прежнему мало знаем о последствиях их воздействия на здоровье. По мере того, как использование <Node id="318"/>наночастиц<Node id="328"/> в потребительских товарах возрастает, отслеживание результатов, тестирование и законодательство отстают все больше и больше.
+
+Директивный документ по химии REACH, изданный Европейским Союзом, даже не упоминает <Node id="539"/>наноматериалы<Node id="552"/>. Генеральный директор Института Безопасности Труда и Охраны Здоровья Европейского Союза Харри Вайнио<Node id="653"/> <Node id="654"/>(Harri Vainio) тем не менее высказал свои серьезные опасения в том, что <Node id="726"/>наночастицы<Node id="737"/> могут стать асбестом <Node id="759"/>21 века<Node id="766"/> и, соответственно, серьёзной угрозой здоровью человека.
+
+Исследовательские группы в Финляндии (Технологический Университет Тампере и Технологический Университет Хельсинки) и США (Университет Клемсона) провели обширные исследования взаимодействия углеродных <Node id="1024"/>наночастиц<Node id="1034"/> с живой клеткой. Результаты этих исследований дают полные основания для серьезного беспокойства.
+
+Результаты исследования показывают, что некоторые культуры клеток, будучи подвергнуты воздействию <Node id="1231"/>фуллеренов<Node id="1241"/> (то есть, <Node id="1252"/>наночастицам<Node id="1264"/> углерода, имеющим различную объемную структуру, например, сферическую, цилиндрическую или эллипсоидную), оказываются неповрежденными и даже никак не затронутыми. Клетки также оказываются не затронутыми в присутствии <Node id="1481"/>наночастиц<Node id="1491"/> галловой кислоты, которая имеется практически во всех растениях (например, чае, дубовой коре, дубильных экстрактах и т.д.). Однако, когда <Node id="1630"/>фуллерены<Node id="1639"/> и галловая кислота присутствуют в клеточной культуре совместно, они формируют соединения, которые пристают к поверхности клетки и вызывают ее гибель.
+
+Результаты исследований были недавно опубликованы [(E. Salonen, S. Lin, M. L. Reid, M. Allegood, X. Wang, A. M. Rao, I. Vattulainen, P.-C. Ke. Real-time translocation of fullerene reveals cell contraction. Small 4, 1986–1992 (2008)].
+
+Исследования и их результаты показывают как трудно выделить эффекты воздействия <Node id="2106"/>наночастиц<Node id="2116"/> на организм. Даже если какая-то конкретная <Node id="2160"/>наночастица<Node id="2171"/> и не является токсичной сама по себе, то взаимодействия между ней и другими частицами или веществами в организме человека могут вызывать серьезные проблемы функционирования клеток. Количество возможных комбинаций <Node id="2385"/>наночастиц<Node id="2395"/> и различных биомолекул, естественно, бессчетно. Таким образом, систематизировать эти исследования представляется практически невозможным.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1252" EndNode="1264">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="539" EndNode="552">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1024" EndNode="1034">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="21" EndNode="32">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="2160" EndNode="2171">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="759" EndNode="766">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="318" EndNode="328">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="2385" EndNode="2395">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2106" EndNode="2116">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="1630" EndNode="1639">
+</Annotation>
+<Annotation Id="14" Type="работает" StartNode="653" EndNode="654">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="653" EndNode="654">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Фуллерен" StartNode="1231" EndNode="1241">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="726" EndNode="737">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1481" EndNode="1491">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

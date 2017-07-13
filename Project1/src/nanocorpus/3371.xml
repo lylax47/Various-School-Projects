@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>В Иране будет проходить заседание МКСН в <Node id="41"/>июне 2011<Node id="50"/> годаКандидатура Ирана как хозяина 12-го заседания <Node id="101"/>Международного комитета по стандартизации<Node id="142"/> в области нанотехнологии (МКСН) была согласована в ходе 6-го заседания этого Комитета (ISO/TC229), прошедшего недавно во Франции.
+
+Согласно данным сайта INI (Iranian Nanotechnology Initiative), это произошло в результате обсуждения кандидатуры Ирана во время заседания консультативной группы председателя Комитета (Chairman Advisory Group – CAG) после консультаций с Dr. Peter Hatto – председателем Комитета (ISO/TC229) и в соответствии с формальной заявкой Ирана. Заявка Ирана была удовлетворена, и Иран был избран хозяином 12-го заседания МКСН, которое состоится в <Node id="710"/>июне 2011 года<Node id="724"/>.
+Dr. Peter Hatto
+Согласно данным этого отчёта, в <Node id="774"/>настоящее время<Node id="789"/> 30 стран являются полноправными членами, а 10 стран – состоят наблюдателями МКСН. В ходе заседания Комитета (ISO/TC229) в его работе принимают участие различные международные организации, а на его заседаниях присутствуют до 150–200 членов из различных стран мира.
+Iran, host of International Committee Meeting of Nanotechnology Standardizationhttp://<Node id="1140"/>www.nano.ir/en/news.php?…A<Node id="1166"/> Focus on Standardisation
+Dr Peter Hatto, Chairman of ISO/TC229, Nanotechnologies and Director of Research, IonBond Ltd
+<Node id="1286"/>http://www.safenano.org<Node id="1309"/>/…tionISO.aspxОказывается, работы в этой области: метрология, стандартизация в области НМ – ведутся уже давно и систематически. Избрание Ирана хозяином одного из заседаний МКСН свидетельствует о значительном развитии работ в области нанотехнологий в этой стране…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="710" EndNode="724">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="774" EndNode="789">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="101" EndNode="142">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Международного комитета по стандартизации</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="41" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1286" EndNode="1309">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1140" EndNode="1166">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

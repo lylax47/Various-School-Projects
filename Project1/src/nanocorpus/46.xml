@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт проблем сверхпластичности металлов граница зерен , интерметаллиды, многоуровневая структура , нанокристаллические  материаллы    <Node id="140"/>Наноматериалы<Node id="153"/> Физическая химия   Исследования многоуровневой структуры и физических свойств нанокристаллических (НК) материалов определение роли границ зерен в формировании свойств таких материалах                             Мулюков Радик Рафикович , заведующий лабораторией, доктор наук Исследования <Node id="442"/>последних лет<Node id="455"/> 
+ 
+Установлено, что структура НК металлов, сплавов и интерметаллидов на микро-, атомном, сверхтонком и электронном уровнях обладает особенностями, отличающими ее от структуры крупнозернистых материалов. Обнаружено, что эти особенности приводят к существенным отличиям в поведении упругих, демпфирующих, прочностных, тепловых, электрических, магнитных, диффузионных свойств от поведения свойств крупнозернистых материалов. Причем эти отличия обусловлены не только малым размером зерен в НК образцах, но и большой долей и особым состоянием границ зерен в них.   Разработаны новые способы формирования нанокристаллической структуры в материале:
+
+1.кручение под квазигидростатическим давлением
+2.равноканальное угловое прессование    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="442" EndNode="455">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="140" EndNode="153">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

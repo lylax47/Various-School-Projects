@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Казани проходит первый молодежный семинар по нанотехнологиямКазань, <Node id="70"/>27 февраля<Node id="80"/> – Сегодня в КГТУ-КХТИ имени Кирова состоится 1-й молодежный семинар по нанотехнологиям.
+Его участниками станут студенты КХТИ. Организатором мероприятия выступает молодежная общественная организация «Казанский клуб нанотехнологий».
+
+В ходе семинара будут затронуты следующие вопросы:
+ «Нанотехнологии в нефтехимии», «Методы математического моделирования нефтедобычи», «Экономический потенциал Татарстана в области нанотехнологий» и другие. 
+В ближайших планах МОО «Казанский клуб нанотехнологий» – проведение в <Node id="591"/>апреле<Node id="597"/> первой в России городской олимпиады по нанотехнологиям среди студентов.
+<Node id="670"/>http://tatar-inform.ru/…02/27/99885/В<Node id="707"/> КГУ подвели итоги научной деятельности
+Казань, <Node id="755"/>19 февраля<Node id="765"/> – Сегодня в Казанском государственном университете состоялось заседание ректората под председательством ректора КГУ <Node id="882"/>Мякзюма Салахова<Node id="898"/>.
+
+Проректор по научной работе Данис Нургалиев представил участникам заседания отчет о научной деятельности Казанского государственного университета за <Node id="1050"/>2007 год<Node id="1058"/>, сообщает пресс-центр вуза.
+В своем сообщении он прежде всего охарактеризовал источники финансовой поддержки ведения научно-исследовательской работы. Среди них – средства конкурсного финансирования научных исследований по научным, научно-техническим программам министерств и ведомств, гранты, средства, выделяемые на развитие приборной базы научных исследований и другие.
+
+Особое внимание он уделил анализу научных публикаций ученых КГУ, подчеркнув, что их количество за <Node id="1530"/>последние 5 лет<Node id="1545"/> возросло. Ежегодно около 500 статей размещаются на страницах зарубежных журналов. Каждый <Node id="1635"/>год<Node id="1638"/> свыше 50 сотрудников защищают кандидатские диссертации, а 10 до 15 работников – докторские диссертации. В <Node id="1745"/>2007 году<Node id="1754"/> <Node id="1755"/>55 процентов<Node id="1767"/> аспирантов завершили аспирантуру с защитой диссертации.
+
+Как проинформировал Данис Нургалиев, активизировалась научная деятельность студентов. Возросло число студенческих научных публикаций, в <Node id="1961"/>2007 году<Node id="1970"/> их количество составило более 1200. Студенты и молодые ученые являются инициаторами многих научных мероприятий.
+В университете в <Node id="2100"/>настоящее время<Node id="2115"/> создается Студенческий клуб нанотехнологий по инициативе студентов Химического института КГУ.
+
+Докладчик отметил, что в последнее время активизировалась работа, связанная с патентованием изобретений. Сейчас в Российском агентстве по патентам и товарным знакам от КГУ проходят регистрацию 36 заявок.
+<Node id="2415"/>http://www.tatar-inform.ru/…02/19/98460/Казанский<Node id="2464"/> государственный технологический университет <Node id="2509"/>(КГТУ/КХТИ)http://www.kstu.ru/Ну<Node id="2541"/> вот, и среди студентов возникают различные формы самоуправления. Интересно, что и здесь нанотехнологии оказывают своё стимулирующее влияние… ;-))) Молодцы казанцы! Рано или поздно бывшие студенты вырастут и станут руководителями коллективов, больших или маленьких, будут работать с людьми, руководить ими. И вот практика, накопленная ими при работе в студенческом клубе, не пройдёт даром. Тем более это важно в области развития нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="755" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2100" EndNode="2115">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1755" EndNode="1767">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1635" EndNode="1638">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2509" EndNode="2541">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="591" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1745" EndNode="1754">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="670" EndNode="707">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1961" EndNode="1970">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="882" EndNode="898">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салахов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="1961" EndNode="1970">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1530" EndNode="1545">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="2415" EndNode="2464">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="70" EndNode="80">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="1050" EndNode="1058">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1745" EndNode="1754">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="1050" EndNode="1058">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

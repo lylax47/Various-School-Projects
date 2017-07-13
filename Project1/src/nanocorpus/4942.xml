@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На предприятиях холдинга «Юнона» будут применяться нанотехнологии<Node id="65"/>25.04.2008<Node id="75"/> – Холдинг «Юнона» <Node id="94"/>совместно<Node id="103"/> с УрОРАН и ГК «Роснанотех» начал разработку нескольких проектов, основанных на применении нанотехнологий, которые будут внедряться на фармацевтическом производстве.
+Александр ПетровКак сообщил сегодня генеральный директор холдинга «Юнона» Александр Петров<Node id="359"/>,<Node id="360"/> применение нанотехнологий в фармацевтическом производстве в будущем позволит решить несколько серьезных задач в области лечения раковых заболеваний. Среди таких задач – направленная доставка лекарственных препаратов в опухоль (липосомальная технология), диагностика и мониторинг злокачественных образований при помощи наносистем.
+
+<Node id="692"/>Кроме того, по словам Петрова, идет работа по созданию технологии с применением <Node id="772"/>наночастиц<Node id="782"/> природной целлюлозы в составе лекарственных препаратов<Node id="837"/>. Предполагается, что внедрение наноцеллюлозы будет мешать быстрому выведению лекарств из организма. Это позволит добиться увеличения эффективности препаратов и продления срока их действия на организм.
+
+Наноразработки, <Node id="1056"/>как отметил г-н Петров, <Node id="1080"/>холдинг ведет под началом специалистов Российского онкологического научного центра им. <Node id="1167"/>Блохина<Node id="1174"/> Российской академии медицинских наук<Node id="1211"/>. Как известно, сейчас в РАМН идет работа по созданию отделения по применению нанотехнологий и <Node id="1306"/>наноматериалов<Node id="1320"/> в медицине, это часть реализации комплексной программы по развитию нанотехнологий на <Node id="1406"/>2008–2015 <Node id="1416"/>годы<Node id="1420"/>.http://www.nep08.ru/…/25/nanoteh/Холдинг<Node id="1461"/> «Юнона»
+620028, г. Екатеринбург, район ВИЗ, ул. Кирова, дом 28, корпус 1 (2й этаж)
+Контакты:
+
+(343) 376–14–64 (городской) (343) 246–91–56 (факс)
+<Node id="1607"/>http://www.blizko.ru/firms/128947Ну<Node id="1642"/> вот, наглядный пример коммерциализации продуктов и технологий, разработанных учёными в результате НИОКР. Смелые ребята! Успехов им и новых достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="359" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="65" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">04</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="772" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="1080" EndNode="1211">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="692" EndNode="1211">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1167" EndNode="1174">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается_с</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Блохина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="692" EndNode="1211">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1056" EndNode="1211">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="692" EndNode="1211">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="692" EndNode="837">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="1080" EndNode="1211">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="1306" EndNode="1320">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="упоминается_с" StartNode="1080" EndNode="1211">
+</Annotation>
+<Annotation Id="17" Type="упоминает" StartNode="692" EndNode="1211">
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="1080" EndNode="1211">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="сотрудники" StartNode="359" EndNode="360">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="1056" EndNode="1211">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="1080" EndNode="1211">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="1406" EndNode="1420">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="автор" StartNode="692" EndNode="837">
+</Annotation>
+<Annotation Id="24" Type="Url" StartNode="1416" EndNode="1461">
+</Annotation>
+<Annotation Id="27" Type="Партнеры_Клиенты" StartNode="94" EndNode="103">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Url" StartNode="1607" EndNode="1642">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

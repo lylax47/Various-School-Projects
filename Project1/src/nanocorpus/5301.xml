@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>15 октября<Node id="12"/> вновь открывает свои двери Школа-студия научной журналистики, организованная агентством «ИнформНаука», журналом «Химия и жизнь» и изданием "Наука и технологии России" - <Node id="182"/>STRF.ru<Node id="189"/> при поддержке федерального агентства Роснаука. В Школу-студию могут записаться аспиранты, молодые ученые и молодые специалисты с естественно-научным образованием. 
+ 
+<Node id="356"/>Наука<Node id="361"/> проникла во все сферы нашей жизни, поэтому интерес к достижениям науки, а также последствиям их использования, возрастает с каждым <Node id="493"/>годом<Node id="498"/>. Кто расскажет обо всем этом обществу? Грамотные научные журналисты. Но их не так много, как хотелось бы. Ни одно высшее учебное заведение не готовит научных журналистов, а спрос на них тем временем растет – в информационных агентствах, в электронных изданиях, в бумажных СМИ, на радио и телевидении. Чтобы хоть отчасти насытить эту потребность, и собирается Школа-студия научной журналистики. 
+ 
+Школа-студия приглашает аспирантов, молодых ученых и молодых специалистов в области естественных наук. Опыт показывает, что обучить биолога, физика и химика основам журналистского ремесла проще, чем ввести гуманитария в мир современной науки. <Node id="1139"/>Наука<Node id="1144"/> невероятно усложнилась, популярно писать о ней не так просто, поэтому естественно-научное образование, несомненно, облегчит работу начинающим журналистам. 
+ 
+Кстати, у Школы-студии научной журналистики вполне солидная история. Впервые она начала собираться в редакции журнала «Химия и жизнь» еще <Node id="1441"/>в конце 70-х годов<Node id="1459"/>. Последняя школа-студия проводила занятия <Node id="1502"/>семь лет назад<Node id="1516"/>. Ее выпускники сегодня работают в редакциях журналов «Химия и жизнь», агентстве «ИнформНаука», в журнале «Наука и жизнь» и «Вокруг света», в «Аргументах и фактах», «Независимой газете» и других изданиях. 
+ 
+Занятия проходят бесплатно один раз в <Node id="1762"/>неделю<Node id="1768"/>, по средам, с 18.00 до 21.00. Всего десять занятий могут изменить вашу судьбу. Но для этого надо записаться в Школу-студию – до <Node id="1897"/>13 октября<Node id="1907"/> прислать по электронной почте на <Node id="1941"/>redaktor@hij.ru<Node id="1956"/> письмо (в теме написать «Школа-студия»). В письме указать: 
+   Имя, отчество, фамилию — полностью.   Электронный адрес, телефон.   Образование (какой институт закончили, когда).   Место работы/учебы.   
+Место занятий будет уточнено в ответном письме. А для тех, кто проживает не в Москве, <Node id="2246"/>весной 2009 года<Node id="2262"/> планируется заочная Школа-студия. 
+ 
+Все вопросы по телефонам: +7 (499) 978 87 63, +7 (495) 930 87 07. 
+ <Node id="2368"/>Л.Стрельникова<Node id="2382"/>  Главный редактор журнала «Химия и жизнь», организатор заседаний «Научного кафе» по нанотехнологиям, участник организационного собрания по созданию Нанотехнологического сообщества РФ, член клуба научных журналистов </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2368" EndNode="2382">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стрельников</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2246" EndNode="2262">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="182" EndNode="189">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1441" EndNode="1459">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="493" EndNode="498">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1897" EndNode="1907">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Электронная_почта" StartNode="1941" EndNode="1956">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="356" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1139" EndNode="1144">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1762" EndNode="1768">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1502" EndNode="1516">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="2" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

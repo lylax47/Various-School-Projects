@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+ОАО “НИЦПВ” и ОАО “Концерн “Наноиндустрия” приглашают специалистов научно-производственных предприятий посетить семинар “Метрология, измерения и стандартизация в нанотехнологиях", который пройдет в рамках научно-практической конференции выставки “Метрология-2008”. 
+ 
+На семинаре выступят с докладами и ответят на актуальные вопросы ген.директор ОАО “НИЦПВ”, д.ф-м.н. Павел Андреевич Тодуа, ген.директор ОАО “Концерн “Наноиндустрия, д.т.н. Михаил Арсенович Ананян и ведущие сотрудники этих организаций. 
+ 
+Семинар состоится <Node id="526"/>05 июня 2008 года<Node id="543"/> с 11.00 до 13.00 в Москве, на ВВЦ, павильон №55 (“Электрификация”) в конференц-зале выставки “Метрология-2008”. 
+ 
+Бесплатное приглашение для специалистов и представителей СМИ на посещение выставки и научно-практической конференции можно распечатать по ссылке.  
+Расписание научно-практической конференции выставки “Метрология-2008” можно ознакомиться на сайте metrol.expoprom.ru.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="526" EndNode="543">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Роснанотеху» могут урезать содержаниеКо второму чтению депутаты внесут поправки в законопроект о госкорпорациях по нанотехнологиям. Расходы на содержание технологической корпорации могут быть урезаны
+На <Node id="204"/>прошлой неделе<Node id="218"/> в первом чтении законопроекты о госкорпорациях по нанотехнологиям и ЖКХ депутаты одобрили, и теперь собираются их доработать ко второму чтению. На развитие нанотехнологий предназначается <Node id="406"/>130 млрд руб.<Node id="419"/>
+
+Основные претензии у депутатов к госкорпорации по нанотехнологиям. “Роснанотех” будет наделен функциями госоргана и бизнес-структуры одновременно, это вызвало недовольство комитет по экономической политике. Председатель комитета Евгений Федоров уверен – это противоречит принципу разделения функций государства и бизнеса и способно вызвать конфликт интересов внутри госкорпорации.
+
+Государству законопроект предлагает отвечать по обязательствам “Роснанотеха” (и наоборот). Взаимной ответственности быть не должно, говорится в заключении комитета. Не предусмотрено ее, например, в законе о Банке развития, напоминает Федоров.
+Евгений Федоров
+Комитет не устроило также, что на “Роснанотех”, который будет заниматься предпринимательской деятельностью, не распространяется закон о банкротстве. Уточнить это положение рекомендует и правительство.
+
+Все комитеты, давшие заключения на законопроект о создании “Роснанотеха”, уверены, что разрешить госкорпорации ежегодно тратить <Node id="1392"/>10%<Node id="1395"/> выделяемых ей средств на административно-управленческие расходы — это уже чересчур.
+ 
+“Эта величина представляется завышенной, учитывая средства, которые выделяются на развитие нанотехнологий”, — пишет председатель комитета по образованию Николай Булаев<Node id="1649"/>.<Node id="1650"/>
+ 
+Из законопроекта неясно, на что будут тратиться эти деньги, замечает эксперт по науке Госдумы Владимир Бабкин. Так думает и председатель комитета по промышленности Мартин Шаккум<Node id="1830"/>,<Node id="1831"/> предлагающий устанавливать предельную сумму административных трат в абсолютном значении или отдать их определение наблюдательному совету.
+
+Комитет по промышленности предлагает, чтобы наблюдательный совет “Роснанотеха” утверждался правительством по представлению парламента, а не самостоятельно.
+
+Однако министр образования и науки <Node id="2163"/>Андрей Фурсенко утверждает, что <Node id="2195"/>10%<Node id="2198"/> на содержание нанокорпорации — это не просто административные расходы, а суммы, которые пойдут на сложные инновационные проекты, требующие независимой экспертизы, анализа, прогнозов<Node id="2380"/>.
+
+На реализацию сложных проектов в соответствии с западными стандартами выделяется 5–<Node id="2466"/>10%<Node id="2469"/> бюджета компании, отмечает замдиректора <Node id="2510"/>Межведомственного<Node id="2527"/> аналитического центра Юрий Симачев. По <Node id="2567"/>его<Node id="2570"/> мнению, “Роснанотеху” будет достаточно <Node id="2610"/>7%<Node id="2612"/>.
+<Node id="2614"/>http://www.opec.ru/news_doc.asp?…Основная<Node id="2655"/> битва началась. И, как обычно, это битва за уровень зарплат. С другой стороны, депутаты, наверное, завидуют и хоть в чём-то норовят ущемить будущих «наночиновников»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="2195" EndNode="2198">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="204" EndNode="218">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="1649" EndNode="1650">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2510" EndNode="2527">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">замдиректора</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Межведомственного</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="2466" EndNode="2469">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2567" EndNode="2570">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2614" EndNode="2655">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="1830" EndNode="1831">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="1830" EndNode="1831">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="406" EndNode="419">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="2610" EndNode="2612">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="2163" EndNode="2380">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="2163" EndNode="2380">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Процент" StartNode="1392" EndNode="1395">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="сотрудники" StartNode="1649" EndNode="1650">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

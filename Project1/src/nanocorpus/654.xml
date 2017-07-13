@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> О создании необычной разновидности <Node id="36"/>органического <Node id="50"/>светодиода<Node id="60"/> (<Node id="62"/>OLED<Node id="66"/>) объявили Гассан Джабур (Ghassan Jabbour) и Цзянь Ли (Jian Li) из университета Аризоны (Arizona State University). Новый тип <Node id="192"/>OLED<Node id="196"/> откроет путь к изготовлению эффективных систем освещения. 
+ 
+ Диод, который придумала научная группа под руководством Джабура и Ли, называется "Белый фосфоресцентный <Node id="363"/>органический <Node id="376"/>светодиод<Node id="385"/>, базируемый на эксимерах" (Excimer-Based White Phosphorescent Organic Light-Emitting Diode). Поясним, эксимеры — это разновидность возбуждённых молекулярных комплексов. 
+ 
+ Разработчики необычного <Node id="583"/>OLED<Node id="587"/> пишут, что высокой эффективности им удалось добиться путём сочетания специально подобранных мономеров и эксимеров, внедрённых в новый базовый материал, а также — оптимизации конструкции диода с точки зрения распределения зарядов. В результате удалось, как сообщают исследователи, "впервые продемонстрировать <Node id="896"/>почти 100%<Node id="906"/> внутреннюю квантовую эффективность белого <Node id="949"/>OLED<Node id="953"/>" (подробнее — в пресс-релиз университета и статье авторов работы в журнале Advanced Materials). 
+ 
+ Внутренняя квантовая эффективность, говоря упрощённо, это отношение числа излученных фотонов к числу электронов, введённых в устройство. Хотя здесь сравниваются не мощности (потребляемого тока и испускаемого света), по смыслу можно считать этот показатель аналогом привычного КПД. Последний для ламп накаливания, к слову, составляет <Node id="1387"/>примерно 5%<Node id="1398"/>, для люминесцентных ламп — <Node id="1426"/>25%<Node id="1429"/>, а для твердотельных полупроводниковых светоизлучающих устройств — до <Node id="1500"/>50%<Node id="1503"/>. 
+ 
+ Авторы этой исследовательской работы утверждают, что <Node id="1562"/>светодиоды<Node id="1572"/> на эксимерах с подобранными ими материалами и архитектурой, можно производить в массовом порядке и сравнительно недорого. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Органический+светодиод" StartNode="949" EndNode="953">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="896" EndNode="906">
+</Annotation>
+<Annotation Id="10" Type="Светодиод" StartNode="1562" EndNode="1572">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Органический+светодиод" StartNode="363" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Светодиод" StartNode="376" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Органический+светодиод" StartNode="36" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Органический+светодиод" StartNode="62" EndNode="66">
+</Annotation>
+<Annotation Id="21" Type="Процент" StartNode="1387" EndNode="1398">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="1426" EndNode="1429">
+</Annotation>
+<Annotation Id="23" Type="Светодиод" StartNode="50" EndNode="60">
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="1500" EndNode="1503">
+</Annotation>
+<Annotation Id="25" Type="Органический+светодиод" StartNode="192" EndNode="196">
+</Annotation>
+<Annotation Id="24" Type="Органический+светодиод" StartNode="583" EndNode="587">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

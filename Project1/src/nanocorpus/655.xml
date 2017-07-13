@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>У истоков нанотехнологий в России стоял Борис Березовский?Опальный олигарх Борис Березовский, скрывающийся от российского правосудия в Великобритании, оказывается, стоял у истоков столь популярных, но пока непонятных в современной России нанотехнологий.
+
+Будучи членом-корреспондентом Российской академии наук (РАН), Березовский участвовал в разработках и изучении ставших сегодня актуальными нанотехнологий. В информационной части сайта РАН, где публикуются фотографии и научный статус академиков, в отделении нанотехнологий и информационных технологий значится член-корреспондент отделения Березовский Борис Абрамович, более того, информация подкреплена соответствующей фотографией члена-корреспондента.
+ Член Отделения ОТДЕЛЕНИЕ НАНОТЕХНОЛОГИЙ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ СЕКЦИЯ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И АВТОМАТИЗАЦИИ <Node id="824"/>http://www.ras.ru/…show_per.asp?…<Node id="857"/>
+Согласно справке, выложенной на сайте, Борис Березовский работал в секции информационных технологий и автоматизации, где являлся специалистом в области «решения задач многокритериальной оптимизации».
+
+Историческая справка о члене-корреспонденте Борисе Березовском ограничивается датой рождения — <Node id="1154"/>23 января 1946 года<Node id="1173"/>, местом рождения — город Москва, датой вступления в отделение нанотехнологий — «член-корреспондент c <Node id="1275"/>07.12.1991<Node id="1285"/> — секция математики, механики, информатики (исследование операций и принятие решений)».
+ Отметим, что последние изменения в справке об академике Березовском датируются <Node id="1454"/>февралем 2001 года<Node id="1472"/>, когда нынешний гражданин Великобритании еще жил в России. <Node id="1532"/>http://news.politsovet.ru/n_news.asp?…На<Node id="1572"/> самом-то деле журналист «Политсовета» просто «прикалывается» или просто передёргивает: Ведь Отделение нано- и IT-технологий РАН было образовано чуть <Node id="1722"/>более недели тому назад<Node id="1745"/>, точнее – переименовано из существовавшего ранее Отделения информационных технологий и вычислительных систем <Node id="1855"/>(http://www.nanonewsnet.ru/…hnologii-ran<Node id="1895"/> // <Node id="1899"/>http://www.nanonewsnet.ru/…hnologii-ran<Node id="1938"/> ), в состав которого и входил наш «герой»… Тем не менее, факт сам по себе забавный и – до некоторой степени – «многозначительный»: по-видимому, Академия наук, академики «своих не сдают»…;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="824" EndNode="857">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1454" EndNode="1472">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февралем</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1855" EndNode="1895">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1722" EndNode="1745">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="1154" EndNode="1173">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1532" EndNode="1572">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="1275" EndNode="1285">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1899" EndNode="1938">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

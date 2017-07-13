@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>Наночастицы<Node id="13"/> серебра, декаэдры, регулярный циклический двойниковый дефект с осью пятого порядка, селективность формы, монодисперcность, диаметр около 50 нм, <Node id="158"/>просвечивающая электронная микроскопия<Node id="196"/>
+ (компьютерный коллаж из реально наблюдавшихся объектов, изменение реальных цветов произведено для большего художественного эффекта)    
+ 
+      
+ 
+  
+ 
+                    
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="2" EndNode="13">
+</Annotation>
+<Annotation Id="1" Type="Просвечивающая+электронная+микроскопия" StartNode="158" EndNode="196">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

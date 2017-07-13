@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Выставка компании IBM в Александрии началась с демонстрации компьютерных изображений квантовых кораллов нового типа. Тем самым компания IBM хочет показать, что до сих пор является флагманом в манипулировании материей на атомном уровне.
+
+Не секрет, что специалисты именно IBM впервые в мире смогли манипулировать отдельными атомами, и в <Node id="337"/>восьмидесятых годах прошлого века<Node id="370"/> составить из атомов ксенона логотип компании.
+
+Теперь же, на выставке в Музее Патентов и Торговых Марок США в Александрии, штат Виржиния, продемонстрировали новую hand-made <Node id="544"/>наноструктуру<Node id="557"/>, которую удалось создать с помощью специального микроскопа. За его разработку и конструирование низкотемпературного сканирующего туннельного микроскопа <Node id="710"/>Герд Бинниг<Node id="721"/> (Gerd Binnig) и Генрих Рорер (Heinrich Rohrer) из лаборатории IBM's Zurich Research Laboratory в Швейцарии, получили в <Node id="841"/>1986 году<Node id="850"/> Нобелевскую премию.
+
+С тех пор ученые работали над совершенствованием технологии манипулирования материей на атомарном уровне. Работы ученых касаются не только новых материалов и логотипов, в основном их усилия направлены на создание вычислительных систем нового поколения, в которых молекулярные ключи будут работать в качестве транзисторов. Такая молекулярная электроника не только откроет невиданные ранее перспективы для потребительского рынка, но и станет основой для совершенно новых устройств, которые невозможны на базе современной электроники.
+
+Кроме микроскопии, сканирующий туннельный микроскоп также может отображать плотность распределения электронов на поверхности металлов. Благодаря этому полезному свойству СТМ, ученые <Node id="1587"/>Мишель Кромми<Node id="1600"/> (Michael Crommie), <Node id="1620"/>Крис Латц<Node id="1629"/> (Chris Lutz) и Дон Эйглер (Don Eigler) смогли изменять квантовое состояние электронов для того, чтобы в результате получить «квантовый коралл» необходимой конфигурации.
+
+На выставке в Александрии ученые продемонстрировали несколько работ, связанных с различными квантовыми состояниями «квантовых кораллов». Так, например, еще раньше круговой квантовый коралл был создан «вручную» из 48 атомов железа. СТМ-изображения круговых колец внутри коралла хорошо отобразили состояния электронов, захваченных внутри.
+
+Новым словом в квантовых кораллах было моделирование с их помощью квантового хаоса. Это достижение само по себе можно охарактеризовать не только как достижение квантовой физики, но и как новое слово в искусстве, благодаря фантастическим изображениям квантовых кораллов. Доном Эйглером и его коллегами был создан квантовый коралл в виде «стадиона», в котором ученые смогли обнаружить специфические для квантового хаоса конфигурации электронных состояний, известные как «рубцы» (scarring).
+
+Как говорят ученые, изучение и создание этих квантовых систем и их вариаций позволит значительно приблизиться к молекулярным компьютерам и устройствам на их основе. Следующим шагом ученых будет создание более сложных квантовых кораллов.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="710" EndNode="721">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Герд</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1587" EndNode="1600">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мишель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1620" EndNode="1629">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Крис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="337" EndNode="370">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="544" EndNode="557">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="841" EndNode="850">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="841" EndNode="850">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

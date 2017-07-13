@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из Германии предложили универсальный метод получения цепочек металлических <Node id="90"/>наночастиц<Node id="100"/>, заключенных в <Node id="116"/>нанотрубки<Node id="126"/>. Идея метода довольно проста и изображена на рисунке 1.  
+Действовать можно двумя путями, но в результате необходимо получить <Node id="253"/>нанотрубку<Node id="263"/> с <Node id="266"/>наностержнем<Node id="278"/> внутри, да не просто так, а чтобы между ними была некая прослойка. Смысл этой прослойки в том, что после ее удаления (растворения, разложения и т.п.) внутри <Node id="436"/>нанотрубки<Node id="446"/> формируется свободный объем. Далее при высокотемпературной обработке <Node id="516"/>наностержень<Node id="528"/> распадается на цепочку <Node id="552"/>наночастиц<Node id="562"/> в силу нестабильности вышеописанного состояния. По-умному это называется неустойчивостью Рэлея, которая возникает из-за стремления системы минимизировать поверхностную энергию.   
+Как видно из схемы, в синтезе используется метод осаждения атомарных слоев (atomic layer deposition, ALD), который позволяет очень точно контролировать толщину прослойки и, следовательно, количество свободного места после ее удаления.   
+На рисунке 2 приведен пример системы Au-Al2O3-TiO2. Видно, что в зависимости от толщины прослойки Al2O3 можно получать цепочки сферических частиц (e) или стержней (f) золота в <Node id="1157"/>нанотрубках<Node id="1168"/> диоксида титана. Еще удобнее использовать полимерную прослойку – в этом случае ее удаление и формирование цепочек происходит сразу при отжиге, т.е. стадия растворения не требуется (рис. 3). Еще пример приведен на рисунке 4.   
+Работа «General Assembly Method for Linear Metal Nanoparticle Chains Embedded in Nanotubes» опубликована в журнале Nano Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="552" EndNode="562">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1157" EndNode="1168">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="253" EndNode="263">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="516" EndNode="528">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="436" EndNode="446">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="116" EndNode="126">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="90" EndNode="100">
+</Annotation>
+<Annotation Id="7" Type="Наностержень" StartNode="266" EndNode="278">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>27 февраля<Node id="11"/> в Димитровградском НКЦ им. Славского состоялось расширенное заседание Совета по развитию нанотехнологий в Ульяновской области.
+
+На заседании был рассмотрен ряд важных вопросов, таких как: подготовка научно-технической программы «Развитие нанотехнологий Ульяновской области», развитие регионального Центра нанотехнологий и материалов, выполнение научно-исследовательских и опытно-конструкторских работ в сфере ядерной медицины в рамках создания Центра ядерной медицины в Димитровграде, а также презентация проектов по использованию нанотехнологий в радиационной медицине для лечения онкологических заболеваний.
+
+<Node id="623"/>По словам Сергея Морозова, всего от организаций области заявлен 51 проект на проведение фундаментальных и прикладных научных исследований, опытно-конструкторских работ, коммерциализацию научных результатов<Node id="828"/>. 14 проектов включены в перечень перспективных проектов, который составил основу единой областной научно-технической программы «Развитие в Ульяновской области работ в сфере нанотехнологий и <Node id="1019"/>наноматериалов<Node id="1033"/>» на <Node id="1038"/>2008 – 2015 годы<Node id="1054"/>.
+
+Как нам сообщили в пресс-службе облправительства, в рамках деятельности рабочей группы при Совете обеспечено финансирование на <Node id="1184"/>2008 год<Node id="1192"/> в размере <Node id="1203"/>3,65 млн. рублей<Node id="1219"/> за счёт средств Российского фонда фундаментальных исследований и внебюджетных источников организаций Ульяновской области на реализацию 4-х научно-исследовательских проектов программы. Кроме того, губернатор поручил проработать вопрос о софинансировании проектов программы из областного бюджета Ульяновской области в объёме <Node id="1543"/>не менее 5 млн. рублей<Node id="1565"/> в <Node id="1568"/>год<Node id="1571"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="1019" EndNode="1033">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1038" EndNode="1054">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1184" EndNode="1192">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1543" EndNode="1565">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1568" EndNode="1571">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="623" EndNode="828">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="623" EndNode="828">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1184" EndNode="1192">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1203" EndNode="1219">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Оксиды марганца в последнее время представляют большой интерес ввиду перспективности их потенциальных применений в высокоплотной магнитной записи, электрохимических устройствах и т.д. Широко известны каталитические свойства Mn3O4 при редукции азотосодержащих выхлопных газов. Для расширения диапазона применений оксидов марганца необходимо исследовать их структурные и магнитные свойства и их взаимосвязь. Однако то, что магнитные свойства сильно зависят от анизотропии, а следовательно, и формы частиц, очевидно. 
+ 
+Группа ученых во главе с <Node id="544"/>Нана Джао<Node id="553"/> (Nana Zhao) разработала двухфазный метод синтеза, позволяющий получать стабильные суспензии <Node id="646"/>наночастиц<Node id="656"/> Mn3O4 с заданными размером и формой в неполярном растворителе. В качестве прекурсоров были использованы стеарат марганца (II) и трет-бутиламин, растворенные по отдельности в толуоле и воде соответственно. Додециламин, также растворенный в толуоле, играл роль стабилизирующего <Node id="933"/>нанокристаллы<Node id="946"/> лиганда. Смесь выдерживали в автоклаве при различных температурах (120-180˚С). Оказалось, что форма и размер частиц определяются временем синтеза и температурой, а также концентрациями реагентов. При низких температурах и маленьком времени выдержки синтезируются кубические кристаллы, которые при повышении температуры и времени синтеза эволюционируют в сферические <Node id="1313"/>наночастицы<Node id="1324"/>.
+ 
+Полученные монодисперсные (D≈<Node id="1357"/>5,5%<Node id="1361"/>) <Node id="1363"/>наночастицы<Node id="1374"/> самоорганизовывались на достаточно большой площади, причем частицы разных форм образовывали различные структуры. С помощью малоугловой рентгеновской дифракции было показано, что сферические частицы организовывались в кубическую гранецентрированную плотноупакованную структуру, в то время как кубические кристаллы образовывали ламельную структуру. 
+ 
+Магнитные свойства образцов сильно зависели от размера и формы частиц. Так, сферические <Node id="1813"/>наночастицы<Node id="1824"/> с диаметрами 5, 9,7, 13,4 нм имели температуры <Node id="1872"/>Кюри<Node id="1876"/> 37,8, 39, 40,9 К и температуры блокировки 33, 34 и 40 К соответственно. Кроме того, кубические кристаллы обладали немного большими Тк и ТБ, чем сферические кристаллы того же размера. 
+ 
+Работа "Shape- and Size-Controlled Synthesis and Dependent Magnetic Properties of Nearly Monodisperse Mn3O4 Nanocrystals" опубликована в журнале Small (DOI: 10.1002/smll.200700698).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанокристалл" StartNode="933" EndNode="946">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="544" EndNode="553">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1313" EndNode="1324">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1363" EndNode="1374">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1357" EndNode="1361">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1872" EndNode="1876">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кюри</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1813" EndNode="1824">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="646" EndNode="656">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

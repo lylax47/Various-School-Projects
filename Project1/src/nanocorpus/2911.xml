@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>15 апреля<Node id="11"/> состоялось заседание Правительственного совета по нанотехнологиям под председательством первого вице-премьера Сергея Иванова. <Node id="138"/>Как отметил Сергей Иванов, <Node id="165"/>только <Node id="172"/>12%<Node id="175"/> заявок, полученных ГК «Роснанотех» к началу <Node id="220"/>апреля<Node id="226"/>, предполагают создание инновационного производства, а <Node id="281"/>более 70%<Node id="290"/> поданных заявок составляют предложения по финансированию научно-исследовательских и опытно-конструкторских работ, для финансирования которых государство выделило средства по другим направлениям<Node id="484"/>. Как подчеркнул первый вице-премьер, госкорпорация создавалась в первую очередь для софинансирования нанотехнологичных проектов, имеющих коммерческое будущее. 
+ 
+Генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="698"/> <Node id="699"/>рассказал подробнее о деятельности корпорации по подготовке и отбору инвестиционных проектов. <Node id="793"/>По словам Леонида Меламеда, в корпорацию поступило 330 предложений из 44 российских городов<Node id="884"/>. В частности, <Node id="899"/>35%<Node id="902"/> - из Москвы, <Node id="916"/>14%<Node id="919"/> - из Санкт-Петербурга, <Node id="943"/>11%<Node id="946"/> - из Королева, <Node id="962"/>7%<Node id="964"/> - из Новосибирска, <Node id="984"/>3%<Node id="986"/> - из Воронежа. Что касается распределения по отраслям, то: <Node id="1046"/>21%<Node id="1049"/> проектов – из области электроники, <Node id="1085"/>12%<Node id="1088"/> - медицины, <Node id="1101"/>12%<Node id="1104"/> - энергетики, <Node id="1119"/>5%<Node id="1121"/> относится к машиностроению и транспорту, <Node id="1163"/>5%<Node id="1165"/> - к сельскому хозяйству, <Node id="1191"/>2%<Node id="1193"/> - к строительству. Приоритет отдается проектам, завершающимся внедрением разработок нанотехнологий в производство или расширением производства продукции наноиндустрии (по сравнению с проектами, ограниченными только выполнением <Node id="1421"/>НИР<Node id="1424"/> или ОКР). 
+ 
+На сайте корпорации с начала <Node id="1467"/>апреля<Node id="1473"/> размещены документы, регламентирующие подачу заявок, порядок и условия финансирования проектов и научно-техническую экспертизу проектов. <Node id="1611"/>На сегодняшний день<Node id="1630"/> разослано более 200 информационных писем о начале рассмотрения проектов федеральным органам исполнительной власти, Российской Академии наук и другим государственным академиям наук, отраслевым НИИ и КБ, крупным производственным объединениям и корпорациям, другим участникам инновационного процесса. Фронт-офис корпорации работает в режиме реального времени, его сотрудники оказывают консультационную помощь в подготовке заявок и оформлении документов. 
+ "<Node id="2085"/>В <Node id="2087"/>настоящее время<Node id="2102"/> в Корпорации в стадии завершения рассмотрения находится 3 пилотных проекта на общую сумму инвестиций <Node id="2204"/>около 5 млрд. рублей<Node id="2224"/> в сроки от 4 <Node id="2238"/>до 7 лет<Node id="2246"/>", - сказал Леонид Меламед<Node id="2272"/>, завершая свое выступление. - "Мы можем констатировать, что конвейер по рассмотрению проектов запущен". ГК "Роснанотех" является спонсором второй Всероссийской Интернет-олимпиады по нанотехнологиям. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="138" EndNode="2272">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="899" EndNode="902">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="138" EndNode="2272">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="138" EndNode="484">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="793" EndNode="884">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1467" EndNode="1473">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="220" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="916" EndNode="919">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="2" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="138" EndNode="484">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="2085" EndNode="2272">
+</Annotation>
+<Annotation Id="11" Type="работает" StartNode="698" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="2238" EndNode="2246">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="2085" EndNode="2272">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2087" EndNode="2102">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="2204" EndNode="2224">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1421" EndNode="1424">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="темы" StartNode="165" EndNode="484">
+</Annotation>
+<Annotation Id="18" Type="цитаты" StartNode="165" EndNode="484">
+</Annotation>
+<Annotation Id="21" Type="Процент" StartNode="984" EndNode="986">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="698" EndNode="699">
+</Annotation>
+<Annotation Id="23" Type="Процент" StartNode="1101" EndNode="1104">
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="1119" EndNode="1121">
+</Annotation>
+<Annotation Id="25" Type="Процент" StartNode="943" EndNode="946">
+</Annotation>
+<Annotation Id="24" Type="Процент" StartNode="1085" EndNode="1088">
+</Annotation>
+<Annotation Id="27" Type="автор" StartNode="793" EndNode="884">
+</Annotation>
+<Annotation Id="26" Type="Процент" StartNode="1046" EndNode="1049">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Процент" StartNode="1191" EndNode="1193">
+</Annotation>
+<Annotation Id="31" Type="Процент" StartNode="1163" EndNode="1165">
+</Annotation>
+<Annotation Id="30" Type="Процент" StartNode="172" EndNode="175">
+</Annotation>
+<Annotation Id="34" Type="Период_времени" StartNode="1611" EndNode="1630">
+</Annotation>
+<Annotation Id="32" Type="Процент" StartNode="281" EndNode="290">
+</Annotation>
+<Annotation Id="33" Type="Процент" StartNode="962" EndNode="964">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

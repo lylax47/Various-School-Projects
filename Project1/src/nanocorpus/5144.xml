@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>История с белым порошком повторилась: конверт получил проректор Кубанского госуниверситетаВ Краснодаре проректор по научной работе и инновациям Кубанского госуниверситета Сергей Вызулин получил по почте письмо с белым порошком. Письмо пришло Вызулину от того же новосибирского ученого, который ранее отправил белый порошок скончавшейся в <Node id="338"/>мае<Node id="341"/> <Node id="342"/>этого года<Node id="352"/> замдиректора Института кристаллографии РАН Светлане Желудевой<Node id="414"/>,<Node id="415"/> сообщает «Интерфакс».
+
+Каталог нанотехнологий и белый порошок отправил профессор Новосибирского института теоретической и прикладной механики (ИТПМ) Сергей Бардаханов<Node id="582"/>.<Node id="583"/> Сам ученый утверждает, что белый порошок представляет собой безвредный для здоровья диоксид кремния, увеличивающий вязкость лаков и красок. <Node id="724"/>По словам Бардаханова, он разослал свою работу по нанотехнологиям и образец разработанного им вещества и другим ученым, однако те на самочувствие не жаловались<Node id="883"/>.
+
+Вещество отправлено на экспертизу. Ученый, на имя которого пришло письмо, чувствует себя хорошо.
+
+Напомним, на <Node id="997"/>прошлой неделе<Node id="1011"/> в Москве скончалась заместитель директора Института кристаллографии Светлана Желудева<Node id="1097"/>.<Node id="1098"/> Она была госпитализирована после того, как получила конверт с белым порошком – так же из Новосибирска – с диагнозом «полиорганная недостаточность».
+
+Между тем Главный санитарный врач России <Node id="1289"/>Геннадий Онищенко ранее говорил, что смерть Желудевой никак не связана с получением белого порошка<Node id="1387"/>.
+<Node id="1389"/>http://www.newsru.com/…oroshok.htmlЗловещий<Node id="1432"/> «сериал» продолжается? Вот что значит недостаток информации и «прорехи» в области безопасности. Очевидно, что теперь придётся разрабатывать и утверждать специальные процедуры рассылки по (обычной) почте всякого рода порошков и других образцов и предметов – результатов (нанотехнологических) НИОКР… Иначе продолжения этого «сериала» не избежать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="414" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">замдиректора</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1389" EndNode="1432">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="582" EndNode="583">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="414" EndNode="415">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="1097" EndNode="1098">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">заместитель директора</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="342" EndNode="352">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1289" EndNode="1387">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="338" EndNode="341">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="997" EndNode="1011">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="724" EndNode="883">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="1289" EndNode="1387">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="724" EndNode="883">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="582" EndNode="583">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="1097" EndNode="1098">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

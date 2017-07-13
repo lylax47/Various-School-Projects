@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Американское химическое общество, выпускает новый журнал, издательские группы Wiley-VCH и Nature Publishing Group анонсируют новые издательские проекты.
+Обложки двух из трех анонсированных журналов
+На <Node id="201"/>этой неделе<Node id="212"/> Американское Химическое Общество выпустило первый номер ежемесячного междисциплинарного журнала ACS Nano, главным редактором которого является Пол Вайсс (Paul S. Weiss), почетный профессор химии и физики Университета Штата Пенсильвания.
+Журнал ACS Nano предназначается для междисциплинарных статей обычного формата и обзоров, а также публицистических статей и интервью на тему нанохимии и нанотехнологии.
+
+Издательство Wiley-VCH наряду с Итальянским и Немецким Химическими обществами <Node id="697"/>с начала следующего года<Node id="721"/> планируют издание журнала ChemSusChem [Sus – сокращение от sustainability (устойчивое, планомерное развитие – англ.)]. В ежемесячном журнале будут отражаться результаты химических исследований, имеющие непосредственное практическое значение и способствующие устойчивому развитию технологии и общества.
+
+Возглавлять редакцию ChemSusChem будет Петер Гёлитц (Peter Gölitz), в <Node id="1095"/>настоящее время<Node id="1110"/> – главный редактор Angewandte Chemie.
+
+Главный редактор журнала Nature Филип Кэмпбелл (Philip Campbell) пообещал, что издательская группа Nature Publishing Group (NPG) в <Node id="1281"/>первом квартале 2009 года<Node id="1306"/> планирует начать издание журнала Nature Chemistry.
+
+Он добавляет, что новый ежемесячный журнал будет публиковать результаты исследований, обзоры и перспективы развития химии и связанных с ней дисциплин. В коммюнике, посвященном планам NPG, <Node id="1547"/>Кэмпбелл<Node id="1555"/> добавляет, что, хотя библиотекари критикуют издательства за выпуск большого количества журналов, исследователи приветствуют выход журналов Nature по своим дисциплинам, и у руководителей NPG достаточно энтузиазма, чтобы полагать ожидать популярности журнала Nature Chemistry среди химиков.
+<Node id="1845"/>http://www.chemport.ru/datenews.php?…У<Node id="1883"/> химиков – пополнение! Заодно и у специалистов в области нанотехнологии. Всё бы хорошо, просто замечательно, НО… Ведь теперь придётся читать ещё и ЭТИ журналы… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="201" EndNode="212">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1547" EndNode="1555">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кэмпбелл</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1845" EndNode="1883">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1281" EndNode="1306">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="697" EndNode="721">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1095" EndNode="1110">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

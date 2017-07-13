@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Пожелания и рекомендации участникам второй Всероссийской Олимпиады по нанотехнологиям Председателя жюри Олимпиады профессора химического факультета МГУ В.В.Еремина<Node id="165"/>.<Node id="166"/> Нанохимия - это интересно! Желаем Вам, чтобы в будущем Вы не только могли решать самые сложные задачи, но и научились ставить новые задачи в науке. Удачи!
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="165" EndNode="166">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="165" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

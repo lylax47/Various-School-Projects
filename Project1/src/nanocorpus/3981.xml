@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>Углеродные <Node id="13"/>нанотрубки<Node id="23"/> могут иметь широкий диапазон применений, благодаря их превосходным механическим и электрическим свойствам. Они уже используются для изготовления полевых транзисторов, а также как наполнитель для увеличения прочности <Node id="240"/>нанокомпозитов<Node id="254"/>. Во всех приложениях <Node id="276"/>нанотрубки<Node id="286"/> расположены в диэлектрической матрице, обычно в диоксиде кремния. Также они могут быть размещены в стеклянной, полимерной или кристаллической матрице. 
+ 
+Исследователи были бы не против совместить <Node id="484"/>нанотрубки<Node id="494"/> с другими компонентами таким образом, чтобы их уникальные свойства не нарушались. Однако, как показывает практика, <Node id="610"/>углеродные <Node id="621"/>нанотрубки<Node id="631"/> претерпевают значительные структурные изменения, будучи внедрены в диоксид кремния. А это все потому, что <Node id="738"/>нанотрубки<Node id="748"/> всячески взаимодействуют с матрицей, образуют связи и т.п. 
+ 
+Ученые из Vanderbilt University (Tennessee) рассчитали, что гидрирование <Node id="884"/>нанотрубок<Node id="894"/> после помещения в матрицу разрушает все связи с окружающей матрицей. Теперь <Node id="971"/>нанотрубки<Node id="981"/> обладают свойствами, которыми они обладали изначально. Водород внедряется в связи Si-O-C и освобождает <Node id="1085"/>нанотрубки<Node id="1095"/>. Квантово-механические расчеты были проведены на суперкомпьютерах исследовательского центра Oak Ridge National Lab Center for Computational Sciences, а работа была опубликована в Phys. Rev. Lett.. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="484" EndNode="494">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="610" EndNode="631">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="738" EndNode="748">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1085" EndNode="1095">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="2" EndNode="23">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="13" EndNode="23">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="971" EndNode="981">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="621" EndNode="631">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="884" EndNode="894">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанокомпозит" StartNode="240" EndNode="254">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="276" EndNode="286">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

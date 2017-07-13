@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Согласно недавнему исследованию, проведённому в Университете Калифорнии в Сан <Node id="79"/>Диего<Node id="84"/> (University of California, San Diego), форма полупроводниковых <Node id="148"/>нанопроволок<Node id="160"/> позволяет им чрезвычайно хорошо улавливать свет, делая возможным создание светодетекторов с однофотонной чувствительностью.
+
+Для детектирования света с помощью <Node id="321"/>нанопроволоки<Node id="334"/> необходимо, чтобы фотоны с достаточной энергией поглощались и возбуждали электронно-дырочные пары. Свидетельством того, что фотон поглотился, является электрический ток, переносимый под действием внешнего напряжения этим электроном. Для этого нужно, чтобы электрон как можно дольше находился в свободном состоянии и не рекомбинировал с дырками.
+
+В новом исследовании показано, что форма <Node id="722"/>нанопроволок<Node id="734"/>, обладающих большой площадью поверхности при малом объёме, позволяет им эффективно «захватывать» дырки. «Оборванные» связи на поверхности <Node id="873"/>нанопроволоки<Node id="886"/> являются ловушками для дырок и таким образом увеличивают время, в течение которого электрон может двигаться по структуре без рекомбинации.
+
+Это, в свою очередь, приводит к увеличению электрического тока в процессе т.н. внутреннего фотопроводящего усиления. При этом, разные типы <Node id="1166"/>нанопроволок<Node id="1178"/> могут улавливать свет разной длины волны. Например, используя <Node id="1241"/>нанопроволоки<Node id="1254"/> трёх типов, можно создать детектор, различающий красный, зелёный и синий цвета.
+
+Эта работа подтверждает расчёты, проведённые ранее в том же университете Питером Эсбеком (Peter Asbeck). Согласно им, фотопроводимость в <Node id="1473"/>нанопроволоках<Node id="1487"/> может быть более чем в 10 раз сильнее, чем в обычных полупроводниках. В новой работе удалось добиться детектирования коротких ультрафиолетовых импульсов (продолжительностью в сотни фемтосекунд) с использованием <Node id="1699"/>нанопроволоки<Node id="1712"/> из оксида цинка (ZnO). Измеренная величина фотоусиления составила 10^^8^^, что близко к максимальному пределу, достигнутому <Node id="1837"/>на сегодняшний день<Node id="1856"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1837" EndNode="1856">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="873" EndNode="886">
+</Annotation>
+<Annotation Id="6" Type="Нанопроволока" StartNode="1473" EndNode="1487">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="1699" EndNode="1712">
+</Annotation>
+<Annotation Id="8" Type="Нанопроволока" StartNode="321" EndNode="334">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="79" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диего</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанопроволока" StartNode="1166" EndNode="1178">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанопроволока" StartNode="1241" EndNode="1254">
+</Annotation>
+<Annotation Id="13" Type="Нанопроволока" StartNode="148" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Нанопроволока" StartNode="722" EndNode="734">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

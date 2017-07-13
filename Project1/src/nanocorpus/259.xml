@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Алтайском крае создается региональный центр наноиндустрииПроект создания на территории края Алтайского регионального центра наноиндустрии одобрен <Node id="148"/>Администрацией края<Node id="167"/>, – сообщают в управлении края по промышленности и энергетике. Проект предложен главным конструктором <Node id="269"/>Роспрома<Node id="277"/> по направлению «Наноиндустрия», генеральным директором Концерна «Наноиндустрия» Михаилом Ананяном<Node id="375"/>.<Node id="376"/> Центр планируется организовать базе Ассоциации «Межрегиональный центр наноиндустрии».
+Михаил Ананян
+Как поясняют в управлении края по промышленности и энергетике, в Алтайском крае работа в сфере развития нанотехнологий ведется на протяжения ряда <Node id="623"/>лет<Node id="626"/>.
+Ассоциация «Межрегиональный центр наноиндустрии» создана в наукограде Бийске. Её ведущими организациями определены ФГУП Федеральный научно-производственный центр «Алтай», Институт проблем химико-энергетических технологий, АлтГТУ им. И.И. Ползунова и АлтГУ.
+Цель создания регионального центра наноиндустрии – координация фундаментальных и прикладных научных исследований в области нанотехнологий, усиление работы по внедрению разработок в реальный сектор экономики, также он призван способствовать формированию социального заказа на подготовку специалистов в области наноиндустрии, более эффективному использованию кадровых и материальных ресурсов.
+
+Как подчеркивают в управлении, современные тенденции развития мировой экономики выявляют новые условия построения рыночных отношений и на первый план выдвигают вопросы качественной составляющей развития. В <Node id="1483"/>настоящее время<Node id="1498"/> для России эта проблема также актуальна. На федеральном уровне процесс формирования нанотехнологической сети уже запущен. Головной организаций по этому направлению определен Курчатовский институт.
+<Node id="1696"/>http://altairegion22.ru/rus/press/news/?…Ранее<Node id="1742"/> уже сообщалось создании такого центра – <Node id="1783"/>http://www.nanonewsnet.ru/…ustrii%C<Node id="1818"/>2%<Node id="1820"/>BB.<Node id="1823"/> Как говорится, события развиваются, и процесс переходит в практическую плоскость. Нанотехнологическая сеть прирастает регионами…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="375" EndNode="376">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1818" EndNode="1820">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1783" EndNode="1823">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="148" EndNode="167">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Администрацией края</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="623" EndNode="626">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1483" EndNode="1498">
+</Annotation>
+<Annotation Id="8" Type="Властная_Структура" StartNode="269" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роспрома</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="375" EndNode="376">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1696" EndNode="1742">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

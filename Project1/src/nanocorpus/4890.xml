@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На фотографии изображены микрокристаллы бромида серебра, формирование которых происходило в ходе контролируемой двухструйной кристаллизации в условиях избыточного количества ионов галогенида. Микрокристаллы галоидного серебра представляют собой основной светочувствительный наполнитель регистрирующего слоя современных кино-фотоматериалов. Их форма, строение и размеры варьируются условиями высаждения твёрдой фазы из пересыщенного раствора реакционной среды в присутствии защитного <Node id="485"/>коллоида<Node id="493"/> и определяют основные фотографические параметры будущего светочувствительного материала: светочувствитель-ность, коэффициент контрастности и др.
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Коллоид" StartNode="485" EndNode="493">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

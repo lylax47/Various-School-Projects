@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На выставке представили ветпрепараты на основе нанотехнологий
+На выставке в Новой Усмани помимо племенных животных, были представлены корма, лекарства и техника для содержания скота. В частности, были представлены ветпрепараты французской компании «Олмикс». Средства для гигиены и кормовые добавки производятся на основе нанотехнологий. Например, препарат «Мистраль» посыпается на пол в загонах.
+
+Он предотвращает выделение аммиака, который вызывает множество болезней у крупного рогатого скота. Продукцией компании пользуются в 80-ти странах мира. Официальным дилером «Олмикса» в Центрально-Черноземном регионе является фирма «Трейд-Юнитэ».
+Сергей Сапронов, маркетолог компании «Олмикс»:
+ 
+«Компания Олмикс существует <Node id="719"/>с 96-го года<Node id="731"/>, в России представлена с 97-го, в 2006 в России был построен завод. Сейчас 8 заводов в Европе, из них 5 – во Франции. В Румынии, Германии, Санкт-Петербурге по производству кормовых добавок высочайшего европейского качества».
+ <Node id="958"/>http://voronezh.rfn.ru/rnews.html?…Фирма<Node id="998"/> <Node id="999"/>OLMIXhttp://www.olmix.com/en/Мы<Node id="1030"/> уже упоминали о деятельности этой фирмы, правда, в Узбекистане – <Node id="1096"/>http://www.nanonewsnet.ru/…-uzbekistane<Node id="1135"/> // <Node id="1139"/>http://www.nanonewsnet.ru/…i-i-proektov.<Node id="1179"/> Но работает она также и в нашей стране, заняв нишу ветеринарных препаратов. Я полагаю, многим нашим потребителям на селе было бы интересно ознакомиться с продукцией этой французской фирмы…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1096" EndNode="1135">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1139" EndNode="1179">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="719" EndNode="731">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="958" EndNode="998">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="999" EndNode="1030">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Липецке вице-премьер Правительства РФ Сергей Иванов<Node id="53"/> <Node id="54"/>откроет зону<Node id="66"/>25 января<Node id="75"/> состоится официальное открытие особой экономической зоны «Липецк».
+Несмотря на то, что в ОЭЗ «Липецк» уже работают два предприятия и три строятся, официальное открытие зоны состоится <Node id="259"/>25 января<Node id="268"/>. На открытие ОЭЗ «Липецк» ожидается приезд вице-премьера правительства РФ Сергея Иванова<Node id="357"/>.<Node id="358"/>
+
+Как сообщил сегодня на пресс-конференции руководитель РОСОЭЗ по Липецкой области Владимир Лаврентьев, сегодня уже можно уверенно заявить – ОЭЗ «Липецк» состоялась. <Node id="524"/>И теперь, по словам Владимира Лаврентьева, можно потихоньку двери для всех желающих «прикрывать», делая ставку на отбор самых эффективных, крупных, экономически успешных резидентов<Node id="704"/>.
+Владимир Лаврентьев рассказал журналистам о еще четырех новых резидентах, которые начнут строительство предприятий в ОЭЗ «Липецк» в самое ближайшее время. Инвестиции в эти предприятия составят <Node id="899"/>7 миллиардов рублей<Node id="918"/>, и они обеспечат липчанам 1000 рабочих мест.
+
+Самый крупный инвестор из этих четырех новых резидентов – мировой лидер по производству металлокорда (<Node id="1067"/>25%<Node id="1070"/> мирового рынка) – бельгийская фирма «Бекарт», уже зарегистрировавшая в области юридическое лицо – ООО «Бекарт – Липецк». Инвестиции бельгийцев в производство составят <Node id="1238"/>97,13 млн. евро<Node id="1253"/>.
+
+<Node id="1256"/>По словам Владимира Лаврентьева, ведутся переговоры и с более мощным резидентом, который инвестирует в ООЗ «Липецк» <Node id="1372"/>500 миллионов евро<Node id="1390"/>.
+Владимир ЛаврентьевКроме того, Владимир Лаврентьев заинтриговал журналистов возможным появлением в ОЭЗ «Липецк» предприятия, которое, по <Node id="1529"/>его<Node id="1532"/> словам, используя в своем производстве нанотехнологии, задаст новый вектор развития ОЭЗ всей <Node id="1626"/>России.http://gorod48.ru/…ws-4786.htmlНу<Node id="1666"/> что ж, в стране создаётся инфраструктура инновационной экономики, и липчане находятся на передовом крае этой «борьбы». Мы уже писали об этой ОЭЗ «Липецк» ранее <Node id="1827"/>(http://www.nanonewsnet.ru/…v-investorov).<Node id="1869"/> Молодцы ребята! Скорое открытие этой зоны будет означать окончание первого, пожалуй, самого трудного, этапа этого процесса, и начало новой фазы, когда простое «количество» постепенно будет переходить в «качество». И отрадно, что сметливые липчане уже подумывают об этом. Успехов им на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1626" EndNode="1666">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1067" EndNode="1070">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="53" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1372" EndNode="1390">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1256" EndNode="1390">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="66" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1238" EndNode="1253">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="1256" EndNode="1390">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="53" EndNode="54">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="357" EndNode="358">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1827" EndNode="1869">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="259" EndNode="268">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="357" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-премьер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="899" EndNode="918">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="524" EndNode="704">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="524" EndNode="704">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="1529" EndNode="1532">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

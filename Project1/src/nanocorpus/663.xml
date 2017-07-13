@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Гибридные автомобили Prius с возможностью переключения между электрическим мотором и двигателем внутреннего сгорания, в ближайшее время (после установки солнечных панелей) станут еще более «зелеными».
+
+Следуя тенденции времени, Toyota Motor Corp планирует в <Node id="259"/>следующем году<Node id="273"/> установить солнечные панели на очередной модели своих гибридных (бензиново-электрических) экологических автомобилей Prius. Это скорее символический жест, чем настоятельная потребность снижения расхода ископаемого топлива в целях защиты окружающей среды [1]. Prius, первый в мире бензиново-электрический гибридный автомобиль массового производства, продается в Японии <Node id="641"/>с 1997 г.<Node id="650"/>, а на других мировых рынках – <Node id="681"/>с 2000 г.<Node id="690"/> Общий объем продаж до настоящего времени достиг миллиона автомобилей. Солнечные панели для Prius поставит японская компания Kyocera Corp. Панели на крыше нового Prius с вырабатываемой мощностью от 2 до 3 кВт будут обеспечивать работу кондиционера [2].
+
+Mazda Motor Corp. уже пыталась ранее использовать солнечные панели на двух моделях автомобилей – Eunos 800 и Sentia, для питания системы вентиляции во время стоянки. Однако эти подорожавшие модели не пользовались успехом и в скором времени были сняты с производства [3].
+
+Для увеличения бездозаправочного пробега гибридных автомобилей автопроизводители объединяются с производителями батарей для совместной разработки и производства литиевых ионных батарей с увеличенной электрической емкостью при большей компактности. Toyota партнерствует с Matsushita Electric Industrial Co., Nissan Motor Co. – с NEC Corp., а Mitsubishi Motors Corp. – GS Yuasa Corp.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="641" EndNode="650">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="681" EndNode="690">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="259" EndNode="273">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

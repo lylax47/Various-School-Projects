@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Премьер-министр России <Node id="24"/>Владимир Путин сообщил, что <Node id="52"/>правительство выделило серьезные ресурсы для развития таких перспективных сфер, как нано- и биотехнологии, ядерная энергетика, авиакосмические исследования и ряд других<Node id="220"/>.
+
+По его словам, только по федеральным целевым программам на эти цели поступит <Node id="300"/>примерно 600 млрд руб.<Node id="322"/> в <Node id="325"/>2008–2010 годах<Node id="340"/>. Также <Node id="348"/>В.Путин заявил на общем собрании Российской академии наук (РАН), что российской науке «не обойтись без внедрения современных подходов к организации научных исследований и без развития конкуренции в научной среде<Node id="559"/>».
+
+Вместе с тем он подчеркнул, что общая картина оснащения ученых современным научным оборудованием «все еще далека от оптимальной». Так, возраст почти половины оборудования, на котором работают ученые РАН, превышает <Node id="777"/>11 лет<Node id="783"/>, доля нового оборудования <Node id="810"/>до двух лет<Node id="821"/> – немногим <Node id="833"/>более 20 проц<Node id="846"/>. Он подчеркнул, что это одна из ключевых проблем и правительство будет искать пути ее решения.
+
+При этом, добавил премьер, правительство ждет «обоснованных предложений со стороны руководства РАН».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="833" EndNode="846">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="810" EndNode="821">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="24" EndNode="559">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="325" EndNode="340">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="24" EndNode="559">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="300" EndNode="322">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="52" EndNode="220">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="777" EndNode="783">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="52" EndNode="220">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="24" EndNode="220">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="348" EndNode="559">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="348" EndNode="559">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="777" EndNode="783">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="24" EndNode="220">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

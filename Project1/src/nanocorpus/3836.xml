@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Вышел в свет очередной номер дайджеста «Нанотехнологии в мире», подготовленный по заказу ГК «Роснанотех». 
+В майском номере дайджеста содержатся выдержки из наиболее актуальных публикаций СМИ, посвященных тематике нанотехнологий, цитаты выступлений ведущих политиков и лидеров отрасли. Также в дайджесте собраны анонсы важных событий отрасли, конференций и выставок, которые пройдут в <Node id="386"/>ближайшие дни<Node id="399"/>. В центре внимания СМИ - экспозиция "Российские нанотехнологии - старт в будущее", которая пройдет в рамках XII Петербургского международного экономического форума <Node id="564"/>6-8 июня 2008 г.<Node id="580"/> С полным текстом дайджеста можно ознакомиться на сайте ГК "Роснанотех".       </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="564" EndNode="580">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="386" EndNode="399">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

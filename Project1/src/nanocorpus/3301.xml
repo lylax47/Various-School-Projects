@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Международный Симпозиум, уже пятый в ряду, организован и проводится Японским Обществом по исследованию свойств поверхности (Surface Science Society of Japan) каждые <Node id="166"/>три года<Node id="174"/> (November 9–13, 2008 International Conference Center Waseda University, Tokyo Japan; <Node id="260"/>http://www.sssj.org/isss5/).<Node id="288"/>
+
+Весьма престижное научное сообщество собирает ведущих ученых для обсуждения новейших результатов исследований в нанотехнологиях, базирующихся на методах научного исследования свойств поверхностей. Основные темы включают в себя вопросы теории и динамики, изготовления и применения <Node id="570"/>наноструктур<Node id="582"/>, новые методы исследований, химические и биологические применения, а также некоторые смежные темы.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="570" EndNode="582">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="166" EndNode="174">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="260" EndNode="288">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

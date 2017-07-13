@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Монодисперсные частицы аморфного диоксида кремния, полученные в водном растворе. Средний размер 135 нм (отклонение от среднего <Node id="129"/>не более 2.5%<Node id="142"/>). Частицы самоорганизуются, полученная плотнейшая упаковка является фотонным кристаллом. "Данная работа явилась логическим завершением этапа "коллоидных фотонных кристаллов", так как автор достиг своих целей и неожиданно для себя открыл, что коллоидные частицы бывают не только круглыми :) и это так увлекательно!" 
+ 
+    
+ 
+      
+ 
+  
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="129" EndNode="142">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

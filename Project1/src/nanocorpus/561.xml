@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В рамках выставки вооружений в Нижнем Тагиле прошла презентация Российской корпорации нанотехнологийЕКАТЕРИНБУРГ, <Node id="114"/>11 июля<Node id="121"/> – В рамках международной выставки вооружений в Нижнем Тагиле прошла презентация Российской корпорации нанотехнологий.
+БМП-3
+Как сообщил на презентации заместитель гендиректора корпорации Константин Поляков в <Node id="330"/>ближайшие годы<Node id="344"/> в развитие нанотехнологий в России будет вложено порядка <Node id="402"/>25 млрд рублей<Node id="416"/>.
+ 
+«<Node id="421"/>Все это будет сделано, чтобы <Node id="450"/>до 2015 года<Node id="462"/> Россия смогла занять до <Node id="487"/>4 проц<Node id="493"/> мирового рынка нанотехнологий<Node id="523"/>», – пояснил Константин Поляков<Node id="554"/>.
+  По его словам, сейчас в корпорацию уже поступило порядка 450 заявок от различных организаций. 40 заявок из уральского региона. В рамках нижнетагильской выставки вооружений специалисты обсудят вопросы использования нанотехнологий в производстве военной техники. Пройдет ряд конференций и «круглых столов», посвященных перспективам развития военной техники и вооружений. Будет рассмотрена стратегия развития производства взрывчатых веществ, а также вопросы радиоэлектронной защиты вооружения и военной техники, в том числе с использованием нанотехнологий.
+ <Node id="1113"/>16 мая<Node id="1119"/> Российская корпорация нанотехнологий и Свердловская область подписали соглашение о сотрудничестве <Node id="1218"/>(http://www.nanonewsnet.ru/…sotrudnichat).<Node id="1260"/> Этот документ стал первым соглашением, подписанным корпорацией с российским регионами. В Свердловской области уже подготовлена программа развития наноиндустрии на <Node id="1424"/>2008–2010 годы<Node id="1438"/>. Финансирование проектов запланировано на условиях частно-государственного партнерства на паритетной основе, в том числе из областного бюджета в <Node id="1584"/>2008–2010 годах<Node id="1599"/> будет направлено <Node id="1617"/>370 млн рублей<Node id="1631"/>. <Node id="1633"/>http://www.itartass.ur.ru/news/?…Да<Node id="1668"/> сколько же у него заместителей, у гендиректора корпорации «Роснанотех»? Я уже и со счёту сбился… Ну, в очередной раз презентовали, ну и что? Можно сказать, засветились ещё и на этом форуме. Но вот ничего нового так и не сказали… Разве что сообщили, что «…в <Node id="1926"/>ближайшие годы<Node id="1940"/> в развитие нанотехнологий в России будет вложено порядка <Node id="1998"/>25 млрд рублей<Node id="2012"/>…» Ну так это и так уже было известно из других источников, тем более что там назывались «более конкретные» данные… Нет, вот будет официальный сайт ГК РНТ, на котором будут приведены такие сведения, тогда и не надо будет гонять по всему миру её руководству для её очередной «презентации»… КАроче, меньше слов – больше денег!.. ;-)</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="114" EndNode="121">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="421" EndNode="554">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1617" EndNode="1631">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="421" EndNode="523">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="402" EndNode="416">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="421" EndNode="554">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="487" EndNode="493">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1584" EndNode="1599">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1998" EndNode="2012">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="450" EndNode="462">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="421" EndNode="554">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1633" EndNode="1668">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1218" EndNode="1260">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1926" EndNode="1940">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="421" EndNode="523">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1424" EndNode="1438">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="330" EndNode="344">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1113" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="421" EndNode="554">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Вчера, <Node id="8"/>26 августа<Node id="18"/>, в рамках пленарного заседания XVI научной конференции Академии наук исламского мира «Наука, технологии, инновации для устойчивого развития исламского мира. Сближение политиков и ученых», состоялось обсуждение вопросов развития нанотехнологий.
+
+Вниманию участников конференции были представлены доклады ведущих специалистов в области нанотехнологий Саламбека Хаджиева члена-корреспондента РАН, почетного члена АН РТ и <Node id="437"/>Кева Салихова<Node id="450"/>, члена-корреспондента РАН, академика АН РТ посвященные возможностям нанотехнологий в развитии нефтепереработки и нефтехимии, а также потенциальным возможностям электронных спинов в современных технологиях.
+
+О развитии нанотехнологий в Республике Татарстан рассказал первый вице-премьер министр Республики Татарстан Борис Павлов. В качестве цели своего выступления он определил «привлечение участников конференции к работе разработке промышленного использования нанотехнологий в республике». Борис Павлов описал основные механизмы функционирования комплексного проекта по развитию наноидустрии в РТ, а также представил основные достижения в этой области <Node id="1104"/>на сегодняшний день<Node id="1123"/>. <Node id="1125"/>Он<Node id="1127"/> подчеркнул, что <Node id="1144"/>сегодня заключено соглашение между Татарстаном и государственной корпорацией «Роснанотех» о совместном финансировании проектов в области изучения нанотехнологий и их внедрения в промышленность<Node id="1336"/>.
+
+«Основной целью данного проекта является коммерциализация науки в данном направлении и создание уникальных потребительских продуктов, которые будут конкурентоспособны на мировом рынке», – отметил он.
+
+В рамках параллельного пленарного заседания конференции обсуждались также проблемы устойчивого развития. Главная тематика выступлений здесь была связана с экологическими вопросами. В частности, участники научного форума обсудили доклады, посвященные охране природы в Исламе, изменению глобального климата мусульманских стран, а также экологические аспекты устойчивого развития в целом.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="437" EndNode="450">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салихов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1125" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1104" EndNode="1123">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="10" Type="цитаты" StartNode="1144" EndNode="1336">
+</Annotation>
+<Annotation Id="11" Type="темы" StartNode="1144" EndNode="1336">
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="1144" EndNode="1336">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1125" EndNode="1336">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="цитаты" StartNode="1144" EndNode="1336">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="1144" EndNode="1336">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

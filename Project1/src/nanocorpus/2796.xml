@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В <Node id="4"/>настоящее время<Node id="19"/> одними из перспективных устройств получения электрической энергии для широкого применения являются топливные элементы (<Node id="139"/>ТЭ<Node id="141"/>), работы по созданию которых активно ведутся во всем мире, в том числе и в нашей стране. В <Node id="233"/>следующем году<Node id="247"/> исполнится уже <Node id="263"/>170 лет<Node id="270"/> с момента создания первого из перспективного семейства так называемых топливных элементов, которые являются важной составляющей частью активно развивающейся альтернативной энергетики, призванной решить такие глобальные задачи, как борьба с "энергетическим голодом" и экологические проблемы. Ниже приводится ряд простых вопросов, которые позволят Вам проверить свои базовые представления об источниках тока Будущего и использовании в них <Node id="708"/>наноматериалов<Node id="722"/>. 
+ Группа ОНЭКСИМ - Норильский Никель при поддержке Российской Академии  Наук и Национальной Инновационной Компании "Новые энергетические проекты" (<Node id="871"/>НИК<Node id="874"/>-НЭП) - являются спонсорами второй Всероссийской Интернет-олимпиады по нанотехнологиям.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="4" EndNode="19">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="233" EndNode="247">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="139" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="708" EndNode="722">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="871" EndNode="874">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="263" EndNode="270">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

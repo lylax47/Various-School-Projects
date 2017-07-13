@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Инженеры из MIT (Массачуссетского Технологического Института) получили первые изображенея отдельных атомов на поверхности и вблизи поверхности <Node id="144"/>наночастиц<Node id="154"/>, положенных в основу экологически благоприятных топливных элементов. Работа может привести к созданию более эффективных катализаторов для накопителей энергии.
+
+Известно, что <Node id="329"/>наночастицы<Node id="340"/> из платины и кобальта являются катализаторами некоторых химических реакций, происходящих в топливных элементах, увеличивая скорость этих реакций в несколько раз выше, чем чистая платина, используемая как катализатор такой реакции. Но, пожалуй никто не понимает почему. Это происходит по той простой причине, что очень мало известно об атомной структуре и химии поверхностей <Node id="715"/>наночастиц<Node id="725"/>, которые и являются ключевыми к их активности.
+
+Группа исследователей MIT, <Node id="801"/>возглавляемая<Node id="814"/> Янг Шао-Хорн (Yang Shao-Horn), адъюнкт-профессором депертаментов Инженерной Механики и Материаловедения и Инженерии (он же директор <Node id="947"/>Лабоатории<Node id="957"/> Электрохимической Энергии) при содействии профессора Пауло Феррейра (Paulo Ferreira) из Университета Техаса в Остине (University of Texas at Austin) и д-ра Ларри Олларда (Dr. Larry Allard) из Национальной Лаборатории Оук Ридж (Oak Ridge National Laboratory) используя новую технику, известную как <Node id="1255"/>сканирующая электронная микроскопия<Node id="1290"/> с аберрационной коррекцией, сумела идентифицировать специфические структуры атомов вблизи поверхности частиц катализатора. Анализируя полученные данные, исследователи попытались создать теорию активности материала, которая может быть полезной при дальнейших исследованиях.
+
+Результаты работы («Enhanced Activity for Oxygen Reduction Reaction on “Pt3Co” Nanoparticles: Direct Evidence of Percolated and Sandwich-Segregation Structures») были опубликованы <Node id="1745"/>24 сентября<Node id="1756"/> в интернет-выпуске журнала Journal of the American Chemical Society.
+
+Исследователи проанализировали два варианта частиц кобальта и платины – обработанных кислотой и обработанных кислотой в высокотемпературной среде. В обоих случаях <Node id="1990"/>наночастицы<Node id="2001"/> обладали более высокой активностью, чем отдельно взятые частицы только платины. Было также определено, что в каждом случае имеется некоторое различие в структуре поверхности. Например, в случае <Node id="2196"/>наночастиц<Node id="2206"/>, подвергнутых тепловой обработке, платина и кобальт формируют «сэндвичеподобные» структуры. При этом, атомы платины по преимуществу формируют большую часть поверхностного слоя, в то время, как атомы кобальта располагаются в основном в следующем, подповерхностном, слое. Последующие слои содержат смесь атомов платины и кобальта.
+Изображение слева демонстрирует две <Node id="2572"/>наночастицы<Node id="2583"/> платина-кобальт, используемые для катализации (см. отштрихованные зоны), которые представляют собой «сэндвичеобразные» структуры атомов платины и кобальта, расположенные вблизи поверхности. Справа- модель поперечного среза, соответствующего нижней частице. На рисунке показан внешний слой, обогащенный атомами платины и второй слой, обогащенный атомами кобальта.
+Экспериментально определено, что такие <Node id="2986"/>наночастицы<Node id="2997"/> являются в 4 раза более активными катализаторами, чем частицы платины. Теоретическое предположение о повышенной активности нано-катализатора из двух частиц заключается в том, что атомы платины на поверхности связаны нижележащими атомами кобальта. Это изменяет межатомные расстояния между атомами платины на поверхности <Node id="3317"/>наночастицы<Node id="3328"/>, делая их более активными в химических реакциях, ключевых для ячеек топливных элементов. Работа, по мнению авторов, способствует пониманию различий в электрокатализе между массивными и нано-материалами.
+
+Работа была профинансирована <Node id="3562"/>Министерством Энергетики<Node id="3586"/> и Национальным Научным Фондом США.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="2986" EndNode="2997">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="2196" EndNode="2206">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="329" EndNode="340">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Сканирующая+электронная+микроскопия" StartNode="1255" EndNode="1290">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="144" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="801" EndNode="814">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="3317" EndNode="3328">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="715" EndNode="725">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="801" EndNode="814">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="2572" EndNode="2583">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1990" EndNode="2001">
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="3562" EndNode="3586">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерством Энергетики</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1745" EndNode="1756">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="947" EndNode="957">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лабоатории</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Наночастицы<Node id="11"/> улучшают препараты против ракаОнкологические средства обычно вызывают ряд побочных эффектов, таких как тошнота, потеря веса и даже проблемы с сердцем. Возможно, всё это в прошлом: опыты на мышах показали, что рост опухоли можно остановить с помощью более низких (то есть безопасных) концентраций препаратов.
+Вверху: <Node id="328"/>наночастицы<Node id="339"/> (голубой цвет) нацеливаются на опухоль поджелудочной железы (серый). Слева внизу: здоровая ткань поджелудочной железы (красный). Справа внизу: опухоль с <Node id="493"/>наночастицами<Node id="506"/> (зелёный) атакует кровеносные сосуды.
+Фокус в том, что с помощью <Node id="572"/>наночастиц<Node id="582"/> можно более эффективно и целенаправленно доставлять действующее вещество лекарств в кровеносные сосуды вокруг опухоли.
+
+Метастазы — вторичные очаги патологического процесса – должны «подкармливаться» первичной опухолью. Она, в свою очередь, должна иметь доступ к питательным веществам и кислороду – через систему кровеносных сосудов.
+ Растёт опухоль – сеть сосудов тоже должна расти. Этот процесс называется ангиогенезом. В злокачественных образованиях он протекает постоянно и более интенсивно, чем обычно – за это ответственна рецепторная клетка avβ3, которая «обитает» на внутренней части сосудов, снабжающих злокачественно образование питательными веществами. 
+Исследователи Дэвид Череш (David Cheresh) из Калифорнийского университета в Сан-Диего (University of California, San Diego) и <Node id="1374"/>его<Node id="1377"/> коллеги решили нацелиться на эту клетку нанотехнологиями. Они изготовили активную <Node id="1460"/>наночастицу<Node id="1471"/>, способную воздействовать на avβ3. 
+В дальнейшем эти частицы и микродозы противоракового препарата Doxorubicin и вводили подопытным мышам, которым до этого имплантировали раковые клетки поджелудочной железы человека.
+ После <Node id="1696"/>11 дней<Node id="1703"/> инъекций у мышей с «антирецепторами» рост метастазов был на <Node id="1764"/>82%<Node id="1767"/> меньше в сравнении с контрольной группой. Доктор <Node id="1817"/>Череш считает, что его технология позволит «кардинальным образом» изменить лекарственную терапию раковых больных<Node id="1929"/>.
+
+А вот Грегори Ланца (Gregory Lanza) из университета Вашингтона в <Node id="1997"/>Сент<Node id="2001"/>-Луисе (Washington University in St. Louis) не разделяет его энтузиазма, поскольку полученные результаты, на его взгляд, всего лишь «ещё один кирпичик» в огромном фундаменте борьбы с раком, возводимом ведущими мировыми университетами, исследовательскими центрами и фармацевтическими компаниями.
+ По словам американца, учёным ещё предстоит разобраться в процессе ангиогенеза, связанного с онкологическими заболеваниями, чтобы применить новые подходы на практике. <Node id="2463"/>http://www.membrana.ru/lenta/?8437‹Smart<Node id="2503"/> bomb› nanoparticle strategy impacts <Node id="2540"/>metastasishttp://www.eurekalert.org/…bn070208.phpНу<Node id="2591"/> вот ещё одна атака на рак под прикрытием «нанотехнологического щита». Действительно, пусть это «ещё один кирпичик» в огромном фундаменте борьбы с раком, возводимом ведущими мировыми университетами, исследовательскими центрами и фармацевтическими компаниями, но можно надеяться, что такая планомерная и систематическая осада этой «крепости» в конце концов приведёт к её падению. Новых успехов и удач исследователям и специалистам в данной области!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="0" EndNode="11">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="328" EndNode="339">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="1764" EndNode="1767">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2463" EndNode="2503">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1817" EndNode="1929">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="493" EndNode="506">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1374" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="572" EndNode="582">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1460" EndNode="1471">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="1997" EndNode="2001">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="1817" EndNode="1929">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1696" EndNode="1703">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="2540" EndNode="2591">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Одной из главных задач современной атомной энергетики является совершенствование технологий обращения с радиоактивными отходами. <Node id="131"/>Наночастицы<Node id="142"/> металлического железа являются перспективным материалом для создание проницаемых реакционных барьеров,очиающих подземные воды. На фотографии изображены продукты окисления <Node id="314"/>наночастиц<Node id="324"/> железа.
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="314" EndNode="324">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="131" EndNode="142">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

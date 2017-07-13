@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Тончайшие материалы будут внедряться ускоренными темпами
+Вчера прошло первое заседание правительственного совета по нанотехнологиям, образованного всего <Node id="153"/>неделю назад<Node id="165"/>. Председатель совета первый вице-премьер Сергей Иванов ответственно заявил:
+ 
+«Мы стоим на пороге настоящей нанореволюции, которая способна перевернуть всю нашу жизнь».
+ 
+Успешные примеры первый вице-премьер привел из советской практики – это «Атомный проект» и «Программа освоения космического пространства».
+
+По-ленински озвучил Иванов и свои июньские тезисы. Синергия успеха, по <Node id="548"/>его<Node id="551"/> словам, базируется на совместной работе «товарищей из государства, науки и бизнеса». В этих целях <Node id="650"/>до 2015 года<Node id="662"/> для дела нанореволюции будет выделено 200 млрд бюджетных рублей. Из них 130 млрд выделят <Node id="752"/>до конца этого года<Node id="771"/>.
+ 
+«Полагаю и даже уверен, что и бизнес-сообщество не останется в стороне от данного процесса», – намекнул Сергей Иванов бизнес-товарищам, бросив взгляд на сидевшего в зале главу Группы ОНЭКСИМ Михаила Прохорова<Node id="983"/>.<Node id="984"/>
+ Михаил Прохоров
+Последний накануне заседания заявил, что за <Node id="1046"/>четыре года<Node id="1057"/> вложил в исследования в области водородной энергетики <Node id="1112"/>более $300 млн.<Node id="1127"/> Основной проблемой Прохоров считает не отсутствие наномозгов, способных в России создать мельчайшие материалы, а в нехватке рынков сбыта.
+По данным Иванова, нанотехнологиями в России занимаются 150 научных организаций, а 70 компаний уже производят и реализуют на рынке продукцию наноиндустрии.
+ 
+«<Node id="1425"/>Нанотехнологии нельзя строить на песке. Они должны быть следствием конкурентных преимуществ страны», – считает Прохоров<Node id="1544"/>.
+ 
+По его словам, основная задача нанокорпорации и правительственного наносовета – построить цепочку от академической науки к отраслевым институтам и далее в рынок. Эту идею в условиях отрыва в России академической науки от экономической практики давно пытается реализовать нынешний глава Минобрнауки Андрей Фурсенко<Node id="1861"/>.<Node id="1862"/> По <Node id="1866"/>его<Node id="1869"/> словам, все нанопроекты впредь должны носить четко выраженный рыночный характер, а проекты государственно-частного партнерства должны поддерживаться на ранних стадиях, как при венчурном инвестировании.
+
+Тем не менее для завоевания нанорынка Россия может поступить хитрее. Прежде чем создать нанотехнологии, нужно придумать систему их сертификации и разработать стандарты.
+ 
+«<Node id="2245"/>Кто предложит стандарты, будет контролировать этот рынок», – уверенно заявил <Node id="2322"/>Андрей Фурсенко<Node id="2337"/> и предложил создать в рамках совета рабочую группу. <Node id="2390"/>Сергей Иванов этим предложением сразу же заинтересовался: «Так вы говорите<Node id="2464"/>, у нас со стандартами плохо…<Node id="2493"/>»
+ <Node id="2496"/>ЕВГЕНИЙ<Node id="2503"/> <Node id="2504"/>БЕЛЯКОВhttp://gzt.ru/…/220016.htmlПроцесс<Node id="2545"/> пошёл… И, как говорится, то ли ещё будет!… Ну, поживём – увидим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="2245" EndNode="2337">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="153" EndNode="165">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1425" EndNode="1544">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="650" EndNode="662">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="2245" EndNode="2337">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1112" EndNode="1127">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1046" EndNode="1057">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2504" EndNode="2545">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="2390" EndNode="2493">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="752" EndNode="771">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1866" EndNode="1869">
+</Annotation>
+<Annotation Id="14" Type="работает" StartNode="1861" EndNode="1862">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="983" EndNode="984">
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="1861" EndNode="1862">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="548" EndNode="551">
+</Annotation>
+<Annotation Id="19" Type="работает" StartNode="983" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="1425" EndNode="1544">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="2496" EndNode="2503">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Евгений</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="встречи_и_переговоры" StartNode="2322" EndNode="2464">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="2390" EndNode="2493">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

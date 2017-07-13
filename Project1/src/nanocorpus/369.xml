@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+В Астане начал работу двухдневный международный семинар «Путь в Европу: партнерство межу учеными Европы и СНГ для участия в седьмой рамочной программе Европейского Союза FP7 FAFB», передает Казинформ.
+
+«<Node id="204"/>Семинар проводится в целях создания партнерства между учеными Европейского Союза, Восточной Европы и Центральной Азии, работающих в области модернизации реального сектора экономики и трансферта технологий и знаний, развития инновационной деятельности и инжиниринга<Node id="468"/>», – сказала национальный координатор седьмой рамочной программы ЕС Камила Магзиева<Node id="551"/>.
+
+«<Node id="555"/>В течение двух дней<Node id="574"/> более 100 ученых из 25 стран мира примут участие в работе четырех секций семинара: продукты питания и аграрные исследования; биотехнологии; новые технологии для улучшения здоровья и окружающей среды, связанные с продуктами питания, аграрными исследованиями и биотехнологиями; нанотехнологии и новые материалы», – добавила она.
+
+По мнению организаторов, семинар позволит участникам не только презентовать исследовательские предложения, но и предоставит возможность представителям университетов, исследовательских центров и компаний создать двусторонние соглашения по исследованию и внедрению научных результатов с коммерческими и промышленными партнерами.
+
+Мероприятие организовано независимым экспертно-консультативным советом по поддержке научных исследований в Казахстане, АО «Центр инжиниринга и трансферта технологий» при поддержке делегации Европейской комиссии в Республике Казахстан, Кыргызской Республике и Республике Таджикистан.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается_с" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="14" Type="упоминает" StartNode="204" EndNode="551">
+</Annotation>
+<Annotation Id="15" Type="упоминается_с" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="555" EndNode="574">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="204" EndNode="468">
+</Annotation>
+<Annotation Id="18" Type="упоминается" StartNode="204" EndNode="551">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>IV Международная конференция «Геномика, протеомика, биоинформатика и нанотехнологии для медицины»Александр Иванович Арчаков, академик РАМН, директор институтаМесто проведения:
+
+Россия, Москва
+Время проведения: <Node id="210"/>01 июля 2008 – 07 июля 2008<Node id="237"/>Научные сессии:
+Геномика.
+
+Протеомика.
+
+Биоинформатика.
+
+Нанобиотехнологии и наномедицина.
+Симпозиумы:
+Системная биология.
+
+Синтетическая биология.
+
+Персонифицированная медицина.
+Последний срок предварительной регистрации:
+<Node id="460"/>1 марта 2008 года<Node id="477"/>.
+Организаторы:
+Международный союз по биохимии и молекулярной биологии (IUBMB), Международная организация «Протеом человека» (HUPO), Международный Научно-Технический Центр (МНТЦ), Федеральное агентство по науке и инновациям, Министерство здравоохранения и социального развития РФ, Российская академия медицинских наук (РАМН), Российский фонд фундаментальных исследований (РФФИ), Московский комитет по науке и технологиям (МКНТ), Департамент науки и промышленной политики г. Москвы, ГУ НИИ биомедицинской химии РАМН, Российский филиал международной организации Протеом человека (RHUPO), Некоммерческое партнерство «Центр протеомных исследований»
+Контактная информация:
+119121, Москва, ул. Погодинская, 10,
+
+ГУ НИИ биомедицинской химии РАМН
+Шадрина Татьяна
+тел.: (495) 246–34–66,
+
+факс: (495) 245–08–57,
+
+е-mail: <Node id="1288"/>inst@ibmc.msk.ruhttp://www.cbio.ru<Node id="1322"/>/…/article.php?…ГУ НИИ Биомедицинской химии имени <Node id="1372"/>В.Н.Ореховича<Node id="1385"/> РАМН…В Институте развиваются нанобиотехнологические подходы, обладающие на несколько порядков более высокой чувствительностью и быстродействием по сравнению с использующимися в <Node id="1563"/>настоящее время<Node id="1578"/> стандартными методами анализа. К ним относятся методы, основанные на использовании оптических наноструктурных <Node id="1689"/>биосенсоров<Node id="1700"/>, сопряженных с масс-спектрометрами, атомно-силовыми микроскопами, дающие возможность выявлять, концентрировать и идентифицировать функционально-значимые биомакромолекулы в биологических жидкостях, в широком диапазоне концентраций (от микро- до аттомолей)….
+<Node id="1958"/>http://www.ibmc.msk.ru/main/?…Сколько<Node id="1995"/> непонятных слов и выражений…;-))) Но суть в том, что всё это – медицинская биохимия, которая рассматривает живые организмы как своеобразные биохимические фабрики, в которых могут случаться и аварии, и остановки, и сбои… Подробнее об этом можно почитать в популярной статье «Микрочип с макровозможностями» <Node id="2301"/>(http://bio.fizteh.ru/…hip_imb.html).<Node id="2338"/> Главное для нас будет то, что в Институте в <Node id="2383"/>настоящее время<Node id="2398"/> развиваются нанобиотехнологические подходы, обладающие на несколько порядков более высокой чувствительностью и быстродействием по сравнению с использующимися в <Node id="2559"/>настоящее время<Node id="2574"/> стандартными методами анализа. А это значит, что передовая наука использует самые передовые методы исследований…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="1288" EndNode="1322">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Биосенсор" StartNode="1689" EndNode="1700">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1563" EndNode="1578">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1958" EndNode="1995">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1372" EndNode="1385">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="460" EndNode="477">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="2559" EndNode="2574">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="210" EndNode="237">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="2301" EndNode="2338">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="2383" EndNode="2398">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи Стэнфордского Университета показали, что <Node id="56"/>углеродные <Node id="67"/>нанотрубки<Node id="77"/>, покрытые полимером для биосовместимости способны транспортировать как противораковые препараты, так и флюоресцирующие вещества для диагностики.
+
+В работе, опубликованной в ACS Nano, удалось показать, что одностенные <Node id="295"/>углеродные <Node id="306"/>нанотрубки<Node id="316"/>, растворенные в воде с помощью покрытия из полиэтиленгликоля, поглощали противораковый препарат доксорубицин. Причем в кислой среде раковых клеток (в отличие от крови) препарат быстро покидал <Node id="509"/>нанотрубки<Node id="519"/>.
+
+Кроме того, исследователи показали, что таким же образом можно доставлять и флюоресцирующие молекулы (флюоресцин) для диагностических целей. Количество связанных молекул лекарства зависит от диаметра <Node id="722"/>нанотрубки<Node id="732"/>, таким образом можно регулировать «дозы» препаратов. В работе вводится понятие функционального разбиения (functionalization partitioning) <Node id="871"/>нанотрубок<Node id="881"/>, которое возникает благодаря использованию различных функциональных «дополнений».
+ 
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="306" EndNode="316">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="722" EndNode="732">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="295" EndNode="316">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="509" EndNode="519">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="56" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="67" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="871" EndNode="881">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

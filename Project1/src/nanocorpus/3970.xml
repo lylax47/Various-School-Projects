@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Дни<Node id="3"/> рожденияСегодня исполняется <Node id="32"/>47 лет<Node id="38"/> генеральному директору госкорпорации «Роснанотех» Леониду Меламеду
+<Node id="106"/>С днем<Node id="112"/> рождения его поздравляет 1-й заместитель председателя совета директоров АФК «Система» Александр Гончарук<Node id="217"/>:<Node id="218"/>
+
+— <Node id="222"/>Леня<Node id="226"/>! Поздравляю <Node id="239"/>с днем<Node id="245"/> твоего рождения! Будь счастлив и здоров. Будь крепок и силен, так как направление, которое ты не так давно возглавил, требует выносливости, выдержки, изобретательности. Я не понаслышке знаю, как это трудно — развивать нанотехнологии. Это очень интересное и очень рискованное занятие. Именно эта сфера определит вектор развития нашей державы на ближайшие <Node id="600"/>10–15 лет<Node id="609"/>. Я уверен, что ты не только справишься, но и успешно справишься с возложенной на тебя задачей. Потому что ты очень талантливый и ответственный. Обнимаю тебя крепко. Твой Гончарук.
+«Коммерсантъ», № 105(3922) от <Node id="820"/>21.06.2008http://www.kommersant.ru/doc.aspx?…Мы<Node id="867"/> также – от все души – поздравляем уважаемого Леонида Борисовича и желаем ему всего доброго: крепкого здоровья, счастья и новых успехов на благо развития отечественной отрасти нанотехнологий! Как говорится, «с нанотехнологическим приветом»!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="106" EndNode="112">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="217" EndNode="218">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="32" EndNode="38">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="222" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Леня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="32" EndNode="38">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="820" EndNode="867">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="239" EndNode="245">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="600" EndNode="609">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="217" EndNode="218">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель совета директоров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

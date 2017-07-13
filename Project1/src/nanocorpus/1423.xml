@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+«24/7» – так озаглавили на Интернет сайтах новый подход к использованию солнечных элементов, заявленный исследователями Массачусеттского института технологий (Massachusetts Institute of Technology – MIT) в недавней публикации в журнале Science (выпуск от <Node id="256"/>31 июля с.г.<Node id="268"/>) [1,2].
+
+Система включает фотовольтаические солнечные элементы в комбинации с каталитическим разложением воды на газообразные водород и кислород, в дальнейшем используемые в топливных элементах (см. рис.) для генерации электричества в ночное время. В качестве источника питания при электролизе используют избыточное дневное электричество, генерируемое солнечными элементами. Авторам удалось разработать эффективный и дешевый катализатор, который добавляют в воду. Используемый в <Node id="748"/>настоящее время<Node id="763"/> катализатор – оксид никеля – токсичен, что удорожает процедуру электролиза, так как требует герметичных сосудов из некорродирующих материалов и последующую безопасную утилизацию отходов. Новый катализатор – фосфат кобальта, экологически безопасный, имеет низкую реакционную способность, что позволяет использовать открытые из недорогих материалов контейнеры для воды.
+С.<Node id="1134"/>Т.К.См<Node id="1140"/>. также: История <Node id="1157"/>Майка Стризки<Node id="1170"/> в картинках, или экскурсия в «солнечно-водородный» дом</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="748" EndNode="763">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1157" EndNode="1170">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Майка</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1134" EndNode="1140">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="256" EndNode="268">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

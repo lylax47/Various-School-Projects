@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Исследователи из University of Michigan Comprehensive Cancer Center, используя <Node id="81"/>наночастицы<Node id="92"/>, смогли обеспечить высокую концентрацию фотосенсибилизирующих препаратов прямо в опухоли мозга. Более того, те же <Node id="207"/>наночастицы<Node id="218"/> могут быть задействованы для формирования изображения опухоли в процессе лечения [Clin. Cancer Res. 2006 12 22]. 
+ 
+Опухоли мозга довольно непросто лечить, так как гематоэнцефалический барьер препятствует проникновению в мозг крупных молекул и частиц, необходимых для проведения химиотерапии или фотодинамической терапии (ФДТ). На помощь приходят <Node id="566"/>наночастицы<Node id="577"/>, несущие на борту полезные препараты. 
+ 
+Ученые спроектировали <Node id="641"/>наночастицы<Node id="652"/> на основе фотофрина и оксида железа. Фотофрин является сенсибилизатором для ФДТ. Он способен проникать в клетки опухолей и разрушать их под действием света. А оксид железа используется как контрастное вещество для улучшения изображений, получаемых с помощью магнитного резонанса (MRI). 
+ 
+<Node id="942"/>Наночастицы<Node id="953"/> были протестированы на клеточных культурах и животных, и оказалось, что фотофрин в основном попадает в опухоль, т.е. достигается необходимая селективность накопления фотосенсибилизатора. Это позволяет избежать таких побочных эффектов ФДТ, как повышенная чувствительность кожи к дневному свету. 
+ 
+Результаты испытаний на животных показали, что после применения <Node id="1315"/>наночастиц<Node id="1325"/> с фотофрином лабораторные крысы жили в среднем <Node id="1373"/>33 дня<Node id="1379"/>, в то время как после обычной фотодинамической терапии  фотофрином лишь <Node id="1452"/>13 дней<Node id="1459"/>. А <Node id="1463"/>40 %<Node id="1467"/> крыс <Node id="1473"/>через 6 месяцев<Node id="1488"/> и вовсе излечились от недуга. 
+ 
+Магнитно-резонансная томография (MRI) позволяет определить, куда именно были доставлены <Node id="1610"/>наночастицы<Node id="1621"/>. Кроме того, их селективное проникновение в опухоль мозга  поможет  диагностировать болезнь на ранних стадиях, а также определить, когда необходимо ввести новую дозу препарата. 
+ 
+Если будет доказана безопасность для человека методики избирательного проникновения <Node id="1886"/>наночастиц<Node id="1896"/> в опухоль, это позволит пересмотреть возможности использования ранее отвергнутых веществ, например, токсичных для обычных тканей. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="81" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1463" EndNode="1467">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1315" EndNode="1325">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1373" EndNode="1379">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="566" EndNode="577">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="641" EndNode="652">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="942" EndNode="953">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1610" EndNode="1621">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1452" EndNode="1459">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="207" EndNode="218">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1473" EndNode="1488">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1886" EndNode="1896">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

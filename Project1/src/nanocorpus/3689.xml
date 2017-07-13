@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Национальная инновационная компания 
+&lt;Новые энергетические проекты&gt; учреждена в <Node id="81"/>2005 г.<Node id="88"/> в качестве универсального интегратора, способного эффективно управлять различными видами деятельности по разработке, созданию и коммерциализации на внутреннем и внешнем рынках конкурентоспособных продуктов альтернативной энергетики (АЭ), водородных технологий (ВТ) и топливных элементов (<Node id="377"/>ТЭ<Node id="379"/>). 
+ 
+Является инвестиционной и управляющей компанией по реализации комплексной программы , которая была инициирована ОАО  и Российской академией наук в <Node id="532"/>ноябре 2003 г.<Node id="546"/>  
+Сотрудничает и ведет совместные разработки с более чем 50 научными организациями РАН, промышленными и конструкторскими организациями, ведущими профильными зарубежными компаниями. Принимает активное участие в разработке проектов Концепции и Национальной программы по водородной энергетике, определяющей её развитие в России <Node id="872"/>до 2050 г.<Node id="882"/> на основе партнерства государства, науки и бизнеса.
+ 
+Генеральный директор - член-корреспондент РАН Кузык Борис Николаевич<Node id="1005"/>, тел.: + 7 (495) 787-2400, факс: + 7 (495) 787-2433; E-mail: <Node id="1067"/>kuzyk@nic-nep.ru<Node id="1083"/> 
+Заместитель генерального директора - директор программы  - Туманов Владимир Леонидович, тел.: + 7 (495) 787-2424, 787-2430, факс: + 7 (495) 787-2444; E-mail: <Node id="1243"/>tumanov@nic-nep.ru<Node id="1261"/> Компания уделит особое внимание участникам, успешно решившим блок задач по АЛЬТЕРНАТИВНОЙ ЭНЕРГЕТИКЕ. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="872" EndNode="882">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="встречи_и_переговоры" StartNode="377" EndNode="1005">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="81" EndNode="88">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="377" EndNode="379">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тэ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Электронная_почта" StartNode="1243" EndNode="1261">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1067" EndNode="1083">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="532" EndNode="546">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

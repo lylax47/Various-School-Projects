@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+Основное событие за <Node id="243"/>прошедшую неделю<Node id="259"/> – визит ГК «Роснанотех» в США. Мы будем информировать вас о новостях, связанных с ним, а также, если удастся узнать дополнительную информацию о встрече делегаций. Также читайте о ряде прорывов в области наномеханики и материаловедения.
+Итак, – nanoWeek 26 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="243" EndNode="259">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

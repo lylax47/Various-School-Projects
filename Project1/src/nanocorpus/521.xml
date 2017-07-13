@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Перед решением задачи, пожалуйста, прочитайте здесь инструкции и советы... 
+<Node id="77"/>Углеродные <Node id="88"/>нанотрубки<Node id="98"/> – один из самых популярных объектов нанохимии. Потенциально они имеют множество применений – в катализе, энергетике, электронике. Для реализации этих возможностей необходимо знать различные свойства <Node id="298"/>нанотрубок<Node id="308"/>, в том числе физико-химические свойства одностенных <Node id="361"/>углеродных <Node id="372"/>нанотрубок<Node id="382"/> (далее «ОТ»).
+ 
+1. Что такое энтальпия образования (ЭО) одностенной <Node id="451"/>углеродной <Node id="462"/>нанотрубки<Node id="472"/> (1 балл)? Напишите уравнение реакции, энтальпия которой равна ЭО (1 балл). В каких единицах можно измерить ЭО (1 балл)? Какой знак будет иметь эта величина, положительный или отрицательный (1 балл)?
+ 
+2. Предложите самый простой, по Вашему мнению, экспериментальный метод определения ЭО <Node id="760"/>углеродной <Node id="771"/>нанотрубки<Node id="781"/> (2 балла).
+ 
+3. При определении величины энтальпии образования химического вещества необходимо точно охарактеризовать его с помощью физических параметров, иначе приводимое значение энтальпии не будет иметь смысла. Выберите из приводимого ниже списка минимальный набор параметров, однозначно описывающий состояние одностенной <Node id="1107"/>углеродной <Node id="1118"/>нанотрубки<Node id="1128"/> (2 балла):
+ 
+(1) Температура, (2) плотность, (3) внешнее давление, (4) электропроводность, (5) длина <Node id="1230"/>нанотрубки<Node id="1240"/>, (6) диаметр <Node id="1254"/>нанотрубки<Node id="1264"/>, (7) растворимость в бензоле, (8) растворимость в воде, (9) площадь поверхности в расчете на грамм веса, (10) константа скорости реакции окисления, (11) хиральность <Node id="1430"/>нанотрубки<Node id="1440"/>.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1254" EndNode="1264">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="462" EndNode="472">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1230" EndNode="1240">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="771" EndNode="781">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1118" EndNode="1128">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="760" EndNode="781">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="77" EndNode="98">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="88" EndNode="98">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="372" EndNode="382">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="1107" EndNode="1128">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="451" EndNode="472">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="361" EndNode="382">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1430" EndNode="1440">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="298" EndNode="308">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

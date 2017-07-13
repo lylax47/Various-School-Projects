@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Нанотрубки<Node id="11"/> для водородной энергетики  Решение  
+1. Водород: H2 + ½ O2 = H2O(ж) DH = 286 кДж/моль H2 = 143 кДж/г H2 Углерод: C + O2 = CO2 DH = 393 кДж/моль С = 33 кДж/г C 
+ Метан:СH4 + 2O2 = CO2 + 2H2O(ж) DH = 890 кДж/моль CH4 = 56 кДж/г CH4 Бензин: C8H18 + 25/2 O2 = 8CO2 + 9H2O(ж) DH = 5616 кДж/мольC8H18 = 49 кДж/гC8H18 
+Водород имеет наибольшую удельную теплоту сгорания. 
+ 
+2. Для реакции 
+ H2 + ½ O2 = H2O(ж), которая протекает в водородном топливном элементе, изменение энергии <Node id="485"/>Гиббса<Node id="491"/> при 298 К равно: 
+ 
+DG = DH – TDS = –286 – 298×(–163×10–3) = –237 кДж/моль H2 = – 119 кДж/г H2. 
+ 
+Работа, совершенная при сгорании 1 кг H2 с кпд <Node id="638"/>50%<Node id="641"/>, равна 119×103×0.5 = 59×103 кДж. 
+ 
+Расстояние равно работе, деленной на силу трения (Формула 1): 60 км. 
+ 
+3. Наибольшая массовая доля водорода – в метане, CH4. Она составляет <Node id="819"/>25%<Node id="822"/>. Водород (<Node id="833"/>100%<Node id="837"/> водорода) - простое вещество!
+ 
+4. Каждый атом углерода в графите или <Node id="908"/>нанотрубке<Node id="918"/> может присоединить один атом водорода. В этом случае массовая доля водорода максимальна и равна 1 / (1+12) = 0.077 = <Node id="1036"/>7.7%<Node id="1040"/>. 
+ 
+Пусть 1 моль С присоединил x моль H, тогда массовая доля водорода составит (Формула 2) x = 0.83. Доля связанных атомов углерода составит <Node id="1182"/>83%<Node id="1185"/>, то есть примерно 5/6. 
+ 
+5. <Node id="1215"/>Нанотрубка<Node id="1225"/> имеет форму цилиндра длиной l и диаметром d. Объем трубки V = pd2l / 4, ее поверхность S = pdl. Число шестиугольников на поверхности трубки равно отношению площади трубки к площади шестиугольника (Формула 3). Каждый атом углерода принадлежит трем шестиугольникам, следовательно на один шестиугольник приходится 6/3 = 2 атома углерода, значит общее число атомов C в <Node id="1591"/>нанотрубке<Node id="1601"/>: NC = 120dl. 
+ 
+Найдем число молекул водорода. Известно, что шары при плотнейшей упаковке занимают <Node id="1701"/>74%<Node id="1704"/> от объема пространства. Число шаров в полости трубки равно отношению <Node id="1774"/>74%<Node id="1777"/> объема трубки к объему молекулы (Формула 4). Массовая доля водорода (Формула 5), где d выражено в нм. При диаметре 3 нм массовая доля водорода внутри трубки может достигать <Node id="1951"/>15%<Node id="1954"/>. 
+ 
+Автор – проф. В.В.Еремин 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="485" EndNode="491">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гиббс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="833" EndNode="837">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="819" EndNode="822">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="1951" EndNode="1954">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1" EndNode="11">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1182" EndNode="1185">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1701" EndNode="1704">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="638" EndNode="641">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="908" EndNode="918">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1036" EndNode="1040">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1774" EndNode="1777">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1591" EndNode="1601">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1215" EndNode="1225">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

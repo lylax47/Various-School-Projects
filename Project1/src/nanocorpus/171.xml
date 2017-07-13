@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>20–22 ноября 2007 года<Node id="23"/> в Москве проходит международная специализированная выставка приборов и оборудования для научных исследований «SIMEXPO – Научное приборостроение – 2007», организованная Научным советом РАН по научному приборостроению, компанией «И. Джей Краузе &amp; Эсоушиэтс» при поддержке Российской академии наук, Федерального агентства по техническому регулированию и метрологии, Российского фонда фундаментальных исследований.
+
+Компания НТ-МДТ на своем стенде представит одну из моделей линии нанолабораторий NTEGRA – СЗМ комплекс NTEGRA Aura, позволяющий проводить измерения в условиях вакуума до 10–2 Торр, а также последнюю разработку компании – линию нанотехнологических комплексов на платформе Нанофаб 100, которые, в зависимости от комплектации, могут быть использованы как для исследовательских целей в различных областях нанотехнологии (микро- и наноэлектроника, нанофотоника, наноматериаловедение и пр.), так и для мелкосерийного производства <Node id="960"/>наноструктур<Node id="972"/>, наноэлементов и наноустройств.
+
+Компания приглашает посетителей выставки на свой стенд в Московском Выставочном Центре «КРОКУС-ЭКСПО» (павильон 2. зал №5).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1" EndNode="23">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="960" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

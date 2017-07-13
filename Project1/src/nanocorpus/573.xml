@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+На <Node id="226"/>прошлой неделе<Node id="240"/> произошли два важных события отечественной наноиндустрии: визит представителей ГК «Роснанотех» в Израиль и выбор нового инвестиционного проекта. Помимо этих новостей, в выпуске детально освещены последние достижения биотехнологий, наноэлектроники и материаловедения.
+Итак, – nanoWeek 33 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="226" EndNode="240">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Объединенная группа французских разработчиков из Института электроники, микроэлектроники и нанотехнологий и из лаборатории физики конденсированного состояния создала транзистор из <Node id="181"/>углеродных <Node id="192"/>нанотрубок<Node id="202"/> на кремниевой подложке, предельная частота которого достигает 30 ГГц, сообщает французский Национальный центр научных исследований в своем коммюнике.
+<Node id="353"/>Углеродные <Node id="364"/>нанотрубки<Node id="374"/> — это аллотропная форма углерода, представляющая собой цилиндрические структуры диаметром от одного до нескольких десятков нанометров и длиной до нескольких сантиметров. Их микроскопические размеры и уникальные свойства проводимости делают чрезвычайно удобными для использования в микроэлектронике. Уже <Node id="678"/>несколько лет<Node id="691"/> ведется работа по созданию транзисторов на основе <Node id="742"/>углеродных <Node id="753"/>нанотрубок<Node id="763"/>, один из первых таких транзисторов был изготовлен компанией IBM в <Node id="830"/>2001 году<Node id="839"/>.
+
+Французские разработчики поставили рекорд частоты транзистора на основе <Node id="914"/>углеродных <Node id="925"/>нанотрубок<Node id="935"/> (предыдущий рекорд был установлен ими же в <Node id="979"/>2006 году<Node id="988"/>). Чтобы создать однородную конструкцию из множества выровненных <Node id="1053"/>углеродных <Node id="1064"/>нанотрубок<Node id="1074"/> на кремниевой подложке, использовали так называемый метод диэлектрофореза.
+
+В итоге частота процессора достигает 30 ГГц, причем он работает при комнатной температуре, что обеспечивает его совместимость с другими недорогими подложками (стекло, пластмасса) и возможность его широкого использования.
+<Node id="1372"/>http://lenta.ru/…27/nanotube/Вот<Node id="1404"/> тебе и конкуренция! Заочная форма соревнования между странами и фирмами. Как говорится, на то и щука в пруду, чтобы карась не зевал. Так вот и будут развиваться нанотехнологии, и темп этого развития будет всё нарастать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="181" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="192" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1372" EndNode="1404">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="353" EndNode="374">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="742" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="678" EndNode="691">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="979" EndNode="988">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1064" EndNode="1074">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="753" EndNode="763">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="979" EndNode="988">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="925" EndNode="935">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="830" EndNode="839">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="830" EndNode="839">
+</Annotation>
+<Annotation Id="21" Type="Углеродная+нанотрубка" StartNode="914" EndNode="935">
+</Annotation>
+<Annotation Id="20" Type="Углеродная+нанотрубка" StartNode="1053" EndNode="1074">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="364" EndNode="374">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

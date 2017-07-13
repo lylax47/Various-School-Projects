@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Создан новый основанный на углероде гибридный материал, который может дать новый импульс микроэлектронике. Материал, получивший название «нанопочки», состоит из одностенных <Node id="174"/>углеродных <Node id="185"/>нанотрубок<Node id="195"/>, к внешней поверхности которых привиты молекулы <Node id="244"/>фуллеренов<Node id="254"/>. Разработанный гибридный материал сочетает в себе черты как жестких <Node id="323"/>нанотрубок<Node id="333"/>, так и реакционноспособных <Node id="361"/>фуллеренов<Node id="371"/>, образуя некое подобие ветвей, покрытых почками или побегами. Нанопочки могут применяться в разнообразных микроэлектронных процессах, так как их способность к электронной эмиссии при комнатной температуре гораздо выше, чем просто у <Node id="604"/>углеродных <Node id="615"/>нанотрубок<Node id="625"/>. Международная исследовательская команда, возглавляемая Альбертом Насыбуллиным (Albert Nasibulin) получила нанопочки в результате одностадийного контролированного разложения моноксида углерода на поверхности частиц железа. Первоначально исследователи полагали, что они получили одностенные <Node id="916"/>нанотрубки<Node id="926"/> с аморфным покрытием. Однако использование <Node id="970"/>просвечивающей электронной микроскопии<Node id="1008"/> показало, что большая часть покрытия состоит из ковалентно связанных с поверхностью <Node id="1093"/>нанотрубки<Node id="1103"/> <Node id="1104"/>фуллеренов<Node id="1114"/>. <Node id="1116"/>Фуллерены<Node id="1125"/>, связанные с поверхностью <Node id="1152"/>нанотрубок<Node id="1162"/>, были представлены фракциями C42, C60, и даже C20: самый малый додекаэдр, который может быть составлен из атомов углерода. Фуллереновые почки получаются за счет реакции циклоприсоединения <Node id="1351"/>фуллеренов<Node id="1361"/> с <Node id="1364"/>углеродной <Node id="1375"/>нанотрубкой<Node id="1386"/>. Это приводит к реализации конвейерного цепного процесса, в результате которого почки удаляются от каталитически активных частичек железа, в то время как растут новые <Node id="1554"/>нанотрубки<Node id="1564"/> и почки. Количество <Node id="1585"/>фуллеренов<Node id="1595"/>, связанных с каждой <Node id="1616"/>нанотрубкой<Node id="1627"/> определяется содержанием следовых количеств воды и диоксида углерода в образце СО. Электрические свойства нанопочек являются комбинацией свойств <Node id="1773"/>нанотрубок<Node id="1783"/> и <Node id="1786"/>фуллеренов<Node id="1796"/>. Первые обладают отличной проводимостью и инертностью, вторые вносят реакционную способность и, в особенности, хорошую электронную эмиссию. Это обстоятельство делает нанопочки особенно полезными в микроэлектронике, главным образом там, где востребован эффект холодной электронной эмиссии. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="916" EndNode="926">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="1104" EndNode="1114">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="244" EndNode="254">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="604" EndNode="625">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1093" EndNode="1103">
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="361" EndNode="371">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1554" EndNode="1564">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1616" EndNode="1627">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="1364" EndNode="1386">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1152" EndNode="1162">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="1786" EndNode="1796">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1773" EndNode="1783">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="185" EndNode="195">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="1585" EndNode="1595">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1375" EndNode="1386">
+</Annotation>
+<Annotation Id="15" Type="Просвечивающая+электронная+микроскопия" StartNode="970" EndNode="1008">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="323" EndNode="333">
+</Annotation>
+<Annotation Id="16" Type="Фуллерен" StartNode="1116" EndNode="1125">
+</Annotation>
+<Annotation Id="19" Type="Фуллерен" StartNode="1351" EndNode="1361">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="174" EndNode="195">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="615" EndNode="625">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

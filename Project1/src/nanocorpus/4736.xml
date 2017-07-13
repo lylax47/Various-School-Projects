@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Главный санитарный врач Геннадий Онищенко утвердил концепцию токсикологических исследований, методологии оценки риска, методов идентификации и количественного определения <Node id="171"/>наноматериалов<Node id="185"/>
+В постановлении, в частности предписывается:
+«Руководителям Управлений Роспотребнадзора по субъектам Российской Федерации, главным врачам ФГУЗ "Центр гигиены и эпидемиологии в субъектах Российской Федерации»:
+
+При проведении санитарно-эпидемиологической экспертизы и государственной регистрации продукции, полученной с использованием нанотехнологии или содержащей <Node id="550"/>наноматериалы<Node id="563"/> и организации государственного санитарно-эпидемиологического надзора в организациях использующих нанотехнологии и <Node id="678"/>наноматериалы<Node id="691"/> использовать основные положения Концепции;
+
+С учетом положений Концепции усилить работу с руководителями хозяйствующих субъектов, направленную на разъяснение необходимости размещения в информации для потребителей сведений об использовании при изготовлении продукции нанотехнологий или <Node id="977"/>наноматериалов<Node id="991"/>.
+
+Подробности читайте на сайте Федеральной службы защиты прав потребителей РФ <Node id="1070"/>(http://www.rospotrebnadzor.ru/).<Node id="1103"/>
+<Node id="1104"/>http://www.rg.ru/…i-anons.htmlНу<Node id="1136"/> вот, и на этом участке «НТ-фронта», наконец-то, наведён порядок. Теперь можно надеяться, что дальнейшему развитию НТ в нашей стране более не будет препятствий, а за возможными негативными последствиями будет установлен жёсткий и объективный контроль… И это – хорошо!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1104" EndNode="1136">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="678" EndNode="691">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="550" EndNode="563">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1070" EndNode="1103">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="977" EndNode="991">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="171" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

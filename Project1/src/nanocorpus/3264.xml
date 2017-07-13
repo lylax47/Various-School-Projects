@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="51"/> <Node id="52"/>принял участие в открытии Национального <Node id="92"/>дня<Node id="95"/> России на Всемирной выставке «ЭКСПО-2008»Генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="188"/> <Node id="189"/>принял участие в открытии Национального <Node id="229"/>дня<Node id="232"/> России на Всемирной выставке «ЭКСПО-2008», проходящей в г. Сарагоса (Испания) в составе официальной российской делегации во главе с Министром природных ресурсов и экологии России Юрием Трутневым<Node id="427"/>7 июля 2008 года<Node id="443"/> Генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="495"/> <Node id="496"/>принял участие в открытии Нацинального <Node id="535"/>дня<Node id="538"/> России на специализированной всемирной выставке «ЭКСПО-2008», посвященной теме «Вода и устойчивое развитие». В выставке принимают участие более 100 государств и представители 200 межправительственных организаций.
+
+Основной задачей национальной российской экспозиции на выставке «ЭКСПО-2008» является демонстрация достижений в сфере управления водными ресурсами и экосистемами России, развитие потенциала взаимовыгодного межгосударственного сотрудничества в области исследования, освоения и сохранения Мирового океана.
+ В числе российских участников «EXPO-2008» свои достижения демонстрировал Институт физики прочности и материаловедения Сибирского отделения РАН, проект по системам очистки воды с использованием нанотехнологий которого проходит экспертизу в ГК «Роснанотех».  Леонид Меламед провел ряд встреч с экспонентами павильонов ФРГ и Франции, на которых обсудил возможности сотрудничества в реализации проектов по нанотехнологиям в сфере очистки воды. <Node id="1498"/>http://www.rusnano.com/…8_06_10.htmlИнститут<Node id="1542"/> физики прочности и материаловедения СO <Node id="1582"/>РАНhttp://www.ispms.ru/Ну<Node id="1607"/> что ж, это замечательно! И воды у нас много, и беречь её мы умеем (или только учимся?), и очищать – с помощью нанотехнологий – уже умеем. Всё это здорово! Вот только когда все эти «диковины» мы увидин на прилавках НАШИХ магазинов?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1582" EndNode="1607">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="427" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1498" EndNode="1542">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="535" EndNode="538">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="51" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="51" EndNode="52">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="188" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="495" EndNode="496">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="работает" StartNode="495" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="92" EndNode="95">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="сотрудники" StartNode="188" EndNode="189">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="229" EndNode="232">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

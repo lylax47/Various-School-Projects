@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Перед решением задачи, пожалуйста, прочитайте здесь инструкции и советы... 
+Одностенные <Node id="89"/>углеродные <Node id="100"/>нанотрубки<Node id="110"/> – одни из самых известных примеров <Node id="146"/>наноматериалов<Node id="160"/>. Расcчитайте количество нейтронов в одностенной <Node id="209"/>углеродной <Node id="220"/>нанотрубке<Node id="230"/> типа «зигзаг» длиной N нм и диаметром b нм, открытой с обоих концов и состоящей из природной смеси изотопов углерода (3 балла). Какой тип гибридизации атомов углерода реализуется в <Node id="412"/>нанотрубке<Node id="422"/> (1 балл)? Насколько уменьшится число нейтронов в такой <Node id="478"/>нанотрубке<Node id="488"/> через 1 миллиард <Node id="506"/>лет<Node id="509"/> (2 балла)? 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="146" EndNode="160">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="478" EndNode="488">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="412" EndNode="422">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="220" EndNode="230">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="89" EndNode="110">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="100" EndNode="110">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="209" EndNode="230">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="506" EndNode="509">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

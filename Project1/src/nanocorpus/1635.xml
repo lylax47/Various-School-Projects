@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Несмотря на внешенее сходство, данная структура была создана вовсе не «нанопчелами», а сотрудниками Химического факультета МГУ им. М.В. Ломоносова. Материалы с системой упорядоченных нанопор были открыты только в <Node id="215"/>середине 90х годов прошлого века<Node id="247"/> и в <Node id="252"/>настоящее время<Node id="267"/> являются объеками интенствного изучения исследователей из ведущих лабораторий <Node id="346"/>Мира<Node id="350"/>.
+ 
+Структура, изображенная на микрофотографии, была синтезирована в результате многостадийного химического процесса: наносборка полимерных сферических частиц, пропитка пустот полученного матриала эфиром ортокремниевой кислоты, гидролиз и удаление полимерной матрицы путем температурной обработки. Материал стенок «наносот» – диоксид кремения SiO2.
+    
+ 
+      
+ 
+  
+ 
+              
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="252" EndNode="267">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="215" EndNode="247">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="346" EndNode="350">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мира</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

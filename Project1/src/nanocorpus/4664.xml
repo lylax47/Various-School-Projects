@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компания IBM планирует <Node id="24"/>инвестировать<Node id="37"/> <Node id="38"/>1,5 млрд. долл.<Node id="53"/> в разработку и производство процессоров, пишет <Node id="101"/>Lenta.ru<Node id="109"/>
+Деньги будут распределены между двумя крупными проектами.
+
+<Node id="169"/>1 млрд. долл.<Node id="182"/> IBM направит на модернизацию своего завода в городе Ист Фишкилл, штат Нью-Йорк. Данным решением компания подтвердила свое намерение остаться на рынке процессоров, опровергнув слухи о своем уходе.
+
+<Node id="380"/>0,5 млрд. долл.<Node id="395"/> IBM планирует <Node id="410"/>инвестировать<Node id="423"/> в исследовательские программы колледжа науки и техники наномасштабов при Университете Олбани. Данные средства будут направлены на исследования в области нанотехнологий и полупроводников.
+
+Руководство штата Нью-Йорк, опасавшееся, что в случае закрытия завода IBM в Ист Фишкилле без работы останется тысяча человек, также решило выделить средства на развитие полупроводниковой промышленности.
+
+Всего администрацией штата будет выделено <Node id="858"/>140 млн. долл.<Node id="872"/>, 50 из которых пойдет на строительство научно-исследовательского центра по изучению полупроводников. 90 млн. будет направлено на выплату грантов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="38" EndNode="53">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="858" EndNode="872">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="380" EndNode="395">
+</Annotation>
+<Annotation Id="3" Type="Инвестиции" StartNode="410" EndNode="423">
+</Annotation>
+<Annotation Id="4" Type="Инвестиции" StartNode="24" EndNode="37">
+</Annotation>
+<Annotation Id="5" Type="Инвестиции" StartNode="410" EndNode="423">
+</Annotation>
+<Annotation Id="6" Type="Инвестиции" StartNode="24" EndNode="37">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="169" EndNode="182">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="101" EndNode="109">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

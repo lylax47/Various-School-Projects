@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>Примерно год назад<Node id="20"/> издательство Nature анонсировало новый журнал, посвященный перспективным оптическим материалам и технологиям - Nature Photonics. Благодаря авторитету Nature, в этот журнал практически сразу стали направляться заслуживающие внимания статьи по тематике. К сожалению, поскольку журнал новый, подписка на него отсутствует не только у российских научных организаций (в частности - у МГУ), но даже у многих зарубежных университетов. В связи <Node id="456"/>с Днем<Node id="462"/> Рождения журнала (<Node id="481"/>1 год<Node id="486"/>) многие статьи (2-3 из каждого из 12 выпусков за <Node id="536"/>прошлый год<Node id="547"/>) стали временно доступны бесплатно. Все интересующиеся фотоникой могут ознакомиться с материалами журнала <Node id="654"/>2007 г.<Node id="661"/> на Web-странице журнала.
+  <Node id="689"/>А. Синицкий<Node id="700"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2" EndNode="20">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="481" EndNode="486">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="689" EndNode="700">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Синицкий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="536" EndNode="547">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="456" EndNode="462">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="654" EndNode="661">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

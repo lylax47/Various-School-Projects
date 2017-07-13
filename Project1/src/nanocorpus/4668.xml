@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  <Node id="2"/>Российско-Армянский<Node id="21"/> государственный униветситет квантовые ямы, <Node id="65"/>наноструктура<Node id="78"/>, наноэлектроника, оптоэлектроника   Полупроводниковая наноэлектроника полупроводниковая оптоэлектроника   Исследования возможностей создания новых эффективных приборов для электроники и оптоэлектроники теоретическое исследование электронных, оптических и фотоэлектрических свойств различных полупроводниковых <Node id="388"/>наноструктур<Node id="400"/>, содержащих квантовые ямы, проволоки и точки                             Есаян А.Э., научный сотрудник Казарян Э.М., руководитель проекта, доктор наук Петросян Л. С., кандидат наук Петросян С.Г., руководитель, профессор, доктор наук <Node id="634"/>Саакян М.<Node id="643"/>, аспирант 
+Проблемная научная группа организована в <Node id="696"/>октябре 2002 г.<Node id="711"/> с целью проведения научных исследований по современным проблемам полупроводниковой опто- и наноэлектроники  
+Научные достижения группы:  
+ Теоретическое исследование поперечного фотоэффекта в многослойной структуре с двумерными переходами  
+ исследована вероятность фотоионизации <Node id="992"/>квантовой точки<Node id="1007"/> вблизи порога фотоионизации  
+ в параболических <Node id="1056"/>квантовых точках<Node id="1072"/> найдена энергия ионизации примесей и показана её существенная связь с граничными условиями  
+ изучены электронные состояния в <Node id="1199"/>квантовых точках<Node id="1215"/> с сильно сплюснутой линзообразной поверхностью при наличии магнитного поля  
+ вычислена низкочастотная емкость двумерных p-n- переходов с учетом их реальной структуры  
+ рассчитана низкочастотная контактная ёмкость двумерного p-n перехода      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="65" EndNode="78">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="696" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Квантовая+точка" StartNode="1056" EndNode="1072">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Квантовая+точка" StartNode="1199" EndNode="1215">
+</Annotation>
+<Annotation Id="14" Type="Квантовая+точка" StartNode="992" EndNode="1007">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="388" EndNode="400">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="634" EndNode="643">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Саакян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="2" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Российско-Армянский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

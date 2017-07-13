@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+«<Node id="2"/>Главный риск, который создал нам кризис, состоит не в том, что появится банкротство, а в том, что мы, забыв про все, поедем в массовую поддержку правительством экономики<Node id="171"/>», — заявил в интервью радиостанции «Эхо Москвы» генеральный директор «Российской корпорации нанотехнологий» Анатолий Чубайс<Node id="295"/>.<Node id="296"/>
+
+«<Node id="299"/>Набор решений, которые правительство приняло по поддержке оборонки, девелопмента, сельского хозяйства, розничных торговых сетей, обширен. У меня рука не поднимется его критиковать, потому что я считаю, что на данной стадии это правильно<Node id="535"/>», — отметил А. Чубайс<Node id="557"/>. Однако, <Node id="567"/>он<Node id="569"/> добавил: «<Node id="580"/>Появляется очевидная поддержка слабых вместо поддержки сильных, слабые становятся еще слабее, и сильные становятся слабее. Экономика в целом становится слабее, страна живет беднее. Вот суть стратегической ошибки, риск которой заложен в разумных тактических мерах, принятых правительством за <Node id="871"/>последние три недели<Node id="891"/>».
+
+«<Node id="896"/>Мне кажется, что очень большой риск всего того, что решено, состоит в том, что через какое-то время это и сформирует стратегию. Принимали вроде документ <Node id="1049"/>до 2020 года<Node id="1061"/>, обсуждали его долго и старательно, какие-то компромиссные решения были найдены. Давайте не забудем об этом, а то мы сразу перевернули страницу и поехали в тактику», — сказал А. Чубайс<Node id="1246"/>.
+
+Напомним, что Анатолий Чубайс сопровождает президента России Дмитрия Медведева в Канне, где президент сегодня выступит перед европейскими и российскими предпринимателями на Круглом столе промышленников России и Евросоюза. Российским сопредседателем Круглого стола является глава госкорпорации «Роснанотехнологии» Анатолий Чубайс. Участники встречи — предприниматели, которые заинтересованы в сотрудничестве с РФ. Планируется, что президент выступит перед участниками конференции, а затем ответит на вопросы предпринимателей.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="871" EndNode="891">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="295" EndNode="296">
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="299" EndNode="535">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="2" EndNode="295">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="567" EndNode="569">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1049" EndNode="1061">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="2" EndNode="295">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="299" EndNode="557">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="299" EndNode="535">
+</Annotation>
+<Annotation Id="14" Type="работает" StartNode="295" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="2" EndNode="1246">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="2" EndNode="171">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="299" EndNode="557">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="567" EndNode="891">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="580" EndNode="891">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="896" EndNode="1246">
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="580" EndNode="891">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="автор" StartNode="896" EndNode="1246">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="автор" StartNode="567" EndNode="891">
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="2" EndNode="171">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+РИА Новости. Госкорпорация «Роснано» (ранее – «Роснанотех») получила более 600 заявок на софинансирование инновационных проектов на общую сумму <Node id="145"/>440 миллиардов рублей<Node id="166"/>, сообщил глава корпорации Леонид Меламед.
+
+«У нас сейчас 606 заявок на общую сумму <Node id="250"/>440 миллиардов рублей<Node id="271"/>», – сказал Меламед, отвечая в понедельник на вопросы журналистов.
+
+Однако, по его словам, лишь <Node id="367"/>около 30%<Node id="376"/> из них могут претендовать на средства корпорации, так как остальные претенденты просят профинансировать научно-исследовательские и опытно-конструкторские работы, что не входит в задачи «Роснано».
+
+Меламед напомнил, что к настоящему времени наблюдательный совет корпорации одобрил софинансирование двух проектов, нацеленных на организацию промышленного производства нанотехнологичной продукции. Это производство асферических оптических элементов для фото- видеоаппаратуры и систем спутникового наблюдения стоимостью <Node id="892"/>13 миллионов евро<Node id="909"/> и выпуск металлорежущих станков с наноструктурированным покрытием с инвестициями в <Node id="993"/>1 миллиард рублей<Node id="1010"/>.
+
+«Роснано» берет на себя финансирование половины стоимости проектов, а остальные средства выделяют разработчики и частные инвесторы.
+
+Меламед отметил, что в дальнейшем корпорация ежемесячно будет принимать решения о финансировании пяти проектов. В целом специалисты «Роснано» смогут одновременно вести реализацию 120 проектов, полагает глава корпорации.
+
+«Роснано» была учреждена в <Node id="1394"/>июле 2007 года<Node id="1408"/> для реализации госполитики в сфере нанотехнологий. Корпорация получила из бюджета на софинансирование инновационных проектов <Node id="1534"/>130 миллиардов рублей<Node id="1555"/>. Анализ и отбор первых заявок начался в <Node id="1596"/>апреле<Node id="1602"/> <Node id="1603"/>этого года<Node id="1613"/>. Сейчас свободные средства корпорации размещены на депозитах в восьми российских банках сроком на <Node id="1712"/>1,5 года<Node id="1720"/> под средневзвешенную процентную ставку <Node id="1760"/>10,2%<Node id="1765"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1760" EndNode="1765">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="993" EndNode="1010">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1712" EndNode="1720">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="250" EndNode="271">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1596" EndNode="1602">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="145" EndNode="166">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1534" EndNode="1555">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="892" EndNode="909">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1394" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1603" EndNode="1613">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="367" EndNode="376">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

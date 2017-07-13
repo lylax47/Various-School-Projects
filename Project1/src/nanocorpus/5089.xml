@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> «Наука и жизнь» - старейший и самый известный научно-популярный журнал России. Первый номер вышел в <Node id="101"/>1890 году<Node id="110"/>. Основатель журнала – Матвей Никанорович Глубоковский (1857-1903). Выпуск журнала возобновлен в <Node id="207"/>октябре 1934 года<Node id="224"/> и с тех пор не прекращался ни разу. В <Node id="263"/>1961 году<Node id="272"/> журнала приобрел вид, который и сохраняется до настоящего времени. Основатель современной версии журнала – физик, писатель и поэт Виктор Николаевич Болховитинов. В состав редколлегии и редакционного совета журнала входили такие выдающиеся ученые как Н.И. и <Node id="530"/>С.И. Вавиловы<Node id="543"/>, А.Н.Бах, Ф.М.Гальперин. В <Node id="571"/>настоящее время<Node id="586"/> в составе редакционного совета выдающиеся ученые современности – В.Л.Гинзбург, Ж.И.Алферов, О.Г.Газенко, Б.Е.Патон 
+ 
+Концепция издания 
+● Журнал «Наука и жизнь» публикует только достоверную информацию преимущественно из «первых рук» от ведущих ученых и специалистов 
+● Журнал популяризует знания в доступной форме, но, цитируя основателя журнала М.Н.Глубоковского, «… не впадая в бульварный тон стоя в стороне от всякой тендециозности и политиканства» 
+● Журнал предназначен для семейного чтения и самообразования. Он рассчитан на широкий круг читателей всех возрастов и профессий. 
+ 
+Тематика 
+Техника, космические технологии, самолетостроение, автомастерская 
+Физика, астрономия, математика, компьютеры 
+Биология, медицина, биотехнология 
+История, обществознание, экономика, психология, философия 
+Языкознание, проблемы образования, научная фантастика 
+Путешествия, туризм 
+Садоводство, домашние питомцы 
+Советы домашнему мастеру 
+Кроссворды, головоломки, логические задачи, шахматы 
+Вязание, кулинария, прикладное творчество 
+ Журнал "Наука и жизнь" принимал участие в поддержке первой Всероссийской Интернет-олимпиады по нанотехнологиям... Сайт является партнером портала "Нанометр". </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="207" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="571" EndNode="586">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="530" EndNode="543">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="263" EndNode="272">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="101" EndNode="110">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="263" EndNode="272">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="101" EndNode="110">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

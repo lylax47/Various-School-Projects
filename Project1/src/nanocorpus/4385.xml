@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанопокрытие делает цветную шерсть модным хитомНа очередном собрании Института наук и технологий <Node id="97"/>наноматериалов<Node id="111"/> (Nano Science and Technology Institute) в Бостоне учёные из университета Виктории в Веллингтоне (Victoria University of Wellington) представили шерстяной шарф, «окрашенный» <Node id="285"/>наночастицами<Node id="298"/> золота<Node id="305"/>.
+Oбразцы окрашенных нитейДобавление мельчайших крупиц чистого золота и серебра нанометрового размера делает мериносовую шерсть вовсе не золотой или серебряной. В зависимости от соотношения элементов полотно (необязательно шерстяное) окрашивается в самые разные цвета: от жёлтого до фиолетового.
+
+Так частицы Ag дают яркие жёлтые, зелёные и оранжевые «краски». Меняя соотношение золотых и серебряных «добавок» можно варьировать интенсивность оттенка.
+ Можно даже сочетать и создавать новые цвета. При этом всё будет зависеть не только от используемого металла, но и от размера <Node id="882"/>наночастиц<Node id="892"/> и их формы. Сферические крупинки Au размером 10 нанометров окрасят вещи в цвет красного вина, приводят пример химики. В то же время увеличение их диаметра до 100 нанометров приведёт к появлению ярко-красного, пурпурного, голубого и, наконец, серого оттенков.
+
+Кстати, ранее мы уже рассказывали о том, как работает подобная технология. С помощью неё учёные получили золотой алюминий и синее серебро.
+ 
+«<Node id="1295"/>Мы хотим создать новый модный бренд не хуже современных, логотип которого говорил бы сам за себя», — рассказывает профессор Джим Джонстон<Node id="1432"/> (Jim Johnston).
+ 
+Ещё бы! Ведь обладатель элементов одёжды, окрашенных таким необычным способом, мог бы запросто сказать, что одет в чистое золото.
+ Ещё одно преимущество новой разработки в том, что одежда из таких тканей будет более экологически чистой, нежели окрашенная традиционными синтетическими красителями, утверждают учёные. Кроме того частицы золота не будут вымываться, цвет не будет тускнеть или изменяться. Впрочем, использование мельчайших крупиц металлов – дело не новое. К примеру, серебро, известное своими обеззараживающими свойствами, используют все кому не попадя, от производителей носков до создателей плюшевых мишек.
+ Конечно, свитер или кофта полностью покрытые <Node id="2119"/>наночастицами<Node id="2132"/> будут стоить недёшево, пожалуй, в несколько раз дороже обычных. Так по предварительным расчётам представленный шарфик обойдётся покупателю в <Node id="2274"/>$200<Node id="2278"/>–300. 
+Но учёные не боятся, что их модный тренд останется незамеченным, и уже ведут переговоры с некоторыми известными дизайнерами одежды (какими именно пока не сообщается). А о появлении новинок мы, вероятно, узнаем <Node id="2495"/>через год<Node id="2504"/>.
+<Node id="2506"/>http://www.membrana.ru/lenta/?8320Scientists<Node id="2550"/> re-create golden fleecehttp://<Node id="2581"/>www.stuff.co.nz/…5439a28.htmlУже<Node id="2613"/> не раз сообщалось о придании различных качеств тканям с помощью <Node id="2678"/>наночастиц<Node id="2688"/> – то способностью к самоочищению <Node id="2722"/>(http://www.nanonewsnet.ru<Node id="2748"/>/…lya-lentyaev), то каких-то ещё замечательных свойств <Node id="2803"/>(http://www.nanonewsnet.ru<Node id="2829"/>/…otekhnologii), то к приобретению различного окраса… Как говорится, то ли ещё будет!.. Модницы будут довольны. Вот хорошо бы только не оказались эти ткани «немножко неполезными» (типа – аллергенными). А так всё очень здорово!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2495" EndNode="2504">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2506" EndNode="2550">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="882" EndNode="892">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="2119" EndNode="2132">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="1295" EndNode="1432">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="97" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="285" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2803" EndNode="2829">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица+золота" StartNode="285" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="2274" EndNode="2278">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="2722" EndNode="2748">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="2581" EndNode="2613">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="2678" EndNode="2688">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1295" EndNode="1432">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Правительство<Node id="13"/> утвердило ФЦП для нанотехнологийМихаил <Node id="53"/>ФрадковМихаил Фрадков<Node id="74"/> подписал вчера федеральную целевую программу «Развитие инфраструктуры наноиндустрии на <Node id="162"/>2008–2010 годы<Node id="176"/>». Объем финансирования за <Node id="203"/>три года<Node id="211"/> составит <Node id="221"/>27,5 млрд рублей<Node id="237"/>. Из них федеральный бюджет выделит 24,7 млрд. Главным координатором программы назначено <Node id="326"/>Минобрнауки<Node id="337"/>.
+
+Задачи провозглашены амбициозные: довести к <Node id="384"/>2010 году<Node id="393"/> до <Node id="397"/>90%<Node id="400"/> долю научных, инновационных и технико-внедренческих предприятий, имеющих доступ к инфраструктуре наноиндустрии.
+
+Стоимость оборудования, которым распоряжается сотрудник, бьющийся над секретом нанотехнологий, должна быть доведена до <Node id="633"/>860 тысяч рублей<Node id="649"/> на человека. При этом с дорогостоящей техникой будут работать молодые ученые.
+В <Node id="730"/>2008 году<Node id="739"/> они должны составлять <Node id="762"/>40%<Node id="765"/> от общего штата инноваторов-нанотехнологов, а к 2010-му – <Node id="824"/>80%<Node id="827"/>. Более того, к концу бюджетной трехлетки число студентов, ежегодно проходящих практику на нанооборудовании, должно достигнуть 200 человек. Больше всего денег, естественно, получит Курчатовский институт – <Node id="1032"/>5,3 млрд рублей<Node id="1047"/> потратят на строительство его лаборатории. Остальным получателям средств достанется в среднем <Node id="1142"/>около 800 млн рублей<Node id="1162"/> на институт.
+
+Примечательно, что по программе «Развитие инфраструктуры нанотехнологий» на капитальные вложения (то есть строительство объектов и приобретение оборудования) выделяется лишь 15 млрд из <Node id="1362"/>27,5 млрд рублей<Node id="1378"/>. Остальные деньги проходят по статье «прочие расходы», которые в документе не детализированы.
+
+Известно лишь, что на прочие расходы (помимо капитальных вложений) из федерального бюджета <Node id="1565"/>5,6 млрд рублей<Node id="1580"/> получит <Node id="1589"/>Роснаука<Node id="1597"/>, <Node id="1599"/>2,5 млрд рублей<Node id="1614"/> – Рособразование и <Node id="1634"/>1,6 млрд рублей<Node id="1649"/> – Ростехрегулирование.
+
+Впрочем, эти суммы – капля в море по сравнению с деньгами, которые будут выделены госкорпорации «Роснанотех». Она, напомним, получит не только привилегии (например, освобождение от налоговых проверок, неподотчетность никому, кроме <Node id="1905"/>правительства<Node id="1918"/>), но и <Node id="1926"/>более 130 млрд рублей<Node id="1947"/>, вырученных от продажи активов ЮКОСа.
+АНДРЕЙ <Node id="1993"/>ЛАВРОВhttp://gzt.ru/…/220016.htmlИнтересные<Node id="2036"/> наблюдения и остроумный анализ… Действительно, пресса, СМИ должны держать под постоянным «надзором» все финансовые потоки, выделяемые на развитие НТ. Только так можно будет – если и не избежать – то хотя бы минимизировать «уход» денег «на сторону»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="162" EndNode="176">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="633" EndNode="649">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1926" EndNode="1947">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1599" EndNode="1614">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="326" EndNode="337">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобрнауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="384" EndNode="393">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1362" EndNode="1378">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="1905" EndNode="1918">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="730" EndNode="739">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="384" EndNode="393">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="1634" EndNode="1649">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="824" EndNode="827">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1565" EndNode="1580">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="203" EndNode="211">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="1142" EndNode="1162">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="1032" EndNode="1047">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1993" EndNode="2036">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="397" EndNode="400">
+</Annotation>
+<Annotation Id="23" Type="Властная_Структура" StartNode="1589" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаука</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="762" EndNode="765">
+</Annotation>
+<Annotation Id="25" Type="Деньги" StartNode="221" EndNode="237">
+</Annotation>
+<Annotation Id="24" Type="Властная_Структура" StartNode="0" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Персона" StartNode="53" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фрадков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Год" StartNode="730" EndNode="739">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

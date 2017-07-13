@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Заглянуть под поверхностьПроникнуть внутрь атомной структуры материала, вырезать плёнку размером с один микрон – эти и другие операции позволяет делать электронный микроскоп, установленный в Центре <Node id="198"/>наноструктурных материалов<Node id="224"/> и нанотехнологий БелГУ. <Node id="249"/>В течение трёх дней<Node id="268"/> о его возможностях посетителям тренинг-курсов рассказывал специалист из Голландии Джао <Node id="356"/>Ченге<Node id="361"/>.
+Джао <Node id="368"/>Ченге<Node id="373"/>
+Курсы организовала специализированная московская фирма совместно со специалистами голландской компании FEI на базе растрового электронного микроскопа, установленного в Белгородском центре. Прибор используется для обучения аспирантов и студентов по специальности «<Node id="637"/>Наноматериалы<Node id="650"/>».
+
+Микроскоп был приобретён БелГУ вторым в России и дополнительно оснащён всеми устройствами, которые являются необходимыми не только для научных исследований, но и для полноценного обучения. Не последнюю роль в выборе Центра как места проведения курсов сыграла приспособленность помещений и наличие всего необходимого для организации учебного процесса. На тренинг-курсы приехали лучшие микроскописты из разных городов России: Москвы, Санкт-Петербурга, Томска, Екатеринбурга и других городов.
+
+В ходе обучения специалисты знакомятся с возможностями растрового электронного микроскопа Quanta200 3D. Курсы позволяют более полно использовать возможности микроскопа и решать сложные задачи, связанные с исследованием структуры металлов. Каждый участник освоит эту уникальную методику в ходе практических занятий. По окончании курсов участникам будет выдан сертификат фирмы FEI.
+
+Занятия ведёт специалист из Голландии Джао <Node id="1569"/>Ченге<Node id="1574"/>. Он высоко оценил степень оснащения Центра нанотехнологий БелГУ, в особенности, растровый электронный микроскоп. По словам голландского специалиста, он позволяет увидеть не только то, что на поверхности материала, но и то, что под поверхностью. Джао <Node id="1825"/>Ченге<Node id="1830"/> видит в России большие перспективы развития нанотехнологий в России.
+
+Как сказал он в интервью региональным СМИ, российские учёные широко образованы и имеют объемный багаж знаний по фундаментальным наукам. Господин <Node id="2046"/>Ченге<Node id="2051"/> уверен, что уровень отечественных специалистов, помноженный на возможность современной мировой техники, даст превосходный результат<Node id="2183"/>.
+Максим <Node id="2192"/>Алтуховhttp://www.bel.ru/…1/26655.htmlЭто<Node id="2233"/> очень хороший способ – закупить новейшее оборудование и пригласить (зарубежного) специалиста для обучения людей, которые затем будут работать на нём. В данном случае очень повезло белгородским студентам и аспирантам… Им, прямо-таки, можно позавидовать!.. Можно надеяться, что это здОрово продвинет (нано)науку и (нано)технологию в нашей стране и послужит укреплению наших позиций в данной области…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="2046" EndNode="2183">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2192" EndNode="2233">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="356" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ченге</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="637" EndNode="650">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="2046" EndNode="2183">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="249" EndNode="268">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1825" EndNode="1830">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ченге</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="368" EndNode="373">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ченге</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="2046" EndNode="2051">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ченге</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="198" EndNode="224">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1569" EndNode="1574">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ченге</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

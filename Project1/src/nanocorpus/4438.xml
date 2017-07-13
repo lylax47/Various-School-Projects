@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Общество Макса Планка (Германия) приглашает талантливых молодых ученых со всего мира принять участие в программе Independent Junior Research Groups. Программа позволит успешным кандидатам возглавить руководство собственного научного проекта и получить грант для проведения исследований в любом из многочисленных институтов Макса Планка. Длительность данной программы составляет <Node id="379"/>5 лет<Node id="384"/>.
+
+Необходимые документы:
+&amp;bull; Резюме кандидата;
+&amp;bull; Список публикаций;
+&amp;bull; Копии трех публикаций;
+&amp;bull; Краткое описание научных достижений заявителя;
+&amp;bull; Исследовательский план.
+
+Крайний срок подачи заявлений – <Node id="609"/>10 января 2007 г.<Node id="626"/>
+
+
+Подробная информация: <Node id="651"/>http://snwg.mpg.de/.<Node id="671"/>
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="609" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="379" EndNode="384">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="651" EndNode="671">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+С ростом стоимости барреля нефти все большее число полупроводиковых компаний включаются в бизнес, связанный с солнечной энергетикой. Рынок солнечной технологии в <Node id="163"/>2007 г.<Node id="170"/> составил <Node id="180"/>около 30 млрд. долл.<Node id="200"/>, увеличившись в сравнении <Node id="227"/>с 2006 г.<Node id="236"/> на <Node id="240"/>50%<Node id="243"/>.
+
+Гигантская чипмейкерская компания Intel Corp. создает независимую компанию SpectraWatt Inc., которая будет фокусироваться на разработке перспективных технологий в области солнечных элементов и производить вотовольтаические элементы для изготовителей солнечных модулей. Компания приступит к разработкам на заводе в Орегоне и начнет поставлять солнечные элементы в <Node id="609"/>середине 2009 г.<Node id="625"/> [1].
+
+Другой полупроводниковый гигант, компания IBM также аннонсировала заключение соглашения по разработке методов изготовления элементов солнечной энергетики низкой стоимости с японской компанией, производящей оборудование, ТОК (Tokyo Ohka Kogyo) [2]. Исследователи IBM продвигают свою оригинальную технологию безвакуумного осаждения тонких пленок CIGS (CuInGaSe), позволяющую достичь в солнечных элементах <Node id="1035"/>15%<Node id="1038"/> эффективности преобразования солнечного излучения в электрический ток. Подобную технологию разрабатывают также компании First Solar, GES, HelioVolt [3].
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="163" EndNode="170">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1035" EndNode="1038">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="180" EndNode="200">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="609" EndNode="625">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="240" EndNode="243">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="227" EndNode="236">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

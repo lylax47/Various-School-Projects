@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Чубайса<Node id="7"/> отправили в наномирНазначен новый руководитель «Роснанотеха» – смотрите, кто пришелПрезидент РФ Дмитрий Медведев подписал указ об <Node id="138"/>освобождении<Node id="150"/> Леонида Меламеда от должности генерального директора государственной корпорации «Роснанотех». Другим указом президент назначил на эту должность Анатолия Чубайса.
+Вчера же новый гендиректор сделал первое многообещающее заявление: к <Node id="382"/>2015 году<Node id="391"/> Россия будет продавать в <Node id="417"/>год<Node id="420"/> нанопродукции до 1 триллиона рублей.
+ <Node id="459"/>Чубайс отметил, что <Node id="479"/>воспринимает свое назначение «как новый масштабный и интересный вызов, который прямо связан с исторической задачей перевода России на инновационный путь развития»<Node id="641"/>.  «<Node id="645"/>Считаю, что компания успешно прошла трудный старт-ап, в ней создан уникальный по своему потенциалу коллектив, который способен достичь поставленных целей», – сказал <Node id="810"/>Анатолий Чубайс<Node id="825"/> (подробнее см. здесь: <Node id="848"/>http://www.rusnano.com/…ication.aspx?…).<Node id="888"/>
+ 
+Напомним, что корпорация «Роснанотех» была учреждена <Node id="944"/>19 июля 2007 года<Node id="961"/> для «реализации государственной политики в сфере нанотехнологий, развития инновационной инфраструктуры в сфере нанотехнологий, реализации проектов создания перспективных нанотехнологий и наноиндустрии». Создавая ее, руководство страны заявило, что готово пойти на самые серьезные вложения в эту сферу, и выделило корпорации действительно огромную сумму – <Node id="1317"/>около 134 миллиардов рублей<Node id="1344"/>.
+По мнению многих специалистов, за <Node id="1380"/>этот год<Node id="1388"/> Россия еще больше отстала в нанотехнологической гонке.
+ Так, из 400 проектов, которые поступили в корпорацию, ее научно-технический совет дал положительную оценку всего четырем. Еще одна претензия к «Роснанотеху» – слабое взаимодействие с теми структурами, которые уже развивали данное направление, и прежде всего с Роснаукой и Курчатовским институтом – головной научной организацией в области нанотехнологий. В результате такой самоизоляции корпорация начала работу с «чистого листа» и провела экспертизу тех проектов, которые уже ранее прошли селекцию, и получила те же выводы. Наконец, «Роснанотех» не сформулировал приоритеты: в каких научных направлениях Россия сильна, к чему есть интерес у бизнеса… (Подробнее см. здесь: <Node id="2117"/>http://www.nanonewsnet.ru/…heskoi-gonke).<Node id="2158"/>
+<Node id="2159"/>http://www.rg.ru/…chubays.htmlНу<Node id="2191"/> да, со стороны – виднее. Здесь – как под увеличительным стеклом – буквально в двух словах – чётко обозначены основные «беды» и «пороки» ГК РОСНАНО. Так же чётко обозначил свою «генеральную цель» и новый руководитель ГК РОСНАНО. Ну, а дальше «всё просто», как в задачке для сил ПВО: вот «цель», вот «изделие» (ракета). Следует свестИ их в одной точке. Этим вот и займётся уважаемый <Node id="2573"/>Анатоль<Node id="2580"/>_<Node id="2581"/>Борисыч<Node id="2588"/>… А мы посмотрим, с ЧЕГО он начнёт, ЧЕМ продолжит, а, главное, ЧЕМ ДЕЛО кончится… Слышали мы, что он – опытный и умелый менеджер (руководитель), и у него за спиной немало крупных успехов… Что ж, как говорится, ему и карты в руки. И много новых успехов и достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2581" EndNode="2588">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Борисыч</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Кадровые_перестановки" StartNode="138" EndNode="150">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1380" EndNode="1388">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Назначения_Увольнения" StartNode="138" EndNode="150">
+</Annotation>
+<Annotation Id="6" Type="цитаты" StartNode="479" EndNode="641">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="944" EndNode="961">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="382" EndNode="391">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="417" EndNode="420">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="645" EndNode="825">
+</Annotation>
+<Annotation Id="14" Type="Тональность" StartNode="2573" EndNode="2580">
+</Annotation>
+<Annotation Id="15" Type="Тональность" StartNode="810" EndNode="825">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Чубайс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="848" EndNode="888">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="459" EndNode="641">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="2573" EndNode="2580">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Анатоль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="упоминается" StartNode="459" EndNode="825">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="темы" StartNode="479" EndNode="641">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Url" StartNode="2159" EndNode="2191">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="382" EndNode="391">
+</Annotation>
+<Annotation Id="26" Type="высказывания_заявления" StartNode="645" EndNode="825">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Url" StartNode="2117" EndNode="2158">
+</Annotation>
+<Annotation Id="31" Type="упоминает" StartNode="459" EndNode="825">
+</Annotation>
+<Annotation Id="30" Type="Деньги" StartNode="1317" EndNode="1344">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="автор" StartNode="459" EndNode="641">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

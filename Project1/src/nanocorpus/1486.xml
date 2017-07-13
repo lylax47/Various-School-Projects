@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>XXI век<Node id="8"/> станет <Node id="16"/>веком<Node id="21"/> нанотехнологий. Это усвоили и запомнили даже далёкие от науки люди. Наноразработки ведутся во всем мире, это самая перспективная отрасль науки. Одна из столичных лабораторий – на базе химического факультета МГУ. Здесь молодые учёные получили карт-бланш – и добились в экспериментах заметных результатов. 
+"Это тот момент, когда говорят, насколько мы отстаём от Запада в этой области. Это тот момент, когда мы отстаём не навсегда, мы можем создать региональные <Node id="482"/>наноматериалы<Node id="495"/> и для электроники, и для космических исследований", - подчёркивает декан химического факультета МГУ, академик Валерий Лунин. 
+ 
+Нанотехнологии уже применяются в некоторых отраслях промышленности. Например, цифровые камеры, или мембраны для очистки воды. Загадочные для большинства обывателей, невидимые глазу, эти частицы – в десятки тысяч раз меньше толщины человеческого волоса. 
+ 
+Новый способ получения <Node id="903"/>наноматериалов<Node id="917"/> недавно запатентовали в лаборатории химического факультета. <Node id="978"/>Чёрный<Node id="984"/> порошок в стеклянном стакане – <Node id="1016"/>углеродные <Node id="1027"/>нанотрубки<Node id="1037"/>. Образуются в реакторе в результате взаимодействия бензола с солями металлов. А <Node id="1118"/>нанотрубками<Node id="1130"/> частицы назвали потому, что атомы углерода образуют структуру, похожую на трубку. Правда, увидеть это можно только при многократном увеличении. 
+ 
+"Эти мельчайшие трубки могут быть имплантированы в пластик, и он не теряет прозрачность. Они очень твёрдые: если вы попробуете, можно поцарапать стекло. Они проводят электричество в одном направлении – вдоль трубочки", - рассказывает кандидат химических наук, старший научный сотрудник химического факультета МГУ Сергей Савёлов<Node id="1605"/>.<Node id="1606"/> 
+ 
+Но до практического применения <Node id="1641"/>нанотрубок<Node id="1651"/> ещё далеко. Учёным предстоит масса экспериментов. Например, нужно выяснить, действительно ли они безопасны на все сто для человеческого организма. На химическом факультете исследования продолжают. Молодые учёные прогнозируют: нанореволюция свершится <Node id="1902"/>лет<Node id="1905"/> через 10. 
+Полина Ермолаева </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="978" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Черный</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1027" EndNode="1037">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="16" EndNode="21">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="1016" EndNode="1037">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1118" EndNode="1130">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="482" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1" EndNode="8">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1902" EndNode="1905">
+</Annotation>
+<Annotation Id="11" Type="работает" StartNode="1605" EndNode="1606">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">сотрудник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1641" EndNode="1651">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="903" EndNode="917">
+</Annotation>
+<Annotation Id="19" Type="сотрудники" StartNode="1605" EndNode="1606">
+</Annotation>
+<Annotation Id="18" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

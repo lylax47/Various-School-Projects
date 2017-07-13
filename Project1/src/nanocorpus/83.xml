@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Как сообщает PhysOrg, специалисты из медицинской школы Мичиганского университета (University of Michigan Medical School) создали новый вариант вакцины против сибирской язвы с использованием нанотехнологий.
+
+Исследователи заключали один из белков бактерии Bacillus anthracis, возбудителя сибирской язвы, в частицы размером 200–300 нм, состоящие из воды, соевого масла, спирта и поверхностно-активных веществ (Около 265 таких «капелек», размещённые рядом друг с другом, составят толщину человеческого волоса). Полученная эмульсия вводилась путем распыления в нос животным: мышам и морским свинкам, в результате чего они с высокой эффективностью приобретали иммунитет к сибирской язве.
+
+По словам авторов работы, такая вакцина не только может эффективно вводится в организм без помощи шприца, но и способна сохранять иммунизирующие свойства при хранении вне холодильника, в условиях комнатной температуры. В ближайшем будущем исследователи предполагают провести клинические исследования препарата.
+<Node id="995"/>http://www.polit.ru/…anthrax.htmlhttp://www.physorg.com<Node id="1050"/>/…6476149.htmlДа, серьёзное достижение! Однако, строго говоря, «частицы размером 200–300 нм» – это уже «перебор»: ведь уговорились же – <Node id="1186"/>НАНО<Node id="1190"/> – это когда размеры менее 100 нм. Всё равно – это большое и нужное достижение. Вот только мышек и свинок жалко… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="995" EndNode="1050">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1186" EndNode="1190">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Портативное устройство диагностирует птичий грипп за 30 минутСингапурские ученые создали недорогой портативный прибор для быстрой диагностики птичьего гриппа. Новое устройство определяет наличие опасного для человека штамма H5N1 всего за <Node id="238"/>30 минут<Node id="246"/>, сообщает журнал Nature Medicine.
+
+Методы диагностики птичьего гриппа, применяемые в <Node id="332"/>настоящее время<Node id="347"/>, выявляют штамм H5N1 <Node id="369"/>в течение четырех и более часов<Node id="400"/>, и могут использоваться только в условиях лаборатории.
+
+Прибор, созданный учеными из Института биоинженерии и нанотехнологий (Institute of Bioengineering and Nanotechnology), работает намного быстрее и может использоваться для оперативного выявления вспышки птичьего гриппа на фермах и крестьянских хозяйствах в отдаленных сельских районах.
+
+Прибор представляет собой мини-лабораторию, анализирующую мазок из зева. Он одновременно выделяет и очищает вирус, а также увеличивая количество копий вирусной РНК до уровня, необходимого для проведения диагностического теста.
+
+При проведении диагностики мазок из зева погружают в каплю, содержащую так называемые супермагнитные частицы. С помощью магнитного поля удается выделить вирусную РНК. Для удаления остаточных примесей образец отмывается, после чего генетический материал копируется с помощью полимеразной цепной реакции (ПЦР). Штамм H5N1 определяется с помощью стандартного теста. Весь диагностический процесс занимает всего <Node id="1378"/>28 минут<Node id="1386"/>, свидетельствуют ученые.
+
+Новое устройство размером с кубик <Node id="1447"/>Рубика<Node id="1453"/> и весит примерно 200 граммов, сообщил руководитель исследования Юрген Пиппер (Juergen Pipper). По <Node id="1552"/>его<Node id="1555"/> словам, стоимость одного экспресс-теста составит всего 20–<Node id="1614"/>50 центов<Node id="1623"/>, что примерно в 10 раз дешевле существующих методов. Кроме того, новая техника столь же чувствительна, как обычные тесты, утверждают ученые.
+Juergen Pipper со своим аспирантом Zhang Yi
+В <Node id="1811"/>настоящее время<Node id="1826"/> заражение людей птичьим гриппом происходит при контакте с больными птицами. Однако ученые опасаются, что в случае мутации вирус H5N1 начнет передаваться от человека к человеку, что может привести к развитию пандемии.
+Именно поэтому крайне важен дешевый, простой в использовании, компактный и точный диагностический тест, подчеркнул Пиппер.
+Ссылки по теме:
+Miniature lab can detect deadly bird flu virus in 30 minutes – AFP, <Node id="2251"/>23.09.2007<Node id="2261"/>
+
+На Бали зарегистрирован первый случай смерти человека от птичьего гриппа — Медновости, <Node id="2350"/>13.08.2007<Node id="2360"/>
+
+Индонезия возобновила отправку образцов вируса H5N1 в ВОЗ — Медновости, <Node id="2434"/>28.03.2007<Node id="2444"/>
+
+Японцы объявили Тамифлю опасным для подростков — Медновости, <Node id="2507"/>21.03.2007<Node id="2517"/>
+
+Угроза пандемии птичьего гриппа исчезнет через два-<Node id="2570"/>три года<Node id="2578"/> — Медновости, <Node id="2593"/>15.03.2007<Node id="2603"/>
+<Node id="2604"/>http://www.medportal.ru/…9/24/device/Made<Node id="2645"/> in Singapore Lab-on-a-chip Device to Transform Field Testing for Avian Flu Virushttp://<Node id="2733"/>www.ibn.a-star.edu.sg/…press_30.pdfSingapore's<Node id="2779"/> Institute Of Bioengineering And Nanotechnologyhttp://<Node id="2833"/>www.ibn.a-star.edu.sg/Молодцы<Node id="2862"/> ребята в Сингапуре!.. Хотя имечко Юрген Пиппер (Juergen Pipper) не очень похоже на китайское… ;-))) Тем не менее, это изобретение вполне может стать революционным как по своим техническим характеристикам, так и по своему значению: ведь угроза пандемии всё-таки висит над человечеством и вызывает отнюдь не приятные ощущения…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1552" EndNode="1555">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="238" EndNode="246">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="369" EndNode="400">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="2350" EndNode="2360">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">08</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="2507" EndNode="2517">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="2570" EndNode="2578">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="2434" EndNode="2444">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1614" EndNode="1623">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2733" EndNode="2779">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="332" EndNode="347">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1447" EndNode="1453">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Рубик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="2593" EndNode="2603">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2833" EndNode="2862">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1378" EndNode="1386">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1811" EndNode="1826">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="2251" EndNode="2261">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">09</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="2604" EndNode="2645">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

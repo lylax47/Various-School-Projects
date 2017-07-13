@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Студент <Node id="9"/>Джейк Лоньяк<Node id="21"/> (Jake Loniak) из Центра Искусств, Пасадена (Art Center) предложил концепт «надевающегося мотоцикла», который можно смело назвать мотоскелетом (по аналогии с экзоскелетом).
+
+Компания Yamaha согласилась сделать концепт-машину, названную Yamaha Deus Ex Machina Wearable Motorcycle Concept. Увлеченный биомехатроникой, студент оснастил концепт 36-ю пневматическими мускулами и двумя линейными актюаторами.
+
+В шлем встроена интегрированная система управления мотоскелетом. Двигатели встроены в колеса и запитаны от сверхъемких конденсаторов. Батареи используются на основе допированных нано-фосфатов. Аналогичные электромеханические системы используются в современных гибридных автомобилях.
+
+Благодаря нанотехнологиям, батареи могут работать в течении <Node id="769"/>часа<Node id="773"/>, а заряжаются всего за <Node id="797"/>15 минут<Node id="805"/>!
+
+При этом мотоскелет развивает среднюю скорость 75 километров в <Node id="871"/>час<Node id="874"/>, а разгон до 60 км/ч проходит всего за <Node id="914"/>3 секунды<Node id="923"/>!
+
+Будем надеяться, что в ближайшем времени мы сможем увидеть эту уникальную машину на мировом рынке. Как мобильное транспортное средство мотоскелет уникален – он мал, энергетически эффективен и при этом не наносит вреда окружающей среде.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="797" EndNode="805">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="914" EndNode="923">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="871" EndNode="874">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="9" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоньяк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="769" EndNode="773">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

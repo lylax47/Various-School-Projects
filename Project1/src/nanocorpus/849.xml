@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Президент России Владимир Путин подписал федеральный закон "О Российской корпорации нанотехнологий", сообщает CNEWs со ссылкой на пресс-службу главы Российского государства. Закон был принят <Node id="192"/>Государственной думой<Node id="213"/> <Node id="214"/>4 июля 2007 г.<Node id="228"/> и одобрен Советом Федерации <Node id="257"/>6 июля 2007 г.<Node id="271"/>  
+ 
+ 
+В соответствии с документом, корпорация создается в целях реализации государственной политики в научно-технической и инновационной сфере, содействия перехода российской экономики на инновационный путь развития, реализации проектов создания перспективных нанотехнологий и наноиндустрии. Имущество корпорации формируется за счет имущественного взноса РФ, средств федерального бюджета, доходов, получаемых от деятельности корпорации, добровольных имущественных взносов и пожертвований, а также за счет других законных поступлений. Российская корпорация нанотехнологий будет осуществлять инвестиционную и внешнеэкономическую деятельность по реализации проектов в области нанотехнологий в России и за рубежом, в том числе с участием иностранного капитала. Предусматривается также право корпорация осуществлять предпринимательскую деятельность и распределять полученную прибыль исключительно в этих целях. Органами управления корпорации являются наблюдательный совет, правление и генеральный директор. При этом устанавливается, что члены наблюдательного совета должны назначаться правительством РФ (в т.ч. три - по представлению президента РФ, по одному - по представлению палат парламента и три - по представлению правительства) на срок <Node id="1510"/>не более четырех лет<Node id="1530"/>. Два члена совета, предложенные президентом, и два, предложенные правительством, не должны являться государственными служащими. Предполагается создание органа внутреннего финансового контроля корпорации - ревизионной комиссии, консультативного органа - научно-технического совета. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1510" EndNode="1530">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="192" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Государственной думой</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="214" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="257" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

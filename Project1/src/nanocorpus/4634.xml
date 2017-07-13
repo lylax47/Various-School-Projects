@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+ГК "Роснанотех" после запуска новой версии сайта с "креативной" брендовой символикой "Роснано" запустил на доменном имени третьего уровня <Node id="140"/>http://popular.rusnano.com/<Node id="167"/> красочный сайт, посвященный популяризации нанотехнологий. Анимированные меню, великолепные иллюстрации, простые тексты позволят непосвященному пользователю (даже совсем "чайнику") окунуться в мир "НАНО", так что все оказывается совсем даже просто. Сайт содержит в основном материалы начального и рекламного уровня, однако, помимо этого, имеет джентльменский набор полезных ссылок и коллекцию приятных для чтения министатей.
+ 
+Краткий глоссарий терминов находится на основной странице ГК "Роснанотех" в разделе "Нанотехнологии в мире".
+ 
+В <Node id="707"/>декабре<Node id="714"/> ГК "Роснанотех" проводит серьезное мероприятие - международный нанофорум.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="707" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="140" EndNode="167">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

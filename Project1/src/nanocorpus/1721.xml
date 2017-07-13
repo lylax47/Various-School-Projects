@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Уважаемые коллеги!
+
+Национальная контактная точка «Нанотехнологии» европейских рамочных программ предлагает вашему вниманию 2-е информационное сообщение и регистрационную форму Специального семинара по поддержке участия российских организаций в проектах 7-й Рамочной программы Евросоюза по тематическому направлению «Нанотехнологии и нанонауки, материалы и новые промышленные технологии» и скоординированным конкурсам Россия-ЕС в области нанотехнологий (Москва, Институт кристаллографии РАН, <Node id="493"/>18 ноября 2008 г.<Node id="510"/>).
+Информация о семинареКонтактная информация: <Node id="557"/>Мелконян Марине Карапетовна<Node id="584"/> – учёный секретарь проекта Тел./Факс : +7(499)135–05–81; e-mail: nanotech@
+<Node id="660"/>ns.crys.ras.ru<Node id="674"/> 
+НОВОЕ НА САЙТЕ
+ Информация о создании новой консультативной структуры ЕС по научной оценке рисков нанотехнологий Информация о брошюре ‹Применение нанотехнологий в энергетическом секторе› Информация о новом интерфейсе сайта CORDIS Информация о базе данных 7-й Рамочной программы Информация о создании Международного инновационного центра нанотехнологий СНГ в Дубне </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="660" EndNode="674">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="557" EndNode="584">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">секретарь</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Карапетовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мелконян</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="493" EndNode="510">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

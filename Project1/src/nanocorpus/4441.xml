@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Ученые из Университета Вирджинии (Virginia Commonwealth University) открыли новую биологическую функцию <Node id="105"/>фуллеренов<Node id="115"/> – ингибировать воспалительный процесс при аллергических реакциях. Оказалось, что человеческие мастоциты и периферийные кровяные базофилы (клетки, содержащие гистамин и высвобождающие его в аллергических реакциях, находящиеся в тканях и крови соответственно), в которые были предварительно введены модифицированные растворимые в воде <Node id="449"/>фуллерены<Node id="458"/>, выделяют значительно меньше гистамина и цистокина при реакции на аллерген, чем обычные мастоциты и базофилы. 
+ 
+Инъекция <Node id="581"/>фуллеренов<Node id="591"/> мышам предотвращала анафилаксию, не вызывая побочных эффектов. Иммуногистохимическое контрастирование клеток показало, что большая часть <Node id="729"/>фуллеренов<Node id="739"/> сосредоточена в цитоплазме, что говорит о том, что процесс ингибирования происходит внутри клетки. Таким образом, в отличие от большинства существующих антигистаминных противоаллергических препаратов, данная методика позволяет дезактивировать мастоциты и базофилы даже до того, как будут высвобождены аллергические медиаторы (вещества, выделяемые в ходе аллергической реакции, способные реагировать со специфическими рецепторами, вызывая характерные симптомы аллергии). 
+ 
+Механизм действия <Node id="1231"/>фуллеренов<Node id="1241"/> еще недостаточно изучен, однако, по мнению ученых, основную роль при этом играют сильные антиоксидантные свойства <Node id="1356"/>фуллеренов<Node id="1366"/>. 
+ 
+<Node id="1371"/>В будущем<Node id="1380"/> данная методика позволит справляться с различными заболеваниями, от сенной лихорадки до воспалительного артрита. Следующим шагом в разработке антиаллергических лекарств на основе <Node id="1560"/>фуллеренов<Node id="1570"/> должно стать модифицирование молекул функциональными группами, позволившими бы <Node id="1650"/>фуллеренам<Node id="1660"/> воздействовать специализированно на мастоциты и базофилы. 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1371" EndNode="1380">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="581" EndNode="591">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="1356" EndNode="1366">
+</Annotation>
+<Annotation Id="3" Type="Фуллерен" StartNode="1650" EndNode="1660">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="1231" EndNode="1241">
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="105" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Фуллерен" StartNode="729" EndNode="739">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="449" EndNode="458">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="1560" EndNode="1570">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

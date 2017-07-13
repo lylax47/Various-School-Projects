@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Коллоидный фотонный кристалл. 
+Самоорганизован из монодисперсных коллоидных частиц полистирола. 
+Подвергнут консолидации. 
+Вакансия приняла красивую форму шестилучевой звезды по числу соседей в решетке. 
+Изображение <Node id="217"/>сканирующей электронной микроскопии<Node id="252"/> окрашено в весенний зеленый цвет. 
+    
+ 
+      
+ 
+  
+ 
+                       
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сканирующая+электронная+микроскопия" StartNode="217" EndNode="252">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

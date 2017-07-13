@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На основе действующего Южно-Уральского венчурного фонда будет создан Региональный венчурный фонд инвестиций в малые предприятия в научно-технической сфере Челябинской области, учредителем которого станет область.
+
+На реализацию этого проекта на <Node id="246"/>следующий год<Node id="259"/> в бюджет планируется заложить <Node id="290"/>120 млн. рублей<Node id="305"/>. Об этом сообщил сегодня, <Node id="332"/>22 ноября<Node id="341"/>, на аппаратном совещании у южноуральского губернатора министр экономического развития Челябинской области Юрий Клёпов.
+
+<Node id="462"/>По словам Юрия Клёпова, <Node id="486"/>действующий Южно-Уральский Венчурный фонд «Инновации<Node id="538"/>. Технологии. Развитие», предлагается преобразовать в «Региональный венчурный фонд инвестиций в малые предприятия в научно-технической сфере Челябинской области» и сделать единственным учредителем Челябинскую область. Областные средства будут направлены на реализацию инновационных проектов на конкурсной и возвратной основе. Планируется, что на реализацию этого проекта в <Node id="911"/>2008 году<Node id="920"/> в бюджете области заложено <Node id="948"/>120 млн. рублей<Node id="963"/>. Такую же сумму в <Node id="982"/>следующем году<Node id="996"/> в министерстве экономического развития предполагают получить из федерального бюджета.
+
+Вхождение Челябинской области в состав учредителей «Южно-Уральского Венчурного фонда» и передача ей <Node id="1184"/>100%<Node id="1188"/> акций поддержаны его учредителями – ассоциацией «ПРОМАСС» и ЮУрГУ, а также одобрены рядом ведущих вузов и промышленных предприятий области.
+
+<Node id="1330"/>В начале следующего года<Node id="1354"/> состоится конкурс, где выберут наиболее перспективные проекты с наибольшей отдачей и быстрым сроком реализации. Однако Пётр Сумин высказал предположение, что это серьёзный риск для бюджетных средств. «<Node id="1556"/>Неизвестно – будет отдача или нет. Сейчас модно заниматься этим вопросом, но нам нужно точно знать, что вернётся в бюджет и что вернётся дополнительно», – сказал Пётр Сумин<Node id="1728"/>.
+
+В ответ на предположение губернатора Юрий Клёпов привёл пример участия бюджетных средств в финансировании проекта по нанотехнологиям. В <Node id="1867"/>2007 году<Node id="1876"/> в рамках областной целевой программы было выделено <Node id="1928"/>2 млн. рублей<Node id="1941"/> ООО «Каркас». На эти средства была создана промышленная установка по сушке древесины, с помощью которой на <Node id="2049"/>30 %<Node id="2053"/> происходит экономия электроэнергии и улучшается качество древесины. В <Node id="2124"/>2008 году<Node id="2133"/>, заверил Юрий Клёпов, эти деньги возвратятся в областной бюджет, а этот проект будет реализован на одном из предприятий области.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="332" EndNode="341">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="462" EndNode="1728">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="462" EndNode="538">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1867" EndNode="1876">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="462" EndNode="1728">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1556" EndNode="1728">
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="486" EndNode="538">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="462" EndNode="538">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="2049" EndNode="2053">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1330" EndNode="1354">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="2124" EndNode="2133">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="911" EndNode="920">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1867" EndNode="1876">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1184" EndNode="1188">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1556" EndNode="1728">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="246" EndNode="259">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="1928" EndNode="1941">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="911" EndNode="920">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="2124" EndNode="2133">
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="290" EndNode="305">
+</Annotation>
+<Annotation Id="20" Type="цитаты" StartNode="486" EndNode="538">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="948" EndNode="963">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="982" EndNode="996">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

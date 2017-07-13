@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+По завершении исследований кварцевых <Node id="39"/>наночастиц<Node id="49"/> учёные из Северной Дакоты сообщили, что в ходе различных тестов не было замечено никаких токсичных эффектов, вызванных исследуемыми частицами. Эти исследования будут опубликованы в Chemical Research in Toxicology ("Toxicity of Luminescent Silica Nanoparticles to Living Cells"). 
+Min Wu, Julia Xiaojun Zhao и их коллеги отметили, что учёные надеются использовать различные люминесцирующие <Node id="439"/>наноматериалы<Node id="452"/> в медицинских целях и для биомедицинских исследований. Эти материалы могут стать новым поколением веществ, выявляющих расположение больной ткани в теле человека. «Однако, вопрос о токсичности этих <Node id="650"/>наноматериалов<Node id="664"/> по отношению к живым клеткам и организмам оставался открытым», - объясняют исследователи. 
+Учёные провели тесты с человеческими клетками, и показали, что люминесцирующие кварцевые <Node id="845"/>наночастицы<Node id="856"/> не вредят клеточному ДНК. Таким образом, исследованные <Node id="912"/>наночастицы<Node id="923"/> подходят для использования в различных биомедицинских исследованиях.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="650" EndNode="664">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="912" EndNode="923">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="845" EndNode="856">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="39" EndNode="49">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="439" EndNode="452">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

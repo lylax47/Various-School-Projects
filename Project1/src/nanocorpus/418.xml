@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как установили ученые из Германии, электропроводные свойства <Node id="62"/>графена<Node id="69"/> можно «переключать» в режиме проводник/изолятор. До сих пор подобные фазовые скачки не были замечены за этим перспективным <Node id="193"/>наноматериалом<Node id="207"/>.
+
+Для исследования этого эффекта был создан графеновый ключ. Этот полевой нанотранзистор смогли изготовить ученые Тим Эштермеер (Tim Echtermeyer) и Макс Лемме (Max Lemme) из лабораторий AMO в Аахене. Причем он не слишком отличается по архитектуре от традиционного кремниевого MOSFET – аналога.
+
+Графеновая пленка – основа ключа – располагается на кремниевой подложке. Осталось только снабдить конструкцию стоком и истоком.
+
+Далее ученые покрыли <Node id="653"/>графен<Node id="659"/> пленкой оксида кремния, который сформировал основу для электрода затвора.
+
+Обычно пи-электроны в составе <Node id="765"/>графена<Node id="772"/> делокализованы, вот почему этот <Node id="805"/>наноматериал<Node id="817"/> является отличным проводником. Но в составе нанотранзистора графеновая пленка может изменять свои свойства. Как только на устройство не подано напряжение, свободные пи-электроны связываются кремниевой подложкой, и пленка становится изолятором. Если же нагреть транзистор, или просто его «включить», подав напряжение, <Node id="1135"/>графен<Node id="1141"/> снова обретает проводящие свойства.
+
+Как говорят Тим и Макс, подобные устройства могут использоваться в энергонезависимой памяти, основанной на переключениях фазовых свойств <Node id="1316"/>графена<Node id="1323"/>. А высокая скорость переключений – около 10^^6^^, позволяет создавать многоуровневую архитектуру быстродействующей памяти.
+
+Работа ученых – часть проекта лаборатории AMO ALEGRA, результаты исследований были освещены в текущем выпуске Electron Device Letters.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="1316" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="193" EndNode="207">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="805" EndNode="817">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="653" EndNode="659">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="62" EndNode="69">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="765" EndNode="772">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="1135" EndNode="1141">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

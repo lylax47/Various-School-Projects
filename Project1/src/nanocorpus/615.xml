@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Новейшие технологии – в РГУ им. КантаРГУ имени <Node id="47"/>Канта<Node id="52"/> совершенствует свою научно-техническую базу. <Node id="98"/>На сегодняшний день<Node id="117"/> в рамках национального проекта «Образование» ВУЗ освоил <Node id="174"/>320 миллионов рублей<Node id="194"/>. На эти деньги оснащены около 40 лабораторий.
+В комплексе из 10-ти самостоятельных лабораторных установок – 2 обучающих тренажера. Все остальное – современная измерительная техника. Задача минимум – дать студентам доступ к настоящим приборам, которые используются на практике. С помощью суперсовременного оборудования можно оценить уязвимость любого компьютера или мобильного телефона. Другими словами – определить, насколько велика вероятность утечки информации.
+СЕРГЕЙ ВОРОНКОВ, И.О. ЗАВЕДУЮЩЕГО КАФЕДРОЙ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ РГУ ИМЕНИ <Node id="740"/>КАНТА<Node id="745"/>:
+ 
+«Студенты, которые получат здесь образование, станут специалистами, очень нужными в сегодняшнее время. Они могут создавать системы защищенного состояния. Создавать помещения, в которых можно безопасно вести переговоры. Уметь использовать методы передачи данных с помощью шифрования».
+ 
+Здесь не готовят профессиональных хакеров. Речь не идет об установке «жучков» и взломе сайтов с секретными сведениями. Здесь учат защищать информацию, а не атаковать её. Работа с секретными документами, защита от несанкционированного доступа к сведениям. Это далеко не все, что будут уметь выпускники университета, получившие диплом на этой кафедре.
+ Еще одна гордость РГУ имени <Node id="1414"/>Канта<Node id="1419"/> – центр ионоплазменных и нанотехнологий. Здесь совсем недавно запустили атомно-силовой сканирующий микроскоп. ТИМУР ГОРЕЕВ, ПРОРЕКТОР ПО ИНФОРМАЦИОННОМУ РАЗВИТИЮ РГУ ИМЕНИ <Node id="1592"/>КАНТА<Node id="1597"/>:
+ 
+«Мы оперируем в 1000 раз меньшими размерами, чем, например, микроуровень, который нам был известен из бытовой техники, из бытовой электроники. Конечно, прямой связи с реальной практикой нет. Но, это, считайте, что практика будущего и практика перспективы 10–<Node id="1859"/>15-ти лет<Node id="1868"/>».
+  Такой супермикроскоп установлен только в МГТУ имени Баумана – ведущем техническом вузе страны. РГУ имени <Node id="1978"/>Канта<Node id="1983"/> теперь не уступает в технической оснащенности даже таким гигантам в сфере образования. <Node id="2071"/>http://kaliningrad.rfn.ru/rnews.html?…Российский<Node id="2119"/> государственный университет имени Иммануила <Node id="2164"/>Кантаhttp://www.kantiana.ru/index.phpНу<Node id="2203"/> вот, потихоньку прирастает инфраструктура отечественной нанонауки и нанотехнологии. Подготовка квалифицированных кадров, проведение научных исследований… Так постепенно закладывается база отечественной наноиндустрии… Пожелаем же успехов калининградским коллегам!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="2164" EndNode="2203">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2071" EndNode="2119">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="98" EndNode="117">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1978" EndNode="1983">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="740" EndNode="745">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1859" EndNode="1868">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1414" EndNode="1419">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="47" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="174" EndNode="194">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1592" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кант</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

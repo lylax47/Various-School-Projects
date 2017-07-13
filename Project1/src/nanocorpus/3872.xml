@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Первая Всероссийская научная школа "Современные достижения бионаноскопии" пройдет <Node id="84"/>с 11 по 17 июня 2007 года<Node id="109"/> в Москве на физическом факультете МГУ им. М.В.Ломоносова. В программе предусмотрены лекции по тематике школы, практические занятия, в ходе которых участники будут обучаться основам работы на атомно-силовом микроскопе с биологическими объектами, стендовая сессия, составленная из докладов участников, и круглый стол, посвященный перспективам развития бионаноскопии. Приглашаются все, кто работает в этой области или хотел бы использовать методы бионаноскопии в своих дальнейших исследованиях.
+ 
+Более подробную информацию можно получить на Web-сайте Школы. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="84" EndNode="109">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

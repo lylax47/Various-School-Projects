@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Коллаж двух реальных изображений <Node id="34"/>просвечивающей электронной микроскопии<Node id="72"/> (ПЭМ). 
+На обоих изображениях представлены серебряные нанопластинки (как в Нанорадуге). 
+Частицы получены восстановлением солей серебра в водных растворах. 
+    
+ 
+      
+ 
+  
+ 
+                                                                                
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Просвечивающая+электронная+микроскопия" StartNode="34" EndNode="72">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

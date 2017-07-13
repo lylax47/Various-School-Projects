@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Госкорпорация «Роснанотех» планирует подписать <Node id="47"/>соглашение<Node id="57"/> с Intel о совместной разработке программного обеспеченияМОСКВА, <Node id="122"/>5 июня<Node id="128"/> – Госкорпорация «Роснанотех» планирует подписать <Node id="178"/>соглашение<Node id="188"/> о намерениях с американской компанией Intel Technologies Inc. о сотрудничестве в сфере развития нанотехнологий, передает ИТАР-ТАСС.
+ Договор, как предполагается, будет заключен в ходе Петербургского международного экономического форума, сообщил генеральный директор госкорпорации Леонид Меламед.  
+«Мы планируем подписать соглашение с компанией Intel о совместной деятельности, в первую очередь, в области создания программного обеспечения и для целей математического моделирования процессов, протекающих в наномире», – сказал он в интервью информационному телеканалу «Вести».
+ Л.Меламед отметил, что считает Петербургский экономический форум «крупнейшим событием в России, куда съезжаются все лидеры российского бизнеса и многие лидеры мирового».
+ 
+«За <Node id="943"/>несколько лет<Node id="956"/> форум стал очень представительным, поэтому мы ждем очень важных встреч, переговоров», – продолжил глава «Роснанотеха».
+ Он добавил, что на площадке форума будет работать специальная экспозиция корпорации «Российские нанотехнологии – старт в будущее», на которой <Node id="1219"/>7 июня<Node id="1225"/> и планируется подписание соглашения.
+<Node id="1263"/>http://www.bit.prime-tass.ru<Node id="1291"/>/news/show.asp?…Смотри, какая быстрая реакция на предложение фирмы Intel сотрудничать с Россией в области развития нанотехнологий <Node id="1421"/>(http://www.nanonewsnet.ru/…-razvitii-nt).<Node id="1463"/> Молодцы ребята «Роснанотех»-новцы! Именно так и надо действовать: быстро и напористо… Кстати, не забудьте, что я тоже поддержал это предложение!.. ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1421" EndNode="1463">
+</Annotation>
+<Annotation Id="2" Type="Партнеры_Клиенты" StartNode="47" EndNode="57">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="943" EndNode="956">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1263" EndNode="1291">
+</Annotation>
+<Annotation Id="6" Type="Партнеры_Клиенты" StartNode="178" EndNode="188">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1219" EndNode="1225">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="122" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

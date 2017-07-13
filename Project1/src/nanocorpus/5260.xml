@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+У губернатора Ставропольского края Валерия Гаевского состоялась встреча в Москве с министром образования и науки России Андреем Фурсенко.
+
+В федеральном ведомстве разработана серьезная реформа высшей школы, в ходе которой должна пройти реструктуризация и сокращение сети вузов. В субъектах, как полагают в <Node id="307"/>Минобрнауки<Node id="318"/>, достаточно иметь 2–3 государственных университета и ко всем высшим учебным заведениям должны быть применены самые жесткие критерии аттестации, чтобы статус вуза гарантировал соответствующий высокий уровень знаний его выпускникам.
+
+Как сообщили сегодня ИА «Татар-информ» в пресс-службе губернатора, перспективы этого процесса на Ставрополье обсуждались в ходе <Node id="679"/>встречи В.Гаевского и А.Фурсенко<Node id="711"/>. На ней также был поднят вопрос о возможности создания на базе одного из краевых вузов регионального центра микро- и нанотехнологий.
+
+Ставрополье имеет ряд передовых разработок в этом сегменте, что подвигло губернатора В.Гаевского заручиться поддержкой в Министерстве образования и науки РФ по структурному продвижению этого вида исследований.
+
+Обсуждался также рад вопросов развития системы общего образования.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="встречи_и_переговоры" StartNode="679" EndNode="711">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="307" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобрнауки</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Частицы ZrO2 размером порядка 75 нм прочно закреплены на подложке силикатным золем. Данный способ фиксации <Node id="109"/>наночастиц<Node id="119"/> дает возможность провести их метрологию методом <Node id="168"/>атомно-силовой микроскопии<Node id="194"/>. 
+ 
+Изображение получено на атомно-силовом микроскопе NTEGRA 
+    
+ 
+      
+ 
+  
+ 
+                                
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Атомно-силовая+микроскопия" StartNode="168" EndNode="194">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="109" EndNode="119">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

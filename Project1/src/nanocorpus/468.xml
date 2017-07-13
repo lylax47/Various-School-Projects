@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт спектроскопии РАН <Node id="29"/>наноструктурные материалы<Node id="54"/> , перспективные материалы, фс лазер   <Node id="93"/>Наноматериалы<Node id="106"/> фемтонанооптика фемтохимия   Исследование сверхбыстрых явлений в конденсированных средах методом возбуждения-зондирования образца лазерными импульсами ультра-короткой длительности, в том числе спектроскопия биологических объектов со сверх-высоким временным разрешением Фс лазерная микрообработка перспективных материалов Фс спектроскопия <Node id="445"/>наноструктурных материалов<Node id="471"/> с высоким пространственным и временным разрешением                             Андреев Сергей Васильевич , кандидат наук Асеев Сергей Анатольевич , кандидат наук Компанец Виктор Олегович  Матвеец Юрий Анатольевич, кандидат наук Чекалин Сергей Васильевич, заведующий лабораторией, доктор наук 
+Фс-лазерный центр коллективного пользования был создан в <Node id="822"/>2003 г.<Node id="829"/> при поддержкеМинистерства по <Node id="859"/>Науке<Node id="864"/> и Технике <Node id="875"/>Российской Федерациина<Node id="897"/> базе Института спектроскопии РАН. Целью создания такого центра является использование качественно обновлённого парка фс лазеров в решении важных совместных исследовательских программ российских учёных при более глубоком применении накопленного Институтом спектроскопии опыта в области изучения сверх-быстрых процессов. 
+   Фемтосекундная лазерная установка   Институт биохимической физики , г. Геттинген (Германия) Институт биохимической физики РАН, Институт спектроскопии РАН, Институтом общей физики РАН, Лундский университет, г. Лунд  (Швеция) МГУ им. М.В.Ломоновова, Университет, г. Лозанна (Швейцария) Физический институт им. П.Н.Лебедева, ЦКБ УП РАН,    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="29" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="875" EndNode="897">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Федерациина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Наноматериал" StartNode="445" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="859" EndNode="864">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Наноматериал" StartNode="93" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Год" StartNode="822" EndNode="829">
+</Annotation>
+<Annotation Id="31" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

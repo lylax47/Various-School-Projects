@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В <Node id="4"/>настоящее время<Node id="19"/> идет активная разработка новых материалов для электрохимических конденсаторов. Наноструктурированные электродные материалы представляют особый интерес для этой области. Однако прямой синтез таких материалов в <Node id="229"/>настоящее время<Node id="244"/> сопровождается некоторыми трудностями. 
+ 
+Оксид марганца MnOx из-за своей небольшой стоимости является очень привлекательным материалом для конденсаторов, но, к сожалению, не обладает достаточной скоростью зарядки.
+ 
+Китайские ученые утверждают, что смогли решить эту проблему. Они создали перспективный композит, состоящий из массива <Node id="580"/>углеродных <Node id="591"/>нанотрубок<Node id="601"/> (carbon nanotube array, CNTA) и оксида марганца. Этот материал обладает иерархической пористой структурой, что увеличивает его электронную проводимость и скорость зарядки. Такая структура композита была получена <Node id="814"/>электроосаждением<Node id="831"/> хорошо диспрегированного оксида марганца на <Node id="876"/>углеродные <Node id="887"/>нанотрубки<Node id="897"/>. CNTA обладает регулярной структурой пор, большой поверхностью и гомогенностью (отсутствием связующего вещества) и поэтому превосходно подходит для осаждения на нем оксидов металлов. 
+ 
+Синтез композита состоит из двух стадий, как показано на рисунке 1. Первая стадия включает в себя рост вертикально направленного CNTA на танталовой фольге методом CVD при температуре 800°С. Вторая стадия состоит из <Node id="1299"/>электроосаждения<Node id="1315"/> оксида марганца на «лес» <Node id="1341"/>углеродных <Node id="1352"/>нанотрубок<Node id="1362"/>.
+ 
+Частицы оксида марганца по форме напоминают цветки одуванчика размером 150 нм в диаметре. Они располагаются на пересечении двух или более углеродных нантрубок, которые играют роль «магистралей» для переноса зарядов (рис.4). Такая транспортная сеть обеспечивает хорошую электронную проводимость композита. 
+ 
+Предполагается, что данный материал может быть использован не только в аккумуляторах, но также в <Node id="1771"/>сенсорах<Node id="1779"/>, микроэлектронике, найдет применение в качестве катализатора.
+ 
+Работа "Growth of Manganese Oxide Nanoflowers on Vertically-Aligned Carbon Nanotube Arrays for High-Rate Electrochemical Capacitive Energy Storage" опубликована в журнале Nano Letters. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1352" EndNode="1362">
+</Annotation>
+<Annotation Id="1" Type="Электроосаждение" StartNode="814" EndNode="831">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="1771" EndNode="1779">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="229" EndNode="244">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="1341" EndNode="1362">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="887" EndNode="897">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="4" EndNode="19">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="876" EndNode="897">
+</Annotation>
+<Annotation Id="8" Type="Электроосаждение" StartNode="1299" EndNode="1315">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="591" EndNode="601">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="580" EndNode="601">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

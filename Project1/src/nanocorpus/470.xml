@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Родильный дом в Зеленограде покрасят антиаллергенной краскойМОСКВА, <Node id="68"/>21 августа<Node id="78"/> – Высокотехнологичной краской на основе нанотехнологий, предотвращающую распространение аллергенов, покрасят родильный дом в Зеленограде, сообщили в городской администрации.
+ 
+«Производимая немецкой компанией »Биони Шильд« покрасочная продукция, основанная на применении нанотехнологий, обеспечивающих высокие качественные характеристики по устойчивости к возгоранию, предотвращению распространения аллергенов, бактерий и микроорганизмов, будет использоваться для покраски пилотного проекта», – отметили в столичном <Node id="595"/>правительстве<Node id="608"/>.
+ 
+Финансировать работы будут за счет городского бюджета, добавили в мэрии.
+<Node id="685"/>http://www.rian.ru/…2750371.htmlЗдОрово!<Node id="725"/> Ну вот, теперь нанотехнологии будут сопровождать нас с самого <Node id="788"/>первого дня<Node id="799"/> на Земле…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="68" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="685" EndNode="725">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="595" EndNode="608">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительстве</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="788" EndNode="799">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

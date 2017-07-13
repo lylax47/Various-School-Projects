@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В ближайшее время в России будет создана государственная корпорация, которая займется развитием наноиндустрии и контролем средств, выделяемых на эти цели. Об этом говорил и президент, говорил и вице-премьер. 
+ 
+<Node id="212"/>07 июня 2007<Node id="224"/> в прямом эфире радиокомпании "Маяк" в 12:16 в программе "Панорама" состоится обсуждение законопроекта о создании "Российской корпорации нанотехнологий". 
+ 
+О нанотехнологиях ведущая "Панорамы" Наталья Мамедова поговорит с членом-корреспондентом РАН Евгением Гудилиным. 
+ 
+Небольшой отчет об интервью можно посмотреть здесь </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="212" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

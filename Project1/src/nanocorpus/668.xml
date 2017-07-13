@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ
+
+ПРАВ ПОТРЕБИТЕЛЕЙ
+
+И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА
+
+ГЛАВНЫЙ ГОСУДАРСТВЕННЫЙ САНИТАРНЫЙ ВРАЧ РОССИЙСКОЙ ФЕДЕРАЦИИ
+
+П О С Т А Н О В Л Е Н И Е <Node id="179"/>31.10.2007<Node id="189"/> N 79
+
+Москва
+
+Об утверждении Концепции токсикологических исследований, методологии оценки риска, методов идентификации и количественного определения <Node id="339"/>наноматериалов<Node id="353"/>
+
+В соответствии с Федеральным законом от <Node id="395"/>30.03.1999<Node id="405"/> № 52-ФЗ «О санитарно-эпидемиологическом благополучии населения» (Собрание законодательства Российской Федерации, 1999, № 14, ст. 1650; 2002, № 1 (ч.1), ст.1; 2003, № 2, ст.167; № 27 (ч.1), ст.2700; 2004, № 35, ст.3607; 2005, № 19, ст.1752; 2006, № 1, ст.10; 2006, № 52 (ч. 1), ст. 5498; 2007, № 1 (ч. 1), ст. 21; 2007, № 1 (1 ч.), ст. 29; 2007, № 27, ст. 3213, .2007, № 46, ст. 5554)
+
+ПОСТАНОВЛЯЮ:
+
+1. Утвердить Концепцию токсикологических исследований , методологии оценки риска, методов идентификации и количественного определения <Node id="939"/>наноматериалов<Node id="953"/> .
+
+2.Руководителям Управлений <Node id="984"/>Роспотребнадзора<Node id="1000"/> по субъектам Российской Федерации, главным врачам ФГУЗ «Центр гигиены и эпидемиологии в субъектах Российской Федерации»:
+
+2.1. При проведении санитарно-эпидемиологической экспертизы и государственной регистрации продукции, полученной с использованием нанотехнологии или содержащей <Node id="1282"/>наноматериалы<Node id="1295"/> и организации государственного санитарно-эпидемиологического надзора в организациях использующих нанотехнологии и <Node id="1410"/>наноматериалы<Node id="1423"/> использовать основные положения Концепции;
+
+2.2. С учетом положений Концепции усилить работу с руководителями хозяйствующих субъектов, направленную на разъяснение необходимости размещения в информации для потребителей сведений об использовании при изготовлении продукции нанотехнологий или <Node id="1714"/>наноматериалов<Node id="1728"/>.
+
+3. Управлению организации службы государственной регистрации и лицензирования организовать ведение регистра <Node id="1839"/>наночастиц<Node id="1849"/> и <Node id="1852"/>наноматериалов<Node id="1866"/> в рамках федерального регистра потенциально опасных химических и биологических веществ.
+
+4. Руководителям хозяйствующих субъектов при направлении продукции с использованием <Node id="2040"/>наноматериалов<Node id="2054"/> на санитарно-эпидемиологическую экспертизу руководствоваться требованиями приказа Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека от <Node id="2227"/>19.07.2007<Node id="2237"/> № 224 «О санитарно-эпидемиологических экспертизах, обследованиях исследованиях, испытаниях и токсикологических гигиенических и иных видах оценок» (зарегистрирован Минюстом России <Node id="2417"/>20.07.2007<Node id="2427"/> № 9866).
+
+5. Контроль за исполнением постановления возложить на заместителя руководителя Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека Л. П. Гульченко<Node id="2619"/>.<Node id="2620"/>
+ Г. Г. Онищенко
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="179" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="939" EndNode="953">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="984" EndNode="1000">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роспотребнадзора</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="2417" EndNode="2427">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">07</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="339" EndNode="353">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1839" EndNode="1849">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="2040" EndNode="2054">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="2619" EndNode="2620">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="1714" EndNode="1728">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="2227" EndNode="2237">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">07</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="2619" EndNode="2620">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="1282" EndNode="1295">
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="1410" EndNode="1423">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="395" EndNode="405">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">03</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="1852" EndNode="1866">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

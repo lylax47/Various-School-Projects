@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>О чем молчат <Node id="13"/>наночастицы<Node id="24"/>? Что такое загадочные нанотехнологии, о которых хором говорят ученые, чиновники и журналисты по всему миру? Почему вдруг они вошли в моду? Принесут ли они человечеству какую-то ощутимую пользу? Что такое корпорация Роснанотех, и сумеет ли она эффективно потратить те отнюдь не [малые] наноденьги, что ей выделило правительство? Могут ли нанотехнологии принести какой-нибудь вред? Как стоит относиться к тем «нанотехнологическим» изделиям, которые уже появились на рынке? Евгений Гудилин. Фото с сайта Радио России
+На вопросы читателей «Ленты.Ру» ответил Евгений Алексеевич Гудилин, член-корреспондент РАН, профессор, доктор химических наук, заместитель декана факультета наук о материалах МГУ, один из организаторов недавно завершившейся Всероссийской Интернет-олимпиады по нанотехнологиям «Нанотехнологии-прорыв в Будущее!» и руководитель портала «Нанометр».
+<Node id="885"/>http://lenta.ru/conf/nano/«<Node id="912"/>О<Node id="913"/> чем молчат <Node id="925"/>наночастицы<Node id="936"/>?» – вот об этом обстоятельно и с большим знанием дела (и многих закулисных подробностей) и рассказывает Евгений Алексеевич<Node id="1059"/> в своём виртуальном интервью «на страницах» сайта Lenta.Ru. Причём рассказывает так интересно и увлекательно, остроумно и с большой долей юмора, что порой невозможно и оторваться… Правда, хитрюга Гудилин на полную катушку использовал это интервью для «рекламы» своего факультета, который он (наряду с академиком <Node id="1372"/>Ю.Третьяковым<Node id="1385"/>) возглавляет, и портала «Nanometer.ru», который он сам (почти единолично) и ведёт… Ну что ж, имеет право… Правда и то, что он мимоходом всё-таки упомянул кое-какие «смежные» сайты, но ни разу не упомянул наш (замечательный!) сайт <Node id="1616"/>http://www.nanonewsnet.ru/<Node id="1642"/> и наш блог на нём, хотя мы точно знаем, что он каждую ночь просиживает на нём в течение долгих <Node id="1738"/>часов<Node id="1743"/>…;-))) А если серьёзно, то это – замечательное интервью, с которым необходимо бы ознакомиться каждому, кто интересуется развитием НТ у нас в стране и во всём мире (особенно – «непрофильным» студентам и школьникам, которые ещё только раздумывают о своём собственном пути в жизни). Пожалуй, единственным «недостатком» этого материала является его большущий объём, и чтобы прочесть его «целиком» (да ещё и с многочисленными ссылками), читателю потребуется немало времени и терпения… Но это вполне оправдывает потраченные время и усилия, уверяю вас…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="885" EndNode="913">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1738" EndNode="1743">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="912" EndNode="1059">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1616" EndNode="1642">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="13" EndNode="24">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="925" EndNode="936">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="1372" EndNode="1385">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Третьяков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="912" EndNode="1059">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

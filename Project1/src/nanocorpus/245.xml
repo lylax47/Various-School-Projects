@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>25-28 апреля 2007 г.<Node id="22"/> в рамках 10-й Юбилейной международной выставки электронных компонентов и технологического оборудования «ЭкспоЭлектроника» в ВК «Крокус Экспо» в Москве впервые будет представлен специализированный раздел «<Node id="227"/>Наноматериалы<Node id="240"/> и Нанотехнологии».
+ 
+ 
+ 
+Свою продукцию и последние разработки представят ведущие российские и зарубежные производители и научно-исследовательские институты в следующих подразделах: 
+- <Node id="426"/>Наноматериалы<Node id="439"/> и нанотехнологии; 
+- Технологии и оборудование для производства <Node id="504"/>наноматериалов<Node id="518"/>; 
+- <Node id="523"/>Наноматериалы<Node id="536"/> для компонентов и микросистем; 
+- Услуги в области нанотехнологий.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2" EndNode="22">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="227" EndNode="240">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="523" EndNode="536">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="426" EndNode="439">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="504" EndNode="518">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Алферов<Node id="7"/> представил программу нанотехнологий 
+«Нобелевский лауреат вице-президент РАН <Node id="85"/>Жорес<Node id="90"/> <Node id="91"/>Алферов<Node id="98"/> в своем вчерашнем выступлении на Общем собрании Российской академии наук представил масштабную программу фундаментальных исследований в области нанотехнологий, которая заслуживает самого серьезного внимания», — заявил СМИ депутат <Node id="329"/>Госдумы<Node id="336"/>, академик РАН Андрей Кокошин, входящий в <Node id="378"/>Наблюдательный совет Госкорпорации «Роснанотехнологии»<Node id="432"/>.
+ Андрей КокошинПо словам Кокошина, в задачу «Роснанотехнологий» входит, в первую очередь, решение практического использования результатов достижений науки в промышленности, сельском хозяйстве, медицине, фармацевтике и других областях.
+
+<Node id="670"/>Как сказал Кокошин, речь идет о создании целого набора наносистем и наномеханизмов, изменяющих радикально облик многих гражданских и военных изделий<Node id="818"/>.
+
+<Node id="821"/>Кокошин отметил, что <Node id="842"/>корпорация «Роснанотехнологии», тесно взаимодействует с Российской академией наук по этим вопросам и с Российским научный центром «Курчатовский институт», определенным головной организацией в области нанотехнологий по программам Роснауки<Node id="1079"/>.
+Константин <Node id="1092"/>Вакуровhttp://www.km.ru/news/view.asp?…Пока<Node id="1135"/> это лишь констатация факта. Теперь будем ждать более подробного рассказа о этой программе. Ведь именно эта «масштабнуая программа фундаментальных исследований в области нанотехнологий» и будет определять будущее развитие отечественной НТ. Ждём-с…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1092" EndNode="1135">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="2" Type="упоминает" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="670" EndNode="818">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="85" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="цитаты" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="6" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="11" Type="упоминает" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="821" EndNode="1079">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="821" EndNode="1079">
+</Annotation>
+<Annotation Id="15" Type="темы" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="16" Type="Властная_Структура" StartNode="329" EndNode="336">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдумы</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="91" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="упоминает" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Властная_Структура" StartNode="378" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет Госкорпорации «Роснанотехнологии»</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="автор" StartNode="670" EndNode="818">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="упоминается" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="35" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="38" Type="темы" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="39" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="цитаты" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="37" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="42" Type="упоминается" StartNode="670" EndNode="1079">
+</Annotation>
+<Annotation Id="43" Type="цитаты" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="40" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+<Annotation Id="41" Type="упоминается_с" StartNode="842" EndNode="1079">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

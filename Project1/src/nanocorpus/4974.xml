@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Генеральный директор РОСНАНО Леонид Меламед поздравил студентов МИЭТ <Node id="69"/>с Днем<Node id="75"/> знаний<Node id="82"/>1 сентября<Node id="92"/> генеральный директор РОСНАНО Леонид Меламед в составе делегации во главе с первым вице-премьером РФ Сергеем Ивановым посетил Московский институт электронной техники (МИЭТ).
+<Node id="266"/>Леонид Меламед и Сергей Иванов провели встречу с ректором института Юрием Чаплыгиным<Node id="350"/>, который рассказал гостям об образовательной и научной деятельности МИЭТ.
+ Также работники института провели для делегации ознакомительную экскурсию по университетским центрам и лабораториям, ведущим работу в области нанотехнологий в электронике – учебно-образовательный центр «Нанотехнологии в электронике» и учебно-технологический центр «Микросистемная техника».  
+Обладая знаниями в области нанотехнологий, у вас есть огромный шанс получить высокооплачиваемую работу. Многие частные корпорации и компании находятся в поиске именно таких специалистов – сказал Сергей Иванов, обращаясь к студентам МИЭТ.
+  
+«<Node id="960"/>Пусть исполнится ваше желание на сто процентов овладеть будущей профессией, — сказал в свою очередь г-н Меламед<Node id="1071"/>, ведомство которого, как известно, остро нуждается в молодых нанотехнологах. — Став высококлассными специалистами, вы внесёте огромный вклад в развитие российской наноиндустрии, а значит, и укрепите позиции России в этом направлении».
+  * * Московский институт электронной техники (МИЭТ) – один из первых победителей конкурса вузов, реализующих инновационные образовательные программы, который прошел в рамках национального проекта «Образование». Высокое качество подготовки студентов обеспечивается высококвалифицированным составом преподавателей и сотрудников, среди которых члены Российской академии наук, более 100 докторов наук, более 300 кандидатов наук, высокотехнологичной лабораторной базой и современными формами обучения. Студенты МИЭТ проходят практику в научных лабораториях и структурных подразделениях университета, на базовых кафедрах предприятий Зеленограда и Москвы, в представительствах российских и зарубежных компаний.
+<Node id="2012"/>http://www.rusnanotekh.ru/…ication.aspx?…http://www.strf.ru/…ization.aspx?…Всё<Node id="2090"/> правильно говорят наши «главные нанотехнологи». Хорошо бы, если бы ещё эти их пожелания воплотились в действительность… Очень меня позабавила цитата из выступления <Node id="2255"/>Сергей<Node id="2261"/>_Борисыча Иванова. <Node id="2280"/>Он<Node id="2282"/> сказал, в частности, «Обладая знаниями в области нанотехнологий, у вас есть огромный шанс…» Совсем по Чехову: «Подъезжая к станции, у меня слетела шляпа…» Как-то не совсем «прилично» – для профессионального-то филолога…;-))) Впрочем, это, может быть, такие грамотеи из пресс-службы РОСНО так готовят выпуски своих пресс-релизов… Тоже бывает…;-) Вместе с «вождями» поздравим и мы студентов – будущих нанотехнологов с праздником – <Node id="2712"/>Днём<Node id="2716"/> знаний – и пожелаем им всего самого доброго и новых успехов в учёбе и труде!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="960" EndNode="1071">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="69" EndNode="75">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2712" EndNode="2716">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2280" EndNode="2282">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="встречи_и_переговоры" StartNode="266" EndNode="350">
+</Annotation>
+<Annotation Id="8" Type="встречи_и_переговоры" StartNode="266" EndNode="350">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="960" EndNode="1071">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Тональность" StartNode="2255" EndNode="2261">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="встречи_и_переговоры" StartNode="266" EndNode="350">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2012" EndNode="2090">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="82" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

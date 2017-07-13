@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Для поддержки научных исследований в Массачусетском технологическом университете (MIT) корпорация Xerox предоставила грант в <Node id="127"/>$1 млн.<Node id="134"/> Трёхлетний грант будет направлен на создание стипендиальной программы в School of Engineering в MIT, которая будет ежегодно помогать нескольким магистрантам и докторантам. Xerox поддерживает исследования по всему миру, ежегодно компания выделяет <Node id="381"/>$13 млн.<Node id="389"/> на образовательные и некоммерческие инициативы в различных университетах и организациях. 
+Стипендиальная программа будет сосредоточена на трёх направлениях исследований. Одно из этих направлений – нанотехнология и MEMS. В него входят <Node id="624"/>наноструктурированные материалы<Node id="655"/>, микрожидкостные устройства, <Node id="685"/>нанокомпозиты<Node id="698"/> и исследование теплопередачи на микроуровне.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="381" EndNode="389">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="624" EndNode="655">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="127" EndNode="134">
+</Annotation>
+<Annotation Id="5" Type="Нанокомпозит" StartNode="685" EndNode="698">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

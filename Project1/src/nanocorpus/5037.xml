@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  
+Наномир нельзя снять на камеру или увидеть при помощи даже сильнейшего оптического микроскопа. Только специальные приборы могут создавать изображения наномира. На выставке, проходящей в Италии, демонстрируются работы учёных из Национального центра <Node id="251"/>наноструктур<Node id="263"/> и биосистем на поверхности (National Center on Nanostructures and Biosystems at Surfaces). Изображения для выставки обработала фотограф Луция Кови (Lucia Covi). Выставка предоставляет общественности возможность увидеть те фотографии, которые обычно доступны только учёным.
+ 
+Некоторые фотографии можно увидеть здесь и здесь.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="251" EndNode="263">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

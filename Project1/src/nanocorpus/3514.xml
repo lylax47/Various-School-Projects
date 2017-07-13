@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ноу-хау под микроскопомПреподаватель Архангельского государственного технического университета, заведующий кафедрой математики Андрей Баданин принимает участие в международном проекте по созданию нанотехнологий.
+<Node id="212"/>Несколько лет назад<Node id="231"/> математика пригласили на конференцию в Берлин. <Node id="279"/>После этого<Node id="290"/> Андрей Баданин вошел в международную группу исследователей, которые занимаются изучением свойств <Node id="388"/>углеродных <Node id="399"/>нанотрубок<Node id="409"/>. Они были открыты в <Node id="430"/>1991 году<Node id="439"/> японским исследователем Иджимой.
+
+По прогнозам специалистов, <Node id="501"/>нанотрубки<Node id="511"/> могут применяться в компьютерной индустрии. Их использование, например, позволит уже к <Node id="599"/>следующему году<Node id="614"/> создать микропроцессоры, которые будут содержать около одного миллиарда транзисторов и работать на частоте до 20 гигагерц при напряжении менее одного вольта. Также планируется создание плат памяти емкостью 10 гигабайт.
+Андрея Баданина больше интересует применение <Node id="879"/>наноструктур<Node id="891"/> как полупроводников или проводников в зависимости от среды и внешнего воздействия.
+ 
+<Node id="977"/>Необычные электрические свойства <Node id="1010"/>нанотрубок<Node id="1020"/> делают их одним из основных материалов наноэлектроники, – рассказывает Андрей Баданин<Node id="1106"/>. – Например, их можно использовать в полевых транзисторах.
+ 
+<Node id="1168"/>К сожалению, сегодня, по словам Баданина, чтобы проводить столь масштабные работы, нужна отработанная экспериментальная база, плеяда специалистов, разбирающихся в этой теме, и, конечно же, большие финансовые средства<Node id="1384"/>. Пока ни в одном университете Архангельска этого нет, хотя в российских вузах уже есть примеры появления специальных лекционных курсов по нанотехнологиям.
+В ближайшей перспективе могут появиться методики подготовки кадров для этой сферы деятельности. Тогда у АГТУ есть все основания участвовать в реализации новейших образовательных программ. А пока Андрей Баданин «вводит в курс дела» двух своих студентов. Вместе они взялись за изучение новых структур – нанопластин.
+Анна <Node id="1859"/>Чистяковаhttp://www.rg.ru/…ij/nano.htmlАрхангельский<Node id="1911"/> государственный технический <Node id="1940"/>университетhttp://www.agtu.ru<Node id="1969"/>/Да, много энтузиастов нанотехнологий появилось на просторах нашей великой Родины. С одной стороны, это хорошо, и здесь можно посоветовать А.Баданину ввести у себя курс «Нанотехнологии в школе и на внеклассных занятиях», который мы недавно рассматривали: <Node id="2224"/>http://www.nanonewsnet.ru/…-zanyatiyakh.<Node id="2264"/> С другой стороны, чтобы, как говорили в старину, «каждая кухарка (у нас) не руководила государством», всё-таки, я думаю, не стоило бы преувеличивать значения этого «доморощенного энтузиазма». Пусть в данном случае «пироги печёт пирожник», то есть настоящий специалист. Вот если наш «герой» что-такое «изобретёт» (и опубликует) именно как специалист (математик), и это будет сочтено существенным вкладом в развитие нанонауки/НТ, то тогда будет ему честь и хвала. А до тех пор пусть читает лекции своим студентам и готовит их к будущему профессиональному (!) изучению <Node id="2831"/>наноструктур<Node id="2843"/> и нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="879" EndNode="891">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="430" EndNode="439">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1859" EndNode="1911">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="977" EndNode="1106">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="1168" EndNode="1384">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2224" EndNode="2264">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="388" EndNode="409">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="430" EndNode="439">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="501" EndNode="511">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="279" EndNode="290">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="399" EndNode="409">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1168" EndNode="1384">
+</Annotation>
+<Annotation Id="16" Type="Наноструктура" StartNode="2831" EndNode="2843">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1940" EndNode="1969">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="977" EndNode="1106">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="1010" EndNode="1020">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="212" EndNode="231">
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="599" EndNode="614">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследования японских ученых показывают, что двухслойные мембраны, образованные водорастворимыми производными <Node id="111"/>фуллеренов<Node id="121"/>, обладает свойствами, кардинально отличающимися от свойств обычных липидных двухслойных мембран, как, например, клеточных. 
+ 
+Открытие позволяет предположить, что мембраны из <Node id="297"/>фуллеренов<Node id="307"/> могут использоваться в разделении и распознавании веществ.  <Node id="368"/>Хироюки Изобе<Node id="381"/> (Hiroyuki Isobe) из Университета Тогоку в Сендае, а также <Node id="440"/>Тацуя Хомма<Node id="451"/> (Tatsuya Homma) и Еиичи Накамура (Eiichi Nakamura) из Университета Токио обнаружили, что фуллереновые мембраны на несколько порядков более водонепроницаемы, чем липидные мембраны, водонепроницаемость таких систем понижается по мере увеличения температуры.  Исследователи уверены, что это необычное поведение фуллереновых мембран обусловлено тем фактом, что молекулы воды взаимодействуют с молекулами <Node id="852"/>фуллерена<Node id="861"/>, проникая сквозь «щели» жесткого фуллеренового бислоя, и, в результате этого, с трудом могут покидать этот двойной слой. Возможно, что водоотталкивающий эффект подобен эффекту, проявляющемуся в том случае, когда кристаллический белок или соль металла гидратируются, не позволяя избыточным молекулам воды подходить к оболочке. Исследователи использовали сферические двухслойные везикулы, самопроизвольно образующиеся при растворении в воде пентафенилфуллерена (Ph5C60). Они отмечают, что для создания двойных слоев, способных к распознаванию, или обладающих каталитическими свойствами, возможна химическая модификации фенильных групп, а также замена катиона металла. 
+ 
+Источник Proc. Natl. Acad. Sci. USA, DOI: 10.1073/pnas.0705010104 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="297" EndNode="307">
+</Annotation>
+<Annotation Id="3" Type="Фуллерен" StartNode="852" EndNode="861">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="368" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хироюки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="440" EndNode="451">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тацуя</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="111" EndNode="121">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

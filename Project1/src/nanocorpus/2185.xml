@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В статье "Carrier statistics and quantum capacitance of graphene sheets and ribbons", опубликованной недавно группой американских исследователей в журнале Applied physics letters, рассматриваются фундаментальные аспекты статистики носителей заряда в <Node id="251"/>графене<Node id="258"/> и графеновых <Node id="272"/>нанолентах<Node id="282"/>. <Node id="284"/>Графен<Node id="290"/> (слой атомов углерода, соединенный sp2 связями  в двумерную гексагональную сетку) в последнее время привлекает большой интерес исследователей по всему миру. Было показано, что графеновые листы обладают нулевой запрещенной зоной и линейным законом дисперсии в зоне проводимости и валентной зоне:
+  
+где s = +1 для зоны проводимости и s = -1 для валентной зоны, ћ – постоянная <Node id="666"/>Планка<Node id="672"/>, деленная на 2π; vF ~ 108 см/с – фермиевская скорость носителей заряда в <Node id="746"/>графене<Node id="753"/>; - волновой вектор носителей в плоскости графенового листа (x- y). 
+ 
+В отсутствие примесей и дефектов в условиях термодинамического равновесия <Node id="898"/>графен<Node id="904"/> характеризуется собственной концентрацией свободных электронов в зоне проводимости и собственной концентрацией дырок в валентной зоне, аналогично объемным полупроводникам.
+ 
+Плотность 2D электронного газа можно записать как
+  
+где f(E) - функция распределения <Node id="1165"/>Ферми-Дирака<Node id="1177"/>  , ρgr(E)- плотность состояний. Проинтегрировав и приняв для простоты обозначения u=E/ kT и η=EF/kT, электронную плотность можно записать как
+  
+И, аналогично, плотность дырок
+  
+где - интеграл <Node id="1372"/>Ферми-Дирака<Node id="1384"/>.
+ 
+В термодинамическом равновесии и при отсутствии внешних воздействий (нет внешнего электрического поля, нет освещения) уровень <Node id="1514"/>Ферми<Node id="1519"/> постоянен и, более того, совпадает по энергии с точкой <Node id="1575"/>Дирака<Node id="1581"/> (|k| = 0). Это положение принимают за 0 энергии. Таким образом,
+  
+Следует отметить, что полученная температурная зависимость собственной концентрации носителей заряда в <Node id="1752"/>графене<Node id="1759"/> имеет не экспоненциальный, а квадратичный характер. Это связано с отсутствием запрещенной зоны  <Node id="1856"/>графене<Node id="1863"/> и линейным законом дисперсии. При комнатной температуре собственная концентрация электронов и дырок достигает около 9·1010 см-2.
+ 
+Совершенно другая ситуация наблюдается в случае графеновых <Node id="2054"/>нанолент<Node id="2062"/>, которые характеризуются конечной шириной W. Хотя многие экспериментальные данные свидетельствуют о том, что энергетические параметры графеновых <Node id="2208"/>нанолент<Node id="2216"/> зависят от хиральности, в данной статье этим пренебрегают и рассматривают случай изотропного распределения моментов носителей в плоскости ленты. Если направить ось х вдоль ленты, то волновой вектор электронов в направлении y квантуется ky=nπ/W ( n = ±1, ±2, …) и уравнение дисперсии преобразуется:
+  
+ 
+Таким образом, валентная зона и зона проводимости расщепляются на одномерные подзоны. Из-за квантово-размерного эффекта в энергетической диаграмме графеноой ленты открывается запрещенная зона Eg=2πћvF/W, ширина которой зависит только от фермиевской скорости электронов и от ширины ленты. При этом уровень <Node id="2825"/>Ферми<Node id="2830"/> остается в точке <Node id="2848"/>Дирака<Node id="2854"/>, то есть  EF=0. Это значит, что уровень <Node id="2895"/>Ферми<Node id="2900"/> в условиях термодинамического равновесия и при отсутсвии внешних сил в графеновой <Node id="2983"/>наноленте<Node id="2992"/> находится посередине запрещенной зоны.
+ 
+Собственная концентрация электронов в ленте:
+  
+ 
+На рисунке ниже приведены рассчитанные значения собственных концентраций носителей для <Node id="3171"/>графена<Node id="3178"/> и графеновых <Node id="3192"/>нанолент<Node id="3200"/>.
+  
+Эти картинки показывают, что собственная концентраия носителей в графеновой <Node id="3281"/>наноленте<Node id="3290"/> значительно отличается от концентрации в <Node id="3332"/>графене<Node id="3339"/>, если ширина ленты меньше 100 нм.
+ 
+Концентрация носителей заряда в <Node id="3408"/>графене<Node id="3415"/> может быть изменена при наложении внешнего электрического поля. Это явление называется полевым эффектом и лежит в основе работы полевых транзисторов, которые являются важной составной частью современной электроники. 
+ 
+При наложении поля уровень <Node id="3662"/>Ферми<Node id="3667"/> в <Node id="3670"/>графене<Node id="3677"/> смещается из точки <Node id="3697"/>Дирака<Node id="3703"/> (E=0) на EF=η kT. То есть, уровень <Node id="3739"/>Ферми<Node id="3744"/> оказывается или в зоне проводимости, или в валентной зоне (в зависимости от знака приложенного поля), что приводит к увеличению концентрации свободных носителей заряда при данной температуре.
+ 
+В случае графеновых <Node id="3959"/>нанолент<Node id="3967"/>, где уровень <Node id="3981"/>Ферми<Node id="3986"/> при наложении небольших внешних полей остается в запрещенной зоне, концентрация электронов может быть записана как n≈nieη (для дырок аналогично p≈ nie-η), что совпадает с выражениями для обычных полупроводников. На рисунке ниже показаны рассчитанные концентрации носителей зарядов в <Node id="4270"/>графене<Node id="4277"/> и графеновых <Node id="4291"/>нанолентах<Node id="4301"/> разной ширины в зависимости от расположения уровня <Node id="4353"/>Ферми<Node id="4358"/> при комнатной температуре. При больших значениях поля уровень <Node id="4421"/>Ферми<Node id="4426"/> в <Node id="4429"/>нанолентах<Node id="4439"/> так же, как и в <Node id="4456"/>графене<Node id="4463"/> попадает внутрь разрешенной зоны и, следовательно, концентрация носителей в графеновых <Node id="4551"/>нанолентах<Node id="4561"/> сходна с таковой в <Node id="4581"/>графене<Node id="4588"/>.
+ 
+В статье также приведен расчет важной величины – квантовой емкости <Node id="4659"/>графена<Node id="4666"/> и графеновых <Node id="4680"/>нанолент<Node id="4688"/> и рассчитаны ее зависимости от приложенного поля.
+ Автор перевода: Павел Хохлов </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанолента" StartNode="272" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанолента" StartNode="4429" EndNode="4439">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="3662" EndNode="3667">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="3332" EndNode="3339">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1514" EndNode="1519">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="встречи_и_переговоры" StartNode="1165" EndNode="1384">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="1856" EndNode="1863">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="898" EndNode="904">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="4353" EndNode="4358">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="3408" EndNode="3415">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="4659" EndNode="4666">
+</Annotation>
+<Annotation Id="21" Type="Графен" StartNode="3171" EndNode="3178">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="2848" EndNode="2854">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Графен" StartNode="251" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="4421" EndNode="4426">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Графен" StartNode="746" EndNode="753">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="1372" EndNode="1384">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми-Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Нанолента" StartNode="2983" EndNode="2992">
+</Annotation>
+<Annotation Id="28" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="2895" EndNode="2900">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="Нанолента" StartNode="3959" EndNode="3967">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="1165" EndNode="1177">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми-Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="Персона" StartNode="1575" EndNode="1581">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Нанолента" StartNode="4551" EndNode="4561">
+</Annotation>
+<Annotation Id="36" Type="Персона" StartNode="3739" EndNode="3744">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Нанолента" StartNode="3281" EndNode="3290">
+</Annotation>
+<Annotation Id="42" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="43" Type="Персона" StartNode="3981" EndNode="3986">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Графен" StartNode="3670" EndNode="3677">
+</Annotation>
+<Annotation Id="41" Type="Нанолента" StartNode="4680" EndNode="4688">
+</Annotation>
+<Annotation Id="46" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="47" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="Нанолента" StartNode="4291" EndNode="4301">
+</Annotation>
+<Annotation Id="45" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="51" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="50" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="49" Type="Персона" StartNode="2825" EndNode="2830">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="55" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="54" Type="Персона" StartNode="3697" EndNode="3703">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дирак</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="52" Type="Нанолента" StartNode="2054" EndNode="2062">
+</Annotation>
+<Annotation Id="59" Type="Графен" StartNode="4581" EndNode="4588">
+</Annotation>
+<Annotation Id="58" Type="Графен" StartNode="1752" EndNode="1759">
+</Annotation>
+<Annotation Id="57" Type="Графен" StartNode="284" EndNode="290">
+</Annotation>
+<Annotation Id="56" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="63" Type="Нанолента" StartNode="3192" EndNode="3200">
+</Annotation>
+<Annotation Id="62" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="61" Type="Графен" StartNode="4270" EndNode="4277">
+</Annotation>
+<Annotation Id="60" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="64" Type="Персона" StartNode="666" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Планк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Графен" StartNode="4456" EndNode="4463">
+</Annotation>
+<Annotation Id="66" Type="Нанолента" StartNode="2208" EndNode="2216">
+</Annotation>
+<Annotation Id="67" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

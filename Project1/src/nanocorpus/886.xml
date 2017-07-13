@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт механики Уфимского научного центра интеллектуальные системы управления , микроробототехнические системы, микросистемная техника, наноструктурные металлы, нелинейные многосвязные системы    Нанотехнологии Робототехника   Использование различных технологий получения наноструктурных металлов и сплавов Исследование нелинейных многосвязных систем частотными методами Проектирование автоматизированной системы управления добычей нефти Проектирование микроробототехнических систем Проектирование оптимальных, адаптивных и интеллектуальных систем управления динамическими объектами                              Мигранов Айрат Барисович, старший научный сотрудник, кандидат наук Даринцев Олег Владимирович, старший научный сотрудник, кандидат наук Денисова Екатерина Всеволодовна, ведущий научный сотрудник, кандидат наук <Node id="826"/>Ильясов Барый Галеевич<Node id="848"/>, заведующий лабораторией, профессор, доктор наук <Node id="898"/>Саитова Гузель Асхатовна<Node id="922"/>, старший научный сотрудник, кандидат наук 
+В рамках лаборатории организована группа по микросистемной технике  
+ Ведутся исследования в области моделирования виртуальных сред, микроробототехники, разработки конструкций элементов микросистемной техники и МЭМС (микроэлектромеханических систем), использования <Node id="1231"/>наноструктурных материалов<Node id="1257"/> в МЭМС. 
+ Проводились инженерные исследования новых типов конструкций микроробототехники, моделировались комплексные процессы и задачи, включающие имитационную проверку работоспособности и эффективности алгоритмов планирования и управления микросборочными устройствами и комплексами в целом. Предлагаются принципиально новые возможности проектирования и исследования для своевременного устранения “узких” мест в разрабатываемых решениях, оценки эффективности оборудования, внедрения решений по упреждающему технологическому управлению, планированию, контролю и т.д. 
+ Построена система управления мобильным микророботом на базе платформы .NET Framework, позволяющая в качестве управляющей ЭВМ (удаленного агента) использовать карманные персональные компьютеры (КПК) и мобильные телефоны (смартфоны). 
+ Разработка различных технологий получения наноструктурных металлов и сплавов, и их комбинаций позволяет получить уникальные по своим характеристикам конструкционные материалы    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="1231" EndNode="1257">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="826" EndNode="848">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Галеевич</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ильясов</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="898" EndNode="922">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Асхатовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Саитова</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

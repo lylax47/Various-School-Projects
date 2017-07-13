@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Ученый Роберт Чанг из Северо-Западного Университета в Мексике без труда убедил чиновников министерства образования ввести нанотехнологию в школах Мексики. Как сказал сам <Node id="171"/>Чанг<Node id="175"/>, ему всего лишь нужно было завести разговор о нанотехнологии с высшими чинами власти страны, ответственными за образование, и те просто приказали школьным властям начать преподавание нанотехнологии школьникам. 
+ 
+Что касается нашей страны, то ввести такой предмет, как нанотехнология, в школах, очень непросто. Нанотехнология представляет особенно трудный для преподавания предмет. Это не традиционная дисциплина, а, скорее комбинация дисциплин, таких, как физика, химия, биология, математика и материаловедение. 
+ 
+Университет, где работает <Node id="718"/>Чанг<Node id="722"/>, - это часть консорциума состоящего из музеев, исследовательских центров и образовательных институтов, которые ведут обучение нанотехнологии. Музеи устраивают выставки по теме "нанотехнология", доступные пониманию людей всех возрастов. Создаются также специальные учебные модули с уже готовыми результатами экспериментов, буклетами с информацией по данной теме, то есть, то, что преподаватели могут включить в стандартный учебный план. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="171" EndNode="175">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чанг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="718" EndNode="722">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ч.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Чанг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

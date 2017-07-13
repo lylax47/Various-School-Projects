@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Intel Corp. планирует инвестировать <Node id="37"/>8,5 млрд. долл.<Node id="52"/> в строительство двух новых (в штате Аризона и в Израиле) и переоборудование существующих полупроводниковых фабрик под новый 45-нм технологический процесс.
+
+Intel работает в Израиле <Node id="234"/>с 1974 г.<Node id="243"/> Она имеет 5 исследовательских центров (Haifa, Yakum, Jerusalem, Petach Tikva and Yokneam), в которых непосредственно работают 7000 человек. Именно разработки исследовательского центра в Хайфе привели к созданию процессора Pentium, запущенного в <Node id="489"/>1997 г.<Node id="496"/>, сейчас здесь разрабатывается микропроцессор для мобильных применений. Центр в Хайфе сыграл также ведущую роль в разработке нового 45-нм процессора Penryn. Центр в Petach Tikva разрабатывает телекоммуникационные приборы на чипах по 130-нм и 90-нм технологии. [1].
+
+Новая фабрика Intel's Fab 28 (инвестиции в строительство которой составят <Node id="836"/>около 4 млрд. долл.<Node id="855"/> от Intel и <Node id="867"/>525 млн. долл.<Node id="881"/> от правительсва Израиля) будет построена в Кият Гате (Kiryat Gat) на юге Израиля. Fab 28 будет ориентирована на производство изделий с топологическими размерами 45 нм на 300 мм подложках. По планам, серийное производство начнется <Node id="1112"/>с середины 2009 года<Node id="1132"/>. Фабрика будет размещена в 4-х зданиях общей площадью 130 тыс. м2, включая 20 тыс. м2 чистых комнат класса 10. Это – самый большой строительный проект в Израиле. Ожидается, что фабрика будет производить продукции на экспорт в объеме <Node id="1366"/>3 млрд. долл.<Node id="1379"/> ежегодно.
+
+Другая фабрика Intel в Кият Гате (Fab 18), открытая в <Node id="1445"/>1999 г.<Node id="1452"/>, перейдет в собственность компании Numonyx. Фабрика имеет 9 тыс. м2 чистых комнат, в <Node id="1538"/>настоящее время<Node id="1553"/> производит процессоры по 180-нм технологии. В строительство фабрики в свое время было инвестировано <Node id="1654"/>1,6 млрд. долл.<Node id="1669"/> (от Intel – <Node id="1682"/>1 млрд. долл.<Node id="1695"/>; от правительства Израиля – остальное).
+
+Еще одна фабрика Intel в Иерусалиме, Fab 8, будет перепрофилирована под участок сборки и испытаний.
+
+Возродится и еще одна фабрика Intel – Fab 11X в Rio Rancho, открытая в <Node id="1909"/>2002 г.<Node id="1916"/> (инвестиции <Node id="1929"/>2 млрд. долл.<Node id="1942"/>), производящая в <Node id="1960"/>настоящее время<Node id="1975"/> схемы по 90-нм технологии на 300 мм подложках. Ее переоборудование под 45-нм процесс будет проводиться без остановки текущего производства (как сказал руководитель проекта Leon Cooley, «колеса будем менять на скорости 75 миль/<Node id="2202"/>час<Node id="2205"/>»), а в планах – приступить к поставке новых 45-нм чипов в <Node id="2264"/>конце 2008 г.<Node id="2277"/> На проект выделяется <Node id="2299"/>1,5 млрд. долл.<Node id="2314"/> Первой стала производить 45-нм схемы фабрика Intel в штате Орегон <Node id="2381"/>год назад<Node id="2390"/> [2].
+
+Intel не была первой приступившей к поставкам 45-нм чипов заказчикам. До нее японская компания Panasonic с <Node id="2504"/>июня 2007 г.<Node id="2516"/> поставляет 45-нм чипы для видео дисплеев с высоким разрешением, а также IBM использовала этот процесс в специальных схемах для сотовых телефонов [3].
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2202" EndNode="2205">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1682" EndNode="1695">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="489" EndNode="496">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="37" EndNode="52">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="2299" EndNode="2314">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1929" EndNode="1942">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="836" EndNode="855">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1445" EndNode="1452">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2381" EndNode="2390">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1538" EndNode="1553">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2264" EndNode="2277">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="867" EndNode="881">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="234" EndNode="243">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1112" EndNode="1132">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1654" EndNode="1669">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1960" EndNode="1975">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="1366" EndNode="1379">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="1909" EndNode="1916">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="2504" EndNode="2516">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Транспорт молекул через наноразмерные поры играет важную роль во многих физических, химических и биологических процессах. Однако получить информацию о том, как это происходит на самом деле, довольно тяжело. Тяжело, но в принципе возможно. Современные методы <Node id="259"/>просвечивающей электронной микроскопии<Node id="297"/> позволяют следить за атомами и молекулами, когда они находятся внутри <Node id="368"/>углеродных <Node id="379"/>нанотрубок<Node id="389"/>. А теперь японские исследователи сообщают о том, что им удалось наблюдать прохождение углеводородной цепочки сквозь наноразмерный дефект в стенке <Node id="536"/>углеродной <Node id="547"/>нанотрубки<Node id="557"/>.   
+Ученые синтезировали молекулы <Node id="592"/>фуллеренов<Node id="602"/> с углеводородными хвостиками (рис. 1). Далее они взяли <Node id="658"/>углеродные <Node id="669"/>нанотрубки<Node id="679"/> и обработали их горячим кислородом для того, чтобы открыть торцы. При этом также формировались нанопоры и дефекты в стенках <Node id="804"/>нанотрубок<Node id="814"/>. <Node id="816"/>Потом<Node id="821"/> эти <Node id="826"/>нанотрубки<Node id="836"/> вместе с хвостатыми <Node id="857"/>фуллеренами<Node id="868"/> были помещены в толуол и подверглись нагреванию. Результат пристально изучался при помощи просвечивающего электронного микроскопа с временным разрешением 0.5 с.   
+На рисунке 2 приведены изображения молекул внутри <Node id="1083"/>нанотрубки<Node id="1093"/>. И видится ученым, что углеводородные цепочки изогнуты так, чтобы лучше контактировать со стенкой трубки и тем самым сократить поверхностную энергию. Кроме того, цепочки вращаются и делают полный оборот примерно за <Node id="1309"/>15 секунд<Node id="1318"/>.   
+Если вращающийся хвостик встречает отверстие в стенке, он вылезает наружу (рис. 3, 4). Но вращение продолжается, и цепочка через некоторое время втягивается обратно внутрь <Node id="1495"/>нанотрубки<Node id="1505"/>. Было установлено, что при 4 и 293 К движение молекул и их взаимодействие с порами протекают примерно одинаково, а также слабо зависят от типа хвостика, из чего исследователи заключили, что основную роль в движении молекул играет локальный нагрев <Node id="1753"/>нанотрубки<Node id="1763"/> электронным пучком. Но самое главное – была показано, что ПЭМ позволяет получать уникальную информацию о прохождении молекул через нанопоры. В данном случае молекулярный транспорт оказался обратимым процессом.   
+Работа «Imaging the passage of a single hydrocarbon chain through a nanopore» опубликована в журнале Nature Nanotechnology. Мультики о приключениях хвостатых <Node id="2135"/>фуллеренов<Node id="2145"/> в <Node id="2148"/>углеродных <Node id="2159"/>нанотрубках<Node id="2170"/> можно посмотреть в дополнительной информации. 
+ 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="816" EndNode="821">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1753" EndNode="1763">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="368" EndNode="389">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="2159" EndNode="2170">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="379" EndNode="389">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="826" EndNode="836">
+</Annotation>
+<Annotation Id="6" Type="Фуллерен" StartNode="592" EndNode="602">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="804" EndNode="814">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1309" EndNode="1318">
+</Annotation>
+<Annotation Id="9" Type="Фуллерен" StartNode="857" EndNode="868">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1083" EndNode="1093">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="2148" EndNode="2170">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="658" EndNode="679">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="547" EndNode="557">
+</Annotation>
+<Annotation Id="14" Type="Фуллерен" StartNode="2135" EndNode="2145">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="669" EndNode="679">
+</Annotation>
+<Annotation Id="17" Type="Углеродная+нанотрубка" StartNode="536" EndNode="557">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1495" EndNode="1505">
+</Annotation>
+<Annotation Id="18" Type="Просвечивающая+электронная+микроскопия" StartNode="259" EndNode="297">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> имеют богатые перспективы использования в качестве основы <Node id="81"/>сенсоров<Node id="89"/> – приборов, определяющих характеристики той среды, где они находятся. Это связано с зависимостью электронных характеристик УНТ, таких как ширина запрещенной зоны, концентрация носителей и т. п., от химического состава окружающей среды. В силу такой зависимости вид вольт-амперной характеристики (<Node id="386"/>ВАХ<Node id="389"/>) <Node id="391"/>нанотрубки<Node id="401"/> определяется тем, какого сорта молекулы находятся в контакте с ее поверхностью.
+
+<Node id="483"/>Сенсоры<Node id="490"/> на основе УНТ благодаря удачному сочетанию таких качеств, как миниатюрные размеры, хорошая электропроводность, а также химическая и термическая стабильность являются предметом интенсивных разработок во многих лабораториях. Так, недавно в Korea University (Сеул, Ю.Корея) было обнаружено, что <Node id="783"/>ВАХ УНТ<Node id="790"/> обладает чувствительностью к величине рН раствора, омывающего <Node id="853"/>нанотрубку<Node id="863"/>. Это открывает возможность создания сверхминиатюрного <Node id="918"/>сенсора<Node id="925"/> для определения основной электрохимической характеристики водных растворов.
+
+Схема прибора представлена на рис. 1(а). На кремниевую подложку площадью 1,5х1,5 мм2 и толщиной 450 мкм нанесен изолирующий слой диоксида кремния толщиной 150 нм. Подготовленный литорафическим методом участок поверхности подложки площадью 1х1 мм2 покрывали частицами Со катализатора размером 8 нм, на которых методом <Node id="1320"/>химического осаждения<Node id="1341"/> паров выращивали пленку многослойных УНТ. По завершении процедуры роста УНТ измеряли <Node id="1427"/>ВАХ<Node id="1430"/> пленки с использованием конфигурации, показанной на рис. 1. При этом на поверхность пленки наносили каплю водного раствора, величина рН которого изменялась от 4 (кислота) до 10 (основание).
+
+Результаты измерений, представленные на рис. 2, демонстрируют заметную чувствительность <Node id="1710"/>ВАХ<Node id="1713"/> образца к величине рН раствора. Рост рН раствора сопровождается увеличением проводимости образца, которая находится по наклону <Node id="1841"/>ВАХ<Node id="1844"/>. В качестве физического механизма, определяющего наблюдаемую зависимость проводимости от рН, авторы выдвигают предположение, согласно которому адсорбция гидроксильных групп <Node id="2018"/>нанотрубками<Node id="2030"/>, создает акцепторный уровень на их поверхности и увеличивает проводимость УНТ.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Химическое+осаждение" StartNode="1320" EndNode="1341">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="918" EndNode="925">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="483" EndNode="490">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="81" EndNode="89">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1427" EndNode="1430">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="391" EndNode="401">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1841" EndNode="1844">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="783" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="386" EndNode="389">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1710" EndNode="1713">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="853" EndNode="863">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="2018" EndNode="2030">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

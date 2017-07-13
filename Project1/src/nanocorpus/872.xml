@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Специализированный раздел, посвященный кадровой политике в области построения наноиндустрии РФ
+ Привлечение и удержании молодых кадров в наноиндустрии РФ Престиж ученого <Node id="171"/>Тестирование<Node id="183"/> и Кадровый Резерв Пишите
+Или «пОстите» прямо здесь.
+
+P.S.
+
+Это сообщение не маркетинговая «акция». Хочется действительно наладить связи и пусть это будет началом серьёзного взаимодействия.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="171" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тестирование</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

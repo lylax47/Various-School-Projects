@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Создание покрытий из диоксида кремния на поверхности металлических <Node id="68"/>наночастиц<Node id="78"/> является широко известным способом стабилизации и функционализации. Исследователи из Германии предложили сделать всё наоборот – вырастили <Node id="217"/>наночастицы<Node id="228"/> золота<Node id="235"/>, используя в качестве нанореакторов полые частицы SiO2. 
+ 
+ Полости были заполнены золото-содержащим прекурсором, при восстановления которого были получены <Node id="392"/>нанокомпозиты<Node id="405"/> Au-SiO2. Размер пор, а следовательно и золотых включений, можно легко варьировать. 
+ 
+ Ученые убеждены, что такие <Node id="520"/>наночастицы<Node id="531"/> могут быть использованы для доставки лекарств, обнаружения и хранения газов и в качестве контрастирующих агентов. 
+ 
+ Работа "Au–silica nanoparticles by reverse synthesis of cores in hollow silica shells" была опубликована в журнале Chemical Communications. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица+золота" StartNode="217" EndNode="235">
+</Annotation>
+<Annotation Id="1" Type="Нанокомпозит" StartNode="392" EndNode="405">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="217" EndNode="228">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="68" EndNode="78">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="520" EndNode="531">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

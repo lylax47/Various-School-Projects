@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Среднестатистический американец почти не знаком с нанотехнологиямиИсследование, проведенное Исследовательским центром имени <Node id="124"/>Вудро Вильсона<Node id="138"/> (Woodrow Wilson International Center for Scholars), показало, что американцы неожиданно мало знают о нанотехнологиях.
+
+Многие аналитики утверждают, что нанотехнологии способны привести к новой индустриальной революции. В <Node id="360"/>2006 году<Node id="369"/> на мировой рынок поступило на <Node id="400"/>$50 млрд.<Node id="409"/> товаров, созданных с помощью нанотехнологий, в общей сложности в продаже появилось более 500 новых наименований подобных товаров.
+
+При этом только <Node id="557"/>6%<Node id="559"/> американцев заявили, что они «много слышали» о нанотехнологиях (в <Node id="626"/>2006 году<Node id="635"/> таких было заметно больше – <Node id="664"/>10%<Node id="667"/>).
+
+<Node id="671"/>70%<Node id="674"/> жителей США практически или абсолютно ничего не знают об этом направлении в науке и технике (аналогичная картина была отмечена и в <Node id="806"/>2006 году<Node id="815"/>). Менее всего знают о нанотехнологиях женщины, пожилые и малообразованные люди.
+
+Исследование также показало, что американцы предпочитают, чтобы государство, а не коммерческие структуры управляли рисками, связанными с развитием нанотехнологий.
+
+Лишь <Node id="1066"/>7%<Node id="1068"/> жителей США готовы приобрести продукты питания, произведенные с помощью нанотехнологий – <Node id="1158"/>63%<Node id="1161"/> заявили, что им требуется больше информации о возможных проблемах, связанных с использованием подобных продуктов. При этом те люди, которые находятся в курсе дела, опасаются нанотехнологий намного меньше, чем откровенные дилетанты.
+
+Интересно, что <Node id="1410"/>6%<Node id="1412"/> опрошенных американцев считают, что использование нанотехнологий способно принести больше вреда, чем пользы. Противоположного мнения придерживаются <Node id="1561"/>18%<Node id="1564"/>.
+
+<Node id="1567"/>44%<Node id="1570"/> жителей США убеждены в том, что коммерческие структуры, производящие нанотовары ответственно подходят к делу минимизации рисков, связанных с использованием их изделий.
+<Node id="1739"/>http://www.washprofile.org/ru/node/6955Ну<Node id="1780"/> вот, опять мы «впереди планеты всей»… Бедные-бедные американцы. До чего же им не повезло с «главнокомандующим»… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1066" EndNode="1068">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="671" EndNode="674">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="360" EndNode="369">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="124" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Вильсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="626" EndNode="635">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1739" EndNode="1780">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1561" EndNode="1564">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="557" EndNode="559">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="400" EndNode="409">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="626" EndNode="635">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="806" EndNode="815">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="360" EndNode="369">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1158" EndNode="1161">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="806" EndNode="815">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="664" EndNode="667">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="1410" EndNode="1412">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="1567" EndNode="1570">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

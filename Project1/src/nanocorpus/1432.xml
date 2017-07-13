@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>23 апреля 2008 г.<Node id="18"/> заместитель генерального директора ГК «Роснанотех» Александра Нестеренко<Node id="91"/> <Node id="92"/>выступила на втором Всероссийскогом форуме «Интеллектуальная собственность России-2008» с докладом «Концепция участия ГК «Роснанотех» в совершенствовании законодательства: инновационная деятельность и интеллектуальная собственность»
+
+В концепции обозначены основные направления совершенствования законодательства, которые с точки зрения Корпорации будут способствовать развитию инноваций:
+ На краткосрочном горизонте (<Node id="510"/>2008–2010 гг<Node id="522"/>): устранение законодательных препятствий и создание благоприятных правовых условий для деятельности участников инновационного процесса, формирования национальной нанотехнологической сети, стимулирование отдельных стадий инновационного процесса и запуск эффективной системы коммерциализации технологий в сфере наноиндустрии, развитие рынка интеллектуальной собственности в сфере нанотехнологий, стимулирование рынков продукции наноиндустрии. На среднесрочном горизонте (<Node id="992"/>2011–2015 гг<Node id="1004"/>): создание системы правового регулирования рынков продукции наноиндустрии, обеспечивающей свободный оборот производимой продукции, безопасность и качество потребительских продуктов с использованием <Node id="1203"/>наноматериалов<Node id="1217"/> и нанотехнологий, защиту окружающей среды. На долгосрочном горизонте (<Node id="1288"/>2015–2026 гг<Node id="1300"/>): актуализация и повышение эффективности нормативной правовой базы, обеспечивающей паритетное участие Российской Федерации в международном инновационном процессе в сфере нанотехнологий и <Node id="1488"/>наноматериалов<Node id="1502"/>. 
+<Node id="1505"/>Александра Нестеренко сообщила, что Корпорацией подготовлены предложения к законопроекту «О передаче технологий» в части совершенствования процедур проведения конкурса на передачу технологий, защиты прав частных инвесторов при софинансировании создания технологий<Node id="1768"/>. <Node id="1770"/>Она<Node id="1773"/> также подчеркнула, что необходимо внесение изменений в законодательство, позволяющих научным и вузовским учреждениям создавать малые инновационные предприятия и spin-off компании<Node id="1952"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="1770" EndNode="1952">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="91" EndNode="92">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="992" EndNode="1004">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1770" EndNode="1773">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="1488" EndNode="1502">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1288" EndNode="1300">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1505" EndNode="1768">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="1203" EndNode="1217">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="1770" EndNode="1952">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="510" EndNode="522">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1505" EndNode="1768">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="91" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

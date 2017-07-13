@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>1-3 октября 2007 г.<Node id="20"/> в Институте биохимической физики им. Н.М. Эмануэля РАН (Москва, ул. Косыгина, 4) состоится The International Conference and Exhibition "Molecular and  Nanoscale Systems for Energy Conversion  (MEC-2007)" . Конференция получила поддержку от ИЮПАК, РАН, РФФИ и <Node id="280"/>Роснауки<Node id="288"/>. Срок подачи заявок на участие в конференции и отправки тезисов - <Node id="355"/>31 мая 2007 г.<Node id="369"/>  
+ 
+ В рамках конференции проводится Молодежная  школа-семинар "Молекулярные и наносистемы для преобразования энергии" и КОНКУРС МОЛОДЫХ УЧЕНЫХ на лучшую научно-исследовательскую работу по тематике конференции (MEC-2007) и школы-семинара. 
+  Подробная информация - на сайте конференции: <Node id="657"/>http://ibcp.chph.ras.ru/~energy<Node id="688"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="657" EndNode="688">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="355" EndNode="369">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1" EndNode="20">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="280" EndNode="288">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснауки</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

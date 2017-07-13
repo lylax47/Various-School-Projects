@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Компания L'Oreal-Россия при поддержке Российской Академии наук и Комиссии Российской Федерации по делам ЮНЕСКО на конкурсной основе выберет 10 стипендианток - молодых женщин-ученых в возрасте <Node id="194"/>до 35 лет<Node id="203"/>. Соискательницы должны иметь степень кандидата наук и работать в российский научных Институтах или Вузах в области: 
+  физики,  химии,  медицины,  биологии.   
+Размер стипендии - <Node id="383"/>340 000 рублей<Node id="397"/>. 
+ 
+ 
+Представление кандидатур должно быть осуществлено <Node id="454"/>с 1 февраля по 31 июля 2008 года<Node id="486"/>. 
+Заполнить анкету можно по адресу: (<Node id="524"/>http://lorealfellowships-russia.org)<Node id="560"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="454" EndNode="486">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="383" EndNode="397">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="524" EndNode="560">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="194" EndNode="203">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

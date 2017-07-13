@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Уральский государственный университет им. А.М.Горького (УрГУ) принимает участие во Всероссийском форуме «Образовательная среда – 2008», который открылся <Node id="154"/>30 сентября<Node id="165"/> в Москве, сообщил начальник отдела информационной политики УрГУ Андрей Расторгуев.
+
+Многие посетители заинтересовались научными и образовательными инновациями, представленными на стенде УрГУ, в том числе в области нанотехнологий. Среди них – руководитель Федерального агентства по образованию (ФАО) Николай Булаев<Node id="479"/>.<Node id="480"/>
+
+«<Node id="483"/>Как мы и рассчитывали, внимание Николая Ивановича вначале привлекла инсталляция, использующая особые физические свойства <Node id="604"/>наноматериалов<Node id="618"/>. Однако она стала лишь поводом для краткого, но содержательного разговора о результатах работы нашего университета в рамках Инновационной образовательной программы, в том числе о подготовке специалистов по нанотехнологиям и научных исследованиях, ведущихся в этом направлении<Node id="894"/>» – сообщил по телефону из Москвы ректор УрГУ Дмитрий Бугров<Node id="954"/>.
+
+Большим вниманием стенд УрГУ пользуется и у других посетителей выставки, а также соседей по ней, в числе которых – Самарский аэрокосмический, Санкт-Петербургский электротехнический и Южно-Уральский государственный университеты. Ректор последнего Александр Шестаков также побывал на стенде екатеринбуржцев.
+
+Сегодня Центр коллективного пользования «Современные нанотехнологии», работающий в УрГУ, и 57 павильон Всероссийского выставочного центра, где проходит форум, свяжет телемост. Ожидается, что вместе с учеными в телеконференции, которая начнется в <Node id="1510"/>16 часов<Node id="1518"/> по уральскому времени, примут участие представители ГК «Роснанотех» и возможные бизнес-партнеры университета.
+
+Автором уникальной инсталляции, занимающей центральное место на стенде УрГУ, является одна из самых заметных молодых художественных групп России, работающих в области современного искусства – «Куда бегут собаки».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="154" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="483" EndNode="894">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="483" EndNode="894">
+</Annotation>
+<Annotation Id="5" Type="упоминается" StartNode="483" EndNode="954">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="сотрудники" StartNode="479" EndNode="480">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="483" EndNode="954">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1510" EndNode="1518">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="483" EndNode="954">
+</Annotation>
+<Annotation Id="12" Type="работает" StartNode="479" EndNode="480">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="604" EndNode="618">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="483" EndNode="954">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

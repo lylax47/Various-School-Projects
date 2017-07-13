@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Вполне вероятно, что в скором будущем мы сможем позабыть о вечно теряющихся зарядных устройствах для мобильных телефонов, ведь инженеры всерьез решили создать аппарат, питающийся энергией голоса.
+
+Группа ученых из Техасского университета разрабатывает технологию, которая позволит превращать энергию, выделяемую при механической вибрации, в электричество. Проведенные специалистами исследования показали, что при определенной комбинации пьезоэлектрических материалов и необходимой толщине – около 21 нанометра, можно добиться <Node id="527"/>100%<Node id="531"/> увеличения выработки энергии.
+
+Ученые считают, что на основании открытого ими свойства <Node id="619"/>нанотрубок<Node id="629"/> можно будет создавать в будущем самозаряжающиеся портативные устройства. Энергией для них сможет служить как разговор с собеседником по мобильному телефону, так и обычный уличный шум. Не ясно только, когда этот чудо-момент забвения «зарядок» настанет.
+<Node id="882"/>http://cifrovik.ru<Node id="900"/>/…ticle/13968/</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="527" EndNode="531">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="619" EndNode="629">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="882" EndNode="900">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

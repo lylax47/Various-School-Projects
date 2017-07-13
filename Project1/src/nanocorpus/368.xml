@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Три сотрудника химического факультета Джорджтаунского университета (г. Вашингтон, округ Колумбия) получили гранты от федеральных ведомств на сумму <Node id="147"/>1 млн. 170 тыс. долл.<Node id="168"/> на трехлетний период. Их исследования касаются проблем водородной энергетики, изучения механизмов работы катализаторов и ускорения химических реакций с их помощьюMiklos Kertesz
+Проф. Miklos Kertesz получил грант на <Node id="384"/>300 тыс. долл.<Node id="398"/> от министерства энергетики на продолжение своего проекта «Silicon Carbide Derived Carbons: Experiments and Modeling».
+
+В этом проекте он исследует, как получаемые из карбида кремния материалы могут способствовать получению более совершенных <Node id="640"/>углеродных <Node id="651"/>наноматериалов<Node id="665"/>. В свою очередь, это может привести к лучшему пониманию механизмов работы катализаторов и внесет вклад в развитие нанотехнологий.
+Yu Ye Tong – специалист в области аналитической химии. Он получил грант на <Node id="871"/>450 тыс. долл.<Node id="885"/> для продолжения исследований по проекту “An in situ Electrode-Potential-Controlled Nuclear Magnetic Resonance Investigation of Sulfur-Poisoning Effect on Platinum Based Mono- and Bi-Metallic Nanoscale Electrocatalysts”. Его исследования <Node id="1123"/>наночастиц<Node id="1133"/> на основе платины направлены на достижение лучшего понимания того, как повысить энергетическую эффективность таких материалов, что может привести к созданию более эффективных топливных элементов.
+Timothy Warren – специалист в области органометаллической и неорганической химии. Национальный научный фонд дал ему трехлетний грант (<Node id="1464"/>420 тыс. долл.<Node id="1478"/>) на проведение исследований по проекту “Catalytic Group Transfer with Late Metal Nitrenes”.Timothy Warren
+Используя методы спектроскопии и компьютерного моделирования, он пытается выяснить специфические особенности работы данной системы катализаторов, что может привести к расширению их применения в биомедицинских и энергетических исследованиях.
+<Node id="1826"/>http://www.nanotech-now.com/news.cgi?…Работают<Node id="1872"/> ребята, трудятся над созданием более совершенных катализаторов. Работа вполне конкретная и обещает большие выгоды. И государство, понимая это, через свои федеральные ведомства, всемерно помогает им продвинуться на данном направлении… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="871" EndNode="885">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1123" EndNode="1133">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="384" EndNode="398">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="1464" EndNode="1478">
+</Annotation>
+<Annotation Id="4" Type="Углеродный+наноматериал" StartNode="640" EndNode="665">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="651" EndNode="665">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1826" EndNode="1872">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="147" EndNode="168">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

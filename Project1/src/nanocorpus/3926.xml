@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В статье изложены теоретические и технологические обоснования исследований по разработке принципов создания <Node id="110"/>наноструктур<Node id="122"/> в регистрирующих 3-х мерных высокоразрешающих средах Наноструктурные 3D конфигурации найдут применение в технике создания спектральных приборов на основе элементов с Брегговской дифракцией, <Node id="313"/>Фурье<Node id="318"/>-фильтров с заданными пространственно-частотными свойствами и оптоэлектронных резонаторных устройств, построенных по типу синфазных антенных решеток.
+ 
+НП ОС «ТКС-оптика» (Санкт-Петербург), 
+ 
+ГУП ВНЦ ГОИ им. С.И. Вавилова (Санкт-Петербург).
+ 
+E-mail: <Node id="570"/>Gmelnikov@list.ru<Node id="587"/>
+    
+ 
+        
+ 
+                                                                          
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="570" EndNode="587">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="313" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="110" EndNode="122">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

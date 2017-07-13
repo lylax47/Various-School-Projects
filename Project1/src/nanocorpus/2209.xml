@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Европейская конференция European NanOSH: «Нанотехнологии: Безопасность и риск для здоровья»<Node id="91"/>С 3 по 5 декабря 2007 г.<Node id="115"/> в столице Финляндии Хельсинки состоится эта международная конференция.
+EuroNanOSH – это первая европейская конференция на подобную тему с целевой ориентацией: обеспечение безопасности и здоровья людей при их работе с <Node id="333"/>наночастицами<Node id="346"/> и <Node id="349"/>наноматериалами<Node id="364"/>. В <Node id="368"/>настоящее время<Node id="383"/> (Западно) европейские страны являются лидерами в области НТ-материаловедения. С тем чтобы и в дальнейшем сохранить эти позиции и защитить здоровье как работающих с <Node id="548"/>наноматериалами<Node id="563"/> работников, так и потребителей этой продукции, следует обеспечить жесткий контроль за безопасностью нанотехнологий и <Node id="681"/>наночастиц<Node id="691"/> на всех этапах их производства и использования. Безопасные технологии должны быть одинаково выгодны как работникам, так и предприятиям.
+
+На конференции планируется рассмотреть современное состояние данной проблемы как в странах Западной Европы, так и во всём мире, направления и перспективы развития работ в этой области, проанализировать положительный опыт, накопленный до настоящего времени.
+
+Предполагается, что в работе конференции примут участие как эксперты, так и исследователи, активно работающие в данной области, представители НТ-индустрии, НИИ, работодатели и предприниматели, политики и др.
+
+Конференция организована Финским институтом профессионального здравоохранения – Finnish Institute of Occupational Health (FIOH) в сотрудничестве с компанией Tekes – Агентство по финансированию новой техники и Центром технических исследований (VTT Technical Research Centre). Спонсорами конференции выступили также Итальянский национальный институт профессионального здравоохранения и Институт профессиональной безопасности и здоровья США.
+European NanOSH Conference – Nanotechnologies: A Critical Area in Occupational Safety and Health3–5 December 2007, Marina Congress Center, Helsinki, FinlandProgramme of the Conference | Instructions for contributors | Registration and Payment | General Information |Contact
+Welcome to the EuroNanOSH Conference
+
+We are pleased to invite you to the European NanOSH Conference – Nanotechnologies: A Critical Area in Occupational Safety and Health to be held on 3–5 December 2007 in Helsinki, Finland.
+
+.................
+<Node id="2253"/>http://www.ttl.fi/…a/EuroNanOshFinnish<Node id="2291"/> Institute of Occupational Healthhttp://www.ttl.fi/…net/english/Да, очень актуальная, злободневная и весьма популярная сейчас тема. И молодцы финны, что организовали подобную – очень важную для будущего развития НТ – конференцию. Я думаю, что и нашим специалистам было бы очень важно и полезно поучаствовать в её работе… Или хотя бы получить её материалы для изучения и практического использования.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="349" EndNode="364">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="91" EndNode="115">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="548" EndNode="563">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="368" EndNode="383">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="333" EndNode="346">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2253" EndNode="2291">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="681" EndNode="691">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

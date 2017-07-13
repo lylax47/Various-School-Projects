@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+МОСКВА, <Node id="9"/>20 июля<Node id="16"/> – ОАО «Ситроникс» учредило компанию ОАО «Ситроникс – нанотехнологии». Об этом сообщила пресс-служба ОАО «Ситроникс».
+
+ОАО «Ситроникс» является владельцем <Node id="171"/>100%<Node id="175"/> акций новой компании.
+
+Это предприятие входит в состав бизнес-направления «Ситроникс Микроэлектронные решения» и будет заниматься развитием нанотехнологий в области полупроводников.
+
+«Ситроникс Микроэлектронные решения» в <Node id="398"/>настоящий момент<Node id="414"/> внедряет технологию по производству микроэлектроники с топологическим размером 0,18 микрон. «Ситроникс» активно ведет научно-исследовательские и опытно-конструкторские работы, в том числе в рамках федеральной целевой программы «Национальная технологическая база».
+
+<Node id="680"/>Как отметил руководитель «Ситроникс Микроэлектронные решения» Геннадий Красников<Node id="760"/>,<Node id="761"/> <Node id="762"/>для полноценной конкуренции на мировом рынке Россия должна обладать самыми передовыми и оригинальными разработками<Node id="876"/>. Именно поэтому «Ситроникс» создает предприятие, которое будет заниматься изучением и развитием нанотехнологий в микроэлектронике.
+
+Нанотехнологии – область науки и техники, изучающая свойства и взаимодействия отдельных атомов и молекул, а также способы создания материалов с заданными свойствами на атомарном уровне.
+
+Уменьшение топологических размеров интегральных схем до наноразмеров, то есть менее чем 0,1 микрон, что равно 100 нм, позволит увеличить производительность, снизить энергопотребление, а также себестоимость микросхем. Это приведет к значительному увеличению возможностей современных цифровых устройств, уменьшению их размеров, энергоемкости, росту доступности и распространенности.
+Уменьшение площади интегральной схемы в 2 раза дает выигрыш в себестоимости в 1,6–1,8 раз. В <Node id="1670"/>настоящее время<Node id="1685"/> наиболее производительные процессоры уже выпускаются по технологии 45–65 нм или 0,045–0,065 микрон.
+<Node id="1786"/>http://www.bit.prime-tass.ru/news/show.asp?…Ну<Node id="1832"/> вот, появляются и у нас фирмы-пионеры в области НТ в передовых отраслях. Значит, дело пойдёт гораздо веселее…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1670" EndNode="1685">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1786" EndNode="1832">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="398" EndNode="414">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="171" EndNode="175">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="762" EndNode="876">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="760" EndNode="761">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="760" EndNode="761">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="680" EndNode="876">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="680" EndNode="876">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="762" EndNode="876">
+</Annotation>
+<Annotation Id="10" Type="упоминается" StartNode="680" EndNode="876">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="680" EndNode="876">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="9" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

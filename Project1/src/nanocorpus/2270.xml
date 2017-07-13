@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из Швейцарии удалось разработать новый метод изготовления <Node id="66"/>наночастиц<Node id="76"/> для боросиликатного стекла. Образующиеся с использованием микрожидкостных систем, такие «Pyrex»- подобные <Node id="183"/>наночастицы<Node id="194"/> гораздо более стабильны к температурным скачкам и агрессивным химическим воздействиям, чем существующие полимерные или стеклянные нано-материалы. Введение в использование такого стойкого стекла расширяет диапазоны потенциального применения <Node id="435"/>наночастиц<Node id="445"/> в биомедицинских целях и в электронике.
+
+Благодаря высокому соотношению поверхности к объему, <Node id="540"/>наночастицы<Node id="551"/> вызывают повышенное внимание как потенциальные субстраты для закрепления антител, молекул химических веществ и лекарств – для использования в диагностике, направленной клеточной терапии и катализе химических процессов.
+
+К сожалению, эти применения ограничены фактом разрушения и спекания <Node id="840"/>наночастиц<Node id="850"/> при повышенных температурах, в присутствии некоторых химических веществ или даже деионизованной воды.
+
+Применение боросиликатных (или «Pyrex») стекол вместо силикатных стекол или полимеров помогло бы преодолеть эти препятствия, однако производство боросиликатных <Node id="1114"/>наночастиц<Node id="1124"/> оставалось невозможным из-за нестабильности исходного оксида бора.
+
+На <Node id="1196"/>этой неделе<Node id="1207"/> в онлайн-выпуске Nature Nanotechnology группа ученых из Политехнической Федеральной Школы в Лозанне (Ecole Polytechnique Fédérale de Lausanne, EPFL) под руководством профессора Мартина Джидса (Martin Gijs) сообщила о новой методике изготовления и анализа <Node id="1463"/>наночастиц<Node id="1473"/> боросиликатного стекла.
+
+Кроме биомедицинских приложений новый материал уже рассматривается в свете создания высоко контрастной оптики, контрастных агентов для ультразвуковой микроскопии и мембран для химической фильтрации.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="840" EndNode="850">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1114" EndNode="1124">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="540" EndNode="551">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="183" EndNode="194">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1463" EndNode="1473">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="435" EndNode="445">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1196" EndNode="1207">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="66" EndNode="76">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Нанопровода  – это квазиодномерные кристаллы длиной несколько микрон и диаметром (5 - 100) нм. Их предполагается использовать в различных датчиках, одноэлектронных транзисторах, эмиттерах излучения и других устройствах наноэлектроники. В связи с этим большое внимание уделяется совершенствованию технологии их изготовления. 
+ 
+В качестве затравки для синтеза полупроводниковых нанопроводов (GaAs, InP и т.д.) обычно используют <Node id="429"/>наночастицы<Node id="440"/> Au. В процессе роста, который происходит перпендикулярно подложке,  нанопровод "поднимает" <Node id="532"/>наночастицу<Node id="543"/> золота<Node id="550"/> вверх (см. рис.). При этом диаметр нанопровода определяется поперечными размерами <Node id="633"/>наночастицы<Node id="644"/>. 
+ 
+Сотрудники Philips Research Laboratories (Эйндховен, Голландия) неожиданно (вопреки предсказаниям теории) обнаружили, что скорость роста нанопроводов GaP резко возрастает при уменьшении расстояния между <Node id="852"/>наночастицами<Node id="865"/> золота<Node id="872"/> от 3 мкм до 0.8 мкм [1]. Сами авторы полагают, что это связано с каталитическим воздействием Au-Ga на разложение паров Ga(CH3)3. Такой рост нанопроводов они называют "синергетическим". Одной из его отличительных особенностей является то, что тонкий провод  растет быстрее, если он соседствует с толстым. Синергетический режим может быть использован для выращивания нанопроводов и из других полупроводниковых материалов.
+ 1. M.T.Borgstrom et al. Nature Nanotechnol. 2, 541 (2007). </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="532" EndNode="543">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="633" EndNode="644">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="429" EndNode="440">
+</Annotation>
+<Annotation Id="7" Type="Наночастица+золота" StartNode="852" EndNode="872">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="852" EndNode="865">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наночастица+золота" StartNode="532" EndNode="550">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

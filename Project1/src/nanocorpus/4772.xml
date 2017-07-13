@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Казахстанские и российские ученые выдвигают идею создания в Курчатове синхротронного центра. Об этом в ходе выступления на международной научно-технической конференции «Ядерная энергетика Казахстана» сообщил генеральный директор Национального ядерного центра РК Кайрат Кадыржанов, передает агентство «Казахстан сегодня».
+<Node id="321"/>По словам К. Кадыржанова, создание центра позволит развивать биотехнологии, генетику, полимерную химию, медицинскую диагностику, нанотехнологии, фундаментальные исследования и улучшит подготовку научных кадров<Node id="530"/>.
+
+Кроме того, учитывая близость Семипалатинска, Астаны, Усть-Каменогорска, Омска, Томска и Новосибирска, можно ожидать, что этот центр станет международным.
+
+<Node id="689"/>4 октября<Node id="698"/> в Новосибирске состоится <Node id="724"/>встреча президентов РК и РФ Нурсултана Назарбаева и Владимира Путина<Node id="792"/>, на которой в числе прочих вопросов будет обсуждаться и «взаимодействие сибирской науки с казахстанской».
+<Node id="899"/>http://rnd.cnews.ru/…cience.shtml?…Дело<Node id="938"/> хорошее, почему бы и не обсудить… А потом и создать, если договоримся… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="321" EndNode="530">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="689" EndNode="698">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="321" EndNode="530">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="899" EndNode="938">
+</Annotation>
+<Annotation Id="4" Type="встречи_и_переговоры" StartNode="724" EndNode="792">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

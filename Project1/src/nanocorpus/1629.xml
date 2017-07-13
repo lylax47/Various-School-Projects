@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Впервые в рамках VIII Международного форума  «Высокие технологии <Node id="66"/>XXI века<Node id="74"/>», который состоится <Node id="95"/>23-26 апреля<Node id="107"/> <Node id="108"/>текущего года<Node id="121"/> в Центральном выставочном комплексе "Экспоцентр" на Красной Пресне, будет  представлена  коллективная экспозиция «Наноиндустрия России». Экспозиция организуется Московским комитетом по науке и технологиям <Node id="327"/>совместно<Node id="336"/> с Концерном «Наноиндустрия». Цель экспозиции - содействие повышению конкурентоспособности наукоемкой продукции на внутреннем и внешнем рынке, широкое внедрение инновационных технологий в сфере промышленности и социального сектора, привлечение инвестиций, содействие формированию и реализации государственных программ.  
+ 
+ Тематические разделы коллективной экспозиции - функциональные <Node id="722"/>наноматериалы<Node id="735"/>, наноинженерия и наноэлектроника, нанобиотехнологии, медицинское оборудование, лекарственные средства и технологии, конструкционные композитные материалы, специальные применения нанотехнологий, наносистемная техника, метрологическое оборудование. На площади более 120 кв.метров будут представлены ведущие научные и производственные организации Москвы и регионов России.  
+ 
+ Работа экспозиции будет сопровождаться деловой программой, в рамках которой <Node id="1187"/>25 апреля<Node id="1196"/> состоится семинар «<Node id="1216"/>Наноматериалы<Node id="1229"/> и нанотехнологии – будущее отечественной индустрии». Желающие выступить на семинаре с презентацией собственных проектов, могут обращаться в Концерн «Наноиндустрия». Более подробную информацию Вы можете получить также по телефонам (495) 953-71-70, 953-53-94, 951-59-00; факс: 953-53-82, e-mail: nanotech@mail.magelan.ru, info2@nanotech.ru. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="722" EndNode="735">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="1216" EndNode="1229">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="95" EndNode="107">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1187" EndNode="1196">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Партнеры_Клиенты" StartNode="327" EndNode="336">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="66" EndNode="74">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="108" EndNode="121">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

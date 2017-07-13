@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>НанорискиПроект по Исследованию Нанотехнологий при Центре имени <Node id="64"/>Вильсона<Node id="72"/> (Wilson Center's Project on Emerging Nanotechnologies) сообщил, что государства (Западной) Европы тратят почти в два раза больше средств, чем США, на изучение потенциальных рисков, связанных с использованием нанотехнологий.С каждым <Node id="305"/>годом<Node id="310"/> нас всё больше окружают изделия и товары, изготовленные с использованеим нанотехнологий
+По данным Проекта, в <Node id="420"/>2006 году<Node id="429"/> государственные инвестиции США на эти цели (в рамках Национальной Нанотехнологической Инициативы (National Nanotechnology Initiative) составили всего <Node id="580"/>$13 млн.<Node id="588"/> (объективный анализ показал, что такого рода исследования напрямую касались лишь 62 проектов с общей суммой ассигнований всего <Node id="716"/>13 млн. долл.<Node id="729"/>). В то время как в том же <Node id="756"/>году<Node id="760"/> государства Европы выделили на эти цели <Node id="801"/>почти $24 млн.<Node id="815"/>
+
+При этом сами правительственные чиновники «насчитали», что на эти цели выделяется чуть ли не <Node id="910"/>40 млн. долл.<Node id="923"/> (точнее <Node id="932"/>$37.7<Node id="937"/> million) госассигнований.
+В целом, федеральный бюджет США израсходовал на нанотехнологические исследования <Node id="1045"/>более $1.4 млрд.<Node id="1061"/>, причём <Node id="1070"/>менее 3%<Node id="1078"/> из этой суммы были направлены на анализ потенциальных рисков НТ, то есть на то, чтобы понять: каким образом бурно развивающиеся нанотехнологии способны повлиять на здоровье человека, окружающую среду и пр.
+Показательно, что в <Node id="1305"/>2008 году<Node id="1314"/> Агентство по Защите Окружающей Среды США (Environmental Protection Agency) оштрафовало американскую компанию IOGEAR за продажу нанопестицидов, не прошедших проверку государственными природоохранными органами.
+
+Ныне в Комитете по науке Палаты представителей Конгресса США (House of Representatives Science Committee) обсуждается поправка к закону, согласно которой <Node id="1679"/>не менее 10%<Node id="1691"/> федеральных средств, выделяемых для проведения нанотехнологических НИОКР, должны тратиться на изучение рисков, связанных с нанотехнологиями, что составит <Node id="1846"/>примерно 150 млн долл.<Node id="1868"/> ежегодно.
+
+Согласно прогнозу консалтинговой фирмы Lux Research, к <Node id="1935"/>2014 году<Node id="1944"/> <Node id="1945"/>примерно 15%<Node id="1957"/> товаров, произведенных в мире (на общую сумму в <Node id="2006"/>$2.6<Node id="2010"/> трлн.), будут изготавливаться с применением нанотехнологий.
+Washington <Node id="2082"/>ProFilehttp://www.washprofile.org/ru/node/7608Europe<Node id="2134"/> Spends Nearly Twice as Much as U.S. on Nanotech Risk <Node id="2188"/>Researchhttp://www.nanotechproject.org<Node id="2226"/>/…/ehs-update/Да, маловато выделяется средств на проведение наиболее важных с точки зрения перспектив развития НТ НИОКР. И это хорошо, что есть такие (независимые от <Node id="2392"/>правительства<Node id="2405"/>) организации, которые отслеживают ситуацию в этой области. Тем более, что и американские чиновники, как выясняется, тоже склонны заниматься приписками, и за ними тоже нуже глаз да глаз…;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1679" EndNode="1691">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="1305" EndNode="1314">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="932" EndNode="937">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="580" EndNode="588">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1305" EndNode="1314">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="801" EndNode="815">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1045" EndNode="1061">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2188" EndNode="2226">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="2006" EndNode="2010">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1935" EndNode="1944">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="910" EndNode="923">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="1070" EndNode="1078">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="1846" EndNode="1868">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="64" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вильсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="305" EndNode="310">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="716" EndNode="729">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="420" EndNode="429">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1935" EndNode="1944">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="756" EndNode="760">
+</Annotation>
+<Annotation Id="18" Type="Процент" StartNode="1945" EndNode="1957">
+</Annotation>
+<Annotation Id="21" Type="Властная_Структура" StartNode="2392" EndNode="2405">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2082" EndNode="2134">
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="420" EndNode="429">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Президент РАН недоволен решением академиковПрезидент Российской академии наук Юрий Осипов, переибранный на свою должность <Node id="122"/>30 мая<Node id="128"/>, заявил о своем негативном отношении к решению общего собрания академиков не избирать директора научного центра «Курчатовский институт» Михаила Ковальчука действительным членом. Об этом во вторник сообщил «Интерфакс».
+ «<Node id="349"/>Михаил Ковальчук – член-корреспондент РАН, хороший ученый, за спиной которого стоят значительные научные достижения. <Node id="466"/>Он<Node id="468"/> возглавляет один из лучших институтов академии. Ковальчук, безусловно, в первую очередь ученый, но у него есть хорошие организаторские способности и энергия<Node id="625"/>», – заявил Осипов<Node id="643"/>.
+ 
+Президент РАН добавил, что считает неизбрание Ковальчука в академики и голосование без обсуждения мотивировочной части ошибкой.
+ Общее собрание академии проголосовало против избрания Михаила Ковальчука <Node id="849"/>в среду, 28 мая<Node id="864"/>. За то чтобы <Node id="878"/>он<Node id="880"/> стал академиком, проголосовали 204 члена общего собрания при проходном минимуме в 248 голосов. Член-корреспондент РАН Михаил Ковальчук занимал должность исполняющего обязанности вице-президента. Согласно уставу академии, вице-президентом не может стать человек, не являющийся академиком. Во время избрания состава президиума в пятницу Юрий Осипов не внес кандидатуру Ковальчука на переизбрание. Михаила Ковальчука называли возможным преемником Осипова на должности президента РАН. Ковальчук непосредственно связан с проектом по развитию нанотехнологий, на который государство выделило значительные средства. В некоторых СМИ выдвигалось предположение, что если Ковальчук станет академиком и займет должность вице-президента РАН, то через некоторое время Осипов откажется от своего поста в его пользу. В академических кругах избрание Ковальчука президентом связывали с усилением правительственного контроля за академией.
+<Node id="1800"/>http://lenta.ru/…6/03/osipov/Российская<Node id="1839"/> академия <Node id="1849"/>наукhttp://www.ras.ru/Да<Node id="1873"/> уж… Как мы и писали ранее, «Михаилу Ковальчуку снова не повезло» <Node id="1939"/>(http://www.nanonewsnet.ru/…a-ne-povezlo).<Node id="1981"/> Самый главный парадокс состоит в том, что (помимо того бесспорного факта, что М.К. – хороший учёный и организатор науки) именно «под него» в своё время власти страны выделили соответствующую «численность» (то есть увеличили на целых 10 единиц число избираемых действительных членов Академии наук) и огромные средства на развитие НТ (<Node id="2315"/>130 млрд. руб.<Node id="2329"/>). И вот – «неблагодарные» академики не посчитались с этими фактами… Есть от чего быть недовольному «Главному учёному начальнику» – Президенту АН Российской федерации… Во всей этой истории есть и ещё один «негативный нюанс» для дальнейшего развития НТ в нашей стране. Человек – это не бездушная машина («компьютер»), и, естественно, М.К. наверняка был серьёзно обижен такого рода отношением к себе. А это явно не пойдёт на пользу развитию нанотехнологий в нашем отечестве. Ну, что поделать: вот вам издержки развития «демократии» во всё ещё помнящей о своём «мрачном, тоталитарном прошлом» ;-) стране…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1939" EndNode="1981">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="цитаты" StartNode="349" EndNode="625">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="122" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1849" EndNode="1873">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="849" EndNode="864">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="349" EndNode="625">
+</Annotation>
+<Annotation Id="19" Type="цитаты" StartNode="349" EndNode="625">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1800" EndNode="1839">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="упоминает" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="878" EndNode="880">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="27" Type="Деньги" StartNode="2315" EndNode="2329">
+</Annotation>
+<Annotation Id="26" Type="упоминается" StartNode="349" EndNode="643">
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="темы" StartNode="349" EndNode="625">
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="466" EndNode="468">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> IMEC, независимый бельгийский исследовательский центр, разработал универсальный метод синтеза стабильных биосовместимых магнитных <Node id="131"/>наночастиц<Node id="141"/>. Благодаря применению различных лигандов, <Node id="184"/>наночастицы<Node id="195"/> могут найти разнообразное применение в биомедицине, доставке лекарств, диагностике и терапии рака. Растёт интерес использования магнитных <Node id="334"/>наночастиц<Node id="344"/> в биомедецине и биоинженерии. Они могут широко использоваться для магнитного биодетектирования, сортировки клеток, повышения контраста в магнитно-резонансной томографии, восстановлении тканей, гипертермического лечения и адресной доставки лекарств. Для применения магнитных <Node id="619"/>наночастиц<Node id="629"/> в этих областях необходимо контролировать размер, форму и биохимическое покрытие частиц, а так же поддерживать термическую и химическую стабильность, при этом величина намагниченности должна быть достаточно высокой. IMEC разработал надёжную технологию изготовления функциональных магнитных <Node id="920"/>наночастиц<Node id="930"/>, отвечающую жёстким биомедицинским требованиям. Технология использует гидрофобные ПАВ для пассивации поверхности. <Node id="1045"/>Наночастицы<Node id="1056"/> делают растворимыми в воде, чтобы сделать их совместимыми с биологическим окружением. Это осуществляется при помощи оригинальной методики самосборки, в которой гидрофобные лиганды заменяются на одну из трёх функциональных групп. В результате магнитные <Node id="1309"/>наночастицы<Node id="1320"/> становятся стабильными и приобретают воднодисперсионные свойства. Возможность использования трёх функциональных групп делает <Node id="1446"/>наночастицы<Node id="1457"/> подходящими для взаимодействия с различными биологическими частицами (протеинами, ДНК, клетками).IMEC проводит изучение во всех областях возможного использования новых функциональных магнитных <Node id="1651"/>наночастиц<Node id="1661"/>, а так же ведёт исследования в области биомедицинской электроники. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1651" EndNode="1661">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="184" EndNode="195">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="619" EndNode="629">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1045" EndNode="1056">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="131" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1446" EndNode="1457">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="920" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1309" EndNode="1320">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="334" EndNode="344">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

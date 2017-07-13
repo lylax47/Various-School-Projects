@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  Микрофотографии тонкой плёнки Pd на кремниевой подложке после облучения ионным пучком H2+ и H+ c энергией 200эВ в течение 10 мин и обработки водородом в СВЧ плазме <Node id="166"/>в течение 5 минут<Node id="183"/>, соответственно. До обработки водородом толщина плёнки составляла ~100 нм. Микрофотографии сделаны при помощи сканирующего электронного микроскопа. Фотографии наглядно демонстрируют процессы, вызванные облучением плёнки палладия водородом и связанные с накоплением водорода в металле: утолщение плёнки, блистеринг и отслаивание.    
+ 
+        
+ 
+  
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="166" EndNode="183">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

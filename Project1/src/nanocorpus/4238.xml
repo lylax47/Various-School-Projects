@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> (составлена на основе идей проф. <Node id="34"/>А.Ремпеля<Node id="43"/> (Екатеринбург), <Node id="60"/>В.Еремина<Node id="69"/> (Москва)) 
+Инструкции по решению викторины: 
+ 
+1. Блок задач c пометкой «школьники» решают в обязательном порядке только «школьники» и «абитуриенты». Остальные задачи ими решаются по желанию, а баланс правильных и неправильных ответов на остальные вопросы учитывается в пользу участника при равенстве баллов за ответы на «школьный» блок с остальными участниками своей возрастной группы.
+ 
+2. Все остальные участники отвечают на произвольное число вопросов по их желанию, при этом ответы на «школьные» вопросы учитываются только при равенстве баллов за основные ответы с участниками – «конкурентами». 
+ 
+3. На каждый вопрос существует единственно верный ответ.
+ 
+4. На вопросы викторины можно ответить только один раз (результаты выбора ответов являются окончательными).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="34" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">проф.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="60" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Еремин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Работа СКВИДов (сверхпроводящих квантовых интерференционных устройств) основана на двух квантовых эффектах: туннелировании куперовских пар через несверхпроводящий барьер (эффект Джозефсона) и квантовании потока магнитного поля через замкнутый сверхпроводящий контур с джозефсоновскими контактами. При этом максимальный сверхток в контуре оказывается периодической функцией магнитного потока, что позволяет изготавливать из СКВИДов очень чувствительные датчики магнитного поля. 
+
+Французские ученые из нескольких исследовательских центров CNRS, используя современную нанотехнологию, сконструировали СКВИД с джозефсоновскими контактами из однослойной <Node id="650"/>углеродной <Node id="661"/>нанотрубки<Node id="671"/> (см. рис.). 
+
+После осаждения <Node id="702"/>нанотрубки<Node id="712"/> на подложку ее точное расположение определяли с помощью атомного силового микроскопа, а затем петли СКВИДа и контакты формировали методом электронно-лучевой <Node id="870"/>литографии<Node id="880"/>. Эксперименты проводили при T = 35мК. Из-за малых размеров нанотрубочных контактов (длина около 200нм, толщина около 1нм) их электронные энергетические спектры являются дискретными, как в <Node id="1069"/>квантовых точках<Node id="1085"/>. Это позволяет “включать” и “выключать” сверхток за счет сдвига размерно-квантованных уровней <Node id="1180"/>нанотрубки<Node id="1190"/> относительно уровня <Node id="1211"/>Ферми<Node id="1216"/> в сверхпроводнике путем подачи напряжения на электрические затворы. 
+
+Такой СКВИД можно использовать, например, для изучения процессов перемагничивания <Node id="1369"/>наночастицы<Node id="1380"/> или даже единичной молекулы, если поместить ее на один из двух контактов (поперечные размеры молекулы и <Node id="1485"/>нанотрубки<Node id="1495"/> примерно равны друг другу, поэтому коэффициент связи магнитного момента молекулы с контуром оказывается гораздо больше, чем в обычных СКВИДах). 
+
+Кроме того, в этих СКВИДах становится возможным простой электрический контроль направления сверхтока в контактах. Интересно, что при сильном сдвиге энергетических уровней <Node id="1813"/>нанотрубки<Node id="1823"/> относительно энергии <Node id="1845"/>Ферми<Node id="1850"/> сверхток хоть и уменьшается в 10 ÷ 1000 раз, но не обращается в нуль. Причина этого эффекта пока осталась невыясненной. Авторы полагают, что он может быть связан с процессами туннелирования более высокого порядка.
+[Nature Nanotechnology 2006, 1, 53]
+
+
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="870" EndNode="880">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="702" EndNode="712">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Квантовая+точка" StartNode="1069" EndNode="1085">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="661" EndNode="671">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1845" EndNode="1850">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1369" EndNode="1380">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1180" EndNode="1190">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1485" EndNode="1495">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1813" EndNode="1823">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1211" EndNode="1216">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ферми</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="650" EndNode="671">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

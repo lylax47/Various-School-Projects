@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Китайская полупроводниковая компания Semiconductor Manufacturing International Corp. (SMIC) приступила к конструированию новой 200-мм фабрики в городе Шеньжень (Shenzhen) при поддержке местного правительства.
+
+По планам опытное производство начнется в <Node id="253"/>конце 2009 г.<Node id="266"/> при объеме 20–30 тыс. 200-мм подложек в <Node id="307"/>месяц<Node id="312"/>. Сразу после запуска производства SMIC приступит к строительству здесь же 300-мм фабрики и Центра исследований и разработок. Инвестиции в первую фазу создания Шеньженьского полупроводникового анклава (строительство двух фабрик и Исследовательского центра) оцениваются в <Node id="583"/>1,548 млрд. долл.<Node id="600"/>
+
+В <Node id="604"/>конце 2007 г.<Node id="617"/> SMIC заключила лицензионное соглашение с IBM на передачу 45-нм технологического процесса изготовления КМОП ИС. Именно этот процесс будет использоваться на 300-мм фабрике в Шеньжене. Старт освоению 45-нм технолгии SMIC планирует дать <Node id="851"/>в конце текущего года<Node id="872"/> на своей 300-мм фабрике в Шанхае.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="851" EndNode="872">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="307" EndNode="312">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="253" EndNode="266">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="583" EndNode="600">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="604" EndNode="617">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

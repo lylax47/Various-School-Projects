@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Всероссийское совещание ученых, инженеров, промышленников и производителей в области нанотехнологийКомитет по науке и образованию <Node id="130"/>Совета Федерации<Node id="146"/> Федерального собрания РФ, Российская Академия Наук, Государственная корпорация «Роснанотех» и российское акционерное общество «РАО ЕЭС» проводят Второе Всероссийское совещание ученых, инженеров, промышленников и производителей в области нанотехнологий, которое состоится в Москве <Node id="427"/>15 мая 2008 года<Node id="443"/> в конференц-зале Института общей и неорганической химии им. Н.С. Курнакова.
+Институт общей и неорганической химии им. Н.С. Курнакова
+Организатор:
+Институт химии силикатов <Node id="615"/>РАНhttp://isc.nw.ru/Rus/index.htmАкадемик<Node id="656"/> Владимир Шевченко, директор ИХС РАНОткрытие конференции в 10:00Сопредседатели конференции: Х.Д.Чеченов (СФ РФ), <Node id="769"/>Л.Б.Меламед<Node id="780"/> (ГК «Роснанотех»), А.Б.Чубайс (РАО ЕЭС).
+
+Заявку на выступление (и посещение) можно присылать по адресу:
+
+199034, Санкт-Петербург, наб. Макарова, 2
+Жабреву В.А.По электронной почте: zhabrev@isc.nw.ruили по факсу: (812) 328–15–<Node id="1007"/>97 до 1 мая 2008 года<Node id="1028"/>.
+<Node id="1030"/>http://www.nanometer.ru/…j_45757.htmlИнститут<Node id="1075"/> общей и неорганической химии им. Н.С. Курнакова
+119991, ГСП-1 Москва В-71, Ленинский просп., 31
+Телефон: (495) 952 07 87
+Факс: (495) 954 12 79
+<Node id="1219"/>http://www.igic.ru<Node id="1237"/>/Да, интересно… Какой состав организаторов: Комитет по науке и образованию Совета Федерации Федерального собрания РФ, Российская Академия Наук, Государственная корпорация «Роснанотех» и российское акционерное общество «РАО ЕЭС». И совсем не известна программа этого совещания… Поживём – увидим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1219" EndNode="1237">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="769" EndNode="780">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="427" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1007" EndNode="1028">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1030" EndNode="1075">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Властная_Структура" StartNode="130" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Совета Федерации</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Url" StartNode="615" EndNode="656">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

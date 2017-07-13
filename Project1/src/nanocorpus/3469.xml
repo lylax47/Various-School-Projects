@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ван Дамм<Node id="8"/> расскажет в Челябинске о нанотехнологияхЧелябинск, <Node id="60"/>7 ноября 2007 – В пятницу, девятого ноября<Node id="102"/>, Южно-Уральский государственный университет в Челябинске посетит преподаватель Высшей школы физики и промышленной химии, доктор естественных наук Анри ван Дамм. <Node id="264"/>Он<Node id="266"/> является специалистом в области нанотехнологий, <Node id="315"/>его<Node id="318"/> работы носят междисциплинарный характер и затрагивают области химии, физики, инженерии и биологии.
+Южно-Уральский государственный университет
+Его приезд стал возможен благодаря приглашению ректора ЮУрГУ Александра Шестакова и активному содействию представительства Французского альянса в Екатеринбурге (руководитель Эдвар де Люмле).
+Анри Ван Дамм является автором трех патентов, более ста научных публикаций в специализированных журналах, а также соавтором нескольких научных трудов.
+
+<Node id="804"/>С 1990 по 1993 годы<Node id="823"/> был членом <Node id="835"/>Государственного комитета научных исследований<Node id="881"/>, членом научного совета Французского цементного общества. В <Node id="942"/>настоящее время<Node id="957"/> является членом научного совета центральной лаборатории управления дорог и мостов, член научного совета Строительного научно-технического центра.
+
+В ЮУрГУ Анри ван Дамм прочитает лекцию на французком языке, посвященную популярному современному направлению науки – нанотехнологиям.
+
+Встреча состоится в 13–<Node id="1263"/>30 часов<Node id="1271"/> в зале ученого совета (аудитория 1007, главный корпус).
+<Node id="1328"/>http://uralpress.ru/art122041.htmНам<Node id="1364"/> нужен опыт – хороший и разный… И даже такие отставники из Франции… Но всё-таки, по-моему, нужно завязывать тесные творческие связи с какими-то серьёзными лабораториями и вместе двигать эту науку и технику вперёд. При этом и для студентов, и для университета, и для развития самой НТ в нашей стране будет гораздо бОльшая польза. Вон, к примеру, берите пример с белорусов: <Node id="1736"/>http://www.nanonewsnet.ru<Node id="1761"/>/…rudnichestva</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1736" EndNode="1761">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1263" EndNode="1271">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="264" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">специалист</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="835" EndNode="881">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Государственного комитета научных исследований</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="315" EndNode="318">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="942" EndNode="957">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="60" EndNode="102">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="804" EndNode="823">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="1328" EndNode="1364">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

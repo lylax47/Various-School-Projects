@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Двое ученых, член-корреспондент РАН, председатель думского комитета по экологии Владимир Грачев<Node id="95"/> <Node id="96"/>и академик РАЕН Виктор Петрик, нашли общий язык в вопросе использования природоохранных нанотехнологий. Об этом сообщил сегодня журналистам Владимир Грачев по итогам состоявшейся в Петербурге встрече членов рабочей группы по Партийному проекту «Чистая вода».
+
+<Node id="356"/>По словам Грачева, <Node id="375"/>на основе выдающегося открытия российского ученого Виктора Петрика впервые в мире разработан способ промышленного производства экологически чистых и безопасных <Node id="535"/>углеродных <Node id="546"/>наноструктур<Node id="558"/> с уникальными сорбционными свойствами, в десятки раз превосходящие лучший американский сорбент из гранулированного активированного угля кокосового ореха<Node id="711"/>.
+
+Такие уникальные сорбционные свойства новый материал обеспечивает за счет огромной совокупной поверхности <Node id="820"/>наноструктур<Node id="832"/> — <Node id="835"/>графенов<Node id="843"/>. Так, 1 грамм вещества имеет общую поверхностную площадь две тысячи квадратных метров.
+
+<Node id="932"/>В. Грачев подчеркнул, что промышленное производство <Node id="984"/>углеродных <Node id="995"/>наноструктур<Node id="1007"/> дает решение широкому спектру задач, прежде всего, по очистке воды от различных видов загрязнения<Node id="1105"/>. С практической стороны это научное открытие позволяет сегодня обеспечить население чистой питьевой водой, модернизировать пищевую промышленность и значительно снизить химическую нагрузку на водные объекты.
+<Node id="1313"/>http://aquaexpert.ru/news/?…Нанотехнологии<Node id="1355"/> – в массы! Ждём-с!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+наноструктура" StartNode="535" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="375" EndNode="711">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="932" EndNode="1105">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="356" EndNode="711">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="356" EndNode="711">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1313" EndNode="1355">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="356" EndNode="1105">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="820" EndNode="832">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="356" EndNode="1105">
+</Annotation>
+<Annotation Id="14" Type="Наноструктура" StartNode="546" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Графен" StartNode="835" EndNode="843">
+</Annotation>
+<Annotation Id="16" Type="Углеродная+наноструктура" StartNode="984" EndNode="1007">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="сотрудники" StartNode="95" EndNode="96">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="932" EndNode="1105">
+</Annotation>
+<Annotation Id="23" Type="работает" StartNode="95" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="375" EndNode="711">
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Наноструктура" StartNode="995" EndNode="1007">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из Франции и Италии смогли преобразовать графит в <Node id="65"/>наноалмазы<Node id="75"/> при помощи бомбардировки тяжелыми ионами и кластерами. <Node id="131"/>Наноалмазы<Node id="141"/> являются перспективным материалом для ряда применений, включая доставку лекарств. 
+ 
+При попадании тяжелых «снарядов» в мишень происходит ионизация ее атомов. При этом происходит интенсивное испускание электронов, сильный локальный нагрев, а также образование радиальных волн сжатия. Как раз при таких высоких давлениях и температурах происходит образование алмаза из графита. 
+ 
+Исследователи стреляли в графитовые мишени ионами свинца с энергией 850 МэВ и 6 ГэВ при 90 К и фуллереновыми кластерами с энергиями 20 и 30 МэВ при комнатной температуре. <Node id="693"/>После этого<Node id="704"/> на поверхности образца были обнаружены многочистенные нанокристаллиты алмаза. 
+ 
+Работа «Transformation of graphite into nanodiamond following extreme electronic excitations» была опубликована в Physical Review B. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноалмаз" StartNode="65" EndNode="75">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="693" EndNode="704">
+</Annotation>
+<Annotation Id="2" Type="Наноалмаз" StartNode="131" EndNode="141">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

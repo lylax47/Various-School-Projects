@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Вместо щебня — полимерцементогрунт!»На <Node id="40"/>этой неделе<Node id="51"/> в Тюмени была представлена новая уникальная технология для дорожного строительства. Участие в презентации принимали представители областного <Node id="193"/>правительства<Node id="206"/>, администрации города, руководители крупных предприятий. Им было предложено возводить дороги с помощью… нанотехнологий.
+Научными исследованиями способов укрепления грунта в мире занялись еще в конце <Node id="406"/>XIX века<Node id="414"/>. В <Node id="418"/>30-е годы<Node id="427"/> <Node id="428"/>XX века<Node id="435"/> сформировалась теоретическая база данного направления, вскоре появились первые дороги, взлетные аэродромные полосы. В <Node id="554"/>XXI веке<Node id="562"/> на помощь пришли нанотехнологии, о необходимости развития которых в <Node id="631"/>последние годы<Node id="645"/> часто повторяют на самом высоком уровне.
+ В основе новой технологии лежит применение цементно-грунтовых смесей со специальными добавками-пластификаторами на основе ренолита. 
+Добавка легко растворяется в воде, не токсична, а физико-химические процессы при ее использовании происходят на молекулярном уровне.
+ Полученный «на выходе» полимерцементогрунт с успехом заменяет привычные щебеночные покрытия. Кроме того, значительно уменьшается стоимость дорожных работ. Да и укладывать полотно можно при низкой температуре воздуха — до минус 10 градусов. А главное, благодаря новому покрытию сами дороги станут служить намного дольше и о «ямочном» ремонте можно будет забыть. В <Node id="1318"/>2007 году<Node id="1327"/> данная технология уже использовалась в Тюменской области при строительстве участка автодороги Сорокино — Знаменщиково протяженностью 1 тысяча метров. Еще одним экспериментальным объектом является территория нового завода компании «Бенат». А главные «полевые испытания» полимерцементогрунта состоялись в Москве, на полигоне МАДИ, при участии представителей Министерства транспорта Российской Федерации и правительства Москвы.
+ Кстати, вот какое мнение о данной технологии высказал в интервью «Российской газете» министр транспорта РФ Игорь Левитин:  
+Уже оборудован опытный участок дороги (имеется в виду Тюменская область. — Д.Н.). Теперь будем смотреть, как он себя поведет. Технология действительно очень перспективная. И с ее помощью можно неплохо сэкономить на строительстве и содержании дорог. Кстати, в СССР была такая технология, но ее у нас «одолжили» за границей. А теперь мы ее воспринимаем как необыкновенное чудо. Это говорит о нашем небрежном отношении к собственным научным разработкам.
+ Дмитрий <Node id="2338"/>НЕВОЛИНhttp://www.t-i.ru<Node id="2362"/>/?…Да, хорошие дороги ой как нужны в нашей стране…
+Ранее мы уже писали об этом методе строительства дорог <Node id="2468"/>(http://www.nanonewsnet.ru/…elstva-dorog).<Node id="2510"/> Только вот всё больше говорят о нём, а вот о широком внедрении его что-то не слышно… Хорошо бы <Node id="2606"/>Игорю Левитину<Node id="2620"/> подсуетиться в этом вопросе. А то, не дай бог, <Node id="2668"/>Владимир Владимирович узнает об этом методе да и скажет: <Node id="2725"/>«А подать-ка сюда <Node id="2743"/>Ляпкина-Тяпкина<Node id="2758"/>! А что это, братец, у тебя с дорогами-то деется? Почему с нанотехнологиями тормозишь?<Node id="2844"/>..» И что тогда наш <Node id="2864"/>Ляпкин-Тяпкин<Node id="2877"/> скажет?…
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="40" EndNode="51">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2743" EndNode="2758">
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ляпкин-Тяпкин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="2725" EndNode="2844">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="2864" EndNode="2877">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ляпкин-Тяпкин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="2725" EndNode="2844">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="406" EndNode="414">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="193" EndNode="206">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="2668" EndNode="2844">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="2668" EndNode="2844">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="428" EndNode="435">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1318" EndNode="1327">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="418" EndNode="427">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="554" EndNode="562">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="631" EndNode="645">
+</Annotation>
+<Annotation Id="16" Type="Тональность" StartNode="2606" EndNode="2620">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="1318" EndNode="1327">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="2338" EndNode="2362">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="2668" EndNode="2844">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2468" EndNode="2510">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="2668" EndNode="2844">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

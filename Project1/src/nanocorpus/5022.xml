@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Мы будем лоббировать увеличение расходов на научные исследования в сфере нанотехнологий – В.Семиноженко 
+«Мы будем лоббировать увеличение расходов на научные исследования в сфере нанотехнологий, так как увеличение таких расходо – общемировая тенденция», – заявил <Node id="263"/>18 декабря<Node id="273"/> журналистам в ходе заседания совета Северо-Восточного научного центра НАН и МОН Украины генеральный директор НТК «Институт монокристаллов» <Node id="413"/>НАНУ<Node id="417"/> Владимир Семиноженко.
+ Владимир Семиноженко
+По его словам, в бюджете на <Node id="490"/>2008 г.<Node id="497"/> запланированы средства на совместную программу российской и украинской академий наук, <Node id="584"/>НАНУ<Node id="588"/> будет реализовывать также отдельную программу.
+ 
+«<Node id="639"/>Если при пересмотре бюджета научная часть бюджета не пострадает, как это бывало в былые, совсем недавние времена, то будут достигнуты успехи в финансировании науки», – отметил В.Семиноженко<Node id="828"/>.
+ 
+<Node id="832"/>По словам ректора Национальной фармацевтической академии Украины (НФАУ) Валентина Черных<Node id="920"/>,<Node id="921"/> <Node id="922"/>на первом месте в мире по количеству научных работ в сфере нанотехнологий идет США, затем – Германия, Франция, Япония и Китай, который наращивает объемы исследований<Node id="1087"/>.
+ 
+«<Node id="1092"/>Украина – на 29 месте. Пока все не так уж и плохо (разработкой нанотехнологий занимаются в 60 странах)<Node id="1194"/>», – сообщил В.Черных<Node id="1215"/>. <Node id="1217"/>Он<Node id="1219"/> отметил, что <Node id="1233"/>в НФАУ есть наноразработки совместно с ГНЦЛС (Харьков) и НТК по созданию лекарств для лечения сердечных болезней<Node id="1345"/>.
+ Справка «SQ». Заседание совета Северо-Восточного научного центра НАН и МОН Украины прошло в НФАУ. В ходе заседания были прослушаны доклады «Комбинаторный синтез для создания новых лекарств», «Микроволновая химия в создании лекарств», «Анализ системы реимбурсации в международной практике», «Аспекты внедрения лекарств в соответствии с требованиями GMP».
+
+В ходе заседания было отмечено, что у Украины отсутствует опыт разработки и применения эффективных механизмов компенсации затрат на лекарства, что не позволяет аптекам в полной мере выполнять свою функцию. Совет планирует разработать и подать в <Node id="1948"/>Кабмин<Node id="1954"/> предложения для улучшения законодательства по обязательному медстрахованию в Украине и определить механизм удешевления стоимости лекарств, а также разработать национальную систему реимбурсации и ценообразования на лекарственные средства.
+Алексей Грищенкоhttp://<Node id="2216"/>www.sq.com.ua/…ews/0/63935/Ну<Node id="2245"/> вот, Украина тоже не хочет остаться на обочине мирового н.-т. прогресса. И тоже будет участвовать в гонке в области развития нанотехнологий. Есть планы совместных работ с российскими коллегами, есть программы и самостоятельных исследований. Поблемы – те же, что и у остальных: деньги, бюрократы, (очевидно, свои) дураки и дороги… ;-))) А так, у них всё есть. И даже – желание развивать нанотехнологии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="1948" EndNode="1954">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Кабмин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="4" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="920" EndNode="921">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="8" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="9" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="832" EndNode="1087">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="413" EndNode="417">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1217" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="639" EndNode="828">
+</Annotation>
+<Annotation Id="18" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="1092" EndNode="1215">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1217" EndNode="1345">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="цитаты" StartNode="1233" EndNode="1345">
+</Annotation>
+<Annotation Id="25" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="27" Type="Url" StartNode="2216" EndNode="2245">
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="28" Type="темы" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="31" Type="автор" StartNode="832" EndNode="1087">
+</Annotation>
+<Annotation Id="30" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="34" Type="темы" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="35" Type="цитаты" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="32" Type="высказывания_заявления" StartNode="1092" EndNode="1215">
+</Annotation>
+<Annotation Id="33" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="38" Type="темы" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="39" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="37" Type="упоминается" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="42" Type="цитаты" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="43" Type="темы" StartNode="1233" EndNode="1345">
+</Annotation>
+<Annotation Id="40" Type="Персона" StartNode="584" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="цитаты" StartNode="1092" EndNode="1194">
+</Annotation>
+<Annotation Id="46" Type="темы" StartNode="1092" EndNode="1194">
+</Annotation>
+<Annotation Id="47" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="44" Type="темы" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="45" Type="автор" StartNode="639" EndNode="828">
+</Annotation>
+<Annotation Id="51" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="50" Type="цитаты" StartNode="922" EndNode="1087">
+</Annotation>
+<Annotation Id="49" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="48" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="55" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="54" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="53" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="52" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="59" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="58" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="57" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="56" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+<Annotation Id="63" Type="работает" StartNode="920" EndNode="921">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="упоминает" StartNode="639" EndNode="1345">
+</Annotation>
+<Annotation Id="61" Type="автор" StartNode="1217" EndNode="1345">
+</Annotation>
+<Annotation Id="60" Type="Дата" StartNode="263" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="Год" StartNode="490" EndNode="497">
+</Annotation>
+<Annotation Id="65" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="66" Type="упоминается_с" StartNode="922" EndNode="1345">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

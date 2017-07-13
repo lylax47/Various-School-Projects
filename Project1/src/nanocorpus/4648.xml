@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Казанский физико-технический институт монокристалл, <Node id="54"/>нанотрубки<Node id="64"/>, <Node id="66"/>нанотрубные структуры<Node id="87"/>, <Node id="89"/>планарные <Node id="99"/>наноструктуры<Node id="112"/>    Кристаллохимия   Выращивание и характеризация монокристаллов синтез и характеризация материалов, в том числе наноструктурированных                         Куковицкий Евгений Филиппович, руководитель группы Львов Сергей Глебович, научный сотрудник О.М. Гурьянова, научный сотрудник Саинов Нияз Абдрахманович, научный сотрудник Шустов Владимир Алексеевич, научный сотрудник Функциональные обязанности 
+Ввыращивание и характеризация монокристаллов; синтез и характеризация материалов, в том числе наноструктурированных. 
+Основная задача группы роста кристаллов (ГРК) состоит в приготовлении и характеризации образцов для исследований, ведущихся научными лабораториями института.
+ 
+В группе были выращены монокристаллы ряда оксидных соединений: LiNbO3, MgAl2O4, LaAlO3, фторидов: CaF2, SrF2, BaF2, монокристаллы металлов: Cu, Ag, Au, Al, Be. В <Node id="956"/>последние годы<Node id="970"/> были синтезированы керамические образцы и выращены монокристаллы высототемпературных сверхпроводников: YBa2Cu3Ox, LaSr2Cu3Ox, LaB2Cu3Ox и изоструктурных им соединений 
+ 
+Наряду с этим, в группе ведутся самостоятельные исследования, направленные на разработку методов получения новых перспективных материалов, в частности <Node id="1292"/>наноструктурированных материалов<Node id="1324"/>. Разрабатываются методы формирования монослоев металлических частиц на поддерживающих подложках, методы синтеза <Node id="1437"/>углеродных <Node id="1448"/>нанотруб<Node id="1456"/> и <Node id="1459"/>планарных <Node id="1469"/>наноструктур<Node id="1481"/> на их основе. 
+ 
+Совместно с другими научными организациями проводятся исследования полевой эмиссии синтезированных <Node id="1598"/>нанотрубных структур<Node id="1618"/>. Изучается возможность использования полученных структур в электрических разрядниках, люминисцентных лампах, в качестве низковольтных полевых эмиттеров.
+   просвечивающий электронный микроскоп Tesla BS-500 рентгеновский дифрактометр ДРОН-2,0 рентгеновский дифрактометр ДРОН-3М электронограф ЭМР-100   Институт кристаллографии РАН, Москва Институт радиотехники и электроники РАН, Москва Институт химической физики РАН, Москва Физический институт им. Лебедева РАН, Москва    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="1292" EndNode="1324">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="99" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Двумерная+наноструктура" StartNode="89" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="1437" EndNode="1456">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="54" EndNode="64">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1448" EndNode="1456">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="956" EndNode="970">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="66" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Двумерная+наноструктура" StartNode="1459" EndNode="1481">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="1598" EndNode="1618">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Наноструктура" StartNode="1469" EndNode="1481">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

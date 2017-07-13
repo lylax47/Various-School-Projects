@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из AIST (Япония) разработали методику получения органических <Node id="76"/>нанотрубок<Node id="86"/> с внутренним диаметром 40-200 нм и внешним 70-500 нм. Длина <Node id="147"/>нанотрубок<Node id="157"/> составляет несколько сотен микрон. В основе синтеза лежит самосборка амфифильных молекул в органических растворителях. Такой способ открывает широкие возможности для массового производства органических <Node id="360"/>нанотрубок<Node id="370"/>. 
+ 
+ В отличие от углеродных, органические <Node id="414"/>нанотрубки<Node id="424"/> хорошо диспергируются в воде и могут захватывать, например, белки и нуклеиновые кислоты. Полагается, что такие трубки могут оказаться полезными в медицине и нанобиотехнологии. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="147" EndNode="157">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="360" EndNode="370">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="76" EndNode="86">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="414" EndNode="424">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

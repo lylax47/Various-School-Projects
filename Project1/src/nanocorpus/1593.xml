@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нужно быстрее переходить от <Node id="28"/>наноматериалов<Node id="42"/> к наносистемам, считает член <Node id="72"/>Генерального совета<Node id="91"/> Партии 
+Применение нанотехнологий в космической технике является одним из наиболее важных и перспективных направлений, – заявил депутат <Node id="228"/>Госдумы<Node id="235"/>, член Генерального совета партии «Единая Россия», академик РАН Андрей Кокошин на проходящем в подмосковном «НПО им. С.А.Лавочкина» совещании «Нанотехнологии и наносистемы в перспективной отечественной космической технике».
+ 
+<Node id="461"/>По словам Кокошина, достаточно масштабное применение нанотехнологий в космической технике позволит радикально улучшить массогабаритные характеристики космических аппаратов, продлить сроки их пребывания на тех или иных орбитах, решить проблемы энергообеспечения функционирования этих аппаратов<Node id="753"/>.
+
+Как сказал Кокошин,
+ 
+«именно использование <Node id="800"/>наноматериалов<Node id="814"/>, наномеханизмов может сделать реальностью пилотируемые полеты на Марс, освоение поверхности Луны».
+ 
+<Node id="916"/>Кокошин подчеркнул, что <Node id="940"/>партия «Единая Россия» изначально занимала активную позицию по вопросам развития нанотехнологий и сейчас ставит задачу по масштабному внедрению <Node id="1084"/>наноматериалов<Node id="1098"/> в различные отрасли промышленности<Node id="1133"/>.
+
+По словам Кокошина,
+ 
+«сейчас крайне важно заниматься не только созданием <Node id="1210"/>наноматериалов<Node id="1224"/>, но и разрабатывать наномеханизмы и целые наносистемы»; это последнее, по его словам, «является задачей особой степени сложности, с которой, при правильной постановке дела, наша наука и промышленность обязательно справятся».
+  * * Справка
+Академик РАН Андрей Кокошин курирует в «Единой России» группу общероссийских проектов, направленных на промышленно-экономическое развитие России, на формирование современной инновационной экономики, являясь координатором проекта «Фабрика мысли».
+
+Находясь в должностях первого заместителя министра обороны, секретаря Совета обороны, секретаря Совета безопасности РФ Андрей Кокошин курировал, в том числе, создание и развитие ряда ракетных и ракетно-космических систем военного и двойного назначения, которые сейчас поступают на вооружение, используются для решения различных научных и экономических задач.
+
+Кокошин является одним из соавторов Федерального закона «О Российской корпорации нанотехнологий», подписанного <Node id="2182"/>два дня назад<Node id="2195"/> Президентом России Владимиром Путиным.
+<Node id="2235"/>http://www.edinros.ru<Node id="2256"/>/news.html?…Действительно, направление создания и производства нано-материалов уже более-менее развито и «функционирует». А вот с «системами» пока что перспективы не вполне ясны… Ну, если уважаемый академик говорит, что уже пора, значит – пора. Будем разрабатывать. Правда, не будем забывать, что вся эта «около-НАНО-наука» пока ещё сводится к элементарной борьбе за ресурсы… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="800" EndNode="814">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2235" EndNode="2256">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="461" EndNode="1133">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="916" EndNode="1133">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="461" EndNode="753">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="940" EndNode="1133">
+</Annotation>
+<Annotation Id="14" Type="упоминает" StartNode="461" EndNode="1133">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="темы" StartNode="940" EndNode="1133">
+</Annotation>
+<Annotation Id="19" Type="Властная_Структура" StartNode="72" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Генерального совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="461" EndNode="753">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Наноматериал" StartNode="28" EndNode="42">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Властная_Структура" StartNode="228" EndNode="235">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдумы</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="высказывания_заявления" StartNode="916" EndNode="1133">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Наноматериал" StartNode="1084" EndNode="1098">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Наноматериал" StartNode="1210" EndNode="1224">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Период_времени" StartNode="2182" EndNode="2195">
+</Annotation>
+<Annotation Id="32" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

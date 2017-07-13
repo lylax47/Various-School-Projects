@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Сотрудники МГУ и Технического университета г. Аахен (Германия) разработали метод, позволяющий получать на поверхности кремниевой подложки системы из упорядоченных <Node id="164"/>наноколонн<Node id="174"/>. В отличие от большинства подходов, широко применяемых в полупроводниковой индустрии, данный метод является относительно дешевым и позволяет за один технологический цикл покрыть <Node id="353"/>наноколоннами<Node id="366"/> подложку весьма большой площади (десятки квадратных сантиметров). 
+ 
+Суть метода заключается в использовании для ионного <Node id="488"/>травления<Node id="497"/> кремния масок из упорядоченных <Node id="529"/>наночастиц<Node id="539"/> хрома, полученных методом наносферной <Node id="578"/>литографии<Node id="588"/> (“nanosphere lithography”, NSL). Схема метода NSL приведена на рис. 1. На первом этапе, монодисперсные коллоидные частицы SiO2 «упаковывают» на кремниевой подложке, площадь такого самособирающегося слоя принципиально не ограничена. На втором этапе на монослой напыляют тонкий слой хрома толщиной &lt; 100 нм; при этом, вещество в газовой фазе не проникает в области, затененные коллоидными частицами, и достигает подложки только в местах, соответствующих треугольным пустотам между сферами. В результате этой процедуры на подложке возникает система из упорядоченных <Node id="1152"/>наночастиц<Node id="1162"/> хрома, разделенных коллоидными сферасм (рис. 1б). Наконец, на последнем этапе, коллоидные частицы удаляют путем ультразвуковой обработки (рис. 1в). Использование полученных массивов <Node id="1345"/>наночастиц<Node id="1355"/> хрома для ионного <Node id="1374"/>травления<Node id="1383"/> и варьирование параметров <Node id="1410"/>травления<Node id="1419"/> позволили синтезировать кремниевые <Node id="1455"/>наноколонны<Node id="1466"/> с высотой более 1 мкм и отношением высота:диаметр более 10:1. Подобные структуры из упорядоченных <Node id="1565"/>наноколонн<Node id="1575"/> могут найти потенциальное применение в качестве основы для светоизлучающих элементов и фотонных кристаллов для ближнего ИК-диапазона. 
+ 
+Статья A. Sinitskii, S. Neumeier, J. Nelles, M. Fischler and U. Simon “Ordered arrays of silicon pillars with controlled height and aspect ratio” была опубликована в последнем выпуске журнала Nanotechnology. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Травление" StartNode="488" EndNode="497">
+</Annotation>
+<Annotation Id="1" Type="Наноколонна" StartNode="1565" EndNode="1575">
+</Annotation>
+<Annotation Id="2" Type="Литография" StartNode="578" EndNode="588">
+</Annotation>
+<Annotation Id="3" Type="Наноколонна" StartNode="353" EndNode="366">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1345" EndNode="1355">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="529" EndNode="539">
+</Annotation>
+<Annotation Id="7" Type="Травление" StartNode="1374" EndNode="1383">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноколонна" StartNode="164" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1152" EndNode="1162">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Травление" StartNode="1410" EndNode="1419">
+</Annotation>
+<Annotation Id="13" Type="Наноколонна" StartNode="1455" EndNode="1466">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

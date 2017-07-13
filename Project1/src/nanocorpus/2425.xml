@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+ Основными материалами, использующимися для изготовления компьютерных чипов, <Node id="79"/>на сегодняшний день<Node id="98"/> являются кремний и медь. Но сейчас, когда разрабатываются все более маленькие чипы, медные контакты уже не очень эффективны: с уменьшением их размеров растет сопротивление, что приводит к сильному нагреву чипа, что сказывается на скорости и производительности устройства. В связи с этим ученые ищут материалы, способные заменить медь в чипах. 
+  
+Возможно, таким материалом станет <Node id="480"/>графен<Node id="486"/> из-за своей высокой проводимости, уступающей лишь сверхпроводникам. Через металлический <Node id="575"/>графен<Node id="581"/> электроны проходят практически без сопротивления даже при комнатной температуре, что означает, что графеновые контакты имели бы гораздо меньшую термоэмиссию, чем аналогичные медные.  
+Однако при синтезе <Node id="785"/>графена<Node id="792"/> получается смесь металлического и полупроводникового материалов.  
+Профессор Ренсслеровского Физического Факультета (Rensselaer’s Department of Physics), <Node id="947"/>Сарож Наяк<Node id="957"/> (Saroj Nayak) с группой ученых, провели исследование зависимости электрических свойств <Node id="1045"/>графена<Node id="1052"/> от его длины и ширины. Они искусственно разрезали <Node id="1103"/>наноленты<Node id="1112"/> (одномерные кристаллы толщиной в несколько атомов) <Node id="1164"/>графена<Node id="1171"/> на элементы длиной в несколько нанометров, т.е. сравнимой с шириной исходной <Node id="1249"/>наноленты<Node id="1258"/>. Оказалось, что электрические свойства напрямую зависят от длины элементов, варьируя которую можно менять ширину запрещенной зоны материала, от которой и зависит, будет ли <Node id="1431"/>графен<Node id="1437"/> полупроводниковым или металлическим. Это открытие позволило ученым создать шаблон отдельного получения целых партий того или другого.  
+Полученные результаты делают <Node id="1603"/>графен<Node id="1609"/> даже более перспективным материалом для наноэлектроники, чем <Node id="1671"/>углеродные <Node id="1682"/>нанотрубки<Node id="1692"/>, представляющие собой свернутый в трубку тот же <Node id="1741"/>графен<Node id="1747"/>. Дело в том, что при синтезе <Node id="1777"/>нанотрубок<Node id="1787"/> также формируется смесь металлического (~1/3) и полупроводникового материалов, причем синтезировать отдельно, либо разделять проводящие и полупроводящие <Node id="1941"/>нанотрубки<Node id="1951"/> в промышленных масштабах не представляется возможным, в то время как исследования профессора <Node id="2045"/>Наяка<Node id="2050"/> доказали существование такой возможности для <Node id="2096"/>графена<Node id="2103"/>.  
+Конечно, до создания чипа, использующего вместо меди <Node id="2160"/>графен<Node id="2166"/>, ещё далеко, однако данная работа, безусловно, является огромным шагом на пути к этому. 
+  
+<Node id="2259"/>Наяк<Node id="2263"/> также отмечает потенциальную возможность замены <Node id="2312"/>графеном<Node id="2320"/> кремния в качестве основного полупроводника в наноэлектронике, хотя таких исследований ещё не проводилось. 
+ 
+       
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="2312" EndNode="2320">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Графен" StartNode="1164" EndNode="1171">
+</Annotation>
+<Annotation Id="5" Type="Графен" StartNode="1741" EndNode="1747">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1671" EndNode="1692">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="785" EndNode="792">
+</Annotation>
+<Annotation Id="8" Type="Нанолента" StartNode="1249" EndNode="1258">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1682" EndNode="1692">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2259" EndNode="2263">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наяк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="575" EndNode="581">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="1431" EndNode="1437">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2045" EndNode="2050">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наяк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Графен" StartNode="2160" EndNode="2166">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="947" EndNode="957">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Наяк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Нанолента" StartNode="1103" EndNode="1112">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Графен" StartNode="480" EndNode="486">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="1777" EndNode="1787">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="1941" EndNode="1951">
+</Annotation>
+<Annotation Id="24" Type="Графен" StartNode="1045" EndNode="1052">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="79" EndNode="98">
+</Annotation>
+<Annotation Id="26" Type="Графен" StartNode="2096" EndNode="2103">
+</Annotation>
+<Annotation Id="28" Type="Графен" StartNode="1603" EndNode="1609">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

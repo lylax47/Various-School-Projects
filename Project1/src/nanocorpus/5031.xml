@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+У компании есть необходимое оборудование, а у России – высококлассные специалисты.
+
+Как рассказал прессе во вторник региональный директор Intel в странах СНГ Дмитрий Конаш, Intel планирует в рамках предстоящего Петербургского международного экономического форума обсудить с российской стороной возможности взаимодействия в плане развития нанотехнологий.
+
+«Но прежде, чем в этих технологиях что-то делать, необходимо все хорошо просчитать на молекулярном уровне, так как эти устройства очень дорогие. Для этого нужны большие вычислительные мощности. Мы же лучше, чем кто бы то ни было, знаем, как строятся такие высокопроизводительные системы», – цитирует его слова РИА-Новости.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

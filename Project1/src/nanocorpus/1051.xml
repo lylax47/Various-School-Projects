@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Атомы золота могут выступать в роли «клея», связующего различные мономеры в сложные структуры. 
+ 
+ Pekka Pyykkö с коллегами (University of Helsinki, Финляндия) провели теоретические расчеты, предсказывающие существование целой группы новых структур. Эти соединения состоят из ароматических колец, соединенных друг с другом при помощи атомов золота в одномерные ленты. 
+ 
+ В зависимости от геометрии и химического состава соединения, эти <Node id="438"/>наноленты<Node id="447"/> могут быть диэлектриками, полупроводниками или обладать металлическим типом проводимости. Путем квантово-химических расчетов можно проектировать структуры с необходимыми свойствами. Показано, например, что ряд структур имеет свойства, аналогичные <Node id="695"/>графену<Node id="702"/>. Исследователи надеются, что их работа вдохновит синтетиков на создание таких структур в реальном мире. 
+ 
+ В <Node id="813"/>настоящее время<Node id="828"/> проводится изучение колец, полученных из <Node id="870"/>нанолент<Node id="878"/>. 
+ 
+ Работа была опубликована в журнале Physical Chemistry Chemical Physics. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанолента" StartNode="438" EndNode="447">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="813" EndNode="828">
+</Annotation>
+<Annotation Id="2" Type="Нанолента" StartNode="870" EndNode="878">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="695" EndNode="702">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

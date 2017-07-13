@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Санкт-Петербурге учрежден новый инновационный научно-образовательный центр, специализирующийся на нанотехнологиях. Как сообщает корреспондент ИА REGNUM, сегодня, <Node id="165"/>13 марта<Node id="173"/>, документ об учреждении центра был подписан академиком Российской Академии наук <Node id="254"/>Жоресом<Node id="261"/> <Node id="262"/>Алферовым<Node id="271"/> и первым проректором Санкт-Петербургского государственного политехнического университета (СПбГПУ) Андреем Рудским<Node id="385"/>.<Node id="386"/>
+
+Учредителями научно-образовательного центра в области нанотехнологий стали Санкт-Петербургский научный центр Академии наук, Санкт-Петербургский государственный политехнический университет и Санкт-Петербургский физико-технологический научно-образовательный центр РАН. «<Node id="656"/>Главной целью создания центра является объединение усилий в сфере подготовки кадров в области нанотехнологий», – подчеркнул <Node id="780"/>Алферов<Node id="787"/>. «<Node id="790"/>Мы станем ядром, к которому смогут присоединиться многие. Так процесс создания нанотехнологических центров уже происходит и в Москве, и в Новосибирске<Node id="940"/>», – добавил <Node id="953"/>он<Node id="955"/>.
+
+Инновационный центр будет располагаться в помещении научно-образовательного центра СПбГПУ в парке Сосновка. <Node id="1066"/>По словам <Node id="1076"/>Алферова<Node id="1084"/>, учредительная комиссия предполагает создать секции в области нанофизики, <Node id="1159"/>наноматериалов<Node id="1173"/>, образования, наноэлектроники и нанобиологии<Node id="1218"/>. В <Node id="1222"/>настоящее время<Node id="1237"/> у учредителей центра уже имеются совместные проекты в области полупроводниковых технологий. «<Node id="1331"/>В Санкт-Петербургском центре акцент будет делаться на традиционном направлении – электронике, в частности, сейчас есть серьезные проекты в сфере промышленной оптоэлектроники», – отметил <Node id="1517"/>Алферов<Node id="1524"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="165" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="790" EndNode="940">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="656" EndNode="787">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="1159" EndNode="1173">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1222" EndNode="1237">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="790" EndNode="940">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="385" EndNode="386">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1066" EndNode="1218">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="790" EndNode="955">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="790" EndNode="940">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="790" EndNode="955">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="953" EndNode="955">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="780" EndNode="787">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="упоминается" StartNode="656" EndNode="1524">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="254" EndNode="261">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="темы" StartNode="790" EndNode="940">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="упоминается" StartNode="656" EndNode="1524">
+</Annotation>
+<Annotation Id="24" Type="упоминается_с" StartNode="790" EndNode="940">
+</Annotation>
+<Annotation Id="27" Type="высказывания_заявления" StartNode="1331" EndNode="1524">
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="656" EndNode="1524">
+</Annotation>
+<Annotation Id="29" Type="упоминает" StartNode="656" EndNode="1524">
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="1076" EndNode="1084">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="работает" StartNode="385" EndNode="386">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">проректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="работает" StartNode="261" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="автор" StartNode="656" EndNode="787">
+</Annotation>
+<Annotation Id="35" Type="Персона" StartNode="1517" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="автор" StartNode="1331" EndNode="1524">
+</Annotation>
+<Annotation Id="33" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="38" Type="высказывания_заявления" StartNode="1066" EndNode="1218">
+</Annotation>
+<Annotation Id="39" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="сотрудники" StartNode="261" EndNode="262">
+</Annotation>
+<Annotation Id="37" Type="Персона" StartNode="262" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

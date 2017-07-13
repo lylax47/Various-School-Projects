@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На химическом факультете МГУ (Воробьевы Горы) началась регистрация прибывающих зарубежных делегаций на 39 международную химическую олимпиаду школьников.  Регистрация ведется в фойе химического факультета. <Node id="207"/>В понедельник, 16 июля<Node id="229"/>, наступит одно из самых торжественных и ответственных событий Олимпиады - Церемония открытия, которая начнется в 11-00 в Интеллектуальном Центре - Фундаментальной библиотеке МГУ. 
+ 
+ 
+ 
+Проезд - до станции метро "Университет", далее - прямо 2 остановки любым транспортом до "Библиотеки" или "Дома Культуры" МГУ. 
+ 
+ 
+ 
+Аккредитация журналистов - через официальный сайт олимпиады.  Информационные спонсоры Олимпиады представлены здесь.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="207" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

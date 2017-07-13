@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Каждый <Node id="8"/>день<Node id="12"/> мы покупаем товары в пластиковых пакетах и бутылках, которые потом отправляются на свалку.  В одной только Великобритании ежегодно накапливается 28 миллионов тонн мусора. Для биохимического разложения пластиковой бутылки потребуется <Node id="246"/>450 лет<Node id="253"/>, поэтому мусор, как правило, сжигают. Фактически, за <Node id="307"/>2006 год<Node id="315"/> при этом выделилось столько же углекислого газа, сколько производят семь миллионов автомобилей. 
+ 
+ По инициативе материаловедов из Sheffield Hallam University тридцать пять исследовательских институтов по всей Европе объединили усилия и организовали проект SustainPack (видимо, по аналогии с sustainable development – устойчивое развитие, экологически рациональная жизнедеятельность), направленный на разработку экологически чистого мусора. 
+ 
+ Программа рассчитана на <Node id="786"/>4 года<Node id="792"/>. Бюджет составляет <Node id="812"/>36 миллионов евро<Node id="829"/>. Необходимо заменить упаковочные материалы, получаемые из нефтепродуктов, на биодеградируемые материалы на основе биополимеров. К <Node id="960"/>2015 году<Node id="969"/> такие материалы должны стать всеобщим стандартом. 
+ 
+ Большие надежды возлагаются на сотрудничество исследователей в областях нано- и биотехнологий. Разрабатываемый материал предполагается получить в виде <Node id="1175"/>нанокомпозита<Node id="1188"/>, состоящего из глинистых <Node id="1214"/>наночастиц<Node id="1224"/> и биополимера. <Node id="1240"/>Наночастицы<Node id="1251"/> должны улучшить механические и барьерные характеристики полимеров. Также в состав войдет хитозан, добываемый из панцирей ракообразных. 
+ 
+ Крупнейшие производители пластиковой тары, такие как Sainsbury's и Smurfit-Kappa, с интересом относятся к проекту и активно принимают в нем участие. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="960" EndNode="969">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="786" EndNode="792">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="307" EndNode="315">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="812" EndNode="829">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1214" EndNode="1224">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="8" EndNode="12">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="960" EndNode="969">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="246" EndNode="253">
+</Annotation>
+<Annotation Id="8" Type="Нанокомпозит" StartNode="1175" EndNode="1188">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1240" EndNode="1251">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="307" EndNode="315">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

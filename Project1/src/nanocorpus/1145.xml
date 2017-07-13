@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Едва утихли споры о целесообразности покрытия тканей <Node id="54"/>наночастицами<Node id="67"/> серебра, как китайские исследователи предложили модифицировать хлопковые волокна не чем иным, как <Node id="166"/>углеродными <Node id="178"/>нанотрубками<Node id="190"/>. По словам авторов работы, хлопок хотя и является одним из важнейших текстильных материалов, однако обладает рядом неприятных недостатков. В частности, он не очень прочен и к тому же горюч. А вот применение <Node id="398"/>нанотрубок<Node id="408"/> позволяет превратить обычную хлопчатобумажную ткань в умный суперматериал, годный даже для военных целей.  
+ Метод обработки ткани довольно прост. Сначала <Node id="564"/>нанотрубки<Node id="574"/> покрываются полибутилакрилатом, а потом в их суспензию погружается ткань. <Node id="649"/>Потом<Node id="654"/> ткань отжимается, промывается и сушится.  
+ Оказалось, что на поверхности волокон ткани формируется 500 нм слой из сильно переплетенных <Node id="791"/>нанотрубок<Node id="801"/>, скрепленных полимерной матрицей. При этом прочность ткани заметно возрастает. Кроме того, резко возрастает устойчивость к горению. При содержании <Node id="949"/>нанотрубок<Node id="959"/> более 5 вес. % ткань вообще не воспламеняется, что свидетельствует об образовании протяженного защитного покрытия на поверхности волокон. Конечно, при высоких температурах полимер выгорает, однако пламя не распространяется и быстро гаснет. Далее выяснилось, что ткань хорошо защищает от ультрафиолетового излучения, а также проявляет водоотталкивающие свойства.  
+ Работа «Functionalization of cotton with carbon nanotubes» опубликована в Journal of Materials Chemistry.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="166" EndNode="190">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="178" EndNode="190">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="54" EndNode="67">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="564" EndNode="574">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="791" EndNode="801">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="949" EndNode="959">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="398" EndNode="408">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="649" EndNode="654">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

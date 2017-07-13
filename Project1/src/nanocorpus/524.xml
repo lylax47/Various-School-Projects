@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+- Рассказ о дипломных работах <Node id="32"/>2007 г.<Node id="39"/> на ФНМ и их защите. 
+ 
+- Мнения академиков и других членов <Node id="99"/>ГАК<Node id="102"/>. 
+ 
+- <Node id="109"/>День<Node id="113"/> студента в МГУ.
+ 
+- Премии компании <Node id="150"/>Сен<Node id="153"/>-Гобен.
+    
+ 
+        
+ 
+        
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="99" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">ГАК</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="150" EndNode="153">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="109" EndNode="113">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="32" EndNode="39">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

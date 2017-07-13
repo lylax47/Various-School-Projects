@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>7–23 ноября 2008 года<Node id="22"/>, Екатеринбург.
+ Организаторы: 
+Институт физики металлов УрО РАН, г. Екатеринбург 
+Соорганизаторы: 
+Челябинский государственный университет, г. Челябинск, 
+Институт теплофизики УрО РАН, г. Екатеринбург
+ Тематика:   Магнитные свойства;   Фазовые переходы и критические явления;   Проводимость и транспортные явления;   Оптика и спектроскопия;   Резонансные явления;   Физика низких температур;   Структурные и механические свойства твердых тел;   Неразрушающий контроль;   Теплофизические свойства веществ;   Электрофизика.   Крайний срок приема заявок на участие и тезисов докладов: <Node id="605"/>30 сентября 2008 г.<Node id="624"/> Контакты:  
+620041, Екатеринбург, ул. <Node id="663"/>С. Ковалевской<Node id="677"/>, 18, Институт физики металлов УрО РАН, Председатель Гудин С.А., 
+тел.: (343) 378-38-65; 
+факс: (343) 374-52-44; 
+E-mail: smu@imp.uran.ru.
+ 
+Сайт конференции здесь. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="605" EndNode="624">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="663" EndNode="677">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ковалевская</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

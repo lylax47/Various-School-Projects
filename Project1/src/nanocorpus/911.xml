@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнология – это <Node id="21"/>конфеткаВ Усть-Каменогорске<Node id="48"/> впервые прошла международная научно-практическая конференция «Перспективные технологии, оборудование, аналитические системы для материаловедения и нанотехнологий».
+Юрий Карабасов
+В числе ведущих ученых, прибывших из России, Японии, Южной Кореи, Германии, Кыргызстана и Израиля, был и первый заместитель председателя комиссии по образованию Госдумы РФ, профессор, президент Государственного технологического университета (МИСиС) Юрий Карабасов<Node id="491"/>.<Node id="492"/> На пресс-конференции он развеселил журналистов признанием о том, что на банкете собрал со всех столов карагандинские конфеты «Карабас-Барабас».
+ 
+<Node id="639"/>Внуку<Node id="644"/> в Москву отвезу<Node id="660"/>, – сообщил <Node id="672"/>он<Node id="674"/> с улыбкой. – Я ведь, судя по фамилии, почти казах.
+ 
+Знал бы Юрий Сергеевич, что недалеко от Усть-Каменогорска есть еще и гора Карабас, вообще бы жить остался.
+ Что касается конференции, то она, по признанию ученых, стала важным шагом в дальнейшем развитии инновационного сотрудничества Казахстана с Японией и Россией в области нанотехнологий. Андрей КРАТЕНКОhttp://<Node id="1041"/>www.express-k.kz/…_article.php?…Ранее<Node id="1078"/> были «более серьёзные» сообщения об этой конференции <Node id="1132"/>(http://www.nanonewsnet.ru/…kamenogorske).<Node id="1174"/> Значит, прошла успешно и послужит новым шагом в развитии нашего сотрудничества с Казахстаном в области НТ. Сам же Казахстан ещё и организует специальный научно-исследовательский центр на базе сотрудничества с видными японскими фирмами <Node id="1410"/>(http://www.nanonewsnet.ru/…ektronnoi-mi).<Node id="1452"/> Так что страна твёрдым шагом направляется к «светлому нанотехнологическому будущему»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="639" EndNode="674">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="21" EndNode="48">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="491" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="491" EndNode="492">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="639" EndNode="674">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="672" EndNode="674">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="639" EndNode="674">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1041" EndNode="1078">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="639" EndNode="644">
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается_с</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Внук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="15" Type="упоминает" StartNode="639" EndNode="674">
+</Annotation>
+<Annotation Id="17" Type="темы" StartNode="639" EndNode="660">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1410" EndNode="1452">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1132" EndNode="1174">
+</Annotation>
+<Annotation Id="18" Type="упоминается" StartNode="639" EndNode="674">
+</Annotation>
+<Annotation Id="20" Type="упоминается" StartNode="639" EndNode="674">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

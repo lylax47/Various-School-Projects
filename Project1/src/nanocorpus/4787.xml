@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Награждение победителей конкурса научно-популярных статей по альтернативной энергетике, состоявшееся в офисе Национальной инновационной компании “Новые энергетические проекты” на Пречистенке, прошло в камерной обстановке. В небольшой, но уютной комнате для переговоров в присутствии журналистов трем молодым ученым: сотруднице факультета наук о материалах МГУ Екатерине Померанцевой, магистранту того же факультета Евгению Смирнову и Павлу Мешкову, сотруднику Института экономических стратегий РАН, - были вручены дипломы и премии. Отличившиеся авторы получали награды из рук декана факультета наук о материалах МГУ им. М.В.Ломоносова академика РАН Юрия Третьякова, его заместителя члена-корреспондента РАН Евгения Гудилина, гендиректора <Node id="739"/>НИК НЭП<Node id="746"/> Бориса Кузыка и замдиректора Владимира <Node id="786"/>Туманова<Node id="794"/>. 
+ 
+“Конкурс статей мы проводили в рамках интернет-олимпиады “Нанотехнологии - прорыв в будущее”, - проинформировал Е.Гудилин. - В <Node id="926"/>этом году<Node id="935"/> один из разделов олимпиады был посвящен альтернативной энергетике и экологии. Статьи участников конкурса мы разместили на сайте интернет-журнала “Нанометр” - в помощь людям, которые решали олимпиадные задачи”. “<Node id="1147"/>Нанотехнологии сейчас - очень популярная тема, - сказал в ответном слове Е.Смирнов<Node id="1229"/>. - Хочется, чтобы ее развитие не переросло в пустую болтовню, чтобы в России было больше содержательных проектов, новых технологий, которые можно использовать в различных областях жизни”. 
+ 
+Именно такими, реальными коммерческими проектами в области альтернативной энергетики (которые в большинстве своем основаны на нанотехнологиях) занимается один из спонсоров олимпиады и конкурса научно-популярных статей - компания <Node id="1650"/>НИК НЭП<Node id="1657"/>. Поздравляя победителей, <Node id="1683"/>Б.Кузык сказал, что <Node id="1703"/>в последние пять-<Node id="1720"/>шесть лет<Node id="1729"/> в России появилось много заинтересованных молодых людей, которые пытаются осознать процессы, происходящие в стране<Node id="1844"/>. “<Node id="1847"/>На наших глазах зарождается новая политическая, культурная, научная и бизнес-элита, - считает <Node id="1941"/>он<Node id="1943"/>. - Возникают условия для реализации молодежи, и с каждым <Node id="2001"/>годом<Node id="2006"/> их становится все больше и больше. Даже если вы на время уедете, то потом все равно вернетесь, потому что здесь будет интереснее”. <Node id="2138"/>П.Мешков поддержал эту мысль: “<Node id="2169"/>Наше место здесь, в России будем реализовываться и строить свое будущее<Node id="2240"/>”. 
+ 
+Торжественная часть завершилась чаепитием. Говорили об истории России.
+ Елена МОРГУНОВА </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="1703" EndNode="1844">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2001" EndNode="2006">
+</Annotation>
+<Annotation Id="3" Type="упоминается" StartNode="1147" EndNode="2240">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1720" EndNode="1729">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1847" EndNode="1943">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="2169" EndNode="2240">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="739" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1650" EndNode="1657">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="786" EndNode="794">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">замдиректора</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туманов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="926" EndNode="935">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="2138" EndNode="2240">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="1683" EndNode="1844">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="1703" EndNode="1844">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="упоминает" StartNode="1147" EndNode="2240">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="2169" EndNode="2240">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="1941" EndNode="1943">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="1147" EndNode="2240">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="высказывания_заявления" StartNode="1847" EndNode="1943">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="высказывания_заявления" StartNode="2138" EndNode="2240">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="высказывания_заявления" StartNode="1683" EndNode="1844">
+</Annotation>
+<Annotation Id="38" Type="автор" StartNode="1147" EndNode="1229">
+</Annotation>
+<Annotation Id="39" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="36" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="упоминается" StartNode="1147" EndNode="2240">
+</Annotation>
+<Annotation Id="40" Type="высказывания_заявления" StartNode="1147" EndNode="1229">
+</Annotation>
+<Annotation Id="41" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

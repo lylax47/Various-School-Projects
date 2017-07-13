@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На предстоящей конференции SEMICON WEST, организуемой в <Node id="57"/>июле с.г.<Node id="66"/>, сотрудники компании SEMATECH1 доложат подробности о продвижении инициатив, связанных с кремниевыми подложками диаметром 450 мм и с усовершенствованием и стандартизацией процессов на 300-мм подложках (300 mm Next Generation Factory, NGF) [1].
+
+Возможно, наиболее удивителен прогресс 450-мм подложек – компания ISMI уже получила для проведения испытаний 100 поликристаллических кремниевых 450-мм подложек от изготовителей и к <Node id="492"/>концу года<Node id="502"/> ожидает получить монокристаллические образцы. Директор ISMI, Scott Kramer, подчеркивает, что ISMI будет придерживаться нейтральной позиции в развернувшейся войне между компаниями, стремящимися освоить 450 мм «на полном ходу», и компаниями, считающими, что более продуктивно совершентсвовать производство на 300-мм подложках.
+
+<Node id="829"/>Крамер<Node id="835"/> заявил: “Мы не будем устанавливать никаких графиков. Наша позиция – собрать все данные и представить их игрокам на полупроводниковом рынке для принятия решения. Мы лишь соберем данные, проведем испытания и будем влиять на утверждение стандартов<Node id="1080"/>». На предстоящей конференции <Node id="1110"/>Крамер<Node id="1116"/> представит данные истытания захват и устройство для переноса 450-мм подложек различной толщины – возможный компромиссный стандарт, который будет утвержден – 925 мкм (см. рис. 1). Первые 450-мм подложки поставила Japan's Nippon Mining &amp; Metals Co. Ltd., но <Node id="1373"/>Крамер<Node id="1379"/> утверждает, что есть и другие поставщики [2]<Node id="1424"/>. Компания сотрудничает уже с более чем 20 поставщиками материалов, приспособлений и различного оборудования.
+
+Производство <Node id="1548"/>ИС<Node id="1550"/> на 450-мм подложках? Все же никогда! Таков вердикт консалтинговой компании Wright Williams &amp; Kelly, Inc. (WWK), которая провела опрос среди 3000 респондентов из 20 ведущих полупроводниковых производителей чипов, материалов и оборудования. Среди ответов были и более оптимистичные – производство на 450-мм подложках возможно, но не ранее <Node id="1888"/>2015 г.<Node id="1895"/> [3].
+1SEMATECH (SEmiconductor MAnufacturing TECHnology) – некоммерческий консорциум, который выполняет фундаментальные исследования в области полупроводникового производства. Консорциум был основан в <Node id="2096"/>1987 г.<Node id="2103"/> по соглашению между <Node id="2124"/>правительством<Node id="2138"/> и четырнадцатью ведущими полупроводниковыми производителями США для решения общих производственных задач, в частности, именно этот консорциум разрабатывает так называемые Дорожные карты для полупроводникового производства. <Node id="2362"/>С 2004 г.<Node id="2371"/> SEMATECH работает как международная организация и имеет три дочерних компании – Advanced Technology Development Facility (ATDF), Advanced Materials Research Center (AMRC) и International Sematech Manufacturing Initiative (ISMI).
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1548" EndNode="1550">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="57" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="829" EndNode="1080">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="2096" EndNode="2103">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="829" EndNode="835">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Крамер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1373" EndNode="1424">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="829" EndNode="1080">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1373" EndNode="1379">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Крамер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1888" EndNode="1895">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1110" EndNode="1116">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Крамер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2362" EndNode="2371">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="492" EndNode="502">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="2124" EndNode="2138">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1373" EndNode="1424">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

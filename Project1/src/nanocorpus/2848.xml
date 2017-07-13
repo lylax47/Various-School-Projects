@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> "Сердечки" к <Node id="14"/>дню<Node id="17"/> <Node id="18"/>Святого Валентина<Node id="35"/> - изображение фрагмента электролитического осадка меди на базисной грани пирографита, полученное с помощью <Node id="143"/>сканирующей туннельной микроскопии<Node id="177"/>. Возможно, причиной формирования подобного объекта является селективный рост по ступени, 
+прерываемый, скорее всего, дефектами.    
+ 
+      
+ 
+  
+ 
+        
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Сканирующая+туннельная+микроскопия" StartNode="143" EndNode="177">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="18" EndNode="35">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Валентин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="14" EndNode="17">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

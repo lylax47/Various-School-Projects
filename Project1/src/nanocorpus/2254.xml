@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>Наблюдательный совет госкорпорации «Роснанотех»<Node id="48"/>, избранный в <Node id="62"/>сентябре<Node id="70"/>, вчера рассматривал миссию госкорпорации. На полученные в <Node id="129"/>ноябре<Node id="135"/> <Node id="136"/>130 млрд руб.<Node id="149"/> «Роснанотех», говорится в проекте документа, должен обеспечить России мировое лидерство в области нанотехнологий. Стратегию решили доработать.
+
+Амбиции государства растут — в <Node id="325"/>апреле 2007 г.<Node id="339"/> президент требовал, чтобы Россия вошла в число мировых лидеров за <Node id="406"/>10–20 лет<Node id="415"/>.
+
+Миссия будет выполнена при соблюдении трех условий: отечественные ученые будут вносить наибольший вклад в мировую копилку фундаментальных знаний, будут завоеваны мировые рынки нанопродукции, Россия станет местом ежегодного нанотехнологического «давоса».
+
+Определился «Роснанотех» и с главным: он будет реализовывать госинтересы. При этом предполагается исходить из принципов публичности, открытости и использовать конкурсные процедуры при финансировании проектов.
+
+Госкорпорация будет добиваться прибыли по всем проектам, кроме инвестиций в образование и инфраструктуру для наноисследований.
+
+В то же время «Роснанотех» не собирается конкурировать с коммерческими компаниями.
+
+В некоторых направлениях «Роснанотех» готов даже полностью взять на себя риски, связанные с развитием нанотехнологий.
+
+Объемы финансирования конкретных направлений пока не определены, говорит член наблюдательного совета, депутат Евгений Федоров.
+
+Сейчас, по оценке <Node id="1360"/>Минобрнауки<Node id="1371"/>, 75 производителей выпускают нанотехнологических товаров на <Node id="1432"/>7 млрд руб.<Node id="1443"/> Даже если ежегодно удваивать производство, как предполагается правительственной программой развития наноиндустрии, к <Node id="1561"/>2015 г.<Node id="1568"/> оно вырастет в 120 раз до <Node id="1595"/>900 млрд руб.<Node id="1608"/> Но и тогда Россия к <Node id="1629"/>2015 г.<Node id="1636"/> займет лишь <Node id="1649"/>3%<Node id="1651"/> мирового рынка.
+
+На достижение поставленных целей бюджета корпорации не хватит, но первые успехи могут привлечь частные инвестиции, надеется Александр Куринный из «Опоры». Совокупный бюджет «Роснанотеха» и ФЦП (<Node id="1863"/>157,7 млрд руб.<Node id="1878"/>) сопоставим с госфинансированием наноинициативы у США. Но частные компании там вкладывают в разы больше государства.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="136" EndNode="149">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1649" EndNode="1651">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="62" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="1" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательный совет госкорпорации «Роснанотех»</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="325" EndNode="339">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="1360" EndNode="1371">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобрнауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="406" EndNode="415">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1432" EndNode="1443">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1629" EndNode="1636">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="129" EndNode="135">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1595" EndNode="1608">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1863" EndNode="1878">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="1561" EndNode="1568">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В ТГУ <Node id="7"/>24 ноября<Node id="16"/> пройдет первая школа-семинар сети центров коллективного пользования «Исследование и метрология <Node id="112"/>наноматериалов<Node id="126"/>», сообщает пресс-служба вуза.
+
+В работе школы-семинара примут участие представители госкорпорации «Роснанотех», Ростехрегулирования, операторы центров коллективного пользования Томска, Новосибирска, представители предприятий г. Томска. Участники познакомятся с новейшими методиками в исследовании <Node id="424"/>наноструктур<Node id="436"/> и <Node id="439"/>наноматериалов<Node id="453"/>, протестируют уникальные модели аналитического оборудования для работы с <Node id="527"/>наноматериалами<Node id="542"/>.
+
+Проведение такого практического семинара стало закономерным итогом развития исследований в области нанотехнологий в университете. Томский государственный университет занимает ведущие позиции по изучению <Node id="748"/>наноматериалов<Node id="762"/>. Еще в <Node id="770"/>2007 году<Node id="779"/> университет выиграл всероссийский конкурс на создание научно-образовательного центра «Нанотехнологии» наряду с ведущими столичными университетами.
+
+Известно, что вещество может приобретать совершенно новые свойства, если взять очень маленькую частицу этого вещества. Частицы размерами менее 100 нанометров обычно называют «<Node id="1103"/>наночастицами<Node id="1116"/>». Нанотехнологии позволяют манипулировать веществом на молекулярном уровне и придавать материалам новые уникальные свойства. Физические и химические свойства <Node id="1275"/>наночастиц<Node id="1285"/> порой существенно отличаются от поведения более крупных фрагментов того же вещества, причем существенно. Порой даже сложно предсказать каким будет это отличие. Результаты исследований <Node id="1470"/>наночастиц<Node id="1480"/> могут быть применены при решении проблем экологии, при создании нового класса медицинских материалов и имплантатов с биомеханическими свойствами, которые обладают свойствами живой ткани.
+
+Открытие школы-семинара состоится <Node id="1703"/>24 ноября<Node id="1712"/> в 10:00 в Конференц-зале Научной библиотеки ТГУ.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="527" EndNode="542">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1275" EndNode="1285">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1470" EndNode="1480">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="748" EndNode="762">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1703" EndNode="1712">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="7" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="424" EndNode="436">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="770" EndNode="779">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="439" EndNode="453">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1103" EndNode="1116">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="112" EndNode="126">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="770" EndNode="779">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

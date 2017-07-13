@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Компании Unidym и Carbon Nanotechnologies, специализирующиеся на <Node id="67"/>углеродных <Node id="78"/>нанотрубках<Node id="89"/>, заключили соглашение о слиянии. 
+ 
+<Node id="126"/>Углеродные <Node id="137"/>нанотрубки<Node id="147"/> обладают уникальными характеристиками: они прочнее стали и при этом могут проводить электричество. Предполагается, что <Node id="267"/>нанотрубки<Node id="277"/> найдут применение в самых разнообразных областях. В частности, Intel рассматривает возможность использования <Node id="387"/>углеродных <Node id="398"/>нанотрубок<Node id="408"/> в качестве проводников внутри микрочипов вместо меди. Кроме того, <Node id="475"/>нанотрубки<Node id="485"/> могут лечь в основу сверхпрочного троса для космического лифта. 
+ 
+Фирма Carbon Nanotechnologies является владельцем 54 патентов на технологии, связанные с <Node id="642"/>углеродными <Node id="654"/>нанотрубками<Node id="666"/>. Кроме того, еще несколько патентных заявок Carbon Nanotechnologies в <Node id="737"/>настоящее время<Node id="752"/> находятся на стадии рассмотрения. В свою очередь компания Unidym, являющаяся подразделением Arrowhead Research, занимается разработкой продуктов на основе <Node id="908"/>углеродных <Node id="919"/>нанотрубок<Node id="929"/>. 
+ 
+Ожидается, что после слияния Unidym и Carbon Nanotechnologies объединенная компания будет обладать одним из самых больших в отрасли патентных пакетов на методики и технологии, связанные с <Node id="1122"/>углеродными <Node id="1134"/>нанотрубками<Node id="1146"/>. Завершить процесс объединения планируется уже в <Node id="1196"/>следующем месяце<Node id="1212"/>. 
+ 
+Между тем, некоторые эксперты считают, что исследователи по всему миру недооценивают риски, которые могут быть сопряжены с нанотехнологиями. Например, Эндрю Мэйнард из Международного научного центра <Node id="1416"/>Вудроу Уилсона<Node id="1430"/> недавно высказался о необходимости разработки специальных методик, которые позволят оценить токсичность <Node id="1535"/>наноматериалов<Node id="1549"/> и их влияние на экологию. Но, так или иначе, нанотехнологии сейчас используются в косметологии, компьютерной отрасли и промышленности, а в перспективе, как ожидается, найдут широкое применение в медицине, аэрокосмической сфере и так далее.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="908" EndNode="929">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="1122" EndNode="1146">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="78" EndNode="89">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="387" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="919" EndNode="929">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="475" EndNode="485">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="137" EndNode="147">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="67" EndNode="89">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1196" EndNode="1212">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1134" EndNode="1146">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="267" EndNode="277">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="642" EndNode="666">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="398" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="1535" EndNode="1549">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="126" EndNode="147">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="737" EndNode="752">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="654" EndNode="666">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="1416" EndNode="1430">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Уилсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

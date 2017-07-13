@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Виктор СтаростинМатериалы и методы нанотехнологии: Учебное пособие
+В книге даются основные понятия о нанотехнологии и нанообъектах, приводятся сведения о характерных особенностях и свойствах <Node id="191"/>наночастиц<Node id="201"/>. Рассмотрены функциональные и конструкционные материалы (<Node id="259"/>фуллерены<Node id="268"/>, <Node id="270"/>углеродные <Node id="281"/>нанотрубки<Node id="291"/>, ленгмюровские молекулярные пленки) и их применение. Значительное внимание уделяется методам получения <Node id="395"/>наночастиц<Node id="405"/> и упорядоченных <Node id="422"/>наноструктур<Node id="434"/>, приводятся результаты искусственного наноформообразования, описаны методы зондовой нанотехнологии, пучковые и другие новые методы нанолитографии.
+Для студентов и аспирантов высших учебных заведений, специализирующихся по направлению «Нанотехнология».
+ Рубрика: Физическая химия. Химическая физика ISBN: 978–5–94774–727–0 Серия: Нанотехнология Издательство: Бином. Лаборатория знаний <Node id="819"/>Год<Node id="822"/> издания: 2008 Количество страниц: 431 Тираж: 2000 Формат: 60х90/16 Тоже совсем новая книга. Дата поступления в продажу: <Node id="943"/>20.09.2008<Node id="953"/>. Повезло студентам – ещё одно хорошее учебное пособие…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="270" EndNode="291">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="395" EndNode="405">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="281" EndNode="291">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="943" EndNode="953">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">09</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="259" EndNode="268">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="191" EndNode="201">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="819" EndNode="822">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="422" EndNode="434">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

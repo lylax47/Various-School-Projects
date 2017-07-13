@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Чернецкий<Node id="9"/> и Ко съездили в Южную Корею. Впечатления мэра и приятные новости для екатеринбургских бизнесменовМэр Екатеринбурга <Node id="125"/>Аркадий Чернецкий<Node id="142"/> рассказал об итогах визита делегации столицы УрФО в Южную Корею, во главе которой был он сам. По словам градоначальника, «делегация подобралась небольшая, но очень качественная по квалификации». Один из главных итогов поездки – Екатеринбург выбрал новый город-побратим, корейский Инчон (помимо него, столица УрФО находится в родственных отношениях с Генуей, Пльзенью, Гуанчжоу, Вупперталью и <Node id="535"/>Сан Хосе<Node id="543"/>).
+ «<Node id="548"/>Это крупный центр, практически третий по населению город Корейской республики, с населением 2,7 млн. человек, находящийся недалеко от столицы – Сеула, – пояснил Чернецкий. – Кроме того, учитывая специфику наших интересов и специфику интересов корейской стороны, мы параллельно занимались вопросом об установлении партнерских отношений, деловых отношений с городом Поханг и городом Соннам<Node id="935"/>».
+ 
+Делегация также встретилась с мэром Сеула и послом РФ в Южной Корее.
+Екатеринбург рассчитывает создать совместно с Инчоном свободную экономическую зону высокотехнологичной направленности, создать совместный центр нанотехнологий в Поханге. Также речь шла о совместном ведении научных разработок для производственных компаний Кореи со стороны екатеринбургских научных фирм, о вопросах обмена студентами, профессорско-преподавательским составом.
+
+<Node id="1384"/>По словам Чернецкого, важные переговоры провели и екатеринбургские бизнесмены<Node id="1461"/>. Как заявил глава города, фирма «Уралчерметавтоматика» может получить контракт, исчисляемый миллиардами долларов. В сотрудничестве с этим предприятием заинтересован металлургический завод в Поханге, один из крупнейших производителей в мире. Были обговорены и возможности обратного сотрудничества: свердловские предприятия заинтересованы в закупке южнокорейских станков.
+
+Кроме того, южнокорейские партнеры помогут свердловчанам в изготовлении медицинской аппаратуры и, как надеется Чернецкий, поучаствуют в создании парка развлечений.
+<Node id="1997"/>http://www.ura.ru<Node id="2014"/>/…s/39019.htmlОчевидно, что журналюги откровенно посмеиваются над уважаемым мэром. Ну и, на мой взгляд, совершенно напрасно. Парень ведь не для себя старается: он идёт в русле «общей тенденции» <Node id="2208"/>(http://www.nanonewsnet.ru<Node id="2234"/>/…otekhnologii), завязывает тесные и взаимовыгодные связи, привозит выгодные контракты. Чего ещё надо? Можете сделать лучше? – Попробуйте сами… Для нас самой интересной является следующая новость: «Екатеринбург рассчитывает создать совместно с Инчоном свободную экономическую зону высокотехнологичной направленности, создать совместный центр нанотехнологий в Поханге». Это значит, что наш «далёкий сосед» становится ближе. Характерно, что наши корейские партнёры начали интенсивно осваивать нашу «глубинку» (Дальний Восток, Урал). И идут в этой области гораздо быстрее «всяких там» вашингтонов, брюсселей и токиев… Молодцы ребята! Значит, знают какое-то «волшебное слово» и имеют ЧТО предложить… А «задружиться» с корейцами, как показывает практика (!), очень и очень выгодно…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминает" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="5" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1997" EndNode="2014">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="10" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="535" EndNode="543">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хосе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="цитаты" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="13" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1384" EndNode="1461">
+</Annotation>
+<Annotation Id="17" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1384" EndNode="1461">
+</Annotation>
+<Annotation Id="19" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="21" Type="цитаты" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="20" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="23" Type="упоминает" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="22" Type="упоминается_с" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="25" Type="высказывания_заявления" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Чернецкий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="упоминается" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="26" Type="автор" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="29" Type="Url" StartNode="2208" EndNode="2234">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="548" EndNode="1461">
+</Annotation>
+<Annotation Id="31" Type="цитаты" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="30" Type="цитаты" StartNode="548" EndNode="935">
+</Annotation>
+<Annotation Id="32" Type="Тональность" StartNode="125" EndNode="142">
+</Annotation>
+<Annotation Id="33" Type="упоминает" StartNode="548" EndNode="1461">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

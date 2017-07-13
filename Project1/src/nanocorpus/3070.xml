@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Как сообщает Интернет-журнал «Коммерческая биотехнология» со ссылкой на Американскую ассоциацию по изучению раковых заболеваний (American Association for Cancer Research) <Node id="172"/>наночастицы<Node id="183"/> могут стать причиной раковых заболеваний. 
+ 
+<Node id="229"/>Наночастицы<Node id="240"/> достаточно малы для того, чтобы проникать через мембраны клеток, но слишком велики для того, чтобы нарушать протекание нормальных клеточных процессов. Чрезвычайно малые размеры затрудняют их удаление из окружающей среды с помощью традиционных методов фильтрации. 
+ 
+К сожалению, слишком мало исследований посвящено изучению влияния <Node id="573"/>наночастиц<Node id="583"/> на здоровье и оценке риска их использования для человека и окружающей среды. Ученые университета штата Массачусетс решили посвятить свою работу заполнению этого пробела и изучили в экспериментах на линии клеток человеческого рака молочной железы MCF-7 способность двух типов <Node id="859"/>наночастиц<Node id="869"/> вызывать повреждения ДНК. Доклад представлен на ежегодном съезде American Association for Cancer Research. 
+ 
+Авторы протестировали генотоксичность суспензий кремниевых и фуллереновых (C60) <Node id="1060"/>наночастиц<Node id="1070"/> с помощью одноклеточного щелочного гель-<Node id="1111"/>электрофореза<Node id="1124"/>, оценивающего количество разрывов одно- и двухцепочечных молекул ДНК. Указанные типы <Node id="1210"/>наночастиц<Node id="1220"/> выбраны в силу их повсеместного применения при производстве электроники, текстиля и спортивных товаров, а также благодаря легкости работы с ними в лабораторных условиях. 
+ 
+Результаты продемонстрировали как дозо-зависимое, так и время-зависимое повышение уровня повреждений ДНК в клетках при воздействии обоих типов <Node id="1537"/>наночастиц<Node id="1547"/>. Известно, что повреждения ДНК ведут к появлению мутаций, которые нередко являются причиной развития злокачественных опухолей. 
+ 
+Разные типы <Node id="1690"/>наночастиц<Node id="1700"/> могут обладать разным уровнем токсичности, однако <Node id="1751"/>на настоящий момент<Node id="1770"/> не существует данных, которые позволили бы выявить наиболее опасные материалы. Кроме того, необходимо установить, проникают ли <Node id="1898"/>наночастицы<Node id="1909"/> внутрь клеток и вызывают повреждения ДНК в результате непосредственного взаимодействия, либо они запускают каскад реакций на уровне клеточной мембраны. Понимание механизмов токсичности <Node id="2095"/>наночастиц<Node id="2105"/> позволит разработать соответствующие методы предотвращения или нейтрализации вызываемых ими повреждений. 
+ 
+<Node id="2214"/>На настоящий момент<Node id="2233"/> таких данных не существует, и авторы призывают к максимальной осторожности при работе с суспензиями <Node id="2334"/>наночастиц<Node id="2344"/> и строгого контроля над их высвобождением в окружающую среду. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="172" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2214" EndNode="2233">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="859" EndNode="869">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="229" EndNode="240">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1210" EndNode="1220">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="2334" EndNode="2344">
+</Annotation>
+<Annotation Id="10" Type="Электрофорез" StartNode="1111" EndNode="1124">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1751" EndNode="1770">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2095" EndNode="2105">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="1898" EndNode="1909">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1537" EndNode="1547">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="573" EndNode="583">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1060" EndNode="1070">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1690" EndNode="1700">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Бактерии могут производить <Node id="27"/>наноматериалы<Node id="40"/> в промышленных масштабахУченые из калифорнийского университета с удивлением обнаружили, что <Node id="133"/>наноматериалы<Node id="146"/>, в частности – <Node id="162"/>полупроводниковые <Node id="180"/>нанотрубки<Node id="190"/> – могут быть получены в ходе жизнедеятельности микроорганизмов. Свои наблюдения они описали в Proceedings of the National Academy of Sciences.
+Nosang V. Myung
+Образование <Node id="362"/>нанотрубок<Node id="372"/> сульфида мышьяка, обладающих уникальными физико-химическими параметрами, не достижимыми в ходе химико-технологического процесса получения обнаружили профессор <Node id="532"/>Носан<Node id="537"/> Мюн (Nosang Myung) и его подопечный Бонъюн Ю (Bongyoung Yoo). Этот процесс они наблюдали в ходе жизнедеятельности бактерий Shewanella.
+Этот процесс, по словам ученых, может найти свою промышленную реализацию, так как обладает рядом ключевых преимуществ, включающих экологичность, высокий выход продукта, а так же низкие энергозатраты. Инновация может существенно повлиять на огромный рынок микроэлектроники, как массовой, так и узкоспециальной, базирующийся на традиционной полупроводниковой промышленности.
+
+Физиологический механизм, позволяющий бактериям осуществлять синтез пока что малоизучен, однако предполагается, что Shewanella выделяет в ходе своей жизнедеятельности молекулы биологических полимеров – полисахаридов, которые служат шаблоном для формирования <Node id="1305"/>нанотрубок<Node id="1315"/> сульфида мышьяка. Ученые надеются что этот же штамм бактерий или какой либо другой сможет проявить себя аналогичным образом в процессе получения <Node id="1461"/>нанотрубок<Node id="1471"/> сульфида кадмия или другого полупроводника, более значимого для индустрии.
+<Node id="1547"/>http://www.gazeta.ru/…150847.shtmlNanotube-producing<Node id="1599"/> Bacteria Show Manufacturing <Node id="1628"/>Promisehttp://www.newsroom.ucr.edu/…/display.cgi?…Biogenic<Node id="1686"/> formation of photoactive arsenic-sulfide nanotubes by Shewanella sp. strain <Node id="1763"/>HN-41http://www.pnas.org/…0707595104v1?…Хо!<Node id="1806"/> Возможно, мы движемся к тому, что вскоре всю вредную, опасную и грязную работу за нас будут выполнять бактерии и другие микроорганизмы… Вот тогда заживём! Как в сказке: Сидя на печи, будем приказывать этим «зверюшкам» то построить для нас новый дворец, то принести что-нибудь покушать… А если серьёзно, то это открытие сулит огромный прорыв в самых различных областях. И его «правильное» использование может принести большую выгоду…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1763" EndNode="1806">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="362" EndNode="372">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="133" EndNode="146">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="180" EndNode="190">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1628" EndNode="1686">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1305" EndNode="1315">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="532" EndNode="537">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Носан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Полупроводниковая+нанотрубка" StartNode="162" EndNode="190">
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="27" EndNode="40">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1547" EndNode="1599">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1461" EndNode="1471">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

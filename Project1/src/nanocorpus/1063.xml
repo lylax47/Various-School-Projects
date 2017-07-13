@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Институт статистических исследований и экономики знаний и <Node id="59"/>Форсайт<Node id="66"/>-центр Государственного университета – Высшей школы экономики (ГУ-ВШЭ) проводят конкурс эссе: "Создадим будущее!" 
+На конкурс принимаются творческие эссе в жанре научной фантастики на тему«<Node id="255"/>Один день<Node id="264"/> россиянина в <Node id="278"/>2025 году<Node id="287"/>» и «2025: нанотехнологии в повседневной жизни» 
+ 
+Эссе должно раскрывать перспективные области применения нанотехнологий и нанопродуктов в различных областях повседневной жизни человека (еде, одежде, сне, транспорте, работе, досуге, общении и т.п.). Наличие иллюстраций приветствуется. 
+ 
+Тексты принимаются до <Node id="599"/>30 сентября 2008 года<Node id="620"/> в электронном виде на адрес <Node id="649"/>foresight@hse.ru<Node id="665"/> с пометкой «КОНКУРС» 
+Объем работы – не более 2 000 слов. 
+ Требования к работам: 
+· оригинальность 
+ 
+· соответствие заявленной теме 
+ 
+· обоснованность высказываемых предположений (автор объясняет, почему приведенный вариант представляется вероятным) 
+ Награды: 
+· Денежный приз: 1-е место – <Node id="960"/>30 000 руб.<Node id="971"/>, 2-е место – <Node id="985"/>20 000 руб.<Node id="996"/>, 3-е место – <Node id="1010"/>10 000 руб.<Node id="1021"/> 
+ 
+· Публикация наиболее интересных и оригинальных работ в журнале «Форсайт» (журнал включен в перечень ВАК) 
+ 
+· Участие победителей конкурса в групповом экспертном обсуждении, посвященном выработке наиболее вероятных сценариев будущего развития страны 
+ 
+Подробнее о конкурсе можно узнать на: <Node id="1317"/>http://foresight.hse.ru/index.html<Node id="1351"/>
+     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1317" EndNode="1351">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="278" EndNode="287">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="649" EndNode="665">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1010" EndNode="1021">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="599" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="985" EndNode="996">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="278" EndNode="287">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="960" EndNode="971">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="59" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Форсайт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="255" EndNode="264">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Исследование, проведенное американскими учеными из Стэнфордского университета, позволяет говорить о том, что <Node id="111"/>углеродные <Node id="122"/>нанотрубки<Node id="132"/> в перспективе могут быть использованы для борьбы с вирусом иммунодефицита человека (ВИЧ).
+ 
+ВИЧ по форме напоминает конус и имеет некое подобие шипов, которые помогают ему цепляться за Т-клетки организма человека. Т-клетки играют очень важную роль в обеспечение иммунитета, и их поражение крайне негативно отражается на способности организма противостоять заболеваниям и инфекциям. В процессе поражения Т-клеток вирус иммунодефицита человека использует белки-рецепторы клеточной поверхности CD4 и CXCR4. Считается, что заблокировать эти рецепторы можно при помощи малых интерферирующих молекул рибонуклеиновой кислоты (siRNA). Однако основная проблема заключается в сложности доставки siRNA внутрь Т-клеток. 
+ 
+Американские ученые, как сообщает New Scientist Tech, предлагают транспортировать молекулы siRNA при помощи <Node id="952"/>углеродных <Node id="963"/>нанотрубок<Node id="973"/>. Для соединения молекул siRNA и <Node id="1006"/>нанотрубок<Node id="1016"/> команда исследователей под руководством <Node id="1057"/>Хунцзе Дая<Node id="1067"/> использовала углеродо-водородные цепочки и специальный полимер. После проникновения <Node id="1152"/>нанотрубки<Node id="1162"/> внутрь Т-клетки молекулы siRNA под воздействием энзимов теряют связь со своим носителем и начинают оказывать блокирующее воздействие на белки-рецепторы CD4 и CXCR4.
+ 
+Впрочем, методика, предложенная американскими учеными, пока нуждается в доработке. Дело в том, что в ходе лабораторных экспериментов белки-рецепторы CD4 и CXCR4 блокировались только на <Node id="1515"/>60 процентов<Node id="1527"/> и <Node id="1530"/>80 процентов<Node id="1542"/>, соответственно. В результате вирус иммунодефицита человека все еще может использовать CD4 и CXCR4 для поражения Т-клеток. Тем не менее, в перспективе исследователи рассчитывают повысить эффективность собственной методики за счет химических манипуляций с <Node id="1798"/>нанотрубками<Node id="1810"/> и модификации siRNA.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1006" EndNode="1016">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1798" EndNode="1810">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="963" EndNode="973">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="122" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="111" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1057" EndNode="1067">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Дая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1152" EndNode="1162">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1515" EndNode="1527">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1530" EndNode="1542">
+</Annotation>
+<Annotation Id="14" Type="Углеродная+нанотрубка" StartNode="952" EndNode="973">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

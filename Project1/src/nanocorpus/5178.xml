@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Расширился состав управляющих директоров Российской корпорации нанотехнологий: на должность управляющего директора ГК «Роснанотех» <Node id="132"/>назначен<Node id="140"/> Дмитрий Лисенков.
+
+Дмитрий Лисенков <Node id="177"/>родился 23 мая <Node id="192"/>1976<Node id="196"/> года<Node id="201"/> в г. Ленинграде. В <Node id="221"/>1998 году<Node id="230"/> с отличием окончил Санкт-Петербургский государственный университет экономики и финансов по специализации корпоративные финансы. Бакалавр и магистр экономики. В <Node id="391"/>2002 году<Node id="400"/> с отличием окончил Zicklin School of Business, City University of New York (Master of Business Administration, MBA по специализации финансы и инвестиции).
+
+<Node id="557"/>С 2003 года<Node id="568"/> работал сначала в качестве инвестиционного офицера, а позднее – управляющего и партнера компании «РТФ Менеджмент», руководил офисом в Санкт-Петербурге и занимался развитием портфельных компаний. В <Node id="766"/>2007 – 2008 годах<Node id="783"/> – один из основателей и инвестиционный директор компании «Биопроцесс Кэпитал Партнерс» (фонд венчурных инвестиций – Биопроцесс Кэпитал Венчурс). Участвовал в разработке концепции фонда, занимался привлечением инвесторов, подбором компаний для инвестиций и подготовкой сделок.
+
+Является экспертом <Node id="1080"/>Роснауки<Node id="1088"/>, ежегодного Венчурного форума и Венчурной ярмарки, ежегодного Конкурса русских инноваций (журнал «Эксперт»). Консультировал Правительство Санкт-Петербурга по вопросам инновационной политики города.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Кадровые_перестановки" StartNode="132" EndNode="140">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="557" EndNode="568">
+</Annotation>
+<Annotation Id="3" Type="Дата_рождения" StartNode="177" EndNode="196">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="766" EndNode="783">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="391" EndNode="400">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="221" EndNode="230">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="192" EndNode="201">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1080" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Назначения_Увольнения" StartNode="132" EndNode="140">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="221" EndNode="230">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="391" EndNode="400">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

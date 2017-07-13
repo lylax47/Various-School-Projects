@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Центра Нанотехнологии и <Node id="42"/>Молекулярных Материалов<Node id="65"/> (Center for Nanotechnology and Molecular Materials) университета Вейк Форест (Wake Forest University) объявили, что они увеличили эффективность пластмассовых солнечных элементов до <Node id="247"/>6 процентов<Node id="258"/>.
+
+В работе, которая будет опубликована в следующем выпуске журнала Applied Physics Letters, исследователи описывают, как они достигли рекордной эффективности для органических, гибких, пластмассовых солнечных элементов, создавая «нанонити» внутри легкой абсорбирующей пластмассы, подобно прожилкам в листьях дерева. Это позволяет использовать более толстые абсорбирующие слои в устройствах, которые захватывают больше солнечного света.
+
+Чрезвычайно желательно создать эффективные пластмассовые солнечные элементы, потому что они недороги и легки, особенно по сравнению с традиционными кремниевыми солнечными батареями. Традиционные панели солнечных батарей являются тяжелыми и большими и преобразовывают <Node id="962"/>около 12 процентов<Node id="980"/> света в полезную электроэнергию. Исследователи работали в течение многих <Node id="1054"/>лет<Node id="1057"/>, чтобы создать гибкие органические солнечные элементы, которые могут быть обернуты вокруг поверхностей, свернуты или даже нанесены на что-то.
+
+Три процента были самой высокой эффективностью, когда-либо достигнутой для пластмассовых солнечных элементов до 2005, когда Дэвид Кэрролл (David Carroll), директор Центра нанотехнологии и молекулярных материалов университета Вейк Форест и его исследовательская группа не объявил, что они близки к достижению 5-процентной эффективности. Теперь, немного <Node id="1553"/>более года спустя<Node id="1570"/>, <Node id="1572"/>Кэрролл сказал, что его группа преодолела 6-процентную отметку<Node id="1634"/>.
+«<Node id="1637"/>В течение только <Node id="1654"/>двух лет<Node id="1662"/> мы удвоили 3-процентный результат, — сказал Кэрролл<Node id="1714"/>. — Я ожидаю увидеть достижение более высоких чисел эффективности <Node id="1780"/>в течение следующих двух лет<Node id="1808"/>, которые могут сделать пластмассовые устройства рентабельными.» Чтобы стать коммерческой технологией, солнечные элементы должны быть в состоянии преобразовать приблизительно <Node id="1983"/>8 процентов<Node id="1994"/> энергии солнечного света в электричество. «<Node id="2038"/>Исследователи центра надеются достигнуть <Node id="2079"/>10 процентов<Node id="2091"/> в <Node id="2094"/>следующем году<Node id="2108"/>,» — сказал Кэрролл<Node id="2127"/>.
+
+Поскольку они гибкие и с ними легко работать, пластмассовые солнечные элементы могли бы использоваться как черепица крыши или сайдинг домов или включаться в традиционные фасады здания. Эти собирающие энергию устройства можно было бы использовать и в автомобилях. Так как пластмассовые солнечные элементы намного легче, чем кремниевые солнечные батареи, нет необходимости в укрепляющих конструкциях для поддержки дополнительного веса.
+
+Большая часть исследований группы Кэрролла финансируется Воздушными силами Соединенных Штатов, которых интересует создание более эффективных, легких солнечных элементов для спутников и космических кораблей. Другие члены исследовательской группы Кэрролла: Дживен Лиу (Jiwen Liu), Манодж Намбоасири (Manoj Namboothiry) и <Node id="2884"/>Кюнгконе Ким<Node id="2896"/> (Kyungkon Kim).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1654" EndNode="1662">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1780" EndNode="1808">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="2038" EndNode="2127">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="42" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="1637" EndNode="1714">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1983" EndNode="1994">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="2094" EndNode="2108">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="962" EndNode="980">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="2884" EndNode="2896">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="2079" EndNode="2091">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="247" EndNode="258">
+</Annotation>
+<Annotation Id="16" Type="высказывания_заявления" StartNode="1572" EndNode="1634">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="1572" EndNode="1634">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1553" EndNode="1570">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1054" EndNode="1057">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1637" EndNode="1714">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="2038" EndNode="2127">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

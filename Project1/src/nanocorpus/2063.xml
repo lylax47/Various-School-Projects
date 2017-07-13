@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Монгольский госуниверситет будет развивать нанотехнологииВ Монгольском государственном университете создана первая в стране лаборатория по обучению и пропаганде нанотехнологий, сообщает «Монцамэ».
+Академик <Node id="206"/>Б.Жадамбаа<Node id="216"/>, ректор МГУ «Мы планируем стать комплексной лабораторией и расширить свою деятельность. Лабораторное оборудование для МонГУ поставили Токийский технологический университет и Национальный университет Иокохама», – сказал заведующий химико-технологической кафедры профессор <Node id="488"/>Ганзориг<Node id="496"/>.
+ 
+При лаборатории работает группа «Нано» в составе 16 человек.
+
+Разделившись на подгруппы, они работают в пяти направлениях:
+ нанобиотехнологии, <Node id="643"/>наноматериалы<Node id="656"/>, энергетическая сила и ее среда, горнорудная промышленность и моделирование. 
+Они проводят, к примеру, исследование в моделировании клеток на уровне теории молекулы, изучают воздействие молекул препаратов на живые клетки человека.
+
+Кроме того, группа изучает структуру, состав и биоактивность конкретных химических соединений, дифференцированных из состава сорняковых растений.
+<Node id="1035"/>www.regnum.ru/…/964011.htmlМонгольский<Node id="1073"/> государственный университетhttp://<Node id="1108"/>www.msue.edu.mn/index.phpНу<Node id="1135"/> что ж, вот и монгольские коллеги стартовали в области нанотехнологий. Пусть пока – весьма скромное начало, пусть пока всё их лабораторное оборудование поставили Токийский технологический университет и Национальный университет Иокохама. Как говорится, хорошее начало – уже полдела. Будем надеяться на сотрудничество наших учёных и специалистов, как это было когда-то, в стародавние времена… Кстати, прекрасный сайт у Монгольского гос. университета (МГУ). Вот только, чуть-чуть обидно, на чистом монгольском языке, которого я (пока) не понимаю… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1108" EndNode="1135">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="206" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1035" EndNode="1073">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="488" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ганзориг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="643" EndNode="656">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

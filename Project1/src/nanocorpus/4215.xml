@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Углеродные нанорожки (nanohorns) могут использоваться для внутриклеточного транспорта веществ. Об этом сообщили китайские исследователи из университетов Tianjin и Nankai. Им удалось разработать простой способ выделения <Node id="220"/>наноструктур<Node id="232"/> в виде наноцветков, у которых подавлена присущая углеродным материалам нерастворимость в воде.  
+ 
+ Нанорожок является короткой одностенной <Node id="373"/>нанотрубкой<Node id="384"/> с одним открытым концом и имеющей коническую форму. Сильные ван-дер-Ваальсовые взаимодействия заставляют рожки собираться в сферические цветочки, похожие на георгины, размером менее, чем 100 нм в диаметре. 
+ 
+ Такая характерная структура дает некоторые преимущества для внутриклеточной доставки веществ, по сравнению с <Node id="704"/>наночастицами<Node id="717"/>, <Node id="719"/>наностержнями<Node id="732"/> и <Node id="735"/>нанотрубками<Node id="747"/>. У таких цветочков большая площадь поверхности и значительное число пор для впитывания и удержания терапевтических препаратов. 
+ 
+ Для формирования наногеоргинчиков исследователи растворили необработанные рожки в растворе гуммиарабика в воде и диспергировали их при помощи ультразвука. Полученные суспензии не разрушались <Node id="1070"/>в течение шести месяцев<Node id="1093"/>. Первые тесты показали, что такие суспензии биосовместимы, а нанорожки обладают хорошими транспортными свойствами. Теперь ученые исследуют, как нанорожки взаимодействуют с различными препаратами. 
+ 
+ Работа «Isolation of carbon nanohorn assemblies and their potential for intracellular delivery» была опубликована в журнале Nanotechnology. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="704" EndNode="717">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1070" EndNode="1093">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="220" EndNode="232">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="719" EndNode="732">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="735" EndNode="747">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="373" EndNode="384">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

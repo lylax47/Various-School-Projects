@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Японская компания Pentel, производитель канцтоваров и письменных принадлежностей, разработала новый тип ароматического карандашного грифеля, объединив возможности нанотехнологий и знания экспертов в области ароматерапии. Отличаясь стойким запахом, который разработан для улучшения умственной деятельности, карандашный грифель – названный «Ain supplio» - недавно выиграл престижную награду - Stationery of the Year Award (2007). 
+ 
+ Предыдущие виды ароматических грифелей быстро теряли свои качества из-за слишком тонкого ароматического слоя. Ain supplio сохраняет свои ароматические свойства значительно дольше. Его ароматические компоненты находятся в нанокапсулах (маленьких воздушных пузырьках), которые в свою очередь вкраплены в сам грифель. Малые размеры нанокапсул позволяют сохранять аромат на очень долгое время: <Node id="823"/>около 3 лет<Node id="834"/> при хранении в закрытой упаковке; <Node id="869"/>до 2 лет<Node id="877"/> при хранении в пластиковой упаковке; <Node id="915"/>более 3 месяцев<Node id="930"/> на открытом воздухе. 
+ 
+ Ориентировочная цена новинки - 210 йен (<Node id="996"/>менее 2 долларов<Node id="1012"/>). Выпускается три вида Ain supplio – Освежающий, Целебный и Позитивный – результаты работы экспертов в области ароматерапии с розмарином, мятой, лимонным сорго и зелёным чаем. Запах этих ароматических смесей поддерживает способность к обучению. В Pentel надеются, что их изобретение привлечет внимание всех студентов. Ain supplio поступит в продажу в <Node id="1364"/>сентябре<Node id="1372"/>, как раз к началу осеннего <Node id="1400"/>семестра<Node id="1408"/>. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="915" EndNode="930">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="823" EndNode="834">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1364" EndNode="1372">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1400" EndNode="1408">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="869" EndNode="877">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="996" EndNode="1012">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

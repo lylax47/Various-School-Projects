@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Сайт "Нанометр" и администрация факультета наук о материалах МГУ объявляет конкурс на лучшую эмблему Интернет-олимпиады <Node id="122"/>2008 г.<Node id="129"/>
+ 
+Мы размещаем "затравочную" эмблему, которая пока не является идеалом. В конкурсе может участвовать любой зарегистрированный пользователь сайта. Если Вы - гость сайта, пожалуйста, зарегистрируйтесь. 
+ 
+Победитель (или его родители, если он несовершеннолетний) получит денежный приз <Node id="413"/>5000 руб.<Node id="422"/> от частного спонсора, а его имя (победителя, а не спонсора) будет упоминаться в рекламных и официальных материалах олимпиады как автора эмблемы. 
+ Обязательные условия 
+Конкурсные работы должны удовлетворять следующим требованиям:
+   Работа должна быть Вашей (плагиат и воровство - это плохо)   На конкурс принимаются работы в формате JPG, PNG или GIF   Размер файла не более 50 Мб   Размер иллюстрации не менее 500 пикселей по короткой стороне   Пожелания  Желательно, чтобы новая эмблема наследовала черты эмблемы предыдущей Олимпиады, а также содержала элементы эмблемы сайта "Нанометр".  Желательно включить в эмблему гнома и название e-Nanos'08 (или e-nannos'08).   В поле "комментарии", при добавлении работы, желательно поместить краткое описание картинки, включая пояснение ее основных элементов или идеи взаимосвязи именно тех элементов, которые выбрал автор.   
+Лозунг олимпиады (Нанотехнологии – прорыв в будущее!) можно изменить или придумать новый. Не рекомендуется использовать сочетания, уже запатентованные теми или иными организациями.
+ График проведения конкурса   объявление о конкурсе - <Node id="1530"/>5 февраля<Node id="1539"/>   начало приема работ - <Node id="1564"/>13 февраля<Node id="1574"/>   окончание приема работ - <Node id="1602"/>20 февраля<Node id="1612"/>   начало голосования и оценки работ - <Node id="1651"/>21 февраля<Node id="1661"/>,   окончание голосования - <Node id="1689"/>25 февраля<Node id="1699"/>,   подведение итогов - <Node id="1723"/>26 февраля<Node id="1733"/>.   
+PS: для публичного просмотра все работы, прошедшие утверждение редактором, станут доступны с <Node id="1831"/>21 февраля<Node id="1841"/>. До этого каждый автор будет видеть только свои работы, которые прошли одобрение редактора.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1530" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="413" EndNode="422">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1831" EndNode="1841">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1602" EndNode="1612">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="122" EndNode="129">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1564" EndNode="1574">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1689" EndNode="1699">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1651" EndNode="1661">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1723" EndNode="1733">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

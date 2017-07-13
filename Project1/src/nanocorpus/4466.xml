@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В то время как радиоэлектронная промышленность развивается бурными темпами, производители и разработчики ищут новые решения проблемы отвода тепла от работающих микрочипов. Результаты нового исследования, опубликованные в журнале Applied Physics Letters, говорят о том, что <Node id="274"/>углеродные <Node id="285"/>нанотрубки<Node id="295"/>, возможно, скоро будут использоваться в микросхемах сотовых телефонов, цифровых аудиоплееров и электронных органайзеров в качестве охлаждающих элементов, что поможет избавиться от сбоев в работе оборудования из-за теплового разрушения. 
+Чипы, использующиеся в электронных устройствах, выделяют тепло в процессе работы. Для отведения тепла от чипов используются радиаторы, изготовленные из металлов с высоким коэффициентом теплопроводности, таких как алюминий или медь.
+ Исследователи Ренсселеровского политехнического института (Rensselaer Polytechnic Institute) и Университета Оулу в Финляндии (University of Oulu in Finland) показали, что микроструктуры из массивов <Node id="964"/>нанотрубок<Node id="974"/>, применяемые для охлаждения кремниевых чипов, могут рассеивать тепло так же эффективно, как и тяжелые и дорогостоящие медные радиаторы. Однако <Node id="1118"/>нанотрубки<Node id="1128"/> являются более устойчивыми к пластическим деформациям и в 10 раз легче любого другого материала, использующегося для охлаждения. «<Node id="1259"/>Так как устройства продолжают уменьшаться в своих размерах, то растет потребность в соответствующем охлаждающем оборудовании, - заявил Роберт Вайтэй<Node id="1407"/> (Robert Vajtai), научный сотрудник Центра нанотехнологий и автор статьи. - <Node id="1483"/>Углеродные <Node id="1494"/>нанотрубки<Node id="1504"/>, однако, сохраняют впечатляюще высокую прочность, малый вес и отличную проводимость, так что использование данного материала для охлаждения микрочипов очень привлекательно». Исследователи разработали простой и удобный метод для нанесения структуры из <Node id="1756"/>нанотрубок<Node id="1766"/> на кристалл чипа. Сначала была синтезирована тонкая плёнка, состоящая из многослойных <Node id="1853"/>углеродных <Node id="1864"/>нанотрубок<Node id="1874"/> длиной 1,2 мм. <Node id="1890"/>Нанотрубки<Node id="1900"/> были выращены на Si/SiO2 подложке, а затем отделены от неё. После обработки лазером плёнка превратилась в игольчатый радиатор с массивом 10x10 рёбер. Нижняя часть радиатора была присоединена к задней части охлаждаемого чипа, смонтированного на кремниевой подложке. По словам учёных, описанный метод использует традиционные методы производства, что обеспечивает простую методику переноса и интегрирования массивов <Node id="2314"/>нанотрубок<Node id="2324"/> на кремниевые подложки, используемые в электронных микросхемах. По сравнению с чипом без охлаждения на охлаждаемом чипе рассеялось на <Node id="2459"/>11%<Node id="2462"/> больше энергии. При обдуве газом азотом, охлаждение с помощью <Node id="2525"/>нанотрубок<Node id="2535"/> было эффективнее на <Node id="2556"/>19%<Node id="2559"/>. "Эти цифры соответствуют охлаждению с помощью металлических радиаторов и демонстрируют возможности применения <Node id="2671"/>нанотрубок<Node id="2681"/> для охлаждения микроэлектронных устройств," – сообщил Вайтэй.  Исследователи продолжают изучать различные пути дальнейшей оптимизации применения <Node id="2827"/>нанотрубок<Node id="2837"/> для охлаждении путем улучшения контакта между чипом и <Node id="2892"/>нанотрубками<Node id="2904"/>, увеличения площади контакта и улучшения геометрии массива <Node id="2964"/>нанотрубок<Node id="2974"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="2459" EndNode="2462">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="2556" EndNode="2559">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1890" EndNode="1900">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2827" EndNode="2837">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="1853" EndNode="1874">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="1259" EndNode="1407">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="2525" EndNode="2535">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1756" EndNode="1766">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="964" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="285" EndNode="295">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="1259" EndNode="1407">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="2964" EndNode="2974">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="2671" EndNode="2681">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Углеродная+нанотрубка" StartNode="1483" EndNode="1504">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="2314" EndNode="2324">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="1118" EndNode="1128">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="1494" EndNode="1504">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="2892" EndNode="2904">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="1864" EndNode="1874">
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Углеродная+нанотрубка" StartNode="274" EndNode="295">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

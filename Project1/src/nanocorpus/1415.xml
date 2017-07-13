@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Роснанотех ощущает нехватку разработок мирового уровня и команд для их коммерциализацииУправляющий директор госкорпорации «Роснанотехнологии» <Node id="142"/>Константин Деметриу считает, что <Node id="175"/>на российском рынке нанотехнологий не хватает достаточно качественных разработок и команд, способных внедрять научные разработки в производство, сообщает информационное агентство «Интерфакс-Сибирь»<Node id="372"/>.
+ 
+«Мы уже <Node id="384"/>год<Node id="387"/> действуем на этом рынке (рынке нанотехнологий – ИФ). Возникло ощущение, что даже несмотря на кризис, вопрос финансирования – не в количестве денег, а в количестве разработок, которые (…) можно считать разработками мирового или околомирового класса», – сказал он в пятницу в Томске в ходе заседания круглого стола в рамках XI Инновационного форума с международным участием.
+ 
+По словам <Node id="773"/>К. Деметриу<Node id="784"/>, ГК «Роснанотехнологии» была создана как финансовый институт развития и, фактически, венчурный фонд. При создании госкорпорации ее целью были «стимуляция и развитие всех разработок и всей продукции, которая имеет отношение, основана на нанотехнологии».
+ 
+«Основная наша деятельность состоит в том, что мы рассматриваем, выбираем проекты, которые можно в перспективе финансировать, развивать и которые будут выполнять задачи вывода на определенный уровень продукции в <Node id="1252"/>2015 году<Node id="1261"/>», – уточнил <Node id="1274"/>К. Деметриу<Node id="1285"/>.
+ 
+При этом, по его словам, пока госкорпорация не видит «огромного количества частных соинвесторов, которые готовы вложиться в венчурные проекты на такой срок».
+ 
+«Мы также не видим огромного количества бизнесменов, которые сами инвестировали на более начальной стадии (стадии научные разработки – ИФ). А это критично, потому что научная разработка без людей из бизнеса, которые могут ее продвигать, – она просто не может жить», – добавил <Node id="1725"/>К. Деметриу<Node id="1736"/>.
+ <Node id="1739"/>http://obzor.westsib.ru/news/263587Ну<Node id="1776"/> что ж, надо подтягивать тылы. Или, может быть, стОит несколько «подкорректировать» слишком высокие критерии «Роснанотеха»?.. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="142" EndNode="372">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="175" EndNode="372">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="142" EndNode="372">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1725" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="773" EndNode="784">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="384" EndNode="387">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1274" EndNode="1285">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="142" EndNode="372">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="142" EndNode="372">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="175" EndNode="372">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="1739" EndNode="1776">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1252" EndNode="1261">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1252" EndNode="1261">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Samsung Electronics Co., Ltd. приглашает аспирантов ведущих вузов страны (технических и физико-математических специальностей) на летнюю стажировку в исследовательских центрах компании в Южной Корее. Период стажировки составляет <Node id="229"/>1 месяц<Node id="236"/> (<Node id="238"/>июль – август 2008 года<Node id="261"/>). Участнику стажировки выплачивается денежная компенсация (в размере <Node id="331"/>примерно 1200 долларов<Node id="353"/> США в <Node id="360"/>месяц<Node id="365"/>), оформляется виза, оплачивается перелет между странами, предоставляется жилье, оформляется страховка, а также в рабочие <Node id="487"/>дни<Node id="490"/> обеспечиваются корпоративные обеды. 
+ 
+Во время стажировки участнику будет необходимо работать над проектом, причем эксперты компании будут оценивать его профессиональные знания. После успешного прохождения стажировки участник сможет получить предложение о работе в исследовательском центре компании Samsung Electronics в Южной Корее или России (период контракта 1 – <Node id="858"/>2 года<Node id="864"/>). 
+ 
+Также во время стажировки участник сможет познакомиться с культурой Южной Кореи и с особенностями работы в Исследовательских центрах компании Samsung Electronics. 
+ Особый интерес представляют следующие направления:  Полупроводниковая физика, полупроводниковые устройства, проектирование чипов памяти, схемотехника, системотехника (DRAM, SRAM, NOR/NAND, FRAM, PRAM, PCB, CAE, TCAD, QA, SQA, WBI, HW / SW Design, Driver, USB, HDD, CMOS, ASIC, DSP, SOC, Sensor, Set-Top Box, RTOS, Embedded Software, System Architecture, Digital / Analog Circuit Design, Bus Architecture, SoC Architecture, RTL Design, EMI / EMC)  Радиоэлектроника, телекоммуникационные системы, системы приема-передачи информации, беспроводные системы (CDMA, GPRS, GPS, UMTS, RF IC, ASIC, DSP, PLL Synthesizer, RSSI Control, UI, C++, Java, Bluetooth, MIMO, OFDM / OFDMA, SDR, Modem, WiBRO, IP, IPv6, ASIC, UWB, W-LAN, QoS, MPLS, Routing, MAC, Embedded Linux, VoIP, IAD, Network, Signal Processing, G-MAP, AAL2, Smart Antenna, Circuit Design)  Дисплейные и мультимедийные технологии, квантово-оптические системы, оптоэлектроника, обработка 3D-изображений, принтерные технологии (PDP, CRT, LCD, Circuit Design, TV Signal Processing, Optics Engineering, 3D Display, <Node id="2098"/>OLED<Node id="2102"/>, Micro Display, Optical System, Video Codec [H.264, MPEG-x], Image Codec [JPEG], Audio Codec (Dolby, etc.), MPV, Resolution / Image Enhancement, Media Content Description, EP Process, EP Mechanism, Toner Development, Printing Roller, OPC, Scan System)  Прикладная математика, разработка алгоритмов, встроенное программирование, цифровая обработка сигналов (ЦОС), обработка изображений, информационная безопасность (Embedded SW, Embedded Linux, Device Driver, DTV Middleware, DASE, OCAP, MHP, Security, DRM, Copy Protection, JVM, Window Application, Embedded Window System(3D), Wireless Protocol, Wireless Streaming, XML, PVR, EPG, User Interface, DRM, CAD / CAE Solutions, OOAD, CMMI, CBD, SW Engineering, APC, CTC)   
+ 
+Требования к кандидатам:  Обучение аспирантуре по одному из указанных выше направлений  Возможность представить справку из отдела аспирантуры и докторантуры  Знание английского языка   Вакансии / Vacancy    Инженер (Engineer)   Математик (Mathematician)   Программист (SW Developer)   Физик (Physicist)   
+Для подачи заявки необходимо составить на АНГЛИЙСКОМ ЯЗЫКЕ развернутое резюме (личные данные, образование, опыт работы) и направить егодо <Node id="3268"/>20 апреля 2008 года<Node id="3287"/> по адресу: Career@samsung.ruс темой письма “Internship Resume”. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="360" EndNode="365">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="229" EndNode="236">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="238" EndNode="261">
+</Annotation>
+<Annotation Id="3" Type="Органический+светодиод" StartNode="2098" EndNode="2102">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="331" EndNode="353">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="3268" EndNode="3287">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="487" EndNode="490">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="858" EndNode="864">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

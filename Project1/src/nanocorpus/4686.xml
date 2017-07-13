@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Появится сайт по использованию нанотехнологийИнтернет-портал, где любой желающий сможет моделировать собственные изобретения с использованием нанотехнологий, появится в Рунете <Node id="176"/>летом этого года<Node id="192"/>. Об этом <Node id="202"/>12 марта<Node id="210"/> сообщает ИТАР-ТАСС.
+Радий Михайлович Кадушников
+Об этом сообщил директор Института компьютерного моделирования и анализа данных Уральского государственного технического университета Радий Кадушников<Node id="409"/>,<Node id="410"/> выступая на 1-й Всероссийской конференции «Многомасштабное моделирование процессов и структур в нанотехнологиях».
+
+Он уточнил, что
+ 
+«в <Node id="547"/>настоящее время<Node id="562"/> интернет-наноресурс, позволяющий запускать различные автоматизированные программы, функционирует на базе Московского инженерно-физического института (МИФИ) в тестовом режиме, но уже в <Node id="747"/>июле<Node id="751"/> нанопортал будет доступен любому пользователю, как в России, так и за ее пределами».
+ 
+По мнению экспертов, создание такой общедоступной интернет-платформы поможет реализации Федеральной целевой программы «Развитие инфраструктуры нанотехнологий в РФ».
+ 
+«<Node id="1007"/>Подобная платформа уже есть в США, но она доступна только американским пользователям<Node id="1091"/>», – добавил Кадушников<Node id="1114"/>.
+ <Node id="1117"/>http://www.kommersant.ru/news-y.aspx?…УГТУ-УПИhttp://ustu.ru/МИФИhttp://www.mephi.ru/Пока<Node id="1206"/> малопонятное нововведение, но, очевидно, дело хорошее. Дождёмся, когда откроется сам портал и будут даны пояснения по его использованию…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="547" EndNode="562">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="409" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="1007" EndNode="1114">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="202" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="1007" EndNode="1114">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="1007" EndNode="1114">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1117" EndNode="1206">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="1007" EndNode="1091">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="1007" EndNode="1114">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="1007" EndNode="1091">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="409" EndNode="410">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="176" EndNode="192">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="747" EndNode="751">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

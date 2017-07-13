@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>    Почему <Node id="11"/>наночастицы<Node id="22"/> размером менее 5 нм не содержат в объеме структурных дефектов? (1 балл)   Чем объяснить, что нестабильные в объемном состоянии кристаллические модификации твердых тел оказываются стабильными в нанодисперсных образцах тождественного химического состава (1 балл)   Почему примесь ионов иода по-разному распределяется в объемных образцах бромида серебра и в <Node id="378"/>нанопорошках<Node id="390"/> тождественного состава? (1 балл)   Почему очень малые по размеру <Node id="456"/>наночастицы<Node id="467"/> золота<Node id="474"/> в отличие от объемных образцов проявляют полупроводниковые свойства? (2 балла)   Установлено, что интенсивность люминесценции <Node id="601"/>нанокристаллов<Node id="615"/> селенида кадмия резко уменьшается в результате адсорбции даже ничтожного количества (порядка 10-7 моль) цианид–ионов. Почему это происходит? (1 балл) Как можно практически использовать этот феномен? (1 балл)   Представим себе, что радиоактивный элемент имеет период полураспада, равный <Node id="902"/>одному году<Node id="913"/>. Сколько элементарных актов распада будет иметь место в <Node id="970"/>наночастице<Node id="981"/> этого элемента в течение одних <Node id="1013"/>суток<Node id="1018"/> (сколько времени потребуется на осуществление одного элементарного акта распада в <Node id="1101"/>наночастице<Node id="1112"/> диаметром 1 нм) и каков должен быть объем гомеопатического препарата (радионуклидная гомеопатия), имеющего ту же частоту радиоактивного распада? (2 балла)   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица+золота" StartNode="456" EndNode="474">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="11" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1013" EndNode="1018">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1101" EndNode="1112">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="456" EndNode="467">
+</Annotation>
+<Annotation Id="5" Type="Нанопорошок" StartNode="378" EndNode="390">
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="601" EndNode="615">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="970" EndNode="981">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="902" EndNode="913">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

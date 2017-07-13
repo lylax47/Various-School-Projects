@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>29–30 сентября<Node id="15"/> в Вене, Австрия будет проходить Вторая международная конференция Nanosens 2008 (29–30 September 2008 at Tech Gate Vienna, Austria)
+
+Конференция посвящена новейшим разработкам <Node id="191"/>наносенсоров<Node id="203"/> для применения в биологии и медицине. Конференция должна стать информационным и дискуссионным форумом, представляющим результаты последних научно-исследовательских и конструкторских разработок в четырех избранных областях с наивысшим потенциалом применения в промышленности: многофункциональные чипы (lab-on-a-chip); НЭМС (наноэлектромеханические системы); функционализированные поверности и <Node id="596"/>биосенсоры<Node id="606"/>; нанообъекты в био-медицине. Конференция представляет болшой интерес для промышленников, ученых и передовых студентов.
+
+Организаторы сообщают, что презентация постеров продлена до <Node id="787"/>20 сентября<Node id="798"/>. Программу конференции и дополнительную информацию можно получить на сайте: (<Node id="876"/>http://www.nanosens.at/)<Node id="900"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1" EndNode="15">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="876" EndNode="900">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="787" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="191" EndNode="203">
+</Annotation>
+<Annotation Id="4" Type="Биосенсор" StartNode="596" EndNode="606">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Первый гибридный Saab появится в 2010 годуПроизводство первого гибридного автомобиля Saab стартует в <Node id="101"/>2010 году<Node id="110"/>, заявил глава шведской компании Йан <Node id="147"/>Эйк Йонссон<Node id="158"/>.
+
+Пилотным автомобилем станет компактная модель 9–1, которая, по заявлению автопроизводителя, будет позиционироваться в сегменте компактных хэтчбеков премиум класса, как BMW 1 series и Audi A3.
+
+Новинка позаимствует многие черты у концепта Saab Aero-X.
+
+Автомобиль будет комплектоваться той же гибридной системой, которой оснащается новый Opel Astra. Saab 9–1 получит электромотор и литиевые батареи на основе новых нанотехнологий.
+<Node id="591"/>http://saint-petersburg.ru/m/213147/Первый<Node id="633"/> серийный гибрид Saab появится через три годаКомпания Saab планирует в <Node id="704"/>2010 году<Node id="713"/> запустить в серийное производство свой первый гибридный автомобиль, который будет создан на базе нового компактного автомобиля, получившего название 9–1. Об этом сообщает немецкое издание Automobilwoche со ссылкой на собственные источники внутри шведской корпорации.
+
+По информации издания, гибридная версия модели 9–1, которая, как ожидается, будет построена на платформе Opel Astra нового поколения, станет оснащаться силовой установкой, сочетающей в себе дизельный двигатель и электромотор, питающийся от литиевых батарей. В <Node id="1242"/>настоящее время<Node id="1257"/> первые прототипы этого автомобиля уже проходят испытания, а серийная версия такого гибрида первоначально будет продаваться только в США.
+
+Напомним, что информацию о намерении Saab разработать компактный автомобиль 9–1 подтвердил руководитель шведской корпорации Ян Оке <Node id="1527"/>Йонссон<Node id="1534"/> (Jan Ake Jonsson). Детальная информация об этой машине пока не раскрывается, известно лишь, что внешность 9–1 будет создаваться в стиле концепт-кара Aero-X. Ожидается, что конкуренцию новинка составит BMW 1-Series, Audi A3 и Volvo C30.
+<Node id="1771"/>http://auto.lenta.ru<Node id="1791"/>/…/10/01/saab/Да, литиевые батареи на основе новых нанотехнологий – это круто! Возможно, это направление и позволит сделать прорыв в массовом появлении электромобилей на дорогах Земли…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="591" EndNode="633">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="101" EndNode="110">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="147" EndNode="158">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Йонссон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1242" EndNode="1257">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1527" EndNode="1534">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Й.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Йонссон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1771" EndNode="1791">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="704" EndNode="713">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="704" EndNode="713">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="101" EndNode="110">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

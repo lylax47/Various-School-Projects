@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Большинство современных электроприборов не могут обойтись без проводов и кабелей. А различным наноустройствам очень пригодятся нанопровода и нанокабели. Поэтому разработка одномерных проводников является важным направлением нанотехнологий.
+
+Китайские исследователи предложили простой метод синтеза нанокабелей из силицида титана TiSi2. Этот важный материал обладает отличной электропроводностью и стабильностью при высоких температурах и может оказаться полезен для создания электрических наноцепей.
+
+Кабели TiSi2 формируются в процессе <Node id="538"/>физического осаждения<Node id="559"/> из паровой фазы (PVD). Для синтеза используется титановая пудра и кремниевая пластина. Реакция протекает в токе аргона при 800°С. Длина полученных нанопроводов составляет около 10 мкм, а диаметр варьируется в интервале 50–300 нм. При ближайшем рассмотрении оказалось, что провода имеют монокристаллическую сердцевину из TiSi2 и аморфную оболочку из SiO2 толщиной 10 нм. По-видимому, их формирование протекает по реакции Ti+Si+O2→TiSi2(кр)+SiO2(ам).
+
+Электрические свойства оболочки проводов были исследованы при помощи атомно-силового микроскопа. Она оказалась хорошим изолятором, выдерживающим напряжения до 10 В.
+
+Для измерения проводимости сердцевины к проводам были приделаны платиновые электроды при помощи сфокусированного ионного пучка (FIB deposition). При этом часть изолирующей оболочки стравливалась. Зависимость I(U) оказалась линейной, рассчитанное удельное сопротивление провода составило 5.3×10-6 <Node id="1472"/>Ом<Node id="1474"/> м. Максимальная плотность тока достигает 3.1×1011 А/м2, что на пять порядков больше, чем у меди, и сравнимо с плотностью тока в <Node id="1603"/>углеродных <Node id="1614"/>нанотрубках<Node id="1625"/>.
+
+Работа Synthesis and electrical properties of TiSi2 nanocables опубликована в журнале Applied Physics Letters.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1614" EndNode="1625">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="1603" EndNode="1625">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1472" EndNode="1474">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Физическое+осаждение" StartNode="538" EndNode="559">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

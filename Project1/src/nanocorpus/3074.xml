@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Фотоника на кристаллах кремния сделала еще один шаг вперед- разработчики из IBM продемонстрировали светоизлучающие <Node id="116"/>нанотрубки<Node id="126"/> (light-emitting nanotubes – LENs) с электрическим контролем спектра излучения, направления и эффективности излучения.
+
+Разработчики из Корпоративного исследовательского центра компании IBM (IBM Corp.'s Thomas J. Watson Research Center) некоторое время назад разработали рекордные кремниевые световоды и LENs c эффективностью электролюминесценции, более высокой, чем у <Node id="495"/>светоизлучающих диодов<Node id="517"/> (LEDs). Теперь они поместили LEN внутрь оптического волновода с целью получения направленного излучения поверхности, селекции длин волн, а также потенциально возможной более высокой эффективности излучения.
+
+Как и большинство светоизлучающих устройств, <Node id="771"/>нанотрубки<Node id="781"/> излучают свет во всех направлениях. Спектр их излучения был очень широк, а их эффективность была достаточно низка. Cпециалисты IBM переработали конструкцию LENs так, что излучение имеет достаточно узкую направленность и может быть соединено с оптическим фильтром или световодом. Спектр излучения контролируется с помощью оптического резонатора. Для повышения эффективности излучательной способности была разработана специальная теория, которая теперь будет реализована в конструкции.
+
+Излучение из поверностного слоя было получено путем сочетания полевого транзистора на одиночной <Node id="1363"/>нанотрубке<Node id="1373"/> с парой металлических зеркал сверху и снизу от <Node id="1421"/>нанотрубки<Node id="1431"/>, которая ровно позиционирована на кремниевом чипе. Нижнее зеркало изготовлено из серебра, а верхнее, полупрозрачное зеркало, из золота. Свет из <Node id="1576"/>нанотрубке<Node id="1586"/> испускается в резонатор, наполненный прозрачным диэлектриком.
+
+Расчеты показали, что расстояние между верхним и нижним зеркалами должно быть равно половине желаемой длины волны. В данном случае, длина волны определялась условием применения устройства в коммуникационных целях и была установлена как 1,55 мкм. Пучок излучения, отраженный от дна резонатора, попадает на верхнее (полупрозрачное зеркало ), где половина пучка излучается, а вторая половина отражается обратно, в сторону нижнего зеркала и усиливает излучение той длины волны, под которую настроен резонатор.
+
+Таким образом, излучение из резонатора ограничено двумя зеркалами, и пучок излучения формирует стоячую волну между зеркалами, что усиливает излучение с длиной волны равной половине длины резонатора. Для формирования резонатора разработчики использовали <Node id="2410"/>литографию<Node id="2420"/>; применение резонатора существенно повысило однородность спектра выходящего излучения, ширина которого составляет только <Node id="2542"/>10%<Node id="2545"/> ширины спектра излучения LEN без резонатора; при этом излучательная способность LEN (эффективность излучения) выросла на <Node id="2667"/>400%<Node id="2671"/>.
+
+Различные <Node id="2684"/>нанотрубки<Node id="2694"/> имеют слегка разные диаметры. В данном случае отмечен разброс диаметров в 2 нм. Как результат, разные <Node id="2797"/>нанотрубки<Node id="2807"/> имеют запрещенные зоны, отличающиеся по ширине, и соответственно слегка отличающиеся длины волн испущенного излучения. Тем не менее, заключение <Node id="2952"/>нанотрубки<Node id="2962"/> в резонатор позволяет ограничить спектр излучения и исключить нежелательные частоты, и, по мнению авторов, выравнивает частоту излучения (длину волны) для <Node id="3118"/>нанотрубок<Node id="3128"/> разного диаметра.
+
+Исследователи IBM планируют в будущем повысить эффективность излучателей на <Node id="3224"/>нанотрубках<Node id="3235"/> путем снижения потерь на тепло, а также объединяя и выравнивая <Node id="3299"/>нанотрубки<Node id="3309"/> в сверхрешетки, что позволит изготавливать матрицы LENs в будущих кремниевых оптико-электронных чипах
+
+Дополнительная информация:
+ <Node id="3441"/>http://www.eetimes.com/…rticle.jhtml?…<Node id="3479"/> <Node id="3480"/>http://www.planetanalog.com/…rticle.jhtml?…<Node id="3523"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="1363" EndNode="1373">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="116" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="3299" EndNode="3309">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="771" EndNode="781">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1421" EndNode="1431">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2797" EndNode="2807">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="2667" EndNode="2671">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="2542" EndNode="2545">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="3118" EndNode="3128">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1576" EndNode="1586">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="3224" EndNode="3235">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Светодиод" StartNode="495" EndNode="517">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="3441" EndNode="3479">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="2952" EndNode="2962">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Литография" StartNode="2410" EndNode="2420">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="2684" EndNode="2694">
+</Annotation>
+<Annotation Id="24" Type="Url" StartNode="3480" EndNode="3523">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

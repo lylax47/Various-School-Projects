@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В Ивановском институте химии растворов РАН состоялось расширенное выездное заседание семинара «Фторполимерные материалы и нанотехнологии».
+
+На семинаре был рассмотрен ряд исследований по использованию высоко- и низкомолекулярных фторполимеров и газообразного фтора для придания синтетическим и волокнистым материалам специальных потребительских свойств.
+
+В работе семинара приняли участие ведущие ивановские химики и физикохимики из ИХР РАН, ИГТА, ИГХТА, ИГАСУ, которые проводят исследования в области текстильных материалов, а также ученые из Москвы, Кировочепецка и <Node id="569"/>города Черноголовка Московской области<Node id="607"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="расположение" StartNode="569" EndNode="607">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

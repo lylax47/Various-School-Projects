@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Собрание учредило НОРУчредительное собрание Нанотехнологического общества Российской Федерации состоялось <Node id="106"/>8 октября 2008 г.<Node id="123"/> и инициировало процедуру юридического оформления этой новой общественной организации.
+ Место проведения мероприятия:
+Бизнес-центр «Центрального Дома Туриста»
+На собрании присутствовало около 90 человек, были обсуждены вопросы структуры, коллективного членства, партнеров (в <Node id="398"/>настоящий момент<Node id="414"/> ГК «Роснанотех» и группа «ОНЭКСИМ») НОР и выбраны органы самоуправления.
+
+В оргкомитет учредительного собрания поступили заявки на членство в НОР от 46 субъектов РФ, в связи с чем НОР может по праву считаться Всероссийской организацией.
+Поздравление от коллег
+Начался также процесс оформления документов по созданию НОР в качестве общественной организации и объявлено о начале конкурса на эмблему НОР.
+
+Были избраны члены центрального правления НОР, его руководители. Первым президентом Общества был избран академик Юрий Дмитириевич Третьяков.
+<Node id="959"/>http://www.nanometer.ru/…r_54159.htmlМы<Node id="998"/> тоже от всей души поздравляем «новонарождённую» общественную организацию и желаем ей всего самого доброго, многих успехов и достижений на её славном и благородном пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="398" EndNode="414">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="959" EndNode="998">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="106" EndNode="123">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

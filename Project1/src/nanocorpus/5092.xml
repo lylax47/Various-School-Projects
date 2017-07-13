@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Специалистам из лаборатории профессора Абрахама Шанцера (Abraham Shanzer) из института Вейцмана, США, удалось разработать миниатюрную версию блокирующего устройства - "защёлки". Оно представляет собой молекулу, состоящую из двух флуоресцентных частей, которые разделенны мостиком, способным связывать атомы железа, сообщает EurekAlert. 
+ 
+Флуоресцентные участки излучают, соответственно, зелёный и синий свет только при наличии в окружающей среде определенных условий, а именно: ионов железа, ультрафиолета, кислот и оснований. «Защёлка» срабатывает только при совпадении всех «условий». 
+ 
+Теперь проф. Шанцер и <Node id="615"/>его<Node id="618"/> коллеги работают над созданием молекулярного «кодового замка» - то есть молекулы, которая распознавала бы последовательности сигналов, поступающих от окружающей среды. И если это последовательность «ионы железа-щелочь-кислота» (1-2-3), а не «кислота-щелочь-ионы железа» (3-2-1), то молекулярный замок должен сработать в первом случае, и не сработать во втором. 
+ 
+Ученые надеются, что на основе подобных молекулярных устройств им удастся создать новый тип молекулярной логики.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="615" EndNode="618">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

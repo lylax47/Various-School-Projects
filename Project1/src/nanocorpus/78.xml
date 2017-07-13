@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Химики из Стенфордского Университета (Stanford University) разработали новый тип нанотранзистора. Основа полупроводникового прибора – графеновая полоска.
+
+<Node id="156"/>Графен<Node id="162"/> достаточно часто используется в наноэлектронике. И все большее количество ученых говорит о его важной роли в электронике будущего. Малые размеры нанотранзисторов позволят достичь их плотной упаковки в чипах, что, естественно, в очередной раз может привести к миниатюризации электронных компонентов.
+
+<Node id="463"/>Графен<Node id="469"/> сегодня как никогда актуален на фоне прогнозов о застое кремниевой микроэлектроники в <Node id="556"/>следующем десятилетии<Node id="577"/>. Вполне возможно, что именно этот <Node id="612"/>наноматериал<Node id="624"/> сможет продлить действие закона <Node id="657"/>Мура<Node id="661"/> об удвоении вычислительной мощности каждый <Node id="705"/>год<Node id="708"/>.
+
+Команда исследователей во главе с <Node id="745"/>Хонджи Даи<Node id="755"/> (Hongjie Dai) для начала создали полевой транзистор, работоспособный при комнатной температуре.
+
+Напомним, что предыдущие эксперименты ученых с графеновыми транзисторами заканчивались созданием наноустройств, для которых необходимо было поддерживать температуру около 4 К (или около –269° С), что, естественно, недопустимо для применения в широко распространенной электронике.
+
+Теперь, похоже, перед <Node id="1156"/>графеном<Node id="1164"/> официально открылись двери в «большую микроэлектронику».
+
+Ширина основы нанотранзистора – графеновой ленты – всего 10 нанометров. Она крепится платиновыми электродами к основе из оксида кремния – SiO__2__.
+
+Транзистор показал достаточно удовлетворительные характеристики в ряде исследований, однако основные испытания неаноустройства еще впереди – ученые хотят детально изучить полупроводниковые свойства <Node id="1570"/>графена<Node id="1577"/>.
+
+Сам же Дай пока трезво относится к полученным результатам – по его словам, графеновую наноэлектронику мы увидим не раньше <Node id="1702"/>середины следующей декады<Node id="1727"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="556" EndNode="577">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="1156" EndNode="1164">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="612" EndNode="624">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="745" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Дая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="705" EndNode="708">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="156" EndNode="162">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1702" EndNode="1727">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="657" EndNode="661">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мур</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="1570" EndNode="1577">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="463" EndNode="469">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

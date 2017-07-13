@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Председатель правительства РФ В.А.Зубков<Node id="40"/> <Node id="41"/>подписал распоряжение о назначении Х.Д.Чеченова членом наблюдательного советаПредседатель правительства Российской Федерации В.А.Зубков подписал <Node id="186"/>27 февраля 2008 года<Node id="206"/> распоряжение о прекращении полномочий члена наблюдательного совета ГК «Роснанотех» В.Е.Шудегова. Этим же распоряжением В. А. Зубков назначил на основании представления Совета Федерации РФ членом наблюдательного совета корпорации Х.Д.Чеченова.
+Чеченов Хусейн Джабраилович, возглавляющий комитет Совета Федерации по образованию и науке, является одним из двух представителей верхней палаты парламента РФ в наблюдательном совете Корпорации в соответствии с федеральным законом №139-ФЗ от <Node id="692"/>19 июля 2007 года<Node id="709"/> «О российской корпорации нанотехнологий».
+Виктор Евграфович Шудегов, ранее возглавлявший комитет Совета Федерации по науке, культуре, образованию, здравоохранению и экологии, ныне является заместителем председателя комитета Государственной Думы V созыва по образованию, в связи с чем уже не может представлять Совет Федерации в наблюдательном совете ГК «Роснанотех».
+<Node id="1077"/>http://www.rusnanotekh.ru/default.aspНу<Node id="1116"/> да, вполне естественно: Виктора Шудегова теперь повысили, и он уже по статусу не может представлять Совет Федерации в наблюдательном совете ГК «Роснанотех». А Хусейн Чеченов недавно принимал участие в обсуждении проблем стимулирования инновационной деятельности <Node id="1379"/>http://www.nanonewsnet.ru/…novovvedenii.<Node id="1419"/> Так что он уже знаком с основными проблемами развития высоких технологий в нашей стране…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="40" EndNode="41">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="40" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="692" EndNode="709">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Url" StartNode="1379" EndNode="1419">
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Url" StartNode="1077" EndNode="1116">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Дата" StartNode="186" EndNode="206">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

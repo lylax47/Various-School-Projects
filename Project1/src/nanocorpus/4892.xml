@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На территории компании BudgetSensors (София), болгарского изготовителя кремниевых и кремний-нитридных датчиков и других аксессуаров для атомно-силовых микроскопов (АСМ) [Atomic Force Microscopes (<Node id="196"/>AFM<Node id="199"/>)], открылся первый в стране Центр нанотехнологий.
+BudgetSensors <Node id="264"/>AFM<Node id="267"/> probes
+Оборудованный по последнему слову техники, он располагает АСМ от различных производителей, а также другими видами контрольно-измерительного, испытательного и производственного оборудования.
+
+Возглавит Центр д-р <Node id="486"/>Йордан Стефанов<Node id="501"/>, который до поступления на фирму BudgetSensors в <Node id="551"/>2006 году<Node id="560"/> с отличием кончил физический факультет Софийского университета и получил степень доктора философии в Дармштадтском университете (Германия).
+<Node id="701"/>Йордан Стефанов<Node id="716"/>
+Д-р <Node id="721"/>Стефанов<Node id="729"/> до последнего времени возглавлял отдел применений АСМ на фирме BudgetSensors, в котором находилась база данных по данному вопросу и в задачи которого входила консультация по техническим вопросам использования АСМ всех потребителей такого оборудования во всём мире.
+Центр нанотехнологии будет вдвойне выгоден для компании BudgetSensors: во-первых, клиенты компании получат более полное представление о специфике использования АСМ. Во-вторых, компания сможет привлекать новых клиентов и лучше обслуживать уже имеющихся клиентов, предлагая им услуги нового Центра.
+
+Болгарская промышленность развивается очень динамично в <Node id="1349"/>последние 5 лет<Node id="1364"/>, и распространение знаний и услуг в области использования АСМ, по мнению руководителей компании, также внесёт вклад в этот процесс.
+
+Ожидается, что после присоединения Болгарии к Европейскому союзу в <Node id="1565"/>2007 году<Node id="1574"/> её промышленность получит новый импульс для развития, и руководство компании (являющейся пионером в области нанотехнологиии) надеется, что создание нового центра будет очень выгодно как для развития нанотехнологии в стране, так и для самой фирмы.
+<Node id="1822"/>http://www.nanotech-now.com/news.cgi?…BudgetSensors®<Node id="1874"/> – подразделение Innovative Solutions Bulgaria Ltd.Innovative Solutions Bulgaria Ltd.
+48, Joliot Curie Str.
+
+1113 Sofia
+
+Bulgaria
+
+tel: +359 2 9630941
+
+fax: +359 2 9630732
+
+fax: +49 721 151464865
+<Node id="2070"/>http://www.budgetsensors.com/Ну<Node id="2101"/> вот, и болгары подтягиваются… Кстати, очень интересна и сама фирма BudgetSensors, и производимые ею <Node id="2202"/>сенсоры<Node id="2209"/> для АСМ. Думаю, что нашим организациям стоило бы не только наладить деловое сотрудничество с этой компанией, но и перенять кое-какой опыт работы (с клиентами) у наших болгарских коллег…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1565" EndNode="1574">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Атомно-силовая+микроскопия" StartNode="264" EndNode="267">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1822" EndNode="1874">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2070" EndNode="2101">
+</Annotation>
+<Annotation Id="5" Type="Атомно-силовая+микроскопия" StartNode="196" EndNode="199">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="486" EndNode="501">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стефанов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="551" EndNode="560">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="551" EndNode="560">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1565" EndNode="1574">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="2202" EndNode="2209">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1349" EndNode="1364">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="721" EndNode="729">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стефанов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="701" EndNode="716">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стефанов</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

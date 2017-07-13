@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Искренно поздравляем Алексея Шварева! По сообщению Агентства Политических новостей, он окончательно ввел неологизм "нанопурга" в обиход борцов с засилием нанотехнологических грантоедов. 
+"«Нано-пурга» - это слово принадлежит российскому химику Алексею Швареву, который <Node id="270"/>с 2002 года<Node id="281"/> работает в США, и там имел возможность внимательно познакомиться с тем, как американские ученые выколачивают средства на исследования из <Node id="419"/>правительства<Node id="432"/> и фондов. Нанотехнологии, конечно же, встали на вооружение штатовских профессиональных «грантоедов». 
+ 
+По поводу распространения «нано-истерии» в США уже стала складываться своя библиография. В <Node id="628"/>2006 году<Node id="637"/> появилось пухлое исследование проф. Дэвида Берубе <Node id="688"/>из<Node id="690"/> университета Южной Каролины, посвященное формированию «нано-бизнеса». 
+ 
+Россия, похоже, также проходит период «нано-пурги». Только наш процесс отличается от того, что был в Штатах. У нас нет крупных частных венчурных проектов, которые появляются ниоткуда и привлекают миллионы долларов. У нас венчурным инвестированием занялось государство. " - сообщает <Node id="1046"/>apn.ru<Node id="1052"/> Для любителей нанопурги напомним, что на Нанометре есть специальный форум, раздел ВДНХ, а также обруганный нами (может быть и напрасно?) сайт "нановарежка". Читателей с более созидательным началом также с радостью приглашаем к сотрудничеству! Истина где-то рядом... </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="419" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="688" EndNode="690">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">проф.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="688" EndNode="690">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="628" EndNode="637">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="628" EndNode="637">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1046" EndNode="1052">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="270" EndNode="281">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>30 сентября<Node id="12"/> в Челябинском государственном университете откроется региональная конференция «Развитие нанотехнологий в Челябинской области».
+
+Участие в конференции примут представители ГК «Роснанотех» (г. Москва) — управляющий директор корпорации Константин Деметриу, старший аналитик Александр Камалов, главный аналитик Яна Стрельцова.
+
+Челябинскую область на форуме представят депутаты <Node id="387"/>Законодательного собрания<Node id="412"/>, представители правительства, минэкономразвития, органы местного самоуправления (Снежинский городской округ, Озерский городской округ), вузы (ЧелГУ. ЧГАУ, МГТУ им. Н.И. Носова), организации инновационной инфраструктуры (Челябинский ЦНТИ филиал ФГУ «Росинформресурс», ЧРОР «ПРОМАСС», МУ ОГО «Озёрский инновационный центр — бизнес-инкубатор», ОГУ «Инновационный бизнес-инкубатор Челябинской области), предприятия и НИИ (ОАО «КБ им. Академика В.П. Макеева, ОАО «Миасский машиностроительный завод», ФГУП «ПО «Маяк», ФГУП «РФЯЦ ВНИИТФ им академика Е.И. Забабахина» (г. Снежинск).
+
+В программе конференции планируется: доклад министра экономического развития Челябинской области Елены Мурзиной «О государственной поддержке инновационных проектов в сфере нанотехнологий и наноидустрии в Челябинской области», презентация ГК «Роснанотех», доклад ректора ЧелГУ Андрея Шатина «О формировании инновационной инфраструктуры Челябинского государственного университета в сфере наноиндустрии и нанотехнологий» и др.
+
+Кроме того, состоится презентация инновационных проектов в сфере нанотехнологий. Об этом сообщает пресс-служба ЧелГУ.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="387" EndNode="412">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Законодательного собрания</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

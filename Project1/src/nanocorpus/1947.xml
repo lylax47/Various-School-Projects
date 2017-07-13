@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Создано устройство для манипуляций с молекулами ДНК в нано-масштабеКак сообщает агентство Reuters, американские исследователи под руководством <Node id="143"/>Хао Яна<Node id="150"/> (Hao Yan) из университета штата Аризона (Arizona State University) создали устройство, способное оперировать единичными молекулами генов (на нано-уровне).Hao YanСовременные методы имеют дело с множеством молекул или клеток, которые подвергаются различным воздействиям, а затем среди них сложным путем отбираются нужные. Новый метод относительно дешев и прост и предполагает манипуляции с одной конкретной молекулой.
+
+Устройство представляет собой самособирающийся в водном растворе молекулярный комплекс, который несет одну свободную цепочку молекулы ДНК. Эта цепочка способна спариваться (гибридизоваться) с другой ДНК или РНК, после чего комплекс теряет гибкость и может быть рассмотрен под электронным микроскопом. Сам молекулярный комплекс создан на основе метода, называемого ДНК-оригами, при котором молекулы ДНК складываются в сложные структуры.
+По мнению ученых, новый метод позволяет выйти на нано-уровень в молекулярно-биологических исследованиях. Это только первый шаг, но в дальнейшем он может привести к настоящему прорыву в биотехнологиях.
+
+Результаты исследований опубликованы в журнале Science.
+<Node id="1262"/>http://www.polit.ru/…origami.htmlSelf-Assembled<Node id="1309"/> Water-Soluble Nucleic Acid Probe Tiles for Label-Free RNA Hybridization <Node id="1382"/>Assayshttp://www.sciencemag.org/…319/5860/180?…DNA<Node id="1432"/> Nanotechnology: A Rapidly Evolving <Node id="1468"/>Fieldhttp://www.ingentaconnect.com<Node id="1502"/>/…ta2m1h.alice?…Да, как говорится, голь на выдумки хитра (в хорошем смысле)! Изобретательные ребята, эти китайцы… Причём, этнические китайцы из так наз. «Континентального Китая» (КНР). Получив в своё распоряжение прекрасно оборудованные лаборатории и необходимые средства, они быстро «развернулись» на своей «новой родине»… В частности, «наш герой» за <Node id="1854"/>последние три года<Node id="1872"/> получил в виде грантов <Node id="1896"/>более 355,5 тыс. долл.<Node id="1918"/> Изобретай, не хочу!… Вот кому можно просто позавидовать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="143" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1854" EndNode="1872">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1468" EndNode="1502">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="1896" EndNode="1918">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1382" EndNode="1432">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1262" EndNode="1309">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

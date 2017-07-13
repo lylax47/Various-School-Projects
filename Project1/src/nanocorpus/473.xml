@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Зефир<Node id="6"/> (Zephyr) – сверхлегкий беспилотный летательный аппарат (БПЛА) с питанием от солнечных батарей британской оборонной фирмы QinetiQ установил новый рекорд длительности полета. <Node id="180"/>Зефир<Node id="185"/> продержался в воздухе <Node id="208"/>трое с половиной суток<Node id="230"/>, тем самым подтвердив свою славу как лидирующего устройства для высотных беспилотных полетов. Новый мировой рекорд продолжительностью <Node id="365"/>82 часа<Node id="372"/> <Node id="373"/>37 минут<Node id="381"/> был установлен на военном полигоне армии США <Node id="427"/>Юма<Node id="430"/>, Аризона. Этот результат, который более, чем в два с половиной раза превышает официальный мировой рекорд для летательных аппаратов такого класса, не будет засчитан в качестве официального рекорда.
+
+Беспилотный солнечный самолет в последних испытаниях <Node id="682"/>прошлого года<Node id="695"/> смог продержаться в небе <Node id="721"/>54 часа<Node id="728"/>, побив тем самым предыдущий рекорд самолет американских военных  – Global Hawk, его рекорд – <Node id="822"/>31 час<Node id="828"/> <Node id="829"/>30 минут<Node id="837"/>, однако рекорд и тогда не был засчитан в качестве мирового.
+
+Разработка <Node id="910"/>Зефира<Node id="916"/> приводится под патронажем и при финансировании <Node id="964"/>Министерства Обороны<Node id="984"/> Соединенного Королевства при партнерстве Департамента Обороны США в рамках совместной оборонной программы двух государств. Программа имеет хорошее финансирование и включает в себя ряд проектов особого значения с ускоренным планом разработки. Обычно испытания проводятся на полигонах армии США. И в этот раз, демонстрационный полет <Node id="1316"/>Зефира<Node id="1322"/> был профинансирован Департаментом Обороны США. Как и все проекты в Программе, проект, связанный с разработкой БПЛА, предполагается к использованию в «горячих точках», в частности в Ираке и Афганистане.
+
+<Node id="1526"/>Зефир<Node id="1531"/> – свехлегкий БПЛА и запускается от руки. <Node id="1573"/>В течение дня<Node id="1586"/> <Node id="1587"/>Зефир<Node id="1592"/> летел на солнечной энергии, генерируемой кремниевыми фотоэлементами, толщина которых не превышает толщины листа бумаги. Панели фотоэлементов покрывают поверхность крыльев. В ночное время питание <Node id="1788"/>Зефира<Node id="1794"/> осуществлялось от перезаряжаемых сернисто-литиевых аккумуляторов, поставленных фирмой SION Power Inc, которые заряжались от солнца в продолжение дневного времени.
+
+Рекордный полет в Аризоне проходил в жестких условиях пустыни при средних температурах летнего времени – до 45 градусов <Node id="2079"/>Цельсия<Node id="2086"/>. В ходе полета были испытаны режимы полета под управлением автопилота и под ручным управлением через спутники связи. Высота полета составила более 18 км. В задачу полета входила оценка новых средств связи армии США.
+
+По мнению управляющего директора компании QinetiQ Саймона Беннетта (Simon Bennett) рекордный полет знаменателен рядом достижений: собственно длительностью полета, а также радом проверенных в ходе полета технических возможностей, включая совместное с другими системами наблюдение за полем боя в реальном масштабе времени и коммуникация с наземными силами. В планах разработчиков создание БПЛА с высотой полета до 30 километров и продолжительностью полета <Node id="2758"/>до трех месяцев<Node id="2773"/>. Стратопланы, создаваемые британской компанией, предназначены как для военных целей, в частности, разведки, так и для наблюдения за Землей.
+Ссылки на предыдущие сообщения: <Node id="2946"/>http://www.rian.ru/…4-print.html<Node id="2978"/> <Node id="2979"/>http://offline.computerra.ru/…/702/333665/<Node id="3021"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="964" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Министерства Обороны</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2079" EndNode="2086">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="910" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="180" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="208" EndNode="230">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2979" EndNode="3021">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1587" EndNode="1592">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1526" EndNode="1531">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1788" EndNode="1794">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1573" EndNode="1586">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="427" EndNode="430">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Юм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="373" EndNode="381">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="822" EndNode="828">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="721" EndNode="728">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="829" EndNode="837">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="2946" EndNode="2978">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="365" EndNode="372">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="682" EndNode="695">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2758" EndNode="2773">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="1316" EndNode="1322">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Зефир</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

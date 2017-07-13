@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Долгое время<Node id="13"/> разработка перспективных общеприменимых лекарств от рака на основе платины лимитировалась тем, что та форма платины, которая требуется для лечения, теряет активность в среде организма и становится неэффективной ещё до попадания в опухоль. Эту проблему могут помочь решить одностенные <Node id="298"/>углеродные <Node id="309"/>нанотрубки<Node id="319"/>: их можно использовать для доставки соединений платины к опухоли через биохимический барьер человеческого тела. Комплекс платины (IV) c,c,t-[Pt(NH3)2Cl2(OEt)(O2CCH2CH2CO2H)] пептидными связями был прикреплен к поверхности <Node id="542"/>нанотрубок<Node id="552"/>, которые были доставлены в раковые клетки с помощью эндоцитоза. В клетках падение рН переводит неактивную платину (IV) в активную платину (II), комплекс которой свободно распределяется по клетке, в то время как <Node id="764"/>нанотрубки<Node id="774"/> остаются в эндосомах. При использовании <Node id="815"/>углеродных <Node id="826"/>нанотрубок<Node id="836"/> цитоксичность комплексов платины (IV) возрастает более, чем в 100 раз, а концентрация платины в раковых клетках в 6-8 раз. Одностенные <Node id="972"/>углеродные <Node id="983"/>нанотрубки<Node id="993"/> также могут быть использованы для доставки других веществ в клетки, что было доказано экспериментом по доставке в раковую клетку флуоресцентного красителя совместно с платиной. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="972" EndNode="993">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="298" EndNode="319">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="983" EndNode="993">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="815" EndNode="836">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1" EndNode="13">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="826" EndNode="836">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="542" EndNode="552">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="309" EndNode="319">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="764" EndNode="774">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

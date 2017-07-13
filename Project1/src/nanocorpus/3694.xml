@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>С 24 по 29 января<Node id="18"/> в г. Сан Хосе, Калифорния будет проводиться крупнейший симпозиум <Node id="84"/>года<Node id="88"/> под эгидой Американского Общества оптики и фотоники – одной из самых престижных научных организаций (Society of Photo-Optical Instrumentation Engineers — SPIE) – SPIE Photonics West (24 – 29 January 2009 San Jose Convention Center San Jose, CA, USA.
+
+Расписание симпозиума:
+ Конференции и классы <Node id="385"/>24–29 января 2009<Node id="402"/> Выставка Photonics West <Node id="427"/>27–29 января 2009<Node id="444"/> Выставка Биомедицинской оптики <Node id="476"/>24–25 января 2009<Node id="493"/> 
+В рамках этого грандиозного события будет проводиться четыре самостоятельных симпозиума: BiOS 2009, LASE 2009, MOEMS-MEMS 2009, OPTO 2009
+В программе Симпозиума 35 секций в пяти ведущих направлениях:
+ Методы фотоники в диагностике и терапии; Клинические технологии и системы; Оптика тканей, взаимодействие тканей с лазерным излучением, конструирование тканей; Биомедициинская спектроскопия, микроскопия и изображающие системы; <Node id="922"/>Нано<Node id="926"/>/биофотоника. 
+В программу этого симпозиума включено множество специальных событий, таких как заказные доклады и презентация актуальных проблем, курсы повышения квалификации, международная выставка по биомедицинской оптике, сессии обсуждения промышленных разработок и потребностей, панельные дискуссии.
+
+Доклады и сообщения по актуальнейшим темам и новейшим достижениям в области исследования и разработки лазерных систем и устройств, новые разработки лазерных материалов, конструкторские и технологические достижения в различных промышленных применениях, включая нанотехнологии, микроэлектронику, промышленную фотонику, системы космической связи и другие.
+
+В программе пленарное заседание, включающее в себя специальные доклады и предполагающее большие возможности для общения между докладчиками и аудиторией.
+
+Photonics West предлагает многочисленные технические курсы для повышения квалификации слушателей при одновременном свободном доступе к выставкам Photonics West и BiOS.
+
+Электромеханические и оптические компоненты, серийно изготовленные с применением микро и нанотехнологий, предполагают компенсировать отсутствующие звенья в массовом производстве миниатюризированных продуктов и систем будущего. Новые технологии превосходят предшественников по надежности, производительности и стоимости.
+
+Основные направления работы симпозиума:
+ Микро и <Node id="2277"/>Нано<Node id="2281"/> производство Устройства/Надежность/Применения Работают Секции: Технология микрообработки; Современные технологии производства микро/нано оптики; Микро и <Node id="2435"/>Нано<Node id="2439"/> компоновка и сборка; Применение лазеров в микроэлектронике и оптоэлектронике; Компоновка, интеграция и связи между элементами в фотонике; Характеризация и параметры МЭМС/МОЭМС; Системы на микрожидкостях, БиоМЭМС и микросистемы медицинского назначения; Адаптивная оптика для МЭМС; DMD–системы и приложения. 
+OPTO 2009 – имеет целью обобщить новейшие достижения в широком диапазоне оптико-электронных технологий и их интеграции в многочисленных приложениях.
+
+Секции:
+ Оптоэлектронные материалы и устройства; Интеграция в фотонике; Нанотехнологии в фотонике; Передовые квантовые и опто-электронные приложения; Полупроводниковые лазеры и лазерные диоды; Дисплеи и голография; Системы оптической связи. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="84" EndNode="88">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="2435" EndNode="2439">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="476" EndNode="493">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="427" EndNode="444">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="922" EndNode="926">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="385" EndNode="402">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1" EndNode="18">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="2277" EndNode="2281">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

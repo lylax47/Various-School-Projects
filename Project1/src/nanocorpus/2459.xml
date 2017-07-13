@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Нью-Йорка создали наноустройство-<Node id="44"/>сенсор<Node id="50"/>, способное детектировать отдельные вирусы. <Node id="94"/>В будущем<Node id="103"/> подобные <Node id="113"/>наносенсоры<Node id="124"/> смогут распознавать различные вирусы: гриппа, SARS, птичьего гриппа и др.
+
+Как говорит один из ученых Университета Рочестер (University of Rochester, New York), Филипп Фачет (Philippe Fauchet), <Node id="319"/>наносенсор<Node id="329"/> представляет собой пластину из кремния с наноразмерными порами диаметром около 240 нанометров.
+
+Поры были образованы на кремниевой пластине с помощью электронно-лучевой <Node id="499"/>литографии<Node id="509"/>. Полная площадь <Node id="526"/>наносенсора<Node id="537"/> – 40 квадратных микрон. Как говорят ученые, это один из самых миниатюрных <Node id="612"/>наносенсоров<Node id="624"/> подобного типа.
+
+Принцип действия <Node id="659"/>наносенсора<Node id="670"/> достаточно прост: спектр луч лазера, отраженного от <Node id="723"/>сенсора<Node id="730"/>, изменяется, если в полость попало какое-либо тело. Детектором можно уловить эти изменения в спектре и на их основании сделать выводы о размерах частиц, попавших в полость <Node id="903"/>сенсора<Node id="910"/>.
+
+Так, к примеру, вирус гриппа А диаметром около 100 нанометров, а гепатита – 50 нм.
+
+Ученые говорят, что этот <Node id="1022"/>наносенсор<Node id="1032"/> представляет собой двумерный фотонный кристалл.
+
+Пока работоспособность устройства проверялась на «тестовых» латексных сферах разного диаметра, однако Филипп и <Node id="1193"/>его<Node id="1196"/> коллеги уверены в дальнейшем развитии <Node id="1235"/>наносенсора<Node id="1246"/> и будущем появлении в медицине устройств на его основе.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="526" EndNode="537">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="94" EndNode="103">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="113" EndNode="124">
+</Annotation>
+<Annotation Id="4" Type="Сенсор" StartNode="903" EndNode="910">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1193" EndNode="1196">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="612" EndNode="624">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="723" EndNode="730">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="44" EndNode="50">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="319" EndNode="329">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Сенсор" StartNode="1022" EndNode="1032">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Сенсор" StartNode="1235" EndNode="1246">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Сенсор" StartNode="659" EndNode="670">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Литография" StartNode="499" EndNode="509">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> На снимке показан фрагмент <Node id="28"/>наноленты<Node id="37"/> шириной 80 нм. Материал, из которого она выполнена является гибридным и представляет собой продукт взаимодействия пентаоксида ванадия и полианилина. Подобные материалы считаются весьма перспективными с точки зрения их интеркаляционных и резистивных свойств и могут быть использованы при создании аккумуляторов и батарей.    
+ 
+      
+ 
+            
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанолента" StartNode="28" EndNode="37">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

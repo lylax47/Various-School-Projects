@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В University of Cincinnati был поставлен новый рекорд – получены ориентированные пучки многостенных <Node id="102"/>углеродных <Node id="113"/>нанотрубок<Node id="123"/> длиной 18 мм. Предыдущий рекорд составлял 7 мм. 
+ 
+Пучки <Node id="181"/>нанотрубок<Node id="191"/> вызывают большой интерес у исследователей, т.к. из них можно скрутить волокна. Теоретически такие волокна должны быть прочнее и легче, чем любые ныне существующие. Вдобавок, такие волокна проводят электрический ток. 
+ 
+Ориентированные пучки <Node id="433"/>нанотрубок<Node id="443"/> получают методом <Node id="461"/>химического осаждения<Node id="482"/> из паровой фазы (CVD) на специальный шаблон. В данном случае шаблон представлял собой многослойную структуру - на окисленную поверхность кремниевой пластины нанесен слой металлического сплава-катализатора. Производство шаблона требует наличия чистой комнаты и аппаратуры для осаждения тонких пленок. Синтез <Node id="790"/>нанотрубок<Node id="800"/> протекает при температуре 750 градусов <Node id="840"/>Цельсия<Node id="847"/> в атмосфере, содержащей водород, углеводороды, воду и аргон. Технология может быть легко масштабирована до промышленных объемов. Стоит отметить, что после роста первой партии восемнадцати миллиметровых <Node id="1050"/>нанотрубок<Node id="1060"/>, на том же шаблоне можно вырастить <Node id="1096"/>нанотрубки<Node id="1106"/> длиной 11 мм, а потом еще и 8 мм.  
+ 
+Продемонстрированные достижения дают надежду на то, что возможно получение <Node id="1220"/>углеродных <Node id="1231"/>нанотрубок<Node id="1241"/> метровой длины.
+ 
+ 
+ 
+В других работах проводятся "альтернативные" попытки получить длинные нити из углеродных волокон, что отнюдь не приближает гипотетическую идею "космического лифта", однако может дать интересные результаты в области катализа, топливных элементов, НЭМС и пр.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="840" EndNode="847">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="790" EndNode="800">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1231" EndNode="1241">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="1220" EndNode="1241">
+</Annotation>
+<Annotation Id="5" Type="Химическое+осаждение" StartNode="461" EndNode="482">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="113" EndNode="123">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1096" EndNode="1106">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="102" EndNode="123">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1050" EndNode="1060">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="433" EndNode="443">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="181" EndNode="191">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

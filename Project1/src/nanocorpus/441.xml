@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>С 3 по 5 июня 2008 года<Node id="25"/> на территории Всероссийского выставочного центра пройдет Международная выставка средств измерений, испытательного и лабораторного оборудования «Метрология-2008». 
+ 
+<Node id="191"/>Федеральное агентство по техническому регулированию и метрологии<Node id="255"/> и Государственная корпорация «Российская корпорация нанотехнологий» выступили с инициативой организации на выставке специализированного раздела, отражающего современное состояние измерений и испытаний <Node id="457"/>наноматериалов<Node id="471"/> и созданной на основе <Node id="494"/>наноматериалов<Node id="508"/> продукции, перспективы создания системы оценки и подтверждения соответствия и обеспечения безопасности использования нанотехнологий и продукции наноиндустрии, а также пути развития стандартизации и нормативного обеспечения в сфере нанотехнологий и <Node id="757"/>наноматериалов<Node id="771"/>. 
+ 
+Приглашаются все заинтересованные организации и предприятия представить разработки, обеспечивающие решение проблем измерений и подтверждения соответствия продукции наноиндустрии, в разделе нанотехнологий на выставке «Метрология-2008», которые могут стать для его участников основой долгосрочного сотрудничества и будут способствовать успешному развитию работ в этом перспективном направлении науки и техники. 
+ 
+Информацию об условиях можно получить по телефону: (495) 937-40-23, по электронной почте: <Node id="1278"/>metrol@expoprom.ru<Node id="1296"/> и на сайте: metrol.expoprom.ru. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="2" EndNode="25">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Электронная_почта" StartNode="1278" EndNode="1296">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="457" EndNode="471">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="757" EndNode="771">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="494" EndNode="508">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="191" EndNode="255">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по техническому регулированию и метрологии</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

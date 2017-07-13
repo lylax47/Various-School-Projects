@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Университета Цинциннати (University of Cincinnati) разработали новый композитный катализатор и оптимизировали условия синтеза для ориентированного роста массивов многослойных <Node id="193"/>углеродных <Node id="204"/>нанотрубок<Node id="214"/> (УНТ).
+
+<Node id="223"/>Углеродные <Node id="234"/>нанотрубки<Node id="244"/> очень интересны из-за своих удивительных механических, электрических и оптических свойств. Много усилий прикладывается для разработки методов выращивания длинных <Node id="407"/>нанотрубок<Node id="417"/>, возможные применения которых лежат в таких областях, как наномедицина, аэрокосмические приложения, электроника, и многих других. Длинные массивы УНТ важны потому, что их можно вытягивать в длинные волокна, которые легче всех существующих, а также проводят электрический ток. Ожидается, что подобные волокна революционизируют отрасль лёгких и прочных материалов, а также заменят медную проводку.
+
+Подложка, на которой исследователи выращивали свои массивы, представляет собой сложную многослойную структуру, в которой частицы каталитического сплава образуют слой на поверхности окисленной кремниевой вафли. Производство такой подложки требует использования тонкоплёночных методов.
+
+Синтез УНТ проводится в атмосфере из водорода, углеводородов, воды и аргона при температуре 750 градусов <Node id="1205"/>Цельсия<Node id="1212"/>. Тот факт, что исследователям удалось вырастить сантиметровые массивы <Node id="1283"/>нанотрубок<Node id="1293"/>, вселяют надежду в то, что когда-нибудь станет возможным выращивание <Node id="1363"/>нанотрубок<Node id="1373"/> метровой и более длины.
+
+Как говорят исследователи, за один лишь <Node id="1439"/>этот год<Node id="1447"/> им удалось совершить четыре серьёзных прорыва. Сначала они научились выращивать массивы длиной до 18 мм. <Node id="1553"/>Затем<Node id="1558"/> они вырастили однородный «ковёр» из 12-мм массивов на дециметровой подложке, что демонстрирует возможность крупномасштабного промышленного производства. Также исследователи подали заявку на патент и были приглашены участвовать в очень престижной конференции <Node id="1817"/>НАСА<Node id="1821"/> и <Node id="1824"/>Университета Райс<Node id="1841"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1439" EndNode="1447">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="204" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1283" EndNode="1293">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="223" EndNode="244">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="407" EndNode="417">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1205" EndNode="1212">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1824" EndNode="1841">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="234" EndNode="244">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1817" EndNode="1821">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1553" EndNode="1558">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1363" EndNode="1373">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="193" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

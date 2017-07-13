@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Applications are invited for research staff positions in nano physics group at Samsung Advanced Institute of Technology (Korea). The work involves the atom scale characterization of various semiconductor surfaces and the study on the transport mechanism of nano scale devices. Hands on experiences in Scanning Probe Microscopy (Scanning Tunneling Microscopy, Atomic Force Microscopy, etc) and in sample preparation by basic semiconductor processes such as etching and deposition are required. 
+ 
+Candidates should have a PhD in physics, chemistry, materials science/engineering, electrical engineering, or related fields. Understanding the semiconductor device physics and transport theory will be an advantage. They also should have a motivation to interact with other researchers. 
+ 
+Candidates are expected to send a curriculum vitae, publication list, and one-page summary of accomplishments and experiences to date by e-mail to: 
+ 
+Dr. Ilya V. Goldt 
+e-mail: <Node id="966"/>ilya.goldt@samsung.com<Node id="988"/> 
+tel. +7 495 797-25-91
+ 
+Крайний срок подачи резюме <Node id="1041"/>20 марта<Node id="1049"/>. Конкурс может быть закрыт ранее, в случае если кандидаты, приславшие заявки до этой даты, успешно пройдут собеседование и будут приняты на работу. Обращаем ваше внимание на то, что резюме принимаются только на английском языке, владение которым также является обязательным требованием к кандидатам.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1041" EndNode="1049">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="966" EndNode="988">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

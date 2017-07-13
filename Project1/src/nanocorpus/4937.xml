@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Когда нанотехнологии, в частности, использующие <Node id="49"/>фуллерены<Node id="58"/>, найдут широкое применение, появятся и побочные продукты, содержащие <Node id="128"/>наночастицы<Node id="139"/>. Насколько строгим должен быть контроль за этими продуктами?
+
+В <Node id="204"/>2004–2005 годах<Node id="219"/> различными авторами была опубликована целая серия работ, посвящённая токсичности <Node id="301"/>фуллеренов<Node id="311"/>. В частности, утверждалось, что у рыб, живущих в воде, содержащей <Node id="378"/>фуллерены<Node id="387"/>, изменялась структура мозга, а клетки человеческой кожи погибают при контакте с раствором <Node id="478"/>фуллеренов<Node id="488"/>. Эти результаты привлекли всеобщее внимание к последствиям применения нанотехнологий для окружающей среды.
+
+Однако, теперь исследователи из Харькова под руководством Г. В. Андриевского ставят валидность сделанных выводов. Доклад на эту тему был сделан на 8 Международной конференции «<Node id="773"/>Фуллерены<Node id="782"/> и атомные кластеры» (IWFAC’07) в Санкт-Петербурге.
+
+Учёные замечают, что уже <Node id="860"/>более 10 лет<Node id="872"/> работают с водными растворами <Node id="903"/>фуллеренов<Node id="913"/>, и никаких явных раздражающих влияний на кожу обнаружено не было. Более того, водные растворы чистых (не модифицированных химически) <Node id="1047"/>фуллеренов<Node id="1057"/> оказывают благоприятное биологическое действие, поскольку являются антиоксидантами.
+
+Конечно, модифицированные <Node id="1169"/>фуллерены<Node id="1178"/> могут обладать токсичностью, но это является лишь проявлением характеристик присоединённых функциональных групп, а не самих <Node id="1303"/>фуллеренов<Node id="1313"/>. Подтверждением этому являются также несколько работ, опубликованных другими исследователями (в том числе – ранее заявлявшими о токсичности <Node id="1454"/>фуллеренов<Node id="1464"/>) в <Node id="1468"/>2006 году<Node id="1477"/>, в которых токсичность <Node id="1501"/>фуллеренов<Node id="1511"/> не была обнаружена.
+
+Где может скрываться ошибка? Ответ был найден в методе приготовления раствора. Для приготовления водного раствора <Node id="1647"/>фуллеренов<Node id="1657"/> на первом этапе их растворяют в полярном растворителе, который, в свою очередь, хорошо растворим в воде. Типичным методом является использование тетрагидрофурана. Таким образом приготовленный раствор невозможно очистить от органического растворителя. Именно тетрагидрофуран и вызывал отравление рыб в вышеупомянутых экспериментах.
+
+«Очень странно, что негативные изменения происходили в мозгу рыб, в то время как в печени и жабрах никаких подобных повреждений замечено не было. Более того, процессы перекисного окисления липидов в этих органах замедлялись, что является свидетельством онтиоксидантного действия <Node id="2269"/>фуллеренов<Node id="2279"/>.
+
+Селективные повреждения мозга могут вызываться такими веществами, как ингаляционные наркотики, например – диэтиловый эфир. Тетрагидрофуран обладает сходным с ним действием, но намного более токсичен. Именно он, а не <Node id="2498"/>фуллерены<Node id="2507"/>, и вызывал повреждения мозга рыб.» – объясняет Андриевский.
+
+Эта модель хорошо описывает имеющиеся данные о токсичности <Node id="2628"/>фуллеренов<Node id="2638"/>. Андриевский и <Node id="2654"/>его<Node id="2657"/> коллеги уверены, что немодифицированные <Node id="2698"/>фуллерены<Node id="2707"/> не представляют угрозы окружающей среде, и с ними можно обращаться, как с обыкновенной сажей.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="128" EndNode="139">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="1303" EndNode="1313">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="2698" EndNode="2707">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="49" EndNode="58">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Фуллерен" StartNode="478" EndNode="488">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="1169" EndNode="1178">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="1454" EndNode="1464">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="2269" EndNode="2279">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="378" EndNode="387">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="860" EndNode="872">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="1647" EndNode="1657">
+</Annotation>
+<Annotation Id="14" Type="Фуллерен" StartNode="1047" EndNode="1057">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="204" EndNode="219">
+</Annotation>
+<Annotation Id="17" Type="Фуллерен" StartNode="1501" EndNode="1511">
+</Annotation>
+<Annotation Id="16" Type="Фуллерен" StartNode="773" EndNode="782">
+</Annotation>
+<Annotation Id="19" Type="Фуллерен" StartNode="903" EndNode="913">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="1468" EndNode="1477">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Фуллерен" StartNode="2498" EndNode="2507">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="1468" EndNode="1477">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="2654" EndNode="2657">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Фуллерен" StartNode="2628" EndNode="2638">
+</Annotation>
+<Annotation Id="24" Type="Фуллерен" StartNode="301" EndNode="311">
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

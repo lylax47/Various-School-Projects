@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Высокие технологии приходят в офис и повседневный быт. Скоро никого не будут удивлять непромокаемые рубашки и брюки, созданные из <Node id="131"/>наноматериалов<Node id="145"/>. Например, кока-колу можно смело наливать прямо в нагрудный карман, и <Node id="216"/>в течение дня<Node id="229"/> пить ее из трубочки. Дизайнеры одежды готовы к новой моде на высокотехнологичные материалы. Рубашки, галстуки и брюки, созданные с использованием нанотехнологий могут захватить рынок офисной одежды, который только в США составляет <Node id="461"/>$10 млрд.<Node id="470"/> в <Node id="473"/>год<Node id="476"/>. Новые модели уже пошли в производство у ведущих брендов, в том числе Hugo Boss, René Lezard, Brooks Brothers, L.L. Bean и Marks &amp; Spencer. Высокая мода и высокие технологии никогда не были так близки друг к другу, как сейчас, пишет BusinessWeek. Дизайнеры L.L. Bean или Marks &amp; Spencer создают только фасон одежды, а особым образом обработанную ткань для пошива они покупают у компании Nano-Tex. Этот калифорнийский стартап специализируется на изготовлении <Node id="935"/>наноматериалов<Node id="949"/>. Раньше их материалы использовали главным образом в спортивной экипировке, рабочей и военной одежде. Теперь нанотехнологии добрались и до офисной одежды. Рубашки, созданные из ткани Nano-Tex, выглядит и ощущаются на теле как обычные хлопковые или шелковые (в зависимости от материала), но при этом они абсолютно непромокаемые, то есть вода стекает по ним, как по зонтику (видео). Другие видеоролики можно посмотреть в галерее BusinessWeek. Например, журналист наливает напиток себе в нагрудный карман и пьет из трубочки (видео), а здесь кофе спокойно стекает по брюкам, не оставляя никаких следов (видео). Такие брюки модели Hugo Boss Orange Label стоят всего <Node id="1610"/>$125.<Node id="1615"/> Из наноткани можно делать и галстуки. Например, модели Brooks Brothers продаются по цене от <Node id="1708"/>$60<Node id="1711"/> до <Node id="1715"/>$70.<Node id="1719"/> Запечатленные на видео рубашки Eddie Bauer стоят примерно столько же. Социологические опросы показывают, что современные покупатели с удовольствием готовы покупать одежду из высокотехнологичных материалов. Например, по данным аналитической компании NPD Group, в <Node id="1982"/>прошлом году<Node id="1994"/> <Node id="1995"/>58%<Node id="1998"/> американцев и <Node id="2013"/>33%<Node id="2016"/> американок покупали одежду с использованием пылезащищенных материалов. Примерно каждый четвертый покупал модели с непромокаемой тканью, а <Node id="2155"/>37%<Node id="2158"/> — с защитой от грязи. Раньше использовались специальные покрытия для ткани, которые изнашивались со временем. Нанотехнологии позволяют менять свойства всей ткани целиком, так что эти свойства остаются навсегда. В США в <Node id="2378"/>прошлом году<Node id="2390"/> было продано мужской одежды на <Node id="2422"/>$55 млрд.<Node id="2431"/>, из них <Node id="2440"/>$8.8 млрд.<Node id="2450"/> — это одежда с теми или иными технологическими улучшениями, то есть <Node id="2519"/>16%<Node id="2522"/>. Этот процент вдвое больше, чем в <Node id="2557"/>2000 г.<Node id="2564"/> Среди женской одежды (рынок <Node id="2593"/>$105 млрд.<Node id="2603"/>) доля технологической гораздо меньше — всего <Node id="2649"/>2%<Node id="2651"/>. По мнению аналитиков, эта цифра может сильно возрасти <Node id="2707"/>в течение пяти лет<Node id="2725"/>. К <Node id="2729"/>2010 г.<Node id="2736"/> хайтек захватит <Node id="2753"/>примерно 50%<Node id="2765"/> рынка мужской одежды, а к <Node id="2792"/>2012-2013 гг<Node id="2804"/>. — половину женского рынка. Для просмотра видео необходим QuickTime. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="2729" EndNode="2736">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="2519" EndNode="2522">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="131" EndNode="145">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="2155" EndNode="2158">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="2440" EndNode="2450">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="216" EndNode="229">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1995" EndNode="1998">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="2649" EndNode="2651">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="2593" EndNode="2603">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="935" EndNode="949">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="461" EndNode="470">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="473" EndNode="476">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="2557" EndNode="2564">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2707" EndNode="2725">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="1715" EndNode="1719">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="1708" EndNode="1711">
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="1610" EndNode="1615">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="2013" EndNode="2016">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="2378" EndNode="2390">
+</Annotation>
+<Annotation Id="18" Type="Процент" StartNode="2753" EndNode="2765">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2792" EndNode="2804">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1982" EndNode="1994">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="2422" EndNode="2431">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

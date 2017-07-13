@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Нанотехнологи из США смогли «обучить» органические молекулы распознавать свет в ключевом режиме.
+
+<Node id="99"/>Джеймс М. Тур<Node id="112"/> (James M. Tour) из лаборатории Пола Вайса (Paul Weiss lab, Penn State) сумел разместить светочувствительные органические молекулы на металлической поверхности. При этом молекулы работают на детектирование света как ключи. Конфигурационные изменения, которые претерпевают молекулы, реверсивны, поэтому эффект светового «ключа» ученые могут использовать в <Node id="467"/>сенсорах<Node id="475"/> и системах оптической передачи данных.
+
+Основа ключа – молекула азобензена с атомами азота, соединенные с бензольными кольцами двойными связями. Получается структура, в которой атомы азота выполняют роль «шарниров» между двумя массивными бензольными кольцами.
+
+При поглощении кванта ультрафиолета молекула изменяет форму, образуя цис-изомер, а при дальнейшем воздействии на нее видимым светом, переходит в транс-форму. Этот процесс называется фотоизомерацией. Так и происходит цикл переключения светового ключа.
+
+Интересно, что подобный процесс использован в механизме восприятия света человеческим глазом – фотоизомерация молекулы вызывает появление нервного импульса в сетчатке.
+
+При изготовлении матрицы световых нано-ключей ученые смогли обойти основное препятствие – необходимость водной среды для размещения молекул. В эксперименте же <Node id="1317"/>Джеймс<Node id="1323"/> и <Node id="1326"/>его<Node id="1329"/> коллеги должны были прикрепить молекулы к жесткой основе. При воздействии на матрицу ультрафиолетовым светом исследователи наблюдали унисонное переключение молекул. Наблюдения велись через сканирующий туннельный микроскоп.
+
+<Node id="1554"/>Джеймс<Node id="1560"/> также уверен, что нано-ключи будут выступать в роли наноактюаторов и наномоторов, а это очень востребовано в производстве автономных <Node id="1694"/>наноструктур<Node id="1706"/> и НЭМС, без чего нанотехнологии не могут двигаться дальше<Node id="1764"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="467" EndNode="475">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1554" EndNode="1560">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джеймс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1326" EndNode="1329">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="1694" EndNode="1706">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1317" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джеймс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="1554" EndNode="1764">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1554" EndNode="1764">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="99" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джеймс</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

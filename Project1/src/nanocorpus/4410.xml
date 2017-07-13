@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт катализа им. Г.К. Борескова  катализ, катализатор, <Node id="62"/>наночастицы<Node id="73"/>, физико-химическая гидродинамика, эндотермические процессы   астрофизика лазерная физика синтез <Node id="170"/>наноматериалов<Node id="184"/> физическая химия   аcтрокатализ конверсия метана лазерная спектроскопия лазерное испарение материалов с получением <Node id="300"/>наночастиц<Node id="310"/> катализатора и носителей математическое моделирование физико-химических процессов эндотермические процессы с участием природного газа                             Дубов Дмитрий Алексеевич Кукшева Эльвира Александровна Мищенко Татьяна Ивановна Распопин Кирилл Сергеевич Снытников Валерий Николаевич, руководитель группы, старший научный сотрудник, кандидат наук Стояновский Владимир Олегович  Газодинамический реактор с лазерным возбуждением реагентов в многофазном потоке Импульсно - периодический лазер ArF Камера для изучения гетерогенных каталитических реакций Криогенная камера с температурой образцов от 77К до 300К Непрерывный СО2 - лазер Перестраиваемый лазер УФ Спектроскопическая CCD камера УФ   ИБФ СО РАН, ИВМ и МГ СО РАН, ИВТ СО РАН, ИТПМ СО РАН, ИТПМ СО РАН, ИЦиГ СО РАН, ИЯФ им. <Node id="1103"/>Г.И.Будкера<Node id="1114"/> СО РАН, ОИГГиМ СО РАН,      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="300" EndNode="310">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1103" EndNode="1114">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="62" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="170" EndNode="184">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Михаил Прохоров: От водородной к альтернативной энергетикеНа <Node id="61"/>этой неделе<Node id="72"/> в Москве прошел V Международный симпозиум «<Node id="116"/>Водородная энергетика будущего, нанотехнологии и металлы платиновой группы в странах СНГ<Node id="204"/>». В рамках форума создана Белорусско-российская ассоциация солнечно-водородной энергетики.
+ Усилия науки и бизнеса в развитии водородной энергетики продолжаются уже <Node id="370"/>несколько лет<Node id="383"/>. Инициатором широкомасштабных исследований с участием Академии наук России в этой области выступил Михаил Прохоров. О состоянии разработок <Node id="523"/>на сегодняшний день<Node id="542"/> в эксклюзивном интервью Михаил Прохоров рассказал корреспондентам <Node id="609"/>НИА<Node id="612"/>. Корреспондент: Совместная работа с российской Академии наук, точнее ваша инициация этой работы уже насчитывает 3 — <Node id="729"/>4 года<Node id="735"/>. Что-то в этом направлении есть прорывного, и как планируется развивать этот проект в дальнейшем?
+ М. Прохоров: Я не совсем правильно назвал этот проект – «Водородная энергетика». Он давно уже существует в более широкой форме и называется «Альтернативная энергетика». В это понятие входит помимо водородной энергетики энергия солнца, ветра, приливов и некоторые другие виды энергии.
+  Мы рассматриваем альтернативную энергетику как неизбежную. Почему? Потому что неизбежно через какое-то количество времени, сейчас этого не знает никто, произойдет переход от невозобновляемых источников энергии к возобновляемым.
+  
+К возобновляемой энергии относится вся альтернативная энергетика. Она не будет, наверное, завоевывать мир очень быстро, потому что сила традиционной энергетики очень велика. Тем не менее, тренд очевиден, и поэтому нужно находиться не в конце тренда, а в его начале.
+  
+Мой интерес является стратегическим, мы рассматриваем различные формы участия и кое — какие успехи у нас уже есть. Их сейчас озвучивать пока рано, поскольку рынку необходимо предъявить товар. Когда товар представляешь, тогда в некотором смысле можно показать результаты работы <Node id="1898"/>последних нескольких лет<Node id="1922"/>. В ближайшее время, я думаю, кое — какие проекты, в то числе совместные с компанией «Роснанотех», мы представим.
+ <Node id="2037"/>http://www.24rus.ru/more.php?…Ну<Node id="2069"/> что ж, <Node id="2077"/>Миша<Node id="2081"/>… Как говорится, заинтриговал… Теперь будем ждать результатов – соответственно, и товаров, и накопленного «багажа» наработок <Node id="2206"/>последних лет<Node id="2219"/>… Не подведи!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="упоминается" StartNode="0" EndNode="204">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2037" EndNode="2069">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="609" EndNode="612">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ниа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="0" EndNode="204">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2206" EndNode="2219">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="61" EndNode="72">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="729" EndNode="735">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="0" EndNode="204">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="370" EndNode="383">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="0" EndNode="204">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="523" EndNode="542">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2077" EndNode="2081">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Миша</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="цитаты" StartNode="116" EndNode="204">
+</Annotation>
+<Annotation Id="19" Type="темы" StartNode="116" EndNode="204">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1898" EndNode="1922">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

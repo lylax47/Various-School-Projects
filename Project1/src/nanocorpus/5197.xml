@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Покрытие из многослойных <Node id="26"/>углеродных <Node id="37"/>нанотрубок<Node id="47"/> на полимерных <Node id="62"/>нановолокнах<Node id="74"/> позволяет получить электропроводную ткань или прозрачную пленку на практически любой поверхности. Электростатическая сборка трубок диаметром 10-20 нм на волокнах толщиной 200 нм приводит к высокой электропроводности при малом расходе трубок (детали технологии описаны в M. Havel, K. Behler, G. Korneva, Y. Gogotsi, Transparent thin films of multiwalled carbon nanotubes self-assembled on polyamide 11 nanofibers, Advanced Functional Materials, v. 18, 2322–2327, 2008). 
+Сканирующая електронная микроскопия (Zeiss Supra 50VP).    
+ 
+        
+ 
+  
+ 
+                 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нановолокно" StartNode="62" EndNode="74">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="37" EndNode="47">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="26" EndNode="47">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

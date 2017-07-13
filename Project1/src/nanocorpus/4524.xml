@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> M. Sathish, K. Miyazawa, and T. Sasaki из национального института материаловедения Японии (National Institute for Materials Science, Japan) разработали метод синтеза пористых вискеров из <Node id="188"/>фуллеренов<Node id="198"/> C60.  
+ Для синтеза использовалась смесь <Node id="240"/>фуллеренов<Node id="250"/> с бензолом и изопропиловым спиртом. Вискеры образуются на поверхности раздела бензола и изопропилового спирта. Диаметр трубчатых вискеров составляет 100 нм, а длина достигает 100 мкм. Полученный материал характеризуется высокой удельной поверхностью – 376 м2/г.    
+Эти вискеры учёные собираются использовать в качестве шаблона для синтеза различных <Node id="601"/>нанопроволок<Node id="613"/> и <Node id="616"/>нанотрубок<Node id="626"/>. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="188" EndNode="198">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="240" EndNode="250">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="616" EndNode="626">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="601" EndNode="613">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

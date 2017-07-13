@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Nanotherapeutics Inc. – это частная компания, которая специализируется на разработке новых препаратов и систем по доставке лекарств в организм. Она использует передовые знания в области нанотехнологий для разработки новых видов лекарственных терапий или для улучшения уже существующих. 
+На <Node id="292"/>днях<Node id="296"/> Nanotherapeutics Inc. заявила о том, что она заключила соглашение CRADA (Cooperative Research and Development Agreement) с институтом National Cancer Institute (NCI) для разработки при помощи нанотехнологий вакцины против ВИЧ. Сотрудничество с NCI, а также использование особой системы доставки лекарств на основе <Node id="611"/>наночастиц<Node id="621"/>, которая позволяет вводить в организм такие макромолекулы как пептиды, приведёт к созданию лекарства, усиливающего иммунную систему. 
+James D. Talton, президент компании Nanotherapeutics, Inc., отметил, что заключение соглашения CRADA – важный шаг компании на пути к разработке новых вакцин против ВИЧ. Он рад, что NCI обратился к ним за помощью в разработке этой вакцины и выбрал именно их технологию для работы в этой области. 
+Это не первый подобный проект Nanotherapeutics Inc. В <Node id="1106"/>2005 году<Node id="1115"/> Nanotherapeutics Inc. уже получала финансирование от института National Institute on Drug Abuse (NIDA) на разработку препарата на основе <Node id="1253"/>наночастиц<Node id="1263"/> для лечения наркотической зависимости. Кроме того, она получала финансирование от института National Institute of Allergy and Infectious Diseases (NIAID) для выполнения части исследовательской программы института National Institutes of Health (NIH).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1106" EndNode="1115">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1253" EndNode="1263">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="611" EndNode="621">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="292" EndNode="296">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1106" EndNode="1115">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

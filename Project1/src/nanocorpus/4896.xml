@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+Как показывают прошедшие за <Node id="251"/>прошедшую неделю<Node id="267"/> события, электроника твердо переходит в наноразмерный диапазон длин. Это должно было произойти – так как для поддержания работоспособности закона <Node id="414"/>Мура<Node id="418"/> нужно двигаться все ниже и ниже по размерной шкале. Также не пропустите статьи о «серой слизи» и ее обсуждения.
+Итак, – nanoWeek 27 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="251" EndNode="267">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="414" EndNode="418">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мур</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

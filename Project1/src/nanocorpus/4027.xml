@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В <Node id="4"/>2006 году<Node id="13"/> Факультетом наук о материалах МГУ, совместно с лабораторией неорганического материаловедения химического факультета МГУ и компанией Сервислаб (Д.И.Григорашев) организован фонд, который позволит ежегодно присуждать премии в размере ~ <Node id="247"/>30 000 руб.<Node id="258"/> студентам, наиболее отличившимся в научной работе в области химии твердого тела и <Node id="341"/>наноматериалов<Node id="355"/>. Подавать работы можно в течение всего <Node id="395"/>года<Node id="399"/>, присылая их по электронной почте на адрес <Node id="443"/>goodilin@inorg.chem.msu.ru<Node id="469"/> (зам. декана ФНМ по учебной работе Е.А. Гудилин). Торжественное подведение итогов конкурса и вручение премий победителям проходит на ФНМ МГУ в <Node id="613"/>день<Node id="617"/> рождения Н.Н.Олейникова. 
+ 
+Подробнее о премии 
+ 
+ 
+Инновационные услуги факультета наук о материалах:
+ <Node id="722"/>http://www.nanometer.ru/2007/03/03/anomateriali.html<Node id="774"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="4" EndNode="13">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="341" EndNode="355">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="247" EndNode="258">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="722" EndNode="774">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="395" EndNode="399">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="4" EndNode="13">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="613" EndNode="617">
+</Annotation>
+<Annotation Id="14" Type="Электронная_почта" StartNode="443" EndNode="469">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

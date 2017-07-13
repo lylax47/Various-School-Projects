@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии. <Node id="16"/>Азбука<Node id="22"/> для всех
+Издательство: ФИЗМАТЛИТ, <Node id="57"/>2008 г.<Node id="64"/>
+Твердый переплет, 368 стр.
+
+ISBN 978–5–9221–0901–7
+
+Тираж: 2000 экз.
+
+Формат: 84×108/16
+
+Цветные иллюстрации
+Цена – 1447 рубРедактор: <Node id="199"/>Ю. Третьяков<Node id="211"/>
+Художник: <Node id="222"/>С. Слинько<Node id="232"/>
+ * * От издателя
+Эта книга адресована широкому кругу читателей, начиная со школьников и домохозяек и заканчивая научными сотрудниками и кабинетом министров РФ, желающих ознакомиться с современными тенденциями и разобраться в значении модного сегодня слова «нанотехнология».
+
+В этой книге авторы постарались наиболее просто изложить сложные даже для ученых термины и понятия, наиболее часто встречающиеся в СМИ и научной литературе.
+<Node id="665"/>http://www.ozon.ru/…/id/3997096/Выходит<Node id="704"/> в свет <Node id="712"/>наноазбукаhttp://www.nanometer.ru/…ka_5040.htmlНе<Node id="761"/> буду говорить о самой книге: в многочисленных рецензиях на неё их авторы весьма высоко оценивали достоинства этой книги. Обращу внимание лишь на одну «малость»: могут ли «широкие круги читателей» (в первую очередь – «от школьников до домохозяек») позволить себе покупать какую-либо книгу, цена которой достигает без малого <Node id="1085"/>полторы тысячи рублей<Node id="1106"/>? Даже если бы это был предмет первой необходимости, очевидно, что цена этого «изделия», как говорят англичане, – весьма prohibitive… То есть – «запредельно высокая»… Вот – наглядный урок для «учёных» (в кавычках и без): важно не только создать (разработать, произвести) какой-то «продукт», «процесс», «изделие», очень важно при этом сделать всё это так, чтобы данный продукт имел затем приемлемую цену. Впрочем, сейчас мы живём, как говорят, «в эпоху рыночных отношений», и поэтому учёт экономических факторов развития в любой области (уже по умолчанию) имеет первостепеноое значение…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="16" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="665" EndNode="704">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="712" EndNode="761">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="199" EndNode="211">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Третьяков</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1085" EndNode="1106">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="222" EndNode="232">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Слинько</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="57" EndNode="64">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

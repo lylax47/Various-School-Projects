@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Большинство традиционных методов производства <Node id="47"/>наночастиц<Node id="57"/> из пористого диоксида кремния приводит к частому образованию «комков», когда несколько <Node id="145"/>наночастиц<Node id="155"/> слипаются вместе. Поэтому ученым трудно получить <Node id="205"/>наночастицы<Node id="216"/> строго определенного размера.
+
+Но недавно, как сообщает Nanotech-Now, ученые из Университета Миннесоты (University of Minnesota), США, предложили оригинальный способ устранения этой проблемы: вместо того, чтобы синтезировать <Node id="442"/>наночастицы<Node id="453"/>, они «разбивают» на составляющие сформированную матрицу из диоксида кремния.
+
+Сак сообщил руководитель исследований Андреас Штейн (Andreas Stein), для матрицы ученые использовали специальные ядра – «модули» из полиметилметакрилата (РММА), которые составляют большой коллоидный кристалл. Структура кристалла неоднородна – в нем содержатся поры различной формы, зачастую представляющие собой тетраэдры и октаэдры.
+
+После нанесения на поверхность кристалла орагнокремниевого геля и добавления специального отвердителя, поверхность матрицы покрывается твердой коркой шаблона, «разбив» который, ученые получили <Node id="1060"/>наночастицы<Node id="1071"/> различной формы – тетраэдры и октаэдры.
+
+Как оказалось далее, изменяя структуру матрицы-<Node id="1160"/>коллоида<Node id="1168"/>, ученые смогли получить сферические и кубические <Node id="1218"/>наночастицы<Node id="1229"/>. Также ученые уверены, что химический состав <Node id="1275"/>наночастиц<Node id="1285"/> можно будет варьировать в зависимости от их применения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="47" EndNode="57">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1218" EndNode="1229">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="145" EndNode="155">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="205" EndNode="216">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="442" EndNode="453">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1060" EndNode="1071">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1275" EndNode="1285">
+</Annotation>
+<Annotation Id="10" Type="Коллоид" StartNode="1160" EndNode="1168">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

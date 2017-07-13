@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ф. В. Баллюзек, А. С. Куркуев, <Node id="31"/>В. Я. СквирскийЛечебное<Node id="54"/> серебро и медицинские нанотехнологии Издательство: <Node id="106"/>Диля<Node id="110"/>, <Node id="112"/>2008 г.<Node id="119"/> Мягкая обложка, 112 стр. ISBN 978–5–88503–687–0 Тираж: 5000 экз. Формат: 84×108/32 Цена <Node id="208"/>46 руб<Node id="214"/> От издателя
+В книге представлен обзор истории применения серебра и его препаратов для улучшения санитарно-гигиенических качеств питьевой воды, а затем и для лечения различных инфекционно-воспалительных и опухолевых заболеваний.
+Рассмотрены принципы конструирования необходимых для этого устройств. Приведены сведения о механизмах биологической активности ионизированного, а также находящегося в форме суспензии <Node id="626"/>наночастиц<Node id="636"/> металлического серебра или его окиси.
+
+Проанализированы фотохимические процессы катализа активных форм кислорода в гетерогенных средах с участием нанодисперсной окиси серебра. Показаны перспективы их использования в медицине, и в особенности в онкологии.
+<Node id="892"/>Дан<Node id="895"/> краткий обзор современного состояния проблемы разработки и внедрения медицинских нанотехнологий.
+<Node id="993"/>http://www.ozon.ru<Node id="1011"/>/…/id/3749639/Да, судя по названию, должна быть очень интересная книжка. Тем более, когда пишут об этом люди знающие и компетентные. И говорят, что в ней рассмотрены принципы конструирования необходимых для этого устройств, приведены сведения о механизмах биологической активности ионизированного, а также находящегося в форме суспензии <Node id="1348"/>наночастиц<Node id="1358"/> металлического серебра или его окиси. Я думаю, что её с удовольствием и пользой для себя прочтут не только биологи и медики, но и многие студенты, аспиранты да и широкие круги интересущихся данной тематикой…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="993" EndNode="1011">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="31" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Я.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="208" EndNode="214">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="626" EndNode="636">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="112" EndNode="119">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="892" EndNode="895">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1348" EndNode="1358">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="106" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Диля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

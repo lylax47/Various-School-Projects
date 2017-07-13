@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Французские специалисты исследовали свойства кремниевых <Node id="57"/>нанопроволок<Node id="69"/>, сформированных на подложке «кремний на изоляторе» с тонким слоем кремния (8 нм) [1]. Такие проволоки можно использовать в качестве канала полевого транзистора, в котором затвор огибает канал и вследствие этого эффективно управляет его током. Кроме того, <Node id="325"/>нанопроволоки<Node id="338"/> привлекательны для создания чувствительных <Node id="382"/>сенсоров<Node id="390"/>. В идеале <Node id="401"/>нанопроволоки<Node id="414"/> сохраняют подвижность носителей тока такую же высокую, как в объемном монокристаллическом кремнии.
+
+Однако, как показали авторы, большое влияние на свойства <Node id="572"/>нанопроволок<Node id="584"/> в транзисторной структуре оказывают дефекты поверхности, образующиеся в процессе оксидирования и <Node id="682"/>травления<Node id="691"/> кремния. На этих дефектах может накапливаться паразитный заряд.
+
+<Node id="757"/>Нанопроволоки<Node id="770"/> были изготовлены с помощью атомно-силового микроскопа (<Node id="826"/>AFM<Node id="829"/>) (рис. 1). При пропускании тока под его острием происходило окисление (оксидирование) кремния. Этот оксид служил маской при последующем процессе <Node id="975"/>травления<Node id="984"/> кремния. В результате получалась структура, в которой сильнолегированные области контактов соединялись с нелегированной <Node id="1105"/>нанопроволокой<Node id="1119"/> шириной 95 нм (рис. 2).
+
+В работе изучены процессы накопления заряда на ловушках и стекание заряда с ловушек при различных напряжениях на затворе и между истоком и стоком. В качестве затвора использовалась сама кремниевая подложка. Это удобный вариант для <Node id="1376"/>сенсора<Node id="1383"/>, но далеко не лучший вариант для транзистора. Если сформировать верхний затвор, окутывающий <Node id="1476"/>нанопроволоку<Node id="1489"/>, а в качестве подзатворного изолятора использовать high-k диэлектрик, то влияние заряда ловушек значительно ослабляется.
+ 1. N. Rochdi et al. J. Vac. Sci. Technol. 8, 159 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="401" EndNode="414">
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="1105" EndNode="1119">
+</Annotation>
+<Annotation Id="2" Type="Травление" StartNode="975" EndNode="984">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="1376" EndNode="1383">
+</Annotation>
+<Annotation Id="4" Type="Атомно-силовая+микроскопия" StartNode="826" EndNode="829">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="757" EndNode="770">
+</Annotation>
+<Annotation Id="6" Type="Нанопроволока" StartNode="57" EndNode="69">
+</Annotation>
+<Annotation Id="7" Type="Нанопроволока" StartNode="572" EndNode="584">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="382" EndNode="390">
+</Annotation>
+<Annotation Id="9" Type="Травление" StartNode="682" EndNode="691">
+</Annotation>
+<Annotation Id="10" Type="Нанопроволока" StartNode="1476" EndNode="1489">
+</Annotation>
+<Annotation Id="11" Type="Нанопроволока" StartNode="325" EndNode="338">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

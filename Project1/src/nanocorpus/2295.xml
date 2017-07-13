@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Первый вице-премьер Сергей Иванов посоветовал гражданам России не доверять телерекламе со словом «нано». Как сообщил С.Иванов на заседании правительственного совета по нанотехнологиям, в последнее время на телевидении началась реклама продукции с использованием слова «нано»: антикоррозийные материалы под названием «наноцинк», парфюмерная продукция «нанокрем».
+
+По словам первого вице-премьера, «ушлые торговцы и рекламодатели, ухватившись за популярное слово, по существу, уже начали дурить народ».
+
+«<Node id="504"/>Я сильно сомневаюсь, что там вообще есть какие-то нанотехнологии: эта продукция не прошла никакого лицензирования. Поэтому хочу предупредить граждан, что это лишь рекламный трюк, и корпорация (Российская корпорация нанотехнологий) к этому товару не имеет никакого отношения<Node id="777"/>», – подчеркнул С.Иванов<Node id="801"/>.
+
+Стоит отметить, что программа развития нанотехнологий действительно предусматривает выпуск некоторых коммерческих продуктов, однако каких именно, будет определено госпрограммой развития наноиндустрии <Node id="1004"/>до 2015г.<Node id="1013"/>, которая будет рассмотрена <Node id="1041"/>правительством<Node id="1055"/> только в <Node id="1065"/>первом квартале 2008г.<Node id="1087"/> Как пояснил ранее С. Иванов, конечная цель программы – «выйти на рынок с коммерческим продуктом, а первая – заняться стандартизацией и метрологией».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="1041" EndNode="1055">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительством</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="504" EndNode="777">
+</Annotation>
+<Annotation Id="2" Type="темы" StartNode="504" EndNode="777">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="504" EndNode="801">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1004" EndNode="1013">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1065" EndNode="1087">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="504" EndNode="801">
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="504" EndNode="801">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="504" EndNode="801">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

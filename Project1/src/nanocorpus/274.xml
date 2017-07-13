@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>НАСА<Node id="4"/> и компания M2mi создают новые нано-спутникиАмериканское космическое агентство <Node id="83"/>НАСА<Node id="87"/> в сотрудничестве с калифорнийской компанией M2mi займется разработкой нового поколения чрезвычайно компактных космических аппаратов – нано-спутников. 
+«<Node id="240"/>НАСА<Node id="244"/> будет взаимодействовать с компаниями реального сектора экономики для того, чтобы размещать в космическом пространстве новые коммерческие аппараты. У M2mi есть великолепные технологии, которые соответствуют нашим задачам с одной стороны, а с другой, расширяют коммерческое использование уже созданных спутников<Node id="554"/>», – говорит Пит Уорден<Node id="577"/>, директор центра космических исследований <Node id="620"/>НАСА<Node id="624"/> им. Эймса в штате Калифорния.
+ Создаваемые нано-спутники будут весить от 5 до 50 кг и в основном предназначены они для телекоммуникационных нужд. Фактически они будут представлять собой разновидность телекоммуникационных спутников 5-го поколения для связи на основе интернет-протокола IP.Пятое поколение или 5G сочетает в себе системы передачи голоса, видео, данных, а также предоставляют возможности для ретрансляции сигнала. В <Node id="1054"/>НАСА<Node id="1058"/> говорят, что большое количество подобных спутников, при их выводе на орбиту, получит название Созвездие и будет задействовано для новых телекоммуникационных и сетевых систем.
+ 
+«<Node id="1237"/>Созвездие обеспечит глобальное космическое базирование новой высокоскоростной сети для современных телекоммуникаций и наблюдений за планетой», – говорит исполнительный директор M2mi Джефф Браун<Node id="1430"/>. «Нано-спутники отличаются низкой себестоимостью и возможностью массового производства».
+ <Node id="1521"/>http://www.cybersecurity.ru/news/47164.htmlNASA<Node id="1568"/> создаст в космосе сеть наноспутниковИсследовательский центр NASA Ames планирует начать работу вместе с M2mi, Corp. по разработке компактных спутников для поддержки телекоммуникаций и других сетей в космосе. План постройки спутников с применением нанотехнологий поможет коммерциализации космоса, говорят в NASA.NASA хочет работать с различными компаниями для создания новой экономики в космическом пространстве. Национальное управление США по аэронавтике и исследованию космоса будет работать над совместным планом разработки и исследований, причем это всего лишь третья подобная договоренность в истории NASA. Построенные спутники будут весом от 5 до 50 кг и создадут сеть на низкой околоземной орбите.
+Сеть этих спутников предоставит надежную глобальную высокоскоростную связь, систему хранения данных и наблюдения за планетой. Причем этот проект, используя значительные достижения в микроэлектронике, будет реализован с применением методов массового производства. Телекоммуникации и другие сети систем, основанных на IP-сервисах и разрабатывающиеся как системы пятого поколения, предоставят передачу голоса, видео и других данных.
+NASA поделится своим опытом в <Node id="2732"/>наносенсорах<Node id="2744"/>, беспроводных сетях и технологиях наноспутников, а M2mi займется программным обеспечением, <Node id="2836"/>сенсорами<Node id="2845"/>, системами автоматического регулирования и коммерциализацией проекта. По мнению NASA, эта инициатива будет иметь решающее значение в удовлетворении будущих потребностей мобильной связи.
+Андрей <Node id="3039"/>Горьевhttp://www.3dnews.ru<Node id="3065"/>/…ikov-560149/Да, спутники весом всего 5–50 кг для <Node id="3116"/>НАСА<Node id="3120"/> будут явно считаться «нано-спутниками». Очевидно, что американцы решили наводнить космос мириадами своих дешёвых и компактных космических аппаратов, которые будут выполнять определённые функции (на этот раз – в области связи), и «подстраховывать» друг друга в случае какой-либо неисправности у «соседа». Может быть, это – промежуточный этап реализации проекта «умная пыль», только в космосе и с аппаратами конечных размеров? Хитрецы, однако…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="3116" EndNode="3120">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="240" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="упоминается" StartNode="240" EndNode="1430">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="240" EndNode="577">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="240" EndNode="577">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="2836" EndNode="2845">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1237" EndNode="1430">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="2732" EndNode="2744">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="240" EndNode="1430">
+</Annotation>
+<Annotation Id="14" Type="темы" StartNode="240" EndNode="554">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="3039" EndNode="3065">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1237" EndNode="1430">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="83" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="1054" EndNode="1058">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="1521" EndNode="1568">
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="0" EndNode="4">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="620" EndNode="624">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="240" EndNode="554">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

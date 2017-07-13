@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+По мнению исследователей, такое предупреждение должно быть вписано в этикетку, прилагаемую к потребительским товарам, изготавливаемым с применением нанотехнологий.
+
+Речь пока идет о <Node id="183"/>наночастицах<Node id="195"/> серебра, используемых для пропитки носков (с целью удаления запаха пота) и в качестве антибактериальных агентов в медицинских бинтах. Исследования, проведенные <Node id="356"/>Т. Бэном<Node id="364"/> и <Node id="367"/>П. Вестерхофом<Node id="381"/> (T.Benn, P.Westerhoff) из Университета штата Аризона (Arizona State University), показали, что <Node id="477"/>наночастицы<Node id="488"/> серебра вымываются при нескольких стирках, попадая в окружающую среду и причиняя вред водным микроорганизмам.
+
+Бэн и Вестерхоф провели испытания носков и бинтов, пропитанных <Node id="663"/>наночастицами<Node id="676"/> серебра, от семи производителей. Опустив их в дистилированную воду на <Node id="747"/>один час<Node id="755"/>, они затем исследовали состав результирующей воды и обнаружили в ней токсичные ионы и <Node id="842"/>наночастицы<Node id="853"/> серебра. Ионы серебра уменьшают запах пропотевшей ткани, воздействую на соответствующие бактерии. В бинтах ионы серебра угнетают размножение бактерий, которые могут вызвать инфекционное заражение кожи. Однако, попадая в кровеносные сосуды через царапины и ссадины на коже (здоровая кожа является эффективным барьером для <Node id="1175"/>наночастиц<Node id="1185"/>), ионы серебра могут пагубно воздействовать на микроорганизмы, важные для жизнедеятельности человека. Токсичность <Node id="1300"/>наночастиц<Node id="1310"/> серебра уже установлена Агентством по защите окружающей среды (Environmental Protection Agency, EPA).
+
+Исследователи рекомендуют, чтобы EPA потребовала от производителей усовершенствовать технологию пропитки, добившись более прочной связи <Node id="1550"/>наночастиц<Node id="1560"/> с тканью, чтобы исключить их вымывание при стирке.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="367" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="477" EndNode="488">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="356" EndNode="364">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="663" EndNode="676">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1550" EndNode="1560">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="842" EndNode="853">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="747" EndNode="755">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1300" EndNode="1310">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="183" EndNode="195">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1175" EndNode="1185">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

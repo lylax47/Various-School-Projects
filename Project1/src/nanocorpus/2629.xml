@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Современное использование трансмиссионной электронной микроскопии, интегрированной в платформу сканирующей зондовой микроскопии позволяет проводить беспрецедентно подробный наноразмерный анализ материалов.
+
+Трансмиссионная электронная микроскопия (<Node id="249"/>ТЭМ<Node id="252"/>) – это мощный инструментальный подход для структурного анализа материалов, однако in situ (без перемещения образца) наноразмерное изучение механических, электрических, термических свойств материала требует новых аппаратурных решений. Скнирующая зондовая микроскопия (СЗМ), включая скнирующую туннельную микроскопию (СТМ), атомную силовую микроскопию (АСМ), использование нано-инденторов для определения твердости материала – в состоянии охарактеризовать физические и механические свойства материала вплоть до атомных характеристик, но без воспроизведения особенностей структуры. Сочетание платформ <Node id="851"/>ТЭМ<Node id="854"/>-СЗМ, с полным использованием всех возможностей обоих методов привносит уникальные возможности в полном наноразмерном in situ изучении свойств материала с одновременным учетом корреляций изучаемых эффектов.
+
+Джианью Хьянг (Jianyu Huang) из Sandia National Laboratories, например, успешно использовал такую технологию для параллельного изучения электрических и механических свойств <Node id="1235"/>углеродных <Node id="1246"/>нанотрубок<Node id="1256"/>. Он закрепил многостенную <Node id="1283"/>углеродную <Node id="1294"/>нанотрубку<Node id="1304"/> (МУНТ) между позиционирующей образец платформой и наконечником зонда сканирующего микроскопа, а затем регистрировал электрические и силовые показатели образца в условиях пропускания электрического тока вдоль МУНТ и разогрева образца до определенной температуры. Также были изучены особенности протекания процесса разрушения МУНТ изнутри – слой за слоем, проведенные с помощью <Node id="1681"/>ТЭМ<Node id="1684"/>. Одновременно с этими показателями каждые <Node id="1727"/>несколько секунд<Node id="1743"/> выполнялся снимок образца с помощью просвечивающего (трансмиссионного) электронного микроскопа.
+
+В своей работе, представленной на Пятьдесят Пятом Международном Симпозиуме, посвященном перспективным методам изображения (AVS 55th International Symposium &amp; Exhibition), Хьянг описал методологию анализа изображений одностенных <Node id="2069"/>углеродных <Node id="2080"/>нанотрубок<Node id="2090"/> (ОУНТ), растущих во внутреннем пространстве МУНТ, полученных с помощью <Node id="2162"/>просвечивающей электронной микроскопии<Node id="2200"/>. Наложение множества полученных кадров, воспроизведенное в виде короткого видео-ролика, помогло ученым ответить на давно интересующий вопрос, касающийся образования <Node id="2366"/>нанотрубок<Node id="2376"/>: почему свободный конец растущих <Node id="2410"/>нанотрубок<Node id="2420"/> является закрытым (Sumio Iijima, пионер в изучении <Node id="2472"/>нанотрубок<Node id="2482"/> в Японии недавно сделал такое же наблюдение). Без понимания механизмов роста этих интереснейших <Node id="2579"/>углеродных <Node id="2590"/>наноструктур<Node id="2602"/> невозможно приступить к созданию <Node id="2636"/>нанотрубок<Node id="2646"/> с заданными свойствами, такими как структура или хиральность, важными в конструировании устройств на основе <Node id="2755"/>нанотрубок<Node id="2765"/>, таких как, например, полевые транзисторы.
+
+В своих более ранних исследованиях Хьянг использовал ту же мощную технологию для наблюдения за растяжением <Node id="2917"/>углеродных <Node id="2928"/>нанотрубок<Node id="2938"/> и образованием и миграцией различных нежелательных пластических деформаций, а так же образованием фуллереновых структур внутри МУНТ. В сотрудничестве с Rice University была проведена математическая обработка полученных результатов и описаны основные принципы поведения <Node id="3208"/>нанотрубок<Node id="3218"/> в условиях смещения атомов.
+
+Следующие направления исследований с использованием <Node id="3300"/>ТЭМ<Node id="3303"/>-СЗМ платформы будут посвящены изучению термических и термоэлектрических свойств <Node id="3384"/>нанотрубок<Node id="3394"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="2590" EndNode="2602">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="2472" EndNode="2482">
+</Annotation>
+<Annotation Id="3" Type="Просвечивающая+электронная+микроскопия" StartNode="2162" EndNode="2200">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="2410" EndNode="2420">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="2080" EndNode="2090">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1235" EndNode="1256">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="3208" EndNode="3218">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1727" EndNode="1743">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="2928" EndNode="2938">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="851" EndNode="854">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+наноструктура" StartNode="2579" EndNode="2602">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1246" EndNode="1256">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="2366" EndNode="2376">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="249" EndNode="252">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="1681" EndNode="1684">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="1294" EndNode="1304">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="1283" EndNode="1304">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="3300" EndNode="3303">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Углеродная+нанотрубка" StartNode="2069" EndNode="2090">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="3384" EndNode="3394">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="2917" EndNode="2938">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="2636" EndNode="2646">
+</Annotation>
+<Annotation Id="24" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="2755" EndNode="2765">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

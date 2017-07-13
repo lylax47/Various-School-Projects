@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Роснанотехнологии и Томская область в <Node id="38"/>июне<Node id="42"/> планируют подписать соглашение о сотрудничествеТомск. <Node id="97"/>24 апреля<Node id="106"/> – Корпорация «Роснанотехнологии», Томская область и консорциум «Центр нанотехнологий» Томской области в <Node id="211"/>июне<Node id="215"/> подпишут <Node id="225"/>соглашение<Node id="235"/> о сотрудничестве в научно-технической сфере и подготовке кадров.
+
+Об этом руководитель территориального управления РосОЭЗ по Томской области Владимир Прец сообщил на пресс-конференции в четверг в пресс-центре агентства «Интерфакс-Сибирь» в Томске.
+ «В рамках консорциума в регионе создаются условия для целого кластера, охватывающего Томскую особую экономическую зону (ОЭЗ), вузы, исследовательские центры и компании. Соглашение позволит определить стратегические направления развития нанотехологий и определить источники их финансирования», – заявил <Node id="787"/>В.Прец<Node id="793"/>.
+ <Node id="796"/>http://www.interfax-russia.ru/…Fin/374.html?…Ну<Node id="843"/> что ж, «Роснанотех» пошла в регионы. И это – замечательно! Москва, Питер и их соответствующие области сами могут позаботиться о себе, по крайней мере, в первое время… А «глубинку» (тем более – глубинку научную) нужно быстро поднимать до уровня центральных областей. Новых успехов и удач!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Партнеры_Клиенты" StartNode="225" EndNode="235">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="787" EndNode="793">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="796" EndNode="843">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="97" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="211" EndNode="215">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="38" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

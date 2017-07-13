@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Во <Node id="4"/>вторник, 22 января<Node id="22"/>, группа «Онэксим» обнародовала свой первый проект в области нанотехнологий. Компания намерена построить в Москве научно-технический комплекс (НТК), сумма инвестиций в который может превысить <Node id="214"/>100 млн долл.<Node id="227"/>
+
+<Node id="229"/>До 2011 года<Node id="241"/> в Москве появится научно-технический комплекс «Старопетровский» площадью 10–15 тыс. кв. метров, где будут размещены лабораторные центры для проведения исследований в области нанотехнологий. Об этом заявил в ходе заседания Экспертного совета по нанотехнологиям группы «Онэксим» генеральный директор SGM Александр Корзников. В этот центр «Онэксим», подконтрольный Михаилу Прохорову, планирует инвестировать порядка 45–<Node id="658"/>60 млн долл.<Node id="670"/>, а если учитывать оборудование, которое будет закупаться для центра, сумма может составить и <Node id="764"/>более 100 млн долл.<Node id="783"/>
+
+Этот проект – дебютный для Михаила Прохорова, который все еще находится в процессе «раздела имущества» со своим экс-партнером Владимиром Потаниным. Глава «Онэксима» всерьез решил заняться нанотехнологиями. Чтобы подтвердить основательность своих намерений, М.Прохоров даже создал Экспертный совет по нанотехнологиям, который состоит из 20 ученых. Ученые будут оценивать проекты с научной точки зрения. Однако представитель «Онэксима» <Node id="1219"/>Игорь Петров<Node id="1231"/> <Node id="1232"/>подчеркнул, что новые проекты – не благотворительная акция, в первую очередь будут оцениваться с коммерческой точки зрения и прибыльности<Node id="1369"/>.
+
+Между тем до сих пор компания не раскрывала деталей своих планов в этой области, и лишь вчера стало известно о первом проекте группы. <Node id="1506"/>Как рассказал представитель «Онэксима» Игорь Петров<Node id="1557"/>,<Node id="1558"/> <Node id="1559"/>компания намерена инвестировать порядка <Node id="1599"/>60 млн долл.<Node id="1611"/> в строительство в Москве НТК «Старопетровский»<Node id="1658"/>. Строительство подразумевает две очереди.
+
+На первом этапе «Онэксим» намерен перестроить здание бывшего НИИ «Гипростанок», на втором – возвести новый комплекс площадью 10 тыс. кв. м. Всего к <Node id="1850"/>2010г.<Node id="1856"/> предполагается ввести в эксплуатацию 15 тыс. кв. м площадей, из которых 5 тыс. кв. м будет отдано под лаборатории. С учетом оборудования стоимость всего проекта может превысить <Node id="2034"/>100 млн долл.<Node id="2047"/>, добавил И.Петров. Одним из первых проектов НТК станет изучение селективных каталитических <Node id="2139"/>нанокомпозитов<Node id="2153"/>.
+
+Партнером «Онэксима» по этому проекту выступает компания Science Global Management (SGM). <Node id="2246"/>По словам гендиректора Александра Корзникова, по сути, будет создан пятизвездочный отель для ученых, в котором они смогут в комфортных условиях проводить исследования на мировом уровне<Node id="2430"/>.
+
+О создании группы «Онэксим» Михаил Прохоров объявил в <Node id="2487"/>середине прошлого года<Node id="2509"/>. Общая стоимость активов инвестфонда превышает <Node id="2557"/>17 млрд долл.<Node id="2570"/> Группа специализируется на инновационных проектах в сфере традиционной водородной энергетики, нанотехнологий, горно-металлургической отрасли.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1219" EndNode="1369">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="229" EndNode="241">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="764" EndNode="783">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="упоминает" StartNode="1219" EndNode="2430">
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="1231" EndNode="1232">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1599" EndNode="1611">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="1850" EndNode="1856">
+</Annotation>
+<Annotation Id="11" Type="работает" StartNode="1557" EndNode="1558">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">представитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1506" EndNode="1658">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Деньги" StartNode="2034" EndNode="2047">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="2487" EndNode="2509">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Деньги" StartNode="2557" EndNode="2570">
+</Annotation>
+<Annotation Id="21" Type="сотрудники" StartNode="1557" EndNode="1558">
+</Annotation>
+<Annotation Id="20" Type="упоминается" StartNode="1219" EndNode="2430">
+</Annotation>
+<Annotation Id="23" Type="цитаты" StartNode="1559" EndNode="1658">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="2246" EndNode="2430">
+</Annotation>
+<Annotation Id="25" Type="Деньги" StartNode="214" EndNode="227">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="темы" StartNode="1559" EndNode="1658">
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="4" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Нанокомпозит" StartNode="2139" EndNode="2153">
+</Annotation>
+<Annotation Id="28" Type="высказывания_заявления" StartNode="1219" EndNode="1369">
+</Annotation>
+<Annotation Id="31" Type="высказывания_заявления" StartNode="2246" EndNode="2430">
+</Annotation>
+<Annotation Id="30" Type="Деньги" StartNode="658" EndNode="670">
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="автор" StartNode="1506" EndNode="1658">
+</Annotation>
+<Annotation Id="32" Type="работает" StartNode="1231" EndNode="1232">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">представитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

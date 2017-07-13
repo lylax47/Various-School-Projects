@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В задаче речь идет о модификации <Node id="35"/>углеродных <Node id="46"/>нанотрубок<Node id="56"/>, необходимой для изменения их биологической активности, гидрофилизации (функционализации), сопряжения с полимерами в композитах, биологическими макромолекулами и т.д.
+ Расшифровка цепочки дана в приложенном графическом файле. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="35" EndNode="56">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="46" EndNode="56">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>07 сентября 2007<Node id="16"/> – Профессор Бар-Иланского университета <Node id="56"/>Арье Забан<Node id="66"/> запатентовал новую технологию получения электричества из солнечной энергии, сообщает Jerusalem Post. По словам ученого, эксперта в области нанотехнологий, его изобретение позволит значительно удешевить производство солнечной электроэнергии.
+
+Учитывая, что высокая себестоимость — главное препятствие на пути развития солнечной электроэнергетики, открытие израильского профессора может иметь огромное значение.
+
+Солнечные батареи <Node id="496"/>Арье Забана<Node id="507"/> обладают такой же производительностью, как стандартные элементы на основе кремния, но при этом намного дешевле в производстве. В <Node id="637"/>настоящее время<Node id="652"/> израильская фирма Orionsolar, заключив контракт с университетом <Node id="717"/>Бар-Илан<Node id="725"/>, разрабатывает коммерческие продукты на основе изобретения Забана.
+
+Ученый верит, что <Node id="812"/>примерно через пять лет<Node id="835"/>, когда эти разработки выйдут на рынок, они ознаменуют собой начало новой эры для мировой энергетики, освободив ее от нефтяной зависимости.
+<Node id="975"/>http://news.israelinfo.ru/…nology/22928Associate<Node id="1023"/> Prof. Arie Zaban <Node id="1041"/>Homepagehttp://www.biu.ac.il<Node id="1069"/>/faculty/zabana/Хорошо, если это действительно так. При массовом производстве и использовании таких батарей любое снижение себестоимости их производства может обернуться многомиллионными прибылями. Здесь, в качестве примера, может быть взят опыт снижения себестоимости продукции в автомобилестроении. Любое удешевление производства, помноженное на миллионы единиц продукции (например, в США) может привести к весьма существенной экономии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="56" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Арья</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="717" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Бар-Илан</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="0" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="496" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Арья</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1041" EndNode="1069">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="637" EndNode="652">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="975" EndNode="1023">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="812" EndNode="835">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

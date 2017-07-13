@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Первый международный Форум по нанотехнологиям завершился награждением победителей международного конкурса научных работ молодых ученых в области нанотехнологий
+
+С такими заголовками выходят последние новости, посвещенные обзору Международного форума по нанотехнологиям, прошедшему в Москве в Экспоцентре.
+
+Закрытие началось <Node id="325"/>с минуты<Node id="333"/> молчания, которой все участники Форума почтили память патриарха <Node id="398"/>Алексия II<Node id="408"/>, скончавшегося <Node id="424"/>утром 5-го декабря<Node id="442"/>.
+
+Однако жизнь берёт своё и далее церемония закрытия форума проходила на позитивной ноте. В торжественной церемонии награждения победителей приняли участие заместитель председателя Правительства РФ Сергей Иванов<Node id="654"/>,<Node id="655"/> Министр образования и науки Андрей Фурсенко, генеральный директор РОСНАНО Анатолий Чубайс и лауреат Нобелевской премии, вице-президент РАН, академик <Node id="805"/>Жорес<Node id="810"/> <Node id="811"/>Алферов<Node id="818"/>.
+
+В целом, деятельность форума оценена положительно. Основные итоги будут подведены на <Node id="906"/>следующей недели<Node id="922"/>.
+ Аудио-запись торжественного закрытия.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="805" EndNode="810">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="906" EndNode="922">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="811" EndNode="818">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="424" EndNode="442">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="654" EndNode="655">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="654" EndNode="655">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="398" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">патриарх</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Алексий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="325" EndNode="333">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

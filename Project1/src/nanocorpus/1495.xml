@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+ZPower, Inc. (Австралия) разработала новые батарейки для портативной электроники – ноутбуков, мобильных телефонов. Эти серебряно-цинковые батарейки относятся к актуальным в <Node id="174"/>настоящее время<Node id="189"/> «чистым технологиям» (в отличие от широко используемых токсичных литиевых ионных батареек).
+
+В анонсе ZPower указываются, что новые батарейки имеют на <Node id="341"/>40%<Node id="344"/> больший временной ресурс по сравнению с литиевыми, полностью безопасны, экологически чистые, не воспламеняются. Кроме того, <Node id="469"/>90%<Node id="472"/> составляющих их элементов могут быть использованы повторно.
+
+Размеры батарейки – 50×35×10 мм, емкость 5800 мА/<Node id="583"/>час<Node id="586"/>. К массовому производству компания ZPower приступит в средине <Node id="649"/>2008 г.<Node id="656"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="583" EndNode="586">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="174" EndNode="189">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="341" EndNode="344">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="469" EndNode="472">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="649" EndNode="656">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

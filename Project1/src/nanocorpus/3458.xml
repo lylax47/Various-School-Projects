@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Центр работает на базе Физико-технического института ИрГТУ.
+
+Университет намерен взаимодействовать с научными институтами Иркутского научного центра СО РАН в области подготовки студентов по специальности «Нанотехнологии» и вести научные исследования.
+ИрГТУ
+Сейчас в центре идет организационная работа и закупка оборудования для научных исследований.
+Александр Афанасьев, проректор по научной работе ИрГТУ: 
+Объединив усилия университета и научного центра, возможно, удастся получить финансирование проекта из федерального бюджета.
+ <Node id="533"/>http://www.irk.ru/…/center.htmlНу<Node id="566"/> вот и сибиряки подтягиваются… Причём, совсем не скрывают своих «материальных интересов»… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="533" EndNode="566">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

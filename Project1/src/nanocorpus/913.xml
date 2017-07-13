@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  
+Ответ -  да, можно, если точки пролетают напротив наблюдателя или приближаются к нему.
+ 
+Люминесценция неподвижной кв.точки имеет энергию фотонов (1) , где Eg0=1.12 эВ,  mr=0.3m0 
+Тогда длина волны свечения такой точки соответствует (2) , т.е. еще может быть видима невооруженным глазом.
+ 
+С учетом релятивистского эффекта <Node id="326"/>Доплера<Node id="333"/>: (3) 
+Тогда для приближающейся точки (V &gt; 0) : Л+= 665 нм – красный свет,
+ 
+а для удаляющейся точки (V &lt; 0) : Л-= 813 нм –  инфракрасный свет.
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="326" EndNode="333">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Доплер</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Академия Наук Молдовы осваивает новые горизонты сотрудничестваКИШИНЕВ, <Node id="71"/>14 марта<Node id="79"/> – В брюссельской штаб-квартире Североатлантического альянса прошел научный форум в рамках заседания комитета по науке для мира и безопасности, в котором принял участие президент Академии наук Молдовы Георге Дука, сообщает агентство «НОВОСТИ-МОЛДОВА».
+Георге ДукаБыли обсуждены проблемы защиты окружающей среды, действий при экологических катастрофах и экстремальных ситуациях, развития международного сотрудничества, информирования и привлечения гражданского общества к решению экологических вопросов (загрязнение воды, атмосферы, почвы).
+
+На форуме рассматривался вопрос о приоритетных задачах, включенных в План действий РМ-НАТО в сфере сотрудничества в фундаментальных и прикладных исследованиях.
+<Node id="780"/>Эта неделя<Node id="790"/> была богата на международные события, касающиеся идей, разрабатываемых в международных научных учреждениях Европы и Азии. Так, в Любляне (Словения) прошла международная конференция в области био-, нано- и космических технологий. Организатор – Европейская комиссия. В форуме приняли участие представители Академий наук Армении, Азербайджана, Белоруссии, Грузии, Молдовы, России и Украины.
+Ион <Node id="1183"/>Тигиняну<Node id="1191"/>
+От Молдовы посланником на конференции был вице-президент Академии Наук <Node id="1263"/>Ион Тигиняну<Node id="1275"/>. Он представил доклад о проводимых в Молдове реформах в научной сфере и инновациях. Участники подписали и новые соглашения о сотрудничестве. Они касались общих проблем по разработке, внедрению научных идей и обмену информацией по этим вопросам. В частности, институтом «Jozef Stefan»-Любляна и Академией Наук РМ заключено соглашение о сотрудничестве, которое открывает интересные перспективы в совместной деятельности.
+<Node id="1695"/>http://www.newsmoldova.ru/news.html?…Академия<Node id="1740"/> наук Молдовыhttp://www.asm.md/?…Да, вот молдавские наши братья решили действовать в этой области через международные организации: НАТО и ЕС. Очевидно, в надежде побыстрее попасть в эти организации. Причём, пока практически ничего мы не знаем о современном состоянии науки и техники в самой Молдове. Ну, как говорится, поживём – увидим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="71" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1183" EndNode="1191">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тигинян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1263" EndNode="1275">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тигинян</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="780" EndNode="790">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1695" EndNode="1740">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

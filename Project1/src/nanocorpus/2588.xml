@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Пентагон<Node id="8"/> разместит заказ на лекарство от радиацииМинистерство Обороны США (Department of Defense) заказало исследование, целью которого является проверка эффективности нового медицинского препарата. Этот препарат называется NTH – от «Нановекторные <Node id="248"/>Троянские Кони<Node id="262"/>» (Nanovector Trojan Horses) создан на основе нанотехнологий. Предварительные опыты показали, что в борьбе с последствиями радиоактивного облучения его эффективность в 5 тыс. раз выше, чем у лучших имеющихся лекарственных аналогов.
+NTH был впервые разработан подразделением <Node id="536"/>Университета Райс<Node id="553"/> (Rice University's Chemistry Department) и Институтом Нанонауки и Технологии имени Ричарда Смайли (Carbon Nanotechnology Laboratory in the Richard E. Smalley Institute for Nanoscale Science and Technology). Препарат представляет из себя <Node id="791"/>углеродную <Node id="802"/>нанотрубку<Node id="812"/> с диаметром, равным диаметру ДНК. <Node id="847"/>Нанотрубка<Node id="857"/> связана с двумя веществами, которые обычно применяются для консервирования продуктов питания.
+Механизм действия NTH следующий: он борется со свободными радикалами, которые разрушают живые клетки и прекращают течение физиологических процессов. В результате опытов на мышах было выяснено, что нанопрепарат способен успешно защищать от воздействия радиации (при облучении в организме животного или человека также возникают свободные радикалы).
+Ныне известно, что если происходит авария, сопровождающаяся радиоактивным заражением или направленным воздействием ионизирующей радиации на человека, то <Node id="1452"/>в течение 30 дней<Node id="1469"/> погибает половина облученных. Причиной их смерти является распад различных систем организма (например, иммунной и/или пищеварительной системы), которую разрушают радиоактивные частицы.
+По материалам Washprofile.orghttp://<Node id="1691"/>www.expert.org.ua/statias/?…Feds<Node id="1723"/> fund study of drug that may prevent radiation <Node id="1770"/>injuryhttp://www.nanotech-now.com/news.cgi?…Судя<Node id="1818"/> по всему, вещество является мощным антиоксидантом (так называют препараты для борьбы со свободными радикалами). Очевидно, что и нашим исследователям было бы интересно и важно попытаться найти/изобрести нечто подобное, ибо чего-чего, а разного рода облучений у нас тоже бывает немало. И это – ещё одна «победа» нанотехнологов или нанотехнологии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="0" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Пентагон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="536" EndNode="553">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="791" EndNode="812">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1452" EndNode="1469">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1770" EndNode="1818">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="847" EndNode="857">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="248" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кони</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1691" EndNode="1723">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="802" EndNode="812">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

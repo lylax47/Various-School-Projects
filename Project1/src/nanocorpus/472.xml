@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Ученые из Испании объединили вместе молекулы <Node id="46"/>фуллерена<Node id="55"/> в "жемчужные" нити и получили полимер с уникальными электронными свойствами. 
+ 
+Ключевым моментом была разработка мономера, состоящего из сложного набора связанных колец. Мономер был получен путем модификации гетероциклического соединения TTF (tetrathiafulvalene, C6H4S4), в результате которой получилась сопряженная ароматическая структура, способная удерживать <Node id="419"/>фуллерены<Node id="428"/> внутри полостей и выстраивать их в ряды. 
+ 
+Методом АФМ и правда были обнаружены длинные нити, похожие на бусы. Длина полученных цепей достигала 300 нм, а ширина составляла 2 нм. Это в 5 миллионов раз меньше, чем настоящее жемчужное ожерелье. 
+ 
+<Node id="675"/>Фуллерены<Node id="684"/> имеют замечательные электронные свойства, однако реализовать их  на практике довольно трудно. А новый полимер объединяет их в единый материал, который может использоваться, например, в органических солнечных батареях. Кроме того, этот электроактивный полимер может выступать как в роли донора, так и акцептора электронов. Эту особенность исследователи собираются изучать в дальнейшем. 
+ 
+Работа "Self-Organization of Electroactive Materials: A Head-to-Tail Donor-Acceptor Supramolecular Polymer" была опубликована в журнале Angewandte Chemie International Edition. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="46" EndNode="55">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="419" EndNode="428">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="675" EndNode="684">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

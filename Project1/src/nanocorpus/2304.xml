@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ученые Таджикистана начнут заниматься разработкой нанотехнологий, пишет «Курьер Таджикистана»<Node id="93"/>Мамадшо Илолов<Node id="107"/> "В Таджикистане впервые создана структура, которая будет заниматься разработкой нанотехнологий. При Физико-техническом институте имени С.Умарова АН РТ создан отдел нанотехнологий. Об этом журналистам заявил президент Академии наук РТ <Node id="342"/>Мамадшо Илолов<Node id="356"/>,<Node id="357"/> добавив, что отдел заработал <Node id="387"/>в конце прошлого года<Node id="408"/>.  
+По словам академика, таджикские ученые уже начали сотрудничать в этом направлении со своими российскими коллегами, в том числе, сотрудниками Института кристаллографии имени Шубникова, Объединенного института ядерных исследований (г.Дубна).
+  
+Он отметил, что данный аспект сотрудничества ученых двух стран был подробно обсужден <Node id="740"/>на встрече президента АН РТ с вице-президентом Российской Академии наук Николаем Лаверовым<Node id="830"/>,<Node id="831"/> которая состоялась в конце <Node id="859"/>ноября 2007 года<Node id="875"/> в Москве. Именно на ней и были определены дальнейшие перспективы в этом направлении".
+ Николай Павлович<Node id="979"/> <Node id="980"/>Лаверовhttp://www.regnum.ru/…/949455.htmlФизико-технический<Node id="1039"/> институт имени С.У. Умарова (ФТИ АН РТ)Адрес: Таджикистан, 734063, Душанбе, просп. Айни, 299/1
+Телефон: 992+37+2251191
+Ну это просто замечательно! Уж если в истерзанной гражданской войной стране – Таджикистане – планируют начать заниматься нанотехнологиями, то это значит, что страна постепенно оправляется от послевоенной разрухи, её экономика окрепла, возрождаются науки и ремёсла… И хорошо, что в организации этих исследований, в подготовке квалифицированнных кадров таджикским учёным будут помогать их российские коллеги… Успехов им на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="встречи_и_переговоры" StartNode="740" EndNode="979">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="93" EndNode="107">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Илолов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="356" EndNode="357">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="342" EndNode="356">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Илолов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="830" EndNode="831">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">вице-президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="830" EndNode="831">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="980" EndNode="1039">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="356" EndNode="357">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="387" EndNode="408">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="859" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

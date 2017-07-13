@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Андрей Кокошин <Node id="15"/>избран<Node id="21"/> заместителем руководителя фракции ‹Единая Россия› в ГосдумеДепутат <Node id="89"/>Госдумы<Node id="96"/> Андрей Кокошин избран заместителем руководителя фракции ‹Единая Россия›, которую возглавляет спикер палаты Борис Грызлов.
+Андрей Кокошин в руководстве фракции ‹Единая Россия› будет отвечать за комплекс вопросов, связанных с построением в России современной инновационной экономики, за вопросы развития наукоемких и экологически чистых технологий, высокотехнологичной промышленности как гражданского, так и военного назначения в соответствии с приоритетами, определенными посланиями Президента России В.В.Путина Федеральному Собранию РФ и решениями съездов ‹Единой России›.
+Благодаря усилиям партии и фракции ‹Единая Россия› были достигнуты значительные успехи в таких областях, как развитие отечественных суперЭВМ, ряд нанотехнологий, биотехнологий, альтернативная экологически чистая энергетика, безопасная атомная энергетика, создание конкурентоспособных и все более экологически чистых дизельных двигателей и <Node id="1009"/>др.http://www.kreml.org/news/170816771Ну<Node id="1049"/> вот, «наших» наверху становится всё больше!.. Будем надеяться, что это поможет в (более динамичном) развитии отечественных нанотехнологий…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Назначения_Увольнения" StartNode="15" EndNode="21">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1009" EndNode="1049">
+</Annotation>
+<Annotation Id="11" Type="Кадровые_перестановки" StartNode="15" EndNode="21">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Властная_Структура" StartNode="89" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Госдумы</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Кадровые_перестановки</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

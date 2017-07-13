@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Визит делегации Королевства Саудовской Аравии в ГК «Роснанотех»Apr 1, 2008 7:10:29 PM — ГК «Роснанотех» посетила делегация Королевства Саудовская Аравия во главе с Его Высочеством принцем д-ром <Node id="194"/>Турки<Node id="199"/> бин Саудом, вице-президентом Городка науки и техники имени короля Абдель Азиза.
+Принц <Node id="286"/>Турки<Node id="291"/> бин Сауд, вице-президент Городка науки и техники имени короля <Node id="354"/>Абдель Азиза
+Делегацию принял зам. генерального директора ГК «Роснанотех» Андрей Малышев<Node id="442"/>.<Node id="443"/> В ходе встречи обсуждались вопросы взаимовыгодного сотрудничества Саудовской Аравии и Российской Федерации в области нанотехнологий.
+<Node id="577"/>http://www.rusnano.com/…_04_1_2.htmlМы<Node id="615"/> уже писали ранее о том, что Саудовская Аравия намерена осваивать нанотехнологии ( <Node id="698"/>http://www.nanonewsnet.ru/…otekhnologii<Node id="737"/> ) и что Саудовская Аравия предлагает нам сотрудничество в самых различных областях науки и техники и, в частности, в области нанотехнологий ( <Node id="880"/>http://www.nanonewsnet.ru/…rudnichestvo<Node id="919"/> ). Очевидно, этот визит и является дальнейшим развитием событий в этой области…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="442" EndNode="443">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="577" EndNode="615">
+</Annotation>
+<Annotation Id="3" Type="встречи_и_переговоры" StartNode="354" EndNode="442">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="194" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Турки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="698" EndNode="737">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="442" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="286" EndNode="291">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Турки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="880" EndNode="919">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

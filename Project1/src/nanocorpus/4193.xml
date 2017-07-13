@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Корейские разработчики сообщили об успешном внедрении новой технологии производства транзисторов. Размер нового полупроводника составляет 10 нанометров, что в шесть раз меньше транзистора, используемого в современных микропроцессорах и составляет 1/12000 толщины человеческого волоса. Успех корейских ученых обусловлен использованием <Node id="336"/>углеродных <Node id="347"/>нанотрубок<Node id="357"/>. 
+ 
+Коммерческая реализация технологии запланирована на <Node id="414"/>конец этого года<Node id="430"/>. Устройства хранения информации, созданные с использованием <Node id="491"/>углеродных <Node id="502"/>нанотрубок<Node id="512"/>, характеризуются высокой производительностью и низким энергопотреблением по сравнению с обычными накопителями. Также в десятинанометровых полупроводниках используется материал, который разработчики назвали "Mott insulator". Он обеспечивает мгновенное переключение транзистора из состояния проводника в состояние изолятора. 
+ 
+Пока непонятно, какой емкости может достигать флеш-накопитель на <Node id="904"/>углеродных <Node id="915"/>нанотрубках<Node id="926"/>, но разработчики полны оптимизма и заявляют, что потенциал этой технологии позволит создать устройство емкостью больше ста гигабайт. Максимальная емкость современных флеш-накопителей достигает восьми гигабайт.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="336" EndNode="357">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="491" EndNode="512">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="915" EndNode="926">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="414" EndNode="430">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="904" EndNode="926">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="347" EndNode="357">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="502" EndNode="512">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

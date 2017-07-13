@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Argonne National Laboratory (US) сделали первые гибкие водородные <Node id="84"/>сенсоры<Node id="91"/> на основе одностенных <Node id="114"/>углеродных <Node id="125"/>нанотрубок<Node id="135"/>, имеющих частицы палладия на концах. Помимо способности гнуться, эти <Node id="205"/>сенсоры<Node id="212"/> во многом превосходят своих жестких коллег. Они обладают отличными сенсорными свойствами, быстрым откликом и малым временем восстановления. Кроме того, обычные <Node id="373"/>сенсоры<Node id="380"/>, изготавливаемые из пленок высокочистого палладия, стоят дороже. Использование пластиковой основы в свою очередь позволяет снизить вес и повысить механическую прочность устройства. 
+ 
+Одностенные УНТ высокого качества были выращены на подложке Si/SiO2 методом CVD при 900 °С. <Node id="657"/>Потом<Node id="662"/> при 150 °С <Node id="674"/>нанотрубки<Node id="684"/> были перенесены на пластик, и на них были осаждены частицы палладия. 
+ 
+При реакции <Node id="769"/>наночастиц<Node id="779"/> палладия и водорода образуется гидрид, что приводит к изменению электрического сопротивления <Node id="873"/>сенсора<Node id="880"/>. Например, при <Node id="896"/>0.05%<Node id="901"/> содержании водорода в воздухе сопротивление меняется на <Node id="958"/>75 %<Node id="962"/>. <Node id="964"/>Сенсор<Node id="970"/> не теряет своих свойств и не разрушается даже после 2000 сгибаний. 
+ 
+Такие <Node id="1047"/>сенсоры<Node id="1054"/> (их также называют «чувствительная кожа») могут применяться во многих областях, в особенности, где требуются гибкость, прочность, легкость при достаточно небольшой стоимости, например, в портативной электронике или транспортных средствах, движимых водородными элементами. 
+ 
+Работа была опубликована в Applied Physics Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="84" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="373" EndNode="380">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="873" EndNode="880">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="657" EndNode="662">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="958" EndNode="962">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="896" EndNode="901">
+</Annotation>
+<Annotation Id="8" Type="Сенсор" StartNode="1047" EndNode="1054">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="674" EndNode="684">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="769" EndNode="779">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="125" EndNode="135">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Сенсор" StartNode="964" EndNode="970">
+</Annotation>
+<Annotation Id="17" Type="Сенсор" StartNode="205" EndNode="212">
+</Annotation>
+<Annotation Id="16" Type="Углеродная+нанотрубка" StartNode="114" EndNode="135">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

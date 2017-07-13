@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>ИОННАЯ<Node id="7"/> ИМПЛАНТАЦИЯ: 
+НОВЫЕ ВОЗМОЖНОСТИ ИЗВЕСТНОГО МЕТОДА 
+С.И.Матюхин
+ Орловский государственный технический университет Сформулирована задача исследования механизмов и кинетики взаимодействия ускоренных частиц с макроскопическими порциями вещества, состоящего из <Node id="265"/>фуллеренов<Node id="275"/> и <Node id="278"/>нанотрубок<Node id="288"/>. Результаты этого исследования, помимо того, что они представляют самостоятельный научный интерес, дадут ключ к пониманию процессов, протекающих при взаимодействии ускоренных частиц с <Node id="473"/>углеродными <Node id="485"/>наноструктурами<Node id="500"/>, и станут теоретическим фундаментом новых методов модификации структуры и свойств углеродных <Node id="594"/>наночастиц<Node id="604"/>, основанных на использовании ионных, атомных и молекулярных пучков. 1 Введение 
+Характерной чертой современных технологий является их активное вторжение в мир нанометровых размеров. Стремительное развитие нанотехнологий за рубежом называют наноиндустриальной революцией. И это не преувеличение. Ибо нанотехнологии способны коренным образом преобразовать практически все отрасли науки и техники, способны поменять наши взгляды на мир и повлиять на психологию человеческого общества.
+ 
+Многие из перспективных направлений в нанотехнологиях связываются в последнее время с <Node id="1175"/>фуллеренами<Node id="1186"/>, <Node id="1188"/>нанотрубками<Node id="1200"/> и другими похожими структурами [1–6], состоящими из небольшого числа упорядоченных в пространстве атомов. Они привлекательны потому, что их физико-химические свойства, как правило, разительно отличаются от объемных свойств макроскопических материалов того же состава. Поэтому такие <Node id="1483"/>наноразмерные структуры<Node id="1506"/> рассматриваются сегодня как «крупные блоки» для конструирования новых материалов, необычных лекарственных средств, приборов [7, 8]. В этом плане особый интерес представляют интеркалированные <Node id="1698"/>наноструктуры<Node id="1711"/>, примером которых являются <Node id="1739"/>фуллерены<Node id="1748"/> и <Node id="1751"/>нанотрубки<Node id="1761"/> с внедренными в их внутренние полости ионами, атомами или молекулами, а также другие композитные <Node id="1859"/>наночастицы<Node id="1870"/>.
+ 
+Исследования показали [3–8], что интеркаляция (т.е. внедрение частиц) может существенно менять механические, электромагнитные и химические свойства <Node id="2022"/>наноразмерных структур<Node id="2044"/>. Это открывает новые перспективы их использования в прикладной химии, материаловедении и наноэлектронике. Рассматривая интеркаляцию как своего рода «кристаллоинженерию», можно предположить, что она станет концептуальной основой нанотехнологий, которые призваны заменить исчерпавшие свои возможности микротехнологии. 
+ 
+Известные сегодня способы интеркалирования [5–7] можно условно разделить на три группы: термически экспозиционные, элементо-селективные и электрохимические, при которых интеркаляция осуществляется из жидкой или парогазовой фазы в процессе синтеза <Node id="2611"/>наночастиц<Node id="2621"/> путем прямой или обменной реакций и в виде иона или ион-радикала при электродной поляризации. Эти способы позволяют получить широкий спектр интеркалатов, но они непригодны для быстрого перестраивания режимов, особенно в мультистадийных комбинациях, вследствие присущих им продолжительности и селективности процессов. Кроме того, в ряде случаев перечисленные способы предполагают дополнительную тепловую нагрузку на материал, которая обусловлена низким давлением пара ряда интеркалирующих компонентов (например, металлов), концентрационным пороговым эффектом интеркалирования или кинетическими затруднениями массопереноса. Указанные недостатки затрудняют использование известных способов интеркалирования в промышленных масштабах и превращают задачу внедрения в <Node id="3383"/>наноструктуры<Node id="3396"/> атомов, ионов или молекул в центральную проблему наноразмерных технологий. 
+ 
+Решением этой проблемы, на наш взгляд [9, 10], может стать известный и хорошо изученный метод модификации структуры и свойств твердых тел – метод легирования материалов пучками ускоренных частиц [11–15]. Этот метод внедрения примесных атомов (метод ионной имплантации) давно стал традиционным и высокоэффективным способом управления свойствами полупроводников, что, в свою очередь, обеспечило быстрый прогресс полупроводниковой электроники и микроэлектроники. К его преимуществам относятся высокая воспроизводимость, локальность и точность имплантации, а также возможность введения в заданных количествах практически любой примеси. При всем при том он остается вне поля зрения исследователей, работающих в области нанотехнологий. Привлечь их внимание к идее «легирования» <Node id="4247"/>наноразмерных структур<Node id="4269"/> при помощи ионных, атомных и молекулярных пучков и расширить число известных способов интеркалирования – главная цель настоящей работы.
+ 2 Предварительные оценки 
+Вследствие того, что с момента открытия <Node id="4473"/>фуллеренов<Node id="4483"/>, <Node id="4485"/>нанотрубок<Node id="4495"/> и других углеродных структур основные усилия научного сообщества были направлены на изучение их строения и свойств, а также на изучение свойств структур, модифицированных химическими методами, вопросу взаимодействия с <Node id="4714"/>наноразмерными структурами<Node id="4740"/> ускоренных частиц не уделялось должного внимания в научной литературе [1–8, 16, 17]. В то же время это взаимодействие вызывает интерес с точки зрения как фундаментальной, так и прикладной науки. 
+ 
+Оценки, сделанные с использованием модельных межатомных потенциалов взаимодействия [18] на основе известных данных [3, 4] о строении <Node id="5072"/>фуллеренов<Node id="5082"/> и <Node id="5085"/>нанотрубок<Node id="5095"/>, показывают, что для внедрения во внутренние полости <Node id="5149"/>углеродных <Node id="5160"/>наноструктур<Node id="5172"/> атомные частицы должны преодолеть потенциальный барьер, высота V0 которого не превышает 1 эВ (она зависит от сорта внедряемых атомов): 
+ , 
+ 
+где Z1e – заряд ядра внедряемых атомов, Z2e – заряд атомного ядра углерода (Z2= 6), e = 1.6×10–19 Кл, электрическая постоянная e0 = 8.85×10–12 Ф/м, a – длина углерод-углеродной связи для <Node id="5502"/>наночастицы<Node id="5513"/> (a » 0.142 нм), aF – эффективная длина экранирования заряда ядер атомными электронами:
+  
+(aB – боровский радиус, aB » 0.053 нм). В то же время энергия связи атомов углерода в <Node id="5690"/>наноструктурах<Node id="5704"/> – около 7 эВ на атом, то есть на порядок выше максимальной высоты барьера. Это дает возможность, варьируя энергию пучка, создавать оптимальные условия имплантации (интеркаляции) атомов в <Node id="5892"/>углеродные <Node id="5903"/>наноструктуры<Node id="5916"/>, при которых процессы их разрушения подавлены.
+ 
+При этом энергия пучка не обязательно должна быть меньше 7 эВ. При взаимодействии частиц с <Node id="6057"/>наноструктурами<Node id="6072"/> переданная энергия может распределяться между большим количеством (~100) атомов углерода, то есть переходить во внутреннюю энергию всей <Node id="6209"/>наночастицы<Node id="6220"/>. Кроме того, часть этой энергии может идти на возбуждение поступательных и вращательных степеней свободы <Node id="6326"/>наночастиц<Node id="6336"/>, так как они удерживаются друг возле друга слабыми силами Ван-дер-Ваальса. Это позволяет надеяться, что в целях интеркаляции можно будет использовать, не разрушая углеродных структур, более мощные пучки ионов – пучки с энергией порядка 1 – 10 кэВ. Такие пучки позволят использовать метод ионной имплантации для производства интеркалированных <Node id="6679"/>наночастиц<Node id="6689"/> в промышленных масштабах. 
+ 3 Постановка задачи 
+Для практического использования пучков ускоренных частиц в целях внедрения в <Node id="6816"/>углеродные <Node id="6827"/>наноструктуры<Node id="6840"/> ионов, атомов или целых молекул необходимо иметь представления о кинетике взаимодействия этих пучков с макроскопическими порциями вещества, состоящего из отдельных <Node id="7005"/>наночастиц<Node id="7015"/>. Однако для решения этой сложной проблемы прежде всего следует решить задачу о взаимодействии атомных частиц с уединенными <Node id="7139"/>фуллеренами<Node id="7150"/>, <Node id="7152"/>нанотрубками<Node id="7164"/> и другими простыми структурами.
+ 
+Для решения этой задачи необходимо:
+ 
+1. Исходя из существующих представлений [18] о межатомных взаимодействиях, построить модельные потенциалы, описывающие в широком диапазоне энергий взаимодействие атомных частиц с <Node id="7416"/>фуллеренами<Node id="7427"/>, <Node id="7429"/>нанотрубками<Node id="7441"/> и другими простыми структурами.
+ 
+2. Изучить механизмы энергообмена между ускоренными частицами и уединенными <Node id="7552"/>наноструктурами<Node id="7567"/>. При этом необходимо рассмотреть вопрос о взаимодействии атомных частиц с ионной и электронной подсистемами <Node id="7676"/>наноразмерных структур<Node id="7698"/> и учесть возможность образования структурных дефектов.
+ 
+3. С учетом различных механизмов энергообмена между ускоренными частицами и уединенными <Node id="7844"/>наноструктурами<Node id="7859"/>, на основе модельных представлений о потенциале их взаимодействия решить задачу о вероятности проникновения ускоренных частиц в <Node id="7988"/>фуллерены<Node id="7997"/>, <Node id="7999"/>нанотрубки<Node id="8009"/> и другие похожие структуры. Решение этой задачи позволит ответить на вопрос об угловом и энергетическом распределении атомных частиц, рассеянных на углеродсодержащих <Node id="8176"/>наноструктурах<Node id="8190"/>.
+ 
+4. Найти угловое распределение и распределение по энергиям для атомных частиц, рассеянных на уединенных <Node id="8298"/>наноструктурах<Node id="8312"/>. Изучить особенности этого рассеяния в зависимости от геометрии и строения углеродных <Node id="8399"/>наночастиц<Node id="8409"/>, а также от сорта частиц, внедренных в их внутренние полости.
+ 
+5. Исходя из модельных представлений о межатомных взаимодействиях [18], изучить динамику движения атомных частиц внутри <Node id="8594"/>фуллеренов<Node id="8604"/> и <Node id="8607"/>нанотрубок<Node id="8617"/>. Изучить энергетические состояния этих частиц и статистические свойства случайных сил, которые действуют на них внутри <Node id="8737"/>наноразмерных структур<Node id="8759"/>.
+ 
+6. Стандартными методами [19-22], на основе представлений о динамике движения атомных частиц построить кинетические уравнения, описывающие перераспределение потока частиц внутри <Node id="8941"/>фуллеренов<Node id="8951"/> и <Node id="8954"/>нанотрубок<Node id="8964"/>, и найти их решения. Изучить особенности углового и энергетического распределения атомных частиц при их движении внутри <Node id="9085"/>углеродных <Node id="9096"/>наноструктур<Node id="9108"/>, а также влияние на это распределение их геометрии, структурных дефектов и капсулированных частиц.
+ 
+7. Решить задачу о вероятности захвата атомных частиц во внутренние полости <Node id="9286"/>фуллеренов<Node id="9296"/> и <Node id="9299"/>нанотрубок<Node id="9309"/>. Исследовать влияние на эту вероятность ориентации исходного пучка, его углового и энергетического распределения, а также тех факторов, которые связаны с составом и строением <Node id="9485"/>наноразмерных структур<Node id="9507"/>.
+ 
+8. Решить задачу об образовании в <Node id="9545"/>нанотрубках<Node id="9556"/> и <Node id="9559"/>фуллеренах<Node id="9569"/> структурных дефектов. Исследовать зависимость вероятности образования структурных дефектов от параметров исходного пучка.
+ 
+9. На основе решения задачи об угловом и энергетическом распределении атомных частиц внутри <Node id="9786"/>углеродных <Node id="9797"/>наноструктур<Node id="9809"/>, на основе решения задачи о вероятности захвата этих частиц найти угловое и энергетическое распределение частиц, «прошивающих» уединенные <Node id="9948"/>фуллерены<Node id="9957"/>, <Node id="9959"/>нанотрубки<Node id="9969"/> и другие похожие структуры. Исследовать влияние на это распределение процессов образования структурных дефектов.
+ 
+Решение описанных выше задач позволит изучить кинетику элементарных процессов, связанных с взаимодействием ускоренных частиц с макроскопическими порциями вещества, состоящего из <Node id="10263"/>углеродных <Node id="10274"/>наноструктур<Node id="10286"/>. Теория, описывающая эти элементарные процессы, должна стать фундаментом для дальнейших исследований такого взаимодействия.
+ 
+В ходе этих исследований необходимо:
+ 
+10. Изучить возможные режимы движения атомных частиц через состоящее из <Node id="10524"/>углеродных <Node id="10535"/>наноструктур<Node id="10547"/> вещество и выработать критерии, позволяющие отнести эти частицы к той или иной фракции (к той или иной группе частиц со сходным режимом движения). Изучить влияние на разделение исходного пучка на фракции качественного и количественного состава смеси, а также геометрии взаимного расположения <Node id="10840"/>наночастиц<Node id="10850"/> в ней.
+ 
+11. Исследовать кинетику переходных процессов, связанных с переходом атомной частицы от взаимодействия с одной к преимущественному взаимодействию с другой, соседней <Node id="11025"/>наночастицей<Node id="11037"/>.
+ 
+12. Методами химической кинетики [19, 20], на основе результатов исследований переходных процессов описать перераспределение частиц между различными фракциями пучка при его распространении через вещество, состоящее из структурированных <Node id="11277"/>наночастиц<Node id="11287"/>. При этом с точки зрения приложений важно получить аналитические выражения для эффективной глубины проникновения ускоренных частиц в вещество, для эффективной функции углового и энергетического распределения частиц (в зависимости от глубины проникновения), для эффективной и интегральной вероятности захвата частиц во внутренние полости <Node id="11625"/>углеродных <Node id="11636"/>наноструктур<Node id="11648"/>, а также для интегральной вероятности образования структурных дефектов.
+ 4 Заключение 
+Одним из наиболее привлекательных направлений использования метода ионного легирования <Node id="11823"/>углеродных <Node id="11834"/>наноструктур<Node id="11846"/> является наноэлектроника. Малые размеры, возможность при синтезе получать необходимую электропроводность, механическая прочность и химическая стабильность делают <Node id="12009"/>углеродные <Node id="12020"/>наноструктуры<Node id="12033"/> весьма желанным материалом для производства рабочих элементов функциональных схем. Поэтому в <Node id="12127"/>настоящее время<Node id="12142"/> усилия ученых направлены [4–8] на разработку технологии получения <Node id="12209"/>фуллеренов<Node id="12219"/> и <Node id="12222"/>нанотрубок<Node id="12232"/>, заполненных проводящим или сверхпроводящим материалом. 
+ 
+Итогом решения этой проблемы стало бы создание токопроводящих соединений, которые позволят перейти к производству наноэлектронных приборов, размеры которых будут на один или два порядка меньше ныне существующих. Таким решением может стать метод имплантации частиц при помощи ионных пучков, который хорошо зарекомендовал себя в микроэлектронике.
+ Работа выполнена при поддержке Российского фонда фундаментальных исследований (грант №03-03-96488). СПИСОК ЛИТЕРАТУРЫ  
+1. Соколов В.И., Станкевич И.В. <Node id="12790"/>Фуллерены<Node id="12799"/> – новые аллотропные формы углерода: структура, электронное строение и химические свойства. // Успехи химии. 1993. Т.62. №5. С.455.
+ 
+2. <Node id="12936"/>Смолли Р.Е.<Node id="12947"/> Открывая <Node id="12957"/>фуллерены<Node id="12966"/>. // УФН. 1998. Т.168. №3. С.323. 
+ 
+3. Елецкий А.В., Смирнов Б.М. <Node id="13033"/>Фуллерены<Node id="13042"/> и структуры углерода. // УФН. 1995. Т.165. №9. С.977.
+ 
+4. Елецкий А.В. <Node id="13115"/>Углеродные <Node id="13126"/>нанотрубки<Node id="13136"/>. // УФН. 1997. Т.167. №9. С.945. 
+ 
+5. <Node id="13176"/>Лозовик Ю.Е.<Node id="13188"/>, Попов А.М. Образование и рост <Node id="13220"/>углеродных <Node id="13231"/>наноструктур<Node id="13243"/> – <Node id="13246"/>фуллеренов<Node id="13256"/>, <Node id="13258"/>наночастиц<Node id="13268"/>, <Node id="13270"/>нанотрубок<Node id="13280"/> и конусов.// УФН. 1997. Т.167. №7. С.751.
+ 
+6. Елецкий А.В. Эндоэдральные структуры.// УФН. 2000. Т.170. №2. С.113.
+ 
+7. Science and Application of Nanotubes // Eds. D.Tomanek and R.J.Enbody.- N.Y. 2000.
+ 
+8. Дьячков П.Н. <Node id="13503"/>Углеродные <Node id="13514"/>нанотрубки<Node id="13524"/>: Материалы для компьютеров <Node id="13552"/>XXI века<Node id="13560"/>. // Природа. 2000. №11. 
+ 
+9. Рожков В.В., Матюхин С.И. Использование каналирования для ионной имплантации атомных частиц в <Node id="13685"/>углеродные <Node id="13696"/>наноструктуры<Node id="13709"/> // Труды XV Междунар. конф. по физике радиационных явлений и радиационному материаловедению. - Алушта, Украина, 2002, с.277.
+ 
+10. Матюхин С.И. <Node id="13854"/>Ионная<Node id="13860"/> имплантация как метод внедрения атомных частиц в <Node id="13910"/>углеродные <Node id="13921"/>наноструктуры<Node id="13934"/> // Тез. докл. Междунар. конф. «Химия твердого тела и современные микро- и нанотехнологии. - Кисловодск, Россия, 2002, с. 77.
+ 
+11. <Node id="14066"/>Броудай И.<Node id="14076"/>, Мерей <Node id="14084"/>Дж. Физические<Node id="14098"/> основы микротехнологии.- М.: Мир, 1985.
+ 
+12. <Node id="14145"/>Мейер Дж.<Node id="14154"/>, <Node id="14156"/>Эриксон Л.<Node id="14166"/>, <Node id="14168"/>Дэвис Дж.<Node id="14177"/> Ионное легирование полупроводников.- М.: Мир, 1970.
+ 
+13. Гурович Б.А., <Node id="14250"/>Долгий Д.И.<Node id="14261"/>, Кулешова Е.А., Велихов Е.П., Ольшанский Е.Д., Домантовский А.Г., <Node id="14328"/>Аронзон Б.А.<Node id="14340"/>, Мейлихов Е.З. Управляемая трансформация электрических, магнитных и оптических свойств материалов ионными пучками. // УФН. 2001. Т.171. №1. С.105.
+ 
+14. Вавилов В.С., Челядинский А.Р., <Node id="14526"/>Ионная<Node id="14532"/> имплантация примесей в монокристаллы кремния: эффективность метода и радиационные нарушения. // УФН. 1995. Т.165. №3. С.347.
+ 
+15. Бойко В.И., Валяев А.Н., Погребняк А.Д. Модификация металлических материалов импульсными мощными пучками частиц. // УФН. 1999. Т.169. №11. С.1243.
+ 
+16. Бахтизин Р.З., <Node id="14832"/>Хашицуме Т.<Node id="14843"/>, <Node id="14845"/>Вонг Щ.<Node id="14852"/>-Д., <Node id="14857"/>Сакурай Т.<Node id="14867"/> <Node id="14868"/>Сканирующая туннельная микроскопия<Node id="14902"/> <Node id="14903"/>фуллеренов<Node id="14913"/> на поверхности металлов и полупроводников. // УФН. 1997. Т.167. №3. С.289.
+ 
+17. Безмельницын В.Н., Елецкий А.В., <Node id="15028"/>Окунь<Node id="15033"/> <Node id="15034"/>М.В. <Node id="15039"/>Фуллерены<Node id="15048"/> в растворах. // УФН. 1998. Т.168. №11. С.1195.
+ 
+18. Дедков Г.В. Межатомные потенциалы взаимодействия в радиационной физике. // УФН. 1995. Т.165. №8. С.919.
+ 
+19. Гардинер <Node id="15221"/>К.В. Стохастические<Node id="15240"/> методы в естественных науках.- М.: Мир, 1986.
+ 
+20. <Node id="15293"/>Ван Кампен Н.Г.<Node id="15308"/> Стохастические процессы в физике и химии.- М.: Высшая школа, 1990.
+ 
+21. Рожков В.В. Эффекты, индуцируемые коллективными коррелированными взаимодействиями заряженных частиц с твердым телом. // Дис… доктора ф.-м. наук, Харьков, 1988.
+ 
+22. Матюхин С.И. Стохастическая теория каналирования быстрых частиц в монокристаллах. // Дис… канд. ф.-м. наук, Москва, 1997.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="14168" EndNode="14177">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дэвис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="5502" EndNode="5513">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="15034" EndNode="15048">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="3383" EndNode="3396">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="6679" EndNode="6689">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="8737" EndNode="8759">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="5160" EndNode="5172">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноструктура" StartNode="10535" EndNode="10547">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="6209" EndNode="6220">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="4247" EndNode="4269">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноструктура" StartNode="12020" EndNode="12033">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="11277" EndNode="11287">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Углеродная+наноструктура" StartNode="12009" EndNode="12033">
+</Annotation>
+<Annotation Id="23" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Нанотрубка" StartNode="7429" EndNode="7441">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="6326" EndNode="6336">
+</Annotation>
+<Annotation Id="24" Type="Наноструктура" StartNode="7676" EndNode="7698">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="14328" EndNode="14340">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="8399" EndNode="8409">
+</Annotation>
+<Annotation Id="31" Type="Фуллерен" StartNode="5072" EndNode="5082">
+</Annotation>
+<Annotation Id="30" Type="Персона" StartNode="12936" EndNode="12947">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="Нанотрубка" StartNode="1188" EndNode="1200">
+</Annotation>
+<Annotation Id="32" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="Персона" StartNode="14145" EndNode="14154">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мейер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="39" Type="Период_времени" StartNode="13552" EndNode="13560">
+</Annotation>
+<Annotation Id="36" Type="Нанотрубка" StartNode="7152" EndNode="7164">
+</Annotation>
+<Annotation Id="37" Type="Фуллерен" StartNode="4473" EndNode="4483">
+</Annotation>
+<Annotation Id="42" Type="Наноструктура" StartNode="2022" EndNode="2044">
+</Annotation>
+<Annotation Id="43" Type="Персона" StartNode="14526" EndNode="14532">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ионная</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="Наноструктура" StartNode="13921" EndNode="13934">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="47" Type="Персона" StartNode="14845" EndNode="14852">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Щ.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="45" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="51" Type="Фуллерен" StartNode="15039" EndNode="15048">
+</Annotation>
+<Annotation Id="50" Type="Фуллерен" StartNode="12790" EndNode="12799">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="48" Type="Персона" StartNode="13176" EndNode="13188">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Е.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="54" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="53" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="52" Type="Наноструктура" StartNode="9485" EndNode="9507">
+</Annotation>
+<Annotation Id="59" Type="Фуллерен" StartNode="8941" EndNode="8951">
+</Annotation>
+<Annotation Id="58" Type="Нанотрубка" StartNode="13514" EndNode="13524">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="56" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="63" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="62" Type="Фуллерен" StartNode="9948" EndNode="9957">
+</Annotation>
+<Annotation Id="61" Type="Нанотрубка" StartNode="278" EndNode="288">
+</Annotation>
+<Annotation Id="60" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="68" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="69" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="70" Type="Фуллерен" StartNode="14903" EndNode="14913">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="64" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="65" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="66" Type="Нанотрубка" StartNode="4485" EndNode="4495">
+</Annotation>
+<Annotation Id="67" Type="Персона" StartNode="14156" EndNode="14166">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Эриксон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Фуллерен" StartNode="13246" EndNode="13256">
+</Annotation>
+<Annotation Id="77" Type="Нанотрубка" StartNode="9545" EndNode="9556">
+</Annotation>
+<Annotation Id="78" Type="Сканирующая+туннельная+микроскопия" StartNode="14868" EndNode="14902">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Нанотрубка" StartNode="12222" EndNode="12232">
+</Annotation>
+<Annotation Id="72" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="73" Type="Углеродная+наноструктура" StartNode="11823" EndNode="11846">
+</Annotation>
+<Annotation Id="74" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="75" Type="Наночастица" StartNode="594" EndNode="604">
+</Annotation>
+<Annotation Id="85" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="84" Type="Углеродная+наноструктура" StartNode="13910" EndNode="13934">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="86" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="81" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="80" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="83" Type="Наноструктура" StartNode="10274" EndNode="10286">
+</Annotation>
+<Annotation Id="82" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="93" Type="Наноструктура" StartNode="9797" EndNode="9809">
+</Annotation>
+<Annotation Id="92" Type="Фуллерен" StartNode="1175" EndNode="1186">
+</Annotation>
+<Annotation Id="95" Type="Фуллерен" StartNode="8594" EndNode="8604">
+</Annotation>
+<Annotation Id="94" Type="Нанотрубка" StartNode="7999" EndNode="8009">
+</Annotation>
+<Annotation Id="89" Type="Фуллерен" StartNode="9286" EndNode="9296">
+</Annotation>
+<Annotation Id="88" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="91" Type="Наноструктура" StartNode="4714" EndNode="4740">
+</Annotation>
+<Annotation Id="90" Type="Углеродная+нанотрубка" StartNode="13115" EndNode="13136">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="103" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="100" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="101" Type="Наноструктура" StartNode="6057" EndNode="6072">
+</Annotation>
+<Annotation Id="98" Type="Фуллерен" StartNode="7416" EndNode="7427">
+</Annotation>
+<Annotation Id="99" Type="Углеродная+наноструктура" StartNode="10524" EndNode="10547">
+</Annotation>
+<Annotation Id="96" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="97" Type="Персона" StartNode="15293" EndNode="15308">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="111" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="108" Type="Фуллерен" StartNode="265" EndNode="275">
+</Annotation>
+<Annotation Id="109" Type="Углеродная+наноструктура" StartNode="9786" EndNode="9809">
+</Annotation>
+<Annotation Id="106" Type="Углеродная+наноструктура" StartNode="9085" EndNode="9108">
+</Annotation>
+<Annotation Id="107" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="104" Type="Нанотрубка" StartNode="1751" EndNode="1761">
+</Annotation>
+<Annotation Id="105" Type="Период_времени" StartNode="12127" EndNode="12142">
+</Annotation>
+<Annotation Id="119" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="118" Type="Наноструктура" StartNode="8298" EndNode="8312">
+</Annotation>
+<Annotation Id="117" Type="Наноструктура" StartNode="7552" EndNode="7567">
+</Annotation>
+<Annotation Id="116" Type="Углеродная+наноструктура" StartNode="473" EndNode="500">
+</Annotation>
+<Annotation Id="115" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="114" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="113" Type="Персона" StartNode="13854" EndNode="13860">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ионная</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="127" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="126" Type="Углеродная+наноструктура" StartNode="13685" EndNode="13709">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="124" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="123" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="122" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="121" Type="Наночастица" StartNode="10840" EndNode="10850">
+</Annotation>
+<Annotation Id="120" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="137" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="136" Type="Наночастица" StartNode="13258" EndNode="13268">
+</Annotation>
+<Annotation Id="139" Type="Углеродная+наноструктура" StartNode="13220" EndNode="13243">
+</Annotation>
+<Annotation Id="138" Type="Наноструктура" StartNode="13231" EndNode="13243">
+</Annotation>
+<Annotation Id="141" Type="Фуллерен" StartNode="12209" EndNode="12219">
+</Annotation>
+<Annotation Id="140" Type="Углеродная+наноструктура" StartNode="6816" EndNode="6840">
+</Annotation>
+<Annotation Id="143" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="142" Type="Персона" StartNode="14066" EndNode="14076">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="128" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="131" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="130" Type="Наноструктура" StartNode="11636" EndNode="11648">
+</Annotation>
+<Annotation Id="133" Type="Наноструктура" StartNode="13696" EndNode="13709">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="Персона" StartNode="15028" EndNode="15033">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Окунь</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="134" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="152" Type="Углеродная+наноструктура" StartNode="5149" EndNode="5172">
+</Annotation>
+<Annotation Id="153" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="154" Type="Наночастица" StartNode="7005" EndNode="7015">
+</Annotation>
+<Annotation Id="155" Type="Нанотрубка" StartNode="13126" EndNode="13136">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="156" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="157" Type="Персона" StartNode="14857" EndNode="14867">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="158" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="159" Type="Наноструктура" StartNode="485" EndNode="500">
+</Annotation>
+<Annotation Id="144" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="145" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="146" Type="Наноструктура" StartNode="9096" EndNode="9108">
+</Annotation>
+<Annotation Id="147" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="148" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="149" Type="Персона" StartNode="14250" EndNode="14261">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">И.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="151" Type="Наноструктура" StartNode="1698" EndNode="1711">
+</Annotation>
+<Annotation Id="171" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="170" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="169" Type="Нанотрубка" StartNode="9299" EndNode="9309">
+</Annotation>
+<Annotation Id="168" Type="Нанотрубка" StartNode="13270" EndNode="13280">
+</Annotation>
+<Annotation Id="175" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="174" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="173" Type="Фуллерен" StartNode="9559" EndNode="9569">
+</Annotation>
+<Annotation Id="172" Type="Углеродная+наноструктура" StartNode="11625" EndNode="11648">
+</Annotation>
+<Annotation Id="163" Type="Наноструктура" StartNode="6827" EndNode="6840">
+</Annotation>
+<Annotation Id="162" Type="Углеродная+наноструктура" StartNode="5892" EndNode="5916">
+</Annotation>
+<Annotation Id="161" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="160" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="167" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="166" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="165" Type="Наноструктура" StartNode="11834" EndNode="11846">
+</Annotation>
+<Annotation Id="164" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="186" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="187" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="184" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="185" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="190" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="191" Type="Нанотрубка" StartNode="8607" EndNode="8617">
+</Annotation>
+<Annotation Id="188" Type="Нанотрубка" StartNode="9959" EndNode="9969">
+</Annotation>
+<Annotation Id="189" Type="Персона" StartNode="1" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ионная</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="179" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="176" Type="Наноструктура" StartNode="5690" EndNode="5704">
+</Annotation>
+<Annotation Id="177" Type="Фуллерен" StartNode="12957" EndNode="12966">
+</Annotation>
+<Annotation Id="182" Type="Наночастица" StartNode="2611" EndNode="2621">
+</Annotation>
+<Annotation Id="183" Type="Фуллерен" StartNode="1739" EndNode="1748">
+</Annotation>
+<Annotation Id="180" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="181" Type="Персона" StartNode="14084" EndNode="14098">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="205" Type="Углеродная+наноструктура" StartNode="10263" EndNode="10286">
+</Annotation>
+<Annotation Id="204" Type="Наночастица" StartNode="1859" EndNode="1870">
+</Annotation>
+<Annotation Id="207" Type="Углеродная+нанотрубка" StartNode="13503" EndNode="13524">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="206" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="201" Type="Наноструктура" StartNode="1483" EndNode="1506">
+</Annotation>
+<Annotation Id="200" Type="Наноструктура" StartNode="8176" EndNode="8190">
+</Annotation>
+<Annotation Id="203" Type="Наноструктура" StartNode="7844" EndNode="7859">
+</Annotation>
+<Annotation Id="202" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="197" Type="Фуллерен" StartNode="7139" EndNode="7150">
+</Annotation>
+<Annotation Id="196" Type="Нанотрубка" StartNode="5085" EndNode="5095">
+</Annotation>
+<Annotation Id="199" Type="Фуллерен" StartNode="7988" EndNode="7997">
+</Annotation>
+<Annotation Id="198" Type="Персона" StartNode="14832" EndNode="14843">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="193" Type="Нанотрубка" StartNode="8954" EndNode="8964">
+</Annotation>
+<Annotation Id="192" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="195" Type="Персона" StartNode="15221" EndNode="15240">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="208" Type="Наноструктура" StartNode="5903" EndNode="5916">
+</Annotation>
+<Annotation Id="209" Type="Фуллерен" StartNode="13033" EndNode="13042">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="210" Type="Наночастица" StartNode="11025" EndNode="11037">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

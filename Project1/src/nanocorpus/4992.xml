@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>IBM и ETH Zurich открыли Центр нанотехнологий в ЦюрихеКорпорация IBM и европейский образовательный и научно-исследовательский центр ETH Zurich объявили о запуске совместной партнерской программы в области нанотехнологий.
+Как часть этого партнерства, на территории лаборатории IBM Zurich Research Laboratory в Цюрихе будет создана новая исследовательская лаборатория под названием Nanoscale Exploratory Research Laboratory, деятельность которой будет охватывать как фундаментальные исследования, так и прикладные разработки в области нанотехнологий, а также проекты близкой тематики.
+ В рамках этой многолетней программы, в которую инвестировано <Node id="645"/>$90 млн.<Node id="653"/>, ученые и инженеры IBM и ETH Zurich будут проводить совместные исследования новых структур и устройств атомарного и молекулярного масштаба. Цель данных исследований – углубленное изучение свойств и принципов функционирования <Node id="879"/>наноструктур<Node id="891"/>, размеры которых составляют менее 100 нанометров (что приблизительно в 400 раз меньше толщины человеческого волоса).  «<Node id="1011"/>Создавая это центр совместных научных исследований, IBM расширяет свою партнерскую программу, направленную на ускорение изучения <Node id="1140"/>наноструктур<Node id="1152"/>, разработки производственных нанотехнологий и внедрения широкого спектра прикладных решений на их основе<Node id="1257"/>, — заявил доктор Джон И. Келли<Node id="1288"/> (John E. Kelly III), старший вице-президент и директор IBM Research. — Мы рассматриваем такой подход к сотрудничеству как формирующуюся сегодня базовую модель будущего партнерства промышленности и научного сообщества».
+ Новый центр нанотехнологий будет занимать около 1000 квадратных футов (приблизительно 92,9 квадратных метра) площади так называемых «чистых комнат» (помещений с высочайшей степенью защиты от пыли и других загрязнений), специально выделенных для проведения научных исследований в таких областях, как углеродные материалы, нанофотоника (стекловолоконная нанооптика), спинтроника (спиновая электроника), нанопроводники (nanowires) и трибология (наука о трении и износе).
+ Эти исследования позволят определить новые концепции устройств, основанных на углеродных материалах и использующих квантово-механические эффекты для считывания и обработки информации. Запланированные проекты нового центра, несомненно, внесут свой вклад в решение уже существующих и возникающих проблем в сфере нанопроизводства, поскольку исследования будут направлены на изучение методик «самосборки» <Node id="2379"/>наноструктур<Node id="2391"/>, молекулярных функциональных материалов, а также 3D-интеграции (как альтернативного способа достижения высокой степени интеграции электронных микросистем).  
+«<Node id="2551"/>Важным аспектом будущей деятельности нового центра является предоставление нашим студентам уникальной возможности осуществлять свои научно-технические исследования совместно с ведущими учеными и специалистами нашего индустриального партнера, который выступает в роли значимого актива системы инженерного образования ETH Zurich», – подчеркнул профессор Ральф Эйхлер<Node id="2915"/> (Ralph Eichler), президент ETH Zurich.
+  Финансирование нового центра следует за анонсированными ранее в <Node id="3021"/>этом году<Node id="3030"/> трехлетними инвестициями IBM в размере <Node id="3070"/>$100 млн.<Node id="3079"/>, которые направлены на реализацию исследовательских проектов в таких областях нанотехнологий, как спинтроника, элементы коммутации на атомарном и молекулярном уровне, методы самосборки, а также новые материалы подобно <Node id="3298"/>графену<Node id="3305"/> и <Node id="3308"/>углеродным <Node id="3319"/>нанотрубкам<Node id="3330"/>. <Node id="3332"/>http://www.cnews.ru/…/index.shtml?…Это<Node id="3370"/> очень важная информация! И в западных странах промышленность ищет способы объединить свои силы с вузовской наукой. При этом не гнушаясь проведения ни фундаментальных, ни прикладных исследований: деятельность новой исследовательской лабораториии под названием Nanoscale Exploratory Research Laboratory будет охватывать как фундаментальные исследования, так и прикладные разработки в области нанотехнологий, а также проекты близкой тематики. Так что IBM твёрдо решила вступить в наногонку и выделяет существенные средства на эти цели. Весьма знаменательный факт!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Графен" StartNode="3298" EndNode="3305">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="3319" EndNode="3330">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="3070" EndNode="3079">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="автор" StartNode="2551" EndNode="2915">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="1011" EndNode="1257">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Деньги" StartNode="645" EndNode="653">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="2379" EndNode="2391">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1011" EndNode="1288">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="2551" EndNode="2915">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наноструктура" StartNode="879" EndNode="891">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="3332" EndNode="3370">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="3021" EndNode="3030">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="3308" EndNode="3330">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="1011" EndNode="1257">
+</Annotation>
+<Annotation Id="24" Type="автор" StartNode="1011" EndNode="1288">
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="1011" EndNode="2915">
+</Annotation>
+<Annotation Id="29" Type="Наноструктура" StartNode="1140" EndNode="1152">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="1011" EndNode="2915">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

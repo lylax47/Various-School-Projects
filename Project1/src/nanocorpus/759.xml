@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Исследователи из университета Гамбурга (Beatriz H. Jua´rez, Christian Klinke, Andreas Kornowski и Horst Weller) предложили метод синтеза <Node id="139"/>наночастиц<Node id="149"/> CdSe, позволяющий контролировать форму <Node id="189"/>наночастиц<Node id="199"/> и прикреплять их к <Node id="219"/>углеродным <Node id="230"/>нанотрубкам<Node id="241"/> (УНТ).
+ 
+В последнее время появляются работы, связанные с присоединением <Node id="315"/>наночастиц<Node id="325"/> к одномерным системам, таким как УНТ. Например, присоединив <Node id="386"/>наночастицы<Node id="397"/> катализатора к <Node id="413"/>нанотрубке<Node id="423"/>, можно затем получить трёхмерные структуры из <Node id="470"/>нанотрубок<Node id="480"/>; присоединение полупроводниковых <Node id="514"/>наночастиц<Node id="524"/> приведёт к повышению фотопроводимости УНТ.
+ 
+В предыдущих работах полупроводниковые <Node id="609"/>наночастицы<Node id="620"/> выращивали на УНТ путём создания дефектов в структуре УНТ. Такая методика приводила к значительной деградации механических, электрических и оптических свойств УНТ. Другой подход состоит в адсорбции поверхностно активных молекул, которые, в свою очередь, могут электростатически связывать <Node id="909"/>наночастицы<Node id="920"/>. Также применяется самосборка CdSe и InP <Node id="962"/>наночастиц<Node id="972"/> с использованием пучков <Node id="997"/>нанотрубок<Node id="1007"/> в качестве одномерных темплатов. 
+ 
+В работе учёных из Германии <Node id="1072"/>наночастицы<Node id="1083"/> прикрепляли к необработанным УНТ. Синтез осуществляли добавлением суспензии УНТ к раствору, содержащему комплексное соединение кадмия, с последующим введением Se после упаривания растворителя. Для исследования использовали как одностенные, так многостенные УНТ.
+ 
+Использование одностенных и многостенных УНТ приводило к схожим результатам – происходило образование пирамидальных частиц CdSe на поверхности УНТ (рисунок 1). Степень покрытия <Node id="1525"/>наночастицами<Node id="1538"/> оказалась существенно выше, чем в методах, включающих окисление поверхности. <Node id="1616"/>Просвечивающая электронная микроскопия<Node id="1654"/> высокого разрешения (HRTEM) показывает соприкосновение поверхностей <Node id="1723"/>наночастиц<Node id="1733"/> и УНТ. Высокая степень покрытия исключает возможность прикрепления <Node id="1801"/>наночастиц<Node id="1811"/> только за счёт образования дефектов на поверхности УНТ.
+ 
+На рисунке 2 показан возможный механизм взаимодействия CdSe с УНТ и последующие морфологические превращения. На первом этапе происходит образование <Node id="2018"/>наностержней<Node id="2030"/> CdSe. На этом этапе УНТ может быть покрыта органическими лигандами. С молекулярной точки зрения, присоединение <Node id="2142"/>наночастиц<Node id="2152"/> к УНТ можно рассматривать как обмен лигандами. Это рассмотрение можно подкрепить тем фактом, что прикреплённые к УНТ <Node id="2270"/>наночастицы<Node id="2281"/> можно отделить путём добавления более сильных лигандов (например, тиолов). На следующем этапе происходит селективное <Node id="2399"/>травление<Node id="2408"/> Cd с кромок <Node id="2421"/>наночастиц<Node id="2431"/>. На последнем этапе осуществляется Оствальдовское укрупнение.
+ 
+Исследование электрических свойств полученных композитов (<Node id="2554"/>наночастицы<Node id="2565"/>/УНТ) показало влияние наличия CdSe на свойства УНТ. Так, при освещении композита происходило уменьшение тока, протекающего по УНТ. Исследователи объясняют это повышением электрон-дырочной рекомбинации в УНТ и возникновением эффекта затвора (<Node id="2807"/>наночастицы<Node id="2818"/> заряжаются положительно в результате перехода электронов в УНТ).
+ 
+Учёные считают, что нековалентное связывание <Node id="2931"/>наночастиц<Node id="2941"/> и УНТ позволит объединить уникальные свойства <Node id="2988"/>квантовых точек<Node id="3003"/> и УНТ, что позволит создать материал, который найдёт применение в оптоэлектронике и фотовольтаике. Кроме того, можно ожидать улучшения механических свойств композитов УНТ/полимер за счёт использования УНТ, модифицированных <Node id="3227"/>наночастицами<Node id="3240"/>.
+ 
+Работа «Quantum Dot Attachment and Morphology Control by Carbon Nanotubes» была опубликована в журнале Nano Letters.
+ 
+Текст подготовил Кушнир Сергей Евгеньевич.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="2988" EndNode="3003">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="962" EndNode="972">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="2807" EndNode="2818">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="413" EndNode="423">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="2142" EndNode="2152">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="997" EndNode="1007">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="2931" EndNode="2941">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="909" EndNode="920">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1525" EndNode="1538">
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="189" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="315" EndNode="325">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="3227" EndNode="3240">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1072" EndNode="1083">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="219" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="139" EndNode="149">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="1801" EndNode="1811">
+</Annotation>
+<Annotation Id="25" Type="Травление" StartNode="2399" EndNode="2408">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="2554" EndNode="2565">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="609" EndNode="620">
+</Annotation>
+<Annotation Id="26" Type="Наностержень" StartNode="2018" EndNode="2030">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="470" EndNode="480">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="1723" EndNode="1733">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="230" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Наночастица" StartNode="386" EndNode="397">
+</Annotation>
+<Annotation Id="34" Type="Просвечивающая+электронная+микроскопия" StartNode="1616" EndNode="1654">
+</Annotation>
+<Annotation Id="35" Type="Наночастица" StartNode="2421" EndNode="2431">
+</Annotation>
+<Annotation Id="32" Type="Наночастица" StartNode="2270" EndNode="2281">
+</Annotation>
+<Annotation Id="33" Type="Наночастица" StartNode="514" EndNode="524">
+</Annotation>
+<Annotation Id="36" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученым из США удалось испытать «в деле» новый инструмент для быстрого прототипирования <Node id="88"/>наноструктур<Node id="100"/>, состоящих из массивов <Node id="124"/>углеродных <Node id="135"/>нанотрубок<Node id="145"/>.
+
+Используя специально сфокусированный лазерный луч, ученые из Университета Южной Калифорнии (University of Southern California) и их коллеги из Лаборатории Реактивного Движения при NASA (NASA’s Jet Propulsion Laboratory) смогли выжигать отдельные «рисунки» на поверхности «нанолеса», сформированного из обыкновенных углеродных <Node id="474"/>многослойных <Node id="487"/>нанотрубок<Node id="497"/>.
+
+Один из соавторов нового метода производства, ученый Стивен Кронин (Stephen Cronin), говорит, что разработанная исследователями техника «выжигания» по <Node id="651"/>нанотрубкам<Node id="662"/> позволит быстро создавать новые экспериментальные типы различных <Node id="728"/>наноструктур<Node id="740"/>.
+
+Например, можно сконструировать основу для микрочипа-<Node id="796"/>сенсора<Node id="803"/>: пластину с каналами для транспорта жидкости или газа. При этом пластина будет представлять собой тот самый «нанотрубочный лес», в котором проделают необходимые углубления.
+
+Сама пластина-подложка формируется в специальной печи: при температуре 650ºС на ней выращивают многослойные <Node id="1086"/>углеродные <Node id="1097"/>нанотрубки<Node id="1107"/>. <Node id="1109"/>Затем<Node id="1114"/> с помощью довольно мощного 532-нм лазера в воздушной среде ученые проводят сам процесс «выжигания» ненужных <Node id="1223"/>нанотрубок<Node id="1233"/>. Температура «выжигания» достигает 800ºС. При этом минимальная мощность лазера-«нановыжигателя» должна быть 244 микроватта.
+
+В экспериментах же исследователи не постеснялись поднять мощность лазера до 9000 микроватт.
+
+<Node id="1452"/>Как говорит Кронин, «нановыжигатель» показывает превосходство перед нанолитографией, которая обычно оперирует только с двумерными структурами<Node id="1593"/>. Хотя странно, что ученые сравнивают эти два разных метода производства, хотя бы из-за того, что они работают на разных поверхностях.
+
+После процесса выжигания ученые заметили несколько белых точек диаметром от 100 до 200 нанометров, которые при рассмотрении их под электронным микроскопом оказались сплавленными окончаниями <Node id="1919"/>нанотрубок<Node id="1929"/>.
+
+С помощью спектроскопии комбинационного рассеивания ученые смогли оценить глубину полученных дорожек. Она составила около 5 микрон. При этом глубину «выжигания» можно регулировать апертурой линз, установленных на микроскопе.
+
+Потенциальные применения этой новой технологии – создание чипов для исследования ДНК, наножидкостных чипов с супергидрофобными каналами и устройств по быстрой идентификации белков.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="124" EndNode="145">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="728" EndNode="740">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1223" EndNode="1233">
+</Annotation>
+<Annotation Id="4" Type="Многослойная+нанотрубка" StartNode="474" EndNode="497">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1452" EndNode="1593">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1109" EndNode="1114">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="135" EndNode="145">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1919" EndNode="1929">
+</Annotation>
+<Annotation Id="10" Type="Наноструктура" StartNode="88" EndNode="100">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1097" EndNode="1107">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="1452" EndNode="1593">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Сенсор" StartNode="796" EndNode="803">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Углеродная+нанотрубка" StartNode="1086" EndNode="1107">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="487" EndNode="497">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="651" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Электрометры – это инструменты, предназначенные для измерения величины электрического заряда или разности потенциалов посредством измерения электростатических сил (сил взаимодействия зарядов). В то время как электрометры? разработанные <Node id="237"/>Кельвином<Node id="246"/> в <Node id="249"/>19-м веке<Node id="258"/>? были весьма грубыми инструментами, современные электрометры, основанные на принципах физики твердого тела, представляют собой очень точные электронные приборы, которые, в отдельных случаях, настолько чувствительны, что позволяют считать единичные электроны, проходящие через контур.
+
+По мере уменьшения размеров электронных устройств пробники, применяемые для измерения заряда или напряжения внутри миниатюрного проводника, должны также быть миниатюрными. Аллигаторный зажим («крокодил» ) технически не может бесконечно уменьшаться. Более того, по мере того, как устройство достигает наноразмеров, возмущениями процессов измерения, возникающими на самом приспособлении, более нельзя пренебречь и они должны быть оценены.
+
+<Node id="982"/>В прошлом<Node id="991"/> было разработано много способов измерений, многие из которых основаны на сканировании малых объектов, таких, как, например, наконечник атомно-силового микроскопа (АСМ). Каждый из них имеет свои достоинства и недостатки.
+
+Новый способ измерения локального распределения напряжений внутри <Node id="1279"/>наноструктур<Node id="1291"/> (по сути своей – наноэлектрометр) сочетает в себе пространственное разрешение и силовую чувствительность АСМ и заряда <Node id="1410"/>наночастицы<Node id="1421"/> золота<Node id="1428"/> единичным электроном. Способ и прибор разработаны исследователями Корнельского Университета (Cornell University) и Университета Пенсильвании –(Penn State University), а его изготовление, калибровка и работа продемонстрированы на кольцевой <Node id="1668"/>углеродной <Node id="1679"/>нанотрубке<Node id="1689"/> (УНТ). В предложенной схеме используются нано-частицы золота, играющие роль пробника и помещенные в тестируемую зону, совместно с АСМ, имеющим чувствительность в один электрон. Важную роль в измерениях играет большой входной импеданс, возникающий в молекулярном соединении и гарантирующий слабое взаимодействие между электрометром и объектом.
+
+Для изготовления образца наноэлектрометра исследователи внедрили <Node id="2099"/>наночастицу<Node id="2110"/> золота<Node id="2117"/> размером 12 нм в УНТ полевой транзистор, используя химическое молекулярное соединение.
+
+Руководитель проекта Др. <Node id="2231"/>Джун Жу<Node id="2238"/> ( Dr. Jun Zhu)- адъюнкт-профессор Департамента Физики Университета Пенсильвании – и его соавторы опубликовали результаты работы в июньском номере (June 26, 2008) интенет-издания Nano Letters (Single-Electron Force Readout of Nanoparticle Electrometers Attached to Carbon Nanotubes).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="982" EndNode="991">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1410" EndNode="1421">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="249" EndNode="258">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="237" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кельвин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="1279" EndNode="1291">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="2099" EndNode="2110">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица+золота" StartNode="1410" EndNode="1428">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="2231" EndNode="2238">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Наночастица+золота" StartNode="2099" EndNode="2117">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1679" EndNode="1689">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Углеродная+нанотрубка" StartNode="1668" EndNode="1689">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

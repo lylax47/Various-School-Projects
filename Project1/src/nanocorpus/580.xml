@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Ученые из Дании сообщили о получении интересных <Node id="50"/>наноструктур<Node id="62"/> – нанопластинок арсенида индия InAs, стоящих на подложке из GaAs. Такие структуры были получены методом молекулярно-лучевой эпитаксии с использованием <Node id="214"/>наночастиц<Node id="224"/> золота<Node id="231"/> в качестве катализатора. 
+ 
+Пластинки близки к треугольной форме, они имеют <Node id="308"/>наночастицу<Node id="319"/> золота<Node id="326"/> на вершине и атомно-плоские развитые грани. Толщина пластинок, которая определяется диаметром частицы золота, составляет 30-80 нм, а высота достигает нескольких микрометров. Индивидуальные пластинки могут быть легко отделены от подложки, что позволяет измерить их физические характеристики. 
+ 
+Механизм образования пластинок выглядит следующим образом. Всё начинается с образования <Node id="709"/>наностержня<Node id="720"/> с квадратным сечением. Далее он преобразуется в пластинку, разрастаясь вширь благодаря наличию высокоэнергетических боковых граней {133}. По мере роста пластинки вверх, что катализируется золотом, эти грани постепенно переходят в вертикальные низкоэнергетические грани {011}, и рост в ширину прекращается. Таким образом, рост пластинок обусловлен двумя механизмами: вертикальный рост катализирован частицами золота, а горизонтальный рост осуществляется за счет осаждения из газовой фазы. 
+ 
+Работа «Molecular beam epitaxy growth of freestanding plane-parallel InAs nanoplates» опубликована в журнале Nature Nanotechnology. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="50" EndNode="62">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="214" EndNode="224">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="214" EndNode="231">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="709" EndNode="720">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="308" EndNode="319">
+</Annotation>
+<Annotation Id="5" Type="Наночастица+золота" StartNode="308" EndNode="326">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Научно-производственная компания «Неотекпродакт» (С.-Петербург) – лидер в производстве <Node id="88"/>углеродных <Node id="99"/>наноматериалов<Node id="113"/> – объявляет о расширении объемов производства. Мы предлагаем к реализации высокочистые <Node id="201"/>фуллерены<Node id="210"/> С60 (до 20 кг/мес.), С70 (до 1,5 кг/мес), концентрированные смеси высших <Node id="284"/>фуллеренов<Node id="294"/>, фуллереновую сажу (нанокластерный углерод)(200 кг/мес.), фуллереновую чернь. Мы приглашаем к долгосрочному сотрудничеству всех заинтересованных в применении наших продуктов в создании новых инновационных технологий. Специалисты компании окажут консультационные услуги по применению наших материалов в Ваших технологиях.
+
+Наша продукция находит уникальное применение. Добавка небольших количеств <Node id="691"/>углеродных <Node id="702"/>наноматериалов<Node id="716"/> революционно изменяет свойства любого материала-носителя.
+ Фуллереновое покрытие стали приводить к рекордному упрочнению материала, повышению его износостойкости и термостойкости, что крайне важно в производстве лопаток турбин авиационных двигателей и вертолетных лопастей. Добавка <Node id="999"/>фуллеренов<Node id="1009"/> в чугун придает ему пластичность. Фуллереновое покрытие на керамических изделиях в разы снижает коэффициент трения даже в условиях сухого трения. Введение <Node id="1165"/>фуллеренов<Node id="1175"/> или сажи в полимерные композиты и армированные пластики приводит к увеличению прочностных характеристик, изменяет термоустойчивость и радиационную стойкость, значительно снижает коэффициент трения. Микродобавка сажи в бетонные смеси и пломбирующие составы повышает марку материала. На основе фуллереновой сажи был испытан эффективный катализатор крекинга углеводородов, не содержащий благородных металлов и не чувствительный к каталитическим ядам. <Node id="1624"/>Фуллерен<Node id="1632"/> С60 находит применение в косметических составах. 
+Посетите наш веб-сайт: www.neotechproduct.ru</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="999" EndNode="1009">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="201" EndNode="210">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="99" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="702" EndNode="716">
+</Annotation>
+<Annotation Id="6" Type="Фуллерен" StartNode="1165" EndNode="1175">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="1624" EndNode="1632">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Фуллерен" StartNode="284" EndNode="294">
+</Annotation>
+<Annotation Id="10" Type="Углеродный+наноматериал" StartNode="691" EndNode="716">
+</Annotation>
+<Annotation Id="11" Type="Углеродный+наноматериал" StartNode="88" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

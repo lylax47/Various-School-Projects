@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>С 8 по 13 апреля 2008 года<Node id="28"/> в Московском университете состоится ежегодная Международная научная конференция студентов, аспирантов и молодых ученых "Ломоносов–2008". Конференция "Ломоносов" проводится ежегодно <Node id="210"/>с 1994 года<Node id="221"/>. Ее основная цель – привлечение молодых ученых к решению актуальных задач современной фундаментальной науки, сохранение и развитие единого научно-образовательного пространства, установление контактов между будущими коллегами. 
+ <Node id="450"/>11 апреля<Node id="459"/> в рамках конференции "Ломоносов–2008" пройдет ярмарка вакансий "День карьеры химика – 2008". Цель ярмарки – познакомить молодых специалистов, которые уже сейчас задумываются о перспективной работе, с компаниями – работодателями, заинтересованными в сотрудниках естественнонаучных специальностей. На <Node id="759"/>Дне<Node id="762"/> карьеры химика вы сможете пообщаться с менеджерами по персоналу и больше узнать о характере предлагаемой работы, особенностях корпоративной культуры и кадровой политики компаний.  Также выбрать место для летней стажировки, преддипломной практики.
+ 
+Представители концерна “Эвоник” проведут семинар на тему "Трудоустройство в интернациональную компанию: секреты успешного прохождения собеседования". 
+ 
+Место проведения: Химический факультет МГУ им. М.В. Ломоносова, <Node id="1229"/>11 апреля<Node id="1238"/> с 13.00 до 19.00.
+ Схема проезда </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2" EndNode="28">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="759" EndNode="762">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="210" EndNode="221">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1229" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="450" EndNode="459">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

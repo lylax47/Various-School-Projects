@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Профессор Северо-восточного университета Мансур Амиджи<Node id="55"/> <Node id="56"/>(Mansoor Amiji) и аспирант <Node id="83"/>Сушма<Node id="88"/> Коммаредди (Sushma Kommareddy) опубликовали новую работу, в которой описана проверка возможности <Node id="186"/>наночастиц<Node id="196"/> на основе желатина для доставки терапевтических генов к человеческим опухолям рака молочной железы, внедренным в мышей.
+
+Их исследование показывает, что эти <Node id="354"/>наночастицы<Node id="365"/> — или нановекторы — могут служить безопасным и эффективным транспортным средством поставки генов, чтобы остановить рост опухоли.
+
+В эксперименте, <Node id="512"/>наночастицы<Node id="523"/> были введены в кровоток, и <Node id="551"/>15 %<Node id="555"/> дозы лекарства попали в опухоль, что привело к синтезу белка sFlt-1 (растворимому рецептору для ангиогенного фактора), который отключает кровоснабжение к опухоли.
+
+«По существу, данное лечение, — говорит Амиджи, — делает опухоль фабрикой для ее собственного разрушения. Лечение отключает доступ крови к опухоли — таким образом фактически закрываются «дороги» для кислорода и питательных веществ внутрь опухоли и для злокачественных клеток наружу, препятствуя распространению опухоли по остальной части тела».
+
+<Node id="1066"/>В прошлом<Node id="1075"/> такой вид поставки генов был реализован, но с вирусными векторами, которые, хотя и были эффективны, но во многих случаях оказались токсичны для пациента. Невирусные векторы для поставки генов становятся все более популярными вследствие нескольких преимуществ: отсутствие токсичности, отсутствие верхнего предела у размера ДНК плазмиды и простоты изготовления.
+
+«Невирусная генотерапия имеет огромный потенциал при лечении болезней, — говорит Амиджи, — потому что Вы избегаеете проблем токсичности, которые могут возникнуть в любое время, как только Вы вводите вирусный элемент в человеческое тело».
+
+Исследователи выбрали желатин при создании <Node id="1719"/>наночастиц<Node id="1729"/>, потому что его давно и безопасно применяют в человеческом теле. Чтобы увеличить количество желатина, поступающего в клетку, исследователи синтезировали тиолзамещенный желатин, заменив ε-амино группы на 2-иминотиолан. <Node id="1948"/>Наночастицы<Node id="1959"/> изготавливались из тиолзамещенного желатина, используя метод обмена растворителем, который был улучшен в лабораториях Северо-восточного университета.
+
+В данном исследовании поверхность <Node id="2145"/>наночастиц<Node id="2155"/> и из желатина, и из тиолзамещенного желатина была изменена реакцией с метокси-поли (этиленгликоль) (ПЭГ)-сукцимидил глутаратом, чтобы продлить время целостности <Node id="2317"/>наночастиц<Node id="2327"/> в естественных условиях. Таким образом удалось увеличить время <Node id="2391"/>до 15 часов<Node id="2402"/>, что весьма существенно, так как без обработки <Node id="2450"/>наночастицы<Node id="2461"/> остаются целостными только <Node id="2489"/>3 часа<Node id="2495"/>.. Модификация ПЭГ также увеличивала поглощение опухолью и задержание в ней <Node id="2571"/>наночастиц<Node id="2581"/>.
+
+Амиджи отмечает, что они видят положительные результаты в доклинических исследованиях и надеются начать клинические испытания в ближайшем будущем. «Мы полагаем, что найдутся применения для этой системы доставки лекарства и при других болезнях помимо рака, — сказал Амиджи, — от болезней сердца и диабета до глаукомы и дистрофии сетчатки. Это универсальное решение, которое может оказаться успешным в различных применениях».
+
+«Когда я смотрю на все лекарства, которые проходят клинические испытания, меня охватывает ужас от того, что пациенты должны вынести это. Все что я могу думать: мы можем добиться большего успеха — мы должны добиться большего успеха», — говорит Амиджи.
+
+Это исследование было поддержано грантом от Национального Института Рака (National Cancer Institute of the National Institutes of Health (NIH)).
+Дмитрий Лещев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="55" EndNode="56">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="55" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="83" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">аспирант</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Сушма</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="2391" EndNode="2402">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="2317" EndNode="2327">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1066" EndNode="1075">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="2145" EndNode="2155">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="2571" EndNode="2581">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2489" EndNode="2495">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2450" EndNode="2461">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="186" EndNode="196">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="354" EndNode="365">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="512" EndNode="523">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="551" EndNode="555">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1719" EndNode="1729">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="1948" EndNode="1959">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

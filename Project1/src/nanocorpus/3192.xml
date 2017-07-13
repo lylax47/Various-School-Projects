@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Стандарты и качество нанопродукции: как защитить конечного потребителя от подделок<Node id="82"/>01.12.2008<Node id="92"/> | 16:08 («Разворот»)
+Сегодня на радиостанцию «Эхо Москвы» придут два руководителя ГК РОСНАНО:
+ Виктор Иванов – руководитель сертификационного центра Российской корпорации нанотехнологий Юрий Ткачук – директор депaртамента стандартизации, метрологии и сертификации продукции наноиндустрии РОСНАНО 
+…для обсуждения этой темы.
+ Уже сейчас вы можете задавать им вопросы на сайте радиостанции: <Node id="482"/>http://www.echo.msk.ru/…-echo/q.html#…PS:<Node id="523"/> Здесь же можно прочитать стенограмму передачи или прослушать звуковой файл:
+Часть 1 – скачать (5.3 MB) слушать (23:<Node id="639"/>00 минуты<Node id="648"/>)
+
+А затем – слушать в эфире (или по Сети) эту передачу (начало передачи – 16:08, время московское):
+<Node id="749"/>http://www.echo.msk.ru/Ну<Node id="774"/> и, как всегда, те, кто не сумел вовремя прослушать эту передачу, через некоторое время смогут прочитать текст этой передачи и/или прослушать её «живую запись» (по этому же адресу)… Удачного прослушивания!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="639" EndNode="648">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="82" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="749" EndNode="774">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="482" EndNode="523">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Казань, <Node id="8"/>7 сентября<Node id="18"/> – Сегодня Казанский государственный университет подписал <Node id="76"/>договор<Node id="83"/> с японской фирмой ООО «Токио Боэки (РУС)», согласно которому компания присуждает три именные стипендии («Стипендия Токио Боэки») лучшим студентам, аспирантам и молодым ученым физического, химического, биологического факультетов КГУ..
+Казанский государственный университет
+Согласно документу, каждый стипендиат будет получать по <Node id="412"/>22.500 рублей<Node id="425"/> в <Node id="428"/>семестр<Node id="435"/> в течение 2007/2008 учебного <Node id="465"/>года<Node id="469"/> (всего выделено <Node id="486"/>135.000 рублей<Node id="500"/>). Генерального директора «Токио Боэки (РУС)» Учида Кадзуэи принял ректор КГУ <Node id="578"/>Мякзюм Салахов<Node id="592"/>. Во встрече также участвовали проректор по учебной работе Владимир Бухмин, начальник Управления международных связей Андрей Крылов, профессор кафедры общей физики физического факультета Дмитрий Таюрский.
+<Node id="797"/>Мякзюм Салахов<Node id="811"/> в беседе с гостем отметил, что <Node id="843"/>этот договор можно воспринимать как признание научных и образовательных заслуг Казанского университета<Node id="945"/>. Учида Кадзуэи подчеркнул, что фирме, которую он представляет, исполняется <Node id="1021"/>60 лет<Node id="1027"/>, московскому представительству – 48. Компания является одним из лидеров на рынке научного приборостроения.
+
+По мнению генерального директора «Токио Боэки (РУС)», в развитии прогресса важную роль играют два фактора: оборудование и человеческие ресурсы.
+ 
+«Московское представительство уже занимается поставкой оборудования, сейчас мы хотим поддержать научные кадры, – отметил Учида Кадзуэи. – Мы сотрудничаем с МГУ и еще с 15 университетами России. Надеемся, что этот договор разовьет связи и с Казанским университетом».
+ Учида Кадзуэи также сообщил о ближайших планах своей компании: «Токио Боэки (РУС)» планирует провести конференцию по нанотехнологиям в Москве.
+
+Представители Казанского университета с большим интересом выслушали эту информацию, и <Node id="1779"/>Мякзюм Салахов<Node id="1793"/> предложил организовать вторую конференцию по нанотехнологиям в Казани.
+ 
+«В столице Татарстана есть все условия для проведения этого мероприятия, – подчеркнул ректор. – Кроме того, в КГУ и других вузах республики велись и ведутся разработки по нанотехнологиям. Казанский университет славен именами многих всемирно известных ученых. Так, в <Node id="2133"/>сентябре<Node id="2141"/> мы отмечаем 100-летие великого физика Евгения Завойского».
+ Учида Кадзуэи сообщил, что примет участие в этих торжествах.
+
+По словам начальника Управления международных связей КГУ Андрея Крылова, отбор стипендиатов пройдет <Node id="2364"/>в течение этого месяца<Node id="2386"/>, а в конце <Node id="2398"/>сентября<Node id="2406"/> станут известны их имена.
+ 
+«<Node id="2436"/>Критерии отбора пока корректируются, но точно можно сказать, что столь существенную материальную поддержку получат студенты, у которых высокие достижения в научной сфере, большие успехи в учебе и общественной жизни, – отметил Андрей Крылов. – Мы думаем, что стипендии будут выделяться и в следующие учебные <Node id="2743"/>годы<Node id="2747"/>, а сотрудничество будет расширяться<Node id="2783"/>».
+ <Node id="2787"/>http://tatar-inform.ru/news/society/?…Ну<Node id="2827"/> вот, и казанцы выходят на большой международный «простор»… Состоится в Казани конференция по нанотехнологиям или нет, главное, что, как выразился уважаемый ректор, «…этот договор можно воспринимать как признание научных и образовательных заслуг Казанского университета». Воистину так! И если сотрудничество будет продолжаться, наверняка это принесёт огромную пользу обеим сторонам, а мы ещё узнаем немало имён талантливых учёных из числа питомцев Казанского университета…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="843" EndNode="945">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="578" EndNode="592">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салахов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="797" EndNode="2783">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="2364" EndNode="2386">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="797" EndNode="2783">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="2436" EndNode="2783">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="412" EndNode="425">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="8" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="1021" EndNode="1027">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="428" EndNode="435">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="797" EndNode="945">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="2743" EndNode="2747">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="797" EndNode="811">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салахов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1021" EndNode="1027">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="797" EndNode="945">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="2398" EndNode="2406">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="автор" StartNode="2436" EndNode="2783">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1779" EndNode="1793">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салахов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="486" EndNode="500">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Партнеры_Клиенты" StartNode="76" EndNode="83">
+</Annotation>
+<Annotation Id="27" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="2133" EndNode="2141">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="темы" StartNode="843" EndNode="945">
+</Annotation>
+<Annotation Id="28" Type="Url" StartNode="2787" EndNode="2827">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="Период_времени" StartNode="465" EndNode="469">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

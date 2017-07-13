@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> являются одной из ведущих областей нанотехнологий. Одним из свойств, делающих их интересными, является люминесценция.
+
+До сих пор люминесценция <Node id="167"/>углеродных <Node id="178"/>нанотрубок<Node id="188"/> была, в основном, предметом чисто академического интереса. Дело в том, что производимые сегодняшними методами образцы представляют собой смесь <Node id="332"/>нанотрубок<Node id="342"/>, в которой есть <Node id="359"/>полупроводниковые <Node id="377"/>нанотрубки<Node id="387"/>, среди которых есть как ярко светящиеся, так и тусклые, а также – металлические, вообще не обладающие люминесцентными свойствами. Разделение такой смеси является чрезвычайно трудной задачей. Однако, недавно исследователи из Vanderbilt Institute of Nanoscale Science and Engineering научились выделять из смеси <Node id="698"/>нанотрубок<Node id="708"/> те, которые обладают наиболее сильной люминесценцией.
+
+Первым этапом стало диспергирование смеси в воде с помощью специального поверхностно-активного вещества и ультразвуковой обработки. Получающуюся тёмную жидкость помещали в ультрацентрифугу для удаления примесей.
+
+Исследователи обнаружили, что если после этого снять наиболее плавучий слой, а через некоторое время снова поместить его в ультрацентрифугу на <Node id="1120"/>12 часов<Node id="1128"/>, жидкость разделяется на несколько чётких слоёв. Самый верхний имеет фиолетовый цвет и, как показали анализы, содержит самые яркие <Node id="1260"/>нанотрубки<Node id="1270"/>. Хотя учёные ожидали, что их метод повысит квантовый выход – количественную меру люминесценции – в 5–10 раз по сравнению с исходной смесью, оказалось, что реальный эффект ещё выше – в 20–100 раз, достигая величины <Node id="1485"/>1%<Node id="1487"/> (1 испущенный фотон на 100 поглощённых), что близко к пределу, полученному для отдельных <Node id="1577"/>нанотрубок<Node id="1587"/>.
+
+В <Node id="1592"/>настоящее время<Node id="1607"/> группа работает над способами прикрепления молекул к поверхности <Node id="1673"/>нанотрубок<Node id="1683"/> – для специфичного связывания с биологическими объектами – так, чтобы при этом люминесцентные свойства <Node id="1787"/>нанотрубок<Node id="1797"/> не нарушались. Среди возможных медицинских применений нового метода – термотерапия раковых опухолей. Здесь люминесцентные <Node id="1920"/>нанотрубки<Node id="1930"/> могут прийти на смену <Node id="1953"/>нанокластерам<Node id="1966"/> золота, которые успешно исследуются учёными довольно давно, но обладают одним недостатком: места прикрепления кластеров трудно обнаружить. Люминесценция же <Node id="2123"/>нанотрубок<Node id="2133"/> должна облегчить задачу их локации.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="698" EndNode="708">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Полупроводниковая+нанотрубка" StartNode="359" EndNode="387">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1592" EndNode="1607">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1787" EndNode="1797">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="178" EndNode="188">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="167" EndNode="188">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="332" EndNode="342">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1485" EndNode="1487">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="377" EndNode="387">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1673" EndNode="1683">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1577" EndNode="1587">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="2123" EndNode="2133">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1260" EndNode="1270">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1920" EndNode="1930">
+</Annotation>
+<Annotation Id="16" Type="Нанокластер" StartNode="1953" EndNode="1966">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1120" EndNode="1128">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

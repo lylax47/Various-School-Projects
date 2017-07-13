@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ТОМСК ПОСЕТИЛ СТАРШИЙ СОВЕТНИК СОВЕТА МИНИСТРОВ СЕВЕРНЫХ ГОСУДАРСТВ<Node id="67"/>10 апреля<Node id="76"/> при содействии Томского агентства привлечения инвестиций Томск посетил старший советник Совета Министров Северных государств, представитель Nordic Innovation Centre Джорн Банг Андерсен. Визит состоялся в рамках его знакомства с перспективными российскими регионами, характеризующимися высокой концентрацией научного потенциала.
+Jorn Bang AndersenВ ходе работы прошла встреча г-на Андерсена с представителями власти Томской области, ВУЗов, инновационных предприятий Томска, на которой были представлены цели и направления деятельности Nordic Innovation Centre. Джорн Банг Андерсен озвучил предложение о подборе инвесторов в странах Скандинавского региона для организации совместных наукоемких высокотехнологичных проектов с томскими ВУЗами и НИИ, а также о возможности открытия представительства Центра на территории Томской области.
+
+Представители инновационного бизнеса Томска проявили большой интерес к деятельности Nordic Innovation Centre. Для знакомства с инновационной инфраструктурой Томска <Node id="1075"/>Д. Андерсен<Node id="1086"/> посетил «УК «Российский Инновационный центр»», компанию «Элекард», Томский политехнический университет, ОЭЗ ТВТ «Томск».
+По итогам проведенных встреч г-н <Node id="1241"/>Андерсен<Node id="1249"/> высоко оценил перспективы дальнейшего сотрудничества с регионом, в т.ч. в рамках развития высокотехнологичных кластеров Томской области в лесопромышленном комплексе, IT-секторе, газонефтехимии, биотехнологиях, которые соответствуют ключевым отраслям промышленности Скандинавских стран (Дании, Норвегии, Швеции, Финляндии).
+Nordic Innovation Centre (Инновационный Центр Северных Государств) – крупная правительственная организация, работающая под руководством <Node id="1709"/>Совета Министров Северных стран<Node id="1740"/> и отвечающая за развитие инновационных форм деятельности стран Северной Европы. В <Node id="1823"/>настоящее время<Node id="1838"/> при содействии Центра реализуется около 120 проектов по следующим направлениям: биотехнологии, информационные технологии, микроэлектроника, нанотехнологии, технологии охраны окружающей среды, безопасности пищевых продуктов. В России Nordic Innovation Centre ведет свою деятельность в Санкт-Петербурге и Калининграде.
+<Node id="2156"/>http://www.press-release.ru/…06dfffe2f54/Nordic<Node id="2203"/> Innovation <Node id="2215"/>Centrehttp://www.nordicinnovation.net<Node id="2252"/>/Да-а-а, скандинавы наступают… Мало им уже Питера и Калининграда, так они решили погрузиться «во глубину сибирских руд». Ну, томичи сами ищут инвесторов по всему миру и особенно – в Европе, так что они и сами наверняка будут заинтересованы в привлечении инвестиций из Скандинавских стран. И если силы взаимного притяжения обеих сторон превзойдут силы подозрений и «отталкивания», то тогда начнётся новый этап развития сотрудничества между ними…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1075" EndNode="1086">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Андерсен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1241" EndNode="1249">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Андерсен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="1709" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Совета Министров Северных стран</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="67" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2156" EndNode="2203">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2215" EndNode="2252">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1823" EndNode="1838">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

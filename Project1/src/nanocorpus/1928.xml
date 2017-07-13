@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Реальное ПЭМ изображение! (глазик около 30 нм) 
+<Node id="50"/>Наночастицы<Node id="61"/> серебряные, оболочка из кремнезема. 
+Не артефакт(!), но до конца не понимаем. 
+(На правах обсуждения научной информации) 
+    
+ 
+      
+ 
+  
+ 
+                                                           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="50" EndNode="61">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

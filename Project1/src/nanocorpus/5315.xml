@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Специалисты американской компании Nanocomp создали легкий материал на основе <Node id="79"/>углеродных <Node id="90"/>нанотрубок<Node id="100"/>, который по прочности не уступает стали, а по проводимости может сравниться с алюминием.  
+ 
+Для получения нового материала разработчики использовали <Node id="251"/>нанотрубки<Node id="261"/>, длина которых достигала нескольких миллиметров. Благодаря увеличенной длине <Node id="339"/>нанотрубки<Node id="349"/> могли соединяться друг с другом более эффективно.  
+ 
+Технология, разработанная специалистами Nanocomp, позволяет производить листы материала размером приблизительно 1x3 м. Однако ученые надеются, что <Node id="551"/>в течение года<Node id="565"/> они смогут усовершенствовать метод, и получать листы нового материала большего размера.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="90" EndNode="100">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="79" EndNode="100">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="251" EndNode="261">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="339" EndNode="349">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="551" EndNode="565">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

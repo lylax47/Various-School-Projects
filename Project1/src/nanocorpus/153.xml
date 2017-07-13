@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> обладают феноменальной прочностью. Однако, чтобы эффективно использовать это свойство для конкретных применений, нужно научиться скручивать из них  волокно. Наиболее привлекательным для коммерческого использования выглядит способ изготовления волокон, который уже более пяти тысяч <Node id="304"/>лет<Node id="307"/> применяется для получения хлопковых нитей. А для  применения этого способа необходимо получить материал на основе <Node id="422"/>углеродных <Node id="433"/>нанотрубок<Node id="443"/>, который по своим свойствам напоминает хлопок. 
+ 
+Исследователи из Los Alamos National Laboratory (США) сообщают, что им удалось получить новый материал - нанотрубочный хлопок (УНТ-хлопок) - который состоит из  длинных <Node id="663"/>углеродных <Node id="674"/>нанотрубок<Node id="684"/>. Материал и правда очень напоминает хлопок, даже имеет такой же цвет и ворсистость. Кроме того, его можно прясть. 
+ 
+Что удивительно, в отличие от других углеродных материалов цвет УНТ-хлопка не черный, а серый, что объясняется его малой плотностью – между отдельными <Node id="953"/>нанотрубками<Node id="965"/> находится очень много пустого пространства.  Сами  <Node id="1017"/>нанотрубки<Node id="1027"/> сильно спутаны. УНТ-хлопок проявляет гидрофобные свойства – капля, помещенная на него, сохраняет сферическую форму. 
+ 
+Материал был получен методом каталитического осаждения из паровой фазы. Диаметр <Node id="1227"/>нанотрубок<Node id="1237"/> находится в интервале 100 – 380 нм. Длина <Node id="1280"/>нанотрубок<Node id="1290"/> составляет несколько миллиметров. Стенки <Node id="1332"/>нанотрубок<Node id="1342"/> состоят из хорошо ориентированных слоев графита и содержат совсем немного аморфного углерода. 
+ 
+Хлопок был скручен в волокна при помощи оригинальной методики. Кончик металлической иглы диаметром 25 мкм был покрыт клеящим веществом и опущен в хлопок. <Node id="1594"/>Потом<Node id="1599"/> при вращении этой иглы образовались волокна из <Node id="1647"/>нанотрубок<Node id="1657"/> длиной до 10 см. 
+ 
+Работа "Carbon-Nanotube Cotton for Large-Scale Fibers" была опубликована в журнале Advanced Materials (10.1002/adma.200602648). 
+  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="953" EndNode="965">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1332" EndNode="1342">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="663" EndNode="684">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1594" EndNode="1599">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="433" EndNode="443">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="304" EndNode="307">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1647" EndNode="1657">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1227" EndNode="1237">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="674" EndNode="684">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1280" EndNode="1290">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="422" EndNode="443">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1017" EndNode="1027">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

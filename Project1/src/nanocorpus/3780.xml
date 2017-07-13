@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>24 по 27 июня 2008 года<Node id="24"/> 
+в Корпусе общего назначения (КОН) Института проблем химической физики РАН (<Node id="101"/>г. Черноголовка Московской обл.<Node id="132"/>, пр. акад. Н.Н. Семенова, д.1). будет проходить
+ 9-ое Совещание с международным участием “Фундаментальные проблемы ионики твердого тела”. В ходе Совещания планируется обсудить следующие темы:   механизмы быстрого ионного переноса в твердых телах;   твердые электролиты с суперионной проводимостью: синтез, структура, свойства;   протонпроводящие мембраны;   композитные и <Node id="505"/>наноструктурные материалы<Node id="530"/> с ионной проводимостью;   методы исследования ионпроводящих систем;   электрохимические процессы на твердых межфазных границах типа ионный проводник/электронный проводник, в том числе, с участием активных газов;   перспективы прикладного использования суперионных проводников (топливные элементы, газовые <Node id="836"/>сенсоры<Node id="843"/>, ионисторы, аккумуляторы).   
+Заявку на участие и тезисы докладов просим прислать до <Node id="929"/>15 апреля 2008 года<Node id="948"/> на email: <Node id="959"/>anna@lssi.ru<Node id="971"/> с заполненным Приложением регистрационной формы. 
+ 
+Интернет-сайт мероприятия <Node id="1050"/>http://www.lssi.ru/fpssi_2008.<Node id="1080"/>
+ 
+Требования к тезисам докладов: объем 1 стр. (12 Times New Roman, все поля по 2 см, 1.5 интервал, название – прописными буквами 14 Times, пропуск строки, Ф.И.О. авторов 12 Bold центрированное, пропуск строки, организация, адрес – 12 курсив, центрированное, пропуск строки, текст тезисов) со вставленными рисунками и таблицами в формате .doc или .rtf . В теме письма указать тип доклада (устный, стендовый) и номер научной секции.
+ 
+Полные тексты докладов (статьи) необходимо прислать для рецензии до <Node id="1582"/>01 мая 2008 года<Node id="1598"/>. Статьи будут опубликованы в тематическом выпуске журнала “Электрохимия”. При оформлении статей авторам необходимо руководствоваться “Правилами”, опубликованными в журнале “Электрохимия” (например, «Электрохимия». 2007. Т. 43, № 11).  
+Телефон для справок: 8(496)522-16-57 (<Node id="1873"/>Букун Надежда Герасимовна<Node id="1898"/>, Писарева Анна Владимировна).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1050" EndNode="1080">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="836" EndNode="843">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1873" EndNode="1898">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Герасимовна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Надежда</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="505" EndNode="530">
+</Annotation>
+<Annotation Id="5" Type="Электронная_почта" StartNode="959" EndNode="971">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="929" EndNode="948">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1" EndNode="24">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="1582" EndNode="1598">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="расположение" StartNode="101" EndNode="132">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

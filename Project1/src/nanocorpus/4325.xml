@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+У <Node id="3"/>углеродных <Node id="14"/>нанотрубок<Node id="24"/>, кажется, появился серьезный конкурент в наноэлектронике – материал <Node id="93"/>графен<Node id="99"/>, представляющий, по сути дела, ту же <Node id="137"/>нанотрубку<Node id="147"/>, только «развернутую» в плоский углеродный лист.
+
+Как установили ученые из Университета Риверсайда, Калифорния (University of California – Riverside UCR), графеновый лист проводит тепло в составе микроэлектронных компонентов гораздо лучше <Node id="387"/>нанотрубок<Node id="397"/>.
+
+“<Node id="401"/>С традиционным уменьшением электронных чипов, обую важность приобретают эффективные теплопроводные материалы, – говорит Александр Баландин<Node id="539"/> (Alexander Balandin), профессор из UCR. – Наша работа позволяет использовать <Node id="617"/>графен<Node id="623"/> в ряде полупроводниковых устройств, обеспечивающих тепловой контроль в оптоэлектронике, фотонике и биотехнологиях”.
+
+Для измерения теплопроводности <Node id="772"/>графена<Node id="779"/> ученые использовали оригинальный бесконтактный метод: они расположили пленку длиной всего три микрона на поверхность с углублением так, что большая часть <Node id="934"/>графена<Node id="941"/> оказалась висящей в воздухе между двумя концами, между которыми была закреплена.
+
+Далее, нагревая пленку светом они измеряли степень ее вибрации с помощью <Node id="1097"/>Рамановской спектроскопии<Node id="1122"/>. Далее, исследовав спектр и сопоставив его с мощностью лазера, Александр и <Node id="1198"/>его<Node id="1201"/> коллеги смогли точно вычислить коэффициент теплопроводности.
+
+Теплопроводность материала измеряется в Вт/мК (Ватт/метртемпература (Кельвины)). Как видно, зависит этот показатель от мощности тепловой энергии, длины материала и температуры. Так, для кремния этот коэффициент при комнатной температуре составляет 145 Вт/м*К.
+
+<Node id="1525"/>Углеродные <Node id="1536"/>нанотрубки<Node id="1546"/> могут похвастаться значением теплопроводности от 3000 до 3500 Вт/мК, в то время как для графеновой пленки значение этого коэффициента может достигать до 5300 Вт/мК.
+
+Но не только высокая теплопроводность делает <Node id="1758"/>графен<Node id="1764"/> идеальным кандидатом для мониторинга температуры в чипах, еще одно достоинство графеновых пленок – их геометрия и малая толщина.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="3" EndNode="24">
+</Annotation>
+<Annotation Id="2" Type="Рамановская+спектроскопия" StartNode="1097" EndNode="1122">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="137" EndNode="147">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="617" EndNode="623">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="1758" EndNode="1764">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="14" EndNode="24">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="401" EndNode="539">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1536" EndNode="1546">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1198" EndNode="1201">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="401" EndNode="539">
+</Annotation>
+<Annotation Id="15" Type="Графен" StartNode="93" EndNode="99">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Углеродная+нанотрубка" StartNode="1525" EndNode="1546">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="772" EndNode="779">
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="934" EndNode="941">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="387" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

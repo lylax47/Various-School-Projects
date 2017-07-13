@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Российские, украинские, и ученые из США, используя наработки <Node id="62"/>1970-х годов<Node id="74"/> в области материаловедения, смогли разработать новую методику массового производства отдельных <Node id="170"/>нанокластеров<Node id="183"/>.
+
+Как говорят ученые, их открытие будет востребовано в химической промышленности, а, в частности, в области нанокатализа.
+
+Наноразмерные кластеры вещества характеризуются совершенно другими химическими и физическими свойствами, чем тот же материал на макроуровне (bulk material). Так, например, уникальные, магнитные и каталитические свойства <Node id="527"/>нанокластеров<Node id="540"/> делают этот <Node id="553"/>наноматериал<Node id="565"/> востребованным в различных областях производства. Однако до сих пор получить <Node id="643"/>нанокластеры<Node id="655"/> в больших количествах было достаточно тяжело.
+
+Как сообщает Nanotechweb, международная команда исследователей, включающая Валерия Кирюхина из Университета Ратгерса (Rutgers University) в Нью-Джерси, <Node id="855"/>его<Node id="858"/> коллег из Корнельского Университета (Cornell University), ученых из Российской Академии Наук и Национальной Академии Наук Украины, применила «старую» инжекционную технологию для массового производства <Node id="1060"/>нанокластеров<Node id="1073"/>.
+
+<Node id="1076"/>Как говорит Валерий, новый метод основан на впрыскивании гелия, содержащего определенное количество примесей в жидкий гелий<Node id="1199"/>. <Node id="1201"/>Нанокластеры<Node id="1213"/> же обосабливались в жидком гелии благодаря покрытию из инертного гелия, полученному благодаря инжекционной струе.
+
+Как потом показала рентгеновская дифракционная микроскопия, отдельные <Node id="1399"/>нанокластеры<Node id="1411"/> были отделены один от другого и содержались в жидкости в больших количествах, поэтому можно говорить об их «массовом производстве».
+
+Как далее поясняет Кирюхин, разработанная исследователями технология может оперировать практически любыми <Node id="1651"/>нанокластерами<Node id="1665"/>, стоит только их добавить в инжекционную струю.
+
+Полученные <Node id="1726"/>нанокластеры<Node id="1738"/> также помогут ученым узнать больше о структурных и магнитных свойствах <Node id="1810"/>наночастиц<Node id="1820"/>.
+
+<Node id="1823"/>На сегодняшний день<Node id="1842"/> ученые планируют изучить свойства <Node id="1877"/>нанокластеров<Node id="1890"/> при повышении температуры среды, в которой они находятся.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="62" EndNode="74">
+</Annotation>
+<Annotation Id="1" Type="Нанокластер" StartNode="527" EndNode="540">
+</Annotation>
+<Annotation Id="2" Type="Нанокластер" StartNode="1060" EndNode="1073">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанокластер" StartNode="1399" EndNode="1411">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="553" EndNode="565">
+</Annotation>
+<Annotation Id="8" Type="Нанокластер" StartNode="170" EndNode="183">
+</Annotation>
+<Annotation Id="9" Type="Нанокластер" StartNode="1201" EndNode="1213">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанокластер" StartNode="1726" EndNode="1738">
+</Annotation>
+<Annotation Id="13" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1076" EndNode="1199">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанокластер" StartNode="1877" EndNode="1890">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1076" EndNode="1199">
+</Annotation>
+<Annotation Id="19" Type="Нанокластер" StartNode="1651" EndNode="1665">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1823" EndNode="1842">
+</Annotation>
+<Annotation Id="20" Type="Нанокластер" StartNode="643" EndNode="655">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="1810" EndNode="1820">
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="855" EndNode="858">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

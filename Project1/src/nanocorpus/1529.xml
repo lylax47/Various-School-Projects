@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Вступая в эру нанотехнологий, мы еще быстрее движемся в неизведанное, непознанное, где есть и колоссальные возможности и дополнительные угрозы, опасности, – сказал в интервью СМИ депутат Госдумы, член Генсовета партии ‹Единая Россия› Андрей Кокошин.
+ 
+<Node id="254"/>По словам Кокошина, моделирование нанопроцессов, моделирование взаимодействия создаваемых и потенциальных <Node id="360"/>наноструктур<Node id="372"/> на супер-ЭВМ помогает раньше и масштабнее распознать те или иные проблемы<Node id="446"/>.
+
+Кокошин сказал, что
+ 
+уже сейчас следует начать разработку правил обращения людей с различными <Node id="544"/>наноматериалами<Node id="559"/>, правил их хранения и способов утилизации без ущерб для экологии и ущерба здоровью людей.
+ <Node id="651"/>По словам Кокошина, имея дело с нанотехнологиями, мы должны учитывать, в том числе, уже имеющийся у нас весьма сложный опыт утилизации радиоактивных <Node id="800"/>отходов<Node id="807"/>.http://www.kreml.org/news/153267047Ха!<Node id="846"/> Он наверняка читает наш блог. Мы ведь об этом писали ранее… ;-))) С другой стороны, он наверняка мог и «самостоятельно» услышать призыв академика Сергея Колесникова, который прямо предостерегал о возможных опасностях нового Н-Т направления: <Node id="1088"/>http://www.nanonewsnet.ru/…edosteregaet<Node id="1127"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1088" EndNode="1127">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="800" EndNode="846">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="254" EndNode="446">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="651" EndNode="807">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="651" EndNode="807">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="254" EndNode="446">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="544" EndNode="559">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наноструктура" StartNode="360" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

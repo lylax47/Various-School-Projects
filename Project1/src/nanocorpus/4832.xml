@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Югай Г.<Node id="7"/>, <Node id="9"/>Ким А.Нанотехнология<Node id="29"/> омоложения и долголетия, <Node id="55"/>2008 г.<Node id="62"/>, 16 стр.
+ISBN 978–5–88161–275–7
+Формат: 60×88/16
+
+Цена <Node id="118"/>34 руб<Node id="124"/>
+От издателя
+«Нано» (от греч. nanos – карлик) – приставка для наименования дольных единиц, равных одной миллиардной доле метра. Соответственно, нанотехнология – это технология объектов, размеры которых – порядка миллиардных долей метра.
+
+Такие процессы подчиняются законам квантовой механики и включают в себя атомную сборку молекул, новые методы записи и считывания информации, а также способы локальной стимуляции химических реакций на молекулярном уровне.
+В брошюре изложена в популярной форме суть нанотехнологии. А также ее применение «для омоложения и долголетия» и практические рекомендации «по противораковой омолаживающей диете».
+<Node id="763"/>http://www.ozon.ru/…/id/3977766/Долго<Node id="800"/> сомневался я, стОит ли помещать это сообщение здесь… Ведь не известно, что там понаписали эти авторы. С другой стороны, книга или (в данном случае) брошюра – это ведь тот же «товар», выпущенный массовым тиражом, и её каждый может увидеть на лотках и в витринах магазинов. Конечно, отрадно, что авторы пропагандируют нанотехнологии, но что-то вызывает во мне сомнение, что их рекомендации по «омоложению» и «долголетию» и «профилактике рака» носят столь уж научный характер. Как говорится, судите сами… Я лично сомневаюсь в этом. И ещё – я дал ссылку на «ОЗОН». Но не обязательно заказывать брошюру именно у них – ведь стоимость доставки может намного превысить цену самой брошюрки (<Node id="1483"/>180 рублей<Node id="1493"/> весом до 2 кг)…;-(</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="55" EndNode="62">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1483" EndNode="1493">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="118" EndNode="124">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="763" EndNode="800">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="9" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ким</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

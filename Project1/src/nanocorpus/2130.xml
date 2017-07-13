@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Санкт-Петербургский институт ядерной физики им. Б.П. Константинова РАН  магнитные разбавленные сплавы, <Node id="105"/>наноструктуры<Node id="118"/>, спиновые структуры, углеродные сорбенты , феррожидкости   <Node id="178"/>Наноматериалы<Node id="191"/> Физика неупорядоченного состояния   Исследование надмолекулярных структур методами малоуглового и квазиупругого рассеяния нейтронов Исследование сильнокоррелированных систем: ВТСП материалы; материалы с гигантским магнитосопротивлением; тяжело-фермионные соединения Исследование спиновых систем с иерархией конкурирующих взаимодействий: спин-стекольные системы; спиральные спиновые структуры Исследование функциональных материалов: магнитные разбавленные сплавы; материалы с памятью формы; инварные материалы; магнитные и немагнитные <Node id="726"/>наноструктуры<Node id="739"/> на основе мезопористых матриц; феррожидкости; углеродные сорбенты с гигантской (фрактальной) площадью поверхности Развитие техники малоуглового рассеяния поляризованных нейтронов                             Аксельрод Леонид Абрамович, старший научный сотрудник Гордеев Геннадий Петрович, ведущий научный сотрудник, кандидат наук Григорьев Сергей Валентинович, старший научный сотрудник, кандидат наук <Node id="1141"/>Драбкин Гильяри Моисеевич<Node id="1166"/>, ведущий научный сотрудник, доктор наук Забенкин Владимир Николаевич, научный сотрудник Ковалев Анатолий Васильевич, старший научный сотрудник, кандидат наук Лебедев Василий Тимофеевич, старший научный сотрудник, доктор наук Лебедев Виктор Михайлович, старший научный сотрудник, кандидат наук Окороков Алексей Иванович, профессор, доктор наук Рунов Владимир Владимирович, заведующий лабораторией, кандидат наук  Дифрактометр "Мембрана-2" Малоугловой дифрактометр "Вектор" Малоугловой дифрактометр поляризованных нейтронов с 3-х мерным анализатором поляризации Рефлектометр вертикального рассеяния нейтронов "Реверанс"      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноматериал" StartNode="178" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="1141" EndNode="1166">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Моисеевич</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Драбкин</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Наноструктура" StartNode="105" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Наноструктура" StartNode="726" EndNode="739">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

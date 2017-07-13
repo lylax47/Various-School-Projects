@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В <Node id="2"/>неделю<Node id="8"/> на рынке появляется три-четыре новых «нанотехнологичных» изделияСредняя скорость появления на рынке «нанотехнологичных» потребительских товаров в <Node id="155"/>последние два года<Node id="173"/> составляет 3–4 изделия в <Node id="199"/>неделю<Node id="205"/>, сообщает «Проект по отслеживанию развития нанотехнологий» (Project on Emerging Nanotechnologies, PEN) в своем пресс-релизе.
+Зубная паста с <Node id="346"/>наночастицами<Node id="359"/> серебра
+Расчет основан на перечне «нанотехнологичных» товаров, составляемых PEN <Node id="440"/>(http://www.nanotechproject.org/…ies/consumer).<Node id="487"/> В <Node id="490"/>марте 2006<Node id="500"/> перечень содержал 212 изделий, сейчас, по данным пресс-релиза, 609 (в самом перечне указывается, что 610).
+Составители перечня не приводят строгого определения «нанотехнологичного» изделия и опираются в основном на описания производителей. Как правило, попадающие в перечень изделия содержат объекты размером не более 100 нанометров. Составители отмечают, что перечень не претендует на полноту.
+Больше всего «наноизделий» (<Node id="924"/>60 процентов<Node id="936"/>) приходится на рубрику «Здоровье, гигиена, красота, спорт». Самым распространенным веществом, измельчающимся до <Node id="1049"/>наночастиц<Node id="1059"/>, является серебро (<Node id="1079"/>20 процентов<Node id="1091"/> изделий). Следующее место занимает углерод (разные его изомеры). Также производители упоминают цинк (в том числе оксид цинка), титан (в том числе оксид титана), кремний и золото.
+
+В выступлении перед комиссией Сената США директор PEN Дэвид Реджески (David Rejeski) отметил необходимость повысить уровень общественного доверия к нанотехнологиям, иначе в будущем эта отрасль может оказаться в экономическом кризисе.
+<Node id="1506"/>http://lenta.ru/…/04/24/nano/New<Node id="1538"/> nanotech products hitting the market at the rate of 3–4 per <Node id="1599"/>weekhttp://www.eurekalert.org/…np042308.phpProject<Node id="1649"/> on Emerging <Node id="1662"/>Nanotechnologieshttp://www.nanotechproject.org/inventories/Ранее<Node id="1726"/> мы уже упоминали о такой независимой организации, как «Проект по отслеживанию развития нанотехнологий» (Project on Emerging Nanotechnologies, PEN). И она действительно «отслеживает» (примерно как, скажем, «наш» Г.Г.Онищенко) это развитие. Но не с целью кого-то или что-то просто «уесть», «поставить заслон» на пути распространения и т.п. А делает она это в конечном счёте, как это сформулировал её руководитель, «с благородной целью» – повысить уровень общественного доверия к нанотехнологиям, иначе, дескать, в будущем эта отрасль может оказаться в экономическом кризисе«… Вот это – абсолютно правильная постановка вопроса… Хорошо бы было, если бы и наши так называемые "контролирующие инстанции» не превращались в непримиримых церберов (понятно, что здесь не идёт речь об однозначно вредоносном продукте/изделии), а заняли бы столь же конструктивную позицию – позицию общественного контроля за степенью потенциального риска и «максимальной минимизации» этого риска…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1049" EndNode="1059">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="155" EndNode="173">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="490" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="2" EndNode="8">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="346" EndNode="359">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1599" EndNode="1649">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="199" EndNode="205">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="440" EndNode="487">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1662" EndNode="1726">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1079" EndNode="1091">
+</Annotation>
+<Annotation Id="11" Type="Процент" StartNode="924" EndNode="936">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1506" EndNode="1538">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

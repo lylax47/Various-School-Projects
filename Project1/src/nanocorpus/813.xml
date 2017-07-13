@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Разработана рентгеновская и нефотонная нанооптикаНанотехнологии позволили создать оптику нового типа для работы с рентгеновским излучением, а также с нефотонными пучками.
+В лаборатории космических нанотехнологий Массачусетского технологического института (MIT) разработана оптика рентгеновского диапазона на основе <Node id="315"/>наночастиц<Node id="325"/>.
+
+В связи с малой длиной волны рентгеновского излучения создание рефракционных или отражательных оптических элементов для его собирания – например, в астрономических рентгеновских телескопах – представляет собой в высшей степени сложную задачу. Обычно используются либо коллиматорные телескопы, либо зеркальная оптика малого угла падения, при которой даже обычные материалы позволяют обеспечить отражение рентгеновских лучей.
+Ученым из MIT удалось создать дифракционные решетки малого угла падения на основе <Node id="834"/>наноструктур<Node id="846"/> из кремния, работающих каждая как микрозеркало малого угла падения. Массив таких структур позволяет обеспечить отражение и дифракцию рентгеновских лучей.
+ Рентгеновская дифракционная решетка состоит из линейных кремниевых элементов толщиной всего 35 нм, расположенных на расстоянии 150 нм одна от другой. размер массива исчисляется микрометрами. Minseung Ahn
+Изначальной целью работы аспиранта Минcен <Node id="1248"/>Ана<Node id="1251"/> (Minseung Ahn) из MIT, которому удалось преодолеть технологические трудности создания дифракционных нанорешеток, было создание оптики нового типа для перспективного рентгеновского космического телескопа NASA. Новый подход позволит в пять раз повысить светосилу такого астрономического инструмента по сравнению с рентгеновским телескопом космической обсерватории Chandra.
+ Перспективы новой технологии выходят далеко за рамки создания космических рентгеновских телескопов. Оптические элементы на основе дифракционных решеток рентгеновского диапазона могут позволить создать, к примеру, новые системы фотолитографии с использованием электромагнитного излучения в диапазоне граничащего с рентгеновским жесткого ультрафиолета. Возможно также появление нефотонной оптики – оптических систем для пучков нейтронов, атомов или молекул. Вероятно, открытие быстро найдет применение и в военном деле.
+<Node id="2142"/>http://rnd.cnews.ru/…cience.shtml?…MIT<Node id="2180"/> team develops better X-ray <Node id="2208"/>nanomirrorshttp://web.mit.edu/…rs-0609.htmlMIT<Node id="2254"/> Space Nanotechnology <Node id="2276"/>Laboratoryhttp://snl.mit.edu/Молодцы<Node id="2312"/> ребята! Молодые, энергичные, целеустремлённые… Дали им в руки прекрасное оборудование для проведения исследований. Грамотно поставили задачу – и вперёд!.. Вот на какие стандарты в области подготовки кадров нужно ориентироваться и нашим вузам! Чтобы каждый аспирант мог вести собственные исследования и добиваться серьёзных результатов… А не думать всё время о чём-то «постороннем»: о <Node id="2697"/>Фурсенко<Node id="2705"/>, об ЕГЭ и «Болонской конвенции»…;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="834" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2276" EndNode="2312">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2697" EndNode="2705">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1248" EndNode="1251">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="2208" EndNode="2254">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2142" EndNode="2180">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="315" EndNode="325">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

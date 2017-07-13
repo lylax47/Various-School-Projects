@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Политехнического Института Ренслеера (Rensselaer Polytechnic Institute) изучили ряд механических свойств <Node id="116"/>углеродных <Node id="127"/>нанотрубок<Node id="137"/>. Как говорят исследователи, новые факты открывают свет на неизвестные ранее механические свойства <Node id="236"/>нанотрубок<Node id="246"/>. В частности, на основе материала из <Node id="284"/>нанотрубок<Node id="294"/> можно будет сделать искусственные мышцы, имитирующие работу настоящих.
+
+В отчете «Усталостная прочность массива связанных <Node id="417"/>нанотрубок<Node id="427"/> под воздействием цилиндрического сжатия», который опубликован в июльском выпуске журнала Nature Nanotechnology, соавтор статьи, Виктор Пушпарадж (Victor Pushparaj), объясняет, как именно многоразовая деформация <Node id="639"/>нанотрубок<Node id="649"/> влияет на их прочность.
+
+Как сообщает PhysOrg, в пример приводится свойства мышц тканей желудка человека, которые могут сокращаться миллионы раз без накопления усталости и разрыва. Этими свойствами, особенными для живых тканей обладают и материалы из <Node id="901"/>углеродных <Node id="912"/>нанотрубок<Node id="922"/>.
+
+Пушпарадж и <Node id="937"/>его<Node id="940"/> коллеги доказали это экспериментально. В качестве исследуемого образца был выбран кусок матрицы соединенных вместе углеродных <Node id="1067"/>многослойных <Node id="1080"/>нанотрубок<Node id="1090"/> площадью 2 мм^^2^^. Ученые подвергли его сжатию на <Node id="1142"/>25%<Node id="1145"/> от первоначальной высоты, после чего повторили эту операцию 500 раз.
+
+В течение всего цикла были проведены измерения механических свойств <Node id="1284"/>нанотрубок<Node id="1294"/>. Как оказалось, механические свойства кусочка не изменились. Также остались неизменными и электропроводные свойства <Node id="1411"/>нанотрубок<Node id="1421"/>.
+
+В итоге, учеными было установлено, что массив связанных <Node id="1480"/>нанотрубок<Node id="1490"/> имеет ярко выраженные вискоэластические свойства, в то время, как одна <Node id="1562"/>нанотрубка<Node id="1572"/> такими свойствами не обладает.
+
+Сам факт того, что <Node id="1624"/>нанотрубки<Node id="1634"/> настолько хорошо выдерживают многократные деформации, существенно расширяет их область применения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="116" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1284" EndNode="1294">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1562" EndNode="1572">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="937" EndNode="940">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="417" EndNode="427">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1142" EndNode="1145">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1624" EndNode="1634">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="639" EndNode="649">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="912" EndNode="922">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="901" EndNode="922">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="284" EndNode="294">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="127" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1080" EndNode="1090">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1411" EndNode="1421">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1480" EndNode="1490">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Многослойная+нанотрубка" StartNode="1067" EndNode="1090">
+</Annotation>
+<Annotation Id="25" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="236" EndNode="246">
+</Annotation>
+<Annotation Id="27" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

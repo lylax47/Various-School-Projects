@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>Пятьдесят лет назад<Node id="20"/> Fred Hawthorne открыл чрезвычайно стабильную молекулу B12H12. Такие молекулы, «борные клетки», неохотно вступают в химические реакции и поэтому долгое время не вызывали у ученых никакого интереса. 
+ 
+ Теперь Hawthorne профессор радиологии и директор International Institute for Nano and Molecular Medicine. Недавно его команда придумала, как заставить молекулы B12H12 реагировать и получать из них новые <Node id="425"/>наноразмерные структуры<Node id="448"/>. Исследователями было показано, что, прикрепляя к «борным клетками» различные модификаторы, можно присвоить им свойства многих металлов. Полученные вещества были названы авторами «псевдоэлементами». Их «псевдометаллические» свойства могут настраиваться в широких приделах и использоваться для нужд медицины и электроники. Особый интерес представляет получение из таких молекул <Node id="826"/>наноструктур<Node id="838"/> с запрограммированными свойствами. 
+ 
+ Работа была опубликована в Angewandte Chemie. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноструктура" StartNode="826" EndNode="838">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1" EndNode="20">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="425" EndNode="448">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

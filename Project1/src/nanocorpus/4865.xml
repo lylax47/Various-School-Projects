@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Глава правительства РФ Владимир Путин проведет в среду переговоры с финским коллегой <Node id="86"/>Матти Ванханеном<Node id="102"/>, который посетит Москву с рабочим визитом.
+
+Как сообщил источник в российском <Node id="181"/>правительстве<Node id="194"/>, стороны уделят особое внимание строительству газопровода «Северный поток» и российскому участию в развитии финской атомной энергетики.
+
+«Особое внимание предполагается уделить проблематике энергетического сотрудничества, прежде всего – строительству газопровода «Северный поток» и обеспечению участия российских компаний в развитии атомного энергетического комплекса в Финляндии», – сказал источник.
+
+По его словам, в ходе переговоров будут предметно обсуждены вопросы торгово-экономических отношений. Источник отметил, что по итогам первого полугодия <Node id="748"/>2008 года<Node id="757"/> Россия стала главным внешнеторговым партнером Финляндии.
+
+«В числе наиболее перспективных направлений двустороннего взаимодействия – производственная кооперация, высокие технологии, включая нанотехнологии, создание технопарков», – отметил источник.
+
+Он проинформировал также, что на переговорах будет рассмотрены ход реализации ряда крупных совместных проектов в сфере транспорта и перспективы продления срока аренды Финляндией российской части Сайменского канала.
+
+Источник напомнил, что к <Node id="1249"/>2010 году<Node id="1258"/> планируется организовать скоростное пассажирское железнодорожное сообщение между Санкт-Петербургом и Хельсинки Проект позволит сократить время следования по маршруту Петербург-Хельсинки <Node id="1445"/>с 5 часов<Node id="1454"/> <Node id="1455"/>50 минут до 3 часов<Node id="1474"/> <Node id="1475"/>30 минут<Node id="1483"/>, а также обеспечить растущие объемы перевозок в направлении российских портов на Балтики.
+
+Проект включает организацию пассажирского скоростного движения со скоростью до 200 км в <Node id="1663"/>час<Node id="1666"/> на реконструируемой линии Санкт-Петербург – Бусловская, а также вынос грузового движения на линию Ручьи-Петяярви-Каменногорск-Выборг со строительством новой линии Петяярви-Каменногорск.
+
+Общие затраты на реализацию проекта составят <Node id="1899"/>79,7 млрд рублей<Node id="1915"/>, из них госсредства – <Node id="1938"/>27 млрд рублей<Node id="1952"/>, средства РЖД – <Node id="1969"/>50,3 млрд рублей<Node id="1985"/>. Окупаемость проекта – <Node id="2009"/>10 лет<Node id="2015"/>.
+
+Для организации скоростного движения создано совместное с финскими железными дорогами предприятие Karelian Trans Ltd. Конкурс на поставку скоростных поездов выиграла французская Alstom. Испытания поезда пройдут <Node id="2229"/>до конца 2008 года<Node id="2247"/>.
+
+Что касается аренды финнами Сайменского канала, то в <Node id="2303"/>сентябре<Node id="2311"/> министерства транспорта РФ и Финляндии подписали меморандум о завершении переговоров по подготовке соответствующего межправительственного соглашения.
+
+Новый срок аренды канала составит <Node id="2497"/>50 лет<Node id="2503"/>, сумма аренды – <Node id="2520"/>1,2 млн евро<Node id="2532"/> в <Node id="2535"/>год<Node id="2538"/>. Сайменский канал соединяет самую крупную и наиболее судоходную озерную систему Финляндии с Финским заливом. Канал дает возможность проводки судов из портов внутренних вод восточной Финляндии в порты европейского побережья, а также во внутренние порты стран Центральной и Восточной Европы.
+
+Представитель <Node id="2844"/>правительства<Node id="2857"/> сообщил также, что «стороны обсудят вопросы сотрудничества в лесном хозяйстве в контексте повышения российских экспортных пошлин на необработанную древесину». Вопрос об экспортных пошлинах на российских лес наиболее чувствителен для Финляндии, передает «Интерфакс».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="2844" EndNode="2857">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="2229" EndNode="2247">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="2497" EndNode="2503">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1663" EndNode="1666">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1455" EndNode="1474">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="181" EndNode="194">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="2009" EndNode="2015">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1475" EndNode="1483">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="748" EndNode="757">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1938" EndNode="1952">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="748" EndNode="757">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="1249" EndNode="1258">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="86" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Матти</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="2303" EndNode="2311">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1445" EndNode="1454">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="2520" EndNode="2532">
+</Annotation>
+<Annotation Id="19" Type="Деньги" StartNode="1899" EndNode="1915">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1249" EndNode="1258">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2535" EndNode="2538">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="2497" EndNode="2503">
+</Annotation>
+<Annotation Id="23" Type="Деньги" StartNode="1969" EndNode="1985">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="2009" EndNode="2015">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

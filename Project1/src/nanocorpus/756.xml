@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Объявлены итоги интернет-олимпиады по нанотехнологиямОбъявлены имена победителей первой всероссийской Интернет – олимпиаду в области <Node id="133"/>наноматериалов<Node id="147"/> и нанотехнологий «Нанотехнологии – прорыв в Будущее!».
+
+Целью олимпиады являлся поиск и поощрение молодых талантов, желающих участвовать в развитии нанотехнологий в Российской Федерации, в какой бы школе, ВУЗе или другой организации они ни находились.
+
+В Олимпиаде мог принять участие любой пользователь всемирной сети Интернет в возрасте <Node id="487"/>до 27 лет<Node id="496"/>. Победителям-абитуриентам (гражданам РФ) будут даны преимущества при поступлении в МГУ в рамках действующих правил приема, а студенты ВУЗов, показавшие наилучшие результаты, получат, по их желанию, возможность продолжить свою учебу в МГУ.
+
+Как сообщает сайт нанотехнологического сообщества «Нанометр», для участия в олимпиаде зарегистрировалось 1063 человека. В качестве активных участников организаторы получили 243 человека, то есть <Node id="932"/>около 23%<Node id="941"/> от числа зарегистрировавшихся.
+
+Полный список победителей можно посмотреть здесь <Node id="1023"/>(http://www.nanometer.ru/…da_3645.html).<Node id="1063"/>
+
+Награждение состоится <Node id="1087"/>27 июня<Node id="1094"/> в Зале заседаний <Node id="1112"/>Ученого Совета<Node id="1126"/> МГУ им.М.В.Ломоносова.
+<Node id="1150"/>http://www.gazeta.ru/…085465.shtmlВот<Node id="1187"/> замечательная инициатива! Нам нужны молодые талантливые люди, которые не только прославили бы родную страну во всём мире, но и придумали что-то нужное и дельное, что могло бы обогатить наш народ, опять же – нашу Родину, ну и, разумеется, их самих… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1023" EndNode="1063">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1087" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="133" EndNode="147">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="1112" EndNode="1126">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого Совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="932" EndNode="941">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="487" EndNode="496">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1150" EndNode="1187">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Началася приём заявок на участие в летней школе по синхротронному излучению, которая пройдёт в Германии <Node id="106"/>с 25 июля по 18 сентября 2007 года<Node id="140"/>. Программа включает в себя теоретические и практические занятия по физике элементарных частиц и синхротронному излучению. Программа предназначена только для студентов. Последний срок приёма заявок <Node id="338"/>31 января 2007<Node id="352"/>.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="106" EndNode="140">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="338" EndNode="352">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

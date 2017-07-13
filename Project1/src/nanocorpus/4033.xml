@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> V Российская ежегодная конференция молодых научных сотрудников и аспирантов<Node id="76"/>11-13 ноября 2008 г.<Node id="96"/> в Институте металлургии и материаловедения им. А.А. Байкова РАН будет проводится V Российская ежегодная конференция молодых научных сотрудников и аспирантов. 
+Для участия в конференции приглашаются молодые научные сотрудники и аспиранты: 
+- академических институтов; 
+- государственных научных центров; 
+- вузов; 
+- предприятий, занимающихся научными проблемами, 
+а также студенты старших курсов. 
+ 
+Тематика конференции затрагивает весь комплекс вопросов материаловедения, включая <Node id="579"/>наноматериалы<Node id="592"/> и нанотехнологии, перспективные материалы, ресурсосберегающие процессы и технологии: 
+- <Node id="681"/>наноматериалы<Node id="694"/> и нанотехнологии; 
+- физикохимия и технология энергосберегающих и экологически безопасных процессов получения черных, цветных и редких металлов, керамики, <Node id="850"/>наноматериалов<Node id="864"/>; 
+-развитие физико-химических основ создания новых металлических и керамических материалов, <Node id="957"/>наноматериалов<Node id="971"/>, в том числе конструкционных и функциональных материалов, монокристаллов и интреметаллидов, материалов с аморфной и нанокристаллической структурой, <Node id="1120"/>нанокомпозитов<Node id="1134"/>; 
+- физико-химические основы новых процессов формообразования и обработки давлением материалов и <Node id="1232"/>наноматериалов<Node id="1246"/>; 
+- развитие методов исследования структуры и свойств материалов и наноматреиалов. 
+ 
+Материалы докладов необходимо предоставить до <Node id="1379"/>05 сентября 2008 г.<Node id="1398"/> 
+Побробности на сайте <Node id="1421"/>http://www.imet-j07.narod.ru<Node id="1449"/> 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="681" EndNode="694">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="579" EndNode="592">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="1232" EndNode="1246">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="957" EndNode="971">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1379" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="76" EndNode="96">
+</Annotation>
+<Annotation Id="6" Type="Нанокомпозит" StartNode="1120" EndNode="1134">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1421" EndNode="1449">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="850" EndNode="864">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

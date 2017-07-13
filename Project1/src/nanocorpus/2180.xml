@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи использовали самый тонкий в мире материал, чтобы создать самый маленький в мире транзистор, в один атом толщиной и десять атомов шириной
+
+Исследователи University of Manchester (Великобритания) и Radboud University Nijmegen (Голландия) изучили электронный транспорт в графеновых приборах на <Node id="306"/>квантовых точках<Node id="322"/>. При размерах графенового островка (см. рис.) больше 100 нм такой прибор ведет себя как5 одноэлектронный транзистор, демонстрируя эффект кулоновской блокады. При уменьшении размеров до менее 100 нм пики становятся сильно непериодическими, указывая на вклад эффекта квантования. При уменьшении перемычки до ширины в несколько нм прибор сохраняет высокую проводимость [1].
+
+Отличительное свойство <Node id="718"/>графена<Node id="725"/> – рекордно высокая подвижность носителей (и электронов, и дырок) и, как заявил один из первооткрываталей <Node id="831"/>графена<Node id="838"/> и участник данного эксперимента, Костя Новоселов, «это хорошее свойство в полной мере сохраняется при уменьшении графенового островка до нескольких бензольных колец, а именно это важно для молекулярной электроники в рамках традиционного подхода сверху-вниз («top-down»)» [2]. Еще одно важное значение эксперимента заключается в том, что исследователи изготовили целый ряд приборов с различными размерами островков, используя традиционную микроэлектронную технологию – электронно-лучевую <Node id="1326"/>литографию<Node id="1336"/> и реактивное плазменное <Node id="1361"/>травление<Node id="1370"/>.
+
+А Гейм (Andre Geim), другой участник эксперимента, сказал, что теперь задача их исследовательской группы – получение транзисторов с размером до 10 нм (а затем и до 1 нм), имеющих воспроизводимые характеристики. "Это и есть молекулярная электроника, использующая подход «сверху-вниз». Ни один другой материал не позволяет изготавливать структуру меньше 100 нм, работающую как одноэлектронный транзистор при комнатной температуре» – добавил Гейм.
+
+Графеновый транзистор можно рассматривать как одно из решений сегодняшней фундаментальной проблемы микроэлектроники – преодоление 30-нм барьера на пути дальнейшей миниатюризации электронных устройств. Международная маршрутная карта выделяет на решение этой проблемы следующие <Node id="2095"/>10–20 лет<Node id="2104"/>. Помимо трудностей воспроизведения нанометровых рисунков, возникает и другая проблема – нестабильность материалов в элементах, имеющих размер менее 10 нм. На этой размерной шкале все материалы, включая двуокись кремния, неуправляемо мигрируют вдоль поверхности, подобно капле воды на горячей плите [3]. <Node id="2408"/>Новоселов утверждает, что <Node id="2434"/>графен<Node id="2440"/> лишен этого неприятного качества<Node id="2473"/>.
+
+Новоселов, Гейм и их коллеги открыли <Node id="2513"/>графен<Node id="2519"/> <Node id="2520"/>4 года назад<Node id="2532"/>, и <Node id="2536"/>он<Node id="2538"/> быстро стал героем самого большого числа публикаций. Как правило, так, бывает, если попадание в точку!
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Квантовая+точка" StartNode="306" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="718" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Графен" StartNode="2434" EndNode="2440">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="2408" EndNode="2473">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="2513" EndNode="2519">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="2520" EndNode="2532">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2095" EndNode="2104">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="автор" StartNode="2408" EndNode="2473">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2536" EndNode="2538">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Травление" StartNode="1361" EndNode="1370">
+</Annotation>
+<Annotation Id="21" Type="Литография" StartNode="1326" EndNode="1336">
+</Annotation>
+<Annotation Id="20" Type="Графен" StartNode="831" EndNode="838">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>13 ноября<Node id="10"/> подмосковный наукоград Троицк по приглашению УК «Русские технопарки» посетила делегация государственной корпорации «Роснанотех» (РОСНАНО) для участия в семинаре на тему ГК «Роснанотех» – Наукоград Троицк.
+
+Механизмы финансирования проектов в области нанотехнологий&gt;. Кроме, основных участников – руководителей научно-исследовательских организаций, расположенных на территории города, и управляющего директора государственной корпорации «Роснанотех» (РОСНАНО) Евгения Евдокимова<Node id="488"/>,<Node id="489"/> в семинаре приняли участие представители Администрации г. Троицка, <Node id="557"/>Троицкого<Node id="566"/> научного центра РАН, инновационных компаний г. Троицка.
+
+Представители ГК «Роснанотех» рассказали о принципах работы госкорпорации, после чего, в ответном докладе УК «Русские технопарки» выступили с предложением создания в Троицке наноцентра. По мнению докладчиков, составными частями наноцентра могут стать: центр коллективного пользования, бизнес-инкубатор, сертификационный центр, центр диагностики <Node id="969"/>наноматериалов<Node id="983"/> на базе линейного ускорителя протонов и нейтронного комплекса Института ядерных исследований и производственно-исследовательский комплекс в области нанолитографии для создания интегральных микросхем следующего поколения.
+
+Собравшиеся также обсудили будущее Троицких инновационных проектов, претендующих на финансирование РОСНАНО. Количество таких проектов, уже поданных в госкорпорацию невелико, заявки требуют существенной доработки.
+
+Подготовкой концепции и бизнес-плана создания наноцентра в Троицке займется УК «Русские технопарки», при взаимодействии с руководителями НИИ г. Троицка и представителями ГК «Роснанотех». В ближайшее время также запланирован ряд семинаров, посвященных подготовке заявок инновационных проектов Троицка, претендующих на финансирование госкорпорацией.
+ Пресс-служба Администрации г. Троицка Владимир Верещагин +7(903)614–26–15 press@
+<Node id="1850"/>troitskadm.ru<Node id="1863"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="969" EndNode="983">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="488" EndNode="489">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">управляющий директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="сотрудники" StartNode="488" EndNode="489">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1850" EndNode="1863">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="557" EndNode="566">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Троицкий</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

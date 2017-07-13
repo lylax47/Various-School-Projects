@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>В понедельник, 13 октября<Node id="26"/>, в здании химического факультета МГУ на Ленинских Горах (м.Университет) в 11:00, ауд. 446 состоится лекция ведущего американского ученого в области нанотехнологий Джеймса Тура (университет Райса) "Нанотехнологии: пассивные, гибридные и активные стороны". Приглашаются все желающие! (контактное лицо д.х.н., проф. С.З.Вацадзе) 
+JAMES M. TOUR "Nanotechnology: The Passive, Hybrid and Active Sides" (Chao Professor of Chemistry, Professor of Computer Science, Professor of Mechanical Engineering and Materials Science, Rice University, Texas, USA, Smalley Institute for Nanoscale Science and Technology). Tour's paper on Nanocars was the most highly accessed journal article of all American Chemical Society articles in 2005, and it was listed by Live Science as the second most influential paper in all of science in 2005. Tour's scientific research areas include:
+   NanoKids concept for education in nanoscale science,   chemical self-assembly,   synthesis of molecular motors and nanocars,   molecular electronics,   conjugated oligomers, electroactive polymers, combinatorial routes to precise oligomers,   carbon nanotube growth, synthetic modifications and composite formation,   hydrogen storage on carbon nanotubes,   nanotubes for health applications   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="1" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

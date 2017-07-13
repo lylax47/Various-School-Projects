@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Университета Принстона (Princeton University) разработали простой метод создания наноразмерных шаблонов на шероховатых поверхностях без обычных жестких требований к отсутствию вибрации и кислорода при производстве.
+
+Новый метод производства <Node id="252"/>наноструктур<Node id="264"/> оперирует линиями и точками, – поясняет один из ученых, профессор Крэйг Арнольд (Craig Arnold).
+
+Инновация состоит в методе фокусирования лазерного луча – роль линзы играет пластиковый шарик, плавающий в воде. Сфокусированный луч затем выжигает на микрочипе нужные исследователям <Node id="545"/>наноструктуры<Node id="558"/>.
+
+Фактически Крэйг и <Node id="580"/>его<Node id="583"/> коллеги «пишут» лазерным лучом по заготовке – расстояние между ней и фокусирующим шариком не меняется. Это очевидное преимущество перед современными литографическими системами, в которых из-за шероховатостей поверхности не всегда получается достичь точного «выжигания» <Node id="853"/>наноструктуры<Node id="866"/>.
+
+Ученые уверены, что новая литографическая система пригодится нанотехнологам, работающих с производством сложных <Node id="981"/>наноструктур<Node id="993"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="580" EndNode="583">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="545" EndNode="558">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="252" EndNode="264">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="981" EndNode="993">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="853" EndNode="866">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

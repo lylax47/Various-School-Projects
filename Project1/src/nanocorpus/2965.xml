@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В научно-исследовательских экспериментальных статьях описывается фармакокинетика и противоопухолевая эффективность <Node id="116"/>наночастиц<Node id="126"/> на основе биополимеров, полилактидов-ко-гликолидов, с инкапсулированными противоопухолевыми препаратами. Очень интересны данные по распределению <Node id="272"/>наночастиц<Node id="282"/> в органах и тканях животных, а также по эффективности торможения роста опухоли после внутривенной инъекции <Node id="390"/>наночастиц<Node id="400"/>. Эта информация может быть особенно полезна для аспирантов и научных сотрудников, биологов и медиков, которые занимаются или интересуются нанотехнологиями. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="272" EndNode="282">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="116" EndNode="126">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="390" EndNode="400">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

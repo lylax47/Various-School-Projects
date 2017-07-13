@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Компания Samsung SDI Co., Ltd. объявляет о проведении Ярмарки Вакансий Samsung SDI Career Forum 2008 для специалистов с высшим техническим образованием. 
+ 
+Samsung SDI приглашает исследователей и инженеров, работающих в следующих областях науки: 
+• Химия 
+• Физика 
+• Материалы для электроники 
+• Радиоэлектроника 
+• Программирование 
+ 
+Требуется опыт проведения научно-исследовательской работы и базовое знание английского языка. Работа в Исследовательском центре компании Samsung SDI в Республике Корея в должности Исследователя или Старшего исследователя. Контракт сроком на <Node id="579"/>один год<Node id="587"/> с возможностью продления по взаимному согласию сторон. Возможны также другие формы сотрудничества компании с квалифицированными специалистами. 
+ 
+Специалисты компании проводят научно-исследовательскую и опытно-конструкторскую работу по направлениям: 
+ 
+1. Дисплеи: 
+• Активно-матричные органические электролюминесцентные дисплеи (AMOLED) 
+• Плазменные дисплейные панели (PDP) 
+• Жидкокристаллические дисплеи (LCD) 
+ 
+2. Химические источники тока: 
+Литий-ионные аккумуляторы, аккумуляторы для гибридных автомобилей (HEV) 
+ 
+3. Базовые технологии: 
+• Материалы для электроники (тонкие пленки, люминофоры, полимеры, и др.) 
+• <Node id="1211"/>Физико<Node id="1217"/>-химический анализ органических и неорганических материалов 
+• Технологии производства (Аналоговая и цифровая схемотехника, программирование PLC, разработка оптических схем, мощные лазеры, лазерная обработка материалов и др.) 
+• Автоматизированная разработка (CAE) 
+ 
+Для участия в Ярмарке Вакансий 2008 Вам необходимо заполнить форму, которая находится на сайте http://jobsdi.samsung.ru, и отправить ее по адресу jobsdi@src.samsung.ru. 
+С кандидатами, прошедшими предварительный отбор, будут проведены собеседования в Москве в <Node id="1745"/>июне 2008<Node id="1754"/>. 
+ 
+Подробная информация на сайте <Node id="1789"/>http://jobsdi.samsung.ru<Node id="1813"/>  
+ 
+Справки по телефонам (495) 797-2471, (495) 797-2472 и электронной почте <Node id="1890"/>jobsdi@src.samsung.ru<Node id="1911"/> 
+   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="579" EndNode="587">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1789" EndNode="1813">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1211" EndNode="1217">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Физико</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1745" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июне</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Электронная_почта" StartNode="1890" EndNode="1911">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

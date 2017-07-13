@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Полупроводниковые фотоэлементы на кремниевой основе преобразуют солнечный свет в электрический ток. Однако серийные солнечные панели этого типа обычно рассеивают не менее трети общего потока солнечного излучения. Инженеры уже давно стараются снизить эти потери за счет использования специальных светопоглощающих покрытий.
+
+Нового успеха на этом пути добились сотрудники Ренсселаарского политехнического института (Rensselaer Polytechnic Institute) в штате Нью-Йорк. Профессор физики <Node id="484"/>Шон<Node id="487"/>-Ю Лин [Shawn-Yu Lin] и члены его группы разработали многослойное покрытие для солнечных панелей, содержащее <Node id="596"/>наностержни<Node id="607"/> из двуокиси кремния и двуокиси титана.
+
+Новое противоотражательное покрытие, разработанное исследователями из Ренсселаарского политехнического института, может помочь преодолеть две основных проблемы, блокирующих прогресс и более широкое использование солнечной энергии. Покрытие, спроектированное и изготовленное с использованием <Node id="939"/>наноматериалов<Node id="953"/>, резко увеличивает количество солнечной энергии, захватываемой панелями и обеспечивает поглощение во всем диапазоне спектра этого излучения. Другим, не менее важным достоинством покрытия является то обстоятельство, что коэффициент поглощения падающего излучения мало зависит от угла наклона солнечных батарей (или положения солнца на небе).
+
+Семь слоев, составляющих новое покрытие, каждый из которых имеет толщину от 50 до 100 нм, отличаются наклоном <Node id="1406"/>наностержней<Node id="1418"/> – каждый слой имеет отличное от других. Все вместе они работают как густой лес, не пропускающий солнечный свет. <Node id="1531"/>Наностержни<Node id="1542"/> нанесены на подложку из кремния методом вакуумно-химического напыления, причем, авторы отмечают, что новое покрытие может быть нанесено практически на любой фотовольтаический материал, используемый в качестве фотоэлеменов солнечных батарей, включая многослойные и даже теллурид кадмия.
+Нанопокрытие, разработанное группой проф. <Node id="1871"/>Шон<Node id="1874"/>-Ю <Node id="1877"/>Лина<Node id="1881"/> позволяет довести коээфициент поглощения солнечного света до <Node id="1943"/>96.21%<Node id="1949"/> в, так что на долю потерь остается <Node id="1985"/>менее 4%<Node id="1993"/>. Весьма существенное достижение.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наностержень" StartNode="596" EndNode="607">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1985" EndNode="1993">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="1531" EndNode="1542">
+</Annotation>
+<Annotation Id="4" Type="Наностержень" StartNode="1406" EndNode="1418">
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="939" EndNode="953">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="484" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1871" EndNode="1874">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1943" EndNode="1949">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1877" EndNode="1881">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

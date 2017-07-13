@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Новый метод лазерной очистки <Node id="30"/>углеродных <Node id="41"/>нанотрубок<Node id="51"/> разработали ученые из Национального Института Стандартов и Технологий (NIST) и Национальной Лаборатории Возобновляемой Энергии (NREL).
+
+Так как спрос на <Node id="205"/>нанотрубки<Node id="215"/>, в первую очередь, среди производителей микроэлектроники, достаточно велик, то уже долгое время ученые пытаются разработать простую и эффективную технологию получения однотипных образцов, так как при CVD синтезе часть <Node id="434"/>нанотрубок<Node id="444"/> получаются дефектными, и отделить их от «нормальных» практически не представляется возможным.
+
+Предпосылки к возникновению нового метода очистки, как сообщает Nanotechweb, возникли случайно – при использовании ультрафиолетового химического лазера для калибровки ответа микроскопических детекторов, покрытых <Node id="752"/>нанотрубками<Node id="764"/>.
+
+Рис. 1. <Node id="775"/>Нанотрубки<Node id="785"/> до и после обработки
+
+Химический ультрафиолетовый эксимер-лазер (Excimer laser) обычно применяют в офтальмологии и хирургии глаза оказался замечательным инструментом для уничтожения дефектных <Node id="978"/>нанотрубок<Node id="988"/>.
+
+Ученые выяснили, что при длине волны лазера 248 нм в импульсном режиме (лазер посылал 20 нс импульсы с частотой 10 Гц), «выживают» только те <Node id="1132"/>нанотрубки<Node id="1142"/> без дефектов, диаметр которых не превышает 0,8 нанометров.
+
+Теперь ученые хотят узнать больше о механизме подобной очистки для того, чтобы разработать универсальный метод, позволяющий сортировать <Node id="1339"/>нанотрубки<Node id="1349"/> разных диаметров.
+
+Для микроэлектронной отрасли получение дешевых однотипных <Node id="1427"/>нанотрубок<Node id="1437"/> – достаточно важная задача, так как на их основе уже существуют прототипы тонких пленочных дисплеев, нанотранзисторов, быстродействующих чипов памяти и логики. Естественно, что пока не отработана технология массового производства <Node id="1668"/>нанотрубок<Node id="1678"/>, себестоимость у нанотрубочной электроники остается достаточно высокой.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="775" EndNode="785">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="978" EndNode="988">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1427" EndNode="1437">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1668" EndNode="1678">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="434" EndNode="444">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="41" EndNode="51">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1339" EndNode="1349">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="205" EndNode="215">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="30" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="752" EndNode="764">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1132" EndNode="1142">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

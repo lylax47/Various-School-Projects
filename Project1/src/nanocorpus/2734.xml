@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Вот такие необычные бывают микрокристаллы серебра. Если уж это не изображение лица инопланетного существа с аномальной мозговой активностью, то, по крайней мере, ритуальная маска одной из африканских субкультур.
+
+<Node id="213"/>Электроосаждение<Node id="229"/> серебра иногда приводит к формированию кристаллических структур в явном виде содержащих как плоскости двойникования, так и пространственно упорядоченные системы плоскостей скольжения. Варьирование технологических параметров <Node id="454"/>электроосаждения<Node id="470"/> (плотность тока, перенапряжение на катоде, время осаждения) влечёт за собой яркое разнообразие габитуса получаемых микрокристаллов. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электроосаждение" StartNode="454" EndNode="470">
+</Annotation>
+<Annotation Id="1" Type="Электроосаждение" StartNode="213" EndNode="229">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

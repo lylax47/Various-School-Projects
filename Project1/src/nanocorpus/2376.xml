@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Во время проведения крупнейшей в странах СНГ конференции по <Node id="62"/>наноматериалам<Node id="76"/> и нанотехнологиям - Первой международной конференции "НАНО-2008" ("<Node id="144"/>Наноструктурные материалы<Node id="169"/> - 2008: Беларусь - Россия - Украина", <Node id="208"/>22-25 апреля 2008 г.<Node id="228"/> в г. Минске) - состоялась встреча представителей российской делегации с первым заместителем Председателя Президиума Национальной академии наук Республики Беларусь академиком <Node id="403"/>П.А.Витязем<Node id="414"/>, который передал самые теплые пожелания участникам Всероссийской Интернет-олимпиады по нанотехнологиям. <Node id="519"/>Он<Node id="521"/> отметил, что <Node id="535"/>в В Беларуси сфера нанотехнологий – одно из приоритетных направлений научно-исследовательской деятельности<Node id="641"/>. По мнению <Node id="653"/>П.А.Витязя<Node id="663"/>, развитие олимпиадного движение - важный шаг на пути формирования новых поколений научных кадров в такой междисциплинарной области, как нанотехнологии.
+ Представители ФНМ МГУ во время конференции посетили с лекционными выступлениями Белорусский Государственный Университет и Белорусский Государственный Технический Университет, где обсудили со студентами и их преподавателями вопросы развития нанотехнологий, их риски и перспективы, а также рассказали о проведении Интернет-Олимпиады и заинтересованности в подобных мероприятиях спонсоров Олимпиады. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="403" EndNode="414">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="144" EndNode="169">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="519" EndNode="641">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="535" EndNode="641">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="519" EndNode="641">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="519" EndNode="641">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="535" EndNode="641">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="519" EndNode="641">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="653" EndNode="663">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">П.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="62" EndNode="76">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="208" EndNode="228">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="519" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

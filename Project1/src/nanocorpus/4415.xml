@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>АЛМАТЫ. <Node id="8"/>26 июля<Node id="15"/> – Завтра в Алматы состоится встреча министра образования и науки РК <Node id="84"/>Жансеита Туймебаева<Node id="103"/> с вице-президентом Российской академии наук, лауреатом Нобелевской премии <Node id="178"/>Жоресом<Node id="185"/> <Node id="186"/>Алферовым<Node id="195"/>, ведущими российскими учеными и менеджерами, сообщает корреспондент Казинформa
+Цель визита делегации российских ученых – поддержка прорывных инфраструктурных и инновационных проектов, предлагаемых казахстанскими и российскими научно-образовательными организациями и компаниями.
+
+Ожидается, что в ходе встречи <Node id="505"/>Ж.Туймебаев<Node id="516"/> и <Node id="519"/>Ж.Алферов<Node id="528"/> подпишут<Node id="537"/> Меморандум о создании научно-образовательного инновационного консорциума «Нанотехнология». В рамках достигнутых договоренностей о сотрудничестве с зарубежными университетами также планируется заключить соглашение о совместной подготовке специалистов с Санкт-Петербургским физико-технологическим научно-образовательным центром РАН.
+<Node id="869"/>http://www.inform.kz/showarticle.php?…А<Node id="908"/> и давно пора! С Украиной и Молдавией уже договорились о совместной работе. А теперь вот и братья-казахи будут работать с нами плечом к плечу. Вместе-то оно повеселее будет…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="186" EndNode="195">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="869" EndNode="908">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="8" EndNode="15">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="178" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="505" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ж.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туймебаев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="встречи_и_переговоры" StartNode="505" EndNode="537">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="519" EndNode="528">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ж.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="84" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туймебаева</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

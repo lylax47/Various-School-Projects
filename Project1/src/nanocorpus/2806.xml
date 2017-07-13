@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>В России развивается нано-журналистикаВышел пилотный номер информационно-аналитического дайджеста «Нанотехнологии в мире», сообщает Государственная корпорация «Российская корпорация нанотехнологий».
+Дайджест основан на мониторинге российских и иностранных СМИ. В издании в сжатом виде представлены публикации в деловых, общественно политических и специализированных СМИ России и Европы, Америки и Азии, которые отражают текущую ситуацию в сфере нанотехнологий и наноиндустрии.
+
+Это не единственные успехи наножурналистики <Node id="522"/>на сегодняшний день<Node id="541"/>. Так, уже существующий журнал «Российские нанотехнологии», в <Node id="603"/>день<Node id="607"/> закрытия IX Международного форума «Высокие технологии <Node id="662"/>XXI века<Node id="670"/>» получил медаль «за активную пропаганду высоких технологий и инноваций» <Node id="743"/>(http://www.nanonewsnet.ru/…okikh-tekhno).<Node id="785"/>
+
+Церемония награждения состоялась в ЦВК «Экспоцентр» при участии представителей правительства города Москвы, инновационных и научно-исследовательских организаций, образовательных учреждений, венчурных компаний и СМИ.
+<Node id="1003"/>http://www.polit.ru/…ournals.htmlЯ<Node id="1037"/> поставил в заголовок первую фразу из этой заметки, написанной <Node id="1100"/>28 апреля 2008<Node id="1114"/>, в 18:21. Мне очень захотелось посмотреть сам дайджест. Но где? Откуда они взяли эти сведения?.. С той поры прошло уже <Node id="1234"/>около 7 часов<Node id="1247"/>, а на сайте ГК «Роснанотех» <Node id="1276"/>(http://www.rusnano.com/news/)<Node id="1306"/> так и не появилось никаких сведений на эту тему, никаких упоминаний о новом издании… Может быть, там они (в polit.ru) немного поторопились и выдали желаемое за действительное и/или сообщили о планах госкорпорации, как о каком-то уже свершившемся событии? Ну, как говорится, утро вечера мудренее. Поживём – увидим… Но мы все – в напряжённом ожидании. Ждём-с…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1276" EndNode="1306">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="743" EndNode="785">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="522" EndNode="541">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="662" EndNode="670">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1234" EndNode="1247">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1100" EndNode="1114">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1003" EndNode="1037">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="603" EndNode="607">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

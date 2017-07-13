@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Лев Патрикеев о нанотехнологияхВ студии «Новостей культуры» о нанотехнологиях и их развитии рассказывает профессор Лев Николаевич Патрикеев.
+Лев Николаевич ПатрикеевСейчас много говорят о нанотехнологической революции. Она уже началась? Она началась и продолжается. Некоторые по-разному считают, когда совершались разные технологические революции. Первую революцию относят и связывают с именем Джеймса Уатта, который изобрел паровую машину. Вторую связывают с именем Норберта Виннера, который предложил кибернетику, которую Россия в свое время проспала. 
+Третью связывают с именем Нобелевского лауреата <Node id="603"/>Фейнмана<Node id="611"/>, который предложил думать не столько о классической физике и об объемных объектах, сколько о <Node id="705"/>наночастицах<Node id="717"/>, об атомных структурах и их соединениях. Они стремительно развиваются во всем мире. Существует масса программ. В том числе принята и российская национальная программа.
+Какое практическое применение могут иметь нанотехнологии для развития именно культурной сферы? Можно много говорить, но я приведу несколько примеров. Например, самая крупная в мире библиотека находится в Конгрессе Соединенных Штатов. Объем этой библиотеки – все печатные, все музыкальные, все художественные произведения, хранящиеся в ней, – можно сжать с помощью нанотехнологий в объеме одного кубического сантиметра. 
+Наконец, мы сидим с Вами в студии телевидения. Уже появляется объемное телевидение. С некоторым опережением можно предсказать, что <Node id="1437"/>лет<Node id="1440"/> через пять-семь оно будет у каждого в доме.
+Требует ли развитие нанотехнологий некоторых изменений в структуре научного образования? Безусловно. Речь идет не только о подготовке специалистов, но и о некотором образовании населения страны. Не зря в Соединенных Штатах почти во всех ВУЗах преподают различные нанотехнологические дисциплины и даже добрались до колледжей и до детских садов. 
+Общество должно быть готово к восприятию нанотехнологий как системы физических, химических и биологических дисциплин, объединенных совершенно твердо на квантовом уровне.
+<Node id="2000"/>http://www.tvkultura.ru/news.html?…С<Node id="2036"/> п р а в к а
+Л.Н. Патрикеев окончил МИФИ в <Node id="2079"/>1956 г.<Node id="2086"/> по специальности инженер-физик и долгие <Node id="2127"/>годы<Node id="2131"/> специализировался в области радиационной стойкости микросхем со структурой металл – диэлектрик – полупроводник. Цикл работ по этой проблеме завершился написанием докторской диссертации, выпуском более 100 статей, 7 авторских свидетельств и подготовкой 7 кандидатов наук.
+
+Лев Николаевич<Node id="2418"/> – <Node id="2421"/>профессор кафедры микроэлектроники МИФИ (организованной впервые в СССР в <Node id="2494"/>1965 году<Node id="2503"/> при его непосредственному участии) и профессор (по совместительству) кафедры низких температур МЭИ (ТУ). В <Node id="2611"/>2004 г.<Node id="2618"/> он выступил инициатором создания в МЭИ Наноцентра, в котором в <Node id="2682"/>настоящее время<Node id="2697"/> осуществляется лицензионная подготовка специалистов по специальности «<Node id="2768"/>Наноматериалы<Node id="2781"/>».
+
+Л.Н. Патрикеев является редактором русского перевода популярной монографии <Node id="2860"/>Н. Кобаяси<Node id="2870"/> «Введение в нанотехнологию».
+Ну вот, уже нанотехнологии добрались, а профессора рассказывают зрителям о НТ на ТВ канале «Культура». Значит, «процесс пошёл»… Или, как говаривал один знаменитый оратор, «Наше дело правое – мы победим!»… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="705" EndNode="717">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="2418" EndNode="2421">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2127" EndNode="2131">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2682" EndNode="2697">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="2494" EndNode="2503">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="603" EndNode="611">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фейнман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="2000" EndNode="2036">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="2768" EndNode="2781">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="2860" EndNode="2870">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="2611" EndNode="2618">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="2079" EndNode="2086">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1437" EndNode="1440">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="2418" EndNode="2421">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="2494" EndNode="2503">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

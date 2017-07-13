@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>11 – 12 ноября 2008 г.<Node id="23"/> в актовом зале главного корпуса Института Физической Химии и Электрохимии им.А.Н.Фрумкина РАН (Ленинский пр-кт, 31) в 10-00 состоится ежегодный Конкурс молодых ученых секции физико-химии нано- и супрамолекулярных систем. Представить работу по тематике Секции могут молодые ученые, аспиранты как единолично, так и в составе научных коллективов. 
+По результатам конкурса будут определены и награждены победители. Предполагается награждение победителей Премией им. В.А.Кистяковского, Премией им. М.М.Дубинина. Также будут присуждены 1, 2, 3. места победителям. Оценка работ будет производиться тайным голосование всех членов Секции.
+ 
+По материалам конференции будут изданы тезисы в бумажном и электронном виде (Материалы конференции Секции <Node id="762"/>2007 г.<Node id="769"/> – в прикрепленном файле). Также по материалам конференции, как и в <Node id="837"/>прошлом году<Node id="849"/>, будут отобраны работы для внеочередной публикации в переводном русско-англоязычном ВАКовском академическом журнале «Физикохимия Поверхности и Защита Материалов».
+ 
+Просим до <Node id="1025"/>5 ноября 2008 г.<Node id="1041"/> выслать на электронный адрес Ученого секретаря Секции (e-mail: kotenev2006@yandex.ru) следующие материалы: 
+ 
+1. Тезисы доклада в формате Word – 1 стр. – шрифт 12, 1.5. интервала, можно с иллюстрациями, фото). 
+2. Сведения о докладчике: ФИО, дата рождения, место учебы, работы, лаборатория, аспирантура, руководитель аспиранта, e-mail, др. координаты, телефон, а также личные и др. данные по желанию.
+ 
+В прикрепленном файле – тезисы Конференции молодых ученых 2007 с указанием победителей и ссылками на опубликованные в <Node id="1563"/>2008 г.<Node id="1570"/> по материалам конференции статьи в журнале «Физикохимия Поверхности и Защита Материалов».
+ С уважением 
+Ученый секретарь Секции Физикохимии нано- и супрамолекулярных систем 
+<Node id="1745"/>Ученого Совета ИФХЭ РАН<Node id="1768"/>, 
+Зам.гл.редактора журнала 
+«Физикохимия Поверхности и <Node id="1824"/>Защита Материалов<Node id="1841"/>» 
+доктор хим. наук, гл.научн.сотр. В.А.Котенев     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1025" EndNode="1041">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="1563" EndNode="1570">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="762" EndNode="769">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="837" EndNode="849">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1" EndNode="23">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1824" EndNode="1841">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Материалов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1745" EndNode="1768">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученого Совета ИФХЭ РАН</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

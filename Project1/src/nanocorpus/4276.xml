@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Georgia Institute of Technology (США) разработали высокопроизводительный органический полевой транзистор  (OFET) на основе <Node id="141"/>фуллеренов<Node id="151"/>. Подвижность электронов варьируется от 2.7 до 5.0 см2•В-1•с-1 в зависимости от геометрии. 
+ 
+Транзисторы изготавливаются по стандартной технологии <Node id="299"/>физического осаждения<Node id="320"/> из паровой фазы (PVD) при комнатной температуре, что делает их совместимыми практически с любыми материалами (например, гибкими пластиками) и дает им большое преимущество по сравнению с аморфным кремнием, который обычно применяется для изготовления OFET. 
+ 
+Более того, транзисторы обладают отличным набором основных  характеристик. Например, они имеют близкие к нулю пороговые напряжения, а отношение «включено/выключено» достигает 106. 
+ 
+Транзистор был получен при осаждении молекул C60 из паровой фазы в виде тонкой пленки на поверхность полимерной подложки, к которой также был подведен управляющий электрод. Электроды стока и истока осаждались на пленку С60. Такие транзисторы могут успешно применяться для создания недорогих электронных устройств на гибкой основе. 
+ 
+Работа была опубликована в журнале Applied Physics Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="141" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Физическое+осаждение" StartNode="299" EndNode="320">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

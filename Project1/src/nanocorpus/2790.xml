@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Депутат Госдумы Константин Зайцев<Node id="33"/>:<Node id="34"/> нанотехнологии будут развивать, независимо от экономического кризисаНа базе «ГНЦ РФ «Физико-энергетический институт» в Обнинске <Node id="163"/>27 ноября 2008 года<Node id="182"/> состоялось выездное заседание Комиссии Совета Федерации по естественным монополиям, посвященное проблемам нормативно-правового обеспечения деятельности атомного научного комплекса. На заседании выступил Константин Зайцев, Заместитель председателя Комитета Государственной Думы России по энергетике.
+ 
+«<Node id="485"/>Атомная энергетика – это энергетика будущего. Это не даст результатов завтра, послезавтра, это будет долгосрочная программа по развитию атомной отрасли», – считает Зайцев<Node id="655"/>.
+  «Могу сразу сказать, что сегодняшнее руководство «Росатома» придает большое значение развитию науки, особенно инновационным процессам, без которых невозможно динамичное развитие атомного сектора, – отметил депутат Госдумы. – Есть вопросы, требующие решения на законодательном уровне, связанные с применением нанотехнологий в отрасли и развитием других современных технологий».  
+«Задача нас как законодателей – максимально решить эти проблемы, – убежден Зайцев. – И Президент России, и председатель Правительства России четко обозначили, что нанотехнологии должны и будут развиваться, независимо от экономического кризиса. Деньги, которые заложены в федеральный бюджет на эти цели, поступят в полном объеме».
+  
+«Я считаю, что база для развития есть. Есть множество институтов, которые относятся непосредственно к атомной отрасли, – база очень серьезная. Люди и их квалификация позволяют выполнять те задачи, которые сегодня мы обсуждаем», – уверен он.
+ <Node id="1613"/>http://www.polit.ru/…/zaicev.htmlНу<Node id="1648"/> вот утешил Константин Борисович, вот утешил… Значит, всё-таки будут развиваться отечественные нанотехнологии, независимо от экономического кризиса. Но говорил-то он, заметьте, «от лица» руководства «Росатома». Но я думаю, что и другие ведомства не подкачают. И что мы – совместными усилиями – всё-таки поднимем нашу наноиндустрию, несмотря на бушующий вокруг финансовый кризис и «происки империалистов всех мастей»…;-))) Так мы и запишем в протоколе нашего заседания…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="485" EndNode="655">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="33" EndNode="34">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="485" EndNode="655">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="33" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="163" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1613" EndNode="1648">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

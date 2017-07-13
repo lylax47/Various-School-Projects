@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Кандидат химических наук, ассистент факультета наук о материалах МГУ им.М.В.Ломоносова Статус: Секретарь 
+Научные интересы: <Node id="124"/>нанокомпозиты<Node id="137"/> с нелинейными свойствами на основе <Node id="173"/>углеродных <Node id="184"/>нанотрубок<Node id="194"/>. Администраторский доступ к сайту "Нанометр" и сайту факультета наук о материалах. Обращаться по вопросам информационного обеспечения мероприятий Олимпиады и заключения договоров о спонсорской помощи. Тел. (495) 939-52-48, факс (495) 939-09-98, kiseleva@inorg.chem.msu.ru.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокомпозит" StartNode="124" EndNode="137">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="173" EndNode="194">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="184" EndNode="194">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

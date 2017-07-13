@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>МИНИСТЕРСТВО ОБРАЗОВАНИЯ<Node id="25"/> И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ
+
+(Минобрнауки России)
+ПРИКАЗО национальной системе мониторинга исследований и разработок в сфере нанотехнологий
+Во исполнение пункта 10 Плана действий по стимулированию развития наноиндустрии в Российской Федерации к Программе координации работ в области нанотехнологий и <Node id="327"/>наноматериалов<Node id="341"/> в Российской Федерации, одобренной распоряжением Правительства Российской Федерации от <Node id="429"/>25 августа 2006 г.<Node id="447"/> № 1188-р (Собрание законодательства Российской Федерации, 2006, №36, ст. 3841) (далее – Программа), п р и к а з ы в а ю:
+
+1.Утвердить прилагаемую концепцию национальной системы мониторинга исследований и разработок в сфере нанотехнологий.
+
+2.<Node id="690"/>Федеральному агентству по науке и инновациям<Node id="734"/> (Мазуренко С.Н.) обеспечить:
+
+во <Node id="768"/>II квартале 2008 г.<Node id="787"/> разработку по согласованию с заинтересованными федеральными органами исполнительной власти информационных форм для сбора данных об исследованиях и разработках в сфере нанотехнологий (далее – информационные формы); сбор данных об исследованиях и разработках в сфере нанотехнологий по информационным формам;
+
+в <Node id="1097"/>I квартале 2009 г.<Node id="1115"/> ввод в опытную эксплуатацию национальной системы мониторинга исследований и разработок в сфере нанотехнологий; ведение мониторинга исследований и разработок в сфере нанотехнологий.
+
+3.<Node id="1300"/>Федеральному агентству по науке и инновациям<Node id="1344"/> (Мазуренко С.Н.) представлять в Министерство ежегодный отчет о результатах мониторинга исследований и разработок в сфере нанотехнологий не позднее <Node id="1492"/>25 января года<Node id="1506"/>, следующего за отчетным.
+
+4.Департаменту научно-технической и инновационной политики (Хлунову А.В.) на основе анализа результатов мониторинга исследований и разработок в сфере нанотехнологий представлять в установленном порядке в <Node id="1737"/>I квартале<Node id="1747"/> ежегодный, начиная <Node id="1767"/>с 2009 года<Node id="1778"/>, доклад о результатах мониторинга исследований и разработок в сфере нанотехнологий в <Node id="1864"/>Правительственный совет по нанотехнологиям<Node id="1906"/>.
+
+5.Контроль за исполнением настоящего приказа оставляю за собой.
+
+Министр <Node id="1982"/>А. Фурсенко<Node id="1993"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1737" EndNode="1747">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1097" EndNode="1115">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="327" EndNode="341">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="1864" EndNode="1906">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительственный совет по нанотехнологиям</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="768" EndNode="787">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="1300" EndNode="1344">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральному агентству по науке и инновациям</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1982" EndNode="1993">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурсенко</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="429" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Дата" StartNode="1492" EndNode="1506">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1767" EndNode="1778">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Властная_Структура" StartNode="690" EndNode="734">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральному агентству по науке и инновациям</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Властная_Структура" StartNode="1" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">МИНИСТЕРСТВО ОБРАЗОВАНИЯ</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

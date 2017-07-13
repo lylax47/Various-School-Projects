@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из университета Мэдисона и Мэриленда (UW-Madison, University of Maryland) разработали новый тип катализатора, который может существенно улучшить процесс очищения водорода при его производстве. Что делает новый катализатор перспективной частью водородной энергетики.
+
+Профессор Брайан Эйкхорн (Bryan Eichhorn) и <Node id="319"/>его<Node id="322"/> коллеги в основу катализатора положили <Node id="362"/>наночастицу<Node id="373"/> рутения (Ru), окруженную двумя слоями атомов платины (Pt).
+
+В итоге получился катализатор, способный при комнатной температуре увеличивать выход водорода при его производстве.Водородная энергетика уже стоит на пороге, и поэтому все, что имеет отношение к очистке и производстве ее основного топлива имеет очень важное значение.
+
+Водород, получаемый в процессе облагораживания из минерального топлива, требует очистки, и катализаторы в этом процессе как раз кстати.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="362" EndNode="373">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="319" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

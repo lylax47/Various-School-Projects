@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Ученые из <Node id="12"/>Института Лавуазье<Node id="30"/> Версальского университета (Institute Lavoisier at University of Versailles) создали металорганические трехмерные структуры, имеющие в своем объеме поры и каналы (MIL-структуры, сокращение от Material Institute Lavoisier). Эти соединения содержат ион металла (в данном случае, хром или железо) и связующие мостики органических молекул, так что получаемый материал отличается большой гибкостью и может легко менять свою форму в зависимости от внешних факторов, таких как давление, температура, освещение, а также под воздействием газов и растворителей. 
+ 
+Французские исследователи, в сотрудничестве с группой ученых швейцарско-норвежской экспериментальной станции Европейского синхротронного центра в Гренобле, впервые обнаружили «гигантское» обратимое увеличение объема в этих материалах. Его величина варьируется от <Node id="848"/>85%<Node id="851"/> до беспрецедентных <Node id="871"/>230%<Node id="875"/> от первоначального значения. Столь существенное расширение кристаллических веществ никогда ранее не наблюдалось. Этот обратимый процесс в чем-то аналогничен работе легких – увеличение объема на вдохе, и возврат к первоначальному состоянию при выдохе. Разница заключается в том, что объем легких может измениться лишь на величину порядка <Node id="1213"/>40%<Node id="1216"/>. 
+ 
+Экспериментально эффект огромного разбухания достигался очень просто: исследуемые материалы погружались в растворитель, молекулы которого заполняли имеющиеся в структуре пустоты. При этом сами структуры как бы росли, без разрыва связей и с сохранением кристалличности материала. Данный процесс отслеживался с использованием синхротронного излучения в сочетании с компьютерным моделированием. 
+ 
+Для реализации обратного процесса достаточно нагреть сольватированную форму. Получаемая в результате «высушенная» модификация не имеет открытых пор. 
+ 
+Следующим шагом в этой работе будет изучение возможности хранения водорода, либо удержания парниковых газов такими материалами. 
+ 
+References  C. Serre, C. Mellot-Draznieks, S. Surblé, N. Audebrand, Y. Filinchuk, G. Férey, Science 315, 1828-1831 (2007).  P. L. Llewellyn, S. Bourrelly, C. Serre, Y. Filinchuk, and G. Férey, Angewandte Chemie International Edition 45, 7751–7754 (2006).  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="12" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лавуазье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="871" EndNode="875">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="848" EndNode="851">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1213" EndNode="1216">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

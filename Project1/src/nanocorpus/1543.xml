@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Канадские ученые сумели создать самый недорогой портативный анализатор для быстрого проведения генетического анализа.
+ 
+Обычно стоимость проведения генетического исследования составляет тысячи и десятки тысяч рублей. В различных лабораториях Москвы и России исследование полиморфизма одного гена стоит <Node id="304"/>1000 - 10000 рублей<Node id="323"/>, полное генетическое исследование – <Node id="360"/>100000 рублей<Node id="373"/>, установление отцовства – <Node id="400"/>12000 рублей<Node id="412"/>. Время проведения анализа и обработки результатов занимает от <Node id="475"/>4 дней до нескольких недель<Node id="502"/>.
+ 
+Группа ученых из университета <Node id="536"/>Альберты<Node id="544"/> разработала многоразовый прибор для проведения генетического анализа на основе технологии ДНК-микрочипов. Стоимость такого прибора составляет <Node id="687"/>около 25000 рублей<Node id="705"/>. При этом он достаточно компактный и дает возможность проведения клинических исследований вне лаборатории.
+ 
+Ученые изменили взаимное расположение микрочипа и системы детектирования сигнала, что позволило им уменьшить прибор до размеров обувной коробки. Чтобы снизить стоимость, они установили обыкновенную цифровую камеру вместо конфокальной оптической системы, которая обычно используется в устройствах подобного типа. По утверждению авторов, их анализатор не уступает по качеству детектирования сигнала более дорогим и большим аппаратам.
+ 
+В дальнейшие планы ученых входит уменьшить стоимость ДНК-анализатора еще раз в десять в самом ближайшем будущем. 
+ 
+Статья "An inexpensive and portable microchip-based platform for integrated RT–PCR and capillary electrophoresis" опубликована в журнале The Analyst.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="687" EndNode="705">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="475" EndNode="502">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="400" EndNode="412">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="360" EndNode="373">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="304" EndNode="323">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="536" EndNode="544">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Альберта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

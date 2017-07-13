@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Иванов мечтает о конвейере по «выпуску» нанопроектовГоскорпорация «Роснанотех» уже в ближайшее время должна создать конвейер по отбору конкретных проектов производства нанопродукции. Такое мнение высказал сегодня первый вице-премьер Сергей Иванов на заседании правительственного совета по нанотехнологиям.
+ «Должна быть создана система отбора таких проектов, и мне интересно узнать, когда конвейер по отбору проектов заработает и когда с него начнет сходить продукция – проекты, связанные с производством наукоемкой продукции», – обратился он к главе «Роснанотеха» Леониду Меламеду<Node id="581"/>.<Node id="582"/>
+ 
+Иванов напомнил, что
+ «<Node id="608"/>апрель<Node id="614"/> стал своего рода рубежным <Node id="641"/>месяцем<Node id="648"/>, точкой отсчета для всей корпорации, поскольку именно к этой дате необходимо было сформировать все органы управления, после чего, по нашим планам, она должна приступить к своей активной фазе – отбору конкретных проектов».
+ 
+В связи с этим экс-глава <Node id="898"/>Минобороны<Node id="908"/> попросил руководителя госкорпорации доложить на заседании о взаимодействии «Роснанотеха» не только с органами исполнительной власти, но и научными и производственными структурами, с частным бизнесом.
+ 
+«Интересно услышать о том, какие у вас планы по работе с такими отраслевыми гигантами, как <Node id="1202"/>Росатом<Node id="1209"/>, Роскосмос и Объединенная авиастроительная корпорация», – поинтересовался он у Меламеда.
+ 
+Кроме того, первый вице-премьер захотел также услышать и о планах по работе с малым и среднем бизнесом, замечает ИТАР-ТАСС.
+ «Есть уже определенные наработки по сотрудничеству именно с малым и средним бизнесом на площадках технопарков, – отметил он. – А технопарки мы и создаем для того, чтобы там развивался малый и средний бизнес в сфере высоких технологий, которых нам прежде всего не хватает».
+ <Node id="1700"/>http://www.izvestia.ru<Node id="1722"/>/news/news170814Да, как говорится, не в бровь, а в глаз: Когда конвейер заработает, брат?.. Скоро-скоро уже исполнится <Node id="1841"/>ГОД<Node id="1844"/>, как создана Госкорпорация «Роснанотех». Чем КОНКРЕТНЫМ порадуете, товарищи? И вот Сергей Борисович (Иванов) нашёл самое правильное слово: «конвейер». Всё, что делалось ДО СИХ ПОР – это всё так называемые «организационные вопросы». Родная страна ждёт «отдачи»: отдачи на огромные выделенные средства, на огромные ожидания, связанные со столь широко разрекламированными нанотехнологиями… Итак, вопрос поставлен ребром: Когда же, наконец, заработает конвейер?.. Ваш выход, Леонид Борисович!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1700" EndNode="1722">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1202" EndNode="1209">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Росатом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="608" EndNode="614">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апрель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="работает" StartNode="581" EndNode="582">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">глава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1841" EndNode="1844">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="641" EndNode="648">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="581" EndNode="582">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="898" EndNode="908">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобороны</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

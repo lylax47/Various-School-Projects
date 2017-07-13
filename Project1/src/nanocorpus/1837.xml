@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Синтез – это тонкое место любой технологии, основанной на <Node id="59"/>углеродных <Node id="70"/>нанотрубках<Node id="81"/>. Несмотря на бурное развитие этой отрасли, остро стоит проблема получения <Node id="156"/>нанотрубок<Node id="166"/> с требуемым диаметром, длиной, хиральностью и т.д. Кроме того, многие процессы, происходящие при росте <Node id="270"/>нанотрубок<Node id="280"/>, до конца не ясны. Методы, которые позволяют изучать формирование <Node id="347"/>углеродных <Node id="358"/>нанотрубок<Node id="368"/> in situ, помогут решить проблему синтеза. 
+ 
+ В идеале, такие методики должны обнаруживать отдельные <Node id="470"/>нанотрубки<Node id="480"/> или их ансамбли и измерять их свойства, не оказывая влияния на процесс роста. Канадские исследователи предложили использовать для этого метод глобальной рамановской визуализации (Global Raman Imaging, GRI). Этот метод позволяет получать оптические изображения даже отдельных одностенных <Node id="768"/>нанотрубок<Node id="778"/> во время роста, несмотря на их наноразмеры. 
+ 
+ В <Node id="829"/>настоящее время<Node id="844"/> существует целый ряд методов in situ, каждый со своими достоинствами и недостатками. Например, использование пучков электронов оказывает сильное влияние на формирование <Node id="1014"/>нанотрубок<Node id="1024"/>. Более того, электронные микроскопы очень дороги и плохо совместимы со стандартными CVD-реакторами. 
+ 
+ Оптический метод GRI прост, универсален и не влияет на рост <Node id="1189"/>нанотрубок<Node id="1199"/>. Изображение формируется путем пространственного разрешения рассеянного света в рамановской полосе. 
+ 
+ Образец освещается расфокусированным светом и визуализируется непосредственно в спектральной полосе, отобранной фильтром. Это дает возможность зафиксировать пространственное распределение рамановского сигнала. 
+ 
+ Работа "Real-time in situ Raman imaging of carbon nanotube growth" была опубликована в журнале Nanotechnology. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="470" EndNode="480">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="768" EndNode="778">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="59" EndNode="81">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="829" EndNode="844">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="358" EndNode="368">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="156" EndNode="166">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="70" EndNode="81">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="347" EndNode="368">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="1189" EndNode="1199">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1014" EndNode="1024">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="270" EndNode="280">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

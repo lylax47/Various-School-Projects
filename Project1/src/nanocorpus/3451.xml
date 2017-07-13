@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>И Азербайджан вступает на тропу нанотехнологииВ президиуме Национальной академии наук Азербайджана принято решение развивать нанотехнологию, то есть технологию чрезвычайно малых частиц. Об этом 1news.az сообщил академик Надир Сеидов, который сделал в президиуме <Node id="262"/>НАНА<Node id="266"/> сообщение об этом приоритетном направлении науки.
+
+Нанотехнология основана на системе водородного топлива. Эта технология в недалеком будущем преобразит лицо мира. К примеру, тончайшая нить из «нано» может выдержать две тонны материала!
+
+Или же всю библиотеку можно будет уместить в микроприбор. При нанотехнологии отпадет потребность в нефти. Человечество сможет освободиться от энергетических проблем. То есть эффективность увеличивается в сто тысяч раз. И поэтому во многих странах мира сегодня вкладывают миллиарды долларов в развитие нанотехнологии.
+Отрадно, что и Азербайджан сегодня решил ступить на тропу нанотехнологии.
+Рейхан Рагимоваhttp://1news.az/articles.php?…Национальная Академия Наук Азербайджана (<Node id="982"/>НАНА<Node id="986"/>)<Node id="987"/>http://www.science.az/ru/Надир<Node id="1017"/> Мирибрагим оглы Сеидовhttp://www.science.az/…idovndmm.htmДа, наконец-то, и Азербайджан сегодня решил ступить на тропу нанотехнологии. И это, пожалуй, единственная вразумительная фраза в этой короткой, но маловразумительной заметке… ;-))) Тем не менее, она, эта фраза, всё объясняет. Мы ранее уже писали о развитии нанотехнологии в Аербайджане: <Node id="1362"/>http://www.nanonewsnet.ru/…khnicheskikh-<Node id="1402"/> , <Node id="1405"/>http://www.nanonewsnet.ru/…zerbaidzhane<Node id="1444"/> – но это всё были какие-то «косвенные» указания на ЖЕЛАНИЕ развивать НТ в стране. Хотя и сейчас из этой заметки ничего определённого узнать нельзя, всё-таки сам её характер и ТОН сообщения говорят о серьёзной решимости руководства страны, наконец-то, начать «строительство» своей отечественной отрасли НТ. Или, как это сформулировано, «вступить на тропу нанотехнологии». И это – замечательно! Будем ждать новых сообщений, а пока пожелаем азербайжданским коллегам успехов на этом нелёгком и непростом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="987" EndNode="1017">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="982" EndNode="986">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="262" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1362" EndNode="1402">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1405" EndNode="1444">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

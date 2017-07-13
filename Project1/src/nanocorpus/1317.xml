@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Содержание номера: 
+ 
+- Факультет наук о материалах в <Node id="55"/>2007 году<Node id="64"/> 
+- Нанотехнологическая программа РАН 
+- Философия наносинтеза 
+    
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="55" EndNode="64">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="55" EndNode="64">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

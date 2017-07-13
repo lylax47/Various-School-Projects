@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+<Node id="1"/>24–26 сентября<Node id="15"/> в Зеленограде (Никольский Парк) прошла международная конференция научного сообщества NANOSPIN. Компания NT-MDT <Node id="127"/>(http://www.ntmdt.ru<Node id="147"/>/), вот уже <Node id="159"/>третий год<Node id="169"/> являясь участником этого проекта, в этот раз выступала организатором, спонсором и принимающей стороной ежегодной встречи членов сообщества.
+
+Гостями форума были руководители основных рабочих групп проекта NANOSPIN из ведущих университетов Великобритании, Греции, Италии, Испании, России и Украины.
+
+Проект NANOSPIN (Self-Organized Magnetic Nanostructures) был запущен в <Node id="540"/>2004 году<Node id="549"/> в рамках программы финансирования нанотехнологий в Европейском Союзе «SIXTH FRAMEWORK PROGRAMME – PRIORITY 3 Nanotechnologies and Nanosciences».
+
+Основной научной целью проекта является разработка и подготовка многокомпонентных магнитных <Node id="788"/>наночастиц<Node id="798"/>, а также изучения их свойств. В перспективе уникальные магнитные свойства <Node id="873"/>наночастиц<Node id="883"/> позволят создать устройства хранения информации, намного превосходящие по емкости и быстродействию винчестеры современных компьютеров.
+
+Задачей компании NT-MDT в рамках проекта является создание магнитных зондов для работы со сверхвысоким разрешением, а также разработка специальных МСМ устройств. В своем отчетном выступлении наши ученые продемонстрировали зонды, позволяющие получать МСМ изображения с рекордным разрешением в 10 нм. Кроме того, был показан действующий прототип устройства для записи/считывания магнитной информации, зашифрованной в матрице магнитных <Node id="1453"/>наночастиц<Node id="1463"/>.
+
+Партнеры по проекту отметили великолепную организацию конференции и теплый прием, оказанный принимающей стороной.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="159" EndNode="169">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1453" EndNode="1463">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1" EndNode="15">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="127" EndNode="147">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="873" EndNode="883">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="540" EndNode="549">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="540" EndNode="549">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="788" EndNode="798">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

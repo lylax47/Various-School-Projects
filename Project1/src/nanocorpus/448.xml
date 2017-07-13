@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Представьте себе механического <Node id="32"/>Пеле<Node id="36"/> или Дэвида Бекхэма размерами в 6 раз меньше амёбы, который играет «футбольным мячом» не толще человеческого волоса на поле, которое с лёгкостью умещается на зёрнышке риса. Думаете это фантастика? Уже нет!   Национальный институт стандартов и технологий (NIST) проводит первые футбольные матчи «в наномасштабе» в рамках РОБОкубка 2007 в Атланте <Node id="381"/>7-8 июля<Node id="389"/>. 
+ 
+ РОБОкубок – ежегодные международные соревнования, которые проводятся с целью поощрения инноваций и прогресса в области искусственного интеллекта и «разумной» робототехники, используя футбол как один из тестов. NIST надеются, что соревнования между маленькими роботами в РОБОкубке покажут осуществимость и доступность технологий для создания MEMS, маленьких механических устройств размером порядка микрометра, которые можно встраивать в полупроводниковые чипы. 
+ 
+ РОБОкубок и NIST совместно организуют в <Node id="899"/>этом году<Node id="908"/> соревнования по «нанофутболу» в качестве демонстрации. В <Node id="966"/>2008 году<Node id="975"/> планируется организовать Лигу «Нанограмм», которая будет продолжением соревнований по «нанофутболу». 
+ 
+ Пять команд зарегистрировано для участия в показательных соревнованиях Лиги «Нанограмм»: две из Carnegie Mellon University (Pittsburgh, Pa.), и по одной из U.S. Naval Academy (Annapolis, Md.), Swiss Federal Institute of Technology (Zurich, Switzerland) и Simon Fraser University (Burnaby, British Columbia, Canada). 
+ 
+ «Футбольные нанороботы», за которыми будут следить через оптический микроскоп, управляются с помощью радиоэлектроники с использованием визуальной обратной вязи. За их передвижениями можно будет наблюдать на мониторе. Не смотря на то, что размеры роботов колеблются от нескольких десятков микрометров до нескольких сотен микрометров, тем не менее они относятся к классу «нанороботов», так как их масса колеблется от нескольких нанограммов до нескольких сотен нанограммов. 
+ 
+ Для того, чтобы победить в соревновании «наноробот» должен быть быстрым, подвижным и способным манипулировать объектами. Эти параметры роботов будут проверяться в трёх испытаниях: 
+ 
+ ·        двухмиллиметровый спринт, в котором каждый «наноробот» должен показать лучшее время в «забеге» через всё поле (от ворот до ворот); ·        слалом, когда путь между воротами перекрыт «защитниками» (полимерными столбами); ·        владение мячом, которое потребует от робота забить как можно больше «наномячей» (микро дисков, диаметром с человеческий волос) в ворота за <Node id="2438"/>3 минуты<Node id="2446"/>. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="966" EndNode="975">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="32" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пеле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2438" EndNode="2446">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="381" EndNode="389">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="966" EndNode="975">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="899" EndNode="908">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Академик РАН, директор Центра Фотохимии РАН, руководитель бюро рабочей группы <Node id="78"/>Научно-координационного совета<Node id="108"/> ФЦП «Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на <Node id="222"/>2007-2012 годы<Node id="236"/>» по приоритетному направлению «Индустрия наносистем и материалов», член НТС ГК «Роснанотех» Статус: Член наблюдательного совета Информация на сайте Российской Академии Наук </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="78" EndNode="108">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Научно-координационного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="222" EndNode="236">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

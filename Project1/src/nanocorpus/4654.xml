@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Четвертая международная конференция и выставка NanoSolutions будет проходить <Node id="78"/>с 11 по 13 ноября 2008 г.<Node id="103"/> во Франкфурте, Германия (11–13 November 2008: Messe Frankfurt, Germany). Информацию о конференции можно получить на вебсайте: <Node id="230"/>(http://www.nanosolutions-frankfurt.de/en/Home.html)<Node id="282"/>
+
+В <Node id="286"/>предыдущие годы<Node id="301"/> конференция зарекомендоваля себя как ведущее европейское событие в области нанотехнологий и нанобизнеса.
+
+Слоган нынешней конференции: технологии-интеграция-продукт. Нанотехнологии и эффекты, производимые ими, располагаются в самом начале процесса создания продукта. Только при их интеграции в другие материальные системы могут быть созданы изделия, имеющие коммерческую ценность. Конференция и выставка NanoSolutions 2008 представляют полную шкалу создания коммерческого продукта, начиная от последних научных разработок через методы интеграции к конечному продукту.
+
+Одной из важных задач конференции является анализ современного состояния нанотехнологий с тем, чтобы оценить их развитие на <Node id="995"/>два года<Node id="1003"/> вперед. Предполагается участие более 150 национальных и международных экспонентов и порядка 4500–5000 участников и гостей из промышленных отраслей.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="995" EndNode="1003">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="286" EndNode="301">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="230" EndNode="282">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="78" EndNode="103">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

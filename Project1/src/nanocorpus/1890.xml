@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Сегодня, <Node id="10"/>17.08.2007<Node id="20"/>, на порале Finam.ru, состоялась on-line конференция «Нанотехнологии – инвестиции в будущее»
+Участники конференции:
+ Алексей Аверков, руководитель проектов Центра инвестиций в высокие технологии ИХ «ФИНАМ» Александр Куринный, руководитель проекта NanoNewsNet, зам. председателя Комиссии ОПОРЫ РОССИИ по нанотехнологиям Андрей Путилов, главный специалист по инновационной деятельности ФГУП «СНПО «Элерон» Марине Мелконян, представитель Национальной контактной точки по направлению «Нанотехнологии, нанонауки, материалы и новые промышленные технологии» Седьмой рамочной программы Евросоюза (Russian Nanotech NCP) Подробнее..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="10" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">08</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

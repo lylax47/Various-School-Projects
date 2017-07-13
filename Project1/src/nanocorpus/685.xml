@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+С помощью теоретического моделирования показано, что несколько слоев льда могут оставаться «замороженными» при температуре человеческого тела, если их выращивать на слое ионов натрия, покрывающем алмаз.
+
+«Покрытия изо льда могли бы сделать алмазные имплантаты более биологически совместимыми,» — утверждает команда ученых из Университета Гарварда.
+
+Тонкие алмазные покрытия наносятся на все большее число износостойких медицинских имплантатов, типа протезов, искусственных клапанов сердца и суставов. Однако, алмаз приводит к сворачиванию крови, вызывая коагуляцию белков. Кроме того, его твердость приводит к большему трению с окружающими тканями, нежели при использовании других материалов. Лед мог бы уменьшить эти эффекты, предоставляя биологически совместимый водный интерфейс.
+
+Александр Висснер-Гросс (&lt;a href=”http: // <Node id="828"/>www.alexwg.org/”&gt;Alexander<Node id="854"/> Wissner-Gross) и Эфсимиос Каксирас (&lt;a href=”http: // <Node id="909"/>www.seas.harvard.edu/ekaxiras”&gt;Efthimios<Node id="949"/> Kaxiras) вычислили, что проблему можно решить, закрепив слой ионов натрия на алмазной поверхности.
+
+Такой слой ионов натрия привел бы к образованию слоя льда толщиной приблизительно 2 нанометра при 37°C (температура человеческого тела), таким образом обеспечив биологически совместимое покрытие.
+
+Исследователи использовали для моделирования метод молекулярной динамики (взаимодействие частиц описывалось потенциалом Леннард-Джонса и <Node id="1384"/>Кулона<Node id="1390"/>). В частности они моделировали движение молекул воды, находящихся рядом с поверхностью алмаза, покрытого ионами натрия, в течение длительного времени. Вычисления показали, что слой льда может остаться замороженным при высоких температурах благодаря дипольным взаимодействиям между молекулами воды и поверхностью пленки.
+
+В 2001 исследователи получили лед в <Node id="1748"/>углеродных <Node id="1759"/>нанотрубках<Node id="1770"/>; в <Node id="1774"/>прошлом году<Node id="1786"/> другая группа создала наноразмерные кусочки льда при комнатной температуре и показала, что такой лед может выступать как нежелательный «клей» в наноустройствах. Но данный теоретический результат является первым, предлагающим практическую реализацию нанольда.
+
+«<Node id="2048"/>Это — интересный результат,» – говорит Дэвид Мартин<Node id="2099"/> (David Martin), профессор биомедицинской технологии в Университете Мичигана и главный научный консультант в Biotectix, компании, которая делает мягкие полимерные покрытия для биомедицинских устройств.  —Возможность создавать гидрофильньный слой на твердом алмазном или алмазоподобном основании может вполне способствовать прогрессу биомедицине." Однако, <Node id="2454"/>Мартин<Node id="2460"/> предупреждает, что новый метод не решит главную проблему — что механические свойства имплантатов несовместимы с мягкой биологической тканью<Node id="2600"/>. «<Node id="2603"/>Ледяное покрытие будет чрезвычайно тонким, и различия в механических свойствах будут незначительными,» — говорит <Node id="2716"/>он<Node id="2718"/>.
+
+Александр Висснер-Гросс создал&lt;a href=”http: // <Node id="2769"/>www.alexwg.org/DiamondIce.mov”&gt;короткий<Node id="2808"/> фильм об исследовании, который можно посмотреть на его веб-сайте.
+С одной стороны, методы молекулярной механики не применимы к ионным водным системам из-за их сложной системы химических взаимодействий. Да и сама система вызывает множество вопросов. С другой стороны, результат предсказуем, так как поверхностный слой у гидрофильной поверхности остается неподвижным, и речь идет только о том, сколько слоев льда будет «замораживать» та или иная поверхность. Однако сама идея с помощью полярного бислоя создать водную смазку кажется весьма перспективной…Дмитрий Лещев</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="2603" EndNode="2718">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="1748" EndNode="1770">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="2603" EndNode="2718">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1759" EndNode="1770">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1384" EndNode="1390">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кулон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1774" EndNode="1786">
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="2454" EndNode="2600">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="909" EndNode="949">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="2769" EndNode="2808">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="2048" EndNode="2099">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="2454" EndNode="2460">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Мартин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="2454" EndNode="2600">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="2048" EndNode="2099">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="2716" EndNode="2718">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="828" EndNode="854">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

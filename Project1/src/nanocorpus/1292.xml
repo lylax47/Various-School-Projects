@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из нанотехнологического центра Purdue's Birck Nanotechnology Center показали, что каналы нанопор могут быть использованы для быстрого и точного определения характерных последовательностей в ДНК для генных приложений в медицине, мониторинге окружающей среды и обеспечения безопасности.
+
+Тонкие каналы, которые имеют размер от 10 до 20 нм в диаметре и несколько сотен нанометров в длину, были созданы в кремнии, затем каждый канал был модифицирован «зондами» из колец-заколок, построенных из ДНК, которые закреплялись внутри канала. Измерение подаваемого электрического импульса позволяет определить наличие в исследуемом растворе даже единственной молекулы односпиральной ДНК (ssDNA), комплементарной «зонду».
+
+«<Node id="726"/>Другие исследователи в прошлом уже создавали такие поры, но данная группа впервые закрепила зонд из однспиральной ДНК внутри таких кремниевых каналов и затем использовала эти каналы для определения характерных молекул ДНК, содержащихся в жидкости»,— сказал Рашид Башир<Node id="994"/> (Rashid Bashir), профессор School of Electrical and Computer Engineering и Weldon School of Biomedical Engineering.
+
+Исследования детально изложены в журнале Nature Nanotechnology. Авторы: Самир Икбал (Samir Iqbal), <Node id="1211"/>Демир Акин (Demir Akin) и Рашид Башир (Rashid Bashir).
+
+Тонкую мембрану с каналами помещают в жидкость, содержащую ДНК. Так как ДНК отрицательно заряжена, приложенное напряжение поперек мембраны заставляет молекулы ДНК из раствора двигаться через каналы. Как говорят<Node id="1477"/>, ДНК «перемещается» через нанопоры.
+
+Исследователи обнаружили, что отдельные нити полностью комплементарной ДНК — нити, соответствующие зондам внутри каждого канала — передвигались быстрее и в большем количестве сквозь поры, по сравнению с нитями, которые им не соответствовали.
+
+«<Node id="1759"/>Мы можем определить передвижение определенного типа нити ДНК измерением электрического тока попрек канала» — сказал <Node id="1875"/>Башир<Node id="1880"/>. «По существу, мы можем измерить характерный идентификационный пульс, означающий, что передвигается определенная молекула ДНК».
+
+«Когда молекула ДНК в растворе точно комплементарна таковой в каналах, импульс тока будет короче, по сравнению с тем, когда даже один из нуклеотидов не совпадает» — говорит Икбал.
+
+Возможность детектировать ДНК молекулы быстро и в малом количестве без необходимости присоединения к ним меток представляет потенциальный механизм для широкого спектра применений, где необходимо определения ДНК.
+
+Ранее мы уже сообщали об этом типе нано-секвенатора ДНК с помощью нанопор. Но тогда было проведено только его математическое моделирование.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="726" EndNode="994">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="1759" EndNode="1880">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1759" EndNode="1880">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="встречи_и_переговоры" StartNode="1211" EndNode="1477">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1875" EndNode="1880">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Башир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="726" EndNode="994">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

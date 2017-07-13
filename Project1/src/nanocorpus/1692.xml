@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Ученые из Омского института проблем переработки углеводородов СО РАН в данный момент работают над тремя государственными заказами в сфере нанотехнологий.
+
+Как сообщили в минэкономики Омской области, проекты носят экологическую направленность – это серия сорбентов для борьбы с загрязняющими веществами. Проект омских ученых победил в федеральном конкурсе и теперь финансируется государством. Сумма госзаказа – <Node id="411"/>100 миллионов рублей<Node id="431"/>.
+
+В <Node id="436"/>настоящее время<Node id="451"/> рабочая группа приступила к разработке углеродных сорбентов для очистки техногенных газов и жидкостей,а к <Node id="558"/>октябрю<Node id="565"/> <Node id="566"/>следующего года<Node id="581"/> обещают предоставить на суд комиссии опытную промышленную установку. Перспективы такой установки огромны – внедрение этого изобретения на предприятиях черной и цветной металлургии, а также на заводах техуглерода, позволит избежать выброса мельчайших частиц в атмосферу.
+
+<Node id="853"/>Федеральное агентство по науке и инновациям<Node id="896"/> готово профинансировать еще один омский проект в сфере нанотехнологий, также победивший в общероссийском конкурсе. По предварительной информации, стоимость этого заказа – <Node id="1068"/>около 40 миллиона рублей<Node id="1092"/>, сообщает РИА «Омск-Информ».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="436" EndNode="451">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="411" EndNode="431">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1068" EndNode="1092">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="853" EndNode="896">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральное агентство по науке и инновациям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="558" EndNode="565">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябрю</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="566" EndNode="581">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

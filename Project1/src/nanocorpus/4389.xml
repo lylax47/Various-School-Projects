@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Наночастицы<Node id="12"/> материала, используемого для полировки стекла и в качестве катализатора для удаления сажи со стен самоочищающейся печи показывают большой потенциал при лечении глаукомы – заболевания глаз, которому подвержены люди по всему миру. В июньском номере журнала Physical Chemistry B в статье «Surface-Derivatized Nanoceria with Human Carbonic Anhydrase II Inhibitors and Fluorophores: A Potential Drug Delivery Device» <Node id="425"/>(http://pubs.acs.org/…pe=%20shape=)<Node id="460"/> авторами описываются лабораторные тесты по использованию <Node id="518"/>наночастиц<Node id="528"/> оксида церия в качестве носителей лекарств.
+
+Авторы работы Sudipta Seal <Node id="601"/>(http://people.cecs.ucf.edu/…l/index.html)<Node id="643"/> и Sanku Mallik <Node id="659"/>(http://pharmsci.ndsu.nodak.edu/…ik/index.htm)<Node id="705"/> отмечают, что только 1–<Node id="729"/>3 процента<Node id="739"/> существующих препаратов от глаукомы проникают в глаз, в то время как эксперименты других групп показали высокую скорость проникновения <Node id="875"/>наночастиц<Node id="885"/> без дискомфорта для глаз.
+
+Авторы работы присоединили к <Node id="942"/>наночастицам<Node id="954"/> оксида церия вещество, блокирующее энзим (hCAII), который, как полагают, играет центральную роль при развитии глаукомы. При этом заболевании создается высокое давление жидкости внутри глаза, что, в случае недостаточного лечения, может привести к повреждению глазного нерва и потере зрения.
+
+Высокое давление создается, в частности, из-за образования диоксида углерода внутри глаза, вещество, доставляемое при помощи оксида церия – карбоксибензинсульфонамид – блокирует энзим, вырабатывающий CO2.
+
+Авторы работы полагают, что использование оксида церия в качестве нетоксичного носителя лекарств не ограничено.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="659" EndNode="705">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="518" EndNode="528">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="942" EndNode="954">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1" EndNode="12">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="875" EndNode="885">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="425" EndNode="460">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="729" EndNode="739">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="601" EndNode="643">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

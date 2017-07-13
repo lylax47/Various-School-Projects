@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В. Лозовский<Node id="12"/>, <Node id="14"/>Г. Константинова<Node id="30"/>, <Node id="32"/>С. ЛозовскийНанотехнология<Node id="58"/> в электронике. Введение в специальность (2-е издание, исправленное)
+ Серия: Учебники для вузов. Специальная литература Издательство: Лань, <Node id="198"/>2008 г.<Node id="205"/> Твердый переплет, 336 стр. ISBN 978–5–8114–0827–6 Тираж: 2000 экз. Формат: 84×108/32 Цена: <Node id="297"/>423 руб<Node id="304"/>  * * От издателя Учебное пособие составлено в соответствии с Государственным образовательным стандартом (ГОСом) по специальности высшего профессионального образования «Нанотехнология в электронике». В нем рассматривается система современного высшего технического образования, особенности обучения в вузе, фундаментальные основы инженерной деятельности. 
+Данное пособие знакомит читателя с историческими этапами зарождения наноэлектроники, определяет роль микроэлектроники на современном этапе. Также приведены теоретические основы и особенности наноэлектроники, отражены особенности инструментального и технологического обеспечения ее развития. Рассматриваются достижения нанотехнологии в электронике, перспективы и тенденции ее дальнейшего развития.
+ Пособие предназначено для студентов вузов, обучающихся по специальности «Нанотехнология в электронике». <Node id="1161"/>http://www.ozon.ru/…/id/4011641/Ну<Node id="1195"/> вот, вот уже и стандартные учебники появляются. И даже уже – 2-ое издание. Значит, дело закладывается солидное. На серьёзном фундаменте. Как говорится, дай то бог!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="198" EndNode="205">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лозовский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="297" EndNode="304">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="14" EndNode="30">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Г.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Константинова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="32" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1161" EndNode="1195">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

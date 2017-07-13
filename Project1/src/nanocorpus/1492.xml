@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Левитация в наномиреФизики-теоретики из University of St. Andrews профессор Ulf Leonhardt и доктор Thomas Philbin создали эффект левитации применив для этого силу, которая в обычном состоянии приводит к слипанию объектов между собой. Обратив квантовый эффект, известный как сила <Node id="279"/>Казимира<Node id="287"/>, учёные надеются решить проблему слипания крошечных объектов, которая возникает при создании наномеханизмов.
+
+Эффект <Node id="405"/>Казимира<Node id="413"/> был открыт в <Node id="427"/>1948 году<Node id="436"/> и впервые измерен в <Node id="457"/>1997 году<Node id="466"/>. Эта сила из квантовой физики вызывает взаимное притяжение крошечных объектов в вакууме. В нанотехнологии сила <Node id="578"/>Казимира<Node id="586"/> приводит к слипанию частиц между собой. Поэтому любые способы решения этой проблемы представляют большой интерес.
+
+Кроме слипания частиц наличие силы <Node id="737"/>Казимира<Node id="745"/> вызывает сильное трение в наномире, в частности в некоторых микроэлектромеханических системах (MEMS). Таким образом, возможность контроля над силой <Node id="894"/>Казимира<Node id="902"/> позволит понизить трение или даже избавиться от него.
+
+Учёные обратили силу <Node id="979"/>Казимира<Node id="987"/>, используя специально разработанную линзу, помещённую между объектами.
+ 
+«Вместо того чтобы слипаться, друг с другом, частицы будут левитировать», ­– говорит профессор Leonhardt.
+ 
+По словам исследователей, новая технология может заставить левитировать только объекты микроскопических размеров, человека или стул поднять таким способом не возможно. Поэтому, как считают исследователи, левитация человека по-прежнему останется только в мультфильмах и сказках.
+
+Как заявляют авторы открытия, с помощью новой технологии можно уменьшить силы трения между наномашинами и таким образом, увеличить их эффективность.
+<Node id="1597"/>http://www.nanometer.ru/…gy_3898.htmlhttp://www.sciencedaily.com<Node id="1661"/>/…06091137.htmДа, действительно, чего только не выдумают эти затейники-учёные! И напрасно они утверждают, что левитация возможна только в микромире. Наш народ не обманешь! Теперь уже все обыватели будут <Node id="1864"/>100%<Node id="1868"/>-но уверены, что эти жулики-учёные всех нас дурят, а сами (всё больше по ночам) уже давно летают, сидя на метле или даже на диване… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="279" EndNode="287">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="427" EndNode="436">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="457" EndNode="466">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="737" EndNode="745">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="457" EndNode="466">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="578" EndNode="586">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимира</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1597" EndNode="1661">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1864" EndNode="1868">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="427" EndNode="436">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="405" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="894" EndNode="902">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="979" EndNode="987">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Казимир</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

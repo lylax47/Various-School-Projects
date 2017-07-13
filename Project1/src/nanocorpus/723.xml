@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Наночастицы<Node id="12"/> материала, используемого для полировки стекла и в качестве катализатора для удаления сажи со стен самоочищающейся печи показывают большой потенциал при лечении глаукомы – заболевания глаз, которому подвержены люди по всему миру. В июньском номере журнала Physical Chemistry B в статье "Surface-Derivatized Nanoceria with Human Carbonic Anhydrase II Inhibitors and Fluorophores: A Potential Drug Delivery Device" авторами описываются лабораторные тесты по использованию <Node id="482"/>наночастиц<Node id="492"/> оксида церия в качестве носителей лекарств. 
+ 
+Авторы работы Sudipta Seal и Sanku Mallik отмечают, что только <Node id="603"/>1-3 процента<Node id="615"/> существующих препаратов от глаукомы проникают в глаз, в то время как эксперименты других групп показали высокую скорость проникновения <Node id="751"/>наночастиц<Node id="761"/> без дискомфорта для глаз. Авторы работы присоединили к <Node id="817"/>наночастицам<Node id="829"/> оксида церия вещество, блокирующее энзим (hCAII), который, как полагают, играет центральную роль при развитии глаукомы. При этом заболевании создается высокое давление жидкости внутри глаза, что, в случае недостаточного лечения, может привести к повреждению глазного нерва и потере зрения. Высокое давление создается, в частности, из-за образования диоксида углерода внутри глаза, вещество, доставляемое при помощи оксида церия – карбоксибензинсульфонамид – блокирует энзим, вырабатывающий CO2. 
+ 
+Авторы работы полагают, что использование оксида церия в качестве нетоксичного носителя лекарств не ограничено. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="751" EndNode="761">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="817" EndNode="829">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="482" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Проценты" StartNode="603" EndNode="615">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

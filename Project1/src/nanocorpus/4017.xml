@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+В <Node id="3"/>сентябре<Node id="11"/> в <Node id="14"/>городе Таганроге Ростовской области<Node id="49"/> появится центр по изучению нанотехнологий, один из лучших в России и мире. Уровень вложений говорит сам за себя – почти миллиард рублей.
+
+Центр откроется на базе местного отделения Южного федерального университета.
+ 
+<Node id="267"/>В <Node id="269"/>сентябре<Node id="277"/> в Таганроге открывается один из лучших в России нанотехнологических центров<Node id="353"/>, – говорит ректор <Node id="372"/>ЮФУ Владислав Захаревич<Node id="395"/>. – С учетом стоимости аппаратуры получается, туда будет вложено более миллиарда рублей. Его можно будет осмотреть и узнать, для каких целей государство тратит такие деньги.
+ 
+Уровень вложений со стороны университета составил 250 миллионов, остальные средства были получены из других фондов. Как утверждают, новый центр просто необходим для ученых и исследователей, сообщает Дон-ТРЕвгений Несын</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="темы" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="3" Type="Тональность" StartNode="372" EndNode="395">
+</Annotation>
+<Annotation Id="4" Type="цитаты" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="5" Type="расположение" StartNode="14" EndNode="49">
+</Annotation>
+<Annotation Id="6" Type="упоминается_с" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="10" Type="упоминает" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="267" EndNode="395">
+</Annotation>
+<Annotation Id="12" Type="упоминается_с" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="372" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Захаревич</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Владислав</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">З.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="269" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="темы" StartNode="267" EndNode="353">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="3" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентябре</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

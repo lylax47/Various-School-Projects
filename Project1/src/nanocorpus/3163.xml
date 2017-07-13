@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Компания "Карл Цейсс" учреждает гранты для молодых ученых и преподавателей университетов, сочетающих преподавание и исследовательскую работу, которые выполняют научные исследования с использованием методов световой и электронной микроскопии по следующим направлениям: 
+   нанотехнологии,   химия,   физика,   биология,   медицина,   материаловедение,   геология. 
+   
+Обязательным условием является использование оборудования производства CARL ZEISS. Размер грантов составляет <Node id="479"/>50 - 150 тыс. руб.<Node id="497"/> Подача заявок на получение гранта: <Node id="533"/>с 15 августа по 01 октября 2008 г.<Node id="567"/> Подробности на сайте компании. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="533" EndNode="567">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="479" EndNode="497">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

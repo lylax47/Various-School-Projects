@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Новый, более дешевый источник излучения для <Node id="45"/>литографии<Node id="55"/> с использованием жесткого ультрафиолета (extreme ultraviolet, EUV) был запатентован Калифорнийским университетом в Сан-Диего (University of California at San Diego, UCSD) в сотрудничестве с компанией Cymer, специализирующейся на выпуске лазеров для фотолитографических систем.
+
+Суть предложения заключается в использовании относительно недорогих лазеров на базе двуокиси углерода в 32-нм и более «тонких» техпроцессах. При этом время импульса должно увеличиться от 20 наносекунд, что характерно для современных EUV-лазеров, до более чем 100 наносекунд.
+
+В <Node id="612"/>настоящее время<Node id="627"/> в качестве наиболее вероятных претендентов среди литографических технологий для производства по 22-нм и менее нормам рассматриваются EUV, двойные шаблоны, нанопечать, и электроннолучевая <Node id="815"/>литография<Node id="825"/> множественным пучком. Но, судя по текущему состоянию дел, производители по большей части полагаются именно на EUV-<Node id="940"/>литографию<Node id="950"/>. Компании ASML и Nikon независимо друг от друга планируют представить предварительные версии EUV-инструментов к <Node id="1063"/>концу 2009 г.<Node id="1076"/> В этом оборудовании будут использоваться лазер-плазменные (Laser Produced Plasma, LPP) источники излучения производства компании Cymer. Источники сообщают, что японская компания GigaPhoton также активно реализует программу по разработке и выпуску LPP-продукции.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="940" EndNode="950">
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="45" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="612" EndNode="627">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Литография" StartNode="815" EndNode="825">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1063" EndNode="1076">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  
+Уважаемые участники олимпиады «Нанотехнологии – прорыв в будущее»!
+ 
+Для нас, как для Интернет-издания, существующего благодаря современным технологиям, и как деловой газеты, внимательно отслеживающей все новые тенденции развития науки и техники, конкурс, в котором вы участвуете, представляет огромный интерес. Вы – будущее российской науки, а значит, – надежда нашей страны. Ваша работа – залог того, что будущее нашей страны в надежных руках. Сегодня вы придумываете наше будущее – а завтра сможете претворить его в жизнь. Мы с интересом и удовольствием будем следить за ходом олимпиады, а по окончании планируем сделать интервью с победителями конкурса. Мы уверены, что ваши идеи – в том числе и самые смелые – станут явью совсем скоро. Даже раньше <Node id="756"/>2020 года<Node id="765"/>!
+ Удачи всем участникам. И новых открытий – во славу России! 
+С уважением, 
+ 
+главный редактор деловой газеты ВЗГЛЯД 
+Александр Шмелев
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="756" EndNode="765">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="756" EndNode="765">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

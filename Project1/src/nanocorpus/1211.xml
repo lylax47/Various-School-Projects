@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ФСБ пресекла деятельность иностранных шпионов в НовосибирскеНовосибирское управление ФСБ пресекло деятельность нескольких иностранцев, собиравших сведения о новейших разработках сибирских ученых. Так, в минувшем <Node id="212"/>году<Node id="216"/> за незаконный сбор информации о разработках ученых сибирского отделения Российской Академии наук были выдворены из России гражданка КНР и еще несколько граждан других государств. Об этом сообщил сегодня на пресс-конференции, посвященной итогам <Node id="461"/>2007 года<Node id="470"/>, начальник управления ФСБ по Новосибирской области Сергей Савченков. «<Node id="541"/>Они пытались получить в Новосибирской области сведения о технологиях, имеющих отношение к оружию массового поражения<Node id="657"/>», – отметил Савченков<Node id="679"/>, подчеркнув, что интерес к разработкам Академии наук сохраняется, «причем активный». В пресс-службе областного <Node id="791"/>Управления ФСБ<Node id="805"/> добавили, что «спецслужбы Запада и стран Азии интересуются также предприятиями ядерной энергетики и биологического профиля, передовыми научными разработками нанотехнологий».
+ 
+В Новосибирске расположены крупнейший в своей отрасли Государственный научный центр вирусологии и биотехнологий «Вектор», а также завод химических концентратов, изготавливающий топливо для атомных реакторов, уточняет ИТАР-ТАСС.
+<Node id="1210"/>http://www.izvestia.ru/news/news161461Государственный<Node id="1263"/> научный центр вирусологии и биотехнологий <Node id="1306"/>«Вектор»http://www.vector.nsc.ru/…Default.aspxНовосибирский<Node id="1365"/> Завод <Node id="1372"/>Химконцентратовhttp://www.sdi.siberia.net/nzhk/Бедные<Node id="1425"/> шпионы!.. Сколько им теперь придётся претерпеть волнений и тревог… Сидели бы дома и просто читали бы наш блог – от скольких хлопот были бы избавлены! А с «ребятами в штатском» лучше не связываться – им кругом мерещатся одни только «шпионы». Вдобавок, их перевели на сдельщину: чем больше «шпионов» они наловят, тем больше у них будут оклады, звания и награды… ;-))) Ну, а, с другой стороны, раз иностранцы так интенсивно интересуются нашими нанотехнологиями, значит, где-то что-то действительно-таки есть! Меня вот тоже интересует судьба «прекрасного» лекарства, разработанного в Новосибирске, массовое производство которого (ещё в <Node id="2058"/>2006 г.<Node id="2065"/>!) обещал наладить «Сибирский Центр фармакологии и биотехнологии» – <Node id="2133"/>http://www.trombovazim.com<Node id="2159"/> . Я тут как-то написал об этом замечательном лекарстве: хлынули запросы… – <Node id="2235"/>http://www.nanonewsnet.ru/…o-pokoleniya<Node id="2274"/> – Я попытался связаться с кем-нибудь оттуда. Ничего! Ни ответа, ни привета!!! Может быть, как раз это лекарство и разыскивали зарубежные граждане, блуждая по Новосибирску? Ну, и попали на заметку бдительных «товарищей»… ;-))) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="2133" EndNode="2159">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="461" EndNode="470">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="461" EndNode="470">
+</Annotation>
+<Annotation Id="4" Type="цитаты" StartNode="541" EndNode="657">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1210" EndNode="1263">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="791" EndNode="805">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Управления ФСБ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="автор" StartNode="541" EndNode="679">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="212" EndNode="216">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1372" EndNode="1425">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="541" EndNode="679">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1306" EndNode="1365">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="упоминает" StartNode="541" EndNode="679">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="2235" EndNode="2274">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="темы" StartNode="541" EndNode="657">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="2058" EndNode="2065">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="541" EndNode="679">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

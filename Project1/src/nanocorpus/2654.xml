@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ученые изобрели одежду, которую не нужно стиратьОдежда, которая самоочищается под воздействием солнечных лучей, была разработана группой ученых из Китая и Австралии.
+
+Как пишет лондонская газета Daily Telegraph, в ближайшее время на полках магазинов мира появятся шерстяные свитера, костюмы, шелковые рубашки и хлопчатобумажные носки нового наукоемкого поколения.
+Секрет самоочищающейся одежды состоит в том, что на поверхность традиционного материала наносится с помощью нанотехнологий слой толщиной в пять атомов двуокиси титана анатазной модификации. Это состав используется в космической промышленности и известен способностью разлагать под солнечными лучами оказавшиеся на его поверхности загрязняющие химические вещества.
+
+В ходе испытаний залитый красным вином костюм полностью восстановил свой изначальный товарный вид после того, как <Node id="843"/>в течение 20 часов<Node id="861"/> находился под солнечными лучами.
+Dr Walid Daoud
+Как заявил руководитель работ профессор университета австралийского города <Node id="985"/>Виктория Валид<Node id="999"/> Дауд, уже в ближайшее время самоочищающийся материал станет стандартом для повседневных вещей, передает ИТАР-ТАСС.
+<Node id="1115"/>http://www.vz.ru/…/144320.htmlSelf-cleaning<Node id="1158"/> wool and silk developed using <Node id="1189"/>nanotechnologyhttp://www.telegraph.co.uk/…h/main.jhtml?…Fabrics<Node id="1252"/> of the Futurehttp://<Node id="1273"/>www.nanovic.com.au/?…Ранее<Node id="1299"/> уже сообщалось о разработке технологии защиты тканей, текстиля от грязи, бактерий и т.п. с помощью нанотехнологий: <Node id="1415"/>http://www.nanonewsnet.ru/…dnykh-tkanei<Node id="1454"/> . Теперь вот ещё одна весточка из далёкой Австралии. Очевидно, что это направление НТ становится все популярнее и популярнее. И исследователи с большой охотой работают в этой сфере. В конце концов, огромный рынок одежды и обуви позволит быстро нарастить спрос, а тем самым и окупить большие расходы. Вот логический путь и для наших исследователей…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="843" EndNode="861">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1273" EndNode="1299">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1115" EndNode="1158">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="985" EndNode="999">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Виктория</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1189" EndNode="1252">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1415" EndNode="1454">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

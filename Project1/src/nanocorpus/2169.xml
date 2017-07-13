@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> РОССИЙСКАЯ АКАДЕМИЯ НАУК, ОТДЕЛЕНИЕ ХИМИИ И НАУК О МАТЕРИАЛАХ, Институт физической химии и электрохимии имени А.Н. Фрумкина (ИФХЭ РАН) проводят Всероссийский семинар "Физико-химия поверхностей и наноразмерных систем" <Node id="218"/>с 3 по 5 февраля 2009 года<Node id="244"/> в Москве 
+ 
+Тематика семинара: 
+ 
+1.Фундаментальные коллоидно-химические аспекты нанотехнологий 
+2. Экспериментальные методы исследования поверхностей и нанодиагностика 
+3. Численные методы исследования поверхностных явлений и наносистем 
+4.Смачивание, капиллярные явления, нанофлюидика 
+ 
+ 
+Заявки на участие в семинаре (если с докладом - то название и тезисы до 1 стр. текста) направлять до <Node id="638"/>25 ноября 2008 года<Node id="657"/> в оргкомитет семинара по адресу: 
+ 
+119991 Москва, Ленинский проспект д.31, ИФХЭ РАН, ученому секретарю семинара д.ф.м.н. А.М. Емельяненко, тел./факс (495) 955 4443, e-mail <Node id="831"/>ame@phyche.ac.ru<Node id="847"/>     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="638" EndNode="657">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="218" EndNode="244">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="831" EndNode="847">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

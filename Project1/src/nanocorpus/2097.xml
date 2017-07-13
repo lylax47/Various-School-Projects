@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российский вице-премьер ознакомился с наноразработками белгородских учёныхСегодня Сергей Иванов посетил Центр <Node id="110"/>наноструктурных материалов<Node id="136"/> и нанотехнологий БелГУ. Сейчас в Центре при федеральной поддержке реализуется комплексный научно-производственный проект, в котором задействовано 12 организаций из различных регионов России
+Как рассказал зампреду российского правительства директор Центра Юрий Колобов, проект направлен на разработку наноструктурных титановых сплавов и бионанопокрытий для стоматологии и ортопедии. Из материалов, сделанных в Белгороде, в Казани будут изготавливать медицинские имплантаты. <Node id="610"/>В начале следующего года<Node id="634"/> опытные наноразработки ожидают клинические испытания. <Node id="689"/>По словам Юрия Романовича, <Node id="716"/>в <Node id="718"/>настоящее время<Node id="733"/> на малых предприятиях Белгорода можно получать до 100 тонн нанотитана в <Node id="806"/>год<Node id="809"/>.
+
+Помимо научной и производственной части Hаноцентр БелГУ включает в себя и обучение специалистов. Сейчас по соответствующей специальности проходят подготовку 97 студентов, первый выпуск «наностудентов» состоится в <Node id="1025"/>2009 году<Node id="1034"/>.
+Сергей Иванов в сопровождении министра образования и науки Андрея Фурсенко и губернатора Белгородской области Евгения Савченко осмотрел образцы нанопродукции, а также ознакомился с технологическим процессом в цехе обработки материалов давлением.
+Максим <Node id="1289"/>Алтуховhttp://www.bel.ru<Node id="1313"/>/…6/33982.htmlДа, белгородцам есть, что показать. И там есть, что посмотреть. Сергей_<Node id="1398"/>Борисыч<Node id="1405"/> посетил и посмотрел. <Node id="1427"/>Потом<Node id="1432"/> сказал, что ему понравилось. Ну, а раз понравилось, то надо бы помочь ребятам, а, Сергей Борисович<Node id="1531"/>? Будем надеяться, что так и случится…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="610" EndNode="634">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="689" EndNode="809">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="упоминает" StartNode="689" EndNode="809">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1398" EndNode="1405">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Борисыч</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1025" EndNode="1034">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1427" EndNode="1432">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="110" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="689" EndNode="809">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="716" EndNode="809">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="806" EndNode="809">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="1025" EndNode="1034">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Url" StartNode="1289" EndNode="1313">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="716" EndNode="809">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="718" EndNode="733">
+</Annotation>
+<Annotation Id="23" Type="встречи_и_переговоры" StartNode="1398" EndNode="1531">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="689" EndNode="809">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

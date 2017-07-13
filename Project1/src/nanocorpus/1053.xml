@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Генеральный директор зеленоградского завода «Микрон» Геннадий Красников<Node id="72"/> <Node id="73"/>стал<Node id="77"/> академиком Российской академии наук.
+
+Геннадий Красников является автором 260 научных работ (в том числе 3 монографии, 32 изобретения), <Node id="214"/>с 1997 года<Node id="225"/> является членом-корреспондентом РАН, <Node id="263"/>с 2006 года<Node id="274"/> входит в состав Совета при президенте РФ по науке, технологиям и образованию, является генеральным директором ОАО «НИИМЭ и завод Микрон», руководителем бизнес-направления «Ситроникс Микроэлектронные решения».
+
+Как сообщили в пресс-службе ОАО «НИИМЭ и завод Микрон», на сегодня более 300 человек, работающих на предприятии, занимаются исследованиями и разработками. Геннадий Красников возглавляет кафедру «Субмикронная технология СБИС» Московского государственного института электронной техники.
+
+Выборы академиков и членов-корреспондентов прошли <Node id="821"/>28 мая<Node id="827"/> в рамках Общего собрания Российской академии наук, результаты тайного голосования стали известны <Node id="925"/>29 мая<Node id="931"/>. Общее число претендентов в действительные члены (академики) РАН по всем отделениям составило 226 человек, в результате голосования было выбрано 44 новых академика РАН. Геннадий Красников избирался по отделению нанотехнологий и информационных технологий.
+
+Академиком также избран ректор МГТУ имени <Node id="1230"/>Баумана<Node id="1237"/> Игорь Федоров, в иностранную часть РАН избран бывший канцлер Германии Герхард Шредер. Депутат Госдумы Артур Чилингаров<Node id="1356"/> <Node id="1357"/>стал членом-корреспондентом РАН по отделению наук о Земле.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="1356" EndNode="1357">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="821" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="73" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="214" EndNode="225">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="925" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Назначения_Увольнения" StartNode="73" EndNode="77">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="263" EndNode="274">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1230" EndNode="1237">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бауман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Кадровые_перестановки" StartNode="73" EndNode="77">
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="73" EndNode="77">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="сотрудники" StartNode="72" EndNode="73">
+</Annotation>
+<Annotation Id="18" Type="работает" StartNode="72" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="работает" StartNode="1356" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">депутат</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

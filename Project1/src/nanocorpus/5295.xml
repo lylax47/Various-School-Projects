@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В Российской корпорации нанотехнологий произошла смена власти. Президентским указом вместо Леонида Меламеда на хлопотную должность гендиректора назначен Анатолий Чубайс. Этого события все ждали. Кто - с опаской, а кто - и с надеждой. Да, репутация у главного приватизатора страны и ликвидатора РАО “ЕЭС России”, мягко говоря, неоднозначная. Но вдруг правы те, кто называет Анатолия Борисовича “выдающимся кризис-менеджером”? Если так, то Дмитрий Медведев не промахнулся. Целый <Node id="479"/>год<Node id="482"/> ушел у наноменеджеров на бесплодную “раскачку”. Настало время для срочных антикризисных мер. А Чубайс, говорят, это любит и, возможно, даже умеет. Как говорится, поживем - увидим. Следить за ситуацией вам поможет “Наноскоп”.
+ 
+Подготовили выпуск: Светлана Крымова, <Node id="748"/>Ольга КОЛЕСОВА<Node id="762"/>, Елена МОРГУНОВА, Аркадий Соснов           </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="479" EndNode="482">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="748" EndNode="762">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ольга</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

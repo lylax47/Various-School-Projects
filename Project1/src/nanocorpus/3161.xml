@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Максимальное число инвестиций в исследования и разработки «чистых технологий» получили компании, расположенные в штате Калифорния, в котором сосредоточен основной инвестиционный капитал
+
+Каждый американский штат хотел бы стать <Node id="228"/>Кремниевой Долиной<Node id="246"/> для чистых технологий. Но основные деньги на это следующее большое мероприятие в хайтеке идут как раз в штат, где исторически сосредоточился инвестиционный капитал – штат Калифорния, или <Node id="434"/>Кремниевая Долина<Node id="451"/> (так названный из-за того, что именно здесь расположены большинство компьютерных компаний). Исследование, проведенное фондом <Node id="577"/>Доу Джонсона<Node id="589"/> (Dow Jones VentureSource), указывает, что более половины всего инвестиционного капитала, вложенного в чистые технологии в <Node id="712"/>2007 г.<Node id="719"/> в США, пришлось именно на калифорнийские компании – 66 из них, расположенные от <Node id="800"/>Сан Хосе<Node id="808"/> до <Node id="812"/>Сан Франциско<Node id="825"/>, получили <Node id="836"/>1,3 млрд. долларов<Node id="854"/> В целом, в США 159 компаний, работающих над чистыми технологиями, получили в <Node id="932"/>2007 г.<Node id="939"/> финансирование в размере <Node id="965"/>2,5 млрд. долларов<Node id="983"/>, что составляет <Node id="1000"/>83%<Node id="1003"/> от общей мировой суммы вложений в эту область исследований (приблизительно <Node id="1079"/>3 млрд. долларов<Node id="1095"/>).
+
+Джессика Каннинг (Jessica Canning), директор глобальных исследований в фонде <Node id="1176"/>Доу Джонсона<Node id="1188"/>, заметила, что инвесторы предпочитают своих ближайших соседей, и не только потому, что они покупают акции компаний, где они служат консультантами, хотя и от этого трудно дистанцироваться.
+
+В какие отрасли предпочитают вкладывать деньги инвесторы? Самая большая часть инвестиций (<Node id="1468"/>30%<Node id="1471"/>) приходится на солнечную энергетику, затем идет транспорт (<Node id="1531"/>14%<Node id="1534"/>) и биотопливо (<Node id="1550"/>12%<Node id="1553"/>). Самую большую сумму в <Node id="1578"/>2007 г.<Node id="1585"/> получила компания-производитель электромобилей (Palo Alto, Калифорния) – <Node id="1659"/>200 млн. долларов<Node id="1676"/> на проект «Самый лучший город» (Better Place), связанный с разработкой инфраструктуры для обслуживания электромобилей.
+Распределение инвестиций в чистые технологии по американским штатамРаспределение инвестиций в чистые технологии по промышленным категориям в <Node id="1937"/>2007 г.<Node id="1944"/> (США)</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="932" EndNode="939">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1000" EndNode="1003">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="800" EndNode="808">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хосе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="712" EndNode="719">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1659" EndNode="1676">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1550" EndNode="1553">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1176" EndNode="1188">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джонсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1079" EndNode="1095">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="1468" EndNode="1471">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="812" EndNode="825">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Франциско</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="434" EndNode="451">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Долина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Персона" StartNode="228" EndNode="246">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Долина</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="836" EndNode="854">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="577" EndNode="589">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джонсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="1578" EndNode="1585">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="1531" EndNode="1534">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="1937" EndNode="1944">
+</Annotation>
+<Annotation Id="22" Type="Деньги" StartNode="965" EndNode="983">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

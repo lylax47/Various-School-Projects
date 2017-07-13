@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Иванов предложил создать центр по подготовке нанотехнологовВ России следует создать научно-методический центр, который займется подготовкой специалистов в сфере нанотехнологий, заявил вице-премьер Сергей Иванов, курирующий в правительстве в том числе эту сферу.
+ 
+«<Node id="265"/>Вероятно, необходимо подумать и над созданием мощного научно-методического центра, который будет определять облик всего процесса подготовки специалистов в области нанотехнологий», – сказал Иванов<Node id="460"/>, выступая в среду на заседании правительственной комиссии по высоким технологиям и инновациям.
+ <Node id="557"/>Иванов вновь отметил, что <Node id="583"/>в этой сфере России нужна «разветвленная, опирающаяся на современные технологии и передовую материально-техническую базу образовательная сеть»<Node id="725"/>.
+ <Node id="728"/>Иванов заметил, что все действия министерств и ведомств в этой связи «должны быть четко просчитаны и максимально скоординированы»<Node id="857"/>. <Node id="859"/>При этом ключевая роль здесь, без сомнения, принадлежит <Node id="915"/>Минобрнауке<Node id="926"/>, – добавил Иванов<Node id="944"/>. <Node id="946"/>http://www.vz.ru/…/203795.htmlИванов<Node id="982"/> призывает научные организации к здоровому прагматизмуМОСКВА, <Node id="1044"/>3 сен<Node id="1049"/> – Государственные научные организации должны заняться конкретным делом, заявил вице-премьер РФ Сергей Иванов, который координирует работу федеральных органов исполнительной власти, в частности, по вопросам реализации госполитики в области науки 
+«<Node id="1297"/>Хватит строить "воздушные замки», пора заниматься конкретным делом, опираясь исключительно на здоровый прагматизм", – сказал Иванов<Node id="1428"/>, выступая в среду на заседании правительственной комиссии по высоким технологиям и инновациям.
+  «Государство будет поддерживать только те научные организации, которые выдают на-гора конкретный товар или продукцию», – отметил он.
+  «Считаю: оценка результативности должна стать основой реструктуризации государственного сектора науки», – сказал вице-премьер.
+ 
+По его мнению, только постоянный мониторинг и регулярная оценка результативности деятельности могут обеспечить принятие обоснованных решений, касающихся как развития научно-технического комплекса в целом, так и господдержки конкретных организаций.
+ Он вновь подчеркнул, что «бюджетные деньги прежде всего будут выделяться туда, где от них действительно есть максимальная отдача».
+ Вместе с тем, он призвал взвешенно подойти к решению данного вопроса.
+<Node id="2241"/>http://www.rian.ru<Node id="2259"/>/…0935394.htmlДа, вот выступил тов. Иванов С.Б., и ещё не известно, КАК к этому отнесутся у нас «профессиональные педагоги» (говорю без иронии) – захотят ли они, чтобы над ними кроме «основного начальника» (<Node id="2466"/>Минобрнаука<Node id="2477"/>) появился ещё один «начальник» – ещё один «помощник» или ещё один «надсмотрщик»? Тов. Иванов С.Б. там вообще много чего наговорил. Что касается «другой» части его выступления (см. вторую заметку этого же сообщения) в отечественных СМИ поднялась уже буря возмущённых откликов – в первую очередь представителей академической науки. Конечно, я могу ошибаться, но боюсь, что Сергей_Борисычу теперь вообще будет не «отмазаться» и сможет ли он дальше (спокойно) работать на своём – не очень маленьком – посту?… Не знаю, не знаю…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="728" EndNode="857">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2241" EndNode="2259">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="265" EndNode="1428">
+</Annotation>
+<Annotation Id="4" Type="темы" StartNode="583" EndNode="725">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1044" EndNode="1049">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="915" EndNode="926">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Минобрнаук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="859" EndNode="944">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="859" EndNode="926">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="цитаты" StartNode="583" EndNode="725">
+</Annotation>
+<Annotation Id="12" Type="высказывания_заявления" StartNode="728" EndNode="857">
+</Annotation>
+<Annotation Id="13" Type="упоминает" StartNode="265" EndNode="1428">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="946" EndNode="982">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="1297" EndNode="1428">
+</Annotation>
+<Annotation Id="21" Type="темы" StartNode="859" EndNode="926">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="557" EndNode="725">
+</Annotation>
+<Annotation Id="22" Type="упоминается" StartNode="265" EndNode="1428">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="высказывания_заявления" StartNode="265" EndNode="460">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="265" EndNode="1428">
+</Annotation>
+<Annotation Id="31" Type="автор" StartNode="265" EndNode="460">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="557" EndNode="725">
+</Annotation>
+<Annotation Id="34" Type="Персона" StartNode="2466" EndNode="2477">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминается</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">цитаты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Минобрнаук</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="высказывания_заявления" StartNode="1297" EndNode="1428">
+</Annotation>
+<Annotation Id="33" Type="автор" StartNode="859" EndNode="944">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

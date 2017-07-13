@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Биоинженеры Томас Вебстер (Thomas Webster) и <Node id="46"/>Карен Хаберстрох<Node id="62"/> (Karen Haberstroh) из Университета Брауна (Brown University) установили, что клетки по-разному ведут себя с материалами различного структурирования.
+
+Как показали эксперименты ученых, клетки очень «чувствительно» воспринимают различные поверхностные шероховатости.
+
+Как сообщает пресс-служба Brown University, в качестве подложки Томас и <Node id="401"/>Карен<Node id="406"/> выбрали титан и полимеры, использующиеся в имплантах для кровеносной системы. Это кусочки «искусственных капилляров» – маленькие цилиндры диаметром менее 6 миллиметров.
+
+Проблема биологической совместимости искусственных капилляров стоит достаточно остро. В течении <Node id="673"/>последних пяти лет<Node id="691"/> накоплен богатый материал об отторжении этих материалов несмотря на химические иммуноподавители, поэтому исследование <Node id="810"/>Вебстера<Node id="818"/> и <Node id="821"/>его<Node id="824"/> коллег направлено на улучшение совместимости подобных имплантов.
+
+Эксперименты проводились на эндотелиальных клетках. Были сформированы различные шаблоны на поверхностях материалов. <Node id="1007"/>Затем<Node id="1012"/> на них культивировались эндотелиальные клетки.
+
+Как оказалось, шаблон на поверхности материалов, сопоставимый с размерами и морфологией клеток, был самым оптимальным – клетки быстро колонизовали этот тип материала и не отторгались. В случае же с «гладким» материалам было установлено быстрое отторжение клеток.
+
+Следующим шагом ученых будет имплантирование участков искусственной кровеносной системы в организм животных.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="821" EndNode="824">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="401" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Карен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="810" EndNode="818">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вебстер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="673" EndNode="691">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="46" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Карен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1007" EndNode="1012">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

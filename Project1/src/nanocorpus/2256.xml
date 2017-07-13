@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Французское <Node id="13"/>правительство<Node id="26"/> согласилось поддержать идею создания «мирового центра для разработок 32-нм и 22-нм КМОП технологий» в Crolles и Grenoble.
+
+<Node id="150"/>Правительство<Node id="163"/> выделит <Node id="172"/>5,65 млрд. долл.<Node id="188"/> субсидии на реализацию Программы «Nano 2012» (другое название Программы «Crolles3» и она является продолжением программы «Crolles2», стартовавшей в <Node id="337"/>2000 г.<Node id="344"/>). Программа разрабатывается STMicroelectronics, IBM, CEA (Commissariat à l'énergie atomique) и местной администрацией.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="172" EndNode="188">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="13" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="337" EndNode="344">
+</Annotation>
+<Annotation Id="5" Type="Властная_Структура" StartNode="150" EndNode="163">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

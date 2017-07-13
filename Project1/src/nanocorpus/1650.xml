@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+Электронная промышленность вскоре получит ряд полезных технологий производства нанострктур. Именно так можно охарактеризовать <Node id="349"/>прошедшую неделю<Node id="365"/>. Вполне возможно, что многие из открытых учеными эффектов будут «воплощены в реальность» уже через 2–<Node id="467"/>3 года<Node id="473"/>. Будем надеяться, что нанотехнологии дадут дальнейшее развитие не только электронной промышленности.
+Итак, – nanoWeek 21
+Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="467" EndNode="473">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="349" EndNode="365">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

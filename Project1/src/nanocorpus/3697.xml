@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанопроволочное покрытие для протезовТитановые имплантаты широко применяются для замены поврежденных костей. Однако мышечная ткань не может хорошо закрепиться на гладкой поверхности, что может привести к необходимости замены протеза и, следовательно, к повторному хирургическому вмешательству.Cтруктура поверхности титановых сеток в зависимости от концентрации раствора NaOH (240°C, 4 ч): a, b – 0,25 M; c, d – 0,5 M; e, f – 1,0 M
+Исследователи из университета Арканзаса (University of Arkansas) и университета Нью-Мехико (University of New Mexico) определили, что покрытие имплантатов <Node id="586"/>нанопроволоками<Node id="601"/> диоксида титана позволяет устранить эту неприятность. Более того, оказалось, что живые ткани мышей крепко соединяются с таким покрытием уже за <Node id="745"/>четыре недели<Node id="758"/>.
+
+Для изготовления покрытия чистая титановая подложка обрабатывается раствором гидроксида натрия при 160–250°C в течение 2–10 ч. Это приводит к образованию макропористых каркасов из <Node id="941"/>нанопроволок<Node id="953"/> TiO2, полностью покрывающих подложку.
+
+Ученые утверждают, что путем изменения температуры реакции и концентрации NaOH они могут легко контролировать структуру каркаса – длину <Node id="1129"/>нанопроволок<Node id="1141"/>, пористость и т.п.
+
+Более того, покрытие очень просто стерилизовать, поместив изделие в воду и облучив его ультрафиолетом. При этом погибают <Node id="1283"/>более 99%<Node id="1292"/> бактерий, находившихся на поверхности. Или же можно выдержать имплантат в <Node id="1367"/>70%<Node id="1370"/> растворе этанола.
+В обоих случаях нанопроволочный каркас не деградирует и не утрачивает своих свойств.
+<Node id="1474"/>http://www.cbio.ru/…ns/index.php?…Multifunctional<Node id="1523"/> Nanowire Bioscaffolds on <Node id="1549"/>Titaniumhttp://pubs3.acs.org/…070845a.htmlВот<Node id="1594"/> ещё одно чрезвычайно полезное открытие, которое может (и должно) найти самое широкое распространение в нашей медицине, конкретнее – в отечественной травматологии. С учётом обилия травм с переломами костей, широкое использование этого изобретения дало бы огромное число <Node id="1864"/>дней<Node id="1868"/>, <Node id="1870"/>недель<Node id="1876"/>, <Node id="1878"/>месяцев<Node id="1885"/>, «отобранных» у болезни и тем самым «сэкономленных» для самих пациентов…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="586" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1283" EndNode="1292">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1878" EndNode="1885">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1870" EndNode="1876">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1474" EndNode="1523">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1864" EndNode="1868">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1367" EndNode="1370">
+</Annotation>
+<Annotation Id="11" Type="Нанопроволока" StartNode="941" EndNode="953">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="745" EndNode="758">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1549" EndNode="1594">
+</Annotation>
+<Annotation Id="14" Type="Нанопроволока" StartNode="1129" EndNode="1141">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

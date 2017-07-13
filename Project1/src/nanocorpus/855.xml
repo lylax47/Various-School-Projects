@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  
+Сайт НАНОМЕТР проводит небольшой социологический опрос, результаты которого могут быть очень интересны для нас и всех наших читателей. Пожалуйста, если у Вас есть время, найдите <Node id="181"/>несколько минут<Node id="196"/> и ответьте коротко на вопросы анкеты. <Node id="235"/>Затем<Node id="240"/> Вы или Ваши коллеги и друзья могут послать ответы в отсканированном (если Вы использовали файл АНКЕТА.PDF) или электронном виде (если Вы использовали файл АНКЕТА.DOC)  
+ 
+ по адреcу: <Node id="424"/>goodilin@inorg.chem.msu.ru<Node id="450"/>  или почтой: 119992, Москва, Ленинские горы, Химический факультет МГУ, кафедра неорганической химии, Гудилину Евгению Алексеевичу    
+ 
+ Результаты опроса будут опубликованы <Node id="625"/>1 Мая<Node id="630"/> на сайте <Node id="640"/>www.nanometr.ru<Node id="655"/> !   Файлы с вопросами даны ниже (приведены соответствующие ссылки).    
+ 
+          
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="640" EndNode="655">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Электронная_почта" StartNode="424" EndNode="450">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="181" EndNode="196">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="235" EndNode="240">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="625" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

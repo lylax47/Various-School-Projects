@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Казанские депутаты освободили технопарки от уплаты земельного налогаКазань, <Node id="76"/>25 октября<Node id="86"/> – Сегодня на XXIII сессии <Node id="113"/>Казанской городской Думы<Node id="137"/> депутаты проголосовали за освобождение технопарка «Идея» и технополиса «Химград» от уплаты земельного налога в <Node id="249"/>2008 году<Node id="258"/>.
+ 
+«Приоритетные направления деятельности технопарков в Казани – это нефтехимия, инновационные технологии, а также биотехнологии и нанотехнологии. Чтобы сделать площадки технопарков более привлекательными, на уровне республиканского Правительства оказывается государственная поддержка в виде предоставления льгот по уплате налога на имущество. На уровне городского округа это могут быть льготы по земельному налогу», – проинформировал депутатов начальник финансового управления исполкома Казани Оскар Прокопьев.
+ 
+Глава ведомства заметил, что принятие данного решения не приведет в <Node id="841"/>2008 году<Node id="850"/> к выпадающим доходам из бюджета Казани.
+ 
+«<Node id="894"/>Правительством выделяются серьезные суммы для развития новейших технологий на территории технопарков. В этом плане, кроме нашего горячего желания, чтобы технопарки размещались в Казани, мы в силу ограниченного бюджета финансовой поддержки оказать не можем. Отмена земельного налога – шаг навстречу нашим предпринимателям и деятелям науки<Node id="1231"/>», – заявил мэр Казани Ильсур Метшин<Node id="1267"/>.
+ <Node id="1270"/>http://tatar-inform.ru/news/kazan/?…Вот<Node id="1309"/> молодцы!.. Не могут помочь деньгами, так хоть льготами по налогам… Пример, достойный подражания!.. Молодцы казанские власти!!!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="894" EndNode="1267">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="894" EndNode="1267">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="113" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Казанской городской Думы</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="894" EndNode="1267">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="841" EndNode="850">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="76" EndNode="86">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="9" Type="упоминается_с" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="841" EndNode="850">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="249" EndNode="258">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="894" EndNode="1267">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="249" EndNode="258">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1270" EndNode="1309">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="894" EndNode="1267">
+</Annotation>
+<Annotation Id="16" Type="упоминается_с" StartNode="894" EndNode="1231">
+</Annotation>
+<Annotation Id="18" Type="упоминает" StartNode="894" EndNode="1267">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

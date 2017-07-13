@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>А.Кокошин о встрече депутатов от «Единой России» с <Node id="51"/>В.Путиным<Node id="60"/> 
+«Сегодня на встрече президента России Владимира Путина с депутатами фракции ‹Единая Россия› среди центральных тем был вопрос о построении в России инновационной экономики, развитии ряда наукоемких производств, которые определяют и нашу конкурентоспособность и обеспечивают национальную безопасность страны», – заявил для СМИ депутат Госдумы, член Генерального совета партии ‹Единая Россия› Андрей Кокошин, возглавляющий партийный проект ‹единороссов› «Фабрика мысли».
+  
+«<Node id="534"/>Одно из важнейших направлений нашей деятельности в этом направление – обеспечение масштабных исследований и разработок в области нанотехнологий, которые формируют содержание и облик грядущей новой фазы постиндустриальной цивилизации», – сказал Кокошин<Node id="785"/>.
+ 
+Как отметил Кокошин,
+ 
+‹Единая Россия› в <Node id="830"/>настоящее время<Node id="845"/> активно работает над реализацией в промышленных масштабах целой серии разработок по нанотехнологиям, которые имеются в нескольких научных и научно-образовательных центрах России'.
+ 
+<Node id="1028"/>По словам Кокошина, <Node id="1048"/>широкое фронтальное продвижение вперед в освоении нанотехнологий требует, в свою очередь, создания в стране по крайней мере дюжины суперкомпьютерных центров на основе отечественных технологий; этим сейчас и занимается ‹Единая Россия›, о чем, в том числе, говорил сегодня в своем выступлении на встрече с Президентом России лидер ‹единороссов› Борис Грызлов<Node id="1404"/>.
+<Node id="1406"/>http://www.kreml.org/news/153607993А.Кокошин<Node id="1450"/> – голова!.. Но, видать, он тоже служит лоббистом у «кое-кого», ибо причём тут «дюжина суперкомпьютерных центров на основе отечественных технологий»? Очевидно, уже многие ребята из «смежных» отраслей начали пускать слюну на кусок огромного нано-пирога… Но всё равно, дело это хорошее. Пусть будет… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="упоминается_с" StartNode="1048" EndNode="1404">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="51" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Путин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="1048" EndNode="1404">
+</Annotation>
+<Annotation Id="9" Type="темы" StartNode="1048" EndNode="1404">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="упоминается" StartNode="534" EndNode="1404">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1406" EndNode="1450">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1028" EndNode="1404">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1028" EndNode="1404">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="830" EndNode="845">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="упоминает" StartNode="534" EndNode="1404">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="534" EndNode="785">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="534" EndNode="785">
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="цитаты" StartNode="1048" EndNode="1404">
+</Annotation>
+<Annotation Id="27" Type="упоминает" StartNode="534" EndNode="1404">
+</Annotation>
+<Annotation Id="26" Type="цитаты" StartNode="1048" EndNode="1404">
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="534" EndNode="1404">
+</Annotation>
+<Annotation Id="31" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

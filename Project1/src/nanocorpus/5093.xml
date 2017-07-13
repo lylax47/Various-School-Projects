@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>К <Node id="2"/>концу года<Node id="12"/> у ТюмГУ появится корпус №13Уже к <Node id="46"/>концу 2008 года<Node id="61"/> Тюменский государственный университет планирует ввести в строй тринадцатый по счету учебно-лабораторный корпус. В здании по улице Ленина, 23, разместится университетский технопарк и центр нанотехнологий. Об этом на пресс-конференции <Node id="295"/>9 июня 2008 года<Node id="311"/> сообщил ректор Тюменского госуниверситета Геннадий Чеботарев<Node id="372"/>.<Node id="373"/> Помимо этого, сейчас ведутся отделочные работы в четвертом по счету общежитии ТюмГУ. <Node id="459"/>По словам Геннадия Чеботарева, в новом общежитии будут проживать в том числе и иностранные студенты – в первую очередь китайские и французские<Node id="601"/>.
+Г-н <Node id="607"/>Чеботарев напомнил, что <Node id="631"/>в рамках инновационной программы Тюменский госуниверситет получил на развитие около полумиллиарда рублей<Node id="735"/>. Сегодня на покупку учебного и научно-исследовательского оборудования потрачено уже <Node id="820"/>183 миллиона рублей<Node id="839"/>.
+ Отдельным направлением стало повышение квалификации преподавателей. В <Node id="912"/>2008 году<Node id="921"/> на эти цели планируется потратить <Node id="956"/>около пяти миллионов рублей<Node id="983"/>. <Node id="985"/>В прошлом<Node id="994"/> <Node id="995"/>году<Node id="999"/> повышение квалификации прошло около ста преподавателей, в том числе 35 – в зарубежных университетах. Кирилл <Node id="1108"/>Онищенкоhttp://72.ru/…e/33003.htmlНу<Node id="1144"/> вот, потихоньку-полегоньку прирастает инфраструктура отечественных нанотехнологий… Деньги, оборудование, кадры – всё это, конечно, необходимо, но ведь и без «учебно-производственных площадей» никакое дело не начнёшь… Так что молодцы тюменцы! Так держать!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="цитаты" StartNode="631" EndNode="735">
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="607" EndNode="735">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="372" EndNode="373">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="372" EndNode="373">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="упоминается" StartNode="459" EndNode="735">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="459" EndNode="601">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="631" EndNode="735">
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="459" EndNode="735">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="607" EndNode="735">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="46" EndNode="61">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="912" EndNode="921">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2" EndNode="12">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="295" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="985" EndNode="994">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="459" EndNode="601">
+</Annotation>
+<Annotation Id="15" Type="Url" StartNode="1108" EndNode="1144">
+</Annotation>
+<Annotation Id="17" Type="Деньги" StartNode="820" EndNode="839">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="956" EndNode="983">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="912" EndNode="921">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="995" EndNode="999">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

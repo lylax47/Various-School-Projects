@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Развитие наноиндустрии недостаточно обеспечивается нормативно-правовой базой, считает вице-премьер Сергей Иванов. Этим пользуются и жулики, которые прикрываясь популярным термином, рекламируют различные товары, произведенные, якобы, с применением нанотехнологий.
+
+«Несмотря на то, что значение наноиндустрии для будущего страны уже общепризнано, и государством принимаются конкретные шаги для ее развития, законодательный процесс у нас объективно пробуксовывает», – заявил он на заседании <Node id="490"/>правительственной комиссии по высоким технологиям<Node id="539"/> во вторник.
+
+В частности, по его словам, до сих пор отсутствует четкое определение <Node id="623"/>наноматериалов<Node id="637"/> и нанотехнологий, нет единой нормативной базы, включающей описание их свойств.
+
+Кроме того, подчеркнул Иванов, формирование концепции обеспечения единства измерений, стандартизации, оценки соответствия и безопасности только началось.
+
+Между тем, продукция, созданная на основе нанотехнологий, уже производится, в основном в опытных экземплярах. «<Node id="984"/>Одновременно этим пользуются различные жулики, проходимцы, мошенники, которые, пользуясь брендом, выпускают косметические кремы, антикоррозийные покрытия для автомобилей, то есть, действительно, время не стоит на месте», – подчеркнул Иванов<Node id="1224"/>.
+
+В этой связи он обратил внимание комиссии на необходимость определиться, нужен ли России специальный закон в сфере наноиндустрии. «Если да, то давайте в кратчайшие сроки мы его разработаем, направим в <Node id="1428"/>Государственную Думу<Node id="1448"/>, посмотрим отношение депутатов к этому, но ничего не делать нельзя», – цитирует вице-премьера «Интерфакс».
+
+<Node id="1557"/>Если такой закон не нужен, то, по словам Иванова, можно подготовить поправки в законодательство<Node id="1652"/>. «<Node id="1655"/>Но мы должны создать какую-то понятную нормативно-правовую базу», – отметил <Node id="1731"/>он<Node id="1733"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="1557" EndNode="1652">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="490" EndNode="539">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительственной комиссии по высоким технологиям</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1731" EndNode="1733">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="1557" EndNode="1652">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="623" EndNode="637">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="1655" EndNode="1733">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="984" EndNode="1224">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Властная_Структура" StartNode="1428" EndNode="1448">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Государственную Думу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1655" EndNode="1733">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="984" EndNode="1224">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

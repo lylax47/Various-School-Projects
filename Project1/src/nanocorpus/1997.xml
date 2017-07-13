@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В институт передовых технологий компании Samsung (Корея) требуется специалист в области высокомолекулярных соединений. 
+ 
+ 
+Предстоит работа по созданию нового теплоизоляционного композитного материала на основе полистирола и полиуретана.
+ 
+ 
+Желательно знание современных научных тенденций в данной области, основ получения <Node id="327"/>нанопорошков<Node id="339"/>, <Node id="341"/>нанокомпозитов<Node id="355"/>, технологии получения аэрогелей в том числе криогенной сушки.
+ 
+ Требования к кандидатам:   степень кандидата наук  опыт работы в данной области от <Node id="504"/>5 лет<Node id="509"/>  владение английским языком на уровне достаточном для профессионального общения   
+ 
+Резюме принимаются в свободной форме на английском языке. 
+Файлы отправлять на электронный адрес ilya.goldt@samsung.com. 
+ 
+По всем дополнительным вопросам можно обращаться к Илье Гольдту 
+по тел. (495) 797 2591 
+или электронной почте <Node id="830"/>ilya.goldt@samsung.com<Node id="852"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокомпозит" StartNode="341" EndNode="355">
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="830" EndNode="852">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="504" EndNode="509">
+</Annotation>
+<Annotation Id="3" Type="Нанопорошок" StartNode="327" EndNode="339">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Североамериканский солнечный поединок (North American Solar Challenge) – это соревнование в конструировании, изготовлении и управлении электромобилями на солнечных элементах. Эти соревнования проводятся каждые <Node id="211"/>два года<Node id="219"/>, начиная <Node id="229"/>с 1990 г.<Node id="238"/> В <Node id="241"/>2008 году<Node id="250"/> гоночная трасса протянется почти на 4000 км (2400 mile) от Далласа (Техас, США) до Калгари (Канада). Десятидневная гонка будет проводится <Node id="389"/>с 13 по 22 июля с.г.<Node id="409"/>
+
+Детали гонки и фото автомобилей можно увидеть на сайте.
+
+В гонке принимают участие 24 команды американских университетов (в основном), а также команды из Канады, Германии и Великобритании. <Node id="600"/>Специальный комитет<Node id="619"/> проводит предварительный технический контроль и сертификацию каждого автомобиля.
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="389" EndNode="409">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="241" EndNode="250">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="600" EndNode="619">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Специальный комитет</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="229" EndNode="238">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="211" EndNode="219">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="241" EndNode="250">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

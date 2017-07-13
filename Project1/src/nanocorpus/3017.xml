@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На фотографии изображена поверхность трубчатой пленки оксида титана, полученного в результате анодного окисления. При неудачном выборе условий окисления верхние части <Node id="169"/>нанотрубок<Node id="179"/> оксида титана растворяются в электролите, а после окончания синтеза – агрегируют друг с другом, и поверхность пленки, контактировавшая с электролитом выглядит гладкой. При высыхании вблизи поверхности пленки возникаю напряжения и образуются трещины, складывающиеся в причудливые узоры. Фотография получена на растровом электронном микроскопе LEOSupra 50 VP и обработана в цвете с помощью графического редактора. Размер изображения 284*217 мкм.     
+ 
+      
+ 
+  
+ 
+                                                                                                                                                                                      
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="169" EndNode="179">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

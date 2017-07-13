@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи Брукхейвенской национальной лаборатории (Brookhaven National Laboratory) сообщили об открытии физического эффекта, который может стать основой получения нового класса высокотемпературных сверхпроводников.
+
+Высокотемпературными сверхпроводниками принято называть искусственные материалы, которые обретают нулевое электрическое сопротивление уже при охлаждении до многих десятков градусов по абсолютной шкале. Этим они отличаются от чистых металлов и многих сплавов, которые переходят в сверхпроводящее состояние только при температурах в несколько градусов выше абсолютного нуля.
+
+Новая сверхпроводящая структура представляет из себя тонкую двуслойную пленку, состоящую из металлических окислов. Один слой этого сандвича является изолятором, в то время как второй обладает металлическими свойствами, но не становится сверхпроводником, как бы его ни охлаждать.
+
+Однако между слоями возникает пограничная зона толщиной в 2–3 нанометра, которая переходит в сверхпроводящее состояние при температурах от 15 до 30 градусов <Node id="1032"/>Кельвина<Node id="1040"/>.
+
+Температуру перехода можно довести более чем до 50 градусов по абсолютной шкале, если подвергнуть пленку воздействию озона. Природа этого явления пока остается под вопросом, однако руководитель группы Иван Бозович [Ivan Bozovic] и <Node id="1274"/>его<Node id="1277"/> коллеги полагают, что его изучение принесет немало сюрпризов. Предварительные результаты подготовлены к публикации (V. Butko, G. Logvenov, N. Bozovic, Z. Radovic and I. Bozovic, “Madelung Strain in Cuprate Superconductors – A Route to Enhancement of the Critical Temperature”, submitted to Nature Materials, 2008).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1274" EndNode="1277">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1032" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кельвин</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

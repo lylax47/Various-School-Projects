@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Радиостанция «Эхо Москвы» по средам проводит передачу Большой Дозор (<Node id="70"/>совместно<Node id="79"/> с Ведомостями)Ведущие: Бычкова Ольга , Осетинская Елизавета , Трудолюбов Максим
+Время выхода в эфир: среда, 21:08
+Следующий выпуск передачи: Среда, <Node id="228"/>18.06.2008<Node id="238"/> <Node id="239"/>Тема<Node id="243"/>: Кто должен заниматься инновациями: государство или частный бизнес? Гости: Леонид Меламед – генеральный директор российской корпорации Нанотехнологий Ведущие: Ольга Бычкова, Елизавета Осетинская
+<Node id="439"/>http://www.echo.msk.ru/programs/dozor/Вопросы<Node id="484"/> уже можно задавать <Node id="504"/>здесь:http://www.echo.msk.ru<Node id="532"/>/…-echo/q.htmlПо-моему, это дебют на радио для нашего «героя». И темку ему подобрали соответствующую… Но наверняка всё же речь пойдёт о развитии нанотехнологий в нашей стране… Давайте спросим нашего «главного нанотехнолога» – ЧТО, КАК, ГДЕ, КОГДА и ПОЧЕМУ?… Я думаю, может получиться интересный разговор. Заходите!.. Тем более что радио «Эхо Москвы» можно слушать по всей планете – с помощью прямой Интернет-трансляции <Node id="951"/>(http://www.echo.msk.ru<Node id="974"/>/sound.html)…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="239" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тема</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="951" EndNode="974">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="439" EndNode="484">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="228" EndNode="238">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">06</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Партнеры_Клиенты" StartNode="70" EndNode="79">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="504" EndNode="532">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

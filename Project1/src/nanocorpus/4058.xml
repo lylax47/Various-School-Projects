@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Группа ученых из Cambridge University смогла заснять «живое» видео о том, как формируются <Node id="91"/>углеродные <Node id="102"/>нанотрубки<Node id="112"/>. Напомним, что эти объекты в 10000 раз тоньше человеческого волоса. 
+ 
+Трубки были получены методом каталитического осаждения из паровой фазы (catalytic CVD). В качестве катализатора использовались наноостровки никеля, над которыми пропускался ацетилен. 
+  
+Ролики доступны по адресу <Node id="397"/>http://www.admin.cam.ac.uk/news/special/20070301/<Node id="446"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="102" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="397" EndNode="446">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="91" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

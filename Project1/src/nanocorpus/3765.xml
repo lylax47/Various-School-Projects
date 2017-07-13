@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как установили исследователи из Тайваня, <Node id="42"/>золотые <Node id="50"/>наночастицы<Node id="61"/> могут помочь в дантистике для лечения зубов с повышенной чувствительностью.
+
+Команда ученых из Национальной Лаборатории Chung-Cheng во главе с Вонгом (C R Wang) сумела приспособить <Node id="243"/>золотые <Node id="251"/>наночастицы<Node id="262"/> для более эффективной зубоврачебной терапии. Как говорят ученые, новый метод обработки зубов сможет пройти клинические испытания уже через 12–<Node id="405"/>24 месяца<Node id="414"/>.
+
+Чувствительные участки зубов содержат большое количество соединительных микротрубок-тубул, через которые жидкость попадает внутрь зуба. При лечении зуба могут возникать деформации микротрубкок-тубул, из-за чего повреждаются нервные окончания, связанные ними на переходе пульпа-дентин. Поэтому в процессе лечения таких зубов у пациентов могут возникать неприятные ощущения.
+
+Однако тайваньские ученые нашли способ «залепить» 30-нанометровые отверстия микротрубок таким образом, чтобы не повредить нервные окончания.
+
+С помощью специальной щетки <Node id="961"/>золотые <Node id="969"/>наночастицы<Node id="980"/> наносились на обрабатываемую тестовую поверхность, представляющую собой участок настоящего человеческого зуба. Как показала микроскопия, <Node id="1118"/>наночастицы<Node id="1129"/> проникли в микротрубки на глубину до 2х микрон. Для закрепления их в этом положении поверхность с <Node id="1228"/>наночастицами<Node id="1241"/> обрабатывалась лазером, расположенном в 10 сантиметрах от нее.
+
+Лазер мощностью 300 мВт с длиной волны 532 нм смог сплавить <Node id="1366"/>наночастицы<Node id="1377"/> в микротрубках, образовав таким образом их закупорку. Обработка происходила 5 раз <Node id="1460"/>через 30 секунд<Node id="1475"/>, иначе исследователи могли разрушить зуб.
+
+После агломерации <Node id="1537"/>наночастиц<Node id="1547"/> зуб можно в прямом смысле слова безболезненно лечить.
+
+Результаты, полученные учеными, достаточно обнадеживающие, поэтому Вонг и его коллеги собираются продолжать совершенствовать метод для его испытания в клинических условиях.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1366" EndNode="1377">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1460" EndNode="1475">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="243" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="50" EndNode="61">
+</Annotation>
+<Annotation Id="4" Type="Наночастица+золота" StartNode="42" EndNode="61">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="1118" EndNode="1129">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="969" EndNode="980">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="251" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1228" EndNode="1241">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1537" EndNode="1547">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="405" EndNode="414">
+</Annotation>
+<Annotation Id="14" Type="Наночастица+золота" StartNode="961" EndNode="980">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

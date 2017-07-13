@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Д. И. Рыжонков, В. В. Лёвина, <Node id="30"/>Э. Л. ДзидзигуриНаноматериалы<Node id="59"/>: учебное пособие – М., 2009, 368 c.
+
+Рассмотрены различные методы получения ультрадисперсных (нано-) материалов — механические, физические, химические, биологические. Обобщены современные представления об электрических, магнитных, тепловых, оптических, диффузионных, химических и механических свойствах <Node id="363"/>наноматериалов<Node id="377"/>. Подчеркнута и продемонстрирована зависимость этих свойств от структуры материала и геометрических размеров <Node id="486"/>наночастиц<Node id="496"/>. Значительное внимание уделено вопросам хранения и транспортировки <Node id="564"/>наноматериалов<Node id="578"/>.
+Для студентов, обучающихся по специальностям «Физико-химия процессов и материалов», «<Node id="665"/>Наноматериалы<Node id="678"/>», «Порошковая металлургия, композиционные материалы, покрытия», преподавателей, аспирантов, слушателей курсов повышения квалификации. Издательство: БИНОМ. Лаборатория знаний Дата выхода: 2009 ISSN: 978–5–94774–724–9 Объем: 368 стр. Тип обложки: Перепл. + цел. Формат: 60х90 1/16 Тираж: 2000 экз. Совсем свежая книга: см. <Node id="1000"/>год<Node id="1003"/> выхода! Но фактически уже сейчас она появилась в магазинах Москвы. Я сам держал её в руках во время учредительного заседания по созданию НОР. Это хорошо, что наши студенты так оперативно получают столь хорошие популярные книги. Больше книг – хороших и разных!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="665" EndNode="678">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="30" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Э.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="486" EndNode="496">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="564" EndNode="578">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1000" EndNode="1003">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="363" EndNode="377">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

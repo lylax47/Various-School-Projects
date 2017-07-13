@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+19 европейская конференция по алмазам, алмазоподобным структурам, <Node id="68"/>углеродным <Node id="79"/>нанотрубкам<Node id="90"/> и нитридам DIAMOND-2008 состоится <Node id="125"/>7-11 сентября<Node id="138"/> в Испании в городе Ситгес (Sitges). 
+ 
+Тематика конференции: 
+  Методы исследований;  Электронные, фотоэлектронные свойства, применения и устройства;  Механические и термическеи свойства, применения;  Электрохимия, биологически-активные поверхности;  <Node id="390"/>Углеродные <Node id="401"/>нанотрубки<Node id="411"/>;  Алмазопобный углерод;  III-нитриды;   
+ 
+Возможна частичная оплата финансовых расходов студентам, представивших доклады на конференцию 
+ 
+В рамках конференции проводится конкурс студенческих работ с вручением премий. 
+Срок подачи тезисов - до <Node id="657"/>07 марта 2008 г.<Node id="673"/> 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="125" EndNode="138">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="657" EndNode="673">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="401" EndNode="411">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="390" EndNode="411">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="79" EndNode="90">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="68" EndNode="90">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

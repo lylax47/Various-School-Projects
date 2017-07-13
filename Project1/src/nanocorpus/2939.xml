@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Российский фонд фундаментальных исследований (РФФИ) и Европейский центр ядерных исследований (ЦЕРН) в соответствии с «Соглашением о научном сотрудничестве между РФФИ и ЦЕРН» объявляют конкурс <Node id="193"/>2008 года<Node id="202"/> на получение финансовой поддержки для проведения фундаментальных научных исследований в области физики высоких энергий и информатики (конкурс ЦЕРН_а). 
+В рамках конкурса поддерживаются исследования, совместно выполняемые российскими и зарубежными учеными и представляющие обоюдный интерес. 
+ 
+Подробности на сайте РФФИ.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="193" EndNode="202">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="193" EndNode="202">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

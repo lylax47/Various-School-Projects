@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из Технологического Института Джорджии (Georgia Institute of Technology) сконструировали матрицу быстродействующих полевых транзисторов на основе <Node id="161"/>фуллеренов<Node id="171"/> С__60__ .
+
+Новые нанотранзисторы характеризуются большей мобильностью зарядов чем в аморфном кремнии, а их производство может проходить при комнатных температурах.
+
+Профессор <Node id="347"/>Бернард Киппелен (Bernard Kippelen) говорит, что органические полупроводники – достаточно новый и перспективный материал в наноэлектронике<Node id="485"/>. На основе гибких органических пленок можно будет производить целый ряд полупроводниковых устройств, которые тоже можно будет изгибать без нарушения их работоспособности.
+
+При этом области применения органической наноэлектроники неограниченны: от дисплеев и огромных активных электронных бигбордов до RFID-меток и гибких компьютеров.
+
+<Node id="821"/>На сегодняшний день<Node id="840"/> Киппелен и <Node id="852"/>его<Node id="855"/> коллеги смогли получить одиночные полевые транзисторы на основе органических листов, содержащих <Node id="952"/>фуллеренов<Node id="962"/> С__60__. Как говорят ученые, мобильность электронов в них достаточно велика, и составляет около 6 см^^2^^/(В/с).
+
+Но пока не стоит рисовать фантастические картины о новой наноэлектронной – С__60__ эре. Для получения реальных работающих продуктов еще следует найти способы, как преодолеть существенные недостатки фуллереновой электроники.
+
+Во-первых, рекордный показатель мобильности зарядов был достигнут при использовании горячей эпитаксии при температуре 250ºС, что делает невозможным производство гибкой электроники. А те образцы, которые производятся при комнатной температуре, имеют показатель мобильности электронов от 2.7 до 5 см^^2^^/(В/с).
+
+Кроме этого, нанотранзисторы не могут работать в кислородной атмосфере. Прототипы Киппелена требуют азот в качестве окружения. Однако профессор уверен, что ему удастся преодолеть это препятствие, используя другие виды <Node id="1831"/>фуллеренов<Node id="1841"/>, в частности, с различными добавками.
+
+Несмотря на все вышеизложенные проблемы в получении С__60__ электроники, у не есть одно ощутимое достоинство – низкая стоимость производства. Не важно, что работоспособный чип на основе С__60__ будет менее быстрым, чем его CMOS-аналог, зато он будет достаточно дешевым. В таких областях, как воспроизведение видео, не требуется высокоскоростных дорогих CMOS-транзисторов, если будут достаточно дешевые С__60__ – аналоги, тем более, что готовый дисплей будет еще и гибким.
+
+Поэтому Киппелен и <Node id="2373"/>его<Node id="2376"/> коллеги достаточно оптимистично смотрят на будущее органической электроники, и считают, что при должном развитии технология может использоваться во многих коммерческих устройствах.
+
+Ученые из Джорджии работают с <Node id="2589"/>фуллеренами<Node id="2600"/> и электроникой на их основе уже <Node id="2633"/>десять лет<Node id="2643"/>, поэтому имеет смысл следить за их дальнейшими разработками.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="2633" EndNode="2643">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="852" EndNode="855">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="1831" EndNode="1841">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="347" EndNode="485">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="347" EndNode="485">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="952" EndNode="962">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="161" EndNode="171">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="821" EndNode="840">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Фуллерен" StartNode="2589" EndNode="2600">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2373" EndNode="2376">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

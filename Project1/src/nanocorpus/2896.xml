@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Центр наномедицины Московской Медицинской Академии им.И.М.Сеченова объявляет I Открытый Всероссийский Конкурс на лучший перевод научной статьи по наномедицине "NANOМЕДИЦИНА 2008". В конкурсе могут принять участие все желающие со средним знанием английского языка и интересующиеся применением нанотехнологий в медицине. Представленные номинации в <Node id="348"/>2008 году<Node id="357"/>:    Нанодиагностика.   Нанотехнологии в онкологии.   Нанотехнологии в кардиологии.   Нанотехнологии в неврологии.   НТ в профилактике, диагностике и лечении инфекционных заболеваний.   Нанотехнологии в генной терапии.   Нанотехнологии в эндокринологии.   Нанотехнологии в офтальмологии.   Нанотехнологии в хирургии.   Нанотехнологии в урологии.   Нанотехнологии в дерматологии.   Нанофармакология.   Нанофармация.   
+Лучшие работы в каждой номинации будут опубликованы в ведущих профильных научных журналах и сборнике Конкурса; победители получат приз в <Node id="912"/>5000 рублей<Node id="923"/>, диплом Центра наномедицины ММА им. И.М. Сеченова <Node id="974"/>Минздравсоцразвития<Node id="993"/>, а также возможность прослушать курс «Нанотехнологии в медицине» и поучаствовать в проводимых исследованиях. Остальные участники также получат возможность прослушать курс «Нанотехнологии в медицине». Статьи размещены в соответствующих номинациям разделахв Библиотеке Интернет-Портала Центра Наномедицины. 
+Переведенные работы перевода в формате WORD, Times New Roman, 12 шрифт, с шапкой: Название статьи на английском языке, Краткая информация об авторе перевода присылаются до <Node id="1472"/>20 июля<Node id="1479"/> на адрес: <Node id="1490"/>konkurs@nano-medicine.ru<Node id="1514"/> 
+Попробуйте свои силы и узнайте много нового!
+ Оргкомитет Конкурса  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1472" EndNode="1479">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="974" EndNode="993">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минздравсоцразвития</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="348" EndNode="357">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="912" EndNode="923">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="348" EndNode="357">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Электронная_почта" StartNode="1490" EndNode="1514">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

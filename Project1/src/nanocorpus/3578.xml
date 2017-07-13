@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Руководитель сертификационного центра ГК «Роснанотех» Виктор Иванов избран членом-корреспондентом <Node id="98"/>РАНС<Node id="102"/> <Node id="103"/>28 мая по 2 июня 2008 года<Node id="129"/> в Большом зале Российской Академии Наук проходило ежегодное Общее собрание РАН, в ходе которого были проведены выборы новых членов академии: академиков и членов-корреспондентов.
+Виктор Владимирович Иванов
+В соответствии с результатами выборов, объявленными <Node id="387"/>в четверг, 29 мая 2008 г.<Node id="412"/>, членом-<Node id="421"/>корреспондентом РАН был избран руководитель сертификационного центра ГК «Роснанотех» Виктор Иванов<Node id="519"/>.
+Виктор Владимирович является выпускником Московского физико-технического института, факультета молекулярной и химической физики. <Node id="650"/>С 1983 г.<Node id="659"/> – кандидат физико-математических наук, <Node id="699"/>с 1999 г.<Node id="708"/> – доктор физико-математических наук и <Node id="747"/>с 2001 года<Node id="758"/> – профессор Уральского государственного технического университета. С <Node id="828"/>октября 1983 г.<Node id="843"/> <Node id="844"/>он<Node id="846"/> <Node id="847"/>работал<Node id="854"/> в Физико-техническом институте УрО РАН, г. Ижевск, где прошел путь от младшего научного сотрудника до заведующего лабораторией. В <Node id="985"/>1987 году<Node id="994"/> по приглашению академика Г.А. <Node id="1025"/>Месяца<Node id="1031"/> перешёл на работу в Институт электрофизики УрО РАН, г. Свердловск (Екатеринбург). С <Node id="1116"/>мая 2002 года<Node id="1129"/> вёл большую научно-организационную работу как заместитель директора Института электрофизики УрО РАН по научным вопросам.
+ Виктор Иванов – специалист в области порошковых нанотехнологий получения новых функциональных керамических и композиционных материалов. Он заложил основы и развил новое направление синтеза объемных материалов с наноразмерной и субмикронной структурой, характеризуемых значительно улучшенными свойствами. Получен большой ряд оксидных керамик с высокими свойствами и типовых изделий на их основе для энергетических и конструкционных применений. Является автором более 140 научных работ в реферируемых изданиях и 9 патентов, отражающих широкий спектр научных интересов и достижений. <Node id="1832"/>http://www.rusnano.com/…8_06_03.htmlНу<Node id="1870"/> вот, ещё один из наших коллег удостоен чести стать членом ареопага «бессмертных». Опятm можно сказать, что «Нашего полку прибыло»! Недалеко то время, когда нанотехнологи захватят всю «эту» Академию, и тогда на Земле наступит всеобщее счастье…;-))) Разумеется, мы сердечно поздравляем Виктора Владимировича с этим замечательным достижением и желаем ему новых успехов в области развития отечественных нанотехнологий"!.. Ура!!!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="985" EndNode="994">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="103" EndNode="129">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="828" EndNode="843">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="98" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ранс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1832" EndNode="1870">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="387" EndNode="412">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="985" EndNode="994">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1025" EndNode="1031">
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="847" EndNode="854">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="1116" EndNode="1129">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="деятельность_в_контексте_выборов" StartNode="421" EndNode="519">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="650" EndNode="659">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="844" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">сотрудник</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="699" EndNode="708">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="747" EndNode="758">
+</Annotation>
+<Annotation Id="22" Type="работает" StartNode="847" EndNode="854">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">сотрудник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="участники_фигуранты" StartNode="421" EndNode="519">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Компьютерная память может стать более компактной, сообщает TechLivez. Новая разработка химиков из Brown University позволяет контролировать размер <Node id="148"/>нанотрубок<Node id="158"/>, что приводит к уплотнению элементов памяти.
+
+Ученые разработали простой способ синтеза железо-платиновых <Node id="265"/>нанотрубок<Node id="275"/> и <Node id="278"/>нанопроволок<Node id="290"/>, причем с осуществлением контроля как над размерами, так и над составом.
+
+Полученные длинные <Node id="384"/>нанотрубки<Node id="394"/> могут упаковываться так, что их магнитные поля ориентируются только в двух направлениях.
+
+Данная технология позволяет регулировать длину, диаметр и состав <Node id="550"/>нанотрубок<Node id="560"/> одновременно. Исследователи обнаружили, что при большом количестве ПАВ образуются длинные проволоки, а при большом количестве растворителя – короткие трубки. Например, соотношение ПАВ к растворителю 3:1 дает проволоки длиной 100 нм, а соотношение 1:1 – 20 нм трубки.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="148" EndNode="158">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="265" EndNode="275">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="550" EndNode="560">
+</Annotation>
+<Annotation Id="4" Type="Нанопроволока" StartNode="278" EndNode="290">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="384" EndNode="394">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

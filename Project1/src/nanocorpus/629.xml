@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>С.Иванов: РФ должна срочно ускорить работу по созданию системы стандартов в наноиндустрии<Node id="89"/>15.04.2008<Node id="99"/>, Москва – Россия должна срочно ускорить работу по созданию системы стандартов в наноиндустрии. Такое мнение высказал первый вице-премьер РФ Сергей Иванов на заседании правительственного совета по нанотехнологиям.
+ «Мы обязаны форсировать свои действия, направленные на изменение сложившейся ситуации», – подчеркнул он. При этом <Node id="428"/>С.Иванов отметил, что <Node id="450"/>все действия правительства и научного сообщества в сфере стандартизации и метрологии «вообще носят фрагментарный характер»<Node id="572"/>.
+  «Скоординированная политика практически отсутствует, в результате мы до сих пор не имеем обоснованной методологии, обеспечивающей эффективную коммерциализацию результатов научных разработок», – указал первый вице-премьер.
+ 
+С.Иванов обратил внимание на актуальность вопросов безопасности при производстве и потреблении нанопродукции.
+ «Пока ни в России, ни в мире не проведено достаточно глубоких исследований, которые позволяли бы в полной мере оценить потенциальные риски использования нанопродуктов», – отметил первый вице-премьер, добавив, что такие риски, «несомненно, есть, и особенно в медицине».
+ <Node id="1181"/>http://www.rbc.ru/…eenews.shtml?…И<Node id="1215"/> опять на <Node id="1225"/>100%<Node id="1229"/> прав Сергей Борисович! Самый главный «затык» (= препятствие) на пути широкого распространения изделий и продуктов НТ – вопросы безопасности, риски для здоровья людей… Без их ускоренного решения не стОит и думать о быстром развитии этого нового н.-т. направления. Кстати, как следует из его выступления, это касается также и других отраслей и направлений науки и техники…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="450" EndNode="572">
+</Annotation>
+<Annotation Id="2" Type="цитаты" StartNode="450" EndNode="572">
+</Annotation>
+<Annotation Id="3" Type="высказывания_заявления" StartNode="428" EndNode="572">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1225" EndNode="1229">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="89" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">04</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="упоминает" StartNode="428" EndNode="572">
+</Annotation>
+<Annotation Id="8" Type="упоминается" StartNode="428" EndNode="572">
+</Annotation>
+<Annotation Id="9" Type="автор" StartNode="428" EndNode="572">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1181" EndNode="1215">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

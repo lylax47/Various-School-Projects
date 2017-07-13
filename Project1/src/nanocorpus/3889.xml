@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> «ТЕХНИКА-МОЛОДЕЖИ»-ежемесячный научно-популярный и литературно-художественный журнал. Издается <Node id="96"/>с 1933 года<Node id="107"/>. Основные темы: сенсации науки, техники, медицины; идеи, гипотезы, изобретения; загадки забытых цивилизаций, антология таинственных случаев; научная фантастика; логические задачи. <Node id="288"/>Последние годы<Node id="302"/> особое внимание журнал уделяет популяризации разработок и внедрений в сфере нанотехнологий.  
+В <Node id="399"/>2008 году<Node id="408"/> журналу исполняется <Node id="429"/>75 лет<Node id="435"/>. За выдающиеся заслуги и активную пропаганду в области достижений науки и техники и плодотворную работу по воспитанию молодежи журнал награжден орденом «Знак Почета». В <Node id="605"/>декабре 2007 года<Node id="622"/> журналу присвоен знак отличия «Золотой фонд Прессы». Журнал "Техника-молодежи", на публикациях которого воспитано шесть поколений российской научно-технической интеллигенции, находится в авангарде возрождения научно-технического творчества молодежи и имеет свою собственную программу, направленную на возрождение престижа инженерно-технических профессий, связанных с производством, техникой и наукой. 
+ 
+Для награждения участников и победителей «Олимпиады» журнал «Техника-молодежи» учреждает следующие призы: 
+   15 CD с электронными архивами журнала    25 бесплатных подписок на второе полугодие <Node id="1221"/>2008 года<Node id="1230"/>   При награждении призами журнала предпочтение будет уделяться школьникам, в том числе тем, кто не вышел в очный тур, но показал хорошие результаты при решении задач. Телефон редакции 8(495)-625-17-41, 625-62-11, факс – 628-34-79  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="288" EndNode="302">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1221" EndNode="1230">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="96" EndNode="107">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="399" EndNode="408">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="429" EndNode="435">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="399" EndNode="408">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="605" EndNode="622">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="429" EndNode="435">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1221" EndNode="1230">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

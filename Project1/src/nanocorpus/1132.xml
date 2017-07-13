@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Оказывается, нитевидные <Node id="25"/>наночастицы<Node id="36"/> способны присутствовать в крови в 10 раз дольше, чем их шарообразные коллеги. Это наблюдение может оказаться весьма полезным для проектирования систем доставки лекарств, например, для лечения рака. По крайней мере, первые исследования показали, что наноразмерные нитевидные мицеллы довольно эффективны для доставки лекарства Паклитаксел (Paclitaxel) в раковые опухоли мышек. 
+ 
+ До сих пор ученые довольно много внимания уделяли тому, как глобулярные частицы взаимодействуют с живыми клетками. Частицы других форм (не считая <Node id="562"/>углеродных <Node id="573"/>нанотрубок<Node id="583"/>) не брались в расчет. 
+ 
+ Для устранения этой несправедливости группой ученых из University of Pennsylvania (US) были проведены наблюдения за флуоресцирующими полимерными мицеллами, впрыснутыми в вены мышей. Значительная доля частиц находилась в крови <Node id="836"/>в течение недели<Node id="852"/>, а это в 10 раз дольше, чем ранее изучавшиеся шарообразные <Node id="912"/>наночастицы<Node id="923"/> и <Node id="926"/>углеродные <Node id="937"/>нанотрубки<Node id="947"/>. 
+ 
+ Также было установлено, что несущие паклитаксел мицеллы более эффективно способствуют сокращению опухолей. Согласно утверждениям исследователей, их результаты указывают на большое значение, которое играет форма частиц в биологических системах. 
+ 
+ Работа «Shape effects of filaments versus spherical particles in flow and drug delivery» опубликована в Nature Nanotechnology. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="562" EndNode="583">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="926" EndNode="947">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="836" EndNode="852">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="573" EndNode="583">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="937" EndNode="947">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="25" EndNode="36">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="912" EndNode="923">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

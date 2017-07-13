@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Титановые имплантаты широко применяются для замены поврежденных костей. Однако мышечная ткань не может хорошо закрепиться на гладкой поверхности, поэтому это может привести к замене протеза и, следовательно, к повторному хирургическому вмешательству. 
+ 
+Исследователи определили, что покрытие имплантатов <Node id="306"/>нанопроволоками<Node id="321"/> диоксида титана позволяет устранить эту неприятность. Более того, оказалось, что живые ткани мышей крепко соединяются с таким покрытием уже за <Node id="465"/>четыре недели<Node id="478"/>. 
+ 
+Для изготовления покрытия чистая титановая подложка обрабатывается раствором гидроксида натрия при 160 - 250 °C в течение 2 - 10 ч. Это приводит к образованию макропористых каркасов из <Node id="668"/>нанопроволок<Node id="680"/> TiO2, полностью покрывающих подложку. 
+ 
+Ученые утверждают, что путем варьирования температуры реакции и концентрации NaOH они могут легко контроллировать структуру каркаса (длину <Node id="861"/>нанопроволок<Node id="873"/>, пористость и т.п.). 
+ 
+Более того, покрытие очень просто стерилизовать, поместив изделие в воду и облучив его ультрафиолетом. При этом погибают <Node id="1019"/>более 99 %<Node id="1029"/> бактерий, находившихся на поверхности. Или же можно выдержать имплантат в <Node id="1104"/>70 %<Node id="1108"/> растворе этанола. В обоих случаях нанопроволочный каркас не деградирует и не утрачивает своих свойств. 
+ 
+Работа «Multifunctional Nanowire Bioscaffolds on Titanium» была опубликована в журнале Chemistry of Materials. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="465" EndNode="478">
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="306" EndNode="321">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1019" EndNode="1029">
+</Annotation>
+<Annotation Id="3" Type="Нанопроволока" StartNode="861" EndNode="873">
+</Annotation>
+<Annotation Id="4" Type="Нанопроволока" StartNode="668" EndNode="680">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1104" EndNode="1108">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+«Роснанотех» намерен инвестировать 15–<Node id="39"/>17 млрд руб.<Node id="51"/> в проекты в области нанотехнологий, начиная со второго полугодия <Node id="117"/>2008г.<Node id="123"/> Об этом во вторник заявил гендиректор «Роснанотеха» Леонид Меламед<Node id="190"/>.<Node id="191"/>
+
+По его словам, <Node id="208"/>правительство<Node id="221"/> поставило перед госкомпанией цель – достичь объемов российского рынка нанотехнологий в 4 трлн руб. к <Node id="323"/>2015г.<Node id="329"/>, что будет соответствовать <Node id="357"/>4%<Node id="359"/> мирового рынка. Всего на эти цели <Node id="394"/>в течение пяти лет<Node id="412"/> государство выделит <Node id="433"/>около 200 млрд руб.<Node id="452"/> Первые доходы от коммерциализации проектов «Роснанотех» планирует получить через два-<Node id="538"/>три года<Node id="546"/>.
+
+Пилотные проекты, которые смогут получить первые инвестиции уже в начале второго полугодия <Node id="640"/>2008г.<Node id="646"/>, будут выбраны в <Node id="664"/>апреле-мае<Node id="674"/>. Об этом сообщил директор по связям с общественностью и СМИ компании Александр Костинский. На данный момент «Роснанотех» определяет круг из 300 коллективов разработчиков и несколько десятков гражданских производителей нанопродуктов.
+
+Четкие критерии отчета по выбору проектов будут разработаны в течение одного-<Node id="986"/>двух месяцев<Node id="998"/>, сказал А.Костинский. «<Node id="1022"/>Это будет система критериев, как финансовых, учитывающих прибыльность проектов, так и социальных. Они не должны кардинально отличаться от критериев для подобных проектов в любых других инновационных областях», – подчеркнул <Node id="1245"/>он<Node id="1247"/>.
+
+По словам представителя «Роснанотеха», объем инвестиций в каждый проект не ограничен. «<Node id="1337"/>Мы можем по закону инвестировать как в строительство фабрик или в средние проекты, нуждающиеся в расширении, так и в стартапы», – сообщил Александр Костинский<Node id="1495"/>.
+
+По оценкам «Роснанотеха», объем мировой наноиндустрии в <Node id="1554"/>2008г.<Node id="1560"/> может достигнуть <Node id="1578"/>700 млрд долл.<Node id="1592"/> Россия занимает на этом рынке <Node id="1623"/>менее 1%<Node id="1631"/>. Лидируют на нем США, Япония и Германия, развивающиеся за счет частных капиталовложений. В США в <Node id="1729"/>2006г.<Node id="1735"/> инвестиции частных корпораций в нанотехнологии составили <Node id="1793"/>2 млрд долл.<Node id="1805"/>, в России – не более нескольких десятков миллионов. По прогнозам «Роснанотеха», объем мирового рынка нанопродукции к <Node id="1923"/>2014г.<Node id="1929"/> достигнет 1,2–2,9 трлн долл.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1245" EndNode="1247">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="208" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1923" EndNode="1929">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1022" EndNode="1247">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1337" EndNode="1495">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="538" EndNode="546">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="190" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">гендиректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1729" EndNode="1735">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="357" EndNode="359">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="1554" EndNode="1560">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="394" EndNode="412">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="1578" EndNode="1592">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="1337" EndNode="1495">
+</Annotation>
+<Annotation Id="14" Type="Деньги" StartNode="39" EndNode="51">
+</Annotation>
+<Annotation Id="15" Type="сотрудники" StartNode="190" EndNode="191">
+</Annotation>
+<Annotation Id="17" Type="Год" StartNode="323" EndNode="329">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="664" EndNode="674">
+</Annotation>
+<Annotation Id="19" Type="высказывания_заявления" StartNode="1022" EndNode="1247">
+</Annotation>
+<Annotation Id="18" Type="Процент" StartNode="1623" EndNode="1631">
+</Annotation>
+<Annotation Id="21" Type="Деньги" StartNode="1793" EndNode="1805">
+</Annotation>
+<Annotation Id="20" Type="Деньги" StartNode="433" EndNode="452">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="986" EndNode="998">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Год" StartNode="117" EndNode="123">
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="640" EndNode="646">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

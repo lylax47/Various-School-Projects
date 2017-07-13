@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Губернатор Томской области провел заседание Наблюдательного совета Особой экономической зоны технико-внедренческого типаВчера, <Node id="127"/>22 июля<Node id="134"/>, губернатор Томской области Виктор Кресс провел заседание Наблюдательного совета Особой экономической зоны технико-внедренческого типа, сообщает пресс-служба обладминистрации.
+Виктор Кресс
+Генеральный директор ОАО «ОЭЗ» Сергей Лёвкин<Node id="368"/> <Node id="369"/>проинформировал, что IT-корпус на южной площадке начнут строить уже в <Node id="439"/>этом году<Node id="448"/>, а в <Node id="454"/>первом квартале 2009 года<Node id="479"/> приступят к возведению делового центра. Форсируется строительство здания таможни. До введения в строй этой структуры Особая экономическая зона не сможет начать свою работу. Решается и проблема строительства пожарного депо на шесть машин.
+ Руководитель территориального управления Федерального агентства по управлению особыми экономическими зонами по Томской области Владимир Прец дал информацию о механизме получения земельных участков на территории ОЭЗ фирмами-резидентами и нерезидентами и порядок выкупа земельных участков теми фирмами, которые арендуют землю и возведут на них объекты недвижимости. Владимир Прец 
+Так как на территории ТВЗ нельзя строить жильё как таковое, здесь будет построена гостиница для длительного проживания сотрудников фирм-резидентов. Цены аренды земли на территории ОЭЗ делятся на три категории: для фирм-резидентов, для ОАО «ОЭЗ» и его дочерних компаний, для иных юридических лиц и индивидуальных предпринимателей.
+ 
+Первый заместитель губернатора Оксана Козловская проинформировала о том, что на строительство инфраструктуры и материально-техническое оснащение ОЭЗ в <Node id="1581"/>2006–2007 годах<Node id="1596"/> из бюджета Томской области было выделено свыше <Node id="1644"/>346 млн. 993 тыс. рублей<Node id="1668"/>.
+ 
+Члены <Node id="1678"/>Наблюдательного совета<Node id="1700"/> приняли решение объявить конкурс на название Южной площадки ОЭЗ. В конкурсе могут участвовать все жители Томска и области. Победитель получит дорогостоящий приз. Рекомендовано не использовать технических терминов, по возможности избегать слова «зона». Кроме того, название должно хорошо произноситься на английском языке.
+  Потенциальными резидента ОЭЗ являются 17 инновационных фирм. <Node id="2086"/>60%<Node id="2089"/> из них занимаются IT-технологиями, <Node id="2125"/>20%<Node id="2128"/> – нанотехнологиями, <Node id="2149"/>10%<Node id="2152"/> – инновациями в сфере медицины и биотехнологий, <Node id="2201"/>10%<Node id="2204"/> – ресурсосберегающими технологиями. 7 из 17-ти фирм-резидентов вышли на уровень проектирования и строительства своих объектов. <Node id="2332"/>http://obzor.westsib.ru/news/250415Ну<Node id="2369"/> что ж, потихоньку-полегоньку дело всё-таки движется… <Node id="2423"/>(http://www.nanonewsnet.ru/…i-nastupayut<Node id="2463"/> // <Node id="2467"/>http://www.nanonewsnet.ru/…vayut-uspekh).<Node id="2508"/> Дело это новое, неразведанное, двигаться вперёд нужно осторожно и осмотрительно. Но всё-таки хотелось бы, чтобы всё делалось побыстрее. Впрочем, на месте виднее. Желаем томским коллегам новых успехов и достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="368" EndNode="369">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="2201" EndNode="2204">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1644" EndNode="1668">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2332" EndNode="2369">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="368" EndNode="369">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="127" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2423" EndNode="2463">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1678" EndNode="1700">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Наблюдательного совета</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1581" EndNode="1596">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="2086" EndNode="2089">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="439" EndNode="448">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="2125" EndNode="2128">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="454" EndNode="479">
+</Annotation>
+<Annotation Id="19" Type="Процент" StartNode="2149" EndNode="2152">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="2467" EndNode="2508">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

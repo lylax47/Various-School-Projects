@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт аналитического приборостроения РАН  <Node id="47"/>масс-спектрометрия<Node id="65"/>, рентгенофотоэлектронная спектроскопия, спектроаналитическая информация, тонкие пленки, электронные пушки    Рентгеноэлектронная спектроскопия   Разработка методик, инструментальных и аппаратных  средств рентгенофотоэлектронной спектроскопии для исследования  поверхности и тонких пленок, анализа их химического состава и структуры создание современного комплекса аппаратуры рентгенофотоэлектронной спектроскопии сверхвысокого разрешения для структурно-чувствительного анализа веществ и материалов на отечественных действующих и строящихся источниках синхротронного излучения, разработка нового и модернизация по заказам действующего рентгеноэлектронного оборудования                             Бардин Борис Васильевич , ведущий специалист Белов Владимир Дмитриевич, заведующий лабораторией, кандидат наук <Node id="873"/>Мамро Наталия Владимировна<Node id="899"/> , ведущий специалист Николаев Игорь Робертович , ведущий специалист 
+Разработки лаборатории:  
+ Рентгеноэлектронный модуль на базе узлов спектрометра ЭС 2403 в эпитаксиальном комплексе для арсенид-галлиевой технологии  РФЭС станция многомодульного комплекса фотонно-стимулированных процессов  Рентгеноэлектронный спектрометр для экспрессного химического анализа  Аналитический комплекс для исследования твердофазных материалов на базе рентгенофотоэлектронного спектрометра ЭС 2403  Рентгеноэлектронный (Mg - Ka) обзорный спектр серебра при энергии пропускания анализатора Ea = 40 эВ  Рентгеноэлектронный спектрометр с угловым разрешением   
+ 
+Виды услуг лаборатории:  
+ разработка специализированных систем рентгеновской и фотоэлектронной спектроскопии, ориентированных на задачи заказчика  разработка физических узлов – энергоанализаторов высокого разрешения  разработка электронных пушек для компенсации электростатического заряда  разработка ионнолучевых систем для <Node id="1869"/>травления<Node id="1878"/> и очистки поверхности  разработка автоматизированных комплексов управления приборами, регистрации и обработки спектроаналитической информации  разработка измерительной электроники  разработка прикладного программного обеспечения управления приборами, регистрации и обработки результатов измерений    Опытный образец электронного спектрометра ЭС-2403М для проведения экспериментальных исследований и отработки технических решений нового рентгеноэлектронного оборудования растровый электронный микроскоп BS-340 сверхвысоковакуумная установка на базе узлов сверхвысоковакуумной техники и универсальной установки УСУ-4 для тестирования и испытания новых физических узлов    </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Масс-спектрометрия" StartNode="47" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Травление" StartNode="1869" EndNode="1878">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="873" EndNode="899">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">кандидат</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Отчество</Name>
+  <Value className="java.lang.String">Владимировна</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наталия</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

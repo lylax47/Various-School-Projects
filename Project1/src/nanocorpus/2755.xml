@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии в автомобильной промышленностиДоговор о сотрудничестве был подписан между «Cummins Filtration» и чешской компанией «Elmarco», которая занимается развитием нанотехнологий в промышленных условиях. Целью заключения этого договора является создание <Node id="260"/>нановолокна<Node id="271"/> для использования в автомобильной индустрии, в частности для производства фильтров.
+Логотип компании Cummins
+Ученые из Технического университета города Либерца разработали уникальную технологию промышленного производства <Node id="493"/>нановолокна<Node id="504"/>, которое тоньше человеческого волоса примерно в десять тысяч раз. <Node id="571"/>Нановолокна<Node id="582"/> радикально улучшают качество всех материалов.
+
+Всего три сотых грамма <Node id="653"/>нановолокна<Node id="664"/> на квадратный метр автомобильных фильтров, и фильтрация увеличивается в два раза. <Node id="747"/>В будущем<Node id="756"/> запланировано производство высокоэффективных фильтров уникальной формы с продолжительным сроком службы.
+<Node id="861"/>http://www.mainpump.ru/…ate/2377.htmCummins<Node id="904"/> <Node id="905"/>Filtrationhttp://www.cumminsfiltration.com/en/index.shtmlElmarcohttp://www.elmarco.com/media.php?…С<Node id="1004"/> учётом того, что автомобили выпускаются огромным тиражом, следует поздравить «ребят» из компании «Elmarco»: по-видимому, они получат неплохой «навар»… И вот ведь совсем простая вещь – фильтры с использованием нанотехнологий и вроде бы уже давно и многими разработаны. Отсюда – мораль: часто не надо гнаться за журавлём в небе, достаточно просто сесть, крепко подумать и «соблазнить» какую-нибудь солидную фирму, производящую массовый товар, на использование вашей НТ-продукции. А уж когда заключишь контракт да поднакопишь деньжат, тогда уж можно и о «науке» подумать да и замахиваться на какого-нибудь «журавля»… Мне кажется, стратегия «малых дел» в данном случае – наиболее выигрышная… И, опять же, ну надо же ХОТЬ ЧТО-ТО делать!..Хоть с чего-то начинать…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нановолокно" StartNode="260" EndNode="271">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="905" EndNode="1004">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нановолокно" StartNode="493" EndNode="504">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="861" EndNode="904">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="747" EndNode="756">
+</Annotation>
+<Annotation Id="8" Type="Нановолокно" StartNode="571" EndNode="582">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нановолокно" StartNode="653" EndNode="664">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

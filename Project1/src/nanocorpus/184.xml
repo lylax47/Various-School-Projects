@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Нанопузырьки, которые развиваются на поверхностях тел, погруженных в жидкость, теоретически не должны существовать. В силу существующего огромного давления внутри слоя жидкости, они должны исчезать через короткое время. Тем не менее, иногда они существуют многие <Node id="264"/>часы<Node id="268"/>.
+
+Ученые из США и Нидерландов, исследуя этот процесс, обнаружили интересное явление. Они показали, что в определенных условиях проявляется состояние равновесия между газом, входящим в пузырек и газом, покидающим его.
+
+Проф. <Node id="493"/>Детлеф<Node id="499"/> <Node id="500"/>Лоозе<Node id="505"/> (Professor Detlef Lohse) из University of Twente (Нидерланды) и <Node id="570"/>его<Node id="573"/> коллега – проф. Майкл Бреннер (Michael Brenner ) из Harvard University (США) опубликовали результаты работы в журнале Physical Review Letters (Michael P. Brenner and Detlef Lohse. Dynamic Equilibrium Mechanism for Surface Nanobubble Stabilization, – Phys. Rev. Lett. 101, 214505 (2008); doi:10.1103/PhysRevLett.101.214505)
+
+В работе показано, что такие пузыри могут развиваться на границе вода-водонепроницаемое тело, которое погружено в воду. Пузырьки воздуха, образующиеся при этом, имеют форму круглой шапки (напоминающей шляпку гриба) – см. рисунок. Диаметр такой шляпки достигает порядка 100 нм, а высота – 10 нм. Причина их появления и развития по-прежнему неизвестна, но то, что удалось установить, является достаточно важным- пузырьки приносят пользу. Например, жидкости текут свободнее вдоль погруженной поверхности, имеют более высокую скорость потока и потребляют меньше энергии, если поверхность покрыта нанопузырьками. Авторам удалось разработать первый метод стимулирования процесса образования пузырьков. Работа может иметь не только теоретическое, но и возможно огромное практическое значение, положив начало новому направлению в исследовании тел, движущихся под водой.
+
+Огорчительно, тем не менее, что до сих пор не найдено объяснения механизмам существования нанопузырей. Почему они появляются и развиваются? Маленькие газовые пузырьки должны исчезать быстро из-за огромного внутреннего давления и утечки газа из пузырька. Проф. <Node id="2021"/>Лоозе<Node id="2026"/> и проф. Бреннер пытаются отыскать причину того, что газ не только вытекает из пузырька, но и в то же самое время каким-то неизвестным образом попадает внутрь. Когда оба процесса находятся в равновесии, пузырьки могут существовать значительно дольше, чем это предполагалось ранее.
+
+В соотвествии с их теорией, поток газа внутрь пузыря начинается на его краю (см. рисунок); другими словами, где граница пузыря находится в контакте с водонепроницаемой поверхностью. Известно, что вблизи гидрофобной (несмачиваемой водой) поверхности концентрация газа повышается, поскольку молекулы газа привлекаются самой поверхностью. Если эти молекулы газа движутся в направлении границы пузыря, то может осуществиться состояние стабильности, равновесия с потоком молекул газа, выходящим из пузыря. Вообще говоря, такое состояние равновесия является нестабильным в соотвествии со вторым законом термодинамики – здесь может существовать только переходная фаза, подразумевая, что пузырьки растворятся через некоторое время.
+
+Авторы предположили, что «правила игры» могут относиться к определенному диапазону размеров нанопузырьков. Исследования показали, что возможен расчет размеров пузырьков, для которых справедливы сделанные выводы.
+
+Теория, представленная в статье, объясняет причины «долгожительства» пузырьков, что, тем не менее не удовлетворяет авторов, которые предполагают углубиться в рассмотрение поведения этих пузырьков в течение длительного периода времени. Задача, которую они ставят перед собой, заключается в исследовании стабильности состояния равновесия, возникающего вокруг газового пузырька. Кроме этого, важной задачей, по их мнению, является исследование искусственных механизмов стимулирования образования пузырьков на поверхности тела, погруженного в жидкость. Одним из первых методов, которые будут исследованы, является электролиз.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="264" EndNode="268">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="570" EndNode="573">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="493" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">проф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Детлеф</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="500" EndNode="505">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоозе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="2021" EndNode="2026">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лоозе</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

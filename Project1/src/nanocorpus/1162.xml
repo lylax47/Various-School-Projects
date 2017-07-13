@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Международная выставка и конференция по нанотехнологиям Nano Tech пройдет <Node id="75"/>с 21 по 23 февраля<Node id="93"/> в Токио. Выставка очень популярна как среди японских, так и среди зарубежных посетителей и экспонентов. В <Node id="200"/>2006 году<Node id="209"/> ее посетили 45 000 гостей, в выставке приняли участие 385 экспонентов.
+
+Совершенствование нанотехнологий будущего несет для науки и экономического развития огромное значение. Рыночный потенциал нанотехнологии оценивается велик и во всем мире на развитие этих технологий инвестируются огромные средства. Nano Tech 2008 – платформа, предназначенная для содействия обмену знаниями и расширению возможностей для из практического применения.
+ Страна: Япония Город: Токио Даты проведения: <Node id="693"/>21.02.2008<Node id="703"/> – <Node id="706"/>23.02.2008<Node id="716"/> Место проведения: Tokyo International Exhibition Center (Tokyo Big Sight) Организатор: ICS Convention Design, Inc. Сайт конференции: <Node id="850"/>http://www.ics-inc.co.jp/…n/index.html<Node id="888"/> Тематика: Нанотехнологии Информационные технологии Телекоммуникации Лабораторное оборудование Космические технологии Электроника Медицинское оборудование </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="200" EndNode="209">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="850" EndNode="888">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="706" EndNode="716">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="75" EndNode="93">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="693" EndNode="703">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">02</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="200" EndNode="209">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

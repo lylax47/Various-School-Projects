@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+The Villa and Virtual Conferences on Interaction Among Nanostructures (VC-IANs) are joint conferences that aim to promote discussions and information exchange across the frontiers of research in the area of modern nanostructure development. International scientists with common professional interests in nanoscience will unite in a virtual, friendly and informal atmosphere to share both their knowledge of recent developments as well as their ideas about prospective directions and approaches to nano-scale advancements.
+
+The upscale villa accommodation is adopted for the villa VC-IAN and goes beyond a typical hotel setting, in an effort to foster intensive discussions around dinning tables, swimming pools and spas. The conference style is reminiscent of the Gordon Research Conferences (GRCs) <Node id="800"/>(http://www.grc.org<Node id="819"/>/), which are well-recognized for their effectiveness in promoting communication among scientists in a setting other than traditional large scientific meetings. While GRCs restrict attendees to keep information between fellow attendees and inside the conference walls, prohibiting direct publication and reference to the conference in publications, we are encouraging open-access to all of the information presented at the villa conference, regardless of whether given in a talk, a poster, or the following conference proceedings.
+
+The Villa and Virtual Conferences on Interaction Among Nanostructures (VC-IANs) provides an interdisciplinary forum for the open communication in understanding of the physical, chemical, and biological interactions among nanoscale components of any compositions and morphologies, including carbon nanotubes, nanoparticles, nanowires, and quantum dots.
+
+Coverage includes, but is not limited to, the latest developments in the following areas:
+ Elastic and electronic interactions among semiconductor nanostructures; Nanowire crossing and Nanowire-quantum dot interactions; Hybrid semiconductor/metal nanostructures; Functionalization of Carbon Nanotubes in conjunction with biomolecules, nanoparticles, organic polymers, or quantum dots; Quantum dot molecules, quantum rings, and complexes; Nanomaterials with nanoscale biological components; Interplay between nanoscale patterning and nanowires/nanotubes/quantum dots; Interactions between the building blocks in nanosystems.  Zhiming M. Wang <Node id="2345"/>(blog:http://nanombe.blogspot.com/)<Node id="2380"/> zmwang@
+<Node id="2389"/>uark.edu<Node id="2397"/> VC-IAN 2008 Conference Chair  Kimberly A. Sablon <Node id="2447"/>(blog:http://oahost.blogspot.com/)<Node id="2481"/> ian@
+<Node id="2487"/>oa-host.org<Node id="2498"/> VC-IAN General Chair </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="2447" EndNode="2481">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2389" EndNode="2397">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="800" EndNode="819">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2345" EndNode="2380">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2487" EndNode="2498">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

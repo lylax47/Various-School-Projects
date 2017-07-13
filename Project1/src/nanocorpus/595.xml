@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>  XVI Международная конференция по химической термодинамике в России проводится <Node id="80"/>1–6 июля 2007<Node id="93"/> в г. Суздаль. В <Node id="110"/>2007 году<Node id="119"/> конференция по химической термодинамике впервые проводится совместно с Х Международной конференцией "Проблемы сольватации и комплексообразования в растворах" и Российско-польским симпозиумом для молодых ученых «Термодинамика растворов биологически активных компонентов».  
+ 
+ Оргкомитеты XVI Международной конференции по химической термодинамике в России и X Международной конференции "Проблемы сольватации и комплексообразования в растворах" которые будет проходить <Node id="587"/>с 1 по 6 июля 2007 г.<Node id="608"/> в г. Суздале, напоминают, что <Node id="639"/>1 апреля<Node id="647"/> истекает срок представления тезисов на Конференцию. 
+ 
+ 
+ 
+                                                                                                                          
+Планируется проведение круглых столов:
+ 1. Термодинамика сверхкритических флюидов 
+2. Термодинамика наносистем 
+ 
+ 
+ 
+ 
+Сайт конференции <Node id="967"/>http://www.isc-ras.ru/RCCT2007/index.htm.<Node id="1008"/>
+ 
+Оргкомитет XVI Международной конференции по химической термодинамике в Росии RCCT2007, Институт химии растворов РАН, ул.Академическая, 1, 153045 Иваново, тел. (4932) 351679, факс (4932) 336237, E-mail: <Node id="1213"/>RCCT2007@isc-ras.ru<Node id="1232"/> 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="639" EndNode="647">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="110" EndNode="119">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="110" EndNode="119">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="967" EndNode="1008">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="80" EndNode="93">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="587" EndNode="608">
+</Annotation>
+<Annotation Id="6" Type="Электронная_почта" StartNode="1213" EndNode="1232">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

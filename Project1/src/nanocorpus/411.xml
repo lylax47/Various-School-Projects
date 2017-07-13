@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В МГУ состоялось расширенное заседание (потенциального) президиума нанотехнологического общества РФ, на котором решались насущные вопросы уже скорого появления на свет Общества как юридически признанной общественной организации с собственными руководящими органами, программой действий, Уставом и информационными ресурсами... На встрече присутствовало около 40 человек, включая избранного на <Node id="393"/>2009 г.<Node id="400"/> Президента НОР академика Ю.Д.Третьякова, вице-президентов, представителей ГК "Роснанотех", институтов РАН, РХТУ, МИФИ, компании НТ МДТ, РНЦ КИ, сайта Nanonewsnet и Нанометр, журнала "Химия и жизнь", других московских и региональных организаций (позже будет дана официальная информация от имени НОР). Основными вопросами, которые необходимо было рассмотреть, и которые были рассмотрены <Node id="786"/>в течение примерно двух с половиной часов<Node id="827"/>, являлись:
+   принятие "в целом" отредактированного комиссией с учетом высказанных пожеланий Устава общества,   рассмотрение программы действий на ближайшую и более отдаленную перспективу,   обсуждение структуры НОР и его разбиения на секции (в том числе, рассматривалось предложение о существовании в НОР образовательной секции, основу которой могли бы составить представители <Node id="1206"/>Общественного совета по образованию<Node id="1241"/> в области нанотехнологий),   обсуждение состава президиума и других руководящих органов.   
+В качестве отдельного предложения прозвучала инициатива по формированию сайта НОР в доменной зоне Ру (с форумом, популяризацией нанотехнологий, рассылками и блогами, все как обычно предполагается в начале...). Завершилось собрание неформальным обсуждение результатов. 
+ Мы будем держать в курсе поступающей информации. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="786" EndNode="827">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="1206" EndNode="1241">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Общественного совета по образованию</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="393" EndNode="400">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

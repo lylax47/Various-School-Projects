@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Доктор Ю-Лин <Node id="14"/>Лу<Node id="16"/> (Yueh-Lin (Lynn) Loo) из Университета Техаса в Остине модифицировала полианилин таким образом, что его проводимость может «настраиваться» непосредственно в процессе производства. Разработка позволит создавать необходимые компоненты для электронных приборов недалекого будущего. Невысокая стоимость производства полианилина, его гибкость и хорошая проводимость позволяют рассматривать этот полимер в качестве перспективной замены классическим проводникам-металлам. <Node id="481"/>Лу<Node id="483"/> обнаружила, что изменение соотношения полианилин : электронодонорные добавки позволяет увеличить проводимость материала в 1.5 – 10 раз в зависимости от типа присадки. Конечно, проводимость полианилина пока еще не может соперничать с электропроводимостью меди, серебра или золота, использующихся в быстро обменивающихся информацией электронных схемах, но увеличение проводимости органического материала на порядок (переход от значения проводимости, характерного для полупроводников к проводимости проводника) позволяет говорить о близком наступлении эры более дешевых органических проводов и электрических контактов. В ценовом отношении химически модифицированный полианилин имеет ряд преимуществ по сравнению с обычно используемыми металлами. Результаты предыдущего исследования <Node id="1263"/>Лу<Node id="1265"/> показали возможность производства «проводов» из активированного полианилина в растворе при комнатной температуре и без необходимости использования вакуумных камер, что существенно удешевляет получение полианилиновых микропроводов в сравнении с традиционными производствами золотых или серебряных проводов для микроэлектроники. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="481" EndNode="483">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1263" EndNode="1265">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="14" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Л.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Лу</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Новосибирский государственный технический университет <Node id="56"/>наноструктуры<Node id="69"/>, наноэлектроника   Теоретическая физика Физика полупроводников и диэлектриков Физика твердого тела   Теоретическая физика <Node id="192"/>наноструктур<Node id="204"/>                             Драгунов В. П., профессор, доцент, доктор наук <Node id="280"/>Кибис О. В.<Node id="291"/>, профессор, профессор, доктор наук Макаренко М. В., мнс, младший научный сотрудник Группа сформирована в <Node id="397"/>2000 году<Node id="406"/> профессором <Node id="419"/>О. В. Кибисом<Node id="432"/> и работает под его руководством. К основным достижениями группы относятся разработка теории электронных свойств <Node id="545"/>наноструктур<Node id="557"/> с одновременным нарушением инверсионной симметрии и симметрии относительно обращения времени, теории электронных и оптических свойств <Node id="692"/>наноструктур<Node id="704"/> с геликоидальной симметрией, теории электронных свойств хиральных <Node id="771"/>углеродных <Node id="782"/>нанотрубок<Node id="792"/>, а также теории терагерцовых излучателей и детекторов на основе <Node id="857"/>наноструктур<Node id="869"/>. Регулярно обновляемая информация о научной деятельности группы, включая полный список проектов и публикаций, доступна на сайте <Node id="998"/>www.kibis.ru<Node id="1010"/>   Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland Grenoble High Magnetic Field Laboratory (GHMFL), Grenoble, France International Center for Condensed Matter Physics at University of Brasilia, Brasilia, Brazil Technische Universitat Berlin, Berlin, Germany University of Bath, Bath, United Kingdom University of Exeter, Exeter, United Kingdom Институт неорганической химии СО РАН, Новосибирск, Россия Институт физики полупроводников СО РАН, Новосибирск, Россия Научно-исследовательский институт ядерных проблем при Минском госуниверситете, Минск, Беларусь      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="782" EndNode="792">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="545" EndNode="557">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="857" EndNode="869">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="192" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="56" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="419" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="280" EndNode="291">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">доктор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+нанотрубка" StartNode="771" EndNode="792">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="998" EndNode="1010">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Наноструктура" StartNode="692" EndNode="704">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="397" EndNode="406">
+</Annotation>
+<Annotation Id="23" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="397" EndNode="406">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

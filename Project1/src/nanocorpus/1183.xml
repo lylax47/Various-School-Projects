@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Приветствие участникам Олимпиады декана факультета фундаментальной медицины академика РАН и РАМН Всеволода Арсеньевича Ткачука. 
+Использование нанотехнологий в медицине началось <Node id="179"/>около 15 лет назад<Node id="197"/> и сейчас является одним из самых перспективных направлений исследований, обещая внедрение практических разработок уже в самое ближайшее будущее. НА ФФМ МГУ открыта специальность "Наномедицина". Поступайте на ФФМ МГУ! Удачи всем участникам Олимпиады! (полный текст интервью - см. ВИДЕОФАЙЛ)
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="179" EndNode="197">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

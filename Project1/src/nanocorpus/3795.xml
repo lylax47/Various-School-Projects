@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>Углеродные <Node id="13"/>нанотрубки<Node id="23"/> изготовленные методом лазерного испарения графита под 10000-кратным увеличением на <Node id="107"/>СЭМ<Node id="110"/> "JEOL JSM-6400". Данный "шланг" скорее всего не относится к <Node id="171"/>нанотрубкам<Node id="182"/>. Есть мнениe, что это возможно карбид кремния, так как графит содержал примеси кремния. Сами же <Node id="279"/>нанотрубки<Node id="289"/> видны как тонкие волокна
+    
+ 
+      
+ 
+  
+ 
+                    
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="13" EndNode="23">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="279" EndNode="289">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="107" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сэм</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="171" EndNode="182">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="2" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Вторая Санкт-Петербургская международная конференция по нанобиотехнологиям пройдет <Node id="85"/>с 16 по 18 июня 2008 года<Node id="110"/>. 
+ 
+Тематика конференции включает в числе прочего:
+  Искусcтвенные <Node id="178"/>наноструктуры<Node id="191"/>  Самоорганизующиеся <Node id="212"/>наноструктуры<Node id="225"/> Наноуглерод  Энергетические <Node id="254"/>наноматериалы<Node id="267"/>  Системная биология Синтетическая биология  Нанобионика  Нанодизайн  Регуляторные и сигнальные сети  Шум в биологических системах  Обработка сигнала Нанодиагностика  Нанобиосенсоры  Оценка рисков нанобиотехнологий для здоровья человека и окружающей среды Нанотехнологическое образование и промышленные инновации  
+Организаторы:
+  Минестерство образования и науки Российской Федерации Санкт-Петербургский Государственный Политехнический Университет Центр перспективных исследований СПбГПУ  
+Подробная информация доступна на официальном сайте конференции.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="178" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="254" EndNode="267">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="85" EndNode="110">
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="212" EndNode="225">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

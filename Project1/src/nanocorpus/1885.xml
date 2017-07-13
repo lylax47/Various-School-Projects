@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+На конференции SEMICON WEST, проходившей <Node id="42"/>15–17 июля с.г.<Node id="57"/> в Сан-Франциско, в рамках круглого стола, организованного для производителей полупроводникового оборудования, продолжились начатые в прессе дебаты о возможном переходе полупроводниковых чипмейкеров на кремниевые подложки диаметром 450 мм [1].
+
+Анализ результатов опроса, проведенного специалистами SEMI среди большого числа производителей оборудования, показал, что исследования и разработки 450-мм технологии потребуют <Node id="478"/>25 млрд. долл.<Node id="492"/> затрат.
+
+По мнению аналитиков, полупроводниковая промышленность не может себе позволить таких инвестиций, основываясь лишь на будущих «ожиданиях». Это будут инвестиции с высоким риском и низкой вероятностью возврата затрат. Эти исследования – не самые приоритетные для инвестиций в полупроводниковой промышленности. Ситуация с 450-мм подложками напоминает предпринятые в свое время усилия по разработке 157-нм <Node id="903"/>литографии<Node id="913"/>, в которые были вложены миллиарды долл., но Intel Corp. внезапно прекратила эту программу, ее примеру последовали и остальные участники разработок. Разработки 157-нм <Node id="1080"/>литографии<Node id="1090"/> – это была дорога вслепую, тоже самое может произойти и с 450-мм подложками.
+
+Большинство производителей полупроводникового оборудования считают, что более важно сосредоточить инвестиции на совершентсвовании процессов с 300-мм подложками. По другую сторону барьера стоит консорциум International Sematech, приступивший одновременно к разработкам программ по следующим поколениям 300-мм и 450-мм фабрик, а также компании Intel, Samsung и TSMC, которые решительно планируют запустить 450-мм производство в <Node id="1595"/>2012 г.<Node id="1602"/> [2].
+С.Т.К.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Литография" StartNode="903" EndNode="913">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="478" EndNode="492">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="1595" EndNode="1602">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Литография" StartNode="1080" EndNode="1090">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="42" EndNode="57">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

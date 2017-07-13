@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Колорадо сообщили о первом успешном «нанизывании» энзима гидрогеназы на <Node id="83"/>углеродную <Node id="94"/>нанотрубку<Node id="104"/> с сохранением стабильного электрического контакта между ними. Как <Node id="171"/>говорят исследователи, этот белок, возможно, сыграет большую роль в энергетике, основанной на топливных элементах.
+
+Исследователям известно давно, что энзим гидрогеназа – будущая «звезда» водородной энергетики. Он играет важную роль в окислении водорода в топливных ячейках. Правда, для его успешного использовании в катализе, энзим нужно «приручить».
+
+Руководители проекта, исследователи Майкл Хебен (Michael J. Heben) и Пол Кинг<Node id="601"/> (Paul W. King) из Национальной Лаборатории Возобновимой Энергии (National Renewable Energy Laboratory), рассказывают, что им удалось добиться успешного присоединения энзима к поверхности <Node id="789"/>углеродной <Node id="800"/>нанотрубки<Node id="810"/>.
+
+Топливные элементы, в которых будет использоваться бактериальный энзим гидрогеназа примечательны еще и тем, что в них происходит окисление водорода с образованием электричества, практически без возникновения вредных веществ, вызывающих загрязнение.
+
+Но до сих пор ученым не удавалось присоединить энзим таким образом, чтобы между ним и его «носителем» сохранялся стабильный электрический контакт. Это удалось установить, используя фотолюминесцентную спектроскопию. До сих пор роль катализатора в топливных элементах выполняет дорогостоящие платиновые элементы.
+
+Как надеются Пол и Майкл, новый «биогибрид» сможет заменить дорогостоящую платину в топливных элементах, сделав их, таким образом, дешевле и доступней.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="800" EndNode="810">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="94" EndNode="104">
+</Annotation>
+<Annotation Id="4" Type="встречи_и_переговоры" StartNode="171" EndNode="601">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="83" EndNode="104">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="789" EndNode="810">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

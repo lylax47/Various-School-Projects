@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Нанотрубки<Node id="11"/>, которые уже заочно стали «the next big thing» в материаловедении, оказывается, могут прославиться не с лучшей стороны в другой естественно науке – экологии.
+
+Согласно недавнему выступлению ученых из Массачусетского Технологического Института (MIT) на заседании Американского Химического Общества, (American Chemical Society), интенсивное производство <Node id="364"/>углеродных <Node id="375"/>нанотрубок<Node id="385"/> может серьезно повлиять на мировую экологию.
+
+Побочные продукты производства УНТ достаточно агрессивны: это целый коктейль, состоящий из канцерогенных веществ, токсичных газов, и мелкодисперсных частиц.
+
+Детальный анализ самого распространенного метода производства <Node id="652"/>нанотрубок<Node id="662"/>, <Node id="664"/>химического осаждения<Node id="685"/> в паровой фазе (CVD), показал наличие как минимум 15 ароматических углеводородов, в том числе были обнаружены 4 токсичных полицикличных углеродных соединения.
+
+Наиболее вредным в составе «нанотрубочного коктейля» был признан полициклический бензaпирен, широко известный канцероген, действующий на ткани человека.
+
+Другие составляющие побочного производства CVD-метода представляют собой прямую угрозу озоновому слою планеты.
+
+Поэтому на встрече Американского Химического Общества ученые предложили заняться поиском более экологически чистого метода производства <Node id="1248"/>нанотрубок<Node id="1258"/>. Либо же производителям придется серьезно «очищать» последствия CVD-техпроцесса, что, естественно, вызовет увеличение стоимости <Node id="1387"/>нанотрубок<Node id="1397"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Химическое+осаждение" StartNode="664" EndNode="685">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="375" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1" EndNode="11">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="1248" EndNode="1258">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="364" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="652" EndNode="662">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1387" EndNode="1397">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Японская фирма TOKYO BOEKI Ltd. сердечно поздравляет всех участников Олимпиады ! 
+ 
+Наша компания была основана в <Node id="116"/>октябре 1947 года<Node id="133"/> в Токио, а <Node id="145"/>с 1959 года<Node id="156"/> в Москве действует постоянное представительство, которому в <Node id="217"/>следующем году<Node id="231"/> исполнится <Node id="243"/>50 лет<Node id="249"/>. TOKYO BOEKI Ltd занимается поставками и обслуживанием научного оборудования ведущих мировых производителей как JEOL Ltd., Nikon Instech Co. Ltd. , Rigaku Ltd. , SPSS , OXFORD Instruments Analytical , Gatan и др. Мы тесно сотрудничаем практически со всеми научными организациями России и СНГ. Со многими из них TOKYO BOEKI Ltd поддерживает дружеские и деловые контакты уже <Node id="623"/>более 45 лет<Node id="635"/>. 
+ 
+Мы гордимся тем, что приборы, поставленные TOKYO BOEKI, безотказно работают на благо Российской науки ! Наша компания всегда рада поддержать новое поколение молодых ученых России – будущее Российской и мировой науки! 
+ 
+TOKYO BOEKI Ltd. 
+ 
+Учида Кадзуэи 
+ Компания Tokyo Boeki является спонсором второй Всероссийской Интернет-олимпиады по нанотехнологиям.     </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="243" EndNode="249">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="623" EndNode="635">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="116" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="217" EndNode="231">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="145" EndNode="156">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="243" EndNode="249">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

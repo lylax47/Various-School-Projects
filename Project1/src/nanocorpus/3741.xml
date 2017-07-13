@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Журнал Materials Today объявляет конкурс на лучшую научную статью. 
+Для участия в конкурсе приглашаются молодые ученые в возрасте <Node id="131"/>до 35 лет<Node id="140"/>. 
+Объем статьи не должен превышать 850 слов, иллюстрации желательны, но не обязательны; подробности <Node id="241"/>(http://www.materialstoday.com/writing_competition_announcement.html)<Node id="310"/> 
+ 
+ 
+Статья победителя будет опубликована в № <Node id="357"/>Июль<Node id="361"/>/<Node id="362"/>Август<Node id="368"/>, <Node id="370"/>2008 г.<Node id="377"/>, кроме того победитель получит приз - цифровую фоторамку. 
+ 
+Срок подачи работ - до <Node id="462"/>14 апреля 2008 г.<Node id="479"/> 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="357" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Июль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="370" EndNode="377">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="241" EndNode="310">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="131" EndNode="140">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="462" EndNode="479">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="362" EndNode="368">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Август</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

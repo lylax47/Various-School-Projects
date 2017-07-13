@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Главным информационным поводом <Node id="32"/>сентября<Node id="40"/> стали кадровые перестановки в руководстве Российской корпорации нанотехнологий.
+
+«Воспринимаю свое назначение как новый масштабный и интересный вызов, который прямо связан с исторической задачей перевода России на инновационный путь развития. Мне близки и понятны миссия и главная цель корпорации — завоевание Россией лидирующих позиций на мировом рынке нанотехнологической продукции» – так прокомментировал свое назначение на пост генерального директора РОСНАНО Анатолий Чубайс.
+
+Вторым важнейшим событием <Node id="548"/>месяца<Node id="554"/>, не прошедшим мимо внимания СМИ, стало утверждение правлением Российской корпорации нанотехнологий очередного инвестиционного проекта – создание предприятия по производству металлорежущего инструмента с наноструктурированным покрытием. Объем <Node id="797"/>инвестиций<Node id="807"/> в проект составит <Node id="826"/>1 млрд рублей<Node id="839"/>, из которых 500 млн выделит РОСНАНО, 250 млн – Гапромбанк и столько же – НПО «Сатурн».
+
+Более подробно с дайджестом российской и зарубежной прессы можно ознакомиться, пройдя по ссылке.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="32" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Инвестиции" StartNode="797" EndNode="807">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="826" EndNode="839">
+</Annotation>
+<Annotation Id="3" Type="Инвестиции" StartNode="797" EndNode="807">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="548" EndNode="554">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

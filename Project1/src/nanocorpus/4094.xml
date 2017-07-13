@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Кристаллик Ge в матрице 4H-SiC. Образец получен в университете г.Йена путем ионной имплантации и последующего отжига. Изображение получено на микроскопе JEM-3010 в зоне [2 -1 -1 0] матрицы. Особенности контраста кристаллика позволяют говорить о том, что он имеет гексагональную упаковку и ориентирован направлением [0001] вдоль пучка.
+ 
+Исследование этой системы методом спектроскопии потерь энергии электронов (EELS) в области малых потерь (0-5эВ) показало, что ширина запрещенной зоны <Node id="489"/>квантовой точки<Node id="504"/> изменяется, подстраиваясь под ширину зоны матрицы (quantum confinement).
+    
+ 
+      
+ 
+  
+ 
+        
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Квантовая+точка" StartNode="489" EndNode="504">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

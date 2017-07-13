@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Китайской Академии Наук (Chinese Academy of Sciences) установили, что однослойные <Node id="93"/>углеродные <Node id="104"/>нанотрубки<Node id="114"/> могут влиять на ДНК человека.
+
+Многие раковые клетки вызывают экспрессию гена, отвечающего за синтез энзима теломеразы, который помогает раковым клеткам продолжать неконтролируемое деление и благодаря этому начинается неконтролируемый рост опухоли.
+
+Оказалось, что <Node id="380"/>углеродные <Node id="391"/>нанотрубки<Node id="401"/> могут влиять на процесс синтеза энзима теломеразы. Как сообщает Nanotechweb, они «модулируют» процесс экспрессии гена и останавливают возникновение теломеров. Поэтому <Node id="569"/>нанотрубки<Node id="579"/> косвенно не допускают рост клеток in vivo.
+
+Как говорят ученые, это открытие позволит разработать более эффективные методы раковой терапии.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="569" EndNode="579">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="380" EndNode="401">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="391" EndNode="401">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="93" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

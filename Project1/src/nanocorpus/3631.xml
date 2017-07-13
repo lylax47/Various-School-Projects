@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В <Node id="3"/>настоящее время<Node id="18"/> полупроводниковые <Node id="37"/>нанопроволоки<Node id="50"/> вызывают повышенный интерес, прежде всего, благодаря своим электронным и оптическим свойствам. Однако <Node id="153"/>нанопроволоки<Node id="166"/> могут также обладать отличными механическими характеристиками и применяться, например, в качестве механических резонаторов, которые способны чувствовать объекты с массой до 10-21 грамм. 
+ 
+В <Node id="358"/>настоящее время<Node id="373"/> большинство микро- и наноэлектромеханических систем производятся по технологии сверху-вниз, как правило, методами <Node id="488"/>литографии<Node id="498"/> электронным или ионным пучком. Качество механических резонаторов, полученных таким образом, заметно ниже, чем ожидается, вследствие неточностей изготовления и различных структурных дефектов. 
+ 
+Исследователи из Yale University (США) изготовили резонаторы из массивов нанопроводов GaN. Сначала на сапфировой подложке методом MOCVD выращивается слой GaN или AlN, который покрывается 100 нм слоем SiO2 при помощи PECVD. В слое SiO2 фотолитографически проделываются отверстия, через которые наращиваются крупные островки GaN в виде ограненных кристаллов. На грани был нанесен слой никеля, выполняющего роль катализатора для дальнейшего CVD роста <Node id="1141"/>нанопроволок<Node id="1153"/> GaN. <Node id="1159"/>Грани<Node id="1164"/> островков оказались ориентированы таким образом, что <Node id="1218"/>нанопроволоки<Node id="1231"/> выросли горизонтально и соединили островки между собой. Толщина <Node id="1296"/>нанопроволок<Node id="1308"/> при температуре синтеза 850 °С составила 25-65 нм, а длина – несколько микрон. 
+ 
+Было показано, что полученные структуры могут выступать в роли механических резонаторов, добротность которых составляет 400–1000. Модуль упругости массива <Node id="1546"/>нанопроволок<Node id="1558"/> составляет примерно 340 ГПа. 
+ 
+Работа «Directed Growth of Horizontally Aligned Gallium Nitride Nanowires for Nanoelectromechanical Resonator Arrays» опубликована в Nano Letters. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанопроволока" StartNode="1296" EndNode="1308">
+</Annotation>
+<Annotation Id="1" Type="Нанопроволока" StartNode="153" EndNode="166">
+</Annotation>
+<Annotation Id="2" Type="Нанопроволока" StartNode="1546" EndNode="1558">
+</Annotation>
+<Annotation Id="3" Type="Нанопроволока" StartNode="1141" EndNode="1153">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="3" EndNode="18">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Литография" StartNode="488" EndNode="498">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанопроволока" StartNode="37" EndNode="50">
+</Annotation>
+<Annotation Id="9" Type="Нанопроволока" StartNode="1218" EndNode="1231">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="1159" EndNode="1164">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Грани</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="358" EndNode="373">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Института Микроэлектроники Академии Наук Китая (Institute of Microelectronics, Chinese Academy of Sciences) успешно изготовили первое в Китае наноустройство –полевой транзистор на <Node id="191"/>наностержнях<Node id="203"/> оксида цинка (ZnO).
+
+ZnO – исключительно интересный, мультифункциональный материал и к тому же полупроводник, имеющий широкую запрещённую зону. <Node id="348"/>Наноматериалы<Node id="361"/> из ZnO, такие, как нанопровода, <Node id="394"/>наностержни<Node id="405"/>, <Node id="407"/>наноленты<Node id="416"/>, <Node id="418"/>нанокольца<Node id="428"/>, привлекают большое внимание исследователей со всего мира, поскольку обладают уникальными оптическими, полупроводниковыми и пьезоэлектрическими свойствами. Китайские ученые сосредоточили свои интересы, в основном, в области выращивания <Node id="665"/>наноматериалов<Node id="679"/> и разработке диодов на их основе.
+
+Исследовательская группа из Института Микроэлектроники, возглавляемая проф. Занг Хейинг (Prof. Zhang Haiying), предложила оригинальную технологию известного вида «боттом-ап» («bottom-up») для дизайна и разработки нанотехнологических устройств. Применив методы традиционной контактной фотолитографии, китайские ученые использовали <Node id="1045"/>наностержни<Node id="1056"/> из ZnO в качестве материала для канала транзистора и изготовили полевой транзистор типа металл-оксид-полупроводник с оксидным истоком и металлическим стоком. Транзистор показал результаты, удовлетворившие разработчиков.
+
+Как следующий шаг, проф. Занг и ее коллеги намерены усовершенствовать технологию изготовления полевого транзистора. Для этого они предполагают вырастить и использовать <Node id="1446"/>нанопроволоку<Node id="1459"/> еще меньшего, чем у <Node id="1480"/>наностержней<Node id="1492"/>, диаметра в качестве канала. По их мнению это позволит улучшить показатели и решить некоторые проблемы практического применения наноустройств.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наностержень" StartNode="1045" EndNode="1056">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанокольцо" StartNode="418" EndNode="428">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанопроволока" StartNode="1446" EndNode="1459">
+</Annotation>
+<Annotation Id="6" Type="Наностержень" StartNode="394" EndNode="405">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="665" EndNode="679">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наностержень" StartNode="191" EndNode="203">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Наностержень" StartNode="1480" EndNode="1492">
+</Annotation>
+<Annotation Id="13" Type="Наноматериал" StartNode="348" EndNode="361">
+</Annotation>
+<Annotation Id="14" Type="Нанолента" StartNode="407" EndNode="416">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

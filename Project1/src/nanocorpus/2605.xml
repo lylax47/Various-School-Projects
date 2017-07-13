@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+«<Node id="2"/>Прошедший в Москве Международный форум по нанотехнологиям убедительно продемонстровал, что в России уже есть немаловажные достижения в развитии самых различных нанотехнологий, в создании элементов инфраструктуры, наноиндустрии. На этом форуме развернута большая выставка, где показаны научно-исследовательские и опытно-конструкторские работы и уже их практическое применение рядом отечественных компаний<Node id="405"/>», – заявил журналистам заместитель руководителя фракции «Единая Россия» в Госдуме академик РАН Андрей Кокошин<Node id="515"/> на Международном форум по нанотехнологиям. <Node id="559"/>По словам Кокошина, в то же время очевидно, что сейчас надо активнее переходить к созданию различных сложных механизмов и даже систем с использованием <Node id="710"/>наноматериалов<Node id="724"/> и определенных нанотехнологий, что является следующим этапом развития в этой сфере<Node id="807"/>.
+
+<Node id="810"/>Кокошин также отметил, что масштабы промышленного использования различных нанотехнологий остаются, как правило, в нашей стране весьма незначительными<Node id="959"/>. Большой бизнес пока не торопится прийти в эту сферу, и основные усилия приходятся на деятельность государства, где нельзя не отметить, в частности, результаты, достигнутые Минобрнаукой и <Node id="1148"/>Роснаукой<Node id="1157"/>.
+
+«<Node id="1161"/>Многообещающими являются ряд проектов, запущенных госкорпорацией «Роснано», которые будут осуществляться по модели государственно-частного партнерства», – отметил Кокошин<Node id="1331"/>.
+
+А.А.Кокошин был одним из авторов Закона «О госкорпорации «Роснано» и в <Node id="1405"/>настоящее время<Node id="1420"/> входит в состав его Наблюдательного совета, возглавляемого министром науки и образования А.А.Фурсенко.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="2" EndNode="515">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="810" EndNode="959">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="559" EndNode="807">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="2" EndNode="405">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="2" EndNode="515">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="710" EndNode="724">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1161" EndNode="1331">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="цитаты" StartNode="2" EndNode="405">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="упоминается_с" StartNode="2" EndNode="405">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1405" EndNode="1420">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="2" EndNode="1331">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="810" EndNode="959">
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="1161" EndNode="1331">
+</Annotation>
+<Annotation Id="20" Type="темы" StartNode="2" EndNode="405">
+</Annotation>
+<Annotation Id="23" Type="автор" StartNode="559" EndNode="807">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="цитаты" StartNode="2" EndNode="405">
+</Annotation>
+<Annotation Id="24" Type="упоминается" StartNode="2" EndNode="1331">
+</Annotation>
+<Annotation Id="27" Type="Властная_Структура" StartNode="1148" EndNode="1157">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаукой</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="2" EndNode="1331">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="2" EndNode="1331">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

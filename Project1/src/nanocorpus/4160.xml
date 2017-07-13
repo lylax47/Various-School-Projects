@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Посещение Первого в истории России, да еще проводимого с таким размахом, нанофорума оставляет двойственное впечатление. С одной стороны, чувствуешь себя маленьким глупеньким муравьишкой, присовокупленным к чему-то священному и великому, несмотря "на приставку", делу, а с другой стороны удивляешься - ну почему <Node id="313"/>НАНО<Node id="317"/> производит столько энтропии (видимо, чтобы сформировать какую-нибудь красивую диссипативную самоорганизующуюся структуру).
+ 
+И на фоне всего этого око выхватывает из общей суеты какие-то моменты, которые живут сами по себе и привлекают внимание лишь на миг. Но на сердце от этого становится теплей и спокойней ... за судьбу наномира.
+ 
+В - общем, дальше в полной тишине ... без комментариев... Впрочем, чего секретничать, все очень известные и узнаваемые люди...
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="313" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нано</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Глубокоуважаемые коллеги!
+ 
+<Node id="30"/>Утром в субботу, 22 марта<Node id="55"/>, "Нанометр" был <Node id="72"/>несколько часов<Node id="87"/> недоступен извне, как и сайт МГУ и факультетов в целом, продолжая, тем не менее, свою многотрудную жизнь на сервере. Причины неожиданной потери связи с внешним миром устанавливаются (возможные гипотетические причины этого приводятся ниже). Приносим свои извинения за форс-мажорные обстоятельства и сообщаем, что ни одна заявка участников Олимпиады не пострадала. 
+ 
+В <Node id="456"/>настоящее время<Node id="471"/> статистика участников следующая:
+ Допущено к участию: 490, девушек - 135, юношей - 355.
+ География участников: Россия: 436, Украина: 17, Беларусь: 13, Казахстан: 5, Узбекистан: 5, Таджикистан: 3, Азербайджан: 2, Армения: 3, Молдова: 1, Италия: 1, Болгария: 1, Швейцария: 1, Чехия: 1, Япония: 1, Турция: 1, Грузия: 1.
+ Возраст участников: <Node id="810"/>15 и менее лет<Node id="824"/>: 32, <Node id="830"/>16 лет<Node id="836"/>: 35, <Node id="842"/>17 лет<Node id="848"/>: 54, <Node id="854"/>18 лет<Node id="860"/>: 39, <Node id="866"/>19 лет<Node id="872"/>: 39, <Node id="878"/>20 лет<Node id="884"/>: 64, <Node id="890"/>21 год<Node id="896"/>: 45, <Node id="902"/>22 года<Node id="909"/>: 56, <Node id="915"/>23 года<Node id="922"/>: 31, <Node id="928"/>24 года<Node id="935"/>: 28, <Node id="941"/>25 лет<Node id="947"/>: 21, <Node id="953"/>26 лет<Node id="959"/>: 26, <Node id="965"/>27 лет<Node id="971"/>: 6.
+ Статус: школьник (7-9 класс): 22, абитуриент (школьник 10-11 класса): 79, студент младших курсов (1-3): 124, бакалавр: 19, студент старших курсов (4-5.5, специалист): 75, магистр (5-6 курс): 23, аспирант, соискатель ученой степени: 81, молодой ученый (кандидат наук или без степени): 36, служащий: 11, предприниматель, менеджер: 7, никто из перечисленных: 13.
+ 
+Фотографии участников, собираемые в анкетах, будут нужны для оформления портретной галереи участников, адреса требуются для почтовой пересылки материалов олимпиады, а также дипломов участника, которые получат все, решившие самый минимум несложных задач, блок которых будет и на школьном туре, и на туре для всех остальных талантов (для победы, конечно, будет необходимо решить и более сложные задачи). Тем самым практически никто не уйдет с этой олимпиады с пустыми руками, и все получат, мы надеемся, удовольствие от решения интересных задач. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="902" EndNode="909">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="953" EndNode="959">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="830" EndNode="836">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="72" EndNode="87">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="890" EndNode="896">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="915" EndNode="922">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="928" EndNode="935">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="890" EndNode="896">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="842" EndNode="848">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="830" EndNode="836">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="965" EndNode="971">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="456" EndNode="471">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="965" EndNode="971">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="941" EndNode="947">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="854" EndNode="860">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="810" EndNode="824">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="878" EndNode="884">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="866" EndNode="872">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="866" EndNode="872">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="941" EndNode="947">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="842" EndNode="848">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="953" EndNode="959">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="878" EndNode="884">
+</Annotation>
+<Annotation Id="22" Type="Год" StartNode="854" EndNode="860">
+</Annotation>
+<Annotation Id="25" Type="Год" StartNode="902" EndNode="909">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="928" EndNode="935">
+</Annotation>
+<Annotation Id="27" Type="Дата" StartNode="30" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="915" EndNode="922">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

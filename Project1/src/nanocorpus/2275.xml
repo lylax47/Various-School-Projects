@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Июльский номер дайджеста «Нанотехнологии в мире»Среди главных тем публикаций в СМИ – международное сотрудничество. В центре внимания – визиты делегации ГК «Роснанотех» в Китай и США, в ходе которых были сделаны интересные заявления. Также в дайджесте приводятся наиболее интересные публикации минувшего <Node id="303"/>месяца<Node id="309"/> о научных достижениях в сфере нанотехнологий и о событиях наноиндустрии.
+Полный текст дайджеста см. <Node id="410"/>здесь:http://www.rusnano.com/…_2008_07.pdfhttp://www.nanometer.ru/…4_53676.htmlКак<Node id="492"/> всегда, интересно почитать… И хотя по большей части все эти сообщения уже появлялись на нашем блоге, собранные воедино, они приобретают новое качество… Советую ознакомиться…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="303" EndNode="309">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="410" EndNode="492">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Немецкие ученые научили <Node id="24"/>золотые <Node id="32"/>наночастицы<Node id="43"/> плыть в нужном направленииНемецкие ученые разработали метод, который позволяет управлять движением <Node id="143"/>наночастиц<Node id="153"/> между водной и жирной средой. Метод может иметь медицинские применения: в организме <Node id="238"/>наночастицы<Node id="249"/> должны в нужный момент переходить из водной среды (кровь) в жирную (клеточная мембрана), сообщает общество Макса Планка в своем пресс-релизе.
+<Node id="392"/>Наночастица<Node id="403"/> золота<Node id="410"/>, покрытая цепочками полимеров
+Известно, что в последнее время на использование нанотехнологий в медицинских целях возлагаются большие надежды. Так, недавно «Лента.ру» сообщала о том, что биоинженеры научились с помощью <Node id="630"/>золотых <Node id="638"/>наночастиц<Node id="648"/> наблюдать химические реакции в отдельно взятой клетке, не разрушая ее.
+
+«Загнать» <Node id="731"/>наночастицы<Node id="742"/> в нужное место не так-то просто. В идеале они вводятся в кровь и с ее током доставляются в любую точку тела, где покидают кровеносные сосуды и «входят» в клетки. Однако кровь представляет собой водный раствор, а клеточные мембраны – жирную среду. Это означает, что <Node id="1008"/>наночастицы<Node id="1019"/> должны быть «растворимы» в обеих средах, причем поочередно: сначала в воде, потом в жире (потом опять в воде).
+Dr. Dayang Wang
+Коллективу ученых из Института <Node id="1178"/>коллоидов<Node id="1187"/> и разделов сред под руководством Даяна Вана (Dayang Wang) удалось создать <Node id="1262"/>наночастицы<Node id="1273"/>, перемещением которых между водным и жирным раствором можно управлять.
+
+Группа Вана присоединила к золотым частицам диаметром от двух до четырнадцати нанометров полимерные цепочки из метилакрилата, на которых «висят» веточки полиэтиленгликоля. Цепочки напоминают по форме щетки для мытья посуды. Именно они «выбирают» среду, куда двинется частица.
+Окрашенные <Node id="1633"/>наночастицы<Node id="1644"/> золота<Node id="1651"/> в водном растворе (слева) движутся в слой толуола (в центре) и снова обратно (справа)
+Ученые поместили частицы на границу двух несмешивающихся сред: воды и толуола (один из нефтяных растворителей). Полимерные щеточки образовывали водородные связи с молекулами воды, и частицы перемещались в водный слой. <Node id="1956"/>Затем<Node id="1961"/> исследователи нагревали воду и добавляли в нее соль (годится практически любая растворимая соль). Это ослабляло водородные связи, и открывались участки щеточек, способные к взаимодействию с жиром. Частицы, находившиеся на границе сред, переходили в слой толуола.
+
+Понизив температуру и добавив в воду лимонной кислоты, ученые опять делали возможным образование водородных связей – и частицы возвращались в водную фазу. По мнению исследователей, граница вода-толуол может служить условной моделью клеточной мембраны.
+<Node id="2478"/>http://lenta.ru/…/11/26/gold/Stimuli-Responsive<Node id="2525"/> Reversible Transport of Nanoparticles Across Water/Oil Interfaces – Transporting gold across physical boundaries, Max Planck Society Press Release, <Node id="2674"/>22.11.07<Node id="2682"/>
+<Node id="2683"/>http://www.mpg.de/…3/index.htmlOriginal<Node id="2722"/> work:
+
+Edwards, E. W., Chanana, M., Wang, D.Y. and Möhwald, H. Stimuli-Responsive Transport of Nanoparticles Across Water-Oil Interfaces – Angewandte Chemie, Online publication, 15th November 2007
+Молодцы ребята! С помощью довольно простых методов им удалось решить в общем-то довольно непростую задачу!.. Ну, теперь можно надеяться, что дела в области наномедицины и нанобиологии пойдут повеселее… ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Коллоид" StartNode="1178" EndNode="1187">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="392" EndNode="403">
+</Annotation>
+<Annotation Id="2" Type="Наночастица+золота" StartNode="1633" EndNode="1651">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="731" EndNode="742">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2683" EndNode="2722">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наночастица+золота" StartNode="630" EndNode="648">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2478" EndNode="2525">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1008" EndNode="1019">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1633" EndNode="1644">
+</Annotation>
+<Annotation Id="17" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="1956" EndNode="1961">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="143" EndNode="153">
+</Annotation>
+<Annotation Id="18" Type="Наночастица" StartNode="1262" EndNode="1273">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Наночастица+золота" StartNode="24" EndNode="43">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="638" EndNode="648">
+</Annotation>
+<Annotation Id="23" Type="Наночастица" StartNode="32" EndNode="43">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Наночастица+золота" StartNode="392" EndNode="410">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="238" EndNode="249">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Дата" StartNode="2674" EndNode="2682">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Кокошин<Node id="7"/> скоординирует наукоемкие проектыПрезидиум фракции «Единая Россия» в Госдуме <Node id="84"/>назначил<Node id="92"/> депутата, академика РАН Андрея Кокошина, координатором проектов единороссов в сфере наукоемких технологий.
+Андрей Кокошин
+Об этом во <Node id="226"/>вторник, 8 апреля<Node id="243"/>, сообщила пресс-служба фракции «Единая Россия» в Госдуме.
+Среди проектов, которые будет координировать Кокошин, развитие в России высокопроизводительных вычислений («Фабрика мысли»), создание особо чистых вакцин на основе нанотехнологий, разработка и производство высокоэкологичных и высокоэффективных отечественных (российско-белорусских) дизельных двигателей для тяжелой автомобильной техники, исследования и разработки по производству высокоэффективного и экологически чистого биотоплива из различных видов возобновляемого сырья.
+
+Кокошин в разное время <Node id="801"/>занимал<Node id="808"/> должности первого заместителя министра обороны России, секретаря Совета обороны, секретаря Совета безопасности РФ, исполняющего обязанности вице-президента РАН. Депутат известен как успешный куратор ряда технологий двойного назначения и новейших систем вооружений.
+Александр <Node id="1084"/>Плотниковhttp://www.km.ru/news/view.asp?…Я<Node id="1126"/> думаю, он справится!.. Ведь куда б его партия ни бросала, какой бы пост ни поручала, он всегда с честью выполнял порученное ему дело…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Кадровые_перестановки" StartNode="84" EndNode="92">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="801" EndNode="808">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">министр обороны</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Назначения_Увольнения" StartNode="84" EndNode="92">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1084" EndNode="1126">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Назначения_Увольнения</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Кокошин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="сотрудники" StartNode="801" EndNode="808">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="226" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

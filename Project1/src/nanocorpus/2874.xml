@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как известно, <Node id="15"/>углеродные <Node id="26"/>нанотрубки<Node id="36"/> (УНТ) обладают внутренней полостью диаметром порядка нанометра, которая может быть заполнена атомами или молекулами различного типа.
+
+Необычные физико-химические свойства таких объектов и возможности их прикладного использования вызывают интерес, как с фундаментальной, так и прикладной точек зрения. В <Node id="340"/>последние годы<Node id="354"/> в число подобных объектов вошли, так называемые, «стручки» (УНТ, заполненные молекулами <Node id="443"/>фуллеренов<Node id="453"/>).
+
+Внутренняя структура стручков содержит необычный квантовый объект – одномерную цепочку молекул <Node id="552"/>фуллеренов<Node id="562"/>, которая не может быть реализована никаким другим способом, кроме как с использованием <Node id="650"/>нанотрубки<Node id="660"/>. Обычно основу стручка составляет одностенная <Node id="707"/>нанотрубка<Node id="717"/>, однако недавно группе исследователей из Университета Нагои (Япония) удалось получить новую разновидность стручка: двустенную <Node id="844"/>нанотрубку<Node id="854"/>, заполненную молекулами <Node id="879"/>фуллеренов<Node id="889"/> С__60__ либо С__70__. Двустенные УНТ были получены в результате термического разложения <Node id="978"/>СН<Node id="980"/>^^4^^ при температуре 900ºС над поверхностью катализатора на основе Fe/MgO в отношении 3:100.
+
+Оптимальная длительность процесса роста составляла <Node id="1126"/>10 минут<Node id="1134"/>. Для очистки образца УНТ использовали многоступенчатую процедуру, включающую термическую обработку потоком воздуха 50 мл/мин при 450ºС <Node id="1270"/>в течение 10 минут<Node id="1288"/>, приводящую к удалению частиц аморфного углерода и промывание разбавленной кислотой для удаления остатков катализатора. В результате содержание двустенных УНТ в образце достигало <Node id="1468"/>96%<Node id="1471"/>. Очищенные таким образом <Node id="1497"/>нанотрубки<Node id="1507"/> <Node id="1508"/>в течение часа<Node id="1522"/> отжигали на воздухе при 450ºС, что приводило к раскрытию их концов. Наблюдения, выполненные с помощью просвечивающего электронного микроскопа, показали, что диаметры <Node id="1689"/>нанотрубок<Node id="1699"/> лежат в диапазоне от 1 до 5 нм с максимумом в области 2–3 нм, при этом <Node id="1771"/>более 70%<Node id="1780"/> <Node id="1781"/>нанотрубок<Node id="1791"/> являются двустенными.
+
+Для получения стручков образцы УНТ выдерживали <Node id="1862"/>в течение 48 часов<Node id="1880"/> в стеклянной трубке вместе с <Node id="1910"/>фуллеренами<Node id="1921"/> при остаточном давлении 10^^-5^^ Торр и температуре 500ºС. Синтезированные стручки исследовали с помощью просвечивающего электронного микроскопа высокого разрешения, методами спектроскопии комбинационного рассеяния, рентгеновского дифракционного анализа, а также с помощью термогравиметрического анализа.
+
+Как следует из наблюдений, молекулы <Node id="2264"/>фуллеренов<Node id="2274"/> находятся не только во внутренней полости УНТ, но также прикреплены к их наружной поверхности. Это изменяет характерные частоты в спектре комбинационного рассеяния, сдвигая их в синюю область. Результаты термогравиметрических исследований указывают на повышенную термическую стабильность двустенных стручков по сравнению с двустенными УНТ. Так, температура сгорания стручка (C__60__)n DWNT составляет 636,2ºС, в то время как, соответствующая величина для исходной двустенной <Node id="2750"/>нанотрубки<Node id="2760"/> составляет 581,8ºС. Степень заполнения <Node id="2800"/>нанотрубок<Node id="2810"/> молекулами <Node id="2822"/>фуллеренов<Node id="2832"/>, оцененная на основании результатов термогравиметрического анализа, составляет <Node id="2912"/>около 75%<Node id="2921"/>.
+А.В.Елецкий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1508" EndNode="1522">
+</Annotation>
+<Annotation Id="1" Type="Фуллерен" StartNode="2822" EndNode="2832">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="1910" EndNode="1921">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="26" EndNode="36">
+</Annotation>
+<Annotation Id="4" Type="Фуллерен" StartNode="443" EndNode="453">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="2750" EndNode="2760">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="2912" EndNode="2921">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1270" EndNode="1288">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="879" EndNode="889">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1771" EndNode="1780">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1689" EndNode="1699">
+</Annotation>
+<Annotation Id="11" Type="Фуллерен" StartNode="2264" EndNode="2274">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="978" EndNode="980">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="707" EndNode="717">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1126" EndNode="1134">
+</Annotation>
+<Annotation Id="17" Type="Фуллерен" StartNode="552" EndNode="562">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="2800" EndNode="2810">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="650" EndNode="660">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1781" EndNode="1791">
+</Annotation>
+<Annotation Id="21" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="340" EndNode="354">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="1862" EndNode="1880">
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="1468" EndNode="1471">
+</Annotation>
+<Annotation Id="25" Type="Углеродная+нанотрубка" StartNode="15" EndNode="36">
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="844" EndNode="854">
+</Annotation>
+<Annotation Id="26" Type="Нанотрубка" StartNode="1497" EndNode="1507">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

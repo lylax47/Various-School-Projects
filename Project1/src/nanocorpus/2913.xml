@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Дизельные двигатели испускают в воздух бессчетное количество <Node id="62"/>наночастиц<Node id="72"/>, не ограниченных никакими правительственными документами, регулирующими выбросы, и, естественно, фильтрами в двигателе. Моделирование, проведенное в Университете Мичигана (University of Michigan), показывает, что эти <Node id="290"/>наночастицы<Node id="301"/> могут «застрять» в легких и блокировать функцию легочной жидкости, облегчающей процесс дыхания.
+
+Легочные поверхностно-активные жидкости содержат протеины и молекулы липидов. Функция этих жидкостей – уменьшить напряжения в легких, предотвратить их сворачивание и помочь в окончательной транспортировке из легких инородных частиц. В то же самое время, <Node id="653"/>наночастицы<Node id="664"/>, попавшие в легкие при вдохе, ведут себя иначе, чем большинство инородных частиц. Компьютерное моделирование, проведенное в Университете Мичигана показывает, что такие частицы не будут выведены из легких, но, наоборот, будут захвачены поверхностно-активным веществом, притянуты и связаны жирными липидными молекулами. Таким образом, присутствие <Node id="1010"/>наночастиц<Node id="1020"/> может мешать основным функциям легочной поверхностно-активной жидкости, прерывая взаимодействие между пептидами и липидами.
+
+Руководитель работ – Анджела Виоли (Angela Violi) – адъюнкт-профессор инженерного факультета Университета Мичигана (U-M College of Engineering) доложила результаты работы на собрании Американского Химического Общества (American Chemical Society) <Node id="1392"/>20 августа с.г.<Node id="1407"/>
+
+Предыдущие исследования показывали, что накопление <Node id="1460"/>наночастиц<Node id="1470"/> в легких может привести к воспалительным процессам, закупорке кровяных сосудов, изменениях в дыхательном процессе и ритме работы сердца. По-видимому, обсуждаемая работа является первой, в которой исследователи показали как <Node id="1694"/>наночастицы<Node id="1705"/> могут быть захвачены в легких и влиять на функции легочной жидкости. В работе отмечено, что имеется быстро нарастающее количество данных, свидетельствующих о том, что малые частицы имеют гораздо болшее негативное влияние на здоровье, чем это предполагалось ранее. Нановыбросы дизельных двигателей и других подобных источников загрязнения воздуха являются серьезной проблемой не только из-за малых размеров, но и потому, что предположительно являются канцерогенами (химические вещества, способные при попадании в организм человека или животных приводить к образованию злокачественных опухолей). Эта проблема усугубляется тем обстоятельством, что пока нет эффективного регулирования и контроля за выбросами <Node id="2411"/>наночастиц<Node id="2421"/>.
+
+В <Node id="2426"/>настоящее время<Node id="2441"/> предписания, регламентирующие выбросы дизельных двигателей в США и Европе, определяют размер частиц, начиная только с 2,5 мкм.
+
+Как показывают исследования группы Виоли – это практически на три порядка больше, чем размер <Node id="2663"/>наночастиц<Node id="2673"/>, имеющихся в выбросах. Углеродные <Node id="2708"/>наночастицы<Node id="2719"/> составляют только 0,1–<Node id="2742"/>1,5%<Node id="2746"/> от всей массы выбросов дизельных двигателей, но если говорить о количестве частиц, то <Node id="2833"/>наночастицы<Node id="2844"/> составляют 35–<Node id="2859"/>97%<Node id="2862"/> в выбросах в зависимости от режима движения.
+
+Компьютерная модель, построенная Виоли для имитирования исследуемого процесса, может также и предсказать сколько и какие <Node id="3030"/>наночастицы<Node id="3041"/> следует ожидать в выбросах, а также их форму и распределение в зависимости от состава топлива. Модель позволяет также определить степень влияния выбросов на легкие и может быть эффективно использована для оптимизации дизельного топлива, а также и для расчета выбросов двигателей, работающих на биотопливе.
+
+Статья под названием «Molecular Dynamics Simulation Study of a Pulmonary Surfactant Film Interacting with a Carbonaceous Nanoparticle», содержащая результаты моделирования будет опубликована в выпуске Biophysical Journal <Node id="3570"/>15 октября с.г.<Node id="3585"/>
+Дополнительная информация: Университет Мичигана Анджела Виоли American Chemical Society </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="653" EndNode="664">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="2663" EndNode="2673">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1010" EndNode="1020">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="2742" EndNode="2746">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="2426" EndNode="2441">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="2411" EndNode="2421">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="3570" EndNode="3585">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="2833" EndNode="2844">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="1392" EndNode="1407">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="2708" EndNode="2719">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="1460" EndNode="1470">
+</Annotation>
+<Annotation Id="23" Type="Наночастица" StartNode="1694" EndNode="1705">
+</Annotation>
+<Annotation Id="22" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Наночастица" StartNode="62" EndNode="72">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="3030" EndNode="3041">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Наночастица" StartNode="290" EndNode="301">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="Процент" StartNode="2859" EndNode="2862">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

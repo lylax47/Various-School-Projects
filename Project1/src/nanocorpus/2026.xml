@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Европейская Комиссия запускает новый проект – «Наностандарт»
+Цель проекта – сбор данных и предварительные исследования в области нанотехнологий и дальнейшее создание стандартов для данной отрасли. Такая стандартизация будет играть значительную роль в развитии мировой нанотехнологии.
+Предполагается установаить стандарты в следующих направлениях:
+
+= границы развития нанотехнологий;
+
+= необходимость новых измерительных инструментов и технологий, которые будут поддерживать развитие нанотехнологии;
+
+= приоритеты развития измерительных инструментов в нанотехнологии;
+
+= приоритеты предварительных исследований.
+
+Ключевыми моментами проекта «Наностандарт» будут направления, которые определят исследования в нанотехнологиях и приоритеты стандартизации.
+<Node id="752"/>http://rnd.cnews.ru<Node id="771"/>/…cience.shtml?…http://ec.europa.eu/…_<Node id="809"/>18-9-02<Node id="816"/>.pdfДа, это разумный подход… Потому что без стандартов, без определения границ и направлений исследований нельзя говорить о развитии любого Н-Т направления, не говоря уже о такой специфической области, как нанотехнологии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="752" EndNode="771">
+</Annotation>
+<Annotation Id="1" Type="Дата_рождения" StartNode="809" EndNode="816">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

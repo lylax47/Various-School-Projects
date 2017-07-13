@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Команда ученых из Политехнического Института Ренсслеера (Rensselaer Polytechnic Institute) создала гибридную структуру, соединяющую лучшие свойства <Node id="149"/>углеродных <Node id="160"/>нанотрубок<Node id="170"/> и металлических нанопроводников.
+
+Как сообщает EurekAlert, новый <Node id="236"/>наноматериал<Node id="248"/> может расширить применение <Node id="276"/>углеродных <Node id="287"/>нанотрубок<Node id="297"/> в электронных компонентах.
+
+Необычно высокая электропроводность <Node id="362"/>нанотрубок<Node id="372"/> делает их отличным материалом для проводников, соединяющих наноэлектронные компоненты в пределах одного чипа. Однако технологии, позволяющие соединять <Node id="524"/>нанотрубки<Node id="534"/> к кремниевым или металлическим контактам до сих пор были недоработанными, из-за чего <Node id="620"/>нанотрубки<Node id="630"/> нельзя было использовать в микроэлектронной промышленности.
+
+Как говорит один из исследователей, Фунг Суонг Оу (Fung Suong Ou), решение этой проблемы было достаточно изящным – ученые смогли создать гибридный материал, соединяющий проводящие и механические свойства <Node id="896"/>углеродных <Node id="907"/>нанотрубок<Node id="917"/>, и медных нитей.
+
+Технология изготовления гибрида достаточно проста: тонкие медные или золотые нити помещают в печь, в которой находится смесь, богатая углеродом, и, через время, нити «обрастают» снаружи <Node id="1122"/>нанотрубками<Node id="1134"/>.
+
+Как говорят исследователи, кроме меди и золота, <Node id="1185"/>нанотрубки<Node id="1195"/> можно наращивать и на других металлических материалах.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="896" EndNode="917">
+</Annotation>
+<Annotation Id="2" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1122" EndNode="1134">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="907" EndNode="917">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="362" EndNode="372">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="524" EndNode="534">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="287" EndNode="297">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1185" EndNode="1195">
+</Annotation>
+<Annotation Id="10" Type="Углеродная+нанотрубка" StartNode="149" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="620" EndNode="630">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="236" EndNode="248">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="276" EndNode="297">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="160" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

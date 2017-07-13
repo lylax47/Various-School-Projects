@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследования спектров ядерного магнитного резонанса нового класса магнетореологических <Node id="88"/>наножидкостей<Node id="101"/> способно помочь исследователям различать здоровые и повреждённые ткани человеческого организма.
+
+Наталья Ногинова и <Node id="218"/>её<Node id="220"/> коллеги из Норфолкского Государственного Университета в США обнаружили, что суспензии <Node id="307"/>наночастиц<Node id="317"/> гамма-оксида железа влияют на спиновую релаксацию в окружающей <Node id="381"/>наночастицы<Node id="392"/> жидкости. Этот эффект отличен от наблюдаемого в твёрдом теле и проявляется различным образом в разных жидкостях.
+
+Магнитные <Node id="517"/>наночастицы<Node id="528"/> являются перспективными объектами для научных, технологических и медицинских приложений – доставки лекарств, термотерапии раковых опухолей, магнитно-резонансной визуализации (в качестве контрастных агентов).
+
+Для того, чтобы лучше изучить магнитные и динамические свойства магнитных <Node id="812"/>наночастиц<Node id="822"/> и их влияние на окружающую их среду, учёные исследовали сузпензии магнитных <Node id="899"/>наночастиц<Node id="909"/> в различных твёрдых и жидких средах. «<Node id="948"/>Наножидкость<Node id="960"/>» содержит функционализированные частицы маггемита и ведёт себя как жидкость даже в отсутствие растворителя.
+
+Образцы изучались в сильном (7 Тесла) магнитном поле ЯМР-спектрометра. Принцип его работы состоит в том, что импульсы магнитного поля ориентируют спины ядер водорода в одном направлении, после чего измеряется динамика их релаксации в исходное состояние.
+
+При повышении концентрации <Node id="1352"/>наночастиц<Node id="1362"/> исследователи наблюдали значительное уширение протонного ЯМР-спектра и возрастание скорости релаксации.
+
+По их словам, присутствие магнитных <Node id="1504"/>наночастиц<Node id="1514"/> оказывает влияние на резонансную частоту и скорость релаксации <Node id="1578"/>ядерных спинов<Node id="1592"/> в окружающей <Node id="1606"/>наночастицы<Node id="1617"/> среде, поскольку эти наномагниты создают вокруг себя дополнительное поле. Это поле и является причиной изменённой релаксации в жидкостях, где существует дополнительный фактор движения молекул среды; в твёрдом теле такое движение невозможно, и эффект не наблюдается.
+
+Поскольку связанные с <Node id="1907"/>наночастицами<Node id="1920"/> изменения в процессе релаксации, в первую очередь, определяются самодиффузией молекул жидкости, скорость которой изменяется от ткани к ткани, этот метод может быть использован для различения здоровых и повреждённых тканей. Кроме того, уширение спектральной линии и релаксация могут позволить значительно повысить контрастность в магнитно-резонансной визуализации: например, поскольку интенсивность наблюдаемого сигнала зависит от его спектральной ширины, области с широкой линией будут выглядеть темнее.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="307" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1352" EndNode="1362">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="218" EndNode="220">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="517" EndNode="528">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="899" EndNode="909">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наножидкость" StartNode="948" EndNode="960">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Ядерный+спин" StartNode="1578" EndNode="1592">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="1606" EndNode="1617">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="1907" EndNode="1920">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="381" EndNode="392">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наночастица" StartNode="1504" EndNode="1514">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наножидкость" StartNode="88" EndNode="101">
+</Annotation>
+<Annotation Id="20" Type="Наночастица" StartNode="812" EndNode="822">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

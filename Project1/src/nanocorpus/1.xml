@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Наночастицы<Node id="12"/> серебра являются одним из самых известных примеров коммерческих приложений нанотехнологий. Их антибактериальные свойства используются в самых разных продуктах – от бытовой техники до носков. Учёные из Banaras Hindu University (Индия) поставили перед собой задачу узнать больше о том, что именно даёт <Node id="313"/>наночастицам<Node id="325"/> серебра их уникальные свойства.
+
+Используя колориметр для исследования влияния <Node id="405"/>наночастиц<Node id="415"/> серебра на скорость роста бактерий, группа обнаружила, что <Node id="475"/>наночастицы<Node id="486"/> сильнее влияют на размножение грамотрицательных организмов, в том числе Escherichia coli, Salmonella и Hemophilus influenzae, – по сравнению с грамположительными.
+
+Для более детального изучения механизма действия, учёные сделали снимки в электронном микроскопе. В начале кластеры <Node id="767"/>наночастиц<Node id="777"/> присоединялись к клеточным стенкам, вероятно, в регионах, богатых отрицательно заряженными функциональными группами. <Node id="895"/>Затем<Node id="900"/> частицы входили в клетку, перфорируя внешнюю мембрану, что могло приводить к гибели клетки.
+
+Грамотрицательные бактерии обладают тонкими клеточными стенками, 7–8 нм в толщину, и покрыты слоем липополисахаридов, не обладающим особенной прочностью и твёрдостью. С другой стороны, мембраны грамотрицательных бактерий имеют толщину 20–80 нм, и <Node id="1241"/>наночастицы<Node id="1252"/> серебра проникают через них с заметно большей сложностью.
+
+Исследователи полагают, что <Node id="1340"/>наночастицы<Node id="1351"/> серебра принесут большую пользу для медицины и биоинженерии: бактерии, видимо, неспособны сопротивляться <Node id="1457"/>наночастицам<Node id="1469"/> серебра, что делает их возможной альтернативой обычным антибиотикам. Кроме того, изготовление и сохранение <Node id="1577"/>наночастиц<Node id="1587"/> серебра должны быть проще и дешевле, чем для обычных препаратов.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="767" EndNode="777">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="313" EndNode="325">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наночастица" StartNode="1" EndNode="12">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="475" EndNode="486">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="405" EndNode="415">
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1577" EndNode="1587">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="1340" EndNode="1351">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="1241" EndNode="1252">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="895" EndNode="900">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1457" EndNode="1469">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

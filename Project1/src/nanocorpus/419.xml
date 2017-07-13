@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Согласно оценкам Индийской полупроводниковой ассоциации (India Semiconductor Association, ISA), индийские компании, разрабатывающие дизайн сверхбольших интегральных схем (СБИС), получили в <Node id="190"/>2007 г.<Node id="197"/> <Node id="198"/>760 млн. долл.<Node id="212"/>, и эта сумма может возрасти до <Node id="244"/>927 млн. долл.<Node id="258"/> в <Node id="261"/>2008 г.<Node id="268"/>
+
+<Node id="270"/>Почти 70 %<Node id="280"/> этих доходов в <Node id="296"/>2007 г.<Node id="303"/> принесли заказчики из США, следующий большой заказчик – Европа, большим потенциальным заказчиком рассматривается Япония. Индийские инженеры выполнили в <Node id="456"/>2007 г.<Node id="463"/> 1826 проекта по СБИС дизайну, из них 1027 по заказу зарубежных компаний, остальные проекты – по заказу национальных компаний.
+
+Стоимость создания инфрастукруры для дизайнерских разработок и заработные платы индийским инженерам постоянно растут, но все еще остается 30–<Node id="732"/>40 %<Node id="736"/> разница в сравнении с аналоичными затратами в США и Европе.
+
+<Node id="798"/>61 %<Node id="802"/> разработок относится к СБИС, содержащим от 1 до 10 млн. вентилей, <Node id="869"/>21 %<Node id="873"/> – меньше 1 млн. вентилей, <Node id="900"/>12 %<Node id="904"/> – от 10 до 20 млн., <Node id="925"/>3 %<Node id="928"/> – в диапазоне 20–30 млн., <Node id="955"/>2 %<Node id="958"/> – от 30 до 50 млн., и только <Node id="988"/>1 %<Node id="991"/> дизайнерских разработок относятся к СБИС, содержащим более 50 млн. вентилей. <Node id="1069"/>83 %<Node id="1073"/> разработок относятся к технологическим нормам 90 и 130 нм, <Node id="1133"/>7 %<Node id="1136"/> – к 65 нм, <Node id="1148"/>2 %<Node id="1151"/> – 45 нм. Остальные разработки относятся к дизайну 180 и 250-нм СБИС. Наиболее успешные индийские дизайнерские компании – HCL Technologies, KPIT, Mindtree, Sasken Communication, Tata Consultancy Services и Wipro Technologies, а наиболее активные заказчики – Intel, Texas Instruments, IBM и Motorola. Ведущие инженеры-дизайнеры СБИС зарабатывают от 3520 до <Node id="1507"/>6160 долл.<Node id="1517"/> в <Node id="1520"/>месяц<Node id="1525"/> в зависимости от квалификации.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="900" EndNode="904">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="244" EndNode="258">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="270" EndNode="280">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="869" EndNode="873">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="798" EndNode="802">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="732" EndNode="736">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="198" EndNode="212">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="296" EndNode="303">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1133" EndNode="1136">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="456" EndNode="463">
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="261" EndNode="268">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="925" EndNode="928">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="955" EndNode="958">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1520" EndNode="1525">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="1148" EndNode="1151">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="1069" EndNode="1073">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="190" EndNode="197">
+</Annotation>
+<Annotation Id="21" Type="Процент" StartNode="988" EndNode="991">
+</Annotation>
+<Annotation Id="20" Type="Деньги" StartNode="1507" EndNode="1517">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

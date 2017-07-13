@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт химической кинетики и горения Сибирское отделение РАН гомогенные нуклеации, металлосодержащие органические аэрозоли, <Node id="128"/>нановолокна<Node id="139"/>, <Node id="141"/>наночастицы<Node id="152"/> оксидов металлов, пары металлов, углеродные <Node id="197"/>наночастицы<Node id="208"/>   <Node id="211"/>Наноматериалы<Node id="224"/> Химическая физика, в том числе физика горения и взрыва   Изучение механизмов образования и выделения растениями металлосодержащих органических аэрозолей изучение модификации магнитных свойств частиц карбида железа изучение свойств и механизма образования углеродных <Node id="491"/>наночастиц<Node id="501"/> и <Node id="504"/>нановолокон<Node id="515"/>, <Node id="517"/>наночастиц<Node id="527"/> оксидов металлов исследование механизмов фотохимически инициированных процессов образования <Node id="620"/>наночастиц<Node id="630"/> исследование скорости гомогенной нуклеации паров металлов разработка метода синтеза <Node id="715"/>наночастиц<Node id="725"/> оксидов металлов в процессе горения                              Онищук Андрей Александрович, зав.лабораторией, доктор наук  Панфилов Виктор Николаевич, профессор, доктор наук Бакланов Анатолий Максимович, научный сотрудник, кандидат наук Дубцов Сергей Николаевич, научный сотрудник, кандидат наук Дульцева Галина Григорьевна, научный сотрудник, кандидат наук Махов Геннадий Алексеевич, научный сотрудник, кандидат наук Муллоев Нурулло Урунбоиевич, младший научный сотрудник, кандидат наук Скубневская Галина Иннокентьевна, научный сотрудник, кандидат наук 
+Процессы пиролиза и горения углеводородов сопровождаются образованием аэрозольных сажистых частиц, загрязняющих атмосферу. Кроме того, в <Node id="1421"/>настоящее время<Node id="1436"/> актуальным становится загрязнение атмосферы <Node id="1481"/>углеродными <Node id="1493"/>нанотрубками<Node id="1505"/> (УНТ) в технологических процессах при совместном пиролизе углеводородов и металлсодержащих предшественников. Данные аэрозольные загрязнения оказывают существенное негативное влияние на здоровье людей. Токсичность частиц определяется наличием в их структуре радикальных центров. Таким образом, актуальной является задача исследования процессов образования аэрозольных частиц при пиролизе углеводородов, а также их смесей с металлсодержащими предшественниками. Важным аспектом является исследование радикальных центров, локализованных на поверхности частиц. Кроме того, такие исследования могут быть полезными для оптимизации производства УНТ. 
+ 
+Другим важным аспектом работы служит исследование изменения магнитных свойств <Node id="2229"/>наночастиц<Node id="2239"/> карбида железа (Fe3C), входящих в состав аэрозольных агрегатов, при хемосорбции газообразных веществ. Интерес к Fe3C <Node id="2357"/>наночастицам<Node id="2369"/> обусловлен тем, что они наиболее устойчивы к окислению, чем <Node id="2430"/>наночастицы<Node id="2441"/> железа и, следовательно, их можно рассматривать в качестве реальных компонентов газовых <Node id="2530"/>сенсоров<Node id="2538"/>. 
+ 
+   Видеомикроскоп в комбинации с модифицированной кюветой Милликена диффузионный счетчик аэрозолей (ДСА) калибровочный фотохимический генератор <Node id="2687"/>наночастиц<Node id="2697"/> микроколоночный ВЭЖХ жидкостной хроматограф “Милихром-1” просвечивающий электронный микроскоп      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1421" EndNode="1436">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="620" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица" StartNode="2229" EndNode="2239">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="2687" EndNode="2697">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="517" EndNode="527">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Наночастица" StartNode="715" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Нановолокно" StartNode="128" EndNode="139">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Наночастица" StartNode="491" EndNode="501">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Наночастица" StartNode="2430" EndNode="2441">
+</Annotation>
+<Annotation Id="30" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="34" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="33" Type="Наночастица" StartNode="197" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Углеродная+нанотрубка" StartNode="1481" EndNode="1505">
+</Annotation>
+<Annotation Id="39" Type="Наночастица" StartNode="2357" EndNode="2369">
+</Annotation>
+<Annotation Id="36" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="37" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="42" Type="Наночастица" StartNode="141" EndNode="152">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="40" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="41" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="46" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="47" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="44" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="45" Type="Наноматериал" StartNode="211" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="50" Type="Нанотрубка" StartNode="1493" EndNode="1505">
+</Annotation>
+<Annotation Id="49" Type="Нановолокно" StartNode="504" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Сенсор" StartNode="2530" EndNode="2538">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

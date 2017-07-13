@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Текст приводится в соответствии с оригиналом...  
+"На дворе еще <Node id="65"/>лето<Node id="69"/>, а госкорпорация “Роснанотех” уже приготовилась к встрече <Node id="128"/>Нового года<Node id="139"/>. Вечеринку на 300 человек для наноменеджеров устроит специально отобранный “поставщик для оказания услуг по разработке концепции и сценария, организации и проведению корпоративного мероприятия”. Официальная часть, согласно техническому заданию, должна занять <Node id="399"/>около полутора часов<Node id="419"/>, а неофициальная - не менее пяти. Эх, погуляют! Но затевается все это, безусловно, не ради массового пьянства, а для “развития корпоративной культуры и командного духа”. На то же самое нацелены две запланированные на <Node id="637"/>осень<Node id="642"/> конференции. Одна посвящается годовщине корпорации, другая - ее корпоративным ценностям. Обе, разумеется, с фуршетами. Впрочем, сплочением рядов занимается не только “Роснанотех”. Кто еще? Об этом и многом другом рассказывает наш “Наноскоп”."
+ Светлана Беляева, Надежда Волчкова, Елена Моргунова, Андрей Понизовкин, Татьяна Токарева, Нина Шаталова           </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="128" EndNode="139">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="399" EndNode="419">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="65" EndNode="69">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="637" EndNode="642">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

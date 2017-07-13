@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+По сообщению официального сайта ГК «Роснанотех»
+ 
+<Node id="52"/>5 марта 2008 года<Node id="69"/> генеральный директор Государственной корпорации «Российская корпорация нанотехнологий» <Node id="157"/>Леонид Меламед<Node id="171"/> <Node id="172"/>и генеральный директор Государственной корпорации по атомной энергии «Росатом» Сергей Кириенко<Node id="266"/> <Node id="267"/>подписали<Node id="276"/> Соглашение о сотрудничестве.
+ 
+Предметом сотрудничества определено взаимодействие сторон в области нанотехнологий, <Node id="392"/>наноматериалов<Node id="406"/> и наносистем, научно-технологического прогнозирования и определения перспективных рынков, сохранение научных школ, развитие международного научно-технического сотрудничества в данной сфере деятельности. 
+ 
+Соглашением открывается новый этап в реализации программы развития российской наноиндустрии, позволяющий сосредоточить усилия обеих корпораций на приоритетных направлениях деятельности и обеспечить формирование инновационной инфраструктуры для внедрения в производство наукоемких технологий. 
+ 
+В рамках подписанного Соглашения стороны обязались осуществлять согласованные действия во всех вопросах, относящихся к предмету сотрудничества, и в пределах своих полномочий активно участвовать в реализации единой государственной научно-технической и инновационной политики. 
+ 
+В <Node id="1188"/>настоящее время<Node id="1203"/> начата проработка ряда крупных проектов, совместная реализация которых позволит создать необходимые условия для успешного продвижения научно-технической продукции предприятий и организаций участников Соглашения на внутренний и международный рынки. 
+ 
+Подписание Соглашения о <Node id="1479"/>сотрудничестве<Node id="1493"/> между ГК «Роснанотех» и ГК «Росатом» подчеркивает стремление участников использовать все преимущества современных подходов к организации научно-производственной и управленческой деятельности. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="171" EndNode="172">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="266" EndNode="267">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="52" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="392" EndNode="406">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="171" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="266" EndNode="267">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="1188" EndNode="1203">
+</Annotation>
+<Annotation Id="7" Type="Партнеры_Клиенты" StartNode="1479" EndNode="1493">
+</Annotation>
+<Annotation Id="8" Type="встречи_и_переговоры" StartNode="157" EndNode="276">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

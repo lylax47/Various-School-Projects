@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Благодаря открытию ученых в недалеком будущем появится новый класс <Node id="68"/>биосенсоров<Node id="79"/> и экспресс-анализаторов.
+
+До сегодняшнего времени готовые наноструны-датчики и нанопроводники-<Node id="174"/>сенсоры<Node id="181"/>, покрытые антителами, было достаточно тяжело интегрировать в микро- и наноэлектронику из-за технологических трудностей.
+
+Как сообщает EurekAlert, ученые разработали метод прямого производства нанострун-<Node id="384"/>сенсоров<Node id="392"/> в готовых наноэлектронных чипах.
+
+<Node id="427"/>Марк Рид<Node id="435"/> (Mark Reed) и Гарольд Годкинсон (Harold Hodgkinson) из Йельского Института Нанотехнологий и квантовой инженерии (Yale Institute for Nanoscience and Quantum Engineering) смогли перенести биотехнологические подходы в наноэлектронику, создав новый тип <Node id="685"/>наносенсоров<Node id="697"/> для биологических объектов.
+
+Новый тип нанострун был получен учеными с помощью «мокрого» <Node id="787"/>травления<Node id="796"/> SOI вафель, на которых и располагается основа чипа-<Node id="848"/>биосенсора<Node id="858"/>.
+
+Как показали эксперименты, созданные исследователями наноструны характеризуются высокой чувствительностью к биологическим объектам. Так, <Node id="998"/>наносенсор<Node id="1008"/> на их основе можете определить за <Node id="1043"/>минуту<Node id="1049"/> содержание в 1 кубическом миллиметре жидкости концентрацию до 1000 отдельных молекул нужного вещества. При этом нет необходимости предварительно как-либо маркировать вещества радиоактивными или флуоресцентными метками.
+
+Также ученые продемонстрировали работу иммунного ответа в реальном времени с помощью нанонитей. <Node id="1366"/>В течение 10 секунд<Node id="1385"/> нанонить регистрировала выброс кислоты, образующейся при активации Т-лимифоцитов. Нанонити отлично определяют изменение рН среды, что, в свою очередь, позволяет точно определять начало и дальнейший ход иммунного ответа. Традиционные тесты занимают <Node id="1634"/>несколько часов<Node id="1649"/>, в отличие от <Node id="1664"/>10 секунд<Node id="1673"/>, продемонстрированных учеными.
+
+Но главное то, что производство <Node id="1738"/>биосенсора<Node id="1748"/> полностью основано на традиционной CMOS технологии и литографическом производстве. Благодаря этому можно быстро наладить его массовое производство в недалеком будущем. А то, что нанонити можно использовать не только в <Node id="1967"/>наносенсорах<Node id="1979"/>, но и в тестовых массивах для цитологических исследований значительно расширяет возможности применения новой технологии в системах лаборатория-на-чипе.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="427" EndNode="435">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Марк</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="998" EndNode="1008">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1043" EndNode="1049">
+</Annotation>
+<Annotation Id="4" Type="Биосенсор" StartNode="68" EndNode="79">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="685" EndNode="697">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="384" EndNode="392">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1664" EndNode="1673">
+</Annotation>
+<Annotation Id="8" Type="Травление" StartNode="787" EndNode="796">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1366" EndNode="1385">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="1967" EndNode="1979">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Биосенсор" StartNode="1738" EndNode="1748">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Сенсор" StartNode="174" EndNode="181">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1634" EndNode="1649">
+</Annotation>
+<Annotation Id="21" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Биосенсор" StartNode="848" EndNode="858">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

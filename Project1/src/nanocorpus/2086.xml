@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Любовь человечества к <Node id="24"/>наноматериалам<Node id="38"/> растет с каждым <Node id="55"/>днем<Node id="59"/>, но их влияние на здоровье и окружающую среду до сих пор недостаточно исследовано. Конечно, <Node id="152"/>наноматериалы<Node id="165"/> как таковые присутствуют в природе, а также широко использовались людьми и ранее, однако не все <Node id="262"/>наноматериалы<Node id="275"/> одинаково полезны. Повсеместное распространение новых синтетических материалов может привести к непредсказуемым последствиям. 
+ 
+Например, было показано, что <Node id="434"/>фуллерены<Node id="443"/> способны повредить мозг рыб. Токсичность <Node id="485"/>фуллеренов<Node id="495"/> также зависит от того, какими молекулами была модифицирована их поверхность. 
+ 
+А в работе "Natural Organic Matter Stabilizes Carbon Nanotubes in the Aqueous Phase" было изучено поведение многостенных <Node id="697"/>углеродных <Node id="708"/>нанотрубок<Node id="718"/> в естественных водных средах. Исследователи говорят, что натуральные органические соединения могут стабилизировать <Node id="834"/>нанотрубки<Node id="844"/> и не давать им агрегировать, и от этого серьезно возрастает их способность распространению в организме. А к чему это может привести, пока неизвестно. Особенно важной эта проблема становится, если учесть, что на основе <Node id="1063"/>углеродных <Node id="1074"/>нанотрубок<Node id="1084"/> планируется разработка всяческих <Node id="1118"/>наносенсоров<Node id="1130"/> и даже нанороботов для исследования биологических объектов и манипулирования ими. 
+ 
+Ученые Bruce Weisman (Rice University) и Steven Curley (MD Anderson Cancer Center) провели первые исследования одностенных <Node id="1339"/>углеродных <Node id="1350"/>нанотрубок<Node id="1360"/> in vivo. Оказалось, что введенные кроликам в кровь <Node id="1412"/>нанотрубки<Node id="1422"/> не оказывают немедленных неблагоприятных эффектов, а после блужданий по кровеносной системе концентрируются в печени.
+ 
+В своих предыдущих работах Weisman показал, что <Node id="1591"/>углеродные <Node id="1602"/>нанотрубки<Node id="1612"/> способны к <Node id="1624"/>флуоресценции<Node id="1637"/> и излучают свет в ближней инфракрасной области спектра. Такое излучение безболезненно распространяется в теле и может быть использовано для бесконтактного детектирования <Node id="1808"/>нанотрубок<Node id="1818"/>. Таким методом Weisman смог обнаружить способность одностенных <Node id="1882"/>нанотрубок<Node id="1892"/> проникать в белые кровяные тельца. Эта методика была использована и на этот раз. 
+ 
+В эксперименте применялись <Node id="2004"/>нанотрубки<Node id="2014"/> диаметром 1 нм и длинной 300 нм. Они были покрыты молекулами ПАВ Pluronic F108, а их концентрация во вводимой инъекции составляла 20 мг на килограмм веса. 
+ 
+Концентрация <Node id="2186"/>нанотрубок<Node id="2196"/> в крови падала экспоненциально с течением времени с периодом полувыведения в <Node id="2274"/>1 час<Node id="2279"/>. Исследователи считают, что белки, содержащиеся в крови, разрушили покрытие из ПАВ, т.к. произошли изменения эмиссионного спектра <Node id="2410"/>нанотрубок<Node id="2420"/>. Планируется использование других ПАВ для увеличения времени пребывания <Node id="2493"/>нанотрубок<Node id="2503"/> в крови, чтобы более правильно исследовать их влияние на организм.
+ 
+В процессе эксперимента кролики никак не изменили своё поведение. После обследования различных органов животных значительные количества <Node id="2709"/>нанотрубок<Node id="2719"/> были найдены только в печени. Это не явилось сюрпризом, так как именно через печень обычно выводятся из организма различные инородные вещества. Также незначительное содержание <Node id="2896"/>нанотрубок<Node id="2906"/> было обнаружено в почках. 
+ 
+Результаты исследований определенно заинтересуют всех тех, кто занимается проблемой использования <Node id="3034"/>нанотрубок<Node id="3044"/> для биомедицинских применений. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="1808" EndNode="1818">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="3034" EndNode="3044">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="1118" EndNode="1130">
+</Annotation>
+<Annotation Id="4" Type="Углеродная+нанотрубка" StartNode="1339" EndNode="1360">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="1591" EndNode="1612">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="2709" EndNode="2719">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="434" EndNode="443">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="1602" EndNode="1612">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1350" EndNode="1360">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="2186" EndNode="2196">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="2274" EndNode="2279">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="55" EndNode="59">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="2410" EndNode="2420">
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="2004" EndNode="2014">
+</Annotation>
+<Annotation Id="19" Type="Фуллерен" StartNode="485" EndNode="495">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="1063" EndNode="1084">
+</Annotation>
+<Annotation Id="21" Type="Флуоресценция" StartNode="1624" EndNode="1637">
+</Annotation>
+<Annotation Id="20" Type="Наноматериал" StartNode="262" EndNode="275">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="1074" EndNode="1084">
+</Annotation>
+<Annotation Id="22" Type="Наноматериал" StartNode="152" EndNode="165">
+</Annotation>
+<Annotation Id="25" Type="Нанотрубка" StartNode="834" EndNode="844">
+</Annotation>
+<Annotation Id="24" Type="Наноматериал" StartNode="24" EndNode="38">
+</Annotation>
+<Annotation Id="27" Type="Нанотрубка" StartNode="1412" EndNode="1422">
+</Annotation>
+<Annotation Id="26" Type="Углеродная+нанотрубка" StartNode="697" EndNode="718">
+</Annotation>
+<Annotation Id="29" Type="Нанотрубка" StartNode="1882" EndNode="1892">
+</Annotation>
+<Annotation Id="28" Type="Нанотрубка" StartNode="708" EndNode="718">
+</Annotation>
+<Annotation Id="31" Type="Нанотрубка" StartNode="2493" EndNode="2503">
+</Annotation>
+<Annotation Id="30" Type="Нанотрубка" StartNode="2896" EndNode="2906">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

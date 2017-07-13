@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Евросоюз намерен в <Node id="20"/>ближайшие десять лет<Node id="40"/> вложить <Node id="49"/>5,5 миллиарда евро<Node id="67"/> в разработку нанотехнологий и встроенных систем, пишет британское издание The Register.
+
+Нанотехнологический проект ENIAC получит финансирование в размере <Node id="223"/>трех миллиардов евро<Node id="243"/> и охватит все возможные аспекты применения нанотехнологий. Европейские инженеры уже активно ведут разработку устройств с использованием подобных технологий. Так, <Node id="406"/>25 февраля<Node id="416"/> производитель сотовых телефонов Nokia представил нанобраслет Morph, который может превращаться в телефон, плеер, коммуникатор и другие устройства.
+
+В свою очередь, консорциуму ARTEMIS по созданию встраиваемых микрокомпьютеров выделены средства в размере <Node id="671"/>2,5 миллиарда евро<Node id="689"/>. В ARTEMIS уже входят Airbus, Ericsson AB, Nokia и ST Microelectronics.
+
+В <Node id="765"/>2007 году<Node id="774"/> на европейском рынке было продано свыше четыре миллиардов встроенных в различные устройства процессоров общей стоимостью <Node id="896"/>около 60 миллиардов евро<Node id="920"/>. Ожидается, что рынок встроенных систем, для которых характерно низкое энергопотребление и малые размеры, будет расти на <Node id="1042"/>14 процентов<Node id="1054"/> в <Node id="1057"/>год<Node id="1060"/>.
+
+Кроме того, ЕС потратит <Node id="1087"/>19 миллионов евро<Node id="1104"/> на разработку технологии P2P Next, которая позволит телекомпаниям использовать преимущества цифрового распространения контента через файлообменники.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="765" EndNode="774">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="671" EndNode="689">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="896" EndNode="920">
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="49" EndNode="67">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1057" EndNode="1060">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="20" EndNode="40">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="223" EndNode="243">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1042" EndNode="1054">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1087" EndNode="1104">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="406" EndNode="416">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Год" StartNode="765" EndNode="774">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

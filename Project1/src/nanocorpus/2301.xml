@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Правительство ОАЭ в рамках Masdar Initiative инвестирует <Node id="58"/>2 млрд. долларов<Node id="74"/> в тонкопленочную фотовольтаическую солнечную технологию [1].
+
+Первая фаза проекта включает инвестицию <Node id="177"/>600 млн. долл.<Node id="191"/> в строительство двух производственных площадок – завод в Эрфурте (Германия), производство на котором начнется в <Node id="304"/>3-ем квартале 2009 г.<Node id="325"/>, и завод в Абу Даби (ОАЭ) с планируемым началом производства во <Node id="390"/>втором квартале 2010 г.<Node id="413"/> Общее годовое производство этих двух заводов составит 210 МВт. На заводах будет установлено оборудование компании Applied Materials, предназначенное для осаждения кремниевых пленок на ультрабольшие стеклянные подложки площадью 5,7 кв. м. [2].
+ 1. eeTimes 2. EDN 
+См. также
+ NanoNewsNet.ru:<Node id="703"/>15 млрд. долл.<Node id="717"/> обещает правительство ОАЭ для возобновляемых источников энергии </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="703" EndNode="717">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="58" EndNode="74">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="304" EndNode="325">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="390" EndNode="413">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="177" EndNode="191">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

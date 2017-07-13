@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Рынок флэш-памяти переживает в <Node id="32"/>последние годы<Node id="46"/> явный подъем – об этом говорят и цифры аналитических отчетов, подготовленных компанией iSupply. Согласно аналитикам, в <Node id="166"/>2007 году<Node id="175"/> объем рынка NAND-памяти вырос по сравнению <Node id="219"/>с 2006 годом<Node id="231"/> на <Node id="235"/>12,5%<Node id="240"/>, благодаря чему всем ведущим производителям удалось увеличить доход с изготовления и продаж флэш-микросхем. Особенно удался <Node id="365"/>год<Node id="368"/> для компаний Intel, Micron, Toshiba и STMicroelectronics, которые увеличили выручку на <Node id="456"/>270%<Node id="460"/>, <Node id="462"/>140%<Node id="466"/>, <Node id="468"/>45%<Node id="471"/> и <Node id="474"/>20%<Node id="477"/> соответственно. Несмотря на это лидером рынка вновь является компания Sumsung, которой принадлежит <Node id="577"/>42,1%<Node id="582"/> всего рынка флэш-памяти. Неудачниками <Node id="621"/>прошедшего года<Node id="636"/> стали Renesas и Qimonda, прибыль которых снизилась на <Node id="691"/>65%<Node id="694"/> и <Node id="697"/>83,9%<Node id="702"/> соответственно.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="621" EndNode="636">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="235" EndNode="240">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="166" EndNode="175">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="365" EndNode="368">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="166" EndNode="175">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="474" EndNode="477">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="32" EndNode="46">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="697" EndNode="702">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="691" EndNode="694">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="219" EndNode="231">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="456" EndNode="460">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="468" EndNode="471">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="577" EndNode="582">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="462" EndNode="466">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

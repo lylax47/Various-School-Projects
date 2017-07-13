@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Сырье для наноцементаЗавод планируется построить <Node id="49"/>в течение трех лет<Node id="67"/>. Разработчики новой технологии обещают, что выпускаемый стройматериал будет на <Node id="147"/>40 процентов<Node id="159"/> дешевле обычного цемента.
+
+Трехстороннее соглашение о планах по строительству предприятия, производящего идентичный цементу стройматериал, было подписано на экономическом форуме в Сочи между главой республики Кирсаном Илюмжиновым, директором объединения ученых, разрабатывающих нанотехнологии Владимиром Морозом и президентом группы компаний, выкупившим новую методику выпуска цемента, Евгений Семечкиным.
+
+Называть конкретные сроки реализации проекта представители сторон пока не торопятся, так как новая технология проходит официальную процедуру сертификации.
+
+<Node id="723"/>По словам Евгения Семечкина, <Node id="752"/>Калмыкия выбрана не случайно – там богатые месторождения известняка, да и республиканские власти проявили большую заинтересованность в реализации этого проекта, выйдя на донских предпринимателей<Node id="946"/>.
+Ирина <Node id="954"/>Поволоцкаяhttp://www.rg.ru<Node id="980"/>/…/cement.htmlДешевле, лучше, прочней… Вот новые строительные материалы на базе НТ. Если получится всё это, то это станет ещё одним прорывом в практическом использовании НТ в строительстве. И значительно ускорит строительство многих сооружений (хотя бы и жилых домов, на строительство которых уходит весьма значительная доля цемента)…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="723" EndNode="946">
+</Annotation>
+<Annotation Id="1" Type="цитаты" StartNode="752" EndNode="946">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="723" EndNode="946">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="49" EndNode="67">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="954" EndNode="980">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="723" EndNode="946">
+</Annotation>
+<Annotation Id="8" Type="темы" StartNode="752" EndNode="946">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="147" EndNode="159">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="723" EndNode="946">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

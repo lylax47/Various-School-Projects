@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> При производстве кремниевых чипов следующего поколения (с отдельными деталями размером до 1-2 нанометров) с помощью нанолитографии велика вероятность попадания мельчайших капель жидкости-растворителя на подложку, что, естественно, делает ее непригодной для дальнейшего технологического процесса. В результате готовый продукт достаточно дорого обходится конечному потребителю. 
+ 
+Ученые из университета Принстона (Princeton University) смогли решить эту проблему, снизив вероятность появления этого типа брака до минимума. 
+ 
+<Node id="526"/>Стивен Чоу<Node id="536"/> (Stephen Chou) и <Node id="554"/>его<Node id="557"/> коллеги разработали метод нанопечатной <Node id="597"/>литографии<Node id="607"/> еще в <Node id="614"/>1990 году<Node id="623"/> и с тех пор постоянно его развивали. Суть метода состоит в производстве «штампа» нанометровых размеров, который наносит контрастные отпечатки на подложку. Благодаря этому инженеры могут создавать структуры с разрешением в один нанометр – это наиболее точная технология производства чипов <Node id="912"/>на сегодняшний день<Node id="931"/>. Однако при технологическом процессе формируются крошечные пузырьки воздуха, переносящие жидкость на подложку. 
+ 
+Чоу и его коллеги исследовали процесс формирования пузырьков воздуха и установили основные факторы, влияющие на их появление. Путем увеличения давления «штампа» на подложку и использования других жидкостей в качестве растворителя им удалось значительно снизить количество брака при производстве чипов. 
+ 
+По мнению исследователей, новый подход позволит преодолеть трудности массового производства чипов по технологии нанопечатной <Node id="1476"/>литографии<Node id="1486"/>, сообщает EurekAlert. А это, в свою очередь, означает снижение цены на готовый продукт.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="554" EndNode="557">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="614" EndNode="623">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="912" EndNode="931">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="526" EndNode="536">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Стивен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Литография" StartNode="597" EndNode="607">
+</Annotation>
+<Annotation Id="8" Type="Литография" StartNode="1476" EndNode="1486">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="614" EndNode="623">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

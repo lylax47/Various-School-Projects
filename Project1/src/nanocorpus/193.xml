@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>На сегодняшний день<Node id="20"/> известно достаточно много применений углеродных <Node id="69"/>однослойных <Node id="81"/>нанотрубок<Node id="91"/> в промышленности. Однако большая часть этих открытий не может «выйти из лаборатории» из-за различных технологических трудностей.
+
+Но благодаря последним достижениям науки многие из этих ограничений можно обойти. Так, например, ученым из Японии удалось обойти широко известную проблему, связанную с плохой растворимостью <Node id="412"/>нанотрубок<Node id="422"/> в воде.
+
+Команда исследователей из Университета Кушу (Kyushu University) показала, что пульсирующие микроплазменные разряды, проходящие через водный раствор с <Node id="582"/>нанотрубками<Node id="594"/>, могут улучшить растворимость их в воде почти в два раза.
+
+Как оказалось, связано это с образованием на поверхности <Node id="711"/>нанотрубок<Node id="721"/> пузырькового слоя, который обеспечивает образование -OH или -COOH групп, которые делают поверхность гидрофильной.
+
+Проводя дальнейшие эксперименты, ученые смогли разработать технологию нанесения -OH или -COOH групп, используя не только кислород, но аргон или даже азот, которые пропускали через ванну с <Node id="1025"/>нанотрубками<Node id="1037"/>, при микроплазменной обработке.
+
+Ученые надеются, то им удастся разработать технологию, повышающую гидрофильность <Node id="1152"/>нанотрубок<Node id="1162"/> более, чем в десять раз. Однако стоимость подобного метода достаточно высока, из-за дорогого оборудования (в частности, установка генератора микроплазмы стоит достаточно дорого).
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="412" EndNode="422">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1" EndNode="20">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1152" EndNode="1162">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="582" EndNode="594">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1025" EndNode="1037">
+</Annotation>
+<Annotation Id="7" Type="Однослойная+нанотрубка" StartNode="69" EndNode="91">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="711" EndNode="721">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="81" EndNode="91">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

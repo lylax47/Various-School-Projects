@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Пленка анодированного оксида титана. Образец был получен путем электрохимического окисления металличекого титана в <Node id="116"/>0.25%<Node id="121"/> растворе NH4F в этиленгликоле, напряжение при котором проводили окисление - 60<Node id="200"/>В. Изгиб<Node id="208"/> пленки происходит из-за механических напряжений в пленке, связанных с её малой толщиной и с измененем плотности при переходе от металлического титана к TiO2. Размер реального изобржения - 360x240 мкм.    
+ 
+      
+ 
+  
+ 
+                          
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="200" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="116" EndNode="121">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

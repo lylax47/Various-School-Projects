@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Агентство передовых оборонных исследований США (DARPA) выделило компании AeroVironment дополнительные средства на реализацию проекта Nano Air Vehicle (NAV) по разработке беспилотного летательного аппарата нового типа.
+
+В ходе первой фазы программы NAV, на реализацию которой DARPA выделило <Node id="291"/>1,7 миллиона долларов<Node id="312"/>, специалисты AeroVironment завершили рассмотрение эскизного проекта летательного аппарата. Второй этап подразумевает создание прототипа размером около 7–8 сантиметров, способного перемещаться в пространстве за счет взмахов небольших крыльев. Фактически, Nano Air Vehicle в полете должен будет подражать насекомым.
+
+Предполагается, что вес нового летательного аппарата не превысит десяти граммов, при этом Nano Air Vehicle сможет брать на борт два грамма полезной нагрузки. В случае успешного завершения проекта американские военные смогут использовать крошечный аппарат в разведывательных целях в городских условиях.
+
+На вторую фазу проекта Nano Air Vehicle Агентство передовых оборонных исследований США выделило <Node id="1027"/>636 тысяч долларов<Node id="1045"/>. Результаты должны быть представлены не позднее, чем <Node id="1099"/>через шесть месяцев<Node id="1118"/>. Если специалистам AeroVironment удастся доказать перспективность затеи, программа может быть продлена еще на <Node id="1229"/>полтора года<Node id="1241"/>.
+
+Нужно заметить, что американская армия уже использует беспилотные летательные аппараты Raven разработки компании AeroVironment. В общей же сложности, <Node id="1394"/>на сегодняшний день<Node id="1413"/> AeroVironment поставила свыше девяти тысяч различных моделей беспилотных аппаратов.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="291" EndNode="312">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1229" EndNode="1241">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="1027" EndNode="1045">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1099" EndNode="1118">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1394" EndNode="1413">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

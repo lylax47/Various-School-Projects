@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Садовничий<Node id="10"/>: нанотехнологии невозможны без фундаментального образования
+Развитие нанотехнологий в России невозможно без базового фундаментального образования. Так ректор МГУ, президент Ассоциации классических университетов России, председатель Союза ректоров России Виктор Садовничий<Node id="282"/> <Node id="283"/>прокомментировал факт создания Российской корпорации нанотехнологий.
+Виктор Садовничий 
+«Уникальность нанотехнологий, объединяющих химию, физику, биологию, математику и информатику, требует глубокого фундаментального образования, поэтому роль классических университетов значительно возрастает», – отметил Садовничий.
+ <Node id="601"/>http://www.gazeta.ru/…081738.shtmlИ<Node id="636"/> это действительно так, дорогой Виктор Антонович! Кадры (и особенно – фундаментально подкованные) могут решить любую задачу…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="601" EndNode="636">
+</Annotation>
+<Annotation Id="1" Type="сотрудники" StartNode="282" EndNode="283">
+</Annotation>
+<Annotation Id="2" Type="работает" StartNode="282" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="0" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Садовничий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

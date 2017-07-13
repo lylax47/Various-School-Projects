@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В.Язев проведет совещание о развитии среднеуральской наноиндустрииМОСКВА – <Node id="75"/>20 февраля 2008 года<Node id="95"/> вице-спикер Госдумы РФ Валерий Язев проведет в Москве совещание, посвященное развитию нанотехнологий в Свердловской области. В обсуждении перспектив научно-технического прогресса в данной сфере примут участие видные среднеуральские чиновники, ученые и промышленники.
+Валерий Язев
+О вкладе регионального правительства в проведение научных исследований расскажет присутствующим глава областного кабинета министров Виктор Кокшаров.
+Виктор Кокшаров
+Заведующий лабораторией Института электрофизики УрО РАН Юрий Котов доложит о разработке технологий и оборудования для создания производства наноструктурных керамик, работающих в экстремальных условиях.
+
+Директор Уральского центра наноиндустрии Всеволод Кортов поделится опытом в создании композитных <Node id="841"/>керамических <Node id="854"/>наноматериалов<Node id="868"/> для высокоэффективных светоизлучающих устройств.
+Всеволод Кортов
+Доклад директора завода электрохимических преобразователей ФГУП «Уральский электрохимический комбинат» Александра Стихина будет посвящен щелочному электрохимическому генератору тока широкого применения. Не исключено, что уже в ближайшее время часть из представленных проектов получат финансирование из федерального бюджета.
+<Node id="1258"/>http://www.uralinform.ru/detail.aspx?…На<Node id="1298"/> Урале и особенно в его «срединном» (столичном) регионе развитие наноиндустрии носит наиболее динамичный, рациональный и продуманный характер. И руководство региона, и местный научный потенциал отлично «заточены» на развитие этой «отрасли»: <Node id="1539"/>http://www.nanonewsnet.ru/…-polzovaniya<Node id="1578"/> // <Node id="1582"/>http://www.nanonewsnet.ru/…hchit-rodiny<Node id="1621"/> . Поэтому вполне разумным представляется оказание целевой, массированной помощи в первую очередь тем, кто будет «тащить воз» развития НТ в нашей стране. А равняясь на «маяки», будут подтягиваться и другие регионы. И это – правильно!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="75" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1582" EndNode="1621">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="854" EndNode="868">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1539" EndNode="1578">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1258" EndNode="1298">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Керамический+наноматериал" StartNode="841" EndNode="868">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

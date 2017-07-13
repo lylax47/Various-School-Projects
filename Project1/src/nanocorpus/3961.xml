@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Н. КобаясиВведение в нанотехнологию
+Издательство: Бином. Лаборатория знаний, <Node id="77"/>2007 г.<Node id="84"/> Твердый переплет, 134 стр. ISBN 5–94774–218–7, 4–492–09151–3 Тираж: 1000 экз. Формат: 60×90/16 Цена <Node id="185"/>157 руб.<Node id="193"/>
+От издателя
+Книга в популярной форме знакомит читателя с достижениями в области нанотехнологии в Японии и других странах в конце ХХ – начале <Node id="335"/>XXI века<Node id="343"/>. Продемонстрированы поистине фантастические возможности нанотехнологии в таких областях, как электроника, энергетика, биология, медицина и др. Большое внимание уделено экономическим и социальным последствиям внедрения нанотехнологии в жизнь общества.
+
+Для студентов, изучающих дисциплины, связанные с применением нанотехнологии, а также для преподавателей соответствующих специальностей.
+<Node id="732"/>http://www.ozon.ru/…/id/2423617/?…Популярная<Node id="776"/> книга – хороша в качестве ознакомительного курса – введения в предмет. И хорошо, что написал её именно японский автор, так как Япония является признанным лидером в области нанотехнологий. Молодцы ребята из «Бинома» – во-время подсуетились с выпуском хорошей книги…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="335" EndNode="343">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="185" EndNode="193">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="732" EndNode="776">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="77" EndNode="84">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

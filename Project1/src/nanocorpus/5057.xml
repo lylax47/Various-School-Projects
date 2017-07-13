@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В БелГУ пройдет международный семинар по нанотехнологиямВо вторник в Госуниверситете стартует международный научный семинар «Перспективы и риски использования <Node id="159"/>наноматериалов<Node id="173"/> в природных и технических системах»Мероприятие организовано при поддержке Российского фонда фундаментальных исследований.
+Белгородский государственный университет выиграл грант Российского фонда фундаментальных исследований на проведение семинара по наноматериаловедению.
+
+Семинар «Перспективы и риски использования <Node id="490"/>наноматериалов<Node id="504"/> в природных и технических системах» был запланирован на начало <Node id="568"/>октября<Node id="575"/> <Node id="576"/>нынешнего года<Node id="590"/>. Предполагается, что в нём примут участие не только учёные БелГУ, но и их немецкие коллеги из Бременского университета.
+
+Стороны пришли к выводу, что такое сотрудничество является обоюдовыгодным по целому ряду направлений – например, в области применения нанотехнологий в экологических системах, – сообщают в пресс-службе Белгородского госуниверситета.
+ Главная задача ученых – обсудить перспективы сотрудничества в сфере изучения влияния нанотехнологий на здоровье человека и окружающую среду. В работе семинара примут участие, как физики–нанотехнологи, так и экологи с обеих сторон. <Node id="1176"/>http://mediatron.ru/…oct/008.htmlВ<Node id="1210"/> <Node id="1211"/>августе<Node id="1218"/> <Node id="1219"/>месяце<Node id="1225"/> мы уже писали о том, что учёные Белгорода и Бремена совместно обсудят риски использования <Node id="1316"/>наноматериалов<Node id="1330"/>. На международном семинаре учёные планируют обсудить получение и применение <Node id="1407"/>наноматериалов<Node id="1421"/> на практике – от медицинской физики до диагностики агроэкологических рисков в районах добычи полезных ископаемых. Пожелаем им успехов в данной работе!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="576" EndNode="590">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1176" EndNode="1210">
+</Annotation>
+<Annotation Id="3" Type="Наноматериал" StartNode="1407" EndNode="1421">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1211" EndNode="1218">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1219" EndNode="1225">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="490" EndNode="504">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="568" EndNode="575">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="159" EndNode="173">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="1316" EndNode="1330">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

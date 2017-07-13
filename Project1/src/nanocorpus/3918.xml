@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Совете Федерации обсудят нанотехнологииНа «правительственный <Node id="63"/>час<Node id="66"/>» 218-го пленарного заседания Совета Федерации, которое состоится <Node id="132"/>19 марта<Node id="140"/>, для информации «О ходе реализации стратегии развития нанотехнологий в Российской Федерации» приглашены вице-премьер Сергей Иванов и министр образования и науки Андрей Фурсенко.
+Об этом сообщила сегодня, <Node id="345"/>20 февраля<Node id="355"/>, на пленарном 217-м заседании верхней палаты вице-спикер Светлана Орлова.
+Проведение «правительственного <Node id="461"/>часа<Node id="465"/>» по указанной теме поддержали единогласно 104 сенатора.
+
+Орлова также сообщила, что в <Node id="552"/>полдень 22 февраля<Node id="570"/> в Совете Федерации состоится торжественный прием по случаю <Node id="630"/>Дня<Node id="633"/> защитника отечества.
+
+Представитель президента в Совете Федерации Александр Котенков<Node id="718"/> <Node id="719"/>сообщил о награждении орденом «За заслуги перед Отечеством» третьей степени председателя верхней палаты Сергея Миронова<Node id="838"/>.<Node id="839"/> <Node id="840"/>Котенков отметил, что «орден ему президент вручит сам<Node id="893"/>».
+По окончании заседания вице-спикер Орлова отказалась комментировать вопрос о том, как решится вопрос о приглашении конкретных членов <Node id="1029"/>кабинета министров<Node id="1047"/> в случае смены правительства до <Node id="1080"/>19 марта<Node id="1088"/>.
+Глеб <Node id="1095"/>Васильковhttp://www.km.ru<Node id="1120"/>/news/view.asp?…Да-а-а, дела… Не знали мы, что в Совете федерации так внимательно читают материалы нашего блога <Node id="1232"/>(http://www.nanonewsnet.ru/…-proslezilis).<Node id="1274"/> Не успеешь выступить, а «главных героев» нашего выступления уже начинают тягать «на ковёр». С другой стороны, а сколько тянуть-то можно?.. Вроде и деньги большие на развитие НТ выделили, и госкорпорацию «Роснанотех» организовали, и всех «ответственных» (чиновников) назначили. ПрошлО уже <Node id="1563"/>немало месяцев<Node id="1577"/>, а «воз не только (всё ещё) там», но даже и не пошевелился!.. Ну, право же, есть отчего удивиться. И вот «государственные мужи» решили послушать главных «ответственных»: Дескать, как дела? Почему стоим?.. А будут ли они или не будут в составе будущего правительства, не так уж и важно: главное, что дело-то стоИт… Ну, и как всегда у нас на Руси, возникают три сакраментальных вопроса: «Что происходит?», «Кто виноват?» и «Что делать?». Ну вот и послушаем… А они нам расскажут…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="высказывания_заявления" StartNode="840" EndNode="893">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="552" EndNode="570">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="461" EndNode="465">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="132" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="63" EndNode="66">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1563" EndNode="1577">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1232" EndNode="1274">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1095" EndNode="1120">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="840" EndNode="893">
+</Annotation>
+<Annotation Id="13" Type="Дата" StartNode="1080" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="630" EndNode="633">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="838" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="838" EndNode="839">
+</Annotation>
+<Annotation Id="19" Type="Дата" StartNode="345" EndNode="355">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Властная_Структура" StartNode="1029" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">кабинета министров</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="работает" StartNode="718" EndNode="719">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="сотрудники" StartNode="718" EndNode="719">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

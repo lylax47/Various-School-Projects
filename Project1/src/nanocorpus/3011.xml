@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Формат еженедельного выпуска изменился – теперь мы будем информировать вас о наиболее интересных новостях и событиях через новостную колонку. В разделе nanoWeek вы найдете и более старые выпуски обзора.
+
+Кратко о выпуске:
+В новом выпуске вы узнаете о создании наименьшего в мире анноманипулятора, SRAM-ячейки по 22-нм техпроцессу и смене бренда ГК «Роснанотех». Также к вашим услугам ряд событий в наномире, которые произойдут в ближайшее время. Подробнее о этих и других событиях <Node id="482"/>недели<Node id="488"/> читайте в выпуске!
+Итак, – nanoWeek 31 Как и прежде, ждем ваши комментарии и отзывы!
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="482" EndNode="488">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

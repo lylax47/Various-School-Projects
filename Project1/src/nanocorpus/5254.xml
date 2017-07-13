@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Выход в свет научно-популярной книги "Нанотехнологий. <Node id="56"/>Азбука<Node id="62"/> для всех" вызвал не только живой интерес, но также, разумеется, критику и вал предложений, как ее улучшить в "следующей жизни". В данном опросе мы хотели бы обсудить идею другой книжки с условным названием "Нанознайка", которая стала бы действительно массовым, понятным всем и совершенно доступным по цене изданием (идеальный вариант "трижды по 100" - 100 страниц, <Node id="428"/>100 рублей<Node id="438"/> за книжку, тираж 100 000 экземпляров). Как Вы относитесь к этой идее и что бы Вы могли предложить сделать по ее воплощению в жизнь?
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="428" EndNode="438">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="56" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

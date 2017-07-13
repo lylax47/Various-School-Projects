@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+BSI British Standards собирается разработать и опубликовать 9 документов, регламентирующие стандарты в нанотехнологиях. Текущая информация, а также возможность подписаться на новости есть на сайте организации: <Node id="211"/>http://www.bsi-global.com/nano<Node id="241"/>
+ Там же можно загрузить действующий документ PAS-71 – Словарь по <Node id="307"/>наночастицам<Node id="319"/> <Node id="320"/>http://www.bsi-global.com<Node id="345"/>/…gies/PAS-71/</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="211" EndNode="241">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="307" EndNode="319">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="320" EndNode="345">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

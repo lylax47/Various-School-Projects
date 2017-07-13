@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Международный центр исследований альтернативной энергии, базирующийся в швейцарском Цюрихе, инициировал выдвижение президента РФ Владимира Путина на Нобелевскую премию мира.
+
+По мнению швейцарских ученых, президент России заслужил эту честь своим «очень дальновидным планом найти эффективную форму альтернативной энергии на основе нанотехнологии».
+
+Как сообщает «Интерфакс», в Международном центре исследований альтернативной энергии особо отметили идею Путина о создании российской корпорации нанотехнологий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

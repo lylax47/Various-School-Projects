@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Конференция по инженерным аспектам нанотехнологииNational Nano Engineering Conference 2008
+Конференция National Nano Engineering Conference (NNEC), проводимая в 6-ой раз под эгидой <Node id="181"/>НАСА<Node id="185"/> (NASA Tech Briefs), состоится в этот раз в Бостоне <Node id="237"/>12–13 ноября с.г.<Node id="254"/> Основное внимание на конференции будет уделено инженерно-техническим аспектам нанотехнологии, а также проблемам коммерциализации <Node id="384"/>наноматериалов<Node id="398"/>, технологий, продукции, изделий.
+
+На конференции будут сделаны доклады и представлена выставка ведущих компаний в этой области. Среди докладчиков:
+ Vardhan Bajpai, Seldon Technologies Inc. Jurron Bradley, Lux Research Nerine Cherepy, Lawrence Livermore National Laboratory Sang Choi, NASA Langley Research Center Amit Goyal, Oak Ridge National Laboratory Oleg Figovsky, International Nanotechnology Research Center David Lashmore, NanoComp Technologies Jeremy Levy, Center for Oxide-Semiconductor Materials for Quantum Computation Paul Magill, Nextreme Thermal Solutions Manu Sebastian Mannoor, Microelectronics Research Center (NJIT) Martin Margala, University of Massachusetts Lowell Jeffrey Morse, National Nanomanfuacturing Network Takeo Nishikawa, OMRON Corporation Bart Norton, Asemblon Maria Ochomogo, The Clorox Company Joseph Riemer, Sono-Tek Corporation Henry I. Smith, Nanostructures Laboratory Vasco Teixeira, University of Minho, Braga-Portugal Morris Wang, Lawrence Livermore National Laboratory Jennifer Xu, NASA Glenn Research Center Valentin Zhelyaskov, DTI <Node id="1474"/>http://www.nasatech.com<Node id="1497"/>/nano/Да, эти ребята уже гораздо дальше остальных продвинулись в прикладных аспектах нанотехнологии, поэтому было бы интересно познакомиться с материалами этого форума… Время на подготовку командировочных документов ещё есть…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="181" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="237" EndNode="254">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1474" EndNode="1497">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="384" EndNode="398">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

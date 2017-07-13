@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Издательство ELSEVIER совместно со SCIRUS (бесплатным поисковиком научной информации) проводит конкурс. Участникам конкурса предлагается ответить на вопрос, размещенный здесь, используя SCIRUS (бесплатную панель можно скачать тут). Ответы следует присылать до <Node id="262"/>11 января 2008 г.<Node id="279"/> по электронной почте feedback@scirus.com. 
+ Победитель получит приз - 30 Гб Video Ipod. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="262" EndNode="279">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

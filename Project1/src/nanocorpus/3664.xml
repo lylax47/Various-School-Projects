@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Исследователи из Drexel University (Philadelphia, US) смогли прикрепить <Node id="73"/>углеродную <Node id="84"/>нанотрубку<Node id="94"/> к лабораторной пипетке. Возможно, такой инструмент вскоре вытеснит стеклянные микропипетки, применяемые сегодня в медицине и биологии для клеточных инъекций. 
+ 
+ Использование микрокапилляров чревато разрывами клеток, деформациями органелл, а точность производимых операций невелика. Конечно, естественным решением могли бы стать стеклянные нанокапилляры, однако они очень легко гнутся и ломаются. 
+ 
+ <Node id="497"/>Углеродные <Node id="508"/>нанотрубки<Node id="518"/> в свою очередь прочны и могут иметь диаметр всего в несколько нанометров. Ранее уже были описаны применения <Node id="627"/>нанотрубок<Node id="637"/> для доставки веществ внутрь клетки. Сначала <Node id="682"/>нанотрубку<Node id="692"/> окунали в жидкость, там к ней прилипало некоторое количество молекул. <Node id="763"/>Потом<Node id="768"/> ею протыкали клеточную стенку и ждали, пока произойдет диффузия. Метод оказался довольно ненадежным, кроме того, за раз удавалось переносить лишь очень малое количество вещества, поэтому требовались повторные уколы. Теперь же была представлена настоящая пипетка с <Node id="1033"/>нанотрубкой<Node id="1044"/> на конце, через которую возможно внедрение жидкостей в клетки. 
+ 
+ Сперва были получены <Node id="1133"/>углеродные <Node id="1144"/>нанотрубки<Node id="1154"/> диаметром 200 нм, у которых внутренние стенки были покрыты магнитными <Node id="1225"/>наночастицами<Node id="1238"/>. <Node id="1240"/>Потом<Node id="1245"/> они помещались в «оптический клей» и выстраивались в магнитном поле вдоль оси пипетки. После закрепления <Node id="1351"/>нанотрубки<Node id="1361"/> на кончике пипетки под действием ультрафиолета клей застывал. 
+ 
+ Было показано, что получившимся шприцом можно протыкать клеточные стенки и впрыскивать жидкости внутрь. Более того, клеточная мембрана при взаимодействии с <Node id="1584"/>нанотрубкой<Node id="1595"/> не деформировалась. Давление в пипетке можно легко регулировать. 
+ 
+ Как утверждают ученые, для изготовления пипеток можно использовать <Node id="1732"/>нанотрубки<Node id="1742"/> и меньшего диаметра вплоть до 20 нм. В <Node id="1782"/>настоящий момент<Node id="1798"/> это определяется размерами магнитных частиц (~10 нм). Такие пипетки позволят в свою очередь впрыскивать жидкости не только в клетку, но и в определенные области внутри нее, например, органеллы. А еще полезной может оказаться возможность изгибать <Node id="2045"/>нанотрубку<Node id="2055"/> под действием магнитного поля. 
+ 
+ Работа "Magnetically assembled carbon nanotube tipped pipettes" была опубликована в журнале Applied Physics Letters. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="763" EndNode="768">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1225" EndNode="1238">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1240" EndNode="1245">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="497" EndNode="518">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1732" EndNode="1742">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="73" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="682" EndNode="692">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="1133" EndNode="1154">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="627" EndNode="637">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="2045" EndNode="2055">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1782" EndNode="1798">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1144" EndNode="1154">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1033" EndNode="1044">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1351" EndNode="1361">
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="84" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1584" EndNode="1595">
+</Annotation>
+<Annotation Id="20" Type="Нанотрубка" StartNode="508" EndNode="518">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

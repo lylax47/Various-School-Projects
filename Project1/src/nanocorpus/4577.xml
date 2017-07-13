@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Народ, который не хочет кормить свою армию, будет кормить чужую
+ (<Node id="67"/>Наполеон I<Node id="77"/> <Node id="78"/>Бонапарт<Node id="86"/>)
+И наши вариации:
+ 
+ Народ, который не хочет кормить свою науку, будет кормить чужую
+  Народ, который не хочет кормить свою науку, будет кормить чужую армию
+  Народ, который не хочет кормить свою науку, будет кормить чужую науку и чужую армию
+  
+Или даже так:
+ Народ, который не хочет кормить свою науку, не народ Александр Куринный (NNN)</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="67" EndNode="77">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Наполеон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="78" EndNode="86">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Бонапарт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

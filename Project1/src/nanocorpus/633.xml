@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Специалисты из Национального Института Стандартов и Технологий США (NIST) разработали производственный процесс, позволяющий формировать <Node id="137"/>трехмерные <Node id="148"/>наноструктуры<Node id="161"/>, заполненные магнитными материалами.
+
+Открытый учеными технологический процесс позволит создавать новые виды МЭМС-<Node id="276"/>сенсоров<Node id="284"/> и микроэлектронных устройств, использующих магнитные эффекты. К его достоинствам следует отнести простоту и совместимость с современными методами производства микроэлектронных компонентов.
+
+В эксперименте ученые использовали усовершенствованную технологию «дамасской металлизации», традиционно использующуюся в создании медных межпроводниковых соединений.
+
+«Дамасская металлизация» как раз позволяет плотно заполнять пространство между медными зубьями основной <Node id="746"/>наноструктуры<Node id="759"/> шириной 160 нанометров магнитным сплавом никеля. При заполнении использовался метод электронанесения магнитных материалов.
+
+Полученные в результате высококачественные индукторы и актюаторы, созданные на основе <Node id="970"/>магнитных <Node id="980"/>наноструктур<Node id="992"/> будут широко использоваться в микроэлектронных устройствах, лабораториях-на-чипе и <Node id="1076"/>наносенсорах<Node id="1088"/>.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="1076" EndNode="1088">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="148" EndNode="161">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="276" EndNode="284">
+</Annotation>
+<Annotation Id="4" Type="Трехмерная+наноструктура" StartNode="137" EndNode="161">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Магнитная+наноструктура" StartNode="970" EndNode="992">
+</Annotation>
+<Annotation Id="6" Type="Наноструктура" StartNode="746" EndNode="759">
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="980" EndNode="992">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

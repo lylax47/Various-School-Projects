@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На сайте появился новый раздел в меню, содержащий избранные образовательные статьи, ранее размещенные на сайте или те, которые еще только будут размещаться в будущем и будут относиться к популяризации знаний для школьников и начинающих в области нанотехнологий. Раздел будет постепенно пополняться, часть материала перейдет в него из электронной версии научно-популярной книги "Нанотехнологии. <Node id="396"/>Азбука<Node id="402"/> для всех" или из тех материалов, которые будут специально писаться для этого раздела. Все статьи можно будет обсуждать в рамках форума на сайте. Все желающие приглашаются к (со)участию (к созиданию и критике)!
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="396" EndNode="402">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

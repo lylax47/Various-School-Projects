@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Нанотехнологии: от миллиардов к триллионам
+Как сообщает Indiana Chamber, рост нанотехнологий уже не обсуждается. Обсуждается то, какой регион является самым «нанотехнологичным». Интерактивная карта, созданная под эгидой «Проекта развивающихся нанотехнологий» определяет, какие государства и города являются ведущими в данной сфере.
+
+Количество университетов и правительственных лабораторий, разрабатывающих какое-то направление нанотехнологий, в <Node id="446"/>настоящее время<Node id="461"/> достигло 138. В общей сложности 47 государств содержат как минимум одну компанию, университет, лабораторию или другую организацию, занимающуюся нанотехнологиями.
+
+Согласно данным <Node id="641"/>2006 года<Node id="650"/>, <Node id="652"/>правительства<Node id="665"/>, корпорации и венчурные капиталисты всего мира потратили <Node id="723"/>$12,4 млрд.<Node id="734"/> на исследования и разработки в области нанотехнологий, что на <Node id="797"/>30%<Node id="800"/> больше, чем в <Node id="815"/>предыдущем 2005 году<Node id="835"/>. К <Node id="839"/>2014 году<Node id="848"/>, как ожидается, товары на сумму свыше <Node id="887"/>$2,6<Node id="891"/> трлн. будут включать в себя нанотехнологические разработки.
+<Node id="952"/>http://rnd.cnews.ru/…cience.shtml?…Нанотехнология<Node id="1001"/> – вперёд! Даёшь всё новые высоты!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="641" EndNode="650">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="641" EndNode="650">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="839" EndNode="848">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="815" EndNode="835">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="652" EndNode="665">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="797" EndNode="800">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="723" EndNode="734">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="839" EndNode="848">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="952" EndNode="1001">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="446" EndNode="461">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="887" EndNode="891">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

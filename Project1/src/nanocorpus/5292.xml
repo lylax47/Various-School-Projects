@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+В качестве одной из многочисленных потенциальных областей применения одностенных <Node id="83"/>углеродных <Node id="94"/>нанотрубок<Node id="104"/> (SWNT) называют биомедицину. Однако также высказывается масса опасений по поводу их токсичности.
+ 
+Исследователи из University of Cambridge (Великобритания) представили работу, в которой они проследили за поведением <Node id="321"/>нанотрубок<Node id="331"/> в клетках человека. Было показано, что <Node id="371"/>нанотрубки<Node id="381"/> проникают через клеточную мембрану, накапливаются в цитоплазме и ядре и тем самым вызывают гибель клеток.
+ 
+Основной проблемой обнаружения <Node id="521"/>углеродных <Node id="532"/>нанотрубок<Node id="542"/> является тот факт, что в состав биологических объектов входит много атомов углерода. Для получения изображений <Node id="654"/>нанотрубок<Node id="664"/> внутри клеток ученые применили <Node id="696"/>просвечивающую электронную микроскопию<Node id="734"/> (energy-filtered TEM, EFTEM) в сочетании с методом спектроскопии характеристических потерь энергии электронов (EELS). Также использовался метод <Node id="879"/>конфокальной микроскопии<Node id="903"/>, для чего в <Node id="916"/>нанотрубки<Node id="926"/> был введен йодид серебра в качестве контрастного агента. Для исследований были выбраны макрофаги человека, т.к. именно они должны первыми столкнуться с чужеродными телами, попавшими в организм.
+ 
+Механизм, по которому <Node id="1145"/>нанотрубки<Node id="1155"/> проникают в клетку, до конца не ясен. Большинство из них накапливаются в фагосомах и лизосомах, что предполагает захват трубок в процессе фагоцитоза. Это никак не отражается на здоровье клеток – не было найдено отличий от контрольной группы клеток. Однако через 3-<Node id="1420"/>4 дня<Node id="1425"/> часть <Node id="1432"/>нанотрубок<Node id="1442"/> попадает в клетки через липидный бислой мембраны, а некоторые проникают даже в ядра. Такое явление было обнаружено впервые, и именно оно приводит к гибели клеток.
+ 
+Работа «Direct imaging of single-walled carbon nanotubes in cells» была опубликована в журнале Nature Nanotechnology.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="916" EndNode="926">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1420" EndNode="1425">
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="83" EndNode="104">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="94" EndNode="104">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1432" EndNode="1442">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="371" EndNode="381">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="521" EndNode="542">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="654" EndNode="664">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="321" EndNode="331">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="1145" EndNode="1155">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="532" EndNode="542">
+</Annotation>
+<Annotation Id="12" Type="Просвечивающая+электронная+микроскопия" StartNode="696" EndNode="734">
+</Annotation>
+<Annotation Id="13" Type="Конфокальная+микроскопия" StartNode="879" EndNode="903">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

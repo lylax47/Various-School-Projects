@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>кандидат химических наук, ведущий специалист направления экспертизы в ГК «Роснанотех» Статус: Член методической комиссии 
+Илья Валерьевич Гольдт участвует в жизни портала "Нанометр" <Node id="182"/>с первого дня<Node id="195"/> его существования, принимал активное участие в создании Олимпиады, как текущей, так и прошлой. В <Node id="293"/>2004 году<Node id="302"/> защитил кандидатскую диссертацию на тему "Синтез и физико-химические исследования продуктов фторирования C60 комплексными и бинарными фторидами металлов" по специальности физическая химия. Сфера научных интересов: химия <Node id="523"/>фуллеренов<Node id="533"/>, люминофоры, рентгеноструктурный анализ. С 2004 по <Node id="585"/>март 2008 года<Node id="599"/> работал в Исследовательском центре компании "Самсунг" в Москве, в <Node id="666"/>настоящее время<Node id="681"/> работает в ГК "Роснанотех". По вопросам технической поддержки "Нанометра" писать на support@nanometer.ru. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="666" EndNode="681">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="585" EndNode="599">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">март</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="182" EndNode="195">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="293" EndNode="302">
+</Annotation>
+<Annotation Id="6" Type="Фуллерен" StartNode="523" EndNode="533">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="293" EndNode="302">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

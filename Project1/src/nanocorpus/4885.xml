@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Первый в России завод по производству фотоэнергетических установок /солнечных батарей/ планируется заложить в технико-внедренческой зоне Петербурга в <Node id="151"/>2009 году<Node id="160"/>. Об этом сообщил <Node id="178"/>25 сентября<Node id="189"/> руководитель проекта профессор Вячеслав Андреев из Физико-технического института им А.Ф. Иоффе РАН.
+
+Как передает ИТАР-ТАСС, <Node id="315"/>Андреев уточнил, что <Node id="336"/>проектом предусмотрен выпуск солнечных батарей объемом 75 мегаватт в <Node id="405"/>год<Node id="408"/> и суммарной площадью 17 тыс кв м. Стоимость продукции он оценивает <Node id="476"/>не менее 12 млрд руб<Node id="496"/> в <Node id="499"/>год<Node id="502"/>. Объем необходимых инвестиций – <Node id="535"/>5,2 млрд руб<Node id="547"/>, срок окупаемости проекта составит <Node id="583"/>пять лет<Node id="591"/>.
+
+Он подчеркнул, что «инновационный проект поддержан решением Военно-промышленной комиссии при правительстве РФ, в <Node id="707"/>настоящее время<Node id="722"/> он представлен для определения финансирования в госкорпорацию Роснано». По его словам, «с использованием нанотехнологий в петербургском "физтехе» разработаны новые типы так называемых каскадных солнечных элементов, обеспечивающих эффективность <Node id="967"/>более 35 процентов<Node id="985"/> при тысячекратном концентрировании солнечного излучения". Созданы специальные модули и солнечные энергоустановки, перспективные для обеспечения электроэнергией автономных потребителей, добавил представитель института.
+
+<Node id="1205"/>Андреев рассказал, что интерес к проекту проявили также представители бизнес-сообществ<Node id="1291"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="315" EndNode="502">
+</Annotation>
+<Annotation Id="1" Type="темы" StartNode="336" EndNode="502">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="476" EndNode="496">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="499" EndNode="502">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="315" EndNode="502">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="упоминается" StartNode="315" EndNode="1291">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="151" EndNode="160">
+</Annotation>
+<Annotation Id="9" Type="упоминает" StartNode="315" EndNode="1291">
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="967" EndNode="985">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="583" EndNode="591">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="707" EndNode="722">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="535" EndNode="547">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="высказывания_заявления" StartNode="1205" EndNode="1291">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="405" EndNode="408">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1205" EndNode="1291">
+</Annotation>
+<Annotation Id="19" Type="цитаты" StartNode="336" EndNode="502">
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="178" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Год" StartNode="151" EndNode="160">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

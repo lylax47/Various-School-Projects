@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Недостаток поликристаллического кремния для солнечной технологии на мировом рынке расшевелил и Россию. Здесь планируют создать 7 новых заводов по его производству. Самый большой завод, Nitol Solar, вблизи Иркутска, уже приступил к производству с <Node id="247"/>января с.г.<Node id="258"/> К <Node id="261"/>2009 г.<Node id="268"/> производительность Nitol должна достичь 3700 тонн поликремния в <Node id="333"/>год<Node id="336"/> [1].
+
+Компания Nitol Solar Ltd. – международная вертикально интегрированная компания, основной бизнес которой связан с научными разработками и производством продукции, используемой для генерации солнечной электроэнергии, основана в <Node id="569"/>2006 г.<Node id="576"/>
+
+В <Node id="580"/>начале 2007 г.<Node id="594"/> компания приобрела реактор (стоимостью <Node id="634"/>49 млн. долларов<Node id="650"/>) для приготовления поликремния из трихлорида кремния у компании GT Solar (Merrimack, Нью-Хэмпшир, США) и установила его на своем заводе <Node id="787"/>Усолье Иркутской области<Node id="811"/>. Текущая продукция Nitol – вся цепочка от сырьевых материалов (хлорин и водород) до трихлорсилана и поликремния для солнечных элементов. Производство продукции, ориентированной на солнечную энергетику, было запущено в <Node id="1030"/>2007 г.<Node id="1037"/> [2].
+
+В <Node id="1046"/>ноябре 2007 г.<Node id="1060"/> Nitol заключила соглашение с китайской Suntech Power Holdings Co. Ltd., производителем фотовольтаических ячеек и модулей, на поставку поликремния <Node id="1207"/>в течение 7 лет<Node id="1222"/>. В <Node id="1226"/>январе 2008 г.<Node id="1240"/> Nitol Solar заключила соглашение с Evergreen Solar, Inc (“Evergreen”, Marlboro, Массачусеттс, США) на поставку поликремния класса «для солнечных ячеек» <Node id="1393"/>в течение 7 лет<Node id="1408"/>, начиная <Node id="1418"/>с 2009 г.<Node id="1427"/> по фиксированной цене. Объем поставок должен обеспечить компании Evergreen произвести солнечных ячеек с общей емкостью 400 МВт.
+
+Другие российские компании, планирующие основать заводы поликремния – Russian Silicon, Renova Orgsyntes, Poldosky, Baltic Silicon Valley и Synthetic Technologies [1]. В планы включено производство поликремния, исходного сырья, солнечных ячеек, модулей и преобразователей для национального и мирового рынков.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="1030" EndNode="1037">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="333" EndNode="336">
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="569" EndNode="576">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="1226" EndNode="1240">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">январе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="634" EndNode="650">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1046" EndNode="1060">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="261" EndNode="268">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1207" EndNode="1222">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1393" EndNode="1408">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="580" EndNode="594">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="247" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="расположение" StartNode="787" EndNode="811">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1418" EndNode="1427">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

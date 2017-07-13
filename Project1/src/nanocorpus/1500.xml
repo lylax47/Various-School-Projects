@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает Nanotechweb, ученые из США сконструировали манипулятор нового типа, работающий с объектами микронного размера с помощью нескольких координатных «пальцев».
+
+Устройство, созданное <Node id="192"/>Лаксманом Саггере<Node id="209"/> (Laxman Saggere) и Сандипом Кришнаном (Sandeep Krishnan) из Университета Иллинойса (University of Illinois) работает с микроскопическими деталями и другими объектами, как мы обычно манипулируем вещами с помощью пальцев. Если устройство покажет такую же гибкость в микроманипулировании, то у ученых-нанотехнологов будет еще один мощный инструмент для создания НЭМС машин.
+
+Обычно для таких операций ученые используют вариации обычного пинцета, в этом случае деталь механически зажимается между двумя «ногами». Но такое манипулирование имеет малое количество степеней свободы, особенно если нужно работать с деталями микронных размеров, находящихся в составе более крупных и сложно устроенных структур
+
+Новый чип-микроманипулятор, созданный <Node id="949"/>Лаксманом<Node id="958"/> и <Node id="961"/>его<Node id="964"/> коллегами работает с точностью до нескольких нанометров. Этого позволили добиться гибкие соединения, связывающие пальцы манипулятора с актюаторами чипа.
+
+Как говорят ученые, чип может стать основой микрофабрик будущего, производящих устройства нанометровых размеров быстро и с большой точностью.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="192" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лаксман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="961" EndNode="964">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="949" EndNode="958">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Лаксман</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

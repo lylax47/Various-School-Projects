@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Уважаемые господа!
+Рады сообщить об открытии нового интернет-ресурса сети Nanotechnology News Network, посвященного освещению деловой стороны нанотехнологий – <Node id="159"/>http://www.nanomarket.ru.<Node id="184"/>
+
+Потребители на этом сайте найдут каталог российских предприятий, их нанопродукты, предоставляемые ими услуги, новости, информацию о ключевых персонах, занятых в наноиндустрии. А компании-производители могут размещать информацию о себе и анонсировать свою продукцию.
+
+Мы уверены, что со временем Наномаркет станет информационной площадкой не только для потребителя, но и для инвесторов, исследователей и компаний-производителей.
+
+Таким образом, мы надеемся, что компания NNN сделает свой вклад в развитие российских нанотехнологий, а Наномаркет будет востребованным бизнес-ресурсом в этой отрасли!
+
+Предлагаем воспользоваться нашей помощью в развитии своего бизнеса в области нанотехнологий.
+
+Для размещения информации о своей компании и добавлении данных о товарах, ознакомьтесь с правилами регистрации. Появятся вопросы – присылайте нам на E-mail: market@
+<Node id="1043"/>nanomarket.ru<Node id="1056"/>
+Для более эффективного освещения деятельности вашей компании предлагаем размещать на сайте пресс-релизы, их тоже можно направлять на адрес: market@
+<Node id="1205"/>nanomarket.ru<Node id="1218"/>
+Используйте наши баннерные площади для вашей рекламы. Подробности можно прочесть тут: <Node id="1305"/>http://www.nanonewsnet.ru/ads<Node id="1334"/>
+Надеемся, на взаимовыгодное сотрудничество.
+С наилучшими пожеланиями, администрация сайта Nanomarket.ru</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1205" EndNode="1218">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="1043" EndNode="1056">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1305" EndNode="1334">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="159" EndNode="184">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

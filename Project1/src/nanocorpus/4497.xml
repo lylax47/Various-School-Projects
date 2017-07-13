@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из Университета Массачусетса (University of Massachusetts Lowell and Brewer Science) создали матрицу высокоскоростных нанотранзисторов на пластиковой пленке, используя <Node id="176"/>нанотрубки<Node id="186"/> в качестве основы.
+
+Метод, предложенный учеными, позволяет производить гибкую электронику массовым производством в больших количествах.
+
+Ученым пришлось преодолеть проблему низкой мобильности зарядов в пластиковом субстрате, но все же устройство может работать только с частотой до нескольких килогерц.
+
+Но и такие достаточно низкие показатели частоты позволяют использовать гибкую электронику в составе электронной бумаги, «умной кожи» в текстильной промышленности, и RFID-метках.
+
+Нововведение, открытое учеными, состоит в том, что <Node id="721"/>нанотрубки<Node id="731"/> не были выращены непосредственно на пленке, а нанесены на ее поверхность в виде растворенных «чернил», подобно тому, как печатает на бумаге текст струйный принтер.
+
+Таким образом, ученые просто напечатали транзисторы раствором из высококачественных <Node id="981"/>нанотрубок<Node id="991"/> на пластиковой пленке.
+
+Благодаря простоте производства такого электронного устройства, у него есть все шансы стать коммерчески успешным.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="981" EndNode="991">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="721" EndNode="731">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="176" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

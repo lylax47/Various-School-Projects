@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>4 июня<Node id="7"/> в Москве состоится семинар по вопросам сотрудничества России и Бельгии в сфере нанотехнологий. Для участия в семинаре прибудет бельгийская делегация во главе с генеральным директором Федерального офиса по координации, информации и научной политике д-ром Богданом Ван Доннинком.
+
+В состав бельгийской делегации входят также представители одного из ведущих в мире исследовательских центров в области наноэлектроники и нанотехнологий – IMEC, ученые, представители компаний Solvay и Nanocyl.
+
+С российской стороны участие в семинаре примут заместители генерального директора ГК «Роснанотех» Лосюков А.П. и Нестеренко А.К., академик Асеев А.Л. и другие.
+
+В рамках семинара состоится дискуссия по вопросам перспектив развития российско-бельгийского сотрудничества в области нанотехнологий.
+IMECIMEC – один из ведущих в мире исследовательских центров области наноэлектроники и нанотехнологий. Расположен в г. Левен (Бельгия). Исследования фокусируются на интегральных микросхемах нового поколения. Исследования IMEC нацелены на стыковку между фундаментальными исследованиями университетов и развитием технологий в промышленности.
+
+Имеет «компанию-сестру» в Нидерландах – «IMEC Nederland».
+
+Создала представительства в США, КНР И Японии. Общая численность сотрудников составляет 1500 человек, в том числе более 500 местных промышленных резидентов и приглашенных исследователей.
+
+Доходы в <Node id="1388"/>2006 г.<Node id="1395"/> составили <Node id="1406"/>231 млн. евро<Node id="1419"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="1406" EndNode="1419">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1388" EndNode="1395">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

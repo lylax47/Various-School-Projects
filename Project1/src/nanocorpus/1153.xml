@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Испанские исследователи разработали материал, который может быть использован в скоростных компьютерах как нанохолодильник для чипов. Материал этот основан на германиевых <Node id="171"/>наноструктурах<Node id="185"/> и имеет существенно малую теплопроводность, что делает его потенциальным кандидатом в разработке термоэлектрических систем, сравнимых по эффективности с кремниевыми
+
+В <Node id="354"/>последние годы<Node id="368"/> разработка и производство контуров наноразмеров для интегрированных систем стало одной из передовых тем исследований в новом материаловедении. Среди наиболее интересных и важных характеристик при проектировании микрочипов – термопроводность элементов и устройств, интегрированных в чип, то есть их способность поглощать или уводить тепло. Эта характеристика является весьма критичной при контроле нагрева микроконтуров и представляет собой существенный ограничитель физических размеров потенциально малых компьютеров. Сочетание тепла и электричества создает термоэлектрические эффекты, которые лимитируют возможность охлаждения контуров и повышения мощности вычислений. До настоящего времени не существует материалов, обладающих достаточно высокими свойствами с точки зрения термоэлектрического поведения. Вот почему таким важным для улучшения термоэлектрических свойств может оказаться создание <Node id="1265"/>наноматериалов<Node id="1279"/>, поскольку такие материалы могут обладать существенно более низкой термопроводностью при одновременно высокой электропроводности, что и определяет высокую термоэлектрическую эффективность.
+
+Исследователи с кафедры физики Университета Барселоны (UAB Department of Physics) и Барселонского института материаловедения (Barcelona Institute of Materials Science) в совместном проекте работали над созданием нового материала, сформированного двумя взаимодополняющими слоями, один из которых изготовлен из кремниевых, а другой – германиевых <Node id="1814"/>нанокристаллов<Node id="1828"/> (<Node id="1830"/>квантовые точки<Node id="1845"/>). По сравнению с существующими пректами, здесь основной идеей является расположение <Node id="1930"/>квантовых точек<Node id="1945"/> в некоррелированном соотношении в соседствующих слоях. Другими словами, <Node id="2018"/>квантовые точки<Node id="2033"/> из одного слоя не совпадают по вертикали с <Node id="2077"/>квантовыми точками<Node id="2095"/> из другого слоя. Этого добиваются введением дополнительного углеродного подслоя между слоями кремниевых и германиевых <Node id="2214"/>квантовых точек<Node id="2229"/>. Промежуточный слой скрывает информацию о размещении <Node id="2283"/>квантовых точек<Node id="2298"/> в соседствующих слоях полупроводников.
+
+Основной результат такой «декорреляции» между соседними слоями- уменьшение термопроводности, поскольку процесс прямого переноса тепла затрудняется отсутствием прямых путей, перпендикулярных поверхностям. Ученым удалось показать, что при переходе от вертикально коррелированных к некоррелированным слоям термопроводность уменьшается более, чем в 2 раза. Такой результат серьезно стимулирует дальнейшие разработки материалов с улучшенными термоэлектрическими свойствами, как альтернативу кремниевым структурам.
+
+Структуры, базирующиеся на германии могут быть также успешно использованы в высоко-температурных приложениях, таких как восстановление тепла в процессах горения и превращение его в электрическую энергию.
+
+Второй и весьма важный аспект обсуждаемого проекта – это теоретическое обоснование тепловых свойств такого материала. Теоретическое исследование проводилось на простой модели, основанной на модифицированном тепловом уравнении <Node id="3280"/>Фурье<Node id="3285"/>, с помощью которого можно прогнозировать поведение системы в зависимости от размеров ее параметров. Как результат теоретических разработок – более полное понимание теоретических основ поведения разработанных <Node id="3494"/>наноструктурных материалов<Node id="3520"/>.
+
+Руководитель проекта – Хавьер Родригес-Вьехо (Javier Rodríguez-Viejo) – профессор кафедры физики Университета Барселоны. В группу профессора <Node id="3664"/>Родригеса<Node id="3673"/> входило несколько физиков из Кафедры Физики Университета Барселоны, а также исследователи из Барселонского института материаловедения. Статья по результатам исследований была опубликована в журнале Applied Physics Letters: (J. Alvarez-Quintana, X. Alvarez, J. Rodriguez-Viejo, D. Jou, P. D. Lacharmoise, A. Bernardi, A. R. Goñi, M. I. Alonso, «Cross-plane thermal conductivity reduction of vertically uncorrelated Ge/Si quantum dot superlattices», APPLIED PHYSICS LETTERS, July 2008).
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="3494" EndNode="3520">
+</Annotation>
+<Annotation Id="5" Type="Квантовая+точка" StartNode="2077" EndNode="2095">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="3280" EndNode="3285">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Фурье</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Наноструктура" StartNode="171" EndNode="185">
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="2018" EndNode="2033">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="3664" EndNode="3673">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Родригес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="354" EndNode="368">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Квантовая+точка" StartNode="1930" EndNode="1945">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Квантовая+точка" StartNode="1830" EndNode="1845">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Нанокристалл" StartNode="1814" EndNode="1828">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Квантовая+точка" StartNode="2283" EndNode="2298">
+</Annotation>
+<Annotation Id="23" Type="Квантовая+точка" StartNode="2214" EndNode="2229">
+</Annotation>
+<Annotation Id="22" Type="Наноматериал" StartNode="1265" EndNode="1279">
+</Annotation>
+<Annotation Id="24" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

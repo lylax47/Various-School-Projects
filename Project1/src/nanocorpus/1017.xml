@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Завершено создание совместного предприятия Kemira Oyj и Rockwood Holdings со штаб-квартирой в Дуйсбурге (Германия). Его появление является составной частью новой стратегии Kemira.
+
+Новое предприятие, названное Sachtleben, объединяет производство двуокиси титана с производством на его основе красителей для функциональных добавок. Суммарный доход вновь созданного бизнеса планируется на уровне <Node id="395"/>€560 млн.<Node id="404"/>
+
+Вольф-Дитер Гриблер (Wolf Dieter Griebler), который возглавлял в Rockwood производство двуокиси титана, стал гендиректором совместного предприятия. <Node id="554"/>61%<Node id="557"/> его пакета принадлежат Rockwood, <Node id="591"/>39%<Node id="594"/> Kemira. Sachtleben должна занять лидирующие позиции в производстве красителей для синтетических волокон применительно к разным отраслям, в том числе, для пищевых упаковок, фармацевтической и косметической индустрий. Конкурентным преимуществом новой компании является наличие развитых нанотехнологий для специальных применений.
+
+Финская Kemira Oyj занимается очисткой воды, в том числе, для нужд пищевой отрасли, а также производит краски для Северной и Восточной Европы (одна из наиболее известных марок – Tikkurila.
+
+Американский Rockwood Holdings имеет 100 предприятий в 25 странах, включая (кроме США) Германию, Австралию, Китай, Бразилию и др.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="395" EndNode="404">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="554" EndNode="557">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="591" EndNode="594">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

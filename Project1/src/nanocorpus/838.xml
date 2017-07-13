@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российская корпорация нанотехнологий примет участие в XI Инновационном форуме в Томске<Node id="86"/>10 октября<Node id="96"/> заместитель генерального директора, член Правления Корпорации Андрей Малышев<Node id="173"/> <Node id="174"/>примет участие в пленарном заседании «Региональные инновационные системы: опыт, проблемы и перспективы развития».
+ 
+В тот же <Node id="299"/>день<Node id="303"/> управляющий директор РОСНАНО Константин Деметриу выступит на круглом столе «Инновации – главное преимущество современного бизнеса» с докладом «Государственные подходы по стратегическим направлениям развития экономики России».
+ <Node id="531"/>11 октября<Node id="541"/> состоится пресс-клуб – неформальное общение представителей Корпорации с томскими журналистами. В мероприятии примут участие Константин Деметриу и директор по созданию контента научно-популярных и образовательных программ Александр Костинский.
+ Александр Костинский
+Ожидается, что в XI Инновационном форуме примут участие более тысячи делегатов. Среди них будут представители профильных ассоциаций, крупных российских компаний и транснациональных корпораций, дипломатических миссий зарубежных государств, руководители инвестиционных компаний, венчурных и инновационных фондов, лидеры банковского сообщества, ведущие эксперты научных кругов.
+ Основная цель форума – создание международной площадки для открытого диалога представителей федеральной и региональной власти, бизнеса и финансовых структур по вопросам взаимовыгодного сотрудничества в развитии региональных инновационных систем и инновационной экономики России. <Node id="1462"/>http://www.rusnano.com/…ication.aspx?…Ну<Node id="1502"/> что ж, инновационный форум да ещё в таком регионе, как Томская область – дело, несомненно, хорошее. Тем более, что его основная задача – свести вместе представителей федеральной и региональной власти, бизнеса и финансовых структур по вопросам взаимовыгодного сотрудничества в развитии региональных инновационных систем и инновационной экономики России. Желаем успехов организаторам и участникам форума!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="531" EndNode="541">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="299" EndNode="303">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="86" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="173" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">член</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="1462" EndNode="1502">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="173" EndNode="174">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

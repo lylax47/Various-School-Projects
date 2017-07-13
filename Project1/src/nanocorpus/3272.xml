@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Международная Ассоциация Нанотехнологии и Калифорнийский институт нанотехнологии представляют Пятый международный конгресс нано-био и чистых технологий (Nano-Bio Clean Tech 2008), который состоится <Node id="199"/>27–30 октября 2008<Node id="217"/> в Сан <Node id="224"/>Франциско<Node id="233"/>, Калифорния.
+Адрес проведения <Node id="264"/>Конгресса<Node id="273"/>: San Francisco Airport Marriott 1800 Old Bayshore Highway Burlingame, California 94010 USA 
+Дополнительную и контактную информацию можно получить здесьВ программме <Node id="438"/>Конгресса<Node id="447"/> секции по следующим тематикам: <Node id="479"/>наноматериалы<Node id="492"/>, <Node id="494"/>наночастицы<Node id="505"/>, наноустройства, наноэлектроника, нанопроизводство, МЭМС и НЭМС, нанобиотехнологии, наноразмерная характеризация, стандарты и номенклатура, наноинструменты, молекулярная инженерия, токсикология <Node id="700"/>наночастиц<Node id="710"/>, проблемы здравоохранения, возобновляемые источники энергии, биотоплива, фотовольтаика, электрические автомобили, промышленное изготовление наноструктурных фотоэлементов, интеллектуальная собственность и передача технологий, инвестиции венчурного капитала и инвестиционные возможности, образование и производственная практика, социальные эффекты и практика взаимодействия с окружающей средой. 
+Материалы прошлогодних событий – Четвертого международного конгресса по нанотехнологии (4th International Congress of Nanotechnology (ICNT) 2007) и <Node id="1253"/>Конгресса<Node id="1262"/> чистых технологий (Clean Tech Congress 2007), проводившихся в <Node id="1325"/>ноябре 2007 года<Node id="1341"/> в Сан <Node id="1348"/>Франциско<Node id="1357"/>, можно просмотреть здесь</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Властная_Структура" StartNode="264" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Конгресса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Наноматериал" StartNode="479" EndNode="492">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="199" EndNode="217">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1348" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Франциско</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="494" EndNode="505">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Властная_Структура" StartNode="1253" EndNode="1262">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Конгресса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1325" EndNode="1341">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="224" EndNode="233">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Франциско</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="438" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Конгресса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наночастица" StartNode="700" EndNode="710">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

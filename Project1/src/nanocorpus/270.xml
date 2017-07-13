@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Более 50 специалистов в области микро- и нанотехнологий Южного Федерального Округа, Берлина, Минска, Самарканда, Москвы и Санкт-Петербурга представили свои доклады, посвященные современным фото-электронным материалам и технологии их получения, а также фотоэлектронным приборам и устройствам.
+
+Основными организаторами состоявшейся в поселке Эльбрус на базе учебно-научного комплекса Кабардино-Балкарского госуниверситета конференции выступили Владикавказский технологический центр «Бас-пик», Кабардино-Балкарский госуниверситет и Северо-Кавказский горно-металлургический институт. Оргкомитет возглавил специалист в области анализа и диагностики <Node id="646"/>наноструктур<Node id="658"/> профессор КБГУ А. М. Кармоков.
+
+Высокую активность проявили молодые ученые ВТЦ «Баспик» основного разработчика и изготовителя микроканальных пластин (МКП) в России.
+
+Сделанные доклады охватили как фундаментальные исследования структуры и свойств материалов, в том числе <Node id="929"/>наноматериалов<Node id="943"/> и наноситем, так и область их практического использовании. Также были определены основные направления в области научных исследований в области МКП-изделий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="929" EndNode="943">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="646" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

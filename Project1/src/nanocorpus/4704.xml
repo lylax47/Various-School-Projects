@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+НАНОМЕТР уже сообщал, что в здании химического факультета МГУ еще в субботу началась регистрация международных делегаций на 39 Международную Химическую Олимпиаду школьников, а также проходили "натурные съемки" российской делегации в помещениях лаборатории неорганического материаловедения. 
+ 
+В <Node id="297"/>11 часов<Node id="305"/> <Node id="306"/>16 июля 2007<Node id="318"/> в Фундаментальной Библиотеке МГУ официально открылась 39 Международная Химическая Олимпиада школьников.
+ 
+ 
+ 
+Церемония началась с торжественных гимнов, затем был красочный выход команд 69 стран-участниц. Команда Российской Федерации замыкала шеренгу, под апплодисметны выходившую из подземного перехода прямо к памятнику И.И.Шувалова у Интеллектуального центра Фундаментальной библиотеки МГУ. Солнечная погода вполне благоприятствовала проведению церемонии прямо на открытом воздухе.
+ 
+ 
+ 
+Около памятника на трибуне располагались академики <Node id="861"/>В.А.Садовничий<Node id="875"/>, В.В.Лунин, С.М.Алдошин, а также представители спонсоров 39 МХО. Центральную трибуну окружали полукругом трибуны официальных делегаций и гостей.
+ 
+ 
+ 
+После выхода команд состоялись официальные приветствия от лица Декана химического факультета МГУ, академика РАН В.В.Лунина, Ректора МГУ им М.В.Ломоносова, академика РАН <Node id="1196"/>В.А.Садовничего<Node id="1211"/>, от лица Российской Академии Наук выступил директор Института Проблем Химической Физики, академик РАН С.М.Алдошин, после чего напутственные слова были сказаны и представителями спонсоров Олимпиады. 
+ 
+ 
+ 
+<Node id="1417"/>После этого<Node id="1428"/> перед памятником играли барабанщики, танцевали "молекулы" в виде дружного танцевального коллектива в белых одеждах.
+ 
+ 
+ 
+Кульминацией церемонии стала передача олимпийского огня, который с искрами и радостным трепетом вознесся к вершине симметричной конструкции, дымно вспыхнув на ее вершине.
+ 
+ 
+ 
+<Node id="1728"/>Затем<Node id="1733"/> Ректор МГУ пригласил всех на концерт в здании Библиотеки.
+ 
+ 
+Россия уже второй раз проводит мероприятие такого уровня.  Олимпиада открыта!
+ 
+ 
+ Удачи нашей сборной! </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1417" EndNode="1428">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1728" EndNode="1733">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Дата" StartNode="306" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1196" EndNode="1211">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="297" EndNode="305">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="861" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Представители компании Hynix Semiconductor на <Node id="47"/>днях<Node id="51"/> объявили о возможном переходе производства флэш-памяти NAND на 57-нм техпроцесс уже в <Node id="138"/>3 квартале этого года<Node id="159"/>. Этот шаг позволит снизить издержки на производство продукции и ужесточить конкурентную борьбу за лидерство с Samsung Electronics и Toshiba, которые уже на протяжении долгого времени производят чипы памяти по 50-нм и 56-нм техпроцессу.
+
+Согласно данным официальных источников, Hynix Semiconductor сегодня владеет <Node id="473"/>18,5%<Node id="478"/> рынка флэш-памяти, а переход на внедрение более совершенных в технологическом плане 57-нм чипов может резко повысить эти показатели. Как уже отмечалось выше, модернизация подобного рода обеспечит инженерам Hynix снижение расходов на производство флэш-чипов <Node id="736"/>более чем на 20%<Node id="752"/>, что может сказаться на цене новинок рынка.
+
+Согласно планам разработчиков, вслед за переходом к 57-нм стандартам, уже в <Node id="874"/>первом квартале 2008 года<Node id="899"/> компания предполагает начать внедрение 48-нм норм. В то же время разработчики Toshiba сегодня довольно комфортно чувствуют себя на рынке с продуктами, изготавливаемыми по 56-нм техпроцессу.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="736" EndNode="752">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="138" EndNode="159">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="473" EndNode="478">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="874" EndNode="899">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="47" EndNode="51">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

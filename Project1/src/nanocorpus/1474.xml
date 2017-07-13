@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Казани появится международный центр наномедициныКазань, <Node id="58"/>16 сентября<Node id="69"/> – Сегодня первый заместитель Премьер-министра Республики Татарстан Борис Павлов на заседании межведомственной рабочей группы рассмотрел ход работы по проекту «Использование радионуклидных <Node id="258"/>наноструктур<Node id="270"/> для диагностики и лечения новообразований», который предусматривает создание в Казани международного центра наномедицины с участием финансовых институтов развития Российской Федерации.
+В заседание приняли участие представители <Node id="498"/>Минздрава<Node id="507"/> и Минэкономики РТ.
+ Открывая работу заседания <Node id="554"/>Борис Павлов отметил, что <Node id="580"/>наличие научного потенциала в республике, развитой инфраструктуры и созданных технопарков позволяет Казани включиться в международные проекты по созданию новых диагностических и лечебных препаратов на основе нанотехнологий<Node id="802"/>. Создание международного центра ядерной наномедицины позволит Татарстану включится в объемный быстрорастущий мировой рынок клинических испытаний новых радиофармпрепаратов. В числе первоочередных задач проекта: разработка медико-технологических требований и технического задания на проектирование международного центра ядерной наномедицины; проведение экспертиз и получение экспертных заключений и согласований (РАН, РАМН, ГК «Роснанотех», ГК «Росатом», Национальный институт рака США, надзорные органы, профильные ассоциации), необходимых на стадии разработки предпроектной документации; подготовка прикладного научно-исследовательского проекта «Использование наногибридов и других структур для прицельной радионуклидной терапии и диагностики новобразований»; подготовка пакета документов (бизнес-план) для представления в ГК «Роснанотех». 
+Первый вице-премьер отметил, что реализация проекта позволит создать промышленные нанотехнологии в медицине, высокотехнологический лечебно-диагностический комплекс, медицинские услуги которого будут востребованы как на российском рынке, так и со стороны зарубежных пациентов.
+ На заседании межведомственной рабочей группы было принято решение о разработке медико-технологических требований для реализации проекта до <Node id="2060"/>1 декабря 2008 года<Node id="2079"/> и подготовке технического задания по реализации проекта до <Node id="2139"/>1 января 2009 года<Node id="2157"/>, параллельно будут вестись согласования основных принятых решений с финансовыми институтами развития Российской Федерации. <Node id="2281"/>http://www.tatar-inform.ru/…9/16/132699/Ну<Node id="2323"/> вот, значит, казанцам удалось «перетянуть одеяло на себя»… ;-))) Ведь, очевидно, что «раньше» такого рода Центр (почти) наверняка заполучила бы себе Москва, ну, в крайнем случае, Питер. Да что там: с равным успехом этот Центр могли бы «приютить» у себя и Саратов, и Екатеринбург, и Нижний Новгород… Говоря цинично, всё-таки это довольно «лакомый кусочек»… Ну что ж, молодцы ребята! Поздравляем и желаем новых успехов и достижений нашим казанским коллегам!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="2060" EndNode="2079">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="темы" StartNode="580" EndNode="802">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2281" EndNode="2323">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Властная_Структура" StartNode="498" EndNode="507">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минздрава</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="580" EndNode="802">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="2139" EndNode="2157">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="58" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="554" EndNode="802">
+</Annotation>
+<Annotation Id="13" Type="автор" StartNode="554" EndNode="802">
+</Annotation>
+<Annotation Id="14" Type="упоминается" StartNode="554" EndNode="802">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноструктура" StartNode="258" EndNode="270">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="554" EndNode="802">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

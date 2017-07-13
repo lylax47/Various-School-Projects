@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Профессор, проректор МГУ им.М.В.Ломоносова, начальник Управления инновационной политики и организации инновационной деятельности МГУ Статус: Заместитель Председателя 
+<Node id="167"/>Родился 1 ноября <Node id="184"/>1945<Node id="188"/> года<Node id="193"/> в Казахстане. Выпускник химического факультета МГУ <Node id="245"/>1969 года<Node id="254"/> по специальности "химическая кинетика и катализ". В <Node id="307"/>1972 году<Node id="316"/> закончил аспирантуру МГУ по той же специальности. Кандидат химических наук (<Node id="393"/>1975 г.<Node id="400"/>). Работает на химическом факультете Московского университета <Node id="462"/>с 1970 года<Node id="473"/>. В период <Node id="484"/>с 1978 по 2005 гг<Node id="501"/>. находился на государственной службе, совмещая ее с научной и педагогической деятельностью. Был заместителем начальника Главного управления научно-исследовательских работ и инновационной деятельности <Node id="702"/>Минвуза<Node id="709"/> СССР и Гособразования СССР, заместителем начальника <Node id="762"/>Планово-финансового управления<Node id="792"/> <Node id="793"/>Миннауки<Node id="801"/> <Node id="802"/>России, заместителем руководителя Сводного департамента Минпромнауки России, заместителем Министра, первым заместителем Министра Минатома России, заместителем Руководителя Федерального агентства по атомной энергии Российской Федерации. В <Node id="1040"/>настоящее время<Node id="1055"/> - начальник Управления инновационной политики и организации инновационной деятельности МГУ. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="184" EndNode="193">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="462" EndNode="473">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="793" EndNode="801">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">начальник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="393" EndNode="400">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="801" EndNode="802">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1040" EndNode="1055">
+</Annotation>
+<Annotation Id="10" Type="Год" StartNode="307" EndNode="316">
+</Annotation>
+<Annotation Id="11" Type="Дата_рождения" StartNode="167" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="307" EndNode="316">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="245" EndNode="254">
+</Annotation>
+<Annotation Id="17" Type="Властная_Структура" StartNode="762" EndNode="792">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Планово-финансового управления</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="484" EndNode="501">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="702" EndNode="709">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">начальник</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Минвуза</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="245" EndNode="254">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="работает" StartNode="801" EndNode="802">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">начальник</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

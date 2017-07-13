@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Обращение главного редактора и издателя к читателям и авторам
+Уважаемые коллеги!
+Развитие наноисследований, нанотехнологий и наноиндустрии рассматриваются Президентом Российской Федерации и Правительством Российской Федерации как одно из стратегических направлений формирования инновационной экономики – «экономики знаний». В <Node id="326"/>2005 году<Node id="335"/> направление «Индустрия наносистем и материалы» включено в государственные научно-технические приоритеты.Главный редактор журнала Михаил Владимирович Алфимов
+Развитие исследований структуры и свойств наноразмерных объектов и <Node id="560"/>наноматериалов<Node id="574"/> как междисциплинарной области знаний требует и современной информационной инфраструктуры. В связи с этим <Node id="680"/>Федеральным агентством по науке и инновациям<Node id="724"/> <Node id="725"/>совместно<Node id="734"/> с ООО «Парк-медиа» учрежден журнал «Российские нанотехнологии».
+
+Главный редактор журнала – Михаил Владимирович Алфимов – академик РАН, директор Центра фотохимии РАН, руководитель рабочей группы Научно-координационного совета ФЦНТП «Исследования и разработки по приоритетным направлениям развития науки и техники» на <Node id="1052"/>2002–2006 годы<Node id="1066"/> Минобрнауки России по направлению «Индустрия наносистем и материалы».
+
+Вместе с выпуском печатного журнала разработан «Российский электронный наножурнал».
+
+Основная цель <Node id="1237"/>РЭН<Node id="1240"/> – предоставить широкому кругу людей, интересующихся всем, что связано с нанотехнологиями, возможность следить за развитием наноиндустрии в России и в мире, интерактивно обмениваться знаниями, мыслями, опытом и т.д. Особенно это актуально потому, что нанотехнологии являются основой научно-технологической революции <Node id="1556"/>XXI века<Node id="1564"/>.
+«Российский Электронный наножурнал» официальной зарегистрирован в <Node id="1632"/>Федеральной службе по надзору за соблюдением законодательства в сфере массовых коммуникаций и охране культурного наследия<Node id="1753"/>.
+
+Создавая новые информационные возможности для научного сообщества и общественности по обмену знаниями и консолидации усилий в области нанотехнологий, редакция уже сейчас открыта к сотрудничеству с потенциальными авторами.
+Главный редактор журнала «Российские нанотехнологии» М.<Node id="2033"/>В. АлфимовГенеральный<Node id="2054"/> директор ООО «Парк-медиа» А.И. Гордеевhttp://<Node id="2100"/>www.nanojournal.ruВот<Node id="2121"/> интересная новость… И журнал интересный. СтОит регулярно и часто просматривать, а, возможно, и публиковать свои статьи…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1237" EndNode="1240">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рэн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2100" EndNode="2121">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="326" EndNode="335">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="2033" EndNode="2054">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1556" EndNode="1564">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="1632" EndNode="1753">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральной службе по надзору за соблюдением законодательства в сфере массовых коммуникаций и охране культурного наследия</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Партнеры_Клиенты" StartNode="725" EndNode="734">
+</Annotation>
+<Annotation Id="13" Type="Властная_Структура" StartNode="680" EndNode="724">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Федеральным агентством по науке и инновациям</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Партнеры_Клиенты</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Наноматериал" StartNode="560" EndNode="574">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1052" EndNode="1066">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Год" StartNode="326" EndNode="335">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

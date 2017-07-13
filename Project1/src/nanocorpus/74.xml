@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>25 января 2008 года<Node id="20"/> все студенты России праздновали окончание сессии и профессиональный праздник – <Node id="100"/>День<Node id="104"/> Российского Студенчества. Учащиеся Факультета наук о материалах не остались в стороне и впервые за <Node id="204"/>последние несколько лет<Node id="227"/> массово приняли участие в гуляниях, посвящённых этому празднику. Некоторым даже посчастливилось выпить медовухи из рук ректора МГУ <Node id="359"/>Садовничего В.А.<Node id="375"/>,<Node id="376"/> а так же присутствовать на торжественном заседании в честь <Node id="436"/>дня<Node id="439"/> рождения МГУ. К тому же, Смирнов Евгений был удостоен чести побывать на встрече Медведева Д.А. с 16-ью лучшими студентами Московского Университета, которая прошла в корпусе В Главного Здания на Воробьёвых горах. 
+ 
+Кроме официальной программы торжеств на <Node id="695"/>следующий день<Node id="709"/> состоялись традиционный огонёк у ректора в Фундаментальной библиотеке, награждение в номинациях «Лучший из Лучших Московского Университета 2007», «Звезда Московского Университета» и праздничный концерт. В <Node id="915"/>этом году<Node id="924"/> лучшим студентом стал <Node id="947"/>Смирнов Евгений<Node id="962"/>, староста 3 курса ФНМ, абсолютный победитель первой олимпиады по нанотехнологиям, победитель в конкурсе на соискание стипендии Владимира Потанина, призёр конференции молодых учёных «Ломоносов-2007». Награду вручал сам ректор Московского университета Виктор Антонович Садовичий<Node id="1239"/>.<Node id="1240"/> Смирнов Евгений поблагодарил ректора помощь, оказанную факультету: 
+ 
+Дорогие друзья! 
+ 
+ Я хочу поблагодарить всех преподавателей и сотрудников старейшего и, на мой взгляд, лучшего университета нашей огромной страны за то, что они готовят действительно первоклассных, междисциплинарных специалистов, за то, что дают возможность понять, осознать весь сложный и многообразный мир (к примеру, для меня это мир нанотехнологий). 
+ 
+Виктор Антонович, Вы в самое нелёгкое для России время стали ректором Московского Университета и сумели сохранить тот университетский дух, который объединяет всех нас, начиная от ректора и деканов и заканчивая студентами факультетов. Благодаря вашим усилиям и стараниям, были открыты: Фундаментальная библиотека, Медицинский центр и Учебный корпус, сейчас возводятся новые учебные корпуса, общежития, стадион. Виктор Антонович, вы постоянно поддерживаете наш факультет, помогаете нам в обновлении парка научного оборудования, поддержали проведение первой интернет-олимпиады по нанотехнологиям. МГУ сейчас не стоит на месте, он активно развивается и идёт в ногу со временем. И за это вам отдельное спасибо. 
+ Поздравляю всех присутствующих от всего сердца с праздником - <Node id="2439"/>Днём<Node id="2443"/> Российского Студенчества. 
+ 
+Представитель компании СтарТревел Самарянов Б.А. вручил лучшему студенту МГУ сертификат на авиабилет в любую точку планеты и приглашение на 2 лица на любой концерт. 
+ 
+Премию «Звезда Московского Университета» ректор вручил основателю факультета почвоведения Глебу Всеволодовичу Добровольскому. 
+ 
+После концерта все студенты «оттянулись» (как сказал ректор во время Торжественного заседания в Актовом зале ГЗ) на дискотеке в холле ГЗ МГУ и вечеринке, проходившей в клубе «Дуровъ», куда были приглашены и дорогие гости из других университетов страны.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="100" EndNode="104">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="915" EndNode="924">
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="375" EndNode="376">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="204" EndNode="227">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="работает" StartNode="375" EndNode="376">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="сотрудники" StartNode="1239" EndNode="1240">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="695" EndNode="709">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="работает" StartNode="1239" EndNode="1240">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="436" EndNode="439">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="359" EndNode="375">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ректор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="2439" EndNode="2443">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Тональность" StartNode="947" EndNode="962">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

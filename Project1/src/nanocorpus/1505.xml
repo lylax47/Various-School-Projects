@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>5 июня<Node id="8"/> завершилась работа ежегодного Московского метрологического форума "Метрология-2008", организованного Федеральным агентством по техническому регулированию и метрологии, Российским центром испытаний и сертификации Ростест-Москва при поддержке Департамента оборонной промышленности и высоких технологий Правительства РФ, Министерства промышленности и энергетики РФ и Федерального агентства по науке и инновациям РФ. 
+ 
+В завершающий <Node id="439"/>день<Node id="443"/> выставки "Метрология-2008", состоялось награждение ГК «Роснанотех» золотой медалью «За единство измерений». Корпорация была награждена медалью за комплексный подход к решению вопросов метрологии, стандартизации и сертификации в наноиндустрии. ГК «Роснанотех» были также присуждены диплом «За активное содействие в организации и проведении выставки-конкурса "Метрология-2008"» и почетная грамота «За вклад в создание системы метрологического обеспечения нанотехнологий и активное участие в выставке "Метрология-2008".
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="2" EndNode="8">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="439" EndNode="443">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

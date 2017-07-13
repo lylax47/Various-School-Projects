@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Несмотря на то, что электрические и механические свойства <Node id="59"/>углеродных <Node id="70"/>нанотрубок<Node id="80"/> сулят невиданные доселе перспективы истосковавшейся по техническим революциям отрасли интегральной электроники, их интеграция в масштабируемые интегральные схемы пока что идет очень медленно. Впрочем, последнее достижение исследователей из университетов штата Иллинойс, Lehigh и Purdue может несколько ускорить этот процесс – ученые сообщают о создании плотных массивов линейных <Node id="460"/>нанотрубок<Node id="470"/> в виде тонкой полупроводящей плёнки. Эта плёнка может быть нанесена на традиционный или не очень материал – например, на пластик, из чего можно получить, например, готовый гибкий дисплей. Для создания массивов <Node id="681"/>нанотрубок<Node id="691"/> исследователи использовали подложку из монокристаллического кварца, на которую наносились полоски железных <Node id="799"/>наночастиц<Node id="809"/>. Железо играет роль катализатора при выращивании <Node id="859"/>углеродных <Node id="870"/>нанотрубок<Node id="880"/> методом CVD. Как только <Node id="905"/>нанотрубки<Node id="915"/> «перерастают» полоски железа, они присоединяются к кристаллу кварца, направляющему их дальнейший рост. Получающиеся в результате массивы содержат сотни тысяч линейных <Node id="1083"/>нанотрубок<Node id="1093"/> диаметром около 1 нм и длиной до 300 мкм. Расстояние между <Node id="1153"/>нанотрубками<Node id="1165"/> составляет 100 нм. Массивы ведут себя как тонкая пленка полупроводника, в которой заряд переносится вдоль каждой индивидуальной <Node id="1294"/>нанотрубки<Node id="1304"/>. В этой конфигурации, <Node id="1327"/>нанотрубки<Node id="1337"/> могут интегрироваться в интегральные микросхемы достаточно простым образом – в результате дополнительного шага напыления. Используя массивы <Node id="1478"/>нанотрубок<Node id="1488"/>, исследователи создали и протестировали свойства полевых транзисторов и даже создали на их основе логические элементы. Однако, как подчеркивает Джон Роджерс (John A. Rogers), один из соавторов работы, массивы <Node id="1698"/>нанотрубок<Node id="1708"/> не должны будут совсем заменить кремний. Их можно будет использовать в некоторых частях полупроводникового чипа, где требуется высокое быстродействие или большой ток. 
+ 
+ 
+Автор: Archont </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="799" EndNode="809">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="870" EndNode="880">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="859" EndNode="880">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="905" EndNode="915">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="1327" EndNode="1337">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="1083" EndNode="1093">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="460" EndNode="470">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="59" EndNode="80">
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="70" EndNode="80">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="1153" EndNode="1165">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1294" EndNode="1304">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1478" EndNode="1488">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="681" EndNode="691">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1698" EndNode="1708">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> В рамках договора о сотрудничестве, заключенного между французской компанией Saint-Gobain и Факультетом Наук о Материалах, поданы заявки на лучшую студенческую литературно-аналитическую работу. Работы в объеме 6-10 страниц представлены на английском языке, совместное жюри приступило к работе. По условиям соглашения Saint-Gobain и ФНМ студент, занявший первое в конкурсе, получит приглашение от Saint-Gobain совершить поездку во Францию во время зимних каникул. Цель поездки – знакомство с лабораториями фирмы, располагающимися в пределах Большого Парижа. Длительность поездки – <Node id="581"/>1 неделя<Node id="589"/>; поездка и пребывание во Франции полностью оплачиваются фирмой Saint-Gobain. Студенты, занявшие второе и третье места на конкурсе, получают право и финансовую поддержку для совершения в зимние каникулы поездки недельной длительности на предприятия, принадлежащие Saint-Gobain, в России.
+ 
+Темы конкурса <Node id="893"/>2007г.<Node id="899"/> (в какой-то степени они демонстрируют и направления исследований, которым можно следовать): 
+ 1. Self-repairing materials 
+So-called self-repairing materials would benefit from self-stimulated repairing mechanisms, due to some peculiarity of their structure or of their composition. They would be able to support mechanical stresses and aggressive environment longer than ordinary materials. It is proposed to identify mechanisms that could bring self-repairing functionality to materials such are glasses, ceramics, polymers or composites, more generally building materials. 
+ 2. Photocatalytic and hydrophobic surfaces 
+The glass industry already produces flat glasses having undergone a surface treatment (covered by TiO2, for example) that allows obtaining degradation properties of the dirtiness of the glass surface thanks to the action of the ultraviolet radiation. But these layers are usually hydrophilic. It is of interest to seek for some new materials and/or treatments producing same self-cleaning properties but with a hydrophobic property of the layers or films. Are there materials or combination of materials which, deposited as coatings, would achieve these two requirements? 
+ 3. Nanostructured thermoelectric materials 
+Thermoelectric materials are used to produce electricity from a temperature gradient or, inversely, to produce temperature gradient from an applied voltage. It is believed that nanostructured thermoelectric materials will possess of much higher levels of performance. What are the mechanisms justifying this statement? And how this principle could be applied to both new and already well-known thermoelectric materials? Consider two cases: bulk materials and thin film materials (possibly, multilayers?). 
+ 4. Cleaning materials surfaces with supercritical fluids 
+For the industry, it is important to elaborate very performing processes for the cleaning of the surfaces of non-metallic materials (glasses, ceramics, semiconductors), with low toxicity and friendly for the environment. Is the supercritical fluid technology well suited for that? 
+ О компании Компания Saint-Gobain – мировой лидер в области производства и разработки материалов на основе стекла и керамики. Компании принадлежат заводы и исследовательские лаборатории во многих странах, в том числе в России. Рамочное соглашение ФНМ с Saint-Gobain предусматривает:  - дополнительные учебные мероприятия (лекции, экскурсии, стажировки в лабораториях фирмы), призванные совершенствовать знания выпускников ФНМ о современных материалах на основе стекла и керамики, и способствующие их научному творчеству в этих областях; - учреждение 2-х вакансий postdoc’ов для работы в лабораториях ФНМ по темам, представляющим взаимный интерес компании Saint-Gobain и ФНМ;  - организацию конкурса студенческих работ на присуждение премии Saint-Gobain. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="893" EndNode="899">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="581" EndNode="589">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

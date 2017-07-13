@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Логистическая компания будет создана в Томской ОЭЗЛогистическая компания будет создана в Томской особой экономической зоне (ОЭЗ), сообщил руководитель Территориального управления <Node id="179"/>РосОЭЗ<Node id="185"/> <Node id="186"/>по Томской области Владимир Прец на пресс-конференции в четверг в пресс-центре агентства «Интерфакс-Сибирь» в Томске.
+Владимир Прец 
+«Территориальному агентству по управлению ОЭЗ по Томской области удалось урегулировать все вопросы, связанные с таможенным оформлением и хранением приходящих для компаний-резидентов грузов. Диалог с таможней подтолкнул нас к практической реализации идеи создания специализированной логистической компании, которая в качестве резидента ОЭЗ возьмет на себя функции таможенного брокера по отправке или получению любых видов грузов по всему миру», – заявил <Node id="772"/>В.Прец<Node id="778"/>.
+  Томская ОЭЗ технико-внедренческого типа создана в Томске в <Node id="841"/>декабре 2005 года<Node id="858"/> <Node id="859"/>(http://www.nanonewsnet.ru/…eskii-proekt).<Node id="901"/> Зона специализируется в трех направлениях: IT и электроника, медицина и биотехнологии, новые материалы и нанотехнологии. В ОЭЗ на сегодня работают 14 компаний в области цифровых технологий, полупроводниковых материалов, <Node id="1122"/>наноматериалов<Node id="1136"/> и медицины. <Node id="1149"/>http://www.rosoez.ru/…edia/164493/Ну<Node id="1185"/> что ж, как говорится, сама жизнь научит тому, как надо жить… Во всём нужна специализация. Ребята из новой логистической компании зато освободят тех, кто занят исследованиями и разработками, внедрением своих нововведений, от несвойственных им функций и забот. И у них самих тогда дела пойдут повеселее… Вот только кажется мне, что Томская ОЭЗ как-то уж больно медленно развивается… За почти <Node id="1576"/>3 года<Node id="1582"/> – только 14 компаний-резидентов?.. Впрочем, там, на месте, людям виднее, что и как нужно делать. Желаем им новых успехов и достижений! Ждём сообщений о новых победах…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="772" EndNode="778">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="841" EndNode="858">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="185" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="859" EndNode="901">
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="179" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">руководитель</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="1149" EndNode="1185">
+</Annotation>
+<Annotation Id="9" Type="Наноматериал" StartNode="1122" EndNode="1136">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="1576" EndNode="1582">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="185" EndNode="186">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Роснано» просит мошенников не беспокоитьсяГоскорпорация «Роснано» до конца <Node id="76"/>марта 2009 года<Node id="91"/> планирует утвердить 20 инвестиционных проектов, сообщил сегодня на Международном форуме по нанотехнологиям генеральный директор корпорации Анатолий Чубайс. По <Node id="251"/>его<Node id="254"/> словам, инвестиции со стороны «Роснано» составят <Node id="304"/>около 20 млрд рублей<Node id="324"/>, столько же или больше вложат частные инвесторы
+Созданная в госкорпорации «Роснано» система отбора проектов не позволит мошенникам «<Node id="457"/>припасть к государственным средствам со своими авантюристическими идеями», заявил на форуме вице-премьер Сергей Иванов<Node id="575"/>. По <Node id="580"/>его<Node id="583"/> словам, в госкорпорации созданы два эффективных этапа по оценке инвестиционных проектов, на которые могут быть выделены средства из бюджета.
+ Во-первых, это научно-технический совет и независимая экспертиза, в которую не входят сотрудники госкорпорации. Они определяют свойства предложенного проекта. <Node id="885"/>Затем<Node id="890"/> проект рассматривается специальной коммерческой экспертизой, которая определяет, способно ли данное нанодостижение быть востребованным на рынке.  
+«<Node id="1039"/>Эта система отбора элементарно будет выявлять мошенников», – заключил Сергей Иванов<Node id="1122"/>.
+  Кстати, согласно подписанному сегодня соглашению между «Роснано» и Российской академией наук (РАН), стороны будут сотрудничать в отборе и реализации проектов, направленных на внедрение нанотехнологий. Для экспертизы проектов «Роснано» будет использовать экспертный потенциал специалистов МГУ.
+  Начальник аналитического отдела компании «Риком Траст» <Node id="1476"/>Олег Абелев отмечает, что для старта, создания фундамента в сфере нанотехнологий <Node id="1557"/>20 млрд рублей<Node id="1571"/> в принципе достаточно, но надо понимать, что все проекты очень разные, как и необходимые суммы на их реализацию<Node id="1683"/>. Привлечение частных инвестиций возможно только под гарантии государства, госбанков, поэтому, собственно, и была создана госкорпорация. Система отбора в своем роде похожа на венчурные проекты, но в данном случае ошибки непростительны, и должен быть выбран только приоритетный окупаемый проект. При этом усиленный контроль может забюрократить процесс, и необходимо как-то соблюдать «золотую середину». <Node id="2085"/>http://www.finansmag.ru/news/4343Здесь<Node id="2123"/> важны только эти две фразы: «Госкорпорация «Роснано» до конца <Node id="2186"/>марта 2009 года<Node id="2201"/> планирует утвердить 20 инвестиционных проектов, сообщил сегодня на Международном форуме по нанотехнологиям генеральный директор корпорации Анатолий Чубайс. По <Node id="2361"/>его<Node id="2364"/> словам, инвестиции со стороны «Роснано» составят <Node id="2414"/>около 20 млрд рублей<Node id="2434"/>, столько же или больше вложат частные инвесторы». Остальное – лишь повторение уже много раз сказанного… Ну что ж. Поглядим-посмотрим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="76" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="251" EndNode="254">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="885" EndNode="890">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="457" EndNode="575">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2085" EndNode="2123">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="304" EndNode="324">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="457" EndNode="575">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="2186" EndNode="2201">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1557" EndNode="1571">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="2414" EndNode="2434">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="580" EndNode="583">
+</Annotation>
+<Annotation Id="14" Type="высказывания_заявления" StartNode="1039" EndNode="1122">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="2361" EndNode="2364">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1476" EndNode="1683">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="1039" EndNode="1122">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="1476" EndNode="1683">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

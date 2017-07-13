@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Учеными из Соединенного Королевства установлены неизвестные ранее факты о том, как клетки взаимодействуют между собой внутри человеческого тела.
+
+Профессор <Node id="157"/>Дэн Дэвис<Node id="166"/> (Dan Davis) и <Node id="181"/>его<Node id="184"/> коллеги из Имперского Колледжа Лондона, отделение наук о жизни (Imperial College London's Department of Life Sciences) детально рассмотрели взаимодействие двух Т-клеток, при котором образуются Y-образная мембранная <Node id="400"/>нанотрубка<Node id="410"/>, соединяющая их между собой.
+
+В ходе эксперимента, ученые установили, что клетки после контакта связываются тонкой мембранной <Node id="537"/>нанотрубкой<Node id="548"/>, которая может растягиваться до нескольких клеточных длин, соединяя Т-клетки между собой довольно долгое время. Как полагает Дэн, <Node id="679"/>нанотрубка<Node id="689"/> служит в качестве транспортной магистрали, по которой происходит обмен молекулами между клетками. Подобный мостик также создается при делении клетки между двумя молодыми Т-клетками.
+
+Как говорит Дэн, исследование этого взаимодействия между двумя клетками может существенно помочь понять работу вируса иммунодефицита человека.
+
+Для этого ученые искусственно «заразили» одну из Т-клеток вирусом, и отметили ее флуоресцентной меткой. После взаимодействия «инфицированной» клетки с обычной Т-клеткой ученые могли наблюдать, как вирусный белок перемещался по мостику, который сформировала мембранная <Node id="1285"/>нанотрубка<Node id="1295"/>.
+
+Ученые выразили предположение, что именно поэтому лекарства, основанные на использовании внеклеточных антибиотиков не могут вылечить от этого страшного заболевания. Он просто не может достать адресата, перемещающегося от клетки к клетке через <Node id="1541"/>нанотрубки<Node id="1551"/>.
+
+Подобные мостики ученые уже находили между некоторыми клетками иммунной системы и клетками головного мозга, однако среди Т-клеток их ранее не встречали.
+
+Результаты исследования ученых опубликованы в журнале Nature Cell Biology.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="537" EndNode="548">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="400" EndNode="410">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="679" EndNode="689">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="181" EndNode="184">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="157" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дэвис</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1285" EndNode="1295">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="1541" EndNode="1551">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

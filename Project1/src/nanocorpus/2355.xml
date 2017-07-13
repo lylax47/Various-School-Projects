@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Международный форум по нанотехнологиям пройдет <Node id="47"/>3–5 декабря<Node id="58"/> в МосквеМОСКВА, <Node id="75"/>13 окт<Node id="81"/> – Первый Международный форум по нанотехнологиям пройдет <Node id="138"/>3–5 декабря<Node id="149"/> в Москве, сообщил в понедельник вице-премьер Сергей ИвановПо <Node id="211"/>его<Node id="214"/> словам, на <Node id="226"/>этой неделе<Node id="237"/> пройдет первое заседание оргкомитета форума. Как сообщил вице-премьер на заседании президиума <Node id="332"/>правительства<Node id="345"/>, форум будет состоять из пленарных и секционных мероприятий, докладов, круглых столов и семинаров.
+ 
+«<Node id="448"/>Но его главная цель – практическое применение нанопродуктов и технологий в различных отраслях – промышленности, бизнесе, а также в реальной жизни», – сказал <Node id="605"/>Иванов<Node id="611"/>.
+ 
+Он отметил, что намерение участвовать в этом форуме уже подтвердили ведущие специалисты из Австрии, Великобритании, Финляндии, США, а также из таких азиатских стран, как Южная Корея, Япония и Китай.
+<Node id="814"/>По словам <Node id="824"/>Иванова<Node id="831"/>, после первого заседания оргкомитета начнется планомерная работа по подготовке форума<Node id="917"/>.
+ 
+«<Node id="922"/>Мы хотим сделать этот форум ежегодным в Москве<Node id="968"/>», – добавил <Node id="981"/>Иванов<Node id="987"/>.
+ <Node id="990"/>http://www.rian.ru/…3063929.htmlПо<Node id="1024"/> словам <Node id="1032"/>Иванова<Node id="1039"/>, после первого заседания оргкомитета начнется планомерная работа по подготовке форума. Дык, уже давно пора: остаётся всего каких-то <Node id="1172"/>1,5 месяца<Node id="1182"/>, а работы там наверняка непочатый край… Опять в <Node id="1231"/>последние дни<Node id="1244"/> все будут стоять на ушах и обязательно чего-то забудут… Мы уже неоднократно сообщали об этом форуме… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="814" EndNode="917">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="226" EndNode="237">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="605" EndNode="611">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="922" EndNode="987">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="981" EndNode="987">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="цитаты" StartNode="922" EndNode="968">
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="448" EndNode="611">
+</Annotation>
+<Annotation Id="7" Type="темы" StartNode="922" EndNode="968">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="990" EndNode="1024">
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="814" EndNode="917">
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="922" EndNode="987">
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="332" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительства</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1032" EndNode="1039">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="138" EndNode="149">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="75" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">окт</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="автор" StartNode="448" EndNode="611">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="824" EndNode="831">
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Иванов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="упоминается" StartNode="448" EndNode="987">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1231" EndNode="1244">
+</Annotation>
+<Annotation Id="21" Type="Персона" StartNode="211" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Период_времени" StartNode="1172" EndNode="1182">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="47" EndNode="58">
+</Annotation>
+<Annotation Id="24" Type="упоминает" StartNode="448" EndNode="987">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

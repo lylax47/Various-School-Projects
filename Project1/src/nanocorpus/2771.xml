@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Минфин<Node id="6"/> рекомендовал фонду ЖКХ и Роснанотеху <Node id="44"/>вкладывать<Node id="54"/> деньги в рублевые активыМинфин РФ рекомендовал госкорпорации «Фонд содействия реформированию ЖКХ» и «Российской корпорации нанотехнологий» (Роснанотех) в <Node id="209"/>третьем квартале<Node id="225"/> размещать временно свободные средства в рублевые активы. Об этом Интерфаксу сообщил источник в министерстве. Аналогичная рекомендация действовала и во <Node id="377"/>втором квартале<Node id="392"/>. Детализации активов рекомендация пока не предусматривает.
+
+Средства фонда ЖКХ можно инвестировать в госбумаги РФ, госбумаги субъектов РФ, облигации других российских эмитентов, ипотечные ценные бумаги, ценные бумаги государств, являющихся членами Организации экономического сотрудничества и развития (ОЭСР), а также в депозиты ЦБ РФ.
+
+С <Node id="731"/>15 июля<Node id="738"/> вступают в силу поправки, позволяющие инвестировать средства фонда ЖКХ в депозитные сертификаты и депозиты коммерческих банков. Однако требования к банкам, в которых можно размещать средства, <Node id="931"/>Минфином<Node id="939"/> пока не установлены. Как сообщил источник, документ еще не готов. Фонд планировал провести первые депозитные аукционы во второй половине <Node id="1077"/>июля<Node id="1081"/>.
+
+В <Node id="1086"/>настоящее время<Node id="1101"/> свободные средства фонда размещены на депозитном вкладе в ЦБ РФ. Из <Node id="1170"/>240 млрд руб.<Node id="1183"/>, выделенных госкорпорации, <Node id="1211"/>более 20 млрд руб.<Node id="1229"/> на конец <Node id="1239"/>июня<Node id="1243"/> было направлено в адрес регионов на восстановление жилфонда.
+ В конце <Node id="1314"/>июня<Node id="1318"/> Роснанотех отобрал 8 банков для размещения на депозитах <Node id="1375"/>130 млрд рублей<Node id="1390"/>, выделенных госкорпорации, сроком на <Node id="1428"/>полтора года<Node id="1440"/> при средневзвешенной ставке <Node id="1469"/>10,2 проц<Node id="1478"/>. годовых. При этом досрочно может быть истребовано порядка <Node id="1538"/>37 млрд руб.<Node id="1550"/> <Node id="1551"/>http://www.finmarket.ru/z/nws/news.asp?…Ну<Node id="1593"/> что ж… Рекомендовали и хорошо. Тем более что это было лишь продление предыдущих рекомендаций <Node id="1687"/>Минфина<Node id="1694"/> на предстоящий, <Node id="1711"/>третий квартал<Node id="1725"/>. <Node id="1727"/>(http://www.nanonewsnet.ru/…otekha%C<Node id="1763"/>2%<Node id="1765"/>BB).<Node id="1769"/> Успехов всем!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Инвестиции" StartNode="44" EndNode="54">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1211" EndNode="1229">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1469" EndNode="1478">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1086" EndNode="1101">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1077" EndNode="1081">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="377" EndNode="392">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="1375" EndNode="1390">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1763" EndNode="1765">
+</Annotation>
+<Annotation Id="9" Type="Властная_Структура" StartNode="931" EndNode="939">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минфин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1314" EndNode="1318">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="1538" EndNode="1550">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1711" EndNode="1725">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="1170" EndNode="1183">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1239" EndNode="1243">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="1428" EndNode="1440">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="1551" EndNode="1593">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Инвестиции" StartNode="44" EndNode="54">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="731" EndNode="738">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="1727" EndNode="1769">
+</Annotation>
+<Annotation Id="23" Type="Властная_Структура" StartNode="0" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минфин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Властная_Структура" StartNode="1687" EndNode="1694">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минфин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="209" EndNode="225">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

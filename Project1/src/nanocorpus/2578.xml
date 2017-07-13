@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как стало известно журналу «Умное производство», на проходящем в Москве Международном форуме по нанотехнологиям генеральный директор РОСНАНО Анатолий Чубайс, генеральный директор УОМЗ <Node id="185"/>Сергей Максин и президент ООО «Группа ОНЭКСИМ» Михаил Прохоров<Node id="247"/> <Node id="248"/>подписали<Node id="257"/> учредительные документы по созданию нового предприятия.
+
+Целью проекта является создание высокотехнологичного промышленного производства систем освещения нового поколения на основе полупроводниковых чипов нитрида галлия. Конечным продуктом станут светодиодные чипы, светодиодные лампы и осветительные системы, яркость которых сопоставима с лучшими мировыми аналогами.
+
+Промышленное производство гетероструктур будет располагаться в Санкт-Петербурге на территории особой экономической зоны технико-внедренческого типа, а комплекс по производству светодиодных чипов, ламп и светотехники разместится в Екатеринбурге, на базе светотехнического подразделения ФГУП «ПО "Уральский оптико-механический завод».
+
+Доля РОСНАНО в создаваемой компании составила <Node id="1007"/>17%<Node id="1010"/>, доля УОМЗ – <Node id="1024"/>33%<Node id="1027"/> минус 1 акция, Группы ОНЭКСИМ – <Node id="1060"/>50%<Node id="1063"/>+1 акция. Ожидается, что объем годовой выручки <Node id="1110"/>через пять лет<Node id="1124"/> после начала финансирования проекта составит <Node id="1170"/>250 млн. рублей<Node id="1185"/> и составит <Node id="1197"/>5 929 млн. рублей<Node id="1214"/>. Вновь созданная компания предполагает к <Node id="1256"/>2012 году<Node id="1265"/> занять долю, равную <Node id="1286"/>7%<Node id="1288"/> мирового рынка светодиодных чипов для общего освещения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="встречи_и_переговоры" StartNode="185" EndNode="257">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1007" EndNode="1010">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="сотрудники" StartNode="247" EndNode="248">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1286" EndNode="1288">
+</Annotation>
+<Annotation Id="6" Type="Деньги" StartNode="1197" EndNode="1214">
+</Annotation>
+<Annotation Id="7" Type="Год" StartNode="1256" EndNode="1265">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1170" EndNode="1185">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="1024" EndNode="1027">
+</Annotation>
+<Annotation Id="10" Type="работает" StartNode="247" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1256" EndNode="1265">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1110" EndNode="1124">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1060" EndNode="1063">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

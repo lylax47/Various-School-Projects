@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Углеродные <Node id="11"/>нанотрубки<Node id="21"/> улучшают фотоакустическое отображениеФотоакустическое отображение представляет собой способ, который позволяет более глубоко заглянуть внутрь организма, чем традиционные оптические методы. Исследователи из Стенфордского университета, США, обнаружили, что <Node id="277"/>нанотрубки<Node id="287"/>, содержащие циклические пептиды, являются прекрасными контрастными агентами для отображения опухолей.Ученые провели лабораторные опыты, вводя раствор с <Node id="440"/>нанотрубками<Node id="452"/> внутривенно мышам, имеющим опухоли и обнаружили, что фотоакустический сигнал усилился в восемь раз. Эта методика может использоваться, как неинвазионный метод диагностики рака, а также при наблюдении за ходом проведения различных видов нанотерапии.
+
+Привычная техника оптического отображения не годится для живой ткани из-за рассеивания света в биоматерии, что приводит к плохому разрешению. При фотоакустическом отображении замеряется ультразвук, производимый направленными на участок диагностики фотонами. Это достигается вследствие того, что исследуемая ткань нагревается под воздействием и расширяется. Это, в свою, очередь, вызывает колебания соседних тканей и может регистрироваться датчиком ультразвука.
+
+Хотя эффективность этой техники известна давно, ей требовались контрастные агенты, поскольку многие болезни не дают фотоакустического контраста сами.
+
+Разработаны многие агенты, но другой трудностью являлось введение их в пораженную область. Ученый <Node id="1414"/>Санжив<Node id="1420"/> Гамбир (Sanjiv Gambhir) и <Node id="1447"/>его<Node id="1450"/> коллеги продемонстрировали в ходе экспериментов, что одностеночные <Node id="1518"/>углеродные <Node id="1529"/>нанотрубки<Node id="1539"/>, сопряженные с циклическим аргинин-глицин-аспарагин пептидами представляют собой идеальные контрастные агенты, усиливающие испускаемый сигнал в восемь раз. Для разрастания опухоль использует кровеносные сосуды, в которых содержатся рецепторы, так называемые интегрины. К ним и цепляются <Node id="1827"/>нанотрубки<Node id="1837"/> с пептидами. Поскольку <Node id="1861"/>нанотрубки<Node id="1871"/> хорошо поглощают свет и выделяют нагрев, они и обеспечивают такой хороший результат наблюдения.
+
+Данная технология может также использоваться для лечения рака путем блокирования кровеносных сосудов. В дальнейшем ученые планируют провести опыты с другими <Node id="2126"/>наночастицами<Node id="2139"/>, которые могут быть более чувствительны, чем <Node id="2185"/>нанотрубки<Node id="2195"/> и применить методику при диагностике других заболеваний.
+<Node id="2253"/>http://nanodigest.ru/…/view/104/1/Carbon<Node id="2293"/> nanotubes as photoacoustic molecular imaging agents in living <Node id="2356"/>micehttp://www.nature.com/….231_S1.htmlNoninvasive<Node id="2406"/> indirect imaging of vascular endothelial growth factor gene expression using bioluminescence imaging in living transgenic <Node id="2529"/>micehttp://physiolgenomics.physiology.org/…24/2/173.pdf?…Это<Node id="2589"/> тоже хорошее исследование. В то время как многие другие группы исследователей изучают проблемы аккумуляции <Node id="2697"/>нанотрубок<Node id="2707"/> в различных органах, степень их токсичности, пытаются приспособить этот «инструмент» к уничтожению раковых клеток с помощью различных методов (СВЧ, лазерное облучение и т.п.), эта группа исследователей пытается улучшить визуализацию тканей. И это тоже здорово!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="2697" EndNode="2707">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="2185" EndNode="2195">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1827" EndNode="1837">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="440" EndNode="452">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="2529" EndNode="2589">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="2356" EndNode="2406">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="1414" EndNode="1420">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">ученый</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Санжив</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1861" EndNode="1871">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="11" EndNode="21">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="1447" EndNode="1450">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="0" EndNode="21">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="277" EndNode="287">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="1518" EndNode="1539">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наночастица" StartNode="2126" EndNode="2139">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2253" EndNode="2293">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="1529" EndNode="1539">
+</Annotation>
+<Annotation Id="22" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

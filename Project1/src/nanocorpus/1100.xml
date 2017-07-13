@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>И. П. СуздалевНанотехнология. <Node id="30"/>Физико<Node id="36"/>-химия <Node id="43"/>нанокластеров<Node id="56"/>, <Node id="58"/>наноструктур<Node id="70"/> и наноматериаловСерия: Синергетика: от прошлого к будущему
+Издательство: КомКнига, <Node id="154"/>2006 г.<Node id="161"/>
+Твердый переплет, 592 стр.
+ISBN 5–484–00243–5
+Цена: <Node id="214"/>578 руб<Node id="221"/>
+ * * От издателя Книга освещает круг вопросов, которые могут составить область науки о нанообъектах, процессах и явлениях, проходящих на уровне размеров 1–100 нм. В этой области наблюдаются эффекты, чувствительные как к отдельным атомно-молекулярным уровням энергии, так и к коллективным свойствам тел. 
+Развитие науки о <Node id="543"/>нанокластерах<Node id="556"/> и наносистемах и методов их исследования привело к созданию нанотехнологии, <Node id="633"/>наноматериалов<Node id="647"/> и наноустройств, отличающихся уникальными свойствами и перспективами применения.
+ Книга представляет собой попытку соединения теоретических и экспериментальных данных о <Node id="817"/>нанокластерах<Node id="830"/> и наносистемах с некоторыми вопросами более общего, вводного характера: методами исследования <Node id="925"/>нанокластеров<Node id="938"/> и поверхности твердого тела и микроскопическими и термодинамическими подходами к изучению <Node id="1029"/>нанокластеров<Node id="1042"/> и поверхности. 
+Такая структура книги нашла свое отражение благодаря работам автора в Институте химической физики им. Н.Н.Семенова РАН и чтению курса лекций по физико-химии <Node id="1216"/>нанокластеров<Node id="1229"/> и <Node id="1232"/>наноструктур<Node id="1244"/> в Московском государственном университете им. М.И.Ломоносова, на факультете наук о материалах.
+ Книга может быть полезной как для студентов и аспирантов, так и для научных работников, ведущих исследования или начинающих работать в области нанотехнологий. <Node id="1500"/>http://www.ozon.ru/…/id/2721313/Книга<Node id="1537"/> эта не совсем уже новая, однако хотя это (как уверяют ознакомившиеся с ней люди) и «Специфическая литература, но тем, кто увлекается нанотехнологиями или хочет больше узнать о наномире, она будет очень полезна и интересна». Формат djvu. Объём – 70.58 Kb. И скачать её можно отсюда: <Node id="1820"/>http://forum.tech-life.org/viewtopic.php?…<Node id="1862"/> Приятного чтения!</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокластер" StartNode="925" EndNode="938">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанокластер" StartNode="817" EndNode="830">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="1820" EndNode="1862">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="154" EndNode="161">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="214" EndNode="221">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1500" EndNode="1537">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="633" EndNode="647">
+</Annotation>
+<Annotation Id="8" Type="Нанокластер" StartNode="543" EndNode="556">
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанокластер" StartNode="43" EndNode="56">
+</Annotation>
+<Annotation Id="11" Type="Нанокластер" StartNode="1029" EndNode="1042">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="30" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Физико</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Нанокластер" StartNode="1216" EndNode="1229">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Наноструктура" StartNode="1232" EndNode="1244">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Наноструктура" StartNode="58" EndNode="70">
+</Annotation>
+<Annotation Id="20" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

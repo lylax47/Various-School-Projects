@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Чайник с наноштырями закипает в 30 раз быстрееГруппа исследователей из политехнического института Ренсселера (Rensselaer Politechnic Institute) под руководством профессора <Node id="172"/>Нихиля<Node id="178"/> Кораткара (Nikhil Koratkar) установила, что вода в металлическом сосуде с наноштырями на внутренней поверхности закипает значительно быстрее. Статья принята к публикации в журнале Small.
+
+Для исследования ученые использовали медный сосуд, с нанесенным на внутреннюю поверхность слоем медных наноштырей. В сосуд заливалась вода и доводилась до кипения. При этом измерялась плотность нуклеации – количество пузырей, образующихся в единице объема за единицу времени. По сравнению с обычным медным сосудом плотность нуклеации заметно выросла. В частности, по словам ученых, воде в их сосуде требуется в 30 раз меньше тепла для того, чтобы закипеть.
+ Кипением называется интенсивное парообразование во всей толще жидкости. Его механизм заключается в следующем. На внутренней поверхности обычного чайника в микроскопических неровностях присутствуют пузырьки воздуха. Когда вода достигает температуры кипения, эти пузырьки начинают наполняться паром. Давление внутри пузырька растет, сам пузырек увеличивается и покидает поверхность металла. Неровность, где находился пузырек, заполняется водой. Больше в этом месте пузыри не образуются. Если поверхность покрыта наноштырями, все происходит по-другому. Между штырями присутствует воздух. Эти воздушные карманы слишком малы для того, чтобы хранить «достаточные» для кипения пузыри. Однако они снабжают воздухом те самые микроскопические неровности металла. Из-за этого, после того как пузырь сформировался и всплыл, неровность не заполняется водой. В ней снова образуется микроскопический пузырек воздух, и процесс повторяется снова. В результате плотность нуклеации увеличивается.
+Сами создатели видят несколько областей применения своего открытия. Наиболее очевидным является создание более совершенных котлов и кипятильников. В качестве другого варианта использования своего изобретения они видят охлаждение компьютерных чипов. Дело в том, что кипение служит конвекции: возникающие потоки перемешивают более горячую воду нижних слоев с более холодной водой верхних.
+ Исследователи считают, что на основе этого можно разработать эффективные системы охлаждения компьютерных чипов. Кроме того, контакты современных чипов делаются из меди, и ученые считают, что внедрение технологии покрытия этих контактов слоем наноштырей не должно представлять серьезных проблем. Именно в этом направлении они планируют продолжать свои исследования. <Node id="2556"/>http://lenta.ru/…/06/27/nano/Professor<Node id="2594"/> Nikhil Koratkar received his Ph.D. in Aerospace Engineering from the University of Maryland at College Park in November 2000. He joined the faculty of the Mechanical, Aerospace and Nuclear Engineering Department in the spring semester of 2001. Professor Koratkar's research interests are focused on the synthesis of carbon nanostructures, and their integration into multi-scale structural systems. Other research areas include development of Cellular Automata based models for performing nano-scale computations and design of micro-flight-vehicles for battlefield surveillance, urban intelligence gathering and counter terrorism.
+<Node id="3225"/>http://www.rpi.edu/~koratn/On<Node id="3254"/> the Boil: New Nano Technique Significantly Boosts Boiling <Node id="3313"/>Efficiencyhttp://news.rpi.edu/update.do?…(1)<Node id="3357"/>
+Ну вот что значит «настоящий учёный»! Занимаясь вполне серьёзными исследованиями (см. выше), настоящий исследователь заметит и другое явление, которое «простой человек» никогда не заметит, пусть бы оно повторялось прямо на его глазах тысячи раз. И не только заметит, но и объяснит на основе имеющихся у него специальных знаний… В этом-то как раз и состоит его отличие от простого смертного. И теперь мы (то есть всё человечество) имеем одно очень ценное открытие, которое – если оно подтвердится – позволит нам сэкономить огромные объёмы/количества энергоресурсов и времени… </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="3225" EndNode="3254">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="172" EndNode="178">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Нихиль</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="3313" EndNode="3357">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="2556" EndNode="2594">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

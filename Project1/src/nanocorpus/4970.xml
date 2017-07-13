@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В РАН предлагают разработать программу по нанотоксикологии, вредные <Node id="68"/>наночастицы<Node id="79"/> уже обнаружены в косметикеМОСКВА, <Node id="114"/>29 мая<Node id="120"/> – Новое научное направление – нанотоксикология – должно появиться как можно скорее. В этом убежден член президиума РАН академик Александр Коновалов, выступивший сегодня на Общем собрании академии.
+Специалист в области органической химии считает, что в самое ближайшее время, когда <Node id="402"/>наноматериалы<Node id="415"/> и нанотехнологии широко войдут в повседневную жизнь, следует внимательнее отнестись ко всем возможным эффектах их воздействия на природу и человека.
+ «Требуется оценка <Node id="584"/>наноматериалов<Node id="598"/>», – убежден Коновалов. <Node id="622"/>Он<Node id="624"/> подчеркнул, что <Node id="641"/>наноматериалы<Node id="654"/> могут приносить не только существенную пользу, но и быть крайне вредными<Node id="727"/>. В качестве примера он привел кремы с оксидом цинка, продажа и использование которых запрещены во многих странах.
+  «Следует проявлять крайнюю осторожность», – предупредил академик.
+ 
+По его словам, <Node id="927"/>наночастицы<Node id="938"/> содержатся во многих широко известных и распространенных продуктах. Так, ученый предоставил результаты исследований, которые подтверждают, что <Node id="1082"/>наночастицы<Node id="1093"/> содержатся в одном из видов отечественных водки и коньяка.
+ «<Node id="1155"/>Каждый напиток требует нанопаспорта», – полагает Коновалов<Node id="1213"/>.
+ Пока же он предлагает повышенное внимание уделить исследованиям проблемы и разработать в академии наук специальную программу по нанотоксикологии.
+<Node id="1362"/>http://www.ami-tass.ru/…e/36536.htmlКоновалов<Node id="1407"/> Александр <Node id="1418"/>Ивановичhttp://www.chem.msu.su<Node id="1448"/>/…onovvai.htmlКак, однако, он правильно выбрал объекты для «нападения»! Если вредоносные <Node id="1537"/>наночастицы<Node id="1548"/> будут найдены в креме, то вряд ли многие женщины откажутся от его использования. Но вот когда речь заходит о напитках! По <Node id="1671"/>его<Node id="1674"/> словам, <Node id="1683"/>наночастицы<Node id="1694"/> содержатся во многих широко известных и распространенных продуктах. Так, ученый представил результаты исследований, которые подтверждают, что <Node id="1837"/>наночастицы<Node id="1848"/> содержатся в одном из видов отечественных водки и коньяка… Мимо мужичков такая информация не пройдёт мимо!.. Ведь водка – это святое!.. ;-)))</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="114" EndNode="120">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="622" EndNode="727">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1683" EndNode="1694">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="927" EndNode="938">
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="622" EndNode="624">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Наноматериал" StartNode="641" EndNode="654">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="1671" EndNode="1674">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="1082" EndNode="1093">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="1362" EndNode="1407">
+</Annotation>
+<Annotation Id="12" Type="Наночастица" StartNode="1537" EndNode="1548">
+</Annotation>
+<Annotation Id="13" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1155" EndNode="1213">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="402" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Наночастица" StartNode="68" EndNode="79">
+</Annotation>
+<Annotation Id="18" Type="высказывания_заявления" StartNode="622" EndNode="727">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="1418" EndNode="1448">
+</Annotation>
+<Annotation Id="23" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="высказывания_заявления" StartNode="1155" EndNode="1213">
+</Annotation>
+<Annotation Id="25" Type="Наноматериал" StartNode="584" EndNode="598">
+</Annotation>
+<Annotation Id="24" Type="Наночастица" StartNode="1837" EndNode="1848">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

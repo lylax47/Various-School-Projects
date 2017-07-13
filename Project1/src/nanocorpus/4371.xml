@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ГК «Роснанотех» и ВЦИОМ подвели итоги опроса общественного мнения о нанотехнологияхВсероссийский Центр Исследования Общественного Мнения (ВЦИОМ) подвел результаты опроса общественного мнения, проведенного по заказу государственной корпорации «Российская корпорация нанотехнологий». Целью опроса являлось определение уровня осведомленности россиян о нанотехнологиях и о создании ГК «Роснанотех».
+В опросе, прошедшем в <Node id="417"/>апреле<Node id="423"/>, приняли участие 1600 граждан Российской Федерации в возрасте <Node id="486"/>18 лет<Node id="492"/> и старше, постоянно проживающих на территории России. В опросе приняли участие жители 153 населенных пунктов из 46 регионов РФ.
+Доля респондентов, слышавших о понятии «нанотехнологии», составила <Node id="688"/>43%<Node id="691"/> из всех опрошенных.
+Среди основных областей применения нанотехнологий респонденты называют: электронику – <Node id="798"/>43%<Node id="801"/>, медицину – <Node id="814"/>39%<Node id="817"/> и космическую промышленность – <Node id="849"/>31%<Node id="852"/>. Наиболее популярным источником информации о нанотехнологиях называются телевизионные программы – именно на них указали <Node id="973"/>81%<Node id="976"/> участников опроса. <Node id="996"/>26%<Node id="999"/> респондентов ВЦИОМ назвали в качестве источника информации о нанотехнологиях периодические издания, <Node id="1100"/>10%<Node id="1103"/> – радиопрограммы и <Node id="1123"/>10%<Node id="1126"/> – Интернет. Большая часть опрошенных, <Node id="1165"/>74%<Node id="1168"/>, считают, что нанотехнологии в России так или иначе развиваются, а более трети, <Node id="1249"/>41%<Node id="1252"/>, интересуются их развитием. Подавляющее большинство участников опроса, <Node id="1324"/>81%<Node id="1327"/>, считают, что нанотехнологии принесут людям пользу. Половина опрошенных, <Node id="1401"/>52%<Node id="1404"/>, купили бы продукцию, в которой используются нанотехнологии.
+Доля респондентов, слышавших о создании ГК «Роснанотех», составляет <Node id="1534"/>24%<Node id="1537"/>. Из них большинство, <Node id="1559"/>85%<Node id="1562"/>, относится к решению Правительства РФ о создании госкорпорации положительно.
+<Node id="1640"/>http://www.rusnano.com/…8_05_28.html<Node id="1676"/>
+С подробными результатами исследования можно ознакомиться тут:
+<Node id="1740"/>http://www.rusnano.com/…08_05_28.pptВЦИОМ:<Node id="1782"/> Всероссийский Центр Изучения Общественного <Node id="1826"/>Мненияhttp://wciom.ru/Ну<Node id="1850"/> что ж, опросы населения – дело полезное. И поскольку это общественное мнение в нашей стране формируется в основном с помощью телевидения, а этот канал фомирования <Node id="2014"/>ОМ<Node id="2016"/> преподносит практически только положительный образ НТ, подкреплённый авторитетом популярного политика (= президента страны), то нет ничего удивительного в том, что и мнение общества о нанотехнологиях будет в основном положительным. Что наглядно и иллюстрируют итоги опроса общественного мнения о нанотехнологиях. Вот если/когда возникнут какие-то проблемы (ну, к примеру, будут выявлены какие-то вредные последствия широкого применения НТ), и об этом широковещательно объявят СМИ, тогда и картина итогов общественного мнения получится иная… А так, пока что, «Всё хорошо, прекрасная маркиза!»… ;-))) И слава богу…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="1165" EndNode="1168">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1249" EndNode="1252">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="688" EndNode="691">
+</Annotation>
+<Annotation Id="3" Type="Процент" StartNode="798" EndNode="801">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2014" EndNode="2016">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ом</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="996" EndNode="999">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1100" EndNode="1103">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="1559" EndNode="1562">
+</Annotation>
+<Annotation Id="8" Type="Процент" StartNode="1401" EndNode="1404">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="486" EndNode="492">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="486" EndNode="492">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="1534" EndNode="1537">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="1324" EndNode="1327">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="849" EndNode="852">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1640" EndNode="1676">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="417" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Url" StartNode="1826" EndNode="1850">
+</Annotation>
+<Annotation Id="21" Type="Url" StartNode="1740" EndNode="1782">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="1123" EndNode="1126">
+</Annotation>
+<Annotation Id="23" Type="Процент" StartNode="973" EndNode="976">
+</Annotation>
+<Annotation Id="22" Type="Процент" StartNode="814" EndNode="817">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

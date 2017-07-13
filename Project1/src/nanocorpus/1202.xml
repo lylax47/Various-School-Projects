@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Устойчивость двумерных (2D) слоев и мембран давно является предметом теоретических дискуссий. Согласно так называемой теореме <Node id="127"/>Мермина-Вагнера<Node id="142"/> [1], длинноволновые флуктуации разрушают дальний порядок в 2D кристаллах, а из теории упругости следует, что 2D мембраны в трехмерном пространстве при T &gt; 0 не могут оставаться плоскими [2]. Разработка методов отщепления отдельных слоев от некоторых слоистых веществ (BN, MoS2, графит) позволяет проверить предсказания теории.
+
+Так, например, экспериментально обнаружено, что один графитовый слой (<Node id="541"/>графен<Node id="547"/>) хоть и существует в свободном виде (без подложки), но является местами изогнутым [3]. Для выяснения причин такого изгиба теоретики из Radboud University, Nijmegen (Нидерланды) выполнили численные расчеты равновесной структуры <Node id="775"/>графена<Node id="782"/> методом <Node id="791"/>Монте-Карло<Node id="802"/> с эффективным многочастичным потенциалом межатомного взаимодействия [4]. Они моделировали <Node id="893"/>графен<Node id="899"/> квазидвумерными слоями из N ≤ 19940 атомов углерода (примерно квадратной формы) с периодическими граничными условиями. Было показано, что при T = 300К на <Node id="1054"/>графене<Node id="1061"/> спонтанно образуются «бугорки» (см. рис.) с характерными линейными размерами L ≈ 8 нм (в эксперименте L = 5 ÷ 10 нм [3]).
+
+Это соответствует ≈ 50 межатомным расстояниям. Высота «бугорков» менее 0.1 нм. В их окрестности длины связей изменяются от 0.13 нм (типичная длина двойной ковалентной связи C=C) до 0.154 нм (длина одинарной связи C-C в алмазе). Такая «рябь» ограничивает тепловое движение атомов в перпендикулярном направлении и в конечном итоге способствует целостности <Node id="1539"/>графена<Node id="1546"/> (при T = 300К в нем не образуются даже топологические дефекты типа колец <Node id="1620"/>Стоуна<Node id="1626"/>-Уэльса 5–7–7–5). Следует понимать, что неоднородность структуры <Node id="1691"/>графена<Node id="1698"/> влечет за собой появление дополнительных каналов рассеяния электронов и соответствующее уменьшение электрической проводимости. Это обязательно нужно учитывать при проектировании наноэлектронных устройств на основе <Node id="1913"/>графена<Node id="1920"/>.
+ 1. N.D.Mermin, H.Wagner, Phys. Rev. Lett. 17, 1133 (1966) 2. P.Doussal, L.Radzihovsky, Phys. Rev. Lett. 69, 1209 (1992) 3. J.C.Meyer et al., Nature 446, 60 (2007) 4. A.Fasolino et al., Nature Mater. 6, 858 (2007) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="1691" EndNode="1698">
+</Annotation>
+<Annotation Id="2" Type="Графен" StartNode="1913" EndNode="1920">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="775" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="791" EndNode="802">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Монте-Карло</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="1620" EndNode="1626">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Стоун</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="1539" EndNode="1546">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="127" EndNode="142">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мермин-Вагнер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="1054" EndNode="1061">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="893" EndNode="899">
+</Annotation>
+<Annotation Id="14" Type="Графен" StartNode="541" EndNode="547">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

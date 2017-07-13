@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>28 декабря<Node id="11"/> декан ФНМ академик Ю.Д. Третьяков выступил на <Node id="58"/>Ученом Совете<Node id="71"/> факультета психологии МГУ им М.В. Ломоносова с докладом “Развитие нанотехнологий – благо, блеф или грядущая катастрофа?” 
+Основной акцент доклада был сделан на то, как может повлиять развитие нанотехнологий на современное общество, и как ученые естественно-научных специальностей могут объединить усилия с гуманитариями для успешного решения возможных проблем. 
+ 
+В своем докладе академик Ю.Д. Третьяков рассказал также об общественно-просветительской деятельности факультета наук о материалах в области нанотехнологий – выпуске книги «Нанотехнологии. <Node id="624"/>Азбука<Node id="630"/> для всех», информационного бюллетеня Нанометр, создании сайта Нанометр, проведении олимпиады «Нанотехнологии – прорыв в будущее». 
+ 
+В качестве возможных направлений совместной деятельности были предложены совместный семинар по социальным аспектам нанотехнологий, совместные публикации на сайте Нанометр, включая социологические вопросы, разработка совместных образовательных программ и проектов для магистрантов, совместное участие в составлении задач II Интернет-олимпиады по нанотехнологиям.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="58" EndNode="71">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Ученом Совете</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="624" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Азбук</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

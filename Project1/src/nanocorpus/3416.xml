@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Интернет портал Роснано будет хоститься на IBS DataFortIBS DataFort, ведущий поставщик услуг функционального ИТ-аутсорсинга на российском рынке, обеспечит поддержку интернет-портала <Node id="182"/>www.rusnano.com<Node id="197"/> государственной корпорации «Российская корпорация нанотехнологий»
+В результате открытого конкурса IBS DataFort получил право оказать услуги по администрированию и размещению на своих мощностях программного комплекса интернет-портала.
+ Интернет портал <Node id="449"/>www.rusnano.com<Node id="464"/> – один из основных информационных ресурсов об отрасли нанотехнологии, здесь также приводится исчерпывающая информация о деятельности госкорпорации. Основной задачей проекта, инициированного руководством РОСНАНО, стало обеспечение высокой доступности и надежности работы информационного ресурса.
+<Node id="760"/>http://ibk.ru/…atafort.htmlНу<Node id="789"/> вот и славненько! Ведь компания IBS является лидером на рынке ИТ-услуг России: Согласно отчету «Russia IT Services 2008–2012 Forecast and 2007 Vendor Shares», опубликованному международной исследовательской и консалтинговой компанией IDC, IBS сохраняет лидерство на российском рынке ИТ-услуг по итогам <Node id="1092"/>2007 года<Node id="1101"/>, занимая первое место среди всех поставщиков ИТ-услуг. Согласно оценкам IDC по итогам <Node id="1188"/>2007 года<Node id="1197"/> доля IBS на рынке ИТ-услуг составляет <Node id="1236"/>6.9%<Node id="1240"/>, а доля в сегменте «консалтинг и настройка прикладных систем (бизнес-приложений)» – <Node id="1325"/>21%<Node id="1328"/>, где IBS также сохраняет лидирующие позиции… <Node id="1374"/>(http://ibk.ru/…-rossii.html).<Node id="1404"/> Будем надеяться, что этот союз послужит быстрому и устойчивому развитию отечественной наноиндустрии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1374" EndNode="1404">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="1325" EndNode="1328">
+</Annotation>
+<Annotation Id="2" Type="Процент" StartNode="1236" EndNode="1240">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1188" EndNode="1197">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1092" EndNode="1101">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="1188" EndNode="1197">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="182" EndNode="197">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="1092" EndNode="1101">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="760" EndNode="789">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="449" EndNode="464">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

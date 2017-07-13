@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Внутренности кренделя - хорошо упорядоченный коллоидный фотонный кристалл. 
+Закручивание однородных регулярных полосок происходит после инфильтрации алкоксида в коллоидный кристалл латекса и  компактизации алкоксида в подходящих условиях. 
+Регулярные полоски сделаны <Node id="268"/>литографией<Node id="279"/> (Мастером (и доктором) <Node id="303"/>Ван Векрисом<Node id="315"/>). 
+ 
+Изображение <Node id="333"/>сканирующей электронной микроскопии<Node id="368"/> раскрашено под цвет неба, 
+как результат осмысления автором творчества Александра Городницкого... 
+ 
+Изображение демонстрируется в электронной форме впервые. 
+    
+ 
+      
+ 
+  
+ 
+           
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сканирующая+электронная+микроскопия" StartNode="333" EndNode="368">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Литография" StartNode="268" EndNode="279">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="303" EndNode="315">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

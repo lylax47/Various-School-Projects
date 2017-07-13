@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Японские учёные считают, что исследования роста кристаллов гидроксида никеля к наноразмерных пространствах поможет создать более эффективные аккумуляторы.
+
+Гидроксид никеля может быть использован для создания электродов аккумуляторных батарей. Для повышения эффективности и срока службы электродов необходима возможность контролировать их структуру на наноуровне. Учёные из Университета Тохоку продемонстрировали эффективность <Node id="428"/>углеродных <Node id="439"/>нанотрубок<Node id="449"/> в качестве среды для гидротермического синтеза неорганических <Node id="512"/>наностержней<Node id="524"/> с хорошо контролируемой формой и размерами.
+
+Исследователи вырастили <Node id="594"/>наностержни<Node id="605"/> гидроксида никеля внутри <Node id="631"/>углеродных <Node id="642"/>нанотрубок<Node id="652"/>. Рост <Node id="659"/>наностержней<Node id="671"/> впервые удалось наблюдать в трансмиссионный электронный микроскоп.
+
+Во время наблюдений за ростом кристаллов внутри <Node id="788"/>нанотрубок<Node id="798"/> учёные обнаружили, что формируются обычные гексагональные кристаллы гидроксида никеля – до тех пор, пока размеры кристалла не достигают размеров <Node id="944"/>нанотрубки<Node id="954"/>. <Node id="956"/>После этого<Node id="967"/> им приходится расти вдоль окружающей их трубки, образуя <Node id="1024"/>наностержни<Node id="1035"/>.
+
+Такой метод контролируемого синтеза <Node id="1074"/>нанокристаллов<Node id="1088"/> в наноразмерных пространствах может стать эффективным и важным для промышленности способом крупномасштабного производства <Node id="1211"/>наноструктур<Node id="1223"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="642" EndNode="652">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="944" EndNode="954">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="439" EndNode="449">
+</Annotation>
+<Annotation Id="3" Type="Наностержень" StartNode="1024" EndNode="1035">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="1211" EndNode="1223">
+</Annotation>
+<Annotation Id="5" Type="Наностержень" StartNode="594" EndNode="605">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="788" EndNode="798">
+</Annotation>
+<Annotation Id="7" Type="Наностержень" StartNode="512" EndNode="524">
+</Annotation>
+<Annotation Id="8" Type="Наностержень" StartNode="659" EndNode="671">
+</Annotation>
+<Annotation Id="9" Type="Углеродная+нанотрубка" StartNode="428" EndNode="449">
+</Annotation>
+<Annotation Id="10" Type="Нанокристалл" StartNode="1074" EndNode="1088">
+</Annotation>
+<Annotation Id="11" Type="Углеродная+нанотрубка" StartNode="631" EndNode="652">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="956" EndNode="967">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

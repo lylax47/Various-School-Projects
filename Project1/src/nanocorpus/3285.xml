@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает Nanotechweb, ученым удалось синтезировать конгломераты из углеродных нано-рожков (сarbon nanohorns – CNHs).
+
+Об открытии сообщил китайский ученый Фенгбоа Жан (Fengboa Zhang) из университета Тяньжин и <Node id="214"/>его<Node id="217"/> коллеги из университета Нанкай (Tianjin и Nankai) Китая.
+
+Конгломерат из углеродных нано-рожков хорошо растворим в воде и при их производстве легче избежать агломерации <Node id="387"/>наноматериалов<Node id="401"/>, чем при производстве аналогичных <Node id="436"/>углеродных <Node id="447"/>наноструктур<Node id="459"/> – <Node id="462"/>нанотрубок<Node id="472"/>.
+
+Отдельный нано-рожок представляет собой конусообразную <Node id="530"/>нанотрубку<Node id="540"/>, закрытую с узкой стороны. Силы Ван-Дер-Ваальса заставляют нано-рожки собираться вместе в сферические структуры диаметром до 100 нанометров, похожие на цветы.
+
+<Node id="701"/>Как говорит Жан, нано-рожки имеют преимущества перед <Node id="754"/>наночастицами<Node id="767"/> и <Node id="770"/>нанотрубками<Node id="782"/> при внутриклеточной доставке медикаментов, распространенной в <Node id="845"/>настоящее время<Node id="860"/> в исследовательских работах по фармацевтическим средствам будущего<Node id="927"/>.
+
+Их конусообразная полость может хранить как цепочки ДНК для генной терапии, так и обычные медикаменты.
+
+Для отделения нано-рожков от «цветочной» формации ученым потребовалось всего-навсего обработать их водный раствор ультразвуком <Node id="1161"/>в течение 20 минут<Node id="1179"/>.
+
+Теперь Жан и <Node id="1195"/>его<Node id="1198"/> коллеги исследуют нано-рожки на биологическую совместимость с тканями человека и животных.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="214" EndNode="217">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1161" EndNode="1179">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1195" EndNode="1198">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="701" EndNode="927">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="387" EndNode="401">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="845" EndNode="860">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="447" EndNode="459">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Углеродная+наноструктура" StartNode="436" EndNode="459">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="701" EndNode="927">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="530" EndNode="540">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="770" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="754" EndNode="767">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="462" EndNode="472">
+</Annotation>
+<Annotation Id="20" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

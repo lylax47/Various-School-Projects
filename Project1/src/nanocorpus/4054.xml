@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследователи из <Node id="18"/>Университета Райс<Node id="35"/> (Rice University), где в <Node id="61"/>1985 году<Node id="70"/> была впервые получена молекула <Node id="102"/>фуллерена<Node id="111"/> C__60__, предсказали существование и стабильность новой сферической формы бора. Структура, предсказанная Борисом Якобсоном (Boris Yakobson) и его сотрудниками, аналогична бакиболу C__60__, но в центре каждого из двадцати шестиугольников находится по дополнительному атому бора. Таким образом, новая молекула имеет состав B__80__.
+
+Вскоре после обнаружения углеродных <Node id="479"/>фуллеренов<Node id="489"/> учёные во всём мире стали исследовать возможность существования аналогичных молекул других элементов. Первым кандидатом был кремний (из-за схожего положения в периодической таблице), но оказалось, что сферическая молекула Si__60__ нестабильна.
+
+В таблице <Node id="745"/>Менделеева<Node id="755"/> бор занимает соседнее с углеродом место и также образует сильные химические связи, что и натолкнуло группу Якобсона на идею исследовать возможность существования полых сферических молекул бора. Шестидесяти атомов оказалось недостаточно, но структура с дополнительным атомом бора в центре каждого шестиугольника оказалась-таки весьма устойчивой.
+
+Сами исследователи считают, что пока рано проводить сравнения между борным бакиболом и <Node id="1189"/>фуллереном<Node id="1199"/> C__60__, принёсшим своим первооткрывателям Нобелевскую премию. Тем не менее, Якобсон надеется, что это исследование откроет целое новое направление в физике и химии.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="61" EndNode="70">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="18" EndNode="35">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="61" EndNode="70">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Фуллерен" StartNode="479" EndNode="489">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="745" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Менделеев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="1189" EndNode="1199">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Фуллерен" StartNode="102" EndNode="111">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

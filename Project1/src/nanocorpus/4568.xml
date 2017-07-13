@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Российский фонд фундаментальных исследований (РФФИ) в соответствии с подписанным «Меморандумом о взаимопонимании в области научно-технического сотрудничества» между Московско - Тайбэйской координационной комиссией по экономическому и культурному сотрудничеству и <Node id="264"/>Тайбэйско<Node id="273"/> - Московской координационной комиссией по экономическому и культурному сотрудничеству, объявляет конкурс <Node id="379"/>2007 года<Node id="388"/> совместных российско-тайваньских исследовательских проектов (конкурс «ННС_a») по следующим областям знаний: 
+- 01 математика, механика, информатика 
+- 03 химия 
+- 04 биология, медицина 
+- 05 науки о Земле 
+- 06 науки о человеке и обществе 
+- 07 информационные и телекоммуникационные системы 
+- 08 фундаментальные основы инженерных наук 
+
+При проведении экспертизы приоритет в <Node id="765"/>2007 году<Node id="774"/> будет отдаваться проектам, относящимся к следующим направлениям: 
+Optical Semiconductor Physics; Nonlinear optics; Hadron Physics; Laser-induced Breakdown Spectroscopy in Metal Analysis and Application; Metal and Organic Catalyzed Reactions; A seismic/geological traverse across the Central Asian Orogenic Belt; A decision of equation of evolution: global statement and explosions; Stability and control of body motion in diverse media; Application of supercomputing for solution of intricate problems; Experimental method of study of extremely high energy cosmic particles; Biotechnology/ medical physics/ Marine Biology; Computational economics.
+
+Подробности &gt;&gt;
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="765" EndNode="774">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="264" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Тайбэйско</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Год" StartNode="379" EndNode="388">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="765" EndNode="774">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="379" EndNode="388">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

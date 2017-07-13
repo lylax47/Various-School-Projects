@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Свердловский фонд ВПК и австрийский институт создают СПФинансово-промышленный венчурный фонд военно-промышленного комплекса (ВПК) Свердловской области достиг соглашения об образовании совместной венчурной компании с участием Austrian Research Centers GmbH Nano-System-Technologies (Австрия), сообщила заместитель директора по рекламе и маркетингу фонда Татьяна Кольцова. Доля австрийской компании в новом фонде составит <Node id="420"/>70%<Node id="423"/>, ее инвестиции — порядка <Node id="449"/>900 тыс. евро<Node id="462"/>.
+
+Приезд австрийских учёных в Екатеринбург для проведения окончательных переговоров и подписания договора запланирован на <Node id="585"/>декабрь 2007 года<Node id="602"/>. Госпожа <Node id="612"/>Кольцова отметила, что <Node id="635"/>штаб-квартира совместной венчурной компании будет находиться в Вене, а представительство в Екатеринбурге будет заниматься исследовательскими работами в сфере нанотехнологий<Node id="807"/>.
+По ее словам, в <Node id="825"/>настоящее время<Node id="840"/> на стадии завершения опытных испытаний находится проект по созданию нанобетона, который реализуется совместно с австрийской стороной. Выпуск опытной партии нанобетона запланирован на <Node id="1024"/>март 2008 года<Node id="1038"/>, запуск в промышленное производство — на <Node id="1080"/>август 2008 года<Node id="1096"/>. Опытные образцы производятся на базе технопарка «Академический» в Екатеринбурге. Общий объем инвестиций в проект будет рассчитан после производства опытной партии нанобетона, добавила госпожа Кольцова.
+<Node id="1300"/>http://www.kommersant.ru/…urg/page.htm?…Скептики<Node id="1348"/> сомневаются: «В природе не существует нанобетона!» А вот уральские исследователи совместно с австрийскими коллегами, не зная об этом, налаживают производство этого «таинственного» вещества… Вкладывают довольно большие деньги. Причём первая опытная партия его будет выпущена уже в <Node id="1629"/>марте 2008 года<Node id="1644"/>, а <Node id="1648"/>концу лета<Node id="1658"/> – в <Node id="1663"/>августе<Node id="1670"/> – планируется запуск промышленного производства… То есть осталось совсем немного подождать и посмотреть, «чем дело кончилось»… Тем не менее, пожелаем им удачи и больших успехов на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="упоминается" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="1629" EndNode="1644">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1648" EndNode="1658">
+</Annotation>
+<Annotation Id="4" Type="упоминает" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="5" Type="высказывания_заявления" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="6" Type="упоминается" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="7" Type="цитаты" StartNode="635" EndNode="807">
+</Annotation>
+<Annotation Id="8" Type="упоминается_с" StartNode="635" EndNode="807">
+</Annotation>
+<Annotation Id="9" Type="цитаты" StartNode="635" EndNode="807">
+</Annotation>
+<Annotation Id="10" Type="Дата" StartNode="1024" EndNode="1038">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">март</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Деньги" StartNode="449" EndNode="462">
+</Annotation>
+<Annotation Id="12" Type="темы" StartNode="635" EndNode="807">
+</Annotation>
+<Annotation Id="13" Type="темы" StartNode="635" EndNode="807">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="585" EndNode="602">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабрь</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="825" EndNode="840">
+</Annotation>
+<Annotation Id="19" Type="упоминает" StartNode="612" EndNode="807">
+</Annotation>
+<Annotation Id="18" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Процент" StartNode="420" EndNode="423">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="1080" EndNode="1096">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">август</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Дата" StartNode="1663" EndNode="1670">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августе</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="1300" EndNode="1348">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

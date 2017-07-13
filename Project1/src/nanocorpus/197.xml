@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Чтобы воплотить в жизнь идею создания <Node id="39"/>наносенсоров<Node id="51"/>, внедряемых в организм или другую закрытую систему, автономно работающих там и передающих информацию внешним устройствам, требуется сначала решить проблему обеспечения их энергией. Ученые из Центра по Определению Характеристик <Node id="279"/>Наноструктур<Node id="291"/> (Center for Nanostructure Characterization, Georgia Tech) во главе с профессором <Node id="373"/>Джонг Лин<Node id="382"/> <Node id="383"/>Вангом<Node id="389"/> (Zhong Lin Wang) нашли возможное решение. В основе разработанной ими технологии лежит использование сдвоенных пьезоэлектрических и полупроводящих вискеров, например из оксида цинка, для преобразования механической энергии (гидравлической энергии человеческого тела, энергии вибраций, движения и т.д.) в электричество. 
+ 
+Наногенератор был создан из вертикально параллельно выстроенных вискеров ZnO, помещенных с небольшим зазором под металлический зигзагообразный электрод. Ультразвуковая волна, проходя через жидкость, инициирует колебания электрода, который в свою очередь сгибает и одновременно заставляет колебаться массив вискеров. Сочетание пьезоэлектрического эффекта и полупроводниковых свойств преобразует механическую энергию колебаний и деформации в электричество, которое передается электроду и дальше может либо непосредственно подаваться наноустройству, либо накапливаться в подобии аккумулятора. Созданные наногенераторы имели площадь 2 мм2, и генерировали ток силой до 35 нА непрерывно <Node id="1392"/>в течение 4 часов<Node id="1409"/>, при этом ученые утверждают, что срок их службы значительно дольше. 
+ 
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="373" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Д.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Джонг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="383" EndNode="389">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ванг</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноструктура" StartNode="279" EndNode="291">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1392" EndNode="1409">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Сенсор" StartNode="39" EndNode="51">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

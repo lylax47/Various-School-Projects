@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из отделения NanoSystems Institute Калифорнийского Университета в Лос-Анжелесе (UCLA) совместно с их коллегами из Онкологического Центра имени <Node id="151"/>Джонсона<Node id="159"/> (Jonsson Cancer Center) сообщили о разработке нового метода, позволяющего доставлять плохо растворимые в воде противораковые лекарства непосредственно к больным клеткам.
+
+<Node id="331"/>На сегодняшний день<Node id="350"/> известно достаточно много эффективных противораковых препаратов, которые, к сожалению, почти не абсорбируются онкологическими образованиями из-за их гидрофобности. Вещества-растворители, применяющиеся в химиотерапии, часто токсичны для тканей, и поэтому использовать их достаточно опасно для пациента.
+
+Альтернативный выход предложили ученые во главе с профессором микробиологии <Node id="730"/>Фую Таманои<Node id="741"/> (Fuyu Tamanoi). Как сообщает PhysOrg, исследователи предлагают снабжать нерастворимые лекарства специальными <Node id="851"/>наночастицами<Node id="864"/>-повозками на основе кремнезема. Таким образом получится доставлять в раковые клетки лекарство камптотечин (camptothecin – СРТ).
+
+Так, мезопористые <Node id="1012"/>наночастицы<Node id="1023"/> служат «ячейками» для лекарств, которые не могут без посторонней помощи проникнуть внутрь больной клетки.
+
+<Node id="1131"/>Как говорит <Node id="1143"/>Фую<Node id="1146"/>, основное достоинство такого метода состоит в полной биологической совместимости <Node id="1228"/>наночастиц<Node id="1238"/>, а пористая поверхность позволяет дополнительно прикрепить к ним специфические биологические маркеры раковых клеток, благодаря которым <Node id="1374"/>наночастицы<Node id="1385"/> будут попадать «по адресу»<Node id="1412"/>.
+
+Кроме того, <Node id="1427"/>наночастицы<Node id="1438"/> можно легко «оборудовать» под практически любое гидрофобное лекарство, например, достаточно распространенный в химиотерапии таксол (Taxol).
+
+Также <Node id="1586"/>Фую<Node id="1589"/> отметил, что открытый им и <Node id="1617"/>его<Node id="1620"/> коллегами метод достаточно прост в реализации и универсален в доставке лекарств, поэтому ученые намерены продолжать исследования в этой области<Node id="1764"/>.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="331" EndNode="350">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1427" EndNode="1438">
+</Annotation>
+<Annotation Id="2" Type="автор" StartNode="1131" EndNode="1412">
+</Annotation>
+<Annotation Id="3" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="730" EndNode="741">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фую</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="высказывания_заявления" StartNode="1586" EndNode="1764">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1586" EndNode="1589">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фую</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1374" EndNode="1385">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="151" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Джонсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="1228" EndNode="1238">
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="1617" EndNode="1620">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="1131" EndNode="1412">
+</Annotation>
+<Annotation Id="14" Type="Наночастица" StartNode="851" EndNode="864">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наночастица" StartNode="1012" EndNode="1023">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="автор" StartNode="1586" EndNode="1764">
+</Annotation>
+<Annotation Id="21" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Персона" StartNode="1143" EndNode="1146">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фую</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

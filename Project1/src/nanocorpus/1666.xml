@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Органические полупроводники демонстрируют высокоэффективную электролюминесценцию, которая делает возможным их коммерциализацию в виде светоизлучающих диодных устройств. К сожалению, функционирование подобных устройств сталкивается с проблемой тушения люминесценции в твердом теле. В статье Chung-He Yang, Chetan Jagdish Bhongale, Yung-Ming Liao and Chain-Shu Hsu "Fabrication of hybrid chromophoric amphiphile/silica nanocomposite-based light emitting devices with enhanced performance" (J. Mater. Chem.) сообщается о получении и характеризации двух фторпроизводных амфифильных люминесцирующих голубым светом веществ, содержащих заместители в форме трифениламинных или антраценовых групп.  Полученные органические вещества являлись составной частью гибридного неоргано-органического мезопористого <Node id="799"/>нанокомпозита<Node id="812"/>, полученного с помощью "самосборки" с использованием золь-гель процесса в присутствии тетраэтоксисилана. Хромофорные амфифильные молекулы выступали в роли как фотоактивного материала, так и в виде темплата, способствующего формированию высокоупорядоченной мезопористой структуры <Node id="1092"/>нанокомпозита<Node id="1105"/>. Полученный материал и устройства на его основе продемонстрировали в несколько раз большую эфективность люминесценции по сравнению с исходными хромоформными агентами. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокомпозит" StartNode="1092" EndNode="1105">
+</Annotation>
+<Annotation Id="1" Type="Нанокомпозит" StartNode="799" EndNode="812">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

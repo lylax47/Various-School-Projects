@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>«Нанобизнесмены» предлагают соединить русские мозги и японские технологии
+САРАТОВ, <Node id="83"/>19 июня<Node id="90"/>. В Саратове проходит V российско-японский семинар «Оборудование, технологии и аналитические системы для материаловедения, микро- и наноэлектроники», сообщили ИА «Росбалт-Приволжье» в пресс-службе министерства промышленности и энергетики области.
+
+В работе семинара приняли участие ведущие специалисты японских фирм, профессора вузов и научно исследовательских институтов, специализирующиеся на заявленной тематике. Открыли работу семинара ректор Саратовского государственного университета им. Н.Г.Чернышевского Леонид Коссович и первый заместитель министра промышленности и энергетики области Владимир Желудков.
+
+На семинаре были заслушаны доклады и результаты исследований участников по самым актуальным направлениям исследования нанотехнолоий: «<Node id="838"/>Углеродные <Node id="849"/>нанотрубки<Node id="859"/> и <Node id="862"/>нанокластеры<Node id="874"/> для построения новых устройств микро- и наноэлектроники», «Новые возможности и перспективы функционализации <Node id="983"/>нанотруб<Node id="991"/>», «<Node id="995"/>Углеродные <Node id="1006"/>нанотрубки<Node id="1016"/> в микро- и наносистемах» и др.
+
+Большой блок материалов семинара был посвящен оборудованию, методам и технологии исследования нанообъектов.
+
+По словам одного из организаторов семинара — президента японской компании «Interactive Corporation» Хикиро <Node id="1265"/>Миура<Node id="1270"/>,<Node id="1271"/>
+ 
+«успешное сотрудничество с российскими вузами и предприятиями ведется <Node id="1344"/>более 40 лет<Node id="1356"/>». «Преимуществом России перед другими странами является высокий интеллектуальный потенциал, в свою очередь, Япония – это признанный лидер изготовления оборудования для нанотехнологий. При этом, если совместить «русские мозги» и японские технологии, то это будет необычайно эффективно», — отметил он.
+  
+"<Node id="1661"/>Мы можем быть мировыми лидерами, и в активе каждого из нас будет нобелевская премия», — заключил господин <Node id="1767"/>Миура<Node id="1772"/>.
+ 
+Результатом семинара должны стать комплексные проекты с участием нескольких университетов, организаций и предприятий, направленных на продвижение научных разработок на мировой рынок.
+
+Исследование нанотехнологий ведется в Саратовском государственном университете им. Н.Г.Чернышевского <Node id="2061"/>с 70-х годов прошлого века<Node id="2087"/>. Сегодня приоритетными направлениями исследования являются вопросы применения нанокомпозитных материалов для замены сосудов и артерий человека, для создания аккумуляторов нового поколения, также разрабатывается технология создания стеклянных <Node id="2330"/>наноструктур<Node id="2342"/> для использования в рентгеновской оптике, исследуются методы создания <Node id="2413"/>нанопорошков<Node id="2425"/> некоторых материалов для применения в медицине, создается оборудование для измерения наноперемещений.
+
+Семинар организован Саратовским государственным университетом им. Н.Г.Чернышевского, Московским институтом стали и сплавов и крупной японской компанией «Interactive Corporation» (официальный дилер ведущих японских фирм-производителей аналитического и промышленного оборудования).
+<Node id="2809"/>http://www.rosbaltvolga.ru/news/8261.htmlХорошее<Node id="2857"/> дело! Японцы будут поставлять оборудование и обучать персонал работать на нём. Университеты будут вести исследования и разработки, готовя при этом квалифицированные кадры. При этом польза будет взаимная, даже если никому из них и не «обломится» Нобелевская премия…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1767" EndNode="1772">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Миура</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанокластер" StartNode="862" EndNode="874">
+</Annotation>
+<Annotation Id="3" Type="Нанопорошок" StartNode="2413" EndNode="2425">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="1270" EndNode="1271">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="83" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="849" EndNode="859">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="983" EndNode="991">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="1661" EndNode="1772">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1344" EndNode="1356">
+</Annotation>
+<Annotation Id="13" Type="Углеродная+нанотрубка" StartNode="838" EndNode="859">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Период_времени" StartNode="2061" EndNode="2087">
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="1270" EndNode="1271">
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="2330" EndNode="2342">
+</Annotation>
+<Annotation Id="18" Type="Углеродная+нанотрубка" StartNode="995" EndNode="1016">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Нанотрубка" StartNode="1006" EndNode="1016">
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="2809" EndNode="2857">
+</Annotation>
+<Annotation Id="25" Type="высказывания_заявления" StartNode="1661" EndNode="1772">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="1265" EndNode="1270">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">президент</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">работает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Миура</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+В выпуске:
+ 
+1. Итоги Интернет-Олимпиады "Нанотехнологии - прорыв в Будущее!"
+ 
+2. Конференции
+ 
+3. Интервью академика <Node id="121"/>В.М.Бузника<Node id="132"/>
+ 
+4. Новости сайта <Node id="152"/>www.nanometer.ru<Node id="168"/>
+    
+ 
+            
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="121" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Второй_инициал</Name>
+  <Value className="java.lang.String">М.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="152" EndNode="168">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

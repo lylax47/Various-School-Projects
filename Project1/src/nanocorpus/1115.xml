@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> В рамках сотрудничества компании <Node id="34"/>Сен<Node id="37"/>-Гобен и ФНМ МГУ открыт второй конкурс научных (аналитических) эссе студентов ФНМ МГУ на премии корпорации <Node id="144"/>Сен<Node id="147"/>-Гобен.  Условия конкурса:    Студенты - участники конкурса должны подготовить и представить на рассмотрение жюри аналитико – библиографическое эссе по одной научных тем, предложенных компанией Saint- Gobain (список тем дан ниже).   В период написания эссе студенты могут использовать любые доступные источники (за исключением тех, использование которых нарушает права третьих лиц) - Интернет, книги, оригинальные научные статьи и обзоры, патенты, а также консультации локальных экспертов. На основе собранной информации должно быть в лаконичной форме написано эссе по одной выбранной теме, которое должно давать обоснованный обзор известных из литературы решений поставленных задач с акцентом на физические и химические аспекты приводимых решений, а также с описанием имеющихся наиболее важных достижений и остающихся проблем. В то же время, участник конкурса может и сам сформулировать оригинальные идеи, что, несомненно, будет очень позитивно оценено членами жюри.   Работы должны быть представлены на английском языке, при этом лингвистическое качество перевода не будет рассматриваться как основной критерий оценки эссе.   Рекомендуемый объем эссе - 7-10 страниц (шрифт Times New Roman 12-pt, 1.5 интервала).   Крайний срок для предоставления эссе – <Node id="1402"/>10 декабря 2008 г.<Node id="1420"/>, эссе следует направлять по адресу award.saint.gobain@gmail.com.   Жюри будет состоять из трех представителей Корпорации Сен-Гобен и трех представителей ФНМ МГУ.   В соответствии с соглашением между ФНМ МГУ и Saint-Gobain, устанавливаются 1, 2 и 3 премии. Победители конкурса (1 место) получат приглашение Saint-Gobain посетить Францию с учебно-научным визитом продолжительностью <Node id="1801"/>1 неделя<Node id="1809"/>, целью которого является ознакомление с инфраструктурой Корпорации в районе Большого Парижа. Все расходы оплачиваются Компанией. Призеры (второе место) получат единовременную финансовую помощь в сумме <Node id="2011"/>300 евро<Node id="2019"/>. Призеры за третье место получат почетные дипломы. Все студенты, принимающие участие в конкурсе, будут иметь возможность посетить производственные мощности Корпорации в России.   Победители конкурса будут объявлены <Node id="2235"/>15 января 2009 г.<Node id="2252"/>   Все претенденты на победу в конкурсе должны заранее обеспокоиться по поводу наличия у них действующего заграничного паспорта.   
+Удачи!
+ 
+Жюри премии Saint-Gobain.
+ 
+Лучшие работы будут опубликованы на сайте Нанометр
+   Topics of essays for Saint-Gobain award 2008    How electrocatalysis and electrical promotion of catalysiscan be used for the purification of air?   Mesoporous inorganic fibers: how to make them? What are the possible applications?   Phase change materials for thermal comfort in buildings. Uptake and release of energy by the building can be diminished by use of some materials undergoing phase transformation. Make the analysis of this principle.   Nanostructured thermoelectric materials. It is believed that nanostructured thermoelectric materials which are used for transformation of thermal energy to electric one or vice versa, will possess much higher levels of performance. What are the mechanisms justifying this statement? And how this principle could be applied to both new and already wellknown thermoelectric materials?   </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="34" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="144" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">Сен</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Деньги" StartNode="2011" EndNode="2019">
+</Annotation>
+<Annotation Id="4" Type="Дата" StartNode="1402" EndNode="1420">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="1801" EndNode="1809">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="2235" EndNode="2252">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

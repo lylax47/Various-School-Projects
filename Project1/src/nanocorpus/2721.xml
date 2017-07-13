@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+На сайте <Node id="11"/>www.nanobliss.com<Node id="28"/> выставлены фотографии <Node id="51"/>углеродных <Node id="62"/>нанотрубок<Node id="72"/> и кремниевых структур. Масштаб этих структур меняется от нанометров до миллиметров. Всего в галерее около 500 фотографий. Кроме того, доступны для просмотра видеоролики, демонстрирующие рост <Node id="264"/>нанотрубок<Node id="274"/>.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="51" EndNode="72">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="11" EndNode="28">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="264" EndNode="274">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="62" EndNode="72">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

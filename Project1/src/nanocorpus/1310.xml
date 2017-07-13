@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Правительство<Node id="14"/> австралийского штата Новый Южный Уэльс (New South Wales) выпустило отчет о состоянии нанотехнологии в штате и послало Законодательному Совету штата справку о потенциальных рисках и проблемах, связанных с нанотехнологией. Совершенно очевидно, что это один из первых в мире документов подобного рода, который и должен рассматриваться со всей серьезностью. Можно предположить, что все страны когда-нибудь либо воспользуются опытом австралийских методистов, либо создадут собственные документы, регулирующие развитие нанотехнологии.
+
+Комиссия, которая разработала отчет, передала в <Node id="593"/>Законодательный Совет<Node id="614"/> следующие заключения и рекомендации:
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Властная_Структура" StartNode="1" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="593" EndNode="614">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Законодательный Совет</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

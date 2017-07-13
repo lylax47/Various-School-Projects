@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>NEC создала самый быстрый в мире векторный суперкомпьютер – 839 терафлопсЯпонская электротехническая корпорация NEC объявила о запуске самого быстрого в мире векторного суперкомпьютера, максимальная производительность которого составляет 839 терафлопс (триллионов операций с плавающей запятой в <Node id="295"/>секунду<Node id="302"/>).
+Суперкомпьютер NEC SX-9
+Векторными компьютерами называют вычислительные устройства с высокоскоростными «векторными процессорами».
+Они эффективны для работы с изображениями и массивами данных, поэтому применяются для анализа климатических изменений, космических данных, а также для симуляции изменений в окружающей среде, моделировании в сфере нанотехнологий…
+По утверждению NEC, высокая производительность модели SX-9 была достигнута благодаря сочетанию большой оперативной памяти в 1 терабайт (1024 Гбайт), высокоскоростным соединениям, которые позволяют передавать до 128 гигабайт данных в <Node id="897"/>секунду<Node id="904"/>, и новому процессору.
+
+Разработчики суперкомпьютера заявляют о том, что SX-9 по размерам и по потреблению электроэнергии на <Node id="1029"/>75%<Node id="1032"/> компактнее и экономичнее аналогов.
+
+Предполагается, что в <Node id="1091"/>марте 2008 года<Node id="1106"/> NEC начнет поставки нового суперкомпьютера и будет сдавать его в аренду примерно за <Node id="1191"/>26 тысяч долларов<Node id="1208"/> США в <Node id="1215"/>месяц<Node id="1220"/>. В <Node id="1224"/>ближайшие три года<Node id="1242"/> компания намерена продать около 700 устройств.
+<Node id="1290"/>http://hitech.newsru.com/…007/supernecМолодцы<Node id="1335"/> ребята!.. Всё время что-то изобретают, разрабатывают, а, самое главное, внедряют… И получают свою – заслуженную – прибыль… Для нас самое важное, что они могут быть использованы для моделирования в сфере нанотехнологий.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1091" EndNode="1106">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="1191" EndNode="1208">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1290" EndNode="1335">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1215" EndNode="1220">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="295" EndNode="302">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="897" EndNode="904">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1029" EndNode="1032">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1224" EndNode="1242">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

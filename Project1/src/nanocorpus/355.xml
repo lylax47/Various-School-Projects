@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Главная проблема наземной фотовольтаики всего одна, но в рыночном плане пока почти смертельная: высокая цена в любой валюте за один ватт (пиковый) установленной мощности. Пиковый ватт – это когда солнце в зените (а не сбоку) и нет облаков. Короче, когда солнечный элемент (СЭ) (или панель-батарея) выдаёт всё, что может. И хотя цена эта стабильно снижается по мере роста производства (см. Рис. 1 [1]), она всё равно остаётся слишком большой (раз в 5) по сравнению с ваттом «грязной» угольной электроэнергетики и не менее грязной мазутной
+
+Принято различать фотовольтаику неорганическую и органическую. Неорганические СЭ изготаливают из Si, GaAs, CdTe или СuInGaSe2. Тогда как органические СЭ, естественно, изготавливают из органических веществ с непроизносимыми названиями, типа «1-(3-метоксикарбонил)-пропил-1-фенил-(6,6) С61». Понятно, что вся эта «полупроводниковая» органика в смысле кпд (4–<Node id="896"/>5%<Node id="898"/>) ни в коей мере не конкурент настоящим полупроводникам (см. табл. 1) [2].
+
+И никто бы на неё и внимания не обращал, если бы не одно, но большое «НО». В разы уступая по кпд, пластики в десятки раз выигрывают по стоимости. Их можно печатать, как газету. А потребителю, как ни странно, важна цена, а не последние достижения в полупроводниковой микроэлектронике, включая молекулярно-лучевую (МЛЭ) или металло-органическую газофазную эпитаксию (МОС-ГФЭ). Потребителю нравится когда «числом поболее, ценою – подешевле». И тут органика даст фору любому твёрдому полупроводнику. К примеру, «солнечный» зонтик, покрытый гибкими органическими низкоэффективными СЭ, вполне способен подзаряжать ваш мобильник прямо на пляже. А стоит он ненамного дороже обычного зонта. А если вы обзаведётесь тентом (площадью ~ 2–3 м2) всё с теми же органическими СЭ на нём, то в вашем переносном Пелетье-холодильнике всегда будет холодное пиво, даже при +40°С снаружи. Ну, кто ж не захочет воспользоваться этим удовольствием?
+
+Вездесущие аналитики потребительского рынка уже прикинули, что для широкой коммерциализации органических СЭ надо, чтобы их кпд был больше <Node id="2036"/>7%<Node id="2038"/>. И в этом отношении <Node id="2059"/>2007 год<Node id="2067"/> стал одновременно и очень многообещающим и скандальным [3]. Просто потому, что именно в <Node id="2156"/>прошлом году<Node id="2168"/> органическая фотовольтаика сделала несколько серьёзных заявок на своё место под солнцем. Рекорд следовал за рекордом, а Министерство энергетики США начало конкретно благоволить к соискателям миллионно-долларовых грантов, если они в своих заявках обещали сделать что-нибудь органически-гибкое и дешёвое, работающее от солнечного света.
+
+Главным возмутителем спокойствия выступила группа проф. Дэйвида Кэррола (см. рис. 2) из небольшого американского университета (Wake Forest University), который расположен в городке Winston-Salem (эти слова знакомы всем курильщикам мира), в штате Северная Каролина. В <Node id="2772"/>апреле 2007 года<Node id="2788"/> они опубликовали в Appl. Phys.Letters три странички про органический СЭ с кпд <Node id="2867"/>6%<Node id="2869"/>. [4]. Тут самое время напомнить, что полупроводниковая фотовольтаика началась в <Node id="2950"/>1953 году<Node id="2959"/> всё в той же Bell Laboratories (где <Node id="2996"/>пятью годами<Node id="3008"/> раньше изобрели транзистор) с кремниевого p-n–переходного СЭ с кпд ~ <Node id="3078"/>6%<Node id="3080"/>![5].
+
+И тут – редчайший случай в истории Appl. Phys. Lett.! На публикацию последовали два комментария, в которых высказывались обоснованные сомнения по поводу этих самых <Node id="3251"/>6%<Node id="3253"/>. Причём один (первый по времени присылки в редакцию и всего несколько строк [6]) был от главного «тестера» всех рекордных СЭ мира, Кейта Эмери, который является директором наиболее авторитетной сертификационной лаборатории в мире по любой фотовольтаике (см. Рис. 3), входящей в состав государственной «Национальной Лаборатории по Возобнавляемой Энергетике» (NREL) Министерства энергетики США, а второй, можно сказать, от собратьев по классу, т.е., от органических фотовольтаиков из Германии [7].
+
+Причём все знают отношение Эмери к солнечным элементам: «Я не потерплю любого в моей лаборатории, если он займётся изготовлением СЭ» (цитата) [3]. Кстати, протестируют ваш СЭ в NREL совершенно бесплатно, только в очереди придётся постоять от 2-х <Node id="3997"/>до 8-ми недель<Node id="4011"/>, т.к. очень многие хотят знать его авторитетное экспертное мнение (отметим также, что и разочарованных оценкой немало). Так вот, суть претензий в комментариях сводилась к тому, что опубликованные в [4] спектральные кривые внешнего квантового выхода никак не согласовывались с величинами фототока на вольт-амперных характеристиках, представленных там же. На замечания <Node id="4379"/>К. Эмери<Node id="4387"/> авторы [4] не нашли, что возразить, а германским коллегам ответ не замедлил появиться [8]. Если не вдаваться в технические детали, то ситуация после этого ответа почти в точности соответствует притчевой из <Node id="4594"/>Ходжи Насреддина<Node id="4610"/>: «И шах прав, и осёл прав<Node id="4636"/>».
+
+Проблема, тем не менее, обозначена и состоит в том, что очень многие пластиково- фотовольтаические исследователи сплошь и рядом спешат с публикацией своих «рекордов», не проверив их, как следует. И это идёт не на пользу пластиковой фотовольтаике, а только вредит, ибо чревато подрывом доверия у инвесторов и венчурных капиталистов, которые уже вложили сотни миллионов долларов в это дело [3,9]. Примечательно, что обе ведущие фирмы по пластиковой фотовольтаике (Konarka и Flextronics) прежде чем опубликовать рекламу своих очередных достижений, тестируют свои изделия в NREL.
+ 1. R.F.Service. Can the upstarts top silicon? Science, v.319, pp.718–720 (2008) 2. M.A.Green, K.Emery, Y.Hishikawa, W.Warta. Solar cells efficiency tables (version 31). Progress in Photovoltaics: Research and Applications, v.16, pp.61–67 (2008) 3. P. Fairley. Solar cell squabble. IEEE Spectrum, v.45, No 4, pp.37–40 (2008) 4. K.Kim, J.Liu, A.G.Namboothiry, David L. Carrol. Roles of donor and acceptor nanodomains in <Node id="5635"/>6%<Node id="5637"/> efficient thermally annealed polymer photovoltaics. Appl.Phys.Letters, v.90, 163511 (2007) 5. D.M.Chapin, C.S. Fuller, G.L.Pearson. A new silicon p-n junction photocell for converting solar radiation into electrical power. J.Appl.Phys., v.25, No 5, pp.676–677 (1954). (Это письмо редактору, состоящее из 60 строк и одного рисунка поступило в редакцию <Node id="5989"/>11 января 1954 года<Node id="6008"/>) 6. K.A.Emery. Comment on “Roles of donor and acceptor nanodomains in <Node id="6079"/>6%<Node id="6081"/> efficient thermally annealed polymer photovoltaics”. Appl.,Phys. Letters, v.91, 266101 (2007) 7. M.K.Riede, T.Mueller, B.Maennig, K.Leo, K.O.Silvester-Hvid, B.Zimmermann, M.Niggemann, A. Gombert. Comment on “Roles of donor and acceptor nanodomains in <Node id="6333"/>6%<Node id="6335"/> efficient thermally annealed polymer photovoltaics. Appl.Phys.Letters, v.92, 076101 (2008) 8. David L.Carrol, J.Liu, M.Namboothiry, K.Kim. Response to “Comment on “Roles of donor and acceptor nanodomains in <Node id="6543"/>6%<Node id="6545"/> efficient thermally annealed polymer photovoltaics””. Appl.Phys.Letters, v.92, 076102 (2008) 9. Gilles Dennler et al. The value of values. Materials Today, v.10, No 11, p.56 (2007) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Год" StartNode="2950" EndNode="2959">
+</Annotation>
+<Annotation Id="1" Type="Процент" StartNode="3078" EndNode="3080">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="4379" EndNode="4387">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">К.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="2059" EndNode="2067">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="2996" EndNode="3008">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="2156" EndNode="2168">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="2059" EndNode="2067">
+</Annotation>
+<Annotation Id="8" Type="высказывания_заявления" StartNode="4594" EndNode="4636">
+</Annotation>
+<Annotation Id="9" Type="Процент" StartNode="6543" EndNode="6545">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="3997" EndNode="4011">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="4594" EndNode="4636">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="2772" EndNode="2788">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Процент" StartNode="5635" EndNode="5637">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="2036" EndNode="2038">
+</Annotation>
+<Annotation Id="17" Type="Процент" StartNode="2867" EndNode="2869">
+</Annotation>
+<Annotation Id="16" Type="Процент" StartNode="3251" EndNode="3253">
+</Annotation>
+<Annotation Id="19" Type="Процент" StartNode="6333" EndNode="6335">
+</Annotation>
+<Annotation Id="18" Type="Процент" StartNode="896" EndNode="898">
+</Annotation>
+<Annotation Id="21" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Процент" StartNode="6079" EndNode="6081">
+</Annotation>
+<Annotation Id="23" Type="Дата" StartNode="5989" EndNode="6008">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="2950" EndNode="2959">
+</Annotation>
+<Annotation Id="24" Type="Персона" StartNode="4594" EndNode="4610">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Насреддина</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

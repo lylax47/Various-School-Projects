@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>НАНОСКУЛЬПТУРЫ СОЗДАЮТСЯ АТОМНЫМ РЕЗЦОМНанотехнологи из Франции (университет University Paris-Sud) открыли новый способ изготавливать <Node id="134"/>наноматериалы<Node id="147"/> с высокой степенью точности благодаря <Node id="186"/>сканирующей электронной микроскопии<Node id="221"/>.
+Технология настолько точна, что позволяет оперировать отдельными атомами. Так, ученые смогли удалять атомы углерода в целой <Node id="347"/>нанотрубке<Node id="357"/>. Это похоже на то, как скульптор ваяет очередное произведение – от целого образца резцом откалывается лишний материал. Только в наномире все сложнее.
+
+Сканирующая трансмиссионная электронная микроскопия (STEM) обычно не повреждает атомы, изучая их. Однако если существенно повысить энергию электронного луча, то он сможет выбивать отдельные атомы из образцов.
+
+Один из исследователей, Альберто Зобелли (Alberto Zobelli), поясняет, что после выбивания атомов высокоэнергет­ическим лучом ученые смогли перевести микроскоп в режим сканирования и тут же получить картинку <Node id="926"/>наноструктуры<Node id="939"/>.
+
+В предыдущих своих работах <Node id="969"/>Зобелли<Node id="976"/> и <Node id="979"/>его<Node id="982"/> коллеги не могли точно сфокусировать луч на отдельном атоме, поэтому понадобилось составить физическую теорию этого процесса, которая помогла точно сфокусировать луч.
+Дело в том, что успешность работы микроскопа с нанообъектом зависит также от геометрии последнего. Так, если атом находится на конце или в центре <Node id="1296"/>нанотрубки<Node id="1306"/>, приходится это учитывать для успешного его удаления. При этом пространственное разрешение микроскопа составляет 0,5 нанометров.
+
+Вычисления ученых также показали, что для удаления соседних атомов требуется меньше энергии, чем для «выбивания» первого из них. Особенно, еcли они лежат на одной линии.
+Самое интересное, что после таких дефектов <Node id="1650"/>нанотрубка<Node id="1660"/> старается сама перестроиться, изменяя структуру связей между атомами углерода. В результате получаются изгибы и деформации образца. Так, обработанная <Node id="1811"/>нанотрубка<Node id="1821"/> может иметь даже полупроводниковую структуру, формируя диод Шоттки!
+Как говорит <Node id="1902"/>Зобелли<Node id="1909"/>, открытый учеными способ очень важен в нанотехнологии. С его помощью можно будет конструировать новые типы <Node id="2017"/>наноматериалов<Node id="2031"/> из уже существующих, особенно после того, как исследователи усовершенствуют STEM для работы на разрешениях 0,1 нанометр. Правда, «ваять из <Node id="2171"/>нанотрубок<Node id="2181"/>» пока только «вручную». (PhysOrg, <Node id="2216"/>19 марта<Node id="2224"/>)
+<Node id="2226"/>http://www.businesspress.ru/…_445655.htmlNanoSculptors<Node id="2280"/> carve atom by <Node id="2295"/>atomhttp://stem-pc7.lps.u-psud.fr/whew/index.php?…Laboratoire<Node id="2356"/> de Physiques des Solides
+UMR8502
+
+Universite Paris Sud
+
+Bâtiment 510
+
+91240 Orsay cedex
+
+France
+Интересная штука… Только вот где-то в глубине мозга шевелится этакая мыслишка. Сегодня – <Node id="2542"/>1 апреля<Node id="2550"/>. А не розыгрыш ли это со стороны наших французских коллег?.. Оставляю последнее слово за специалистами в области сканирующей трансмиссионной электронной микроскопии…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="2542" EndNode="2550">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1296" EndNode="1306">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="2171" EndNode="2181">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="969" EndNode="976">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Зобелли</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Сканирующая+электронная+микроскопия" StartNode="186" EndNode="221">
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="926" EndNode="939">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Дата" StartNode="2216" EndNode="2224">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Наноматериал" StartNode="134" EndNode="147">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="347" EndNode="357">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="2226" EndNode="2280">
+</Annotation>
+<Annotation Id="14" Type="Нанотрубка" StartNode="1811" EndNode="1821">
+</Annotation>
+<Annotation Id="15" Type="Наноматериал" StartNode="2017" EndNode="2031">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1650" EndNode="1660">
+</Annotation>
+<Annotation Id="16" Type="Url" StartNode="2295" EndNode="2356">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="979" EndNode="982">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="1902" EndNode="1909">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Зобелли</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

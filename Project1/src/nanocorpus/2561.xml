@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ежемесячно Россия должна академику <Node id="35"/>Березовскому<Node id="47"/> по 10 тысяч рублейВозможно, БАБ станет первым членом-корреспондентом Российской академии наук, кого лишат этого звания
+Вроде бы в нашей стране всего две организации активно интересуются экс-олигархом: российское отделение Интерпола объявило его в розыск, да и <Node id="308"/>Генпрокуратура<Node id="322"/> регулярно направляет запросы в Великобританию на экстрадицию Платона Еленина (англичане дали <Node id="416"/>Березовскому<Node id="428"/> паспорт на новое имя). Но оказывается, еще и Российская академия наук, авторитетнейшая в мировом научном сообществе организация, не теряет надежды, что БАБ когда-нибудь объявится в Москве.
+
+Ведь он уже <Node id="631"/>17 лет<Node id="637"/> носит гордое звание члена-корреспондента этой почтенной организации – избран в <Node id="717"/>1991 году<Node id="726"/> в Отделении нанотехнологий и информационных технологий (ОНИТ) РАН. Но обязанностей своих не выполняет. И академики пригрозили БАБу исключением, планируя вынести этот вопрос на обсуждение Президиума РАН.
+ 
+Борис Абрамович действительно наш коллега, членкор Российской академии наук, – подтверждает ученый секретарь ОНИТ РАН Станислав ВЛАСОВ. – Но уже <Node id="1077"/>много лет<Node id="1086"/> он тормозит работу отделения.
+ Чем? 
+Не появляется на заседаниях. Ведь в отделении определенное количество членов. Чтобы принять какое-то решение, требуется кворум. Но состав никогда не собирается – одни в командировках, другие болеют. Это причины уважительные. А что с <Node id="1357"/>Березовским<Node id="1368"/>, мы даже не знаем. Также все членкоры ежегодно представляют отчеты о своей научной деятельности, а Борис Абрамович этого не делает.
+ А вы лишите звания Б. А. Березовского по Трудовому кодексу. За злостные и систематические нарушения… 
+Нельзя. Мы уже обращались в отдел кадров РАН, но согласно уставу академии ее члены избираются пожизненно.
+ А может, пойти другим путем? Ведь официально Бориса Березовского нет? Есть Платон Еленин, который к РАН отношения не имеет. 
+В такие тонкости я не вникал, но, думаю, человек вправе поменять имя.
+ Если Березовский не хочет работать с вами, то и вы просто забудьте про него.
+ 
+В академии четко прописано количество академиков и членкоров. Получается, что он попросту занимает чье-то место. А еще каждый член-корреспондент за свои труды получает от государства ежемесячно <Node id="2180"/>десять тысяч рублей<Node id="2199"/>. Правда, я думаю, что Бориса Абрамовича не интересуют эти деньги.
+  У нас есть один выход. Надо принять поправку в устав РАН о возможности лишения звания. Вероятно, внесем предложение в Президиум и на ближайшем общем собрании академии в конце <Node id="2443"/>мая<Node id="2446"/> обсудим.
+ Андрей <Node id="2464"/>МОИСЕЕНКОhttp://www.kp.ru/…4060/303509/Мы<Node id="2505"/> уже сообщали об этом курьёзном случае – <Node id="2546"/>http://www.nanonewsnet.ru/…bavnye-fakty.<Node id="2586"/> И вот теперь «процесс», очевидно, переходит в практическую плоскость. Как правило, Академия наук, академики «своих не сдают», но здесь, по-видимому, «особый случай», и какое-то решение принять придётся…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="2180" EndNode="2199">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="35" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Березовский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1077" EndNode="1086">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="631" EndNode="637">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="631" EndNode="637">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Властная_Структура" StartNode="308" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Генпрокуратура</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Url" StartNode="2546" EndNode="2586">
+</Annotation>
+<Annotation Id="15" Type="Период_времени" StartNode="717" EndNode="726">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1357" EndNode="1368">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Березовский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Персона" StartNode="416" EndNode="428">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Березовский</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Дата" StartNode="2443" EndNode="2446">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2464" EndNode="2505">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="717" EndNode="726">
+</Annotation>
+<Annotation Id="22" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

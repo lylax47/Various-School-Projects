@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+За поразительным открытием в <Node id="31"/>1911г.<Node id="37"/> сверхпроводимости в ртути при 4.2 K командой Камерлинг-Онеса в Лейденской лаборатории, возникли надежды на создание чрезвычайно мощных электромагнитов и передачу электроэнергии без потерь. Однако эти надежды быстро рухнули, так как вскоре было показано, что сверхпроводимость полностью исчезала при пропускании по проводнику тока всего в несколько ампер и в магнитном поле в несколько гаусс. Такой была ситуация вплоть до 1930-ых, в <Node id="471"/>эти годы<Node id="479"/> были обнаружены: эффект Мейснера-Оксенфельда, объясненный Лондоном, и позже – сверхпроводники Второго рода, кардинально отличающиеся от открытых ранее. Последующий период сопровождался прогрессом в эмпирических металлургических изысканиях, которые были необходимы для оптимизации свойств сверхпроводников, и формулировкой «технической» макро-микроскопической теории <Node id="846"/>Гинзбурга<Node id="855"/>, <Node id="857"/>Ландау<Node id="863"/>, <Node id="865"/>Абрикосова<Node id="875"/> и <Node id="878"/>Горькова<Node id="886"/>, которая позволила определить направление экспериментальных усилий, предпринимаемых для выявления основных зависимостей критических параметров сверхпроводников от их структуры. К <Node id="1066"/>середине 1960<Node id="1079"/>-ых пришло время, когда можно было начать серьезно рассматривать применение сверхпроводимости для передачи электроэнергии... 
+ 
+Полный текст см. в приложенном файле 
+ 
+                
+ 
+        
+ 
+     
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="846" EndNode="855">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Гинзбург</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="471" EndNode="479">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="31" EndNode="37">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1066" EndNode="1079">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="865" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Абрикосова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="878" EndNode="886">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Горькова</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Персона" StartNode="857" EndNode="863">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Ландау</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

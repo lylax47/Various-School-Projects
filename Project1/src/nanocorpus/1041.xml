@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>17 апреля<Node id="10"/> на химическом факультете МГУ состоялось выступление Генерального директора концерна "Наноиндустрия"<Node id="110"/>,<Node id="111"/> Михаила Арсеновича Ананяна. В докладе были обсуждены вопросы концепции развития нанотехнологий в Российской Федерации, их коммерциализации, а также специфика деятельности Концерна и Ассоциации наноиндустрии, которая недавно получила юридическое оформление. М.А.Ананян рассказал также о разработках Концерна и обсудил вопросы возможного сотрудничества с химическим факультетом МГУ. В частности, было упомянуто о систематическом проведении бесплатных семинаров по различной тематике, которые Концерн планирует использовать, в том числе, в целях консолидации усилий по развитию наноиндустрии.
+ Иллюстративные материалы доклада с согласия автора приводятся ниже. Концерн "Наноиндустрия" является спонсором второй Всероссийской Интернет-олимпиады по нанотехнологиям.  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="110" EndNode="111">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1" EndNode="10">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="110" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Академия наук РТ готовится к общему собраниюКазань, <Node id="52"/>17 июня<Node id="59"/> – Сегодня состоялось заседание президиума Академии наук Республики Татарстан. В ходе заседания президент АН РТ Ахмет Мазгаров рассказал о плане подготовки к общему собранию АН РТ, которое состоится <Node id="258"/>20 июня<Node id="265"/>.
+<Node id="267"/>Кев Салихов<Node id="278"/> С докладом о работе Совета по нанотехнологиям АН РТ выступил координатор совета, академик <Node id="369"/>Кев Салихов<Node id="380"/>. В своем докладе <Node id="398"/>он<Node id="400"/> сообщил о том, что <Node id="420"/>в <Node id="422"/>этом году<Node id="431"/> на финансовую поддержку со стороны правительства России претендуют 3 проекта, которые в <Node id="520"/>настоящее время<Node id="535"/> отправлены в Москву для дальнейшего рассмотрения<Node id="584"/>. 
+В завершение с докладом по проблемам отбора и поддержки талантливой молодежи выступил академик Наиль Сахибуллин.
+<Node id="700"/>http://www.tatar-inform.ru<Node id="726"/>/…6/17/119326/Ну, для начала и три немало… Как говорится, лиха беда – начало. Поздравляем наших коллег из Татарстана и желаем им новых достижений!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="52" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="упоминает" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="2" Type="упоминается" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="3" Type="упоминает" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="700" EndNode="726">
+</Annotation>
+<Annotation Id="5" Type="темы" StartNode="420" EndNode="584">
+</Annotation>
+<Annotation Id="6" Type="темы" StartNode="420" EndNode="584">
+</Annotation>
+<Annotation Id="7" Type="упоминается_с" StartNode="420" EndNode="584">
+</Annotation>
+<Annotation Id="8" Type="цитаты" StartNode="420" EndNode="584">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="267" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салихов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="369" EndNode="380">
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">академик</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Салихов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="258" EndNode="265">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="14" Type="цитаты" StartNode="420" EndNode="584">
+</Annotation>
+<Annotation Id="15" Type="упоминается" StartNode="398" EndNode="584">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="398" EndNode="400">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">упоминает</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="520" EndNode="535">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="422" EndNode="431">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

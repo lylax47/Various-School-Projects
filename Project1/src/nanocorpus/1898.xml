@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Ученые из Японии использовали широко доступный белок и простую методику для создания <Node id="86"/>нанотрубок<Node id="96"/>, которые обратимо связывают кислород – как гемоглобин. 
+ 
+Teruyuki Komatsu из Waseda University (Токио) и его коллеги впервые получили искусственный гемопротеин, введя цинк-порфирин в сыворотку человеческого белка альбумина (белка плазмы крови), сообщается в статье “Artificial hemoprotein nanotubes”. 
+ 
+<Node id="402"/>Затем<Node id="407"/> ученые использовали методику послоевого осаждения, для того чтобы сформировать однородные <Node id="498"/>нанотрубки<Node id="508"/> на основе искусственного белка. “Способность <Node id="554"/>нанотрубок<Node id="564"/> связывать кислород не отличалась от мономерных форм в водном растворе”, - сказал Komatsu. 
+ 
+<Node id="658"/>Нанотрубки<Node id="668"/> искусственного гемопротеина имеют очень близкий диаметр и длину около 60 микрон. Методика послоевого осаждения используется для получения <Node id="807"/>нанотрубок<Node id="817"/> из широкого спектра материалов, но Komatsu с коллегами, используя биологически активные молекулы, сделали <Node id="924"/>нанотрубки<Node id="934"/>, которые могут найти биомедицинское применение. Учитывая, что вещества, используемые для их получения, производятся в промышленных масштабах, они могут иметь практическое применение.  
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="498" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="807" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="658" EndNode="668">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="924" EndNode="934">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="554" EndNode="564">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="402" EndNode="407">
+</Annotation>
+<Annotation Id="11" Type="Нанотрубка" StartNode="86" EndNode="96">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

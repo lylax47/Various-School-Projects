@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>16 мая<Node id="7"/> делегация во главе с генеральным директором ГК «Роснанотех» Леонидом Меламедом<Node id="86"/> <Node id="87"/>примет участие в работе круглого стола «Региональная политика по развитию и поддержке нанотехнологий», который пройдет в рамках XIII Российского экономического форума.
+
+В рамках визита в Екатеринбург делегация ГК «Роснанотех» посетит Центр коллективного пользования «Современные нанотехнологии» ГОУ ВПО «Уральский государственный университет», опытное производство на основе нанотехнологий Института электрофизики УрО РАН, ФГУП «Производственное объединение «Уральский оптико-механический завод» имени Э.С. Яламова», Институт органического синтеза УрО РАН, Институт физики металлов УрО РАН, Уральский государственный технический университет.
+
+Также в Екатеринбурге планируется подписание Соглашения о <Node id="788"/>сотрудничестве<Node id="802"/> в сфере нанотехнологий между ГК «Роснанотех» и правительством Свердловской области.
+Российский экономический форум проводится <Node id="929"/>с 1996 года<Node id="940"/> по инициативе известных российских ученых и деловых кругов при поддержке органов государственной власти. Тема XIII Российского экономического форума, который пройдет <Node id="1107"/>16–17 мая 2008 года<Node id="1126"/>: «Эффективная инвестиционная политика регионов – ключевой фактор устойчивого экономического развития России».</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="929" EndNode="940">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="86" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Партнеры_Клиенты" StartNode="788" EndNode="802">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1107" EndNode="1126">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="сотрудники" StartNode="86" EndNode="87">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Дата" StartNode="1" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

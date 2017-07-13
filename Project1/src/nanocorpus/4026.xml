@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>  Институт химии силикатов РАН алкоксисоединения, золь-гель системы, ксерогель, нанокомпозиционные материалы    <Node id="112"/>Наноматериалы<Node id="125"/> Неорганическая химия   Неорганический синтез силикатных и гибридных органо-неорганических микро- и нанокомпозиционных материалов и покрытий, обладающих технически ценными свойствами разработка научных основ неорганического синтеза, прежде всего методами золь-гель технологии, технически ценных, востребованных современной промышленностью материалов и покрытий                             Смирнова Ирина Витальевна , молодой специалист Тарасюк Елена Владимировна , молодой специалист, кандидат наук Хамова Тамара Владимировна , молодой специалист Хашковский Семен Васильевич , кандидат наук Цветкова Ирина Николаевна , молодой специалист Шилова Ольга Алексеевна , заведующая лабораторией, доцент, доктор наук Шорников Роман Сергеевич , аспирант 
+Методы и подходы, используемые в лаборатории:   
+ 
+ Синтез многокомпонентных силикатных и гибридных органо-неорганических золь-гель систем осуществляется на основе ряда гидролизующихся соединений (прекурсоров): алкоксисоединений (прежде всего тетраэтоксисилана), ортофосфорной кислоты, щелочных водорастворимых силикатов.  Для формирования ксерогелей и покрытий используются также гетерогенные золь-гель системы, получаемые на основе многокомпонентных золей и специальных наполнителей  Для изучения свойств золь-гель систем, состава и структуры, в том числе фрактальной, морфологии поверхности и других физико-химических свойств получаемых материалов и покрытий используются разнообразные методы исследования (вискозиметрия; термический анализ; оптическая, атомная, электронная просвечивающая и сканирующая микроскопия, малоугловое и широкоугловое рентгеновское рассеяние, инфракрасная спектроскопия, <Node id="1772"/>эллипсометрия<Node id="1785"/> и др.)  
+ 
+Разрабатанные материалы и покрытия внедрены в производство металлооксидных газовых <Node id="1880"/>сенсоров<Node id="1888"/>. В стадии НИОКР находятся разработки технологии получения электроизоляционных и диффузноотражающих покрытий, на стадии <Node id="2008"/>НИР<Node id="2011"/> – создание протонпроводящих мембран, флуоресцирующих и биостойких покрытий 
+      </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="1880" EndNode="1888">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2008" EndNode="2011">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Нир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="112" EndNode="125">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Эллипсометрия" StartNode="1772" EndNode="1785">
+</Annotation>
+<Annotation Id="16" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

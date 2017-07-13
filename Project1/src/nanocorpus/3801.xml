@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> с нанопочками ("nanobuds") получены в лаборатории МИФИ методом магнетронного напыления. Нанопочки - половинки <Node id="133"/>фуллеренов<Node id="143"/> на поверхности трубки, пустые или заполненые катализатором. 
+    
+ 
+        
+ 
+  
+ 
+                                         
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="133" EndNode="143">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+<Node id="2"/>1 декабря 2006 года<Node id="21"/> Фонд содействия развитию малых форм предприятий в научно-технической сфере намерен объявить очередной конкурс программы «СТАРТ».
+
+В связи со вступлением в силу ФЗ № 94 «О размещении заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд» при сохранении основных принципов в условиях конкурса предусмотрены значительные изменения. В первую очередь они касаются сроков и порядка его проведения.
+
+Конкурс будет объявлен <Node id="487"/>1 декабря 2006 года<Node id="506"/>. Сбор заявок будет проводиться <Node id="538"/>с 1 декабря 2006 года по 31 января 2007 года<Node id="582"/> в системе ОНЛАЙН. Экспертиза заявок, жюри и определение победителей будет проведена в течение <Node id="677"/>февраля 2007 года<Node id="694"/>.
+
+В связи с требованием ФЗ № 94 заполнения ряда принципиально новых документов для участников конкурса рекомендуем внимательно изучить все его положения.
+
+Объявление о начале проведения конкурса, его условиях и состав конкурсной документации будут опубликованы в газете «Конкурсные торги», на официальном сайте РФ для размещения информации о размещении заказов и на сайте Фонда.
+
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="538" EndNode="582">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="677" EndNode="694">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">февраля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="2" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="487" EndNode="506">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Дорогие друзья, коллеги, братья по перу и микроскопу! 
+ 
+Мы живем в разных странах, работаем в разных коллективах, но мы все равно вместе, потому что мы делаем нужное и важное дело – мы исследуем неведомое, почти непостижимое и можно даже сказать невидимое (за что нам безусловно зачтется)! 
+ 
+Так пусть же <Node id="309"/>следующий год<Node id="322"/> станет более насыщенным событиями, пусть не истощается наша фантазия, а идеи бьют ключом и воплощаются, воплощаются, воплощаются, в проекты, в статьи, в доклады, в железо, олово, никель, углерод, кремний, германий и т.д. по таблице <Node id="555"/>Менделеева<Node id="565"/>. Пусть не оскудеют наши спонсоры, а их мнения станут не такими критическими! 
+ 
+<Node id="646"/>С Новым годом<Node id="659"/>! Ура! 
+ 
+PS: свои поздравления и открытки присылайте на support@nanometer.ru, обязательно разместим. Можете также прийти ЛИЧНО (после <Node id="794"/>Нового Года<Node id="805"/>) на <Node id="810"/>день<Node id="814"/> открытых дверей ФНМ и поздравить со Старым <Node id="858"/>Новым Годом<Node id="869"/>... :-) 
+       </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="555" EndNode="565">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Менделеев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="810" EndNode="814">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="794" EndNode="805">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="646" EndNode="659">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="309" EndNode="322">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="858" EndNode="869">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

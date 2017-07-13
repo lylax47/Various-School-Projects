@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Мировая пищевая индустрия еще не готова к нанотехнологиямЭффекты, оказываемые на человеческий организм продукции, произведенной на основе нанотехнологий требуют дополнительного анализа, – считают специалисты Агентства Пищевых Стандартов Великобритании (АПСВ).
+
+По словам одного из руководителей АПСВ, профессора Майка Гэссона (Mike Gasson), ученые по-прежнему затрудняются ответить: какое воздействие <Node id="401"/>наночастицы<Node id="412"/> могут оказывать на пищеварительную систему человека и его самочувствие в целом. «Именно в связи с этим, – считает Гэссон, – перед началом активного использования нанотехнологий в пищевой промышленности, необходимо подвергнуть их дополнительному анализу.
+Из 27 стран-членов ЕС наибольшее внимание проблеме использования нанотехнологий в пищевой индустрии уделяет Великобритания. Ее ученые уже не <Node id="808"/>первый год<Node id="818"/> пытаются восполнить пробелы, касающиеся возможности использования <Node id="885"/>наночастиц<Node id="895"/> в пищевых продуктах.
+
+Предполагают, что со временем данные вещества могут стать востребованными для пищевых эмульсий и некоторых водорастворимых витаминов.
+<Node id="1052"/>http://foodnewstime.ru/…id-2265.htmlRegulation<Node id="1098"/> (EC) No. 258/97 (the ‹Novel Foods Regulation›)<Node id="1145"/>http://eur-lex.europa.eu/…/cgi/sga_doc?…!celexapi!prod!CELEXnumdoc&amp;lg=EN&amp;numdoc=31997R0258&amp;model=guichett<Node id="1250"/>
+<Node id="1251"/>Nanotechnologyhttp://www.food.gov.uk/…s/novel/nanoFood<Node id="1305"/> Standards <Node id="1316"/>Agencyhttp://www.food.gov.uk/Да<Node id="1347"/> уж, действительно. С продуктами мы «впускаем» все «посторонние» вещества внутрь организма, и потенциальный риск будет значительно выше, чем в случае наружного их употребления. Поэтому и контроль должен быть гораздо строже. Британцы понимают это и лидируют в этой области…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="401" EndNode="412">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1145" EndNode="1250">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1316" EndNode="1347">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="808" EndNode="818">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="885" EndNode="895">
+</Annotation>
+<Annotation Id="9" Type="Url" StartNode="1052" EndNode="1098">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1251" EndNode="1305">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>В Саудовской Аравии создадут центр нанотехнологийДубай, <Node id="56"/>6 декабря<Node id="65"/> – В Саудовской Аравии создадут центр нанотехнологий.Король <Node id="125"/>Абдулла<Node id="132"/> одобрил проект строительства нанотехнологического научно-исследовательского института (своего имени) площадью 2 млн кв. м. – Технопарка Эр-Рияда (Riyadh Techno-Valley) на территории университета им. короля Сауда (King Saud University campus). Строительство будет вестись по соглашению со шведским аэрокосмическим концерном Saab.
+
+Саудовское <Node id="474"/>правительство<Node id="487"/> выделило 30 млн риалов для найма крупных зарубежных ученых по передовым технологиям (включая Нобелевских лауреатов) для будущего центра, который одновременно станет центром подготовки национальных кадров. Сам университет выделил на эти цели 100 млн риалов. Центр станет важным шагом в научно-техническом развитии Саудовской Аравии и создании наукоемких отраслей экономики.
+
+Руководство университета уже подписало соглашения о сотрудничестве с целым рядом зарубежных институтов, университетов и исследовательских центров, включая Harvard University, Ohio State University, South Denmark University, Nano Technology Center in France, Indian Institute of Technology (IIT), New Mexico Uuniversity, Saab, Singapore State University, и рядом многонациональных компаний.
+Dr. Abdullah bin Abdulrahman Al-Othman – ректор университета
+В рамках этих усилий в различных провинциях королевства будут открыты 29 новых технических колледжей. В частности в промышленном городе Янбу будут построены инженерный колледж и институт компьютерных технологий, который станут филиалами университете Тайба в Медине.
+
+В северном городе Араре откроются колледжи прикладной медицины, инженерии и медицинский. Информативный колледж откроется в городе Рафаа. Пять новых колледжей будут выстроены при новом университете в Наджране. В провинции Эль-Хардж к югу от Эр-Рияда будут созданы зубоврачебный, фармакологический и научный колледжи.
+<Node id="1896"/>http://www.russianhome.com/…932852.shtmlRiyadh<Node id="1942"/> Techno-Valley gives KSU World Classhttp://<Node id="1985"/>www.saudigazette.com.sa/index.php?…King<Node id="2024"/> Saud Universityhttp://<Node id="2047"/>www.ksu.edu.sa/…default.aspxНу<Node id="2077"/> вот, и Саудовская Аравия не хочет отставать от остального мира в этой перспективной области. С учётом тех огромных ресурсов, которыми эта страна располагает, с учётом того, что она может позволить себе всё самое лучшее, самое передовое, не следует удивляться, если «вдруг» она вырвется в ряды лидеров… Ведь главное – это фактор времени. А многие в нашей стране ведут себя так, как будто у них в запасе ещё по крайней мере ещё 2–<Node id="2506"/>3 пятилетки<Node id="2517"/>…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="56" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="474" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">правительство</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="2047" EndNode="2077">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1896" EndNode="1942">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1985" EndNode="2024">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="2506" EndNode="2517">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="125" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Абдулла</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

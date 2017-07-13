@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Более 120 специалистов из России, Европы и Японии обсудят в Екатеринбурге разработки в сфере нанотехнологийЕКАТЕРИНБУРГ, <Node id="121"/>25 сентября<Node id="132"/> – Ученые из России, Европы и Японии обсудят разработки в сфере нанотехнологий на конференции, которая пройдет в Екатеринбурге <Node id="259"/>с 14 по 18 октября<Node id="277"/>.Валерий Чарушин
+Как сообщил сегодня корр. ИТАР-ТАСС председатель Уральского отделения Российской академии наук (УрО РАН) Валерий Чарушин<Node id="414"/>,<Node id="415"/> конференция пройдет на базе Института физики металлов и Института органического синтеза УрО РАН. В Екатеринбург съедутся более 120 специалистов из России, Японии, Австрии, Германии.
+ 
+«<Node id="601"/>На конференции будут обсуждаться проблемы спинтроники – эта область науки напрямую относится к нанотехнологиям. Она закладывает основы электроники, систем управления для будущего. Речь идет о том, чтобы записывать информацию всего на одну молекулу», – пояснил Валерий Чарушин<Node id="876"/>.
+ 
+Особенно представительной будет японская делегация, совместно с которой будет проведен отдельный семинар.
+ 
+«В Японии спинтроника интенсивно развивается, не в последнюю очередь благодаря тому, что эта страна является лидером в области производства электронной техники», – добавил председатель УрО РАН.
+ <Node id="1183"/>http://www.itartass.ur.ru<Node id="1208"/>/news/?…Да, уральцы славятся не только своей промышленностью, но также и своей наукой. Так что наверняка будет интересно посмотреть, чего сумели достичь учёные в разных странах, каково современное состояние и перспективы развития той же спинтроники в разных странах. Желаем успеха организаторам и участникам конференции!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="автор" StartNode="601" EndNode="876">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="121" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="259" EndNode="277">
+</Annotation>
+<Annotation Id="3" Type="сотрудники" StartNode="414" EndNode="415">
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1183" EndNode="1208">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="414" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="высказывания_заявления" StartNode="601" EndNode="876">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Закон о корпорации нанотехнологий будет принят до конца весенней сессии Госдумы, а программа развития судостроения – не позже <Node id="126"/>сентября<Node id="134"/> – Б.Грызлов
+Председатель Госдумы <Node id="168"/>Борис Грызлов<Node id="181"/> <Node id="182"/>пообещал, что закон о корпорации нанотехнологий будет принят до конца весенней сессии, а программа развития судостроения – не позже <Node id="314"/>сентября<Node id="322"/>.
+Борис Грызлов 
+«<Node id="340"/>Закон о корпорации нанотехнологий до конца весенней сессии примем безусловно», – сказал <Node id="428"/>Б.Грызлов<Node id="437"/> на встрече депутатов «Единой России» с президентом РФ Владимиром Путиным<Node id="510"/>.
+ 
+Б.Грызлов посетовал, передает ИТАР-ТАСС, что «до сих пор правительство не разработало программу развития судостроения».
+ 
+«Задача – разработать не позже <Node id="667"/>сентября<Node id="675"/> <Node id="676"/>текущего года<Node id="689"/>», – подчеркнул он.
+ 
+<Node id="711"/>По словам Б.Грызлова, в <Node id="735"/>ближайшие три года<Node id="753"/> существенно возрастут ассигнования на высокотехнологичные отрасли<Node id="819"/>. В качестве примера он привел атомную энергетику, на которую в <Node id="883"/>2007 г<Node id="889"/> из бюджета выделяется <Node id="912"/>18 млрд руб<Node id="923"/>, а в 2008, <Node id="935"/>2009 и 2010 гг<Node id="949"/> будет выделено <Node id="965"/>61 млрд руб<Node id="976"/>, <Node id="978"/>101 млрд руб<Node id="990"/> и <Node id="993"/>112 млрд руб<Node id="1005"/> соответственно.
+ 
+«У нас появились отечественные супер-компьютеры, которые входят в сотню самых мощных в мире», – порадовался Б.Грызлов.
+ 
+Он также обещал, что в <Node id="1168"/>ближайшие три с половиной года<Node id="1198"/> общая сумма ассигнований на проект президентской библиотеки составит <Node id="1268"/>5 млрд руб.<Node id="1279"/>
+ 
+«Очень важны усилия по развитию дорожное сети, строительство в расчете на 1 км стало дешевле, до недавних пор эта отрасль была одна из самых коррупционных, но через систему прозрачных тендеров удалось удешевить строительство», – сказал спикер.
+ 
+После встречи <Node id="1542"/>Б.Грызлов сообщил журналистам, что с главой государства обсуждался «план стратегического развития страны<Node id="1646"/>».
+ 
+«<Node id="1652"/>Главная идея, которую выносит "Единая Россия», – обеспечить преемственность курса президента, и эта задача лежит на «Единой России»<Node id="1783"/>, – отметил Б.Грызлов<Node id="1804"/>.
+ 
+.................
+<Node id="1826"/>http://www.prime-tass.ru/news/show.asp?…Почему-то<Node id="1875"/> сразу же вспомнилась известное присловье, что, дескать, у нас на Руси «две беды: дураки и дороги»… Ну, с дорогами товарищ спикер обещал разобраться. Неужели же под «дураками» он имел в виду весь комплекс работ по нанотехнологиям?… ;-))) Но если говорить серьёзно, то вызывает полное удовлетворение тот факт, что законопроект чётко проходит положенные ему процедуры и что, по словам тов. спикера, он «будет принят до конца весенней сессии Госдумы» безусловно… Как говорится, дай-то бог!…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="667" EndNode="675">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="высказывания_заявления" StartNode="340" EndNode="437">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="314" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="168" EndNode="322">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="735" EndNode="753">
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="181" EndNode="182">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="встречи_и_переговоры" StartNode="428" EndNode="510">
+</Annotation>
+<Annotation Id="11" Type="темы" StartNode="1652" EndNode="1783">
+</Annotation>
+<Annotation Id="12" Type="Деньги" StartNode="993" EndNode="1005">
+</Annotation>
+<Annotation Id="13" Type="работает" StartNode="181" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">председатель</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="883" EndNode="889">
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="упоминается" StartNode="168" EndNode="1804">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="1268" EndNode="1279">
+</Annotation>
+<Annotation Id="19" Type="цитаты" StartNode="1652" EndNode="1783">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1168" EndNode="1198">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="1652" EndNode="1804">
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="935" EndNode="949">
+</Annotation>
+<Annotation Id="22" Type="автор" StartNode="711" EndNode="819">
+</Annotation>
+<Annotation Id="25" Type="темы" StartNode="1652" EndNode="1783">
+</Annotation>
+<Annotation Id="24" Type="Период_времени" StartNode="676" EndNode="689">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="упоминает" StartNode="168" EndNode="1804">
+</Annotation>
+<Annotation Id="29" Type="высказывания_заявления" StartNode="168" EndNode="322">
+</Annotation>
+<Annotation Id="28" Type="упоминает" StartNode="168" EndNode="1804">
+</Annotation>
+<Annotation Id="31" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="30" Type="автор" StartNode="1652" EndNode="1804">
+</Annotation>
+<Annotation Id="34" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="35" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="32" Type="Url" StartNode="1826" EndNode="1875">
+</Annotation>
+<Annotation Id="33" Type="высказывания_заявления" StartNode="711" EndNode="819">
+</Annotation>
+<Annotation Id="38" Type="Деньги" StartNode="978" EndNode="990">
+</Annotation>
+<Annotation Id="39" Type="Деньги" StartNode="912" EndNode="923">
+</Annotation>
+<Annotation Id="36" Type="цитаты" StartNode="1652" EndNode="1783">
+</Annotation>
+<Annotation Id="37" Type="высказывания_заявления" StartNode="1542" EndNode="1646">
+</Annotation>
+<Annotation Id="42" Type="Деньги" StartNode="965" EndNode="976">
+</Annotation>
+<Annotation Id="43" Type="упоминается" StartNode="168" EndNode="1804">
+</Annotation>
+<Annotation Id="40" Type="автор" StartNode="340" EndNode="437">
+</Annotation>
+<Annotation Id="41" Type="автор" StartNode="1542" EndNode="1646">
+</Annotation>
+<Annotation Id="44" Type="Дата" StartNode="126" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

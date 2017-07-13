@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Дмитрий Лисенков <Node id="17"/>назначен<Node id="25"/> на должность управляющего директора ГК «Роснанотех»Расширился состав управляющих директоров Российской корпорации нанотехнологий: на должность управляющего директора ГК «Роснанотех» <Node id="208"/>назначен<Node id="216"/> Дмитрий Лисенков.
+ Дмитрий Лисенков <Node id="253"/>родился 23 мая <Node id="268"/>1976<Node id="272"/> года<Node id="277"/> в г. Ленинграде. В <Node id="297"/>1998 году<Node id="306"/> с отличием окончил Санкт-Петербургский государственный университет экономики и финансов по специализации корпоративные финансы. Бакалавр и магистр экономики. В <Node id="467"/>2002 году<Node id="476"/> с отличием окончил Zicklin School of Business, City University of New York (Master of Business Administration, MBA по специализации финансы и инвестиции). 
+<Node id="633"/>С 2003 года<Node id="644"/> работал сначала в качестве инвестиционного офицера, а позднее – управляющего и партнера компании «РТФ Менеджмент», руководил офисом в Санкт-Петербурге и занимался развитием портфельных компаний. В <Node id="842"/>2007 – 2008 годах<Node id="859"/> – один из основателей и инвестиционный директор компании «Биопроцесс Кэпитал Партнерс» (фонд венчурных инвестиций – Биопроцесс Кэпитал Венчурс). Участвовал в разработке концепции фонда, занимался привлечением инвесторов, подбором компаний для инвестиций и подготовкой сделок.
+ Является экспертом <Node id="1156"/>Роснауки<Node id="1164"/>, ежегодного Венчурного форума и Венчурной ярмарки, ежегодного Конкурса русских инноваций (журнал «Эксперт»). Консультировал Правительство Санкт-Петербурга по вопросам инновационной политики города. <Node id="1363"/>http://www.rusnano.com<Node id="1385"/>/…ication.aspx?…Ну, я смотрю, РОСНАНО стягивает у себя экономическую элиту страны. Ну-ну… Хорошо бы было, если бы это пошлО на пользу развитию отечественной наноиндустрии… А так, почему бы и нет?..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="633" EndNode="644">
+</Annotation>
+<Annotation Id="1" Type="работает" StartNode="17" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">управляющий директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="268" EndNode="277">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="842" EndNode="859">
+</Annotation>
+<Annotation Id="4" Type="Url" StartNode="1363" EndNode="1385">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="297" EndNode="306">
+</Annotation>
+<Annotation Id="6" Type="Властная_Структура" StartNode="1156" EndNode="1164">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Кадровые_перестановки" StartNode="17" EndNode="25">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="467" EndNode="476">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Назначения_Увольнения" StartNode="208" EndNode="216">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Кадровые_перестановки" StartNode="208" EndNode="216">
+</Annotation>
+<Annotation Id="14" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Дата_рождения" StartNode="253" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Назначения_Увольнения" StartNode="17" EndNode="25">
+</Annotation>
+<Annotation Id="16" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Год" StartNode="467" EndNode="476">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="297" EndNode="306">
+</Annotation>
+<Annotation Id="20" Type="сотрудники" StartNode="17" EndNode="25">
+</Annotation>
+<Annotation Id="22" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

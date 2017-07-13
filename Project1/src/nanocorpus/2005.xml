@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>1 июля с.г.<Node id="12"/> на торжественной церемонии Intel Corporation объявила об открытии полупроводниковой фабрики (Fab 28) в израильском городе Kiryat Gat, в строительство и оборудование которой Intel инвестировала <Node id="206"/>3,5 млрд. долл.<Node id="221"/>
+
+Это – третья фабрика, основанная в Израиле. Есть еще старая Fab 18 и Fab 1, учрежденная Numonyx Inc. (компания, основанная совместно Intel и STMicroelectronics в <Node id="385"/>марте 2008 г.<Node id="398"/>). Fab 28 (с более чем 2000 штатом) будет производить процессоры по 45-нм технологии, выпуская ежедневно кремниевые подложки общей стоимостью <Node id="540"/>10 млн. долл.<Node id="553"/>, что увеличит объем годового валового продукта Израиля на <Node id="612"/>2 %<Node id="615"/>. Экспорт продукции, выпущенной заводами Intel в Израиле в <Node id="674"/>2007 г.<Node id="681"/>, составил <Node id="692"/>1,54 млрд.долл.<Node id="707"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="385" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марте</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="540" EndNode="553">
+</Annotation>
+<Annotation Id="2" Type="Деньги" StartNode="692" EndNode="707">
+</Annotation>
+<Annotation Id="3" Type="Год" StartNode="674" EndNode="681">
+</Annotation>
+<Annotation Id="4" Type="Процент" StartNode="612" EndNode="615">
+</Annotation>
+<Annotation Id="5" Type="Деньги" StartNode="206" EndNode="221">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

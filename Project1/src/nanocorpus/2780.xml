@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Совсем недавно мы сообщали, что <Node id="34"/>наночастицы<Node id="45"/>, в частности, <Node id="60"/>фуллерены<Node id="69"/>, могут стать причиной раковых заболеваний. Однако, как это часто бывает, сама причина болезни может стать и лекарством от нее. Не так давно японские ученые сообщали, что нашли лекарство против рака на основе <Node id="278"/>фуллеренов<Node id="288"/>. Несомненно, это сообщение вызывает неподдельный интерес в силу той значимости, которую имеют любые успехи в борьбе против рака - чумы <Node id="424"/>21 века<Node id="431"/>. В тоже время, работы в этом направлении активно проводятся и в России, часто опережая результаты зарубежных коллег. 
+ 
+ 
+ 
+В частности, группа ученых из Казани и Черноголовки сообщает о синтезе новых производных <Node id="645"/>фуллеренов<Node id="655"/> с фармакофорными группами. В работе, опубликованной <Node id="708"/>21 марта 2007г.<Node id="723"/> [1], приведены данные о синтезе, рентгеноструктурном анализе и биологической активности этих веществ. Установлено, что бис-нитроксидный малонатный метанофуллерен при кристаллизации образует кристаллы с сольватными молекулами хлороформа. При этом 2 молекулы CHCl3 связаны с кислородами нитроксидных фрагментов водородной связью. Впервые установлено, что нитроксидные метанофуллерены проявляют в комбинации с препаратом циклофосфамид (ЦФ) противораковую активность против лейкемии Р-388, хотя введение по отдельности в тех же дозах этих веществ положительного эффекта не дает. 
+ 
+  
+Рис. Влияние МФП и МП на эффективность комбинированной терапии лейкемии P388: 
+1- ЦФ, 30 мг/кг; 
+2- МФП, 200 мг/кг; 
+3- МП, 50 мг/кг; 
+4- ЦФ+МП, те же дозы 
+5- ЦФ+МФП, те же дозы 
+ 
+Где МП - этомалонатный бис-нитроксид, то есть не содержащий фуллереновой оболочки, и являющийся предшественником соединения МФП - биснитроксид малонатного метанофуллерена. 
+ 
+На графике показано, что при введении указанных доз <Node id="1714"/>около 70%<Node id="1723"/> животных, обработанных комбинацией ЦФ+МФП при контроле в течении <Node id="1789"/>60 дней<Node id="1796"/> выжили , при этом все симптомы лейкемии у животных исчезают. 
+ 
+[1] V.P. Gubskaya, L.Sh.Berezhnaya, A.T.Gubaidullin, I.I.Faingold, R.A.Kotelnikova, N.P.Konovalova, V.I.Morozov, I.A.Litvinov, I.A.Nuretdinov // Synthesis, structure and biological activity of nitroxide malonate methanofullerenes Organic and Biomolecular Chemistry, 2007,5, 976-981
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="708" EndNode="723">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="424" EndNode="431">
+</Annotation>
+<Annotation Id="2" Type="Фуллерен" StartNode="645" EndNode="655">
+</Annotation>
+<Annotation Id="3" Type="Фуллерен" StartNode="60" EndNode="69">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="34" EndNode="45">
+</Annotation>
+<Annotation Id="5" Type="Фуллерен" StartNode="278" EndNode="288">
+</Annotation>
+<Annotation Id="6" Type="Процент" StartNode="1714" EndNode="1723">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="1789" EndNode="1796">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

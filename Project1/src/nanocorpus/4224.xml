@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На Урале расширяют подготовку специалистов для наноиндустрииУральский госуниверситет примет активное участие в создании регионального образовательного кластера Свердловской области по подготовке и переподготовке квалифицированных кадров для наноиндустрии.
+ В реализации этого проекта также примут участие УГТУ-УПИ и УрО РАН, сообщает ИТАР-ТАСС. Таково одно из решений вновь созданной <Node id="384"/>координационной комиссии по развитию нанотехнологий<Node id="435"/>, первое заседание которой прошло в Екатеринбурге. Создание регионального образовательного <Node id="526"/>нанокластера<Node id="538"/> является важной частью программы реализации Соглашения о сотрудничестве в сфере нанотехнологий, которое подписали в <Node id="655"/>июле 2008 года<Node id="669"/> правительство Свердловской области и госкорпорация «Роснанотех». Кроме того, Соглашение предусматривает создание фонда венчурных инвестиций в малые предприятия в сфере нанотехнологий, а также выделение правительственных субсидий научно-исследовательским проектам данного направления.
+ По словам проректора Уральского госуниверситета по инновационной деятельности Владимира Кружаева, ещё в <Node id="1059"/>2006 году<Node id="1068"/> в УрГУ было открыто направление бакалаврата «Нанотехнология», где готовят профильных специалистов этой сферы. 
+Разработки уральских учёных высоко оценены научным сообществом. Например, патенты учёных НИИ физики и прикладной математики УрГУ в области нанокристаллического сплава <Node id="1347"/>весной<Node id="1353"/> получили золотую медаль XXXVI Международного салона изобретений в Женеве. В рамках инновационной образовательной программы за <Node id="1480"/>два года<Node id="1488"/> только на совершенствование учебной материально-технической базы для обучения в сфере нанотехнологий в УрГУ было выделено <Node id="1611"/>более 200 миллионов рублей<Node id="1637"/>».
+ В рамках инновационной образовательной программы в УрГУ <Node id="1697"/>12 декабря 2007 года<Node id="1717"/> был открыт Центр коллективного пользования «Современные нанотехнологии». На совершенствование учебной материально-технической базы было выделено <Node id="1863"/>более 200 миллионов рублей<Node id="1889"/>. <Node id="1891"/>http://www.strf.ru/…ization.aspx?…Ну<Node id="1927"/> что ж, к этому дело шло, и для этого предпринимались соответствующие действия и меры. Теперь вот завершён очередной этап, когда, наконец, количество необходимых изменений перешло в новое качество. Будем надеяться, что эти добрые перемены будут множиться и приводить к новым переменам. Поздравляем и желаем новых успехов на этом пути!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1059" EndNode="1068">
+</Annotation>
+<Annotation Id="1" Type="Нанокластер" StartNode="526" EndNode="538">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="384" EndNode="435">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">координационной комиссии по развитию нанотехнологий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1891" EndNode="1927">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1697" EndNode="1717">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабря</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="1611" EndNode="1637">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1480" EndNode="1488">
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1863" EndNode="1889">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Дата" StartNode="655" EndNode="669">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Год" StartNode="1059" EndNode="1068">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1347" EndNode="1353">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

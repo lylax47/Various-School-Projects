@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Завтра на <Node id="10"/>Chelyabinsk.ru<Node id="24"/> онлайн-конференция заместителя <Node id="56"/>Чубайса<Node id="63"/> «по нанотехнологиям»<Node id="84"/>1 октября<Node id="93"/> с 12 <Node id="99"/>до 13 часов<Node id="110"/> на сайте <Node id="120"/>Chelyabinsk.ru<Node id="134"/> пройдет онлайн-конференция управляющего директора Российской корпорации нанотехнологий Константина Деметриу<Node id="242"/>,<Node id="243"/> который приехал в наш город по приглашению Челябинского госуниверситета.
+ Что такое нанотехнологии? Почему вокруг них сегодня такой ажиотаж? Почему государство тратит огромные деньги на развитие этого направления вместо того, чтобы, например, повысить зарплату бюджетникам? Как нанотехнологии могут использоваться в быту? Смогут ли нанотехнологии облегчить жизнь простых россиян? Что делают челябинские ученые для развития этого направления? Эти и многие другие вопросы вы можете задать заместителю Анатолия Чубайса в корпорации Роснанотех уже сейчас.
+Петр <Node id="801"/>Лукьяновhttp://chelyabinsk.ru/…e/14104.htmlОтличную<Node id="852"/> форму популяризации нанотехнологии, её возможностей и достижений – с привязкой к местным реалиям – выбрали челябинские коллеги. Разумеется, эта он-лайн трансляция будет ориентирована в первую очередь на «продвинутую» молодёжь, имеющую доступ в Интернет. И это – тоже плюс!.. Посмотрим, какой будет результат. Пока же желаем челябинским коллегам успехов в этом проекте и новых достижений в популяризации знаний о нанотехнологии и её достижениях!.. Да, и не забудьте, что в Челябинске время «бежит» на <Node id="1353"/>ДВА ЧАСА<Node id="1361"/> быстрее, чем в Москве!..;-))) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="работает" StartNode="242" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">управляющий директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="10" EndNode="24">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="99" EndNode="110">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="56" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Чубайс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="801" EndNode="852">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1353" EndNode="1361">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="242" EndNode="243">
+</Annotation>
+<Annotation Id="10" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Url" StartNode="120" EndNode="134">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="84" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

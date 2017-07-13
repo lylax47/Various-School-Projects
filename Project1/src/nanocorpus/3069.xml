@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Dear Colleague, 
+ 
+You are selected to receive this message in the genuine belief that it would be of interest for you. 
+ 
+The International Conference on Physics, Chemistry and Application of Nanostructures "Nanomeeting 2009" will take place in Minsk, May 26-29, 2009. The following traditional areas are covered: 
+- physics of nanostructures 
+- chemistry of nanostructures 
+- nanotechnology 
+- spintronics 
+- quantum computing 
+- bioinformatics 
+- nanosize optical and electronic devices. 
+ 
+More details can be found at 
+<Node id="526"/>http://www.nanomeeting.org<Node id="552"/> 
+and received by e-mail: <Node id="578"/>nanomeeting@nanomeeting.org<Node id="605"/> 
+ 
+ 
+We are looking to see you in Minsk. 
+ 
+Sincerely, 
+ 
+Co-Chairmen of Nanomeeting-2009 
+Professor Victor E. Borisenko 
+Professor Francois Arnaud dТAvitaya 
+ 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Электронная_почта" StartNode="578" EndNode="605">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="526" EndNode="552">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

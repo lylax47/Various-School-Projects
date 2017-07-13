@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>Наносенсоры<Node id="12"/>, обладающие чрезвычайно высокой чувствительностью, созданы группой сотрудников пяти различных отделений Йельского университета (Yale University) под руководством профессора Марка Рида (Mark A. Reed). Интересно, что эти устройства учёные могут делать по простой технологии и довольно быстро. 
+ 
+ <Node id="308"/>Рид<Node id="311"/> вместе с коллегами предложил покрывать нанонити толщиной 30 нанометров различными биологическими молекулами, способными прикрепляться к определённым белкам. Эти белки детектор должен получать из раствора c веществами, которые нужно обнаружить. 
+ 
+ Принцип работы устройства несложен. Нанонить, по которой течёт ток, сделана из полупроводникового материала. В процессе накопления на нанонити белков происходит уменьшение тока, которое можно зарегистрировать. По сравнению профессора <Node id="794"/>Рида<Node id="798"/>, похожий эффект происходит в ситуации, когда кто-то наступает на тонкий садовый шланг, тем самым перекрывая поток воды из него. 
+ 
+ Устройство за <Node id="945"/>несколько секунд<Node id="961"/> способно распознавать наличие всего 30 тысяч белковых молекул, растворённых в воде. <Node id="1046"/>Рид<Node id="1049"/> утверждает, что этот <Node id="1071"/>наносенсор<Node id="1081"/> по быстродействию сравним с другими аналогичными устройствами<Node id="1143"/>. Также прибор способен заметить работу иммунных клеток по кислоте, выделяющейся ими при выработке антител. 
+ 
+ Своё устройство учёные изготовили из высококачественного диэлектрического материала, покрытого тонким слоем кремния. Для этого они использовали стандартную технологию. 
+ 
+ Исследователи применяли шаблон, через который на диэлектрическую подложку, покрытую кремнием, распыляли растворитель, которым вытравливали кремний. <Node id="1575"/>Затем<Node id="1580"/> убирали шаблон, и на подложке оставались кремниевые линии. 
+ 
+ Однако толщина таких линий, как правило, относительно большая. Чтобы довести её до наноразмеров, экспериментаторы просто убрали шаблон, но процесс вытравливания не стали останавливать. Используя качественную подложку и медленно действующий растворитель, учёные смогли сделать линии, которые по ширине представляют собой не что иное, как нанонити. 
+ 
+ <Node id="1995"/>По словам Марка Рида, такая технология очень проста, и устройства, сделанные на её основе, должны стоить не дороже обычной электроники<Node id="2129"/>. В ответ на вопрос о том, когда аппаратура на основе этого <Node id="2189"/>сенсора<Node id="2196"/> будет внедрена на практике, <Node id="2225"/>Рид<Node id="2228"/> сообщил, что очень хотел бы, чтобы это случилось при его жизни<Node id="2291"/>. 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="1046" EndNode="1143">
+</Annotation>
+<Annotation Id="5" Type="автор" StartNode="2225" EndNode="2291">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="945" EndNode="961">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="автор" StartNode="1995" EndNode="2129">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="1575" EndNode="1580">
+</Annotation>
+<Annotation Id="10" Type="автор" StartNode="1046" EndNode="1143">
+</Annotation>
+<Annotation Id="11" Type="высказывания_заявления" StartNode="1995" EndNode="2129">
+</Annotation>
+<Annotation Id="12" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Сенсор" StartNode="2189" EndNode="2196">
+</Annotation>
+<Annotation Id="14" Type="Сенсор" StartNode="1" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Персона" StartNode="1046" EndNode="1049">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рид</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="308" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рид</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Персона" StartNode="794" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рид</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Сенсор" StartNode="1071" EndNode="1081">
+</Annotation>
+<Annotation Id="20" Type="высказывания_заявления" StartNode="2225" EndNode="2291">
+</Annotation>
+<Annotation Id="22" Type="Персона" StartNode="2225" EndNode="2228">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Рид</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Искусственные мышцы из нанотрубокСпециалисты Калифорнийского университета в Лос-Анджелесе (University of California at Los Angeles, UCLA) создали искусственные мышцы из <Node id="169"/>углеродных <Node id="180"/>нанотрубок<Node id="190"/>, способные самоисцеляться и вырабатывать электричество, сообщает Discovery News. Изобретение описано в журнале Advanced Materials.
+
+Прикладываемый к ней электрический ток может растягивать такую мышцу в три раза. Во время сжатия <Node id="420"/>нанотрубки<Node id="430"/> меняют свое положение, и происходит генерация электричества, которое может быть использовано для последующего расширения или накапливаться в аккумуляторных батареях. Устройство сберегает до <Node id="621"/>70%<Node id="624"/> полученной энергии.
+
+Ранее искусственные мышцы создавались из быстро изнашивающихся материалов. В новом изобретении, если несколько <Node id="757"/>углеродных <Node id="768"/>нанотрубок<Node id="778"/> повреждаются, область вокруг них уплотняется и теряет свои проводящие свойства, останавливая таким образом распространение области повреждения.
+
+По словам изобретателей, с помощью этой технологии можно подзаряжать ходячих роботов или устройства типа iPod. Некоторые ученые полагают, что она также поможет накапливать энергию ветра.
+
+По мнению американских и французских ученых, информация о <Node id="1170"/>наночастицах<Node id="1182"/> минералов, содержащихся в воздухе, почве и воде, выведет науку в другое измерение понимания происходящего на планете.
+Между тем, британские ученые высказывают и предостережения: они считают нанотехнологии одной из самых серьезных угроз для окружающей среды, ведь многие <Node id="1453"/>наночастицы<Node id="1464"/> могут оказаться токсичными.
+<Node id="1493"/>http://www.vokrugsveta.ru/news/3591/Ранее<Node id="1534"/> уже сообщалось, что Специалисты Университета штата Северная Каролина объявили о разработке нового полимера, способного выполнять функции мышц <Node id="1677"/>(http://www.nanonewsnet.ru/…ktsii-myshts).<Node id="1719"/> Теперь вот разработаны искусственные мышцы из <Node id="1766"/>углеродных <Node id="1777"/>нанотрубок<Node id="1787"/>. Чем больше будет таких вот разработок, тем больше будет возможностей у человека изготавливать, к примеру, протезы для инвалидов. А уж какой вариант «победит», это, как и предполагал Чарльз Дарвин, «пусть победит сильнейший»…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1493" EndNode="1534">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1453" EndNode="1464">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Углеродная+нанотрубка" StartNode="1766" EndNode="1787">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="420" EndNode="430">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1777" EndNode="1787">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="180" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Наночастица" StartNode="1170" EndNode="1182">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Углеродная+нанотрубка" StartNode="757" EndNode="778">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Процент" StartNode="621" EndNode="624">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1677" EndNode="1719">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="169" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="768" EndNode="778">
+</Annotation>
+<Annotation Id="18" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

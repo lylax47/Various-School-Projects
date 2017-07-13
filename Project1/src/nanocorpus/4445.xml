@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Проект по Исследованию Нанотехнологий при Центре имени <Node id="56"/>Вильсона<Node id="64"/> (Wilson Center's Project on Emerging Nanotechnologies) сообщил, что государства Европы тратят вдвое больше средств, чем США, на изучение потенциальных рисков, связанных с использованием нанотехнологий.
+
+По данным Проекта, в <Node id="289"/>2006 году<Node id="298"/> государственные инвестиции США на эти цели (в рамках Национальной Нанотехнологической ИнициативыNational Nanotechnology Initiative) составили <Node id="441"/>$13 млн.<Node id="449"/> — в том же <Node id="461"/>году<Node id="465"/> государства Европы выделили на эти цели <Node id="506"/>почти $24 млн.<Node id="520"/> В целом, федеральный бюджет США израсходовал на нанотехнологические исследования <Node id="602"/>более $1.4 млрд.<Node id="618"/>, <Node id="620"/>менее 3%<Node id="628"/> из них были направлены на то, чтобы понять: каким образом бурно развивающиеся нанотехнологии способны повлиять на здоровье человека, окружающую среду и пр.
+
+Показательно, что в <Node id="806"/>2008 году<Node id="815"/> Агентство по Защите Окружающей Среды СШАEnvironmental Protection Agency оштрафовало американскую компанию IOGEAR за продажу нанопестицидов, не прошедших проверку государственными природоохранными органами.
+
+Ныне в <Node id="1030"/>Комитете по Науке Палаты Представителей Конгресса<Node id="1079"/> СШАHouse of Representatives Science Committee обсуждается поправка к закону, согласно которой <Node id="1174"/>не менее 10%<Node id="1186"/> федеральных средств, выделяемых для нанотехнологических исследований, должны тратиться на изучение рисков, связанных с нанотехнологиями.
+
+По прогнозу консалтинговой фирмы Lux Research, к <Node id="1374"/>2014 году<Node id="1383"/> <Node id="1384"/>примерно 15%<Node id="1396"/> товаров, произведенных в мире (на общую сумму в <Node id="1445"/>$2.6<Node id="1449"/> трлн.), будут изготавливаться с применением нанотехнологий.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="461" EndNode="465">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="602" EndNode="618">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="1030" EndNode="1079">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Комитете по Науке Палаты Представителей Конгресса</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1374" EndNode="1383">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="289" EndNode="298">
+</Annotation>
+<Annotation Id="5" Type="Процент" StartNode="1174" EndNode="1186">
+</Annotation>
+<Annotation Id="6" Type="Год" StartNode="806" EndNode="815">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="506" EndNode="520">
+</Annotation>
+<Annotation Id="8" Type="Деньги" StartNode="441" EndNode="449">
+</Annotation>
+<Annotation Id="9" Type="Персона" StartNode="56" EndNode="64">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вильсон</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Деньги" StartNode="1445" EndNode="1449">
+</Annotation>
+<Annotation Id="11" Type="Год" StartNode="1374" EndNode="1383">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="806" EndNode="815">
+</Annotation>
+<Annotation Id="13" Type="Процент" StartNode="620" EndNode="628">
+</Annotation>
+<Annotation Id="14" Type="Год" StartNode="289" EndNode="298">
+</Annotation>
+<Annotation Id="15" Type="Процент" StartNode="1384" EndNode="1396">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+"Как мы и предполагали, с наступлением <Node id="41"/>весны<Node id="46"/> отечественное нанополе заметно оживилось. То, что сейчас происходит, можно сравнить с посевной кампанией. Щедро разбросанные по стране зерна в виде нанотехнологических лабораторий, научно-образовательных центров и даже новых производств раньше или позже должны дать урожай. Насколько богатым он будет? Это зависит от множества факторов и от множества людей, в том числе и от ученых. Что могут они предложить нарождающемуся нанорынку сегодня и что предложат завтра? Об этом и многом другом рассказывает наш “Наноскоп”."
+ Файлы "Наноскопа" прикреплены в виде файлов ниже...  Публикуется с разрешения редакции газеты "Поиск".           </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="41" EndNode="46">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

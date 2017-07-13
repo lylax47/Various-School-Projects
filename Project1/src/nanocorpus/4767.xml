@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Химики из США разработали <Node id="27"/>сенсор<Node id="33"/>, который необратимо меняет окраску под воздействием высокой влажности. 
+ 
+Молекулы многих красителей проявляют разные свойства в изолированном и агрегированном состояниях. Такие молекулы могут быть разделены полимерной матрицей при быстром охлаждении жидкой смеси до температуры ниже температуры стеклования полимера. Если нагреть полимер выше этой температуры, молекулы красителя агрегируются и материал изменит цвет. 
+ 
+Для изготовления <Node id="473"/>сенсора<Node id="480"/> влажности необходимо взять полимер, температура стеклования которого изменяется при контакте с водой. Исследователи использовали полиамид, у которого температура перехода падает от 50 до 0 градусов <Node id="679"/>Цельсия<Node id="686"/> под действием воды, а зеленый <Node id="717"/>сенсор<Node id="723"/> необратимо становится оранжевым. 
+ 
+Такой <Node id="766"/>сенсор<Node id="772"/> может быть недорогим решением для многих задач. Например, с его помощью можно однозначно определить, вступал ли какой-либо продукт или устройство в контакт с водой в процессе хранения или эксплуатации. 
+ 
+Теперь исследователи разрабатывают подобные <Node id="1022"/>сенсоры<Node id="1029"/>, реагирующие на другие вещества. 
+ 
+Работа была опубликована в Journal of Materials Chemistry. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="27" EndNode="33">
+</Annotation>
+<Annotation Id="1" Type="Сенсор" StartNode="766" EndNode="772">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="473" EndNode="480">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="679" EndNode="686">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ц.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Цельсий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Сенсор" StartNode="717" EndNode="723">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="1022" EndNode="1029">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

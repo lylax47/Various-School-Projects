@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Исследовательский Совет по Инженерным и Физическим Наукам Великобритании предоставил профессору <Node id="97"/>Филипу Мориарти<Node id="112"/> грант на реализацию предложенного Робертом Фрайтасом и Ральфом Мерклом набора инструментов для позиционного механосинтеза <Node id="235"/>наноструктур<Node id="247"/>.
+
+Позиционный механосинтез алмазоидных <Node id="287"/>наноструктур<Node id="299"/> является ключевым понятием в оригинальной концепции молекулярных нанотехнологий, предложенной Эриком Дрекслером в <Node id="414"/>1986 году<Node id="423"/> в книге “МАШИНЫ СОЗДАНИЯ: Грядущая эра нанотехнологии” (Engines of Creation: The Coming Era of Nanotechnology). Идея состоит в использовании наноразмерных манипуляторов для синтеза <Node id="605"/>наноструктур<Node id="617"/> атом за атомом – то есть, с максимально возможной точностью.
+
+Нечто подобное происходит во многих биологических структурах – ферментах; однако, их работа ограничена тем, что необходимые реагенты должны продиффундировать в активный центр фермента из жидкой фазы, что налагает определённые ограничения как на скорость процесса, так и на набор допустимых “строительных блоков”, из которых собирается новая структура.
+
+Идея позиционного механосинтеза же предполагает чёткий механизм доставки каждого атома манипулятором на нужное место, что должно позволить создавать любые физически возможные структуры. Чтобы подчеркнуть это, был предложен термин “химия в машинной фазе” (machine phase chemistry) – в противоположность “жидкофазной” химии биологических наномашин.
+
+В <Node id="1383"/>апреле<Node id="1389"/> <Node id="1390"/>этого года<Node id="1400"/> Роберт Фрайтас и Ральф Меркл, основатели проекта Nanofactory Collaboration, опубликовали статью с результатами своего трёхлетнего проекта – набором наноразмерных инструментов для осуществления основных реакций позиционного механосинтеза, который был получен с помощью компьютерного моделирования.
+
+Задачей проекта, возглавляемого <Node id="1731"/>Филипом Мориарти<Node id="1747"/>, станет воплощение “чертежей” Фрайтаса и Меркла и проверка возможности изготовления диамондоидных <Node id="1846"/>наноструктур<Node id="1858"/>. Это станет первым серьёзным экспериментальным исследованием, направленным на проверку результатов компьютерного моделирования процессов позиционного механосинтеза. В случае успеха проекта наука получит долгожданное доказательство возможности сборки <Node id="2109"/>наноструктур<Node id="2121"/> в “машинной фазе” с атомарной точностью.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1731" EndNode="1747">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Филип</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Наноструктура" StartNode="1846" EndNode="1858">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Год" StartNode="414" EndNode="423">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наноструктура" StartNode="287" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Наноструктура" StartNode="235" EndNode="247">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="97" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Филип</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Наноструктура" StartNode="2109" EndNode="2121">
+</Annotation>
+<Annotation Id="18" Type="Наноструктура" StartNode="605" EndNode="617">
+</Annotation>
+<Annotation Id="21" Type="Период_времени" StartNode="1390" EndNode="1400">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="1383" EndNode="1389">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="414" EndNode="423">
+</Annotation>
+<Annotation Id="22" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

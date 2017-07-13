@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Игра в бильярд вряд ли возможна на столе, меньше чем этот: физики из университета Калифорнии показали, что лист <Node id="113"/>графена<Node id="120"/> может действовать как бильярдный стол атомного масштаба, с электрическими зарядами вместо бильярдных шаров.
+
+Наблюдение показывает, что <Node id="257"/>графен<Node id="263"/> может служить превосходным электронным материалом, типа кремния, и может использоваться для новых видов транзисторов, основанных на квантовой физике. Поскольку электроны не сталкиваются ни с какими препятствиями и перемещаются «свободно» вдоль листа углерода, перенося электрический заряд с чрезвычайно низким сопротивлением.
+
+Результаты опубликованы в прошлом номере Science.
+
+Группа исследователей во главе с Чанг Нинг (Джини) Ло (Chun Ning (Jeanie) Lau) нашла, что электроны в <Node id="744"/>графене<Node id="751"/> перемещаются свободно и отражаются только от границ листа. При этом они демонстрируют свойства, которые напоминают и частицы, и волны. Причем отражаясь от одной из границ листа <Node id="929"/>графена<Node id="936"/>, исходные и отраженные «части» электрона могут столкнуться друг с другом, как рябь в водоеме может столкнуться с рябью, отраженной от берега.
+
+Лаборатория Ло обнаружила “интерференцию электронов”, измеряя электрическую проводимость <Node id="1169"/>графена<Node id="1176"/> при чрезвычайно низкой (0,26 К) температуре. При таких низких температурах квантовые свойства электронов проще изучать.
+
+Исследователи обнаружили, что электроны в <Node id="1340"/>графене<Node id="1347"/> могут демонстрировать волновые свойства, которые могут привести к интересным применениям, типа баллистических транзисторов, которые являются новым типом транзисторов, а также созданию резонаторов для электронов.
+
+В своих экспериментах Ло с коллегами сначала сняли с графита отдельный лист, затем приложили наноэлектроды к нему, поместив охлаждающее устройство, и провели измерения электрической проводимости.
+
+<Node id="1758"/>Графен<Node id="1764"/> был изолирован экспериментально меньше <Node id="1804"/>трех лет назад<Node id="1818"/>. Он является двумерной сотовидной решеткой углеродных атомов и структурно связан с <Node id="1902"/>углеродными <Node id="1914"/>нанотрубками<Node id="1926"/> и <Node id="1929"/>фуллеренами<Node id="1940"/>.
+
+С научной точки зрения, <Node id="1967"/>графен<Node id="1973"/> стал модельной системой для физики твердого тела. <Node id="2024"/>Графен<Node id="2030"/> позволяет проводить настольные экспериментальные тесты множества явлений в физике, включая квантовую механику и теорию относительности. Имея исключительные свойства, например высокую теплопроводность и электропроводность, <Node id="2253"/>графен<Node id="2259"/> идеально подходит на роль компонентов для полупроводниковых схем и компьютеров. Толщиной всего в один атом он может использоваться при создании ультраминиатюрных электронных устройств.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Графен" StartNode="1340" EndNode="1347">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="113" EndNode="120">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="1758" EndNode="1764">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1804" EndNode="1818">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="2253" EndNode="2259">
+</Annotation>
+<Annotation Id="10" Type="Фуллерен" StartNode="1929" EndNode="1940">
+</Annotation>
+<Annotation Id="11" Type="Графен" StartNode="257" EndNode="263">
+</Annotation>
+<Annotation Id="12" Type="Графен" StartNode="2024" EndNode="2030">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="1967" EndNode="1973">
+</Annotation>
+<Annotation Id="14" Type="Графен" StartNode="929" EndNode="936">
+</Annotation>
+<Annotation Id="15" Type="Углеродная+нанотрубка" StartNode="1902" EndNode="1926">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1914" EndNode="1926">
+</Annotation>
+<Annotation Id="19" Type="Графен" StartNode="1169" EndNode="1176">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Графен" StartNode="744" EndNode="751">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Мембраны из <Node id="13"/>нанотрубок<Node id="23"/> давно считаются перспективными кандидатами на роль фильтров, позволяющих удалять из воды мельчайшие загрязнения, выделять органические молекулы, например, ДНК и белки. <Node id="192"/>Углеродные <Node id="203"/>нанотрубки<Node id="213"/> (УНТ) гидрофобны, т.е. отталкивают воду. Исследователи из Rensselaer Polytechnic Institute обнаружили, что электрическое напряжение, приложенное к УНТ-мембране, может оказать существенное влияние на протекание воды, делая поверхность мембраны гидрофильной. Мембрана перестает отталкивать воду и начинает ее поглощать. 
+ 
+ Свойства мембраны определяются зарядом <Node id="575"/>нанотрубок<Node id="585"/> – положительно заряженные <Node id="612"/>нанотрубки<Node id="622"/> пропускают воду, а при смене полярности поток останавливается. Явление основано на том, что поверхность <Node id="727"/>нанотрубок<Node id="737"/> при электролизе воды покрывается атомами кислорода и становится гидрофильной. Кроме того, можно очень точно контролировать ток воды, последовательно соединяя гидрофильные и гидрофобные <Node id="923"/>нанотрубки<Node id="933"/>. 
+ 
+ Теперь ученые будут пытаться осуществить избирательное фильтрование – захват молекул белков, ДНК и других возможных примесей. 
+ 
+ Работа «Polarity-Dependent Electrochemically Controlled Transport of Water through Carbon Nanotube Membranes» была опубликована в Nano Letters. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="923" EndNode="933">
+</Annotation>
+<Annotation Id="1" Type="Углеродная+нанотрубка" StartNode="192" EndNode="213">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="575" EndNode="585">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="13" EndNode="23">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="612" EndNode="622">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="203" EndNode="213">
+</Annotation>
+<Annotation Id="6" Type="Нанотрубка" StartNode="727" EndNode="737">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

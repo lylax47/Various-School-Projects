@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Частный инвестиционный фонд «Группа ОНЭКСИМ» был создан в <Node id="60"/>мае 2007 года<Node id="73"/> известным бизнесменом Михаилом Прохоровым. В <Node id="119"/>настоящее время<Node id="134"/> фонд управляет активами стоимостью <Node id="170"/>более 17 млрд. долларов<Node id="193"/>, но уже <Node id="202"/>через пять лет<Node id="216"/>, по самым консервативным оценкам, его капитализация должна возрасти до <Node id="288"/>30 млрд. долларов<Node id="305"/>. Согласно инвестиционной стратегии, Группу ОНЭКСИМ интересуют не только уже имеющиеся активы, но и новые проекты стоимостью от <Node id="433"/>1 млрд. долларов<Node id="449"/>. Это будут водородная и традиционная энергетика, нанотехнологии, управление элитной недвижимостью, а также геологоразведка. При этом все проекты должны иметь потенциал кратного роста стоимости в среднесрочной перспективе. В плане приобретения активов группа не ограничивает себя географически и рассматривает возможность развития бизнеса в странах BRIC (Бразилия, Россия, Индия и Китай). Одним из первых проектов Группы ОНЭКСИМ стало создание научно-технического комплекса «Старопетровский», на реконструкцию и оборудование которого выделено <Node id="992"/>более 100 млн. долларов<Node id="1015"/>. Комплекс предназначен для проведения научных и практических работ в области нанотехнологий и альтернативной энергетики. Таким образом, бренд известного в <Node id="1171"/>90-х годах<Node id="1181"/> своей финансовой мощью и способностью решать самые амбициозные задачи - ОНЭКСИМ Банка - вернулся на деловую сцену России.
+ 
+Контакты: Игорь Петров, директор по связям с общественностью, 
+ 
+123104, Москва, Тверской бульвар, 13, тел. (495) 229-29-34
+ 
+ 
+Компания уделит особое внимание участникам, успешно решившим блок задач по АЛЬТЕРНАТИВНОЙ ЭНЕРГЕТИКЕ. </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="992" EndNode="1015">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="288" EndNode="305">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="119" EndNode="134">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1171" EndNode="1181">
+</Annotation>
+<Annotation Id="4" Type="Деньги" StartNode="433" EndNode="449">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="60" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мае</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Деньги" StartNode="170" EndNode="193">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="202" EndNode="216">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

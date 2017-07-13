@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+<Node id="2"/>Углеродные <Node id="13"/>нанотрубки<Node id="23"/> вследствие своего необычного кристаллического строения обладают уникальными электрическими и механическими свойствами. Благодаря ним УНТ имеют огромное количество применений, как потенциальных, так и вполне реальных. Однако свойства УНТ, не очищенных от загрязнений, появляющихся в процессе синтеза, в значительной степени теряются. Поэтому постоянно растет потребность в химически чистых недефектных <Node id="425"/>нанотрубках<Node id="436"/>, но очистить УНТ от слоя аморфного углерода, покрывающего всю их поверхность, оказывается крайне сложно и дорого. Возможное решение этой проблемы нашли ученые из Политехнического Института Вирджинии (Virginia Polytechnic Institute): они обнаружили, что луч лазера определенной частоты эффективно и быстро удаляет аморфный углерод, не повреждая при этом сами <Node id="795"/>нанотрубки<Node id="805"/>. 
+ 
+ 
+ 
+Открытие было сделано случайно: исследователи использовали лазер для калибровки чувствительности покрытых <Node id="920"/>углеродными <Node id="932"/>нанотрубками<Node id="944"/> детекторов, не подозревая о его способности чистить <Node id="997"/>нанотрубки<Node id="1007"/>. Оказалось, что ультрафиолетовый свет длиной волны 248 нм от эксимерного лазера заставляет слой аморфного углерода отслаиваться от стенок <Node id="1146"/>нанотрубки<Node id="1156"/>, не нанося при этом никакого ущерба самой УНТ. Это означает, что выход продукта, то есть очищенных УНТ, будет гораздо выше, чем в химических методах очистки. Кроме того, весь процесс занимает <Node id="1349"/>менее трех минут<Node id="1365"/>, в сравнении <Node id="1379"/>с несколькими часами<Node id="1399"/> и даже <Node id="1407"/>днями<Node id="1412"/> в других методах.
+ 
+ 
+ 
+Природа этого феномена ещё не ясна. Есть предположение, что отделение углеродного слоя связано пи-плазмонным резонансом, вызванным фотонами с длиной волны 248 нм. Другая гипотеза объясняет это явление окислением углерода озоном, формирующимся под действием излучения эксимерного лазера. Для прояснения механизма планируется провести ряд дополнительных экспериментов, в том числе в бескислородной среде.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1379" EndNode="1399">
+</Annotation>
+<Annotation Id="1" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1407" EndNode="1412">
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="13" EndNode="23">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="932" EndNode="944">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="920" EndNode="944">
+</Annotation>
+<Annotation Id="6" Type="Углеродная+нанотрубка" StartNode="2" EndNode="23">
+</Annotation>
+<Annotation Id="7" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="425" EndNode="436">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="997" EndNode="1007">
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1349" EndNode="1365">
+</Annotation>
+<Annotation Id="12" Type="Нанотрубка" StartNode="1146" EndNode="1156">
+</Annotation>
+<Annotation Id="13" Type="Нанотрубка" StartNode="795" EndNode="805">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

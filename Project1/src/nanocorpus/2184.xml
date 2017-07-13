@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> <Node id="1"/>25 марта 2008 г.<Node id="17"/> на факультете наук о материалах МГУ прошла встреча с заместителем генерального директора Национальной Инвестиционной Компании "Новые Энергетические Проекты" В.А.Пивнюком<Node id="187"/>.<Node id="188"/> В.А.Пивнюк провел переговоры с деканом ФНМ МГУ академиком Ю.Д.Третьяковым и <Node id="265"/>его<Node id="268"/> коллегами о возможном сотрудничестве, а также высказал свою точку зрения (в значительной степени совпадающую с точкой зрении Компании в целом) об особенностях, проблемах, перспективах и будущем альтернативной энергетики, которую он просто и лаконично назвал "будущей энергетикой", не оставляя альтернатив энергетике традиционной. На встрече были рассмотрены и темы научных (фундаментальных и прикладных) задач, которые интересуют Компанию и которые, как оказалось, теснейшим образом связаны с химией и науках о материалах. В ближайшее время будет опубликовано видеоинтервью с представителями Компании.
+ Для справки: Пивнюк Владимир Алексеевич – первый заместитель генерального директора компании <Node id="965"/>НИК НЭП<Node id="972"/> (Национальная Инвестиционная Компания "Новые Энергетические Проекты"). <Node id="1044"/>Родился 16 июля 1938<Node id="1064"/>г. в г.Белая Церковь Киевской области (Украина). В <Node id="1115"/>1959 году<Node id="1124"/> окончил Военно-инженерную академию по специальности инженер по радиоэлектронике. <Node id="1206"/>С 1959 по 1968 год<Node id="1224"/> занимался испытаниями боевых ракетных систем и ракетно-космической техники. В <Node id="1303"/>1968 году<Node id="1312"/> перешел в центральный аппарат Министерства обороны СССР и на протяжении <Node id="1385"/>20 лет<Node id="1391"/> участвовал в работах по созданию пилотируемых космических систем и комплексов «Алмаз», «Салют», «Мир», «Союз», а также многоразовой космической системы «Энергия-Буран». В период <Node id="1570"/>с 1988 по 1991гг<Node id="1586"/>., работал в Комиссии Президиума Совета Министров СССР по военно-промышленным вопросам (ВПК), осуществлял координацию деятельности министерств и ведомств по орбитальным пилотируемым станциям «Салют» и «Мир», космическим кораблям «Союз» и МКС «Энергия-Буран». В период <Node id="1854"/>с 1992 по 1996гг<Node id="1870"/>., работал в аппарате Правительства России, осуществлял руководство и координацию деятельности промышленных предприятий и научных организаций по работам в области ракетно-космической техники и международного сотрудничества в области космонавтики, включая участие России в создании Международной пилотируемой станции, а также научно-производственных объединений в работах по созданию спутников связи и по запускам зарубежных космических аппаратов на отечественных ракетах – носителях «Протон», «Зенит» и «Рокот». Участвовал также в учреждении интернациональных компаний по запускам указанных ракет: «Морской старт» и «АйЭлэС». Лауреат Государственной премии СССР за работы в области космонавтики (<Node id="2566"/>1985 год<Node id="2574"/>). Награжден многими орденами и медалями СССР и России. Действительный член Академии космонавтики. (информация с официального сайта <Node id="2706"/>НИК НЭП<Node id="2713"/>) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1570" EndNode="1586">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="1115" EndNode="1124">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="265" EndNode="268">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="2566" EndNode="2574">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="187" EndNode="188">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="965" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="1206" EndNode="1224">
+</Annotation>
+<Annotation Id="13" Type="Дата_рождения" StartNode="1044" EndNode="1064">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="1303" EndNode="1312">
+</Annotation>
+<Annotation Id="15" Type="Год" StartNode="1385" EndNode="1391">
+</Annotation>
+<Annotation Id="17" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Год" StartNode="1115" EndNode="1124">
+</Annotation>
+<Annotation Id="19" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Период_времени" StartNode="1854" EndNode="1870">
+</Annotation>
+<Annotation Id="21" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="Год" StartNode="1303" EndNode="1312">
+</Annotation>
+<Annotation Id="22" Type="работает" StartNode="187" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="Персона" StartNode="2706" EndNode="2713">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Н.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ник</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Период_времени" StartNode="1385" EndNode="1391">
+</Annotation>
+<Annotation Id="31" Type="Период_времени" StartNode="2566" EndNode="2574">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

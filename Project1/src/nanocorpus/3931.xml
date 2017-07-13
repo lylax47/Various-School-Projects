@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Белковые взаимодействия осуществляются не только за счет нековалентных взаимодействий, но и за счет комплементарности форм пепетидов, то есть совпадения их вторичных и третичных структур. Например, гидрофобные остатки на винтовой поверхности α-спирали белка, подавляющего рост опухолей, прочно связываются с внутренней гидрофобной зоной онкобелка посредствам их комплементарности. Поэтому белки, закрученные в α-спирали, могут быть очень полезны в медицине при лечении таких болезней, как рак. 
+ 
+Ранее уже предпринималось несколько попыток искусственно стабилизировать короткие белки в α-спирали, однако все они использовали бионесовместимые прекурсоры. Эту проблему могут помочь решить <Node id="690"/>наночастицы<Node id="701"/> с модифицированной поверхностью. 
+ 
+Ученые из Университета Массачусетса (University of Massachusetts, Amherst, US), Винсент Ротелло (Vincent Rotello) и <Node id="854"/>его<Node id="857"/> коллеги, успешно использовали <Node id="888"/>наночастицы<Node id="899"/> золота<Node id="906"/>, функционализированные тетраэтиленгликолем, добавление которого увеличивает растворимость в воде, предотвращает нежелательные взаимодействия с биомолекулами, а также обеспечивает поверхностное распознавание. 
+ 
+Отрицательно заряженный белок ТАР закручивался в α-спираль под действием электростатического взаимодействия остатков аминокислот с отрицательным зарядом радикала и положительно заряженных функциональных групп (лигандов) на поверхности <Node id="1353"/>наночастицы<Node id="1364"/>. В отсутствии <Node id="1379"/>наночастиц<Node id="1389"/> белок образует случайный клубок. Процент α-спиралей при добавлении частиц увеличивается с 3 до <Node id="1485"/>80%<Node id="1488"/>. 
+ 
+Эти исследования могут стать первым шагом на пути к созданию сложных искусственных систем распознавания, подобных природным механизмам взаимодействия биомолекул. 
+ 
+Работа опубликована в журнале ChemComm. 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="1379" EndNode="1389">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="854" EndNode="857">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1353" EndNode="1364">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="690" EndNode="701">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="888" EndNode="899">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Процент" StartNode="1485" EndNode="1488">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Наночастица+золота" StartNode="888" EndNode="906">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

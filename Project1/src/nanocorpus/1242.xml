@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Благородные опалы (а точнее, их имитация) являющиеся коллоидными кристаллами монодисперсного аморфного диоксида кремния без цементирующей матрицы. 
+Диаметр коллоидных частиц  - 550 нм (вариация диаметра - <Node id="206"/>менее 2%<Node id="214"/>). 
+ 
+Картинка - оптическая фотография опалов нанесенных на одномодовое оптическое волокно. 
+Соответственно, и диаметр бублика, и ширина узкой части стручка составляют около 125 микрон. (Заметьте, что увеличение бублика значительно больше). 
+ 
+Поскольку научной задачей являлось поместить коллоидный кристалл на световодную жилу в центре волокна, выражение "Дырка от бублика" приобрело новый философский смысл... :) 
+    
+ 
+      
+ 
+  
+ 
+                                         
+  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Процент" StartNode="206" EndNode="214">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

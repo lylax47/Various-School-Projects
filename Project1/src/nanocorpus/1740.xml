@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как сообщает Nanotechweb, ученые из Южной Кореи совместно с исследователями из США, впервые смогли синхронизировать колебания двух наномеханических осцилляторов.
+
+Эффект, полученный учеными Притирэем Моханти (Pritiraj Mohanty) из Бостонского Университета (Boston University) и <Node id="278"/>Сеанг-Бо<Node id="286"/>-Шимом (Seung-Bo Shim) из Национального Университета Сеула (National University), повторяет в нанометровом диапазоне эксперимент, проведенный Христианом Гюйгенсом <Node id="449"/>около 300 лет тому назад<Node id="473"/>.
+
+Эффект синхронизации часто встречается в природе. Это и поведение рыб в косяке, и синхронизация вращения Луны относительно Земли, и другие подобные явления.
+
+Гюйгенс еще <Node id="646"/>300 лет назад<Node id="659"/> установил, что двое маятниковых <Node id="692"/>часов<Node id="697"/>, установленных на одной стене, со временем синхронизируют колебания маятником благодаря слабой интерференции акустических волн, исходящих друг от друга.
+
+Теперь же ученые разместили рядом два наномеханических резонатора, работающих благодаря нанострунам длиной 10 микрон и диаметром 500 нанометров. Эти наноструны связаны между собой струной такого же диаметра и длиной всего 5 микрон.
+
+Все наноструны электрически изолированы и охлаждены до температуры 300 мК, так что явления синхронизации, протекающие в наноустройстве, имели сугубо механическую природу.
+
+Теперь исследователи хотят соединить в массив несколько резонаторов для того, чтобы построить подобие нейросетевого <Node id="1373"/>нанокомпьютера<Node id="1387"/>.
+
+Открытие синхронизации наномеханических резонаторов также может помочь при производстве беспроводных систем связи нового поколения.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="646" EndNode="659">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="278" EndNode="286">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">С.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Сеанг-Бо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="449" EndNode="473">
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Нанокомпьютер" StartNode="1373" EndNode="1387">
+</Annotation>
+<Annotation Id="7" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="692" EndNode="697">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

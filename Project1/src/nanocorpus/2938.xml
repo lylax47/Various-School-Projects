@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии. <Node id="16"/>Наноматериалы<Node id="29"/>. Наносистемная техника-2008Серия: Мир материалов и технологий
+Издательство: Техносфера, <Node id="118"/>2008 г.<Node id="125"/> Твердый переплет, 438 стр. ISBN 978–5–94836–180–2 Тираж: 2000 экз. Формат: 60×90/16 Цена: <Node id="216"/>302 руб<Node id="223"/> Редактор: Петр Мальцев
+От издателя Данная работа является продолжением серии книг издательства «Техносфера» по мировым достижениям в области нанотехнологий. В книге представлены материалы, опубликованные в <Node id="430"/>2006–2008 гг<Node id="442"/>. в журнале «Нано- и микросистемная техника» и сгруппированные по разделам, охватывающим <Node id="531"/>наноматериалы<Node id="544"/>, наноэлектронику, нанодатчики и наноустройства, диагностику <Node id="605"/>наноструктур<Node id="617"/> и <Node id="620"/>наноматериалов<Node id="634"/>, нанобиотехнологию и применение нанотехнологий в медицине. 
+В издании представлены примеры реализации и применения в области технологии формирования <Node id="784"/>наноструктур<Node id="796"/>, методов исследования <Node id="819"/>наноматериалов<Node id="833"/>, метрологическое обеспечение и основы технологии наносистемной техники.
+ По просьбе читателей в книгу введен новый раздел – «Англо-русский терминологический словарь по микро- и наносистемной технике». Издание представляет интерес для ученых, инженеров и преподавателей высшей школы, аспирантов и студентов, специализирующихся в области нанотехнологий, <Node id="1186"/>наноматериалов<Node id="1200"/>, наноэлектроники, микро- и наносистемной техники.
+<Node id="1251"/>http://www.ozon.ru/…/id/4034833/Хорошее<Node id="1290"/> это дело – делать подборку из статей по определённой теме, вышедших за последние пару <Node id="1377"/>лет<Node id="1380"/>. Не беда, если часть материалов и утратит (до некоторой степени) свою актуальность – ведь наука и техника не стоят на месте, появляются всё новые и новые публикации, материалы и открытия – всё это наслаивается на ранее уже известное и открытое… (Оговорюсь сразу: сам не видел эту только что появившуюся книгу). Тем не менее наверняка книга будет интересна и тем, кто учится и учит, и тем, кто хотел бы узнать поподробнее о новинках в данной области. И уж во всяком случае книга достойна для включения в «коллекцию» изданий каждой солидной (вузовской) библиотеки…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="430" EndNode="442">
+</Annotation>
+<Annotation Id="2" Type="Наноструктура" StartNode="784" EndNode="796">
+</Annotation>
+<Annotation Id="3" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Наноструктура" StartNode="605" EndNode="617">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Наноматериал" StartNode="16" EndNode="29">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Наноматериал" StartNode="819" EndNode="833">
+</Annotation>
+<Annotation Id="8" Type="Год" StartNode="118" EndNode="125">
+</Annotation>
+<Annotation Id="9" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1251" EndNode="1290">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="620" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Период_времени" StartNode="1377" EndNode="1380">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Наноматериал" StartNode="1186" EndNode="1200">
+</Annotation>
+<Annotation Id="16" Type="Деньги" StartNode="216" EndNode="223">
+</Annotation>
+<Annotation Id="19" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="531" EndNode="544">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

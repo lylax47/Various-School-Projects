@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Национальная Ассоциация НаноиндустрииАнонсыПрограмма семинаров по прорывным направлениям наноиндустрии на <Node id="106"/>2008 г.<Node id="113"/>
+Решением IV Научно-практической конференции «Нанотехнологии – производству 2007», проведенной <Node id="208"/>28–30 ноября с.г.<Node id="225"/> в <Node id="228"/>г. Фрязино Московской области<Node id="257"/>, предусмотрено проведение в <Node id="286"/>2008 году<Node id="295"/> серии семинаров по наиболее прорывным направлениям наноиндустрии.
+
+Планируется проведение следующих однодневных семинаров:
+
+Просим Вас до <Node id="434"/>20 января 2008 г.<Node id="451"/> сообщить, об участии в первом семинаре, а также в каких семинарах планируется Ваше участие и планируете ли Вы выступить на семинарах с сообщениями.
+Семинары бесплатные. Точная дата, время и место проведения заинтересовавших Вас семинаров будут сообщены Вам дополнительно.
+Справки: тел. (495) 951–59–02, 951–59–00,953–53–94
+
+факс: (495) 951–32–17
+
+E-mail: <Node id="807"/>nanotech@mail.magelan.ruhttp://www.nanotech.ru<Node id="853"/>/nan/anonses.htmНемного с запозданием увидел я это объявление. Тем не менее, это расписание на целый <Node id="954"/>год<Node id="957"/> вперёд. Так что если кто-то не сможет попасть на первый семинар, то, может быть, сумеет записаться на последующие…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="208" EndNode="225">
+</Annotation>
+<Annotation Id="1" Type="Год" StartNode="286" EndNode="295">
+</Annotation>
+<Annotation Id="2" Type="расположение" StartNode="228" EndNode="257">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="807" EndNode="853">
+</Annotation>
+<Annotation Id="4" Type="Год" StartNode="106" EndNode="113">
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="434" EndNode="451">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">января</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="954" EndNode="957">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="286" EndNode="295">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

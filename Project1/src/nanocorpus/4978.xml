@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Открыт официальный сайт 11-го Инновационного форума, который пройдет в <Node id="71"/>октябре<Node id="78"/> в ТомскеОткрыт официальный сайт 11-го Инновационного форума с международным участием, проведение которого намечено в Томске на <Node id="206"/>10–12 октября<Node id="219"/>, сообщает пресс-служба обладминистрации.
+
+Напомним, что организатором форума выступает <Node id="307"/>администрация Томской<Node id="328"/> области при участии администрации Президента РФ, Минэкономразвития, Минобороннауки и Минрегиона России, РосОЭЗ, Высшего экономического совета СФО, Торгово-промышленной палаты РФ, Российского Союза промышленников и предпринимателей, Сибирского отделения РАН и Российской корпорации нанотехнологий.
+ Посетители сайта смогут получить более подробную информацию об организаторах и участниках форума, познакомиться с предварительной программой его проведения, а также узнать многое другое. <Node id="814"/>http://obzor.westsib.ru/news/258825Oфициальный<Node id="860"/> сайт 11-го Инновационного <Node id="887"/>форумаhttp://www.tomskforum.ru/Сайт<Node id="922"/> открывает приветственное выступление губернатора Томской области Виктора Кресса. Пока он ещё не совсем «дооборудован» (к примеру, я не смог увидеть «предварительной программой его проведения»), но впереди ещё – целый <Node id="1140"/>месяц<Node id="1145"/>, и вся его «начинка» наверняка вскоре будет в порядке. Судя по участию в числе организаторов форума Российской корпорации нанотехнологий, очевидно, что и эта тематика найдёт своё место в программе заседаний. Желаем успехов в работе форума, его организаторам и участникам!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="71" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октябре</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="206" EndNode="219">
+</Annotation>
+<Annotation Id="4" Type="Властная_Структура" StartNode="307" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">администрация</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="887" EndNode="922">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="814" EndNode="860">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="1140" EndNode="1145">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

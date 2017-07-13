@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> <Node id="1"/>1 ноября<Node id="9"/> в офисе Государственной Корпорации «Роснанотех» состоялся первый из череды запланированных круглых столов по вопросам информационного сотрудничества (партнерских программ в области информационого сотрудничества). Был очерчен глобальный круг интересов Корпорации и возможные перспективы сотрудничества с Интернет-ресурсами Рунета. НАСТОЯЩИЙ сайт Роснанотеха будет запущен вместо его демоверсии, которая наблюдается сейчас, <Node id="432"/>25 ноября 2007 г.<Node id="449"/> и будет обладать значительно большей функциональностью, намереваясь стать наиболее посещаемым и функциональным «нанопорталом» в Рунете. Сайт будет иметь англоязычную версию и обещает работать очень профессионально.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="1" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="432" EndNode="449">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

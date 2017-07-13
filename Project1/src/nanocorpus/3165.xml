@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Когда будет создан настоящий <Node id="30"/>квантовый компьютер<Node id="49"/>, пока никто не знает, но уже сейчас видно, что интенсивные исследования в этом направлении приводят к значительному прогрессу в понимании нашего физического мира и развитию наноэлектроники в целом.
+
+Недавно группа исследователей из NEC Nano Electronics Research Laboratories, CREST-JST (Япония) и VVT Technical Research Center of Finland сообщила о создании лазера на искусственном атоме. Ранее эта команда, в которую входят наши соотечественники <Node id="497"/>О. Астафьев<Node id="508"/> и <Node id="511"/>Ю. Пашкин<Node id="520"/>, прославилась созданием первых сверхпроводниковых <Node id="571"/>зарядовых <Node id="581"/>кубитов<Node id="588"/>. В новом предложении подобный <Node id="619"/>кубит<Node id="624"/> используется в качестве искусственного атома для лазерной генерации.
+
+<Node id="695"/>Кубит<Node id="700"/> (островок – island) характеризуется двумя зарядовыми состояниями: с избыточной куперовской парой |2&gt; и без нее |0&gt;.
+
+Куперовская пара поступает через джозефсоновский контакт c электрода земли (ground). Величина электростатической энергии на островке управляется потенциалом затвора (gate). Поскольку частота перехода |0&gt; → |2&gt; настроена в резонанс с расположенным рядом копланарным волноводом, избыток энергии высвобождается в виде фотона, а не каким-то другим образом.
+
+Чтобы создать инверсную заселенность, необходимо эффективно откачивать куперовские пары с островка. С этой целью к нему через туннельный переход подключен контакт стока (drain). Напряжение на него подается такое, чтобы сначала один электрон смог туда протуннелировать после развала куперовкой пары и система перешла в состояние |1&gt; с одним избыточным электроном на островке, а затем и второй электрон – и система перешла в состояние |0&gt;.
+
+Лазерный режим генерации предполагает стимулированное излучение. Оно создается путем перекачки N куперовских пар на островок. При этом в резонаторе возникают N фотонов. Особенностью предлагаемой конструкции лазера является то, что используется всего один атом (правда, искусственный), а не множество, как в обычных лазерах.
+1. O. Astafiev et al, Nature 449, 588 (2007)</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Квантовый+компьютер" StartNode="30" EndNode="49">
+</Annotation>
+<Annotation Id="2" Type="Кубит" StartNode="581" EndNode="588">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="497" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Астафьев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="Зарядовый+кубит" StartNode="571" EndNode="588">
+</Annotation>
+<Annotation Id="9" Type="Кубит" StartNode="619" EndNode="624">
+</Annotation>
+<Annotation Id="10" Type="Кубит" StartNode="695" EndNode="700">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="511" EndNode="520">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Пашкин</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+В рамках визита делегации Министерства науки и техники КНР в Россию состоялась встреча генерального директора РОСНАНО Анатолия Чубайса с министром науки и техники КНР Вань Ганом
+
+Предыдущая встреча руководства корпорации с г-ном Вань Ганом, которая стала одним из ключевых мероприятий визита делегации РОСНАНО в Китай в <Node id="321"/>июле 2008 года<Node id="335"/>, показала совпадение интересов российской и китайской сторон в налаживании сотрудничества в области развития нанотехнологий. Китайские партнеры высказали позитивное отношение к возможности совместной работы по отбору перспективных нанотехнологических проектов и по их коммерциализации в качестве соинвесторов, в том числе путем подбора частных соинвесторов для участия в таких проектах.
+
+Как отмечается в материалах пресс-службы РОСНАНО, сегодня стороны еще раз подтвердили наличие взаимного интереса к сотрудничеству в области нанотехнологий, а также обсудили детали подготовки Соглашения между Российской корпорацией нанотехнологий и министерством науки и техники Китайской Народной Республики о создании союза стратегического сотрудничества по нанотехнологиям, подписание которого запланировано на <Node id="1137"/>28 октября<Node id="1147"/> во время предстоящей встречи глав правительств России и КНР в Москве.
+
+В заключение встречи г-н Вань Ган пригласил Анатолия Чубайса с ответным визитом в Китай.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Дата" StartNode="1137" EndNode="1147">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">октября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="321" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июле</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

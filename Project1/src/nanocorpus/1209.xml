@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> 
+Электронные устройства на основе тонких пленок графита / <Node id="59"/>графена<Node id="66"/> могут иметь блестящее будущее. В частности, они пригодны для создания транзисторов и электродов для органических фотоэлементов. В <Node id="197"/>настоящее время<Node id="212"/> усилия большинства научных групп направлены на получение тонких пленок из углеродного материала на большой площади. Большинство современных технологов применяют метод бумажной печати с дальнейшим переносом на подложку (transfer printing). 
+ 
+В работе “Large-area ultra thin films of reduced graphene oxide as a transparent and flexible electronic material”, опубликованной в журнале Nature Nanotechnology, предложен альтернативный способ синтеза монослойного <Node id="672"/>графена<Node id="679"/> с помощью вакуумной фильтрации. Его простота и воспроизводимость гарантируют получение тонких пленок (от одного до пяти слоев) на большой площади. В качестве прекурсора использовался раствор оксида <Node id="878"/>графена<Node id="885"/> (<Node id="887"/>ОГ<Node id="889"/>) с концентрацией 0,33 мг в литре, который пропускался через целлюлозную мембрану с диаметром пор порядка 25 нм. В результате <Node id="1015"/>ОГ<Node id="1017"/> задерживался на мембране, образуя слоистую структуру. Толщина пленки регулируется концентрацией раствора и объемом, пропущенным через мембрану. Полученный оксид может быть количественно перенесен на другую подходящую поверхность. В работе удалось создать тонкий слой на пластике и стекле. Для этого мембрану прижимали к требуемой поверхности на <Node id="1363"/>10 часов<Node id="1371"/> при комнатной температуре. Далее целлюлозный фильтр растворяли и получали тонкие оксидные пленки на различных подложках (рис. 1). 
+ 
+Количество слоев в зависимости от объема отфильтрованного раствора определяли с помощью <Node id="1593"/>атомно-силовой микроскопии<Node id="1619"/> и <Node id="1622"/>Рамановской спектроскопии<Node id="1647"/>. Результаты обоих методов дают близкие результаты. Толщина пленки составляет 1-2 нм при пропускании 20 мл раствора и 3-5 нм для 80 мл. Исходя из полученных данных и принимая теоретическую толщину монослоя порядка 1 нм, было рассчитано их количество (рис. 2). Восстановление образцов с целью получения <Node id="1949"/>графена<Node id="1956"/> проводилось гидразином в паровой фазе с последующим отжигом в инертной атмосфере при 200ºС. После отжига наблюдается значительное падение сопротивления при малых пропущенных объемах (рис. 3а), которое выходит на константу, когда отфильтровано более 100 мл. В то же время при восстановлении без отжига зависимость наблюдается только после 300 мл. Более интересны оптические свойства полученных пленок (рис. 3b). Видно, что химическое восстановление слоев снижает прозрачность пленки, что в большей степени заметно для отожженного образца. 
+ 
+Кроме всего прочего, в работе продемонстрировано возможное практическое применение восстановленных пленок. Для этого были изготовлены тонкослойные транзисторы. Вольтамперные характеристики устройства, измеренные при различных температурах, и его схема представлены на рисунке 3. Проведенные измерения показывают, что амбиполярные свойства материала сравнимы с чистым <Node id="2865"/>графеном<Node id="2873"/>. 
+ 
+Американские ученые надеются, что их исследования положили основу технологическому применению устройств на основе восстановленного оксида <Node id="3016"/>графена<Node id="3023"/>.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1363" EndNode="1371">
+</Annotation>
+<Annotation Id="1" Type="Персона" StartNode="887" EndNode="889">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ог</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Рамановская+спектроскопия" StartNode="1622" EndNode="1647">
+</Annotation>
+<Annotation Id="3" Type="Графен" StartNode="1949" EndNode="1956">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="1015" EndNode="1017">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">О.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Ог</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Графен" StartNode="878" EndNode="885">
+</Annotation>
+<Annotation Id="7" Type="Графен" StartNode="2865" EndNode="2873">
+</Annotation>
+<Annotation Id="8" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Графен" StartNode="3016" EndNode="3023">
+</Annotation>
+<Annotation Id="10" Type="Графен" StartNode="672" EndNode="679">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Атомно-силовая+микроскопия" StartNode="1593" EndNode="1619">
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="197" EndNode="212">
+</Annotation>
+<Annotation Id="13" Type="Графен" StartNode="59" EndNode="66">
+</Annotation>
+<Annotation Id="14" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

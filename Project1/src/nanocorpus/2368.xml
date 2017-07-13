@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Думаете о том, что подарить на <Node id="32"/>Новый Год<Node id="41"/> своим эгоцентричным друзьям? Как насчёт конструктора собственной вселенной, который даст им шанс поиграть в Бога и создать бесконечное число новых миров? Такой набор выходит <Node id="216"/>в конце месяца<Node id="230"/>, и будет стоить всего <Node id="253"/>$20.<Node id="257"/>
+
+Конструктор, который создал Джонатон Китс (Jonathon Keats) – концептуальный художник из Сан-Франциско – основан на мультиверсной теории вселенной, которая берёт начало в квантовой механике.
+
+При возможности двух событий, квантовая теория предполагает, что оба из них происходят одновременно – до тех пор, пока наблюдатель не определит исход. Например, знаменитый мысленный эксперимент <Node id="644"/>Шрёдингера<Node id="654"/>, в котором его кот мог быть убит с вероятностью в <Node id="705"/>50 процентов<Node id="717"/> – до тех пор, пока кто-то не проверит кот либо жив, либо мёртв. В процессе наблюдений вселенная делится на две, каждая из которых представляет собой возможный исход. К примеру, кот <Node id="899"/>Шрёдингера<Node id="909"/> был бы жив в одной вселенной и мертв в другой.
+
+Согласно теории любые измерения вызывают разделение вселенной, и это основа нового устройства Китса. Его творец вселенных использует кусочек легированного ураном стекла, чтобы создать пар из альфа-частиц, которые затем распознаются с помощью тонкой полоски сцинтиллирующего кристалла. Каждое распознавание вызывает создание новой вселенной.
+
+Учитывая скорость распада урана, <Node id="1333"/>Китс утверждает, что это позволит пользователям создавать буквально триллионы вселенных<Node id="1420"/>. Устройство появится в продаже в Галерее Модернизма в Сан-Франциско <Node id="1489"/>20 ноября<Node id="1498"/>.
+
+Источник: infuture.ruИнтересный художник…Ранее о нем упоминалось, что он вычисляет ДНК Бога <Node id="1593"/>http://www.membrana.ru<Node id="1615"/>/….234400.html</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="253" EndNode="257">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="216" EndNode="230">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="32" EndNode="41">
+</Annotation>
+<Annotation Id="3" Type="автор" StartNode="1333" EndNode="1420">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="899" EndNode="909">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шредингер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Дата" StartNode="1489" EndNode="1498">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Url" StartNode="1593" EndNode="1615">
+</Annotation>
+<Annotation Id="7" Type="Процент" StartNode="705" EndNode="717">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="644" EndNode="654">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Шредингер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="высказывания_заявления" StartNode="1333" EndNode="1420">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

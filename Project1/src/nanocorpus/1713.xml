@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Определены приоритеты научных изысканий в области нанотехнологий<Node id="64"/>13 мая<Node id="70"/> состоялось совместное заседание Бюро Комиссии Российской академии наук по фундаментальным исследованиям в области нанотехнологий во главе с Нобелевским лауреатом <Node id="233"/>Жоресом<Node id="240"/> <Node id="241"/>Алферовым<Node id="250"/> и госкорпорации «Роснанотех».
+О его итогах сайту <Node id="300"/>edinros.ru<Node id="310"/> рассказал заместитель руководителя фракции «Единая Россия» в Госдуме, член Наблюдательного совета госкорпорации «Роснанотех», академик РАН Андрей Кокошин: 
+В ходе сегодняшнего обсуждения нам удалось боле четко определить приоритеты в проведении как фундаментальных, так и прикладных исследований в различных областях, связанных с нанотехнологиями.
+ Очень важным аспектом развития такого рода исследований является приборное и методологическое обеспечение, наличие самой современной диагностической техники.
+Участники совещания договорились всячески поощрять междисциплинарность, интегральность исследований в области нанотехнологий, ибо именно здесь рождаются наиболее важные результаты в современных условиях.
+
+Именно на это, как справедливо отметил в своем выступлении <Node id="1082"/>Жорес<Node id="1087"/> <Node id="1088"/>Алферов<Node id="1095"/>, сейчас необходимо ориентировать наше высшее образование, особенно аспирантуру и магистратуру.
+
+В этих целях ученые и депутаты, представители промышленности будут предлагать внесение дополнений и изменений в различные учебные планы и программы.
+<Node id="1341"/>http://www.edinros.ru/news.html?…Академик<Node id="1382"/> Андрей Кокошин не столько рассказал, сколько «замутил»: «В ходе сегодняшнего обсуждения нам удалось боле четко определить приоритеты в проведении как фундаментальных, так и прикладных исследований в различных областях, связанных с нанотехнологиями». Из этой фразы как раз ничего не понятно… Ну что ж, как говорится, поживём – увидим…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="1088" EndNode="1095">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="1082" EndNode="1087">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Персона" StartNode="241" EndNode="250">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Алферов</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Url" StartNode="300" EndNode="310">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1341" EndNode="1382">
+</Annotation>
+<Annotation Id="14" Type="Персона" StartNode="233" EndNode="240">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Тональность</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Жорес</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="Дата" StartNode="64" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">мая</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Тональность" StartNode="1082" EndNode="1087">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Нанотехнологии позволят защитить людей от электромагнитных волн, излучаемых мобильными телефонами, а воздух – от выхлопных газов.
+
+Как передает ИТАР-ТАСС, об этом говорили отечественные профессора и академики, принявшие участие в научной конференции в Российском научном центре «Курчатовский институт».
+
+Как отметил заведующий отраслевой лабораторией Росатома Вадим Петрунин<Node id="375"/> <Node id="376"/>«уже разработаны специальные покрытия для сотовых телефонов, созданные на основе <Node id="457"/>наноматериалов<Node id="471"/> и способные поглощать электромагнитные излучения». По <Node id="526"/>его<Node id="529"/> словам, «такие покрытия делают пока только в России и на Тайване, но они пока не применяются на практике».
+
+Петрунин также рассказал о новых водородных двигателях, в которых используются нанотехнологии, препятствующие засорению воздуха выхлопными газами, и упомянул о нанокрасках для нанесения магнитных знаков на ценные бумаги. «<Node id="860"/>Эта технология уже разработана, запатентована, и мы ведем переговоры с Росзнаком», – добавил <Node id="953"/>он<Node id="955"/>.
+
+О других не менее интересных разработках, представленных на конференции профессорами российских научных центров, рассказал профессор Курчатовского института Виктор Семенков<Node id="1130"/>.<Node id="1131"/> «<Node id="1133"/>Сейчас ведутся исследования, как уменьшить компьютерный диск до наноразмера, чтобы он вмещал больше информации, чем обычный носитель», – сообщил <Node id="1278"/>он<Node id="1280"/>, добавив, что для увеличения памяти в компьютерах и телефонах скоро будут использоваться специальные «<Node id="1383"/>нанотрубки<Node id="1393"/>». <Node id="1396"/>Он<Node id="1398"/> также рассказал, что нанотехнологии в ближайшем будущем найдут применение и в хозяйстве для защиты от углеводородов<Node id="1514"/>.
+
+В <Node id="1519"/>этом году<Node id="1528"/> нанотехнологиям была посвящена треть конференции – интерес к ним у ученых возрос пропорционально интересу властей, которые согласны выделять на них «большие деньги». По словам организаторов, «это не случайно». В рамках федеральной целевой программы развития инфраструктуры наноиндустрии на территории института строится Национальный центр по нанотехнологиям, напомнил профессор РНЦ Юрий Каган<Node id="1921"/>.<Node id="1922"/>
+
+Он также сообщил, что в этот раз на конференцию пригласили не только сотрудников Курчатовского института и московских физико-математических вузов, но и докторов наук и академиков из других городов России.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="1519" EndNode="1528">
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="работает" StartNode="1130" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="работает" StartNode="1921" EndNode="1922">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">профессор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Персона" StartNode="526" EndNode="529">
+</Annotation>
+<Annotation Id="7" Type="Персона" StartNode="1278" EndNode="1280">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="1396" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="375" EndNode="376">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="1921" EndNode="1922">
+</Annotation>
+<Annotation Id="11" Type="сотрудники" StartNode="1130" EndNode="1131">
+</Annotation>
+<Annotation Id="12" Type="Наноматериал" StartNode="457" EndNode="471">
+</Annotation>
+<Annotation Id="13" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="автор" StartNode="1133" EndNode="1280">
+</Annotation>
+<Annotation Id="15" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1396" EndNode="1514">
+</Annotation>
+<Annotation Id="16" Type="автор" StartNode="1396" EndNode="1514">
+</Annotation>
+<Annotation Id="19" Type="автор" StartNode="860" EndNode="955">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="1383" EndNode="1393">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="высказывания_заявления" StartNode="1133" EndNode="1280">
+</Annotation>
+<Annotation Id="20" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="высказывания_заявления" StartNode="860" EndNode="955">
+</Annotation>
+<Annotation Id="22" Type="работает" StartNode="375" EndNode="376">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">заведующий</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="953" EndNode="955">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">высказывания_заявления</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

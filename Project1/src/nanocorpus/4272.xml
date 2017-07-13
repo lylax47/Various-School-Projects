@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Профессор химии Вирджинского Политехнического института (Virginia Polytechnic Institute and State University – Virginia Tech) Гарри Дорн (Harry Dorn) открыл новую область химии <Node id="178"/>фуллеренов<Node id="188"/>, которая может стать основной в производстве молекулярных полупроводников и квантовых компьютерных приложений завтрашнего <Node id="311"/>дня<Node id="314"/>.
+
+Дорн играет с полыми молекулами углерода, известными как <Node id="374"/>фуллерены<Node id="383"/> (согласно Википедии: <Node id="405"/>Фуллерены<Node id="414"/> — молекулярные соединения, принадлежащие классу аллотропных форм углерода и представляющие собой выпуклые замкнутые многогранники, составленные из чётного числа трёхкоординированных атомов углерода. Своим названием эти соединения обязаны инженеру и дизайнеру <Node id="674"/>Р. Бакминстеру<Node id="688"/> Фуллеру, чьи геодезические конструкции построены по этому принципу. Смотри), как с детским конструктором. В <Node id="797"/>1999 году<Node id="806"/> он обнаружил, как ввести дополнительные атомы внутрь молекулы, состоящей из 80 атомов, затем отработал технологию, научившись делать это надежно, как изменять количество атомов, формирующих углеродную клетку, как изменять типы атомов внутри клетки, что в конечном счете, привело к разработке нового магнито-чувствительного материала и способа доставки радиоактивных атомов в медицинских приложениях.
+
+Как часть его исследований в попытках разместить атомы гадолиния внутри углеродной клетки для применения в MRI – технологии (магнитно-резонансная томография), Дорн создал 80-атомную молекулу углерода с двумя атомами иттрия внутри. <Node id="1439"/>Затем<Node id="1444"/> <Node id="1445"/>он<Node id="1447"/> начал работать с материалами самой решетки. Он заместил один из 80 атомов углерода атомом азота. В такой структуре атом азота имеет один лишний электрон. Дорн обнаружил, что этот электрон, вместо того, чтобы находиться в атоме азота в структуре поверхности клетки, смещается внутрь и, располагаясь между ионами иттрия, образует очень небычную одно-электронную связь между двумя атомами иттрия.
+
+Открытие такого нового класса устойчивых молекул было совместной работой с адъюнкт-профессором химии Дэниэлом Кроуфордом (Daniel Crawford), который провел компьютерное моделирование и расчеты. Полученная структура была подтверждена кристаллографическими рентгеновскими исследованиями, которые провел Алан Балч (Alan Balch ) – профессор химии из Университета Калифорнии в Дейвис (University of California, Davis).
+
+Результаты исследований проф. Дорна и группы его соавторов опубликованы <Node id="2329"/>6 сентября с.г.<Node id="2344"/> в интернет-выпуске журнала Journal of the American Chemical Society («M2@C79N (M ) Y, Tb): Isolation and Characterization of Stable Endohedral Metallofullerenes Exhibiting M-M Bonding Interactions inside Aza[80]fullerene Cages»)
+Совершенно очевидно, что это уникальные результаты, которых не добивался еще никто. Исследования проводятся в настолько высоком темпе, что буквально каждый <Node id="2730"/>день<Node id="2734"/> группа исследователей получает дополнительную информацию. Например, уже даже после публикации ученые определили, как можно изъять избыточный электрон из клетки <Node id="2895"/>фуллерена<Node id="2904"/>.
+
+Результаты работы могут найти достойное применение в спинтронике, молекулярной электронике, микро- и наноэлектронике, а также в новой области – <Node id="3051"/>квантовых компьютерах<Node id="3072"/>. Двухатомный иттрий со связью одиночным электроном имеет уникальные спин-свойства, которые могут быть изменены искусственно. Усиливая поляризацию этого спина, можно получить исключительно важные усовершенствования чувствительности в технологии MRI и NMR-спектроскопии.
+
+По мнению же проф. <Node id="3362"/>Дорна<Node id="3367"/>, наиболее интересные перспективы разработка открывает в электронных приложениях. Если заместить один из атомов углерода атомом бора вместо азота, то в системе не будет хватать одного электрона, вместо одного лишнег, как это было показано выше. В такой системе имеются все необходимые компоненты полупроводника.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Фуллерен" StartNode="178" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Квантовый+компьютер" StartNode="3051" EndNode="3072">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Фуллерен" StartNode="2895" EndNode="2904">
+</Annotation>
+<Annotation Id="8" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Фуллерен" StartNode="405" EndNode="414">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2730" EndNode="2734">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Персона" StartNode="3362" EndNode="3367">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Дорн</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="311" EndNode="314">
+</Annotation>
+<Annotation Id="18" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="20" Type="Дата" StartNode="2329" EndNode="2344">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">сентября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Период_времени" StartNode="797" EndNode="806">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="1439" EndNode="1444">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="674" EndNode="688">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Р.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Статус_Роль</Name>
+  <Value className="java.lang.String">дизайнер</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Год" StartNode="797" EndNode="806">
+</Annotation>
+<Annotation Id="27" Type="Фуллерен" StartNode="374" EndNode="383">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="31" Type="Персона" StartNode="1445" EndNode="1447">
+</Annotation>
+<Annotation Id="30" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

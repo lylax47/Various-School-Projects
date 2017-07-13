@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Исследователи из Southern Illinois University (США) синтезировали ультрадлинные нанополосы длиной от 0.3 до 1 мм. 
+ 
+Работа "Ultralong Nanobelts Self-Assembled from an Asymmetric Perylene Tetracarboxylic Diimide" была опубликована в Journal of the American Chemical Society. 
+ 
+Полосы, сделанные из электропроводящего материала, могут использоваться в качестве проводов в микроэлектронных устройствах. 
+ 
+Также было показано, что такие нанополосы могут выступать в роли <Node id="471"/>сенсоров<Node id="479"/> – после обработки гидразином сила тока через полосу возросла на три порядка.  
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="471" EndNode="479">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

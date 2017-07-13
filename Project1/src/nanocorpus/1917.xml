@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Визит делегации носит ознакомительный характер и нацелен в первую очередь на установление контактов с американскими партнерами, на создание условий для возможного практического взаимодействия между Россией и США в области нанотехнологий.
+
+«Соединенные Штаты Америки являются общепризнанным лидером в области нанотехнологий в мире. Именно поэтому мы уделяем особое внимание визиту нашей делегации в США. В ходе поездки мы рассчитываем более детально ознакомиться с принципами реализации Национальной Нанотехнологической Инициативы США, изучить опыт в области коммерциализации нанотехнологий. Для нас важно донести до наших коллег цели, задачи и основные направления деятельности Корпорации. <Node id="691"/>Мы открыты к диалогу и надеемся на доверительное общение,  – заявил накануне поездки генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="827"/>.<Node id="828"/>
+
+Первым пунктом визита станет Вашингтон, где делегация Корпорации встретится с директором Бюро по координации национальной политики в области нанотехнологий США Клейтоном Тигом и членами межведомственной Подкомиссии по инжинирингу и технологиям в области нанометрических исследований. Также в Вашингтоне делегация Корпорации посетит Центр нанонауки и технологии Национального института стандартов и технологий Министерства торговли США и нанотехнологический лабораторный комплекс NANOFAB . В Посольстве Российской Федерации в США состоится прием с участием российских и американских СМИ, где генеральный директор ГК «Роснанотех» Леонид Меламед<Node id="1472"/> <Node id="1473"/>выступит с официальной презентацией Корпорации и ответит на вопросы журналистов.
+
+Далее <Node id="1561"/>21 июля<Node id="1568"/> делегация Корпорации посетит Саммит по нанотехнологиям возобновляемых источников энергии в Денвере, где планируется выступление Леонида Меламеда с докладом.
+
+Заключительным этапом визита станет <Node id="1763"/>пресс-конференция генерального директора ГК «Роснанотех» Леонида Меламеда<Node id="1836"/> <Node id="1837"/>и заместителя генерального директора Корпорации по международному сотрудничеству Александра Лосюкова<Node id="1937"/> <Node id="1938"/>в Нью-Йорке.
+
+В ходе пресс-конференции руководители Корпорации расскажут об основных направлениях деятельности ГК «Роснанотех», о развитии нанотехнологий в России, о взаимодействии с частными инвесторами. Будет затронута тема международного сотрудничества и, в частности, перспективы развития отношений России и США в сфере нанотехнологий.
+
+«<Node id="2280"/>Одна из наших задач – представить Корпорацию нашим американским коллегам, обозначить направления конкретного сотрудничества и перспектив реализации совместных проектов, – заявил заместитель генерального директора Корпорации по международному сотрудничеству Александр Лосюков<Node id="2554"/>.<Node id="2555"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="высказывания_заявления" StartNode="691" EndNode="827">
+</Annotation>
+<Annotation Id="1" Type="встречи_и_переговоры" StartNode="1763" EndNode="1937">
+</Annotation>
+<Annotation Id="2" Type="сотрудники" StartNode="1472" EndNode="1473">
+</Annotation>
+<Annotation Id="3" Type="работает" StartNode="2554" EndNode="2555">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="высказывания_заявления" StartNode="2280" EndNode="2554">
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="работает" StartNode="1836" EndNode="1837">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="работает" StartNode="1937" EndNode="1938">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="сотрудники" StartNode="2554" EndNode="2555">
+</Annotation>
+<Annotation Id="9" Type="сотрудники" StartNode="1836" EndNode="1837">
+</Annotation>
+<Annotation Id="10" Type="сотрудники" StartNode="827" EndNode="828">
+</Annotation>
+<Annotation Id="11" Type="автор" StartNode="691" EndNode="827">
+</Annotation>
+<Annotation Id="12" Type="автор" StartNode="2280" EndNode="2554">
+</Annotation>
+<Annotation Id="13" Type="работает" StartNode="827" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Дата" StartNode="1561" EndNode="1568">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="работает" StartNode="1472" EndNode="1473">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="сотрудники" StartNode="1937" EndNode="1938">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

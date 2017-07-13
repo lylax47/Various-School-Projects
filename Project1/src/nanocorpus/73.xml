@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Компания 3М  объявляет начало набора на летнюю стажировку 2007, в следующие отделы: 
+Отдел здравоохранения; 
+Отдел потребительских товаров и товаров для офиса; 
+Отдел промышленной продукции и материалов для транспорта; 
+Отдел средств безопасности труда, системы защиты и личной безопасности; 
+Отдел электро и телекоммуникационного оборудования; 
+Отдел материалов для организации дорожного движения и коммерческой графики; Если у Вы являетесь студентом 4 курса, владеете английскийм языком и хотите поближе познакомиться с бизнесом компании, то направляйте 
+Ваши резюме по адресу: 
+<Node id="582"/>hr.ru@3m.com<Node id="594"/> 
+Факс:  +7(495)784 7478  
+(с указанием кода SI) Подробную информацию Вы можете найти на сайте <Node id="689"/>www.3MRussia.ru<Node id="704"/> </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="689" EndNode="704">
+</Annotation>
+<Annotation Id="1" Type="Электронная_почта" StartNode="582" EndNode="594">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

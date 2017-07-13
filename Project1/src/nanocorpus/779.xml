@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Ученые из США создали новый тип <Node id="33"/>нанокристалла<Node id="46"/>, который может быть использован в качестве материала для производства лазеров.
+
+Как сообщает PhysOrg, открытый учеными <Node id="166"/>нанокристалл<Node id="178"/> – «мягкий» оптический материал, который можно обрабатывать в растворе, что обеспечивает гибкость технологического процесса при изготовлении лазеров для систем «лаборатория-на-чипе» и квантовых устройств хранения данных.
+
+Полупроводниковые <Node id="418"/>нанокристаллы<Node id="431"/> характеризуются отличными светоизлучающими характеристиками, что делает их идеальными кандидатами для построения лазеров на их основе. Однако до сегодняшнего времени на основе <Node id="608"/>нанокристаллов<Node id="622"/> было проблематично достичь высоких показателей важнейшей для лазерной техники характеристики – оптического усиления.
+
+Обычно в <Node id="750"/>нанокристаллах<Node id="764"/> содержатся два экситона (пара дырка-электрон), которые из-за маленьких размеров кристалла успевают аннигилировать до того, как произойдет оптическое усиление.
+
+В настоящем исследовании, проведенном Виктором Климовым (Now Victor Klimov) и <Node id="1003"/>его<Node id="1006"/> коллегами в Аламосской Национальной лаборатории (Alamos National Laboratory), ученым удалось синтезировать <Node id="1114"/>нанокристалл<Node id="1126"/> с ядрами и оболочками из различных полупроводников, в котором электроны и дырки разделены физически друг от друга, и поэтому оптическое усиление соответствует необходимому для производства лазерной техники.
+
+Кроме того, новый <Node id="1353"/>нанокристалл<Node id="1365"/> достаточно легко обрабатывать и использовать в составе «лабораторий-на-чипе».
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанокристалл" StartNode="608" EndNode="622">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Нанокристалл" StartNode="750" EndNode="764">
+</Annotation>
+<Annotation Id="4" Type="Нанокристалл" StartNode="166" EndNode="178">
+</Annotation>
+<Annotation Id="5" Type="Нанокристалл" StartNode="1353" EndNode="1365">
+</Annotation>
+<Annotation Id="6" Type="Нанокристалл" StartNode="1114" EndNode="1126">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Нанокристалл" StartNode="33" EndNode="46">
+</Annotation>
+<Annotation Id="11" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Нанокристалл" StartNode="418" EndNode="431">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="1003" EndNode="1006">
+<Feature>
+  <Name className="java.lang.String">связи_с_другими_персонами</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

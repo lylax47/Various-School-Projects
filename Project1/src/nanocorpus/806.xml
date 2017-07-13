@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+<Node id="1"/>Углеродные <Node id="12"/>нанотрубки<Node id="22"/> (УНТ), которые отличает удачное сочетание хорошей электропроводности с высоким аспектным отношением (отношение высоты к диаметру), являются основой эмиссионных катодов в вакуумных электронных приборах нового поколения.
+
+В таких приборах в силу способности УНТ усиливать электрическое поле вблизи их концов достаточно высокий ток автоэлектронной эмиссии достигается при умеренных значениях приложенного напряжения. Это позволяет создавать на основе таких катодов портативные дисплеи, источники света и рентгеновского излучения, параметры которых не уступают современным устройствам значительно более крупных размеров и большей массы.
+
+На пути разработки таких катодов возникают значительные технологические трудности, одна из которых связана с необходимостью обеспечения надежного контакта <Node id="812"/>нанотрубки<Node id="822"/> с проводящей подложкой. Плохое качество контакта не только снижает электропроводность эмиттера и, следовательно, величину эмиссионного тока, но также является причиной термического разрушения <Node id="1015"/>нанотрубки<Node id="1025"/>, которая при достижении некоторого критического тока эмиссии отрывается от подложки вследствие омического нагрева.
+
+Радикальное решение данной проблемы разработано недавно исследователями из университета г. Нагоя (Япония), которым удалось приварить индивидуальную УНТ к металлической подложке, обеспечив тем самым надежный электрический контакт с ней. Синтезированные в дуговом разряде многослойные УНТ с помощью <Node id="1439"/>электрофореза<Node id="1452"/> прикреплялись к медной пластинке толщиной 30 мкм, которая монтировалась на подвижном элементе просвечивающего электронного микроскопа. Положение элемента регулировалось с помощью пьезодатчика.
+
+Процедура сварки <Node id="1664"/>нанотрубки<Node id="1674"/> с металлической поверхностью подложки иллюстрируется на рис. 1. Свободный конец <Node id="1755"/>нанотрубки<Node id="1765"/> диаметром порядка 5 нм и длиной 176 нм приводился внутри микроскопа в контакт с острием вольфрамовой иглы, покрытым платиновой пленкой. <Node id="1902"/>Затем<Node id="1907"/> через <Node id="1914"/>нанотрубку<Node id="1924"/> в условиях вакуума 10-7 Торр пропускали электрический ток, что приводило к инкапсулированию внутрь нее <Node id="2028"/>платиновой <Node id="2039"/>наночастицы<Node id="2050"/> (рис. 1а). Ток прекращался, когда <Node id="2085"/>нанотрубка<Node id="2095"/> самопроизвольно отделялась от острия иглы. <Node id="2139"/>Затем<Node id="2144"/> <Node id="2145"/>нанотрубку<Node id="2155"/> вновь приводили в соприкосновение с наконечником иглы, и после пропускания тока силой до 100 мкА при напряжении до 2,5 В происходила сварка <Node id="2296"/>нанотрубки<Node id="2306"/> с платиновой поверхностью (рис. 1b).
+
+В результате отделения медной пластины от <Node id="2387"/>нанотрубки<Node id="2397"/> на расстояние d формировался полевой электронный эмиттер, вольтамперные характеристики которого измерялись при различных значениях межэлектродного расстояния d = 27 – 442 нм. Среднее значение напряженности электрического поля, при котором достигается ток эмиссии 100 нА, изменялось при этих расстояниях в диапазоне от 107 до 106 В/см. При d = 27 нм ток эмиссии наблюдался при напряжении 29 В и достигал значения 14 мкА при напряжении 42 <Node id="2835"/>В. Это<Node id="2841"/> соответствует максимальной плотности тока эмиссии 7х107 А/см2.
+
+Измеренные вольтамперные характеристики (<Node id="2947"/>ВАХ<Node id="2950"/>) эмиттера хорошо соответствуют классической зависимости <Node id="3007"/>Фаулера-Нордгейма<Node id="3024"/>. Заметное отклонение измеренных <Node id="3057"/>ВАХ<Node id="3060"/> от зависимостей <Node id="3077"/>Фаулера-Нордгейма<Node id="3094"/> наблюдается в области высоких напряжений, что связано с эффектами омического нагрева наконечника <Node id="3192"/>нанотрубки<Node id="3202"/>, вызывающими повышение тока эмиссии при том же приложенном напряжении. Обработка <Node id="3284"/>ВАХ<Node id="3287"/> указывает на наличие существенной зависимости коэффициента усиления электрического поля от расстояния d между наконечником <Node id="3411"/>нанотрубки<Node id="3421"/> и поверхностью медного анода. Величина этого параметра возрастает от 6 до 59 при увеличении d от 27 до 443 нм.
+А.В. Елецкий K.Asaka, H.Nakahara, Y.Saito, Appl. Phys. Lett. 92, 023114 (2008) </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Нанотрубка" StartNode="12" EndNode="22">
+</Annotation>
+<Annotation Id="1" Type="Нанотрубка" StartNode="2085" EndNode="2095">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="3007" EndNode="3024">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фаулер-Нордгейма</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Нанотрубка" StartNode="1664" EndNode="1674">
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1914" EndNode="1924">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="2387" EndNode="2397">
+</Annotation>
+<Annotation Id="6" Type="Электрофорез" StartNode="1439" EndNode="1452">
+</Annotation>
+<Annotation Id="7" Type="Углеродная+нанотрубка" StartNode="1" EndNode="22">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="2947" EndNode="2950">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="3057" EndNode="3060">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Наночастица" StartNode="2039" EndNode="2050">
+</Annotation>
+<Annotation Id="12" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="13" Type="Персона" StartNode="2835" EndNode="2841">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="3411" EndNode="3421">
+</Annotation>
+<Annotation Id="17" Type="Нанотрубка" StartNode="1755" EndNode="1765">
+</Annotation>
+<Annotation Id="16" Type="Нанотрубка" StartNode="1015" EndNode="1025">
+</Annotation>
+<Annotation Id="19" Type="Нанотрубка" StartNode="2145" EndNode="2155">
+</Annotation>
+<Annotation Id="18" Type="Нанотрубка" StartNode="812" EndNode="822">
+</Annotation>
+<Annotation Id="21" Type="Нанотрубка" StartNode="2296" EndNode="2306">
+</Annotation>
+<Annotation Id="20" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="23" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="22" Type="Период_времени" StartNode="2139" EndNode="2144">
+</Annotation>
+<Annotation Id="25" Type="Персона" StartNode="3284" EndNode="3287">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">В.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Вах</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Нанотрубка" StartNode="3192" EndNode="3202">
+</Annotation>
+<Annotation Id="27" Type="Период_времени" StartNode="1902" EndNode="1907">
+</Annotation>
+<Annotation Id="26" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="29" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="28" Type="Персона" StartNode="3077" EndNode="3094">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ф.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Фаулер-Нордгейма</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Наночастица+платины" StartNode="2028" EndNode="2050">
+</Annotation>
+<Annotation Id="30" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

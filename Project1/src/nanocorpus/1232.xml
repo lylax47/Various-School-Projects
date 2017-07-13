@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Нанотехнологии на службе фармакологииРИМ, <Node id="42"/>6 июля<Node id="48"/> – Применение нанотехнологий – актуальная проблема не только в технике, но и в медицине. Как пишет итальянский научный журнал «Фармацевтика», уже давно предлагалось использовать различные <Node id="236"/>наноструктуры<Node id="249"/> для целевой доставки лекарств в организм. Но мешало то, что организм реагирует не только на сами лекарства, но и на <Node id="366"/>наночастицы<Node id="377"/> тоже: их быстро обнаруживают и «отлавливают» лейкоциты.
+
+И вот наконец группа исследователей из Университета адриатического города Триеста (Италия) и Страсбургского института молекулярной и клеточной биологии (Франция) нашла способ использовать этот вред во благо. Они предложили применить специальные конусообразные <Node id="695"/>наноструктуры<Node id="708"/>, которые позволят контролировать до сих пор не управляемый процесс.
+ Лейкоциты «проглотили» наноконусы уже <Node id="816"/>через 24 часа<Node id="829"/> и тут же начали производить реактивные соединения, активирующие иммунную систему. При этом никаких признаков «клеточной смерти» не наблюдалось. Следующий шаг ученых – заполнить наноконусы особыми антигенами, как рожки мороженым, и таким образом подать организму локальный сигнал бедствия как призыв бороться с более серьезным заболеванием. <Node id="1170"/>http://www.ami-tass.ru/…e/37849.html<Node id="1206"/>
+О безопасности «химически модифицированных» <Node id="1251"/>углеродных <Node id="1262"/>нанотрубок<Node id="1272"/> ранее уже сообщали исследователи из School of Pharmacy, University of London:
+Carbon Nanotubes Pass Safety Checks for Use in Medical Treatments, Say Scientists at University of <Node id="1450"/>Londonhttp://www.nano.org.uk/…iewtopic.php?…Carbon<Node id="1500"/> nanotubes as nanomedicines: From toxicology to <Node id="1548"/>pharmacologyhttp://www.sciencedirect.com/science?…<Node id="1598"/>
+См. также здесь:
+Nano-Enabled Drug Candidate Receives Initial FDA Approval
+Apr 22, 2008
+
+Calando Pharmaceuticals recently announced that the FDA has approved its investigational new drug application for its anti-cancer compound, CALAA-01. The company’s drug is a targeted nanoparticle delivered via its proprietary polymer delivery system. The FDA has approved a Phase I trial that will be conducted at the UCLA Jonsson Cancer Center (UCLA) in Los Angeles, California, and the South Texas Accelerated Research Therapeutics (START) clinic in San Antonio, Texas. The clinical trials will be co-<Node id="2191"/>led<Node id="2194"/> by Dr. Antoni Ribas (UCLA) and Dr. Anthony Tolcher (START).
+<Node id="2255"/>http://www.nsti.org/…reaking.html?…Продолжаются<Node id="2302"/> токсикологические исследования <Node id="2334"/>углеродных <Node id="2345"/>нанотрубок<Node id="2355"/> «in vivo»
+Предварительные исследования на небольшой группе мышей не выявили токсичности функционализованных углеродных одностенных <Node id="2487"/>нанотрубок<Node id="2497"/> (ОСНТ) <Node id="2505"/>в течение 4 месяцев<Node id="2524"/>…
+<Node id="2526"/>http://www.nanonewsnet.ru<Node id="2551"/>/…otrubok-vivoДа, по всему видать, потихоньку-полегоньку в разных странах и организациях проводятся-таки исследования в области использования <Node id="2693"/>наночастиц<Node id="2703"/> и других <Node id="2713"/>наноматериалов<Node id="2727"/> в области медицины и, в частности, в области фармацевтики. Как говорится, глаза боятся, а руки делают… Естественно, основная опасность в данной области проистекает от того (потенциального) вреда, который могли бы принести сами эти <Node id="2959"/>наноматериалы<Node id="2972"/>. Естественно поэтому, что стали проводиться исследования сразу в нескольких направлениях: а) в области оценки токсичности НТ-материалов; б) в области поиска материалов, свободных от этого недостатка; в) способа обойти это препятствие… Материалов по данной теме не так уж и много, но они есть. Здесь мы не будем заниматься их поиском, а только укажем для специалистов, что такого рода поиски и исследования интенсивно ведутся в разных странах. И что, на наш взгляд, они рано или поздно могут привести к очень интересным результатам…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1170" EndNode="1206">
+</Annotation>
+<Annotation Id="1" Type="Наноструктура" StartNode="236" EndNode="249">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Наноматериал" StartNode="2713" EndNode="2727">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="Светодиод" StartNode="2191" EndNode="2194">
+</Annotation>
+<Annotation Id="5" Type="Углеродная+нанотрубка" StartNode="2334" EndNode="2355">
+</Annotation>
+<Annotation Id="6" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Нанотрубка" StartNode="2487" EndNode="2497">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="2345" EndNode="2355">
+</Annotation>
+<Annotation Id="9" Type="Наноструктура" StartNode="695" EndNode="708">
+</Annotation>
+<Annotation Id="10" Type="Url" StartNode="1548" EndNode="1598">
+</Annotation>
+<Annotation Id="11" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="2255" EndNode="2302">
+</Annotation>
+<Annotation Id="13" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="Нанотрубка" StartNode="1262" EndNode="1272">
+</Annotation>
+<Annotation Id="17" Type="Url" StartNode="1450" EndNode="1500">
+</Annotation>
+<Annotation Id="16" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="19" Type="Углеродная+нанотрубка" StartNode="1251" EndNode="1272">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Наноматериал" StartNode="2959" EndNode="2972">
+</Annotation>
+<Annotation Id="21" Type="Дата" StartNode="42" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Url" StartNode="2526" EndNode="2551">
+</Annotation>
+<Annotation Id="23" Type="Наночастица" StartNode="366" EndNode="377">
+</Annotation>
+<Annotation Id="22" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="25" Type="Период_времени" StartNode="2505" EndNode="2524">
+</Annotation>
+<Annotation Id="24" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="27" Type="Наночастица" StartNode="2693" EndNode="2703">
+</Annotation>
+<Annotation Id="26" Type="Период_времени" StartNode="816" EndNode="829">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

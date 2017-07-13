@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Как недавно установили ученые, <Node id="32"/>наночастицы<Node id="43"/> в форме длинных нитей-филаментов могут находиться в человеческой крови в десять раз дольше, чем сферические <Node id="152"/>наноматериалы<Node id="165"/>.
+
+Это было установлено Деннисом Дишером (Dennis Disher) из Университета Пенсильвании (Pennsylvania University), когда они проводили эксперименты по изучению биосовместимости полимерных флуоресцентных мицелл.
+
+Оказалось, что большинство сферических <Node id="414"/>наночастиц<Node id="424"/> и <Node id="427"/>углеродные <Node id="438"/>нанотрубки<Node id="448"/> выводятся из кровеносной системы <Node id="482"/>в течение нескольких часов<Node id="508"/>, а флуоресцентные мицеллы остаются в ней на срок свыше <Node id="564"/>недели<Node id="570"/>.
+
+Как говорят ученые, в таком длительном пребывании в организме есть положительный момент: наномицеллы можно использовать в качестве доставки противоракового агента паклитаксела (paclitaxel), который сам по себе является токсичным для здоровых тканей.
+
+Как показали тесты на мышах, наномицеллы, наполненные этим агентом, позволяют существенно уменьшить злокачественные опухоли.
+
+Как говорит Дишер, ранее для подобных задач использовались только сферические <Node id="1028"/>наночастицы<Node id="1039"/>. Использование нанонитей позволяет существенно увеличить эффективность терапии рака.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="564" EndNode="570">
+</Annotation>
+<Annotation Id="3" Type="Углеродная+нанотрубка" StartNode="427" EndNode="448">
+</Annotation>
+<Annotation Id="4" Type="Наночастица" StartNode="1028" EndNode="1039">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="152" EndNode="165">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="414" EndNode="424">
+</Annotation>
+<Annotation Id="8" Type="Нанотрубка" StartNode="438" EndNode="448">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="32" EndNode="43">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="482" EndNode="508">
+</Annotation>
+<Annotation Id="11" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

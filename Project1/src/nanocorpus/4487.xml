@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Премьер-министр РФ Виктор Зубков подписал распоряжение, согласно которому критерии отбора проектов, для реализации которых необходимо предоставление им в пользование объектов инфраструктуры наноиндустрии, будут разработаны и утверждены во <Node id="240"/>втором квартале 2008 года<Node id="265"/>. Об этом сообщили «Росбалту» в пресс-службе правительства РФ.
+
+Согласно распоряжению, <Node id="352"/>с четвертого квартала текущего года<Node id="387"/> должно быть обеспечено размещение в сети Интернет информации о перечне, составе, измерительных и технологических возможностях объектов инфраструктуры наноиндустрии с соблюдением условий, обеспечивающих защиту сведений, составляющих гостайну, отмечается в сообщении пресс-службы.
+
+Помимо этого, в распоряжении премьер-министра указаны следующие поручения: <Node id="743"/>Роснаука<Node id="751"/>, начиная <Node id="761"/>с первого квартала 2009 года<Node id="789"/>, обязана обеспечить ведение реестра объектов инфраструктуры наноиндустрии и осуществление мониторинга эффективности их использования.
+
+Министерство образования и науки РФ во <Node id="964"/>втором квартале 2008 года<Node id="989"/> должно обеспечить разработку и утверждение форм представления информации об объектах инфраструктуры наноиндустрии. А в <Node id="1109"/>третьем квартале текущего года<Node id="1139"/> министерству было поручено разработать и утвердить порядок и условия предоставления в пользование объектов инфраструктуры наноиндустрии.
+
+Кроме того, <Node id="1290"/>Минобрнауки<Node id="1301"/> ежегодно, до <Node id="1315"/>1 апреля<Node id="1323"/>, будет представлять в правительство доклад об использовании объектов инфраструктуры наноиндустрии и предложения по повышению эффективности их использования.
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Властная_Структура" StartNode="743" EndNode="751">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Роснаука</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Властная_Структура" StartNode="1290" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">Наименование_Структуры</Name>
+  <Value className="java.lang.String">Минобрнауки</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="761" EndNode="789">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="240" EndNode="265">
+</Annotation>
+<Annotation Id="6" Type="Дата" StartNode="1315" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">апреля</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="352" EndNode="387">
+</Annotation>
+<Annotation Id="8" Type="Период_времени" StartNode="1109" EndNode="1139">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="964" EndNode="989">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

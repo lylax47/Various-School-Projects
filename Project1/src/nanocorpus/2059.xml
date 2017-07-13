@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Военные нанотехнологии. Возможности применения и превентивного контроля вооружений (Перевод с английского)Military Nanotechnology: Potential Applications and Preventive Arms ControlСерия: Мир материалов и технологий (ГРИФ)
+ <Node id="224"/>Альтман Ю.<Node id="234"/> (Jurgen Altmann)
+ Издательство: «Техносфера» Переплет: твердый <Node id="298"/>Год<Node id="301"/> издания: 2008 (2-е изд., доп. и испр.) Страниц: 424 Тираж: 1500 экз. ISBN: 978–5–94836–175–8 Цена: <Node id="401"/>284 руб.<Node id="409"/> Книга является первым систематическим обзором потенциальных военных приложений нанотехнологий. В ближайшие <Node id="517"/>10—20 лет<Node id="526"/> могут быть созданы сверхмалые компьютеры, более легкие и прочные материалы, новые типы оружия и даже имплантанты, вводимые в организм военнослужащих.
+ Перспективы военных нанотехнологий рассматриваются прежде всего с точки зрения международной безопасности и предотвращения новой гонки вооружений. Монография полезна для ученых, инженеров и преподавателей высшей школы, студентов и аспирантов, бакалавров и магистров, специализирующихся в области нанотехнологий и <Node id="991"/>наноматериалов<Node id="1005"/>, микро- и наносистемной <Node id="1030"/>техники.http://www.zone-x.ru/ShowTov.asp?…Интернет-магазин<Node id="1088"/> «Зона-Х»
+125009 Москва, Газетный переулок, д.9, стр.2, 3 этаж, комн.35
+
+Телефоны: +7 (495) 629–15–32, 629–83–42
+
+Факс: +7 (495) 629–63–27
+<Node id="1227"/>http://www.zone-x.ru/Прошло<Node id="1254"/> всего (или уже) <Node id="1271"/>два года<Node id="1279"/> с момента выпуска первого издания (2006), но книга не потеряла своей актуальности. Тем более что во второе издание внесены некоторые исправления и дополнения. Какие – сказать не могу: сам я книгу, разумеется, не видел, так как объявление о ней только что появилось на сайте интернет-магазина Zone-x. Думаю, что знакомство с ней может быть полезно для всех упомянутых выше категорий читателей. Кто познакомится – может прислать сюда свои впечатления…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1030" EndNode="1088">
+</Annotation>
+<Annotation Id="1" Type="Деньги" StartNode="401" EndNode="409">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="298" EndNode="301">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="224" EndNode="234">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Ю.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Альтман</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="1271" EndNode="1279">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="1227" EndNode="1254">
+</Annotation>
+<Annotation Id="6" Type="Наноматериал" StartNode="991" EndNode="1005">
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="517" EndNode="526">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

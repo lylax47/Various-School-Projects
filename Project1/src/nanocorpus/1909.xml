@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>На мирные рельсыНашим учёным-оружейникам платят за выпуск гражданской продукцииПочти <Node id="85"/>$800 млн<Node id="93"/> за <Node id="97"/>последние 15 лет<Node id="113"/> пошли на переориентацию российских специалистов [«оружейников»] на реализацию мирных проектов.
+ По словам исполнительного директора Международного научно-технического центра (МНТЦ) <Node id="295"/>Адриана ван дер Меера<Node id="316"/>, с момента его создания в <Node id="343"/>1992 году<Node id="352"/> общее число профинансированных центром проектов составило 2600. Например, в <Node id="429"/>2007 году<Node id="438"/> 147 научно-технических проектов получили поддержку на сумму <Node id="499"/>$49 млн.<Node id="507"/> К наиболее перспективным направлениям конверсии относятся нанотехнологии, охрана и безопасность окружающей среды, транспорт, альтернативные источники энергии, ядерная безопасность и другие.
+ Например, учёные Центрального аэрогидродинамического института из <Node id="765"/>Жуковского (Московская область)<Node id="796"/> в сотрудничестве со специалистами Европейской трансзвуковой аэродинамической трубы (Германия) изучали сопротивление различной авиационной техники воздушной среде. Уникальная методика корректировки расчётов, разработанная российской научной группой в рамках проекта, позволяет повысить точность получаемых данных и уменьшить число предварительных экологически вредных лётных экспериментов. Тем самым удалось снизить стоимость испытаний новых самолётов на <Node id="1251"/>10%<Node id="1254"/>. Белорусская научная группа запатентовала процедуру производства тонкоплёночных солнечных элементов и модулей.
+ Учёные <Node id="1374"/>Физико<Node id="1380"/>-энергетического института (г. Обнинск) – <Node id="1422"/>http://www.nanonewsnet.ru/…-gnts-rf-fei<Node id="1461"/> – разработали инновационную технологию фильтрации воды с помощью тончайших металлических мембран, нанесённых на полиэтиленовую основу. Очистка жидкости в таком фильтре происходит не внутри элемента, а на его поверхности, что продлевает срок его эксплуатации за счёт возможной самоочистки поверхности. 
+Заместитель директора Российского федерального ядерного центра (РФЯЦ-ВНИИЭФ, г. Саров) – <Node id="1853"/>http://www.nanonewsnet.ru/…fyats-vniief<Node id="1892"/> - <Node id="1895"/>Ольга Воронцова сообщила, что <Node id="1925"/>его учёные совместно с коллегами из Института теплофизики СО РАН (г. Новосибирск) провели исследования по синтезу <Node id="2039"/>наноразмерных частиц<Node id="2059"/> с помощью лазеров<Node id="2077"/>. По <Node id="2082"/>её<Node id="2084"/> словам, взаимодействие с МНТЦ позволяет 22 тыс. учёных из Сарова выполнять работы по этим проектам совместно с зарубежными партнёрами, создавая мирные инновационные технологии.
+ Кроме того, Адриан ван дер Меер рассказал «Гудку», что Международный научно-технический центр готов поддерживать различные транспортные проекты, в том числе и железнодорожные. Пока наиболее успешно развивается сотрудничество центра с представителями космической промышленности, в частности, в сфере геонавигации. Также российские учёные и специалисты компании «Аэробус» при финансовой помощи МНТЦ разрабатывают новые материалы и экологически чистые виды топлива для самолётов. Наталия <Node id="2748"/>Курскаяhttp://gudok.ru/index.php/61631Международный<Node id="2799"/> научно-технический <Node id="2819"/>центрhttp://www.istc.ru/Международный<Node id="2856"/> научно-технический центр (МНТЦ) уже давно позиционировал себя в качестве игрока на поле информационных структур для инновационного бизнеса в России. Эту организацию, учрежденную совместно США, Японией, ЕС и Россией, наши разработчики прекрасно знают. Ее миссия — содействовать конверсии и интеграции СНГ-шного научно-технического сообщества в международное (более прагматичная цель — удержать технологии создания ОМП от расползания по миру вместе с их создателями, одновременно развивая научные проекты и партнерские программы с зарубежным бизнесом). Многие в России работали и работают по грантам МНТЦ (за <Node id="3464"/>восемь лет<Node id="3474"/> финансирование составило <Node id="3500"/>$500 миллионов<Node id="3514"/>, успешно завершено 1600 проектов, только в <Node id="3558"/>прошлом году<Node id="3570"/> открылось 249 новых). Разумеется, информация о тематике и разработчиках за это время накоплена огромная. Это ещё один источник средств для инновационных разработок отечественного ВПК…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Деньги" StartNode="499" EndNode="507">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="2819" EndNode="2856">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="1853" EndNode="1892">
+</Annotation>
+<Annotation Id="3" Type="расположение" StartNode="765" EndNode="796">
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="1374" EndNode="1380">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Физико</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Год" StartNode="343" EndNode="352">
+</Annotation>
+<Annotation Id="6" Type="Нульмерная+наноструктура" StartNode="2039" EndNode="2059">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Период_времени" StartNode="3464" EndNode="3474">
+</Annotation>
+<Annotation Id="8" Type="Url" StartNode="2748" EndNode="2799">
+</Annotation>
+<Annotation Id="9" Type="Период_времени" StartNode="343" EndNode="352">
+</Annotation>
+<Annotation Id="10" Type="Персона" StartNode="2082" EndNode="2084">
+</Annotation>
+<Annotation Id="11" Type="Период_времени" StartNode="429" EndNode="438">
+</Annotation>
+<Annotation Id="12" Type="упоминает" StartNode="1895" EndNode="2077">
+</Annotation>
+<Annotation Id="13" Type="Деньги" StartNode="85" EndNode="93">
+</Annotation>
+<Annotation Id="14" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="высказывания_заявления" StartNode="1895" EndNode="2077">
+</Annotation>
+<Annotation Id="16" Type="Период_времени" StartNode="97" EndNode="113">
+</Annotation>
+<Annotation Id="19" Type="Период_времени" StartNode="3558" EndNode="3570">
+</Annotation>
+<Annotation Id="18" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="21" Type="Год" StartNode="429" EndNode="438">
+</Annotation>
+<Annotation Id="20" Type="автор" StartNode="1895" EndNode="2077">
+</Annotation>
+<Annotation Id="23" Type="Процент" StartNode="1251" EndNode="1254">
+</Annotation>
+<Annotation Id="22" Type="Url" StartNode="1422" EndNode="1461">
+</Annotation>
+<Annotation Id="25" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="24" Type="Деньги" StartNode="3500" EndNode="3514">
+</Annotation>
+<Annotation Id="27" Type="темы" StartNode="1925" EndNode="2077">
+</Annotation>
+<Annotation Id="26" Type="Персона" StartNode="295" EndNode="316">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">А.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Адриана</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="цитаты" StartNode="1925" EndNode="2077">
+</Annotation>
+<Annotation Id="28" Type="упоминается" StartNode="1895" EndNode="2077">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

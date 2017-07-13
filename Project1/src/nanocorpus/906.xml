@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Благодаря последним достижениям наноэлектроники и спектроскопии нанотехнологам удалось сконструировать <Node id="104"/>сенсор<Node id="110"/>, способный детектировать отдельные молекулы. Это, без сомнения, большой прогресс в нанотехнологии, так как простой и доступный инструмент подобного рода может принести большую пользу исследователям.
+
+Ученые из Университета Райса (Rice University) смогли создать устройство, способное детектировать отдельные молекулы благодаря миниатюрным зазорам в золотых нанонитях.
+
+Работа ученых из <Node id="497"/>Райса<Node id="502"/> может привести к появлению простых массовых <Node id="547"/>наносенсоров<Node id="559"/>-детекторов молекул.
+
+Принцип действия устройства достаточно прост – две золотые нанонити разделены пространством, сопоставимым с размерами одной молекулы. Нанонити играют роль электродов, поэтому присутствие молекулы в щели можно сразу же определить, измеряя ток, протекающий через зазор между электродами. Более того, оптические свойства щели также позволяют идентифицировать молекулу благодаря ее уникальному оптическому «отпечатку».
+
+<Node id="997"/>Наносенсор<Node id="1007"/> работает при комнатной температуре и может находиться на открытом воздухе, что делает его достаточно универсальным в экспериментах.
+
+Один из исследователей, профессор Дуглас Нательсон (Douglas Natelson), говорит, что с помощью <Node id="1235"/>сенсора<Node id="1242"/> можно будет наблюдать даже химические реакции, протекающие в его щели.
+
+Благодаря особенностям конструкции <Node id="1350"/>сенсора<Node id="1357"/>, ученые могут детектировать молекулы «мультимодально», то есть одновременно и электрически, и оптически.
+
+Кстати, оптические отпечатки молекул расшифровываются с помощью поверхностной <Node id="1542"/>Рамановской спектроскопии<Node id="1567"/>.
+
+О своей работе ученые сообщили в журнале NanoLetters.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Сенсор" StartNode="104" EndNode="110">
+</Annotation>
+<Annotation Id="1" Type="Рамановская+спектроскопия" StartNode="1542" EndNode="1567">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="547" EndNode="559">
+</Annotation>
+<Annotation Id="3" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="997" EndNode="1007">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="Сенсор" StartNode="1350" EndNode="1357">
+</Annotation>
+<Annotation Id="8" Type="Персона" StartNode="497" EndNode="502">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Райс</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Сенсор" StartNode="1235" EndNode="1242">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

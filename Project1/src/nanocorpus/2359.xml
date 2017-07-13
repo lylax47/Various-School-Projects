@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> Использовать белки, производимые микробами, для очистки воды – звучит парадоксально. Но некоторые бактерии делают это лишь для того чтобы защитить себя от потенциально токсичных <Node id="179"/>наночастиц<Node id="189"/>, окружающих их. <Node id="206"/>В будущем<Node id="215"/> возможно организовать это в больших масштабах. 
+ 
+Команда исследователей из Lawrence Livermore National Laboratory и Lawrence Berkeley National Laboratory (UC, Berkely) обнаружила, что бактерии из заброшенных шахт выделяют белки, приводящие к агрегации <Node id="469"/>наночастиц<Node id="479"/>, содержащих металл. Бактерии связывают ионы металла в <Node id="534"/>наночастицы<Node id="545"/>, а <Node id="549"/>наночастицы<Node id="560"/> между собой, если они потенциально токсичны для бактерий. Бактерии, восстанавливающие сульфат ион могут приводить к выпадению тяжелых металлов, таких как цинк, в виде <Node id="728"/>наночастиц<Node id="738"/> сульфида. Однако такие частицы движутся в растворе, потому что они очень маленькие (2-6 нм в диаметре) и могут растворяться, если условия меняются. Бактерии из шахт способствуют агрегации таких частиц, после чего частицы не движутся и растворяются с большим трудом. 
+ 
+Используя <Node id="1018"/>масс-спектрометрию<Node id="1036"/>, <Node id="1038"/>просвечивающую электронную микроскопию<Node id="1076"/> и инфракрасную спектроскопию ученые смогли определить вклад протеинов в формирование плотных сферических агрегатов <Node id="1192"/>наночастиц<Node id="1202"/> сульфида цинка а также влияние различных аминокислот на увеличение скорости агрегации. Результаты были представлены в статье “Extracellular Proteins Limit the Dispersal of Biogenic Nanoparticles”, опубликованной в журнале Science. 
+ 
+Ученые обнаружили высокую концентрацию азота из органики во всех агрегатах сульфида цинка, указывающего на высокое содержание протеинов или полипептидов. Используя различные исследовательские методики, они сделали вывод о том, что протеины способствуют агрегации <Node id="1700"/>наночастиц<Node id="1710"/> сульфида цинка. 
+Эксперименты с синтетическим сульфидом цинка показали, что за быструю агрегацию <Node id="1808"/>наночастиц<Node id="1818"/> отвечает аминокислота цистеин. 
+ 
+ 
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="1192" EndNode="1202">
+</Annotation>
+<Annotation Id="1" Type="Наночастица" StartNode="549" EndNode="560">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="206" EndNode="215">
+</Annotation>
+<Annotation Id="3" Type="Наночастица" StartNode="1808" EndNode="1818">
+</Annotation>
+<Annotation Id="4" Type="Просвечивающая+электронная+микроскопия" StartNode="1038" EndNode="1076">
+</Annotation>
+<Annotation Id="5" Type="Наночастица" StartNode="469" EndNode="479">
+</Annotation>
+<Annotation Id="6" Type="Масс-спектрометрия" StartNode="1018" EndNode="1036">
+</Annotation>
+<Annotation Id="7" Type="Наночастица" StartNode="534" EndNode="545">
+</Annotation>
+<Annotation Id="8" Type="Наночастица" StartNode="728" EndNode="738">
+</Annotation>
+<Annotation Id="9" Type="Наночастица" StartNode="1700" EndNode="1710">
+</Annotation>
+<Annotation Id="10" Type="Наночастица" StartNode="179" EndNode="189">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

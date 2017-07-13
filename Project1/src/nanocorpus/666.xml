@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes> 
+Решение задач любой олимпиады - трудный творческий процесс.  В связи с этим, а также по многочисленным просьбам участников, связанным со сдачей экзаменов и большой загруженностью, срок решения заданий Интернет-олимпиады продлен на <Node id="233"/>1 неделю<Node id="241"/>, вплоть до 24 ч. 00 мин. <Node id="267"/>14 июня 2007 г.<Node id="282"/> Награждение будет проходить <Node id="311"/>27 июня 2007 г.<Node id="326"/>, как указано в Циркуляре. 
+ 
+Одновременно на сайте <Node id="378"/>www.nanometer.ru<Node id="394"/> в разделе "Публикации" помещено несколько небольших статей из готовящегося научно-популярного издания "Нанотехнологии. Азбука для всех". Сборник примерно из 70 статей "наноазбуки", названия которых приведены на картинке слева, будет подарен победителям Интернет-Олимпиады во время торжественного закрытия. Эти статьи можно использовать для того, чтобы лучше решить задания Олимпиады (разумеется, копирование текстов министатей "наноазбуки" в качестве ответов на задачи Интернет-олимпиады недопустимо).
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Дата" StartNode="267" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="233" EndNode="241">
+</Annotation>
+<Annotation Id="2" Type="Дата" StartNode="311" EndNode="326">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">июня</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Url" StartNode="378" EndNode="394">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

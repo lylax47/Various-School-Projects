@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Глава МОН РК провел встречу с Послом КубыАСТАНА. <Node id="49"/>13 августа<Node id="59"/> – Сегодня министр образования и науки РК <Node id="101"/>Жансеит Туймебаев<Node id="118"/> провел встречу с Чрезвычайным и Полномочным Послом Кубы в Республике Казахстан Тереситой Камаччо, передает Казинформ со ссылкой на пресс-службу МОН.
+ В ходе встречи были обсуждены перспективы развития отношений Казахстана и Кубы в системе образования. Министр подчеркнул высокий уровень сотрудничества между странами и отметил, что в Казахстане происходит активное внедрение в мировой образовательный процесс и расширение границ образовательного пространства. 
+Свыше тысячи выпускников «Болашака» сейчас трудятся в министерствах и ведомствах республики, национальных компаниях и холдингах. Теперь по программе «Болашак» три тысячи казахстанцев каждый <Node id="770"/>год<Node id="773"/> будут получать знания в 30 странах мира.
+ «Казахстан намерен развивать сотрудничество с Кубой в сфере нано- и биотехнологий, информационных и космических технологий»,– заявил министр образования и науки РК.
+ http://www.inform.kz/showarticle.php?…Да, Куба развивает сотрудничество с Кубой и с Россией <Node id="1074"/>(http://www.nanonewsnet.ru/…rudnichestvo).<Node id="1116"/> И это замечательно! Доброго пути и новых успехов!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Url" StartNode="1074" EndNode="1116">
+</Annotation>
+<Annotation Id="1" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Персона" StartNode="101" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Туймебаев</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="49" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">августа</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="Период_времени" StartNode="770" EndNode="773">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

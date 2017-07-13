@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>
+Учёные из Purdue University разработали новые миниатюрные устройства, предназначенные для имплантации в глаз для лечения глаукомы.
+
+Глаукома является одной из двух основных причин слепоты. Возникающие при этом заболевании изменения необратимы, но болезнь может быть предотвращена. Причиной глаукомы является повышение давления в глазу, которое приводит к гибели зрительного нерва. Страдающие глаукомой пациенты регулярно проходят проверки внутриглазного давления, и при опасном повышении врач прописывает курс лекарств или производит операцию.
+
+Однако, возрастание внутриглазного давления может происходить <Node id="608"/>в течение часов<Node id="623"/>, а то и <Node id="632"/>минут<Node id="637"/>. Поэтому в идеале необходимо измерять его очень часто. Очевидно, ходить к врачу каждые <Node id="725"/>несколько минут<Node id="740"/> не представляется возможным. Для решения этой проблемы учёные разработали <Node id="815"/>наносенсор<Node id="825"/>, имплантируемый прямо в глаз пациента.
+
+<Node id="866"/>Сенсор<Node id="872"/> помещается между двумя слоями тканей в глазу. Он измеряет внутриглазное давление и передаёт информацию на внешний приёмник, что позволяет непрерывно следить за давлением. Для усиления сигнала с устройства мощностью всего в несколько наноВатт используется специальный «наноусилитель».
+
+Исследователи планируют провести проверки на животных к <Node id="1214"/>декабрю<Node id="1221"/> <Node id="1222"/>этого года<Node id="1232"/>. Клинические испытания на людях должны начаться <Node id="1281"/>в течение 18 месяцев<Node id="1301"/>.
+Василий Артюхов</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="608" EndNode="623">
+</Annotation>
+<Annotation Id="1" Type="Период_времени" StartNode="1222" EndNode="1232">
+</Annotation>
+<Annotation Id="2" Type="Сенсор" StartNode="815" EndNode="825">
+</Annotation>
+<Annotation Id="3" Type="Период_времени" StartNode="1281" EndNode="1301">
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="725" EndNode="740">
+</Annotation>
+<Annotation Id="5" Type="Сенсор" StartNode="866" EndNode="872">
+</Annotation>
+<Annotation Id="6" Type="Период_времени" StartNode="632" EndNode="637">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1214" EndNode="1221">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">декабрю</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/> Хиральность является важным свойством, которое использутся для распознавания молекул. Поэтому разработка наноразмерных зондов, обладающих хиральной люминесценцией, может оказаться очень полезной в химии и биологии. Исследователи из Trinity College (Dublin) смогли стабилизировать пеницилламином <Node id="296"/>квантовые точки<Node id="311"/> сульфида кадмия. 
+ 
+Хиральные <Node id="342"/>квантовые точки<Node id="357"/> были приготовлены путем нагревания смеси «голых» <Node id="407"/>наночастиц<Node id="417"/> CdS и каким-либо из оптических изомеров (энантиомеров) пеницилламина. В результате при освещении ультрафиолетом <Node id="530"/>квантовые точки<Node id="545"/> излучали яркий зеленый свет. Если в смеси содержание энантиомеров одинаково (рацемическая смесь), то излучается синий свет. 
+ 
+Исследования кругового дихроизма показали, что правосторонние и левосторонние <Node id="751"/>квантовые точки<Node id="766"/> вращают плоскость поляризации света в противоположных направлениях. Это дает возможность использовать такие <Node id="875"/>квантовые точки<Node id="890"/> в качестве химических и биохимических хиральных <Node id="939"/>сенсоров<Node id="947"/>. 
+ 
+Работа была опубликована в журнале Chemical Communications. 
+  </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наночастица" StartNode="407" EndNode="417">
+</Annotation>
+<Annotation Id="1" Type="Квантовая+точка" StartNode="530" EndNode="545">
+</Annotation>
+<Annotation Id="2" Type="Квантовая+точка" StartNode="751" EndNode="766">
+</Annotation>
+<Annotation Id="3" Type="Сенсор" StartNode="939" EndNode="947">
+</Annotation>
+<Annotation Id="4" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="Квантовая+точка" StartNode="342" EndNode="357">
+</Annotation>
+<Annotation Id="7" Type="Квантовая+точка" StartNode="875" EndNode="890">
+</Annotation>
+<Annotation Id="8" Type="Квантовая+точка" StartNode="296" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

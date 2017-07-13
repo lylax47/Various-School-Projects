@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Израильские нано-спутники – дешевая альтернатива GPSИзраильская ассоциация нано-спутников запустит два первых нано-спутника с территории Индии в 2009 годуАссоциация заявляет, что запуски, запланированные на <Node id="207"/>август-сентябрь<Node id="222"/> должны продемонстрировать техническую осуществимость и пригодность новой платформы, которая должна стать конкурентом системы глобального позиционирования GPS.
+ Глава ассоциации <Node id="400"/>Раз Тамир<Node id="409"/> заявил:  
+«Это докажет жизнеспособность нашей концепции».
+ 
+<Node id="470"/>Тамир<Node id="475"/>, который также возглавляет отдел нанотехнологий израильской аэрокосмической корпорации, утверждает, что микроплатформы заменят традиционные спутниковые технологии.
+ Он также сообщил , что процесс разработки, конструирования и строительства спутников, которые выведут на орбиту 10 кг полезного груза, займет <Node id="783"/>менее года<Node id="793"/>. Нано-спутники, по его словам, гораздо дешевле своих полноразмерных собратьев. <Node id="873"/>http://www.mignews.com<Node id="895"/>/…6_82396.htmlНу, «наноспутники» массой 10 кг – это, конечно, не наноразмерные изделия сами по себе, но при их создании, очевидно, будут широко использоваться нанотехнологии, так что это, можно сказать, весьма близкая, «смежная» область, о которой мы уже сообщали ранее …</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Персона" StartNode="400" EndNode="409">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тамир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="873" EndNode="895">
+</Annotation>
+<Annotation Id="2" Type="Период_времени" StartNode="207" EndNode="222">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="470" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Т.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Тамир</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Период_времени" StartNode="783" EndNode="793">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

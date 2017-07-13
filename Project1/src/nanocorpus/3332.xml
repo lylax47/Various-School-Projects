@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>25 ноября<Node id="9"/> откроется выставка «Нанотехнологии – Производству 2008»<Node id="65"/>25 – 27 ноября<Node id="79"/> во <Node id="83"/>Фрязино, Московская область<Node id="110"/>, пройдет 5-я Международная научно-практическая конференция и выставка «Нанотехнологии – Производству 2008».
+ Организаторы конференции – Министерство промышленности и науки Московской области, Торгово-промышленная палата РФ, Министерство энергетики РФ, ОАО «Российские железные дороги», Администрация г. Фрязино, Национальная ассоциация наноиндустрии, ЗАО «Концерн Наноиндустрия». 
+Генеральный информационный спонсор конференции – Портал «Исследования и разработки – R&amp;D.CNews».
+Цель конференции – содействие деловому сотрудничеству в сфере создания и развития наноиндустриальных производств, ориентированных на получение принципиально новых видов продукции, снижение энергоемкости технологических процессов, повышение безопасности, улучшение условий и качества жизни людей путем практического использования нанотехнологий.
+ Темы докладов:  моделирование нанопроцессов и <Node id="981"/>наноструктур<Node id="993"/>; инженерные технологии наноразмерного диапазона; специальное технологическое оборудование и приборы для нанотехнологий; нанометрология; <Node id="1130"/>наноматериалы<Node id="1143"/> и нанопокрытия; наноэлектроника: компоненты и системные решения; нанотехнологии для ТЭК: ресурсосбережение, альтернативные источники энергии; нанотехнологии в строительных материалах и конструкциях; нанотехнологии в медицине и биологии; наноэкология: утилизация и переработка отходов, снижение вредных выбросов в атмосферу; нанотехнологии в ЖКХ; нанотехнологии для агропромышленного комплекса; нанотехнологии в машиностроении и металлургии; риски, связанные с нанотехнологиями, нанотоксикология.  Заявки на участие в конференции принимаются оргкомитетом до <Node id="1701"/>1 ноября<Node id="1709"/>. <Node id="1711"/>http://www.cnews.ru/…/index.shtml?…<Node id="1746"/>
+Подробнее см. здесь: <Node id="1768"/>http://www.nanotech.ru/fr2008/Организационная<Node id="1813"/> информация: Информационное письмо № 1 Требования для подготовки тезисов доклада Условия участия Заявка Требования для подготовки статей в сборник трудов конференции Заявки принимаются по адресу:
+Россия, 115184, Москва, ул. <Node id="2037"/>Б. Татарская<Node id="2049"/>, 38
+Оргкомитет Конференции «Нанотехнологии – производству 2008»Тел.: (095) 953–53–94, 951–32–17, 951–59–00.
+Факс: (095) 953–53–82
+E-mail: nanotech@mail.magelan.ru, info2@nanotech.ruЭта уже хорошо известная ежегодная выставка – представительный смотр уже достигнутого за <Node id="2320"/>прошедший год<Node id="2333"/>. Думаю, большая польза будет как для экспонентов, так и посетителей выставки… Заглядывайте!..</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="1" Type="Наноматериал" StartNode="1130" EndNode="1143">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="Дата" StartNode="0" EndNode="9">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Персона" StartNode="2037" EndNode="2049">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Б.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Татарская</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="расположение" StartNode="83" EndNode="110">
+</Annotation>
+<Annotation Id="7" Type="Дата" StartNode="1701" EndNode="1709">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">ноября</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Наноструктура" StartNode="981" EndNode="993">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="Период_времени" StartNode="65" EndNode="79">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="1768" EndNode="1813">
+</Annotation>
+<Annotation Id="13" Type="Url" StartNode="1711" EndNode="1746">
+</Annotation>
+<Annotation Id="14" Type="Период_времени" StartNode="2320" EndNode="2333">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

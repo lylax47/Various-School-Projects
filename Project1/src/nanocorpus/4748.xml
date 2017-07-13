@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Nanotech in Russia: Development of Nanotechnologies and Nanomaterials
+Russian-Finnish Scientific Conference, 12 – 13 September 2007, Helsinki
+
+Российско-Финская научная конференция, <Node id="182"/>12–13 сентября 2007 г.<Node id="204"/>, Хельсинки
+
+Интересный, информационно-насыщенный – по сути, ознакомительный – форум специалистов двух стран. Обсуждались как структура национальных программ развития НТ, так и методы коммерциализации продуктов, разработка и получение отдельных видов материалов, их характеристики… С российской стороны заявлены в основном сотрудники НИЦентра при Курчатовском институте. В частности, его директор – Михаил Ковальчук.
+<Node id="621"/>http://www.nanotech.net/…e_200807.pdfИнтересная<Node id="668"/> форма пропаганды отечественных (будущих) достижений с выездом в соседнюю дружественную страну. Ну, может быть, и сами чего-то полезного почерпнут у соседей…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Период_времени" StartNode="182" EndNode="204">
+</Annotation>
+<Annotation Id="1" Type="Url" StartNode="621" EndNode="668">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

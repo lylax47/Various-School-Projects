@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Российские фармпроизводители расширяют сотрудничество с европейскими коллегамиГенеральный директор Ассоциации российских фармацевтических производителей (АРФП) Виктор Дмитриев<Node id="175"/> <Node id="176"/>встретился с руководством Европейской ассоциации производителей безрецептурных препаратов (AESGP) и Европейской ассоциации производителей дженериковых препаратов (EGA).
+
+Рабочие встречи с исполнительным директором AESGP Х.Кранцем и директором Департамента регуляторной сферы EGA Б. Степневска состоялись <Node id="480"/>17 марта<Node id="488"/> в Брюсселе. На встречах обсуждались вопросы перехода российской фармпромышленности на стандарты GMP, гармонизации нормативно-правовой базы, регулирующей обращение лекарственных средств (ЛС) на территории Российской Федерации и стран СНГ, изменения в европейском законодательстве, возможности выхода ЛС, производимых российскими компаниями, на европейский рынок, борьба с фальсифицированными лекарственными средствами, законодательное регулирование применения нанотехнологий в фармацевтике.
+
+Одним из основных вопросов прошедших переговоров стало обсуждение возможности вступления Ассоциации российских фармацевтических производителей в AESGP и EGA.
+В.Дмитриев так прокомментировал это намерение:
+ 
+«Российский фармрынок представляет все более значимую часть мирового фармацевтического рынка, поэтому назревает необходимость гармонизации национальных требований в области исследований, производства и дальнейшего обращения ЛС с требованиями Европейского Союза. В этой связи активное сотрудничество АРФП с Европейскими ассоциациями позволит иметь доступ к лучшему мировому опыту в этой сфере и в целом будет способствовать интеграции отечественной фармацевтической промышленности в европейский рынок при сохранении и упрочении потенциала предприятий отрасли».
+ 
+Были достигнуты конкретные договоренности по вступлению Ассоциации российских фармацевтических производителей в AESGP и по получению статуса наблюдателя в EGA . Члены АРФП приглашены к работе в профильных комитетах ассоциаций и к участию в ежегодной встрече членов EGA во Франции и в 44-ом конгрессе AESGP, который состоится <Node id="2074"/>летом этого года<Node id="2090"/> в Швеции.
+
+В ходе встреч сторонами была подчеркнута необходимость укрепления стратегических отношений между ЕС и Россией в вопросах развития фармацевтической индустрии, и в этом контексте были обсуждены отдельные практические вопросы сотрудничества и планы контактов на различных уровнях.
+<Node id="2380"/>http://www.ami-tass.ru/…e/33638.htmlАссоциации<Node id="2426"/> российских фармацевтических производителей (АРФП)Адрес: 117105, г.Москва, ул.Нагатинская, д.3а;
+Телефон: (495) 231 42–53
+Факс: (495) 231 42–54
+E-mail: <Node id="2578"/>arfp@arfp.ruhttp://associaciya.arfp.ru<Node id="2616"/>/<Node id="2617"/>Хо<Node id="2619"/>! Оказывается, очень даже солидная организация, эта АРФП… И, разумеется, она не занимается нанотехнологиями. Но вот если кто заинтересуется вопросами законодательного регулирования применения нанотехнологий в фармацевтике, то тогда первым делом – сюда… Координаты – см. выше.</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="сотрудники" StartNode="175" EndNode="176">
+</Annotation>
+<Annotation Id="1" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Url" StartNode="2380" EndNode="2426">
+</Annotation>
+<Annotation Id="3" Type="Электронная_почта" StartNode="2578" EndNode="2616">
+</Annotation>
+<Annotation Id="4" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="5" Type="связи_с_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="6" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="работает" StartNode="175" EndNode="176">
+<Feature>
+  <Name className="java.lang.String">Должность</Name>
+  <Value className="java.lang.String">директор</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Персона" StartNode="2617" EndNode="2619">
+<Feature>
+  <Name className="java.lang.String">Инициал</Name>
+  <Value className="java.lang.String">Х.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">связи_с_организациями</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">Имя</Name>
+  <Value className="java.lang.String">Хо</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Период_времени" StartNode="2074" EndNode="2090">
+</Annotation>
+<Annotation Id="13" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="17" Type="связи_с_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="16" Type="Дата" StartNode="480" EndNode="488">
+<Feature>
+  <Name className="java.lang.String">месяц</Name>
+  <Value className="java.lang.String">марта</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+Интегрированные микросхемы, например кремниевые чипы, полностью зависимы от внутренних соединений между микросхемами.
+
+Дело в том, что при уменьшении размеров медных проводов, их проводящая способность меняется, поэтому есть некоторый барьер, ограничивающий показатели скорости работы чипа, связанный напрямую с толщиной медного проводника.
+
+Нанотехнологи уже давно используют <Node id="378"/>нанотрубки<Node id="388"/> в качестве «экспериментальных» нанопроводников. Благодаря их маленьким размерам можно плотнее упаковать микросхемы внутри чипа, уменьшив, таким образом, его размер. Однако до сих пор не было продемонстрировано ни одного работоспособного кремниевого чипа с <Node id="645"/>нанотрубками<Node id="657"/> в качестве проводников внутри.
+
+Однако нанотехнологии не стоят на месте, и недавно ученые из Университета Стэнфорда (Stanford University) и компании Toshiba смогли впервые использовать металлизованные <Node id="859"/>углеродные <Node id="870"/>нанотрубки<Node id="880"/> внутри чипа, который работает на таких же скоростях, что и обычная электроника.
+
+В тестовом образце ученые смогли получить частоты около 1 ГГц. Открытие ученых может здорово поддержать закон <Node id="1072"/>Мура<Node id="1076"/>, которому достаточно трудно развиваться дальше без уменьшения медных проводников. Теперь же их могут заменить <Node id="1187"/>нанотрубки<Node id="1197"/>.
+
+Как говорят ученые, это первый шаг к внедрению <Node id="1247"/>нанотрубок<Node id="1257"/> в традиционную электронную продукцию: память, процессоры и другую микроэлектронику. Как следствие, модернизированные чипы обязательно будут меньше по размерам.
+Свидиненко Юрий</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Углеродная+нанотрубка" StartNode="859" EndNode="880">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="2" Type="Нанотрубка" StartNode="1247" EndNode="1257">
+</Annotation>
+<Annotation Id="3" Type="Персона" StartNode="1072" EndNode="1076">
+<Feature>
+  <Name className="java.lang.String">Фамилия</Name>
+  <Value className="java.lang.String">Мур</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Нанотрубка" StartNode="1187" EndNode="1197">
+</Annotation>
+<Annotation Id="5" Type="Нанотрубка" StartNode="645" EndNode="657">
+</Annotation>
+<Annotation Id="6" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="8" Type="связанные_организации" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="Нанотрубка" StartNode="870" EndNode="880">
+<Feature>
+  <Name className="java.lang.String">связанные_организации</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Нанотрубка" StartNode="378" EndNode="388">
+</Annotation>
+<Annotation Id="11" Type="связи_с_другими_организациями" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

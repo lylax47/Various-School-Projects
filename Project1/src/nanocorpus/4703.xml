@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ЦНИИчермет им.И.П.Бардина осваивает нанотехнологииГенеральный директор ФГУП ЦНИИчермет им.И.П.Бардина Евгений Шахпазов рассказал в ходе Международного конгресса «Модернизация черной металлургии России: реконструкция, ввод новых мощностей, строительство мини-заводов, развитие сервисных металлоцентров» о научно-техническое сопровождении внедрения новых видов продукции и технологии их производства В том числе Е. Шахпазов заявил о создании на базe НИИ центра нанотехнологий и <Node id="476"/>наноматериалов<Node id="490"/>, оснащенный уникальным исследовательским оборудованием. Уже сейчас в центре работают 50 сотрудников, 10 из которых доктора наук и 25 – кандидаты наук. 
+<Node id="643"/>По словам Е.Шахпазова, металлургия сегодня – та отрасль, которая позволяет эффективно реализовывать нанотехнологии<Node id="757"/>. Причем, скачок свойств металопродукции при применении <Node id="813"/>наноматериалов<Node id="827"/> феноменален – прочность металла, например, можно повысить в 5–6 раз.
+<Node id="897"/>http://www.metalinfo.ru/ru/news/30411ФГУП<Node id="938"/> ЦНИИчермет <Node id="950"/>им.И.П.Бардинаhttp://www.chermet.net/Вот<Node id="990"/> молодцы ребята! Действуют так, как завещали нам наши великие полководцы и дедушка <Node id="1073"/>Мичурин Иван Владимирович: «Не нужно, грит, (сидеть на печи и) ждать милостей от природы (читай: указаний начальства), взять их у неё – наша задача<Node id="1220"/>». Взяли и сделали. Бросили на эту «амбразуру» с полсотни своих «гвардейцев» и снабдили их прекрасным оборудованием. А там, глядишь, в промышленность вскоре пойдут ценные рекомендации по производству более качественной продукции. Как бы сделать так (вниманию ВВП!), чтобы подобная инициатива и своевременно поощрялась, и всем новаторам оперативно оказывалась соответствующая помощь (ну, разная), и чтобы такого рода почин быстро распространялся бы и в других отраслях народного нашего хозяйства? Причём, не только силами рачительных и «сильных» хозяйственников, но даже и вопреки разгильдяйству и безЫнициативности «слабаков»… Вот пусть наши талантливые экономисты и менеджеры придумают соответствующие схемы и предложения. Цель: чтобы, наконец-то, эта «лошадка» побежала – всё быстрее, быстрее и быстрее. Иначе – кирдык…</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="476" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">связанные_персоны</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="автор" StartNode="1073" EndNode="1220">
+</Annotation>
+<Annotation Id="2" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="3" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="4" Type="автор" StartNode="643" EndNode="757">
+</Annotation>
+<Annotation Id="5" Type="Url" StartNode="950" EndNode="990">
+</Annotation>
+<Annotation Id="6" Type="связанные_персоны" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="7" Type="высказывания_заявления" StartNode="1073" EndNode="1220">
+</Annotation>
+<Annotation Id="8" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="9" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="10" Type="связанные_термины" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="11" Type="Наноматериал" StartNode="813" EndNode="827">
+</Annotation>
+<Annotation Id="12" Type="Url" StartNode="897" EndNode="938">
+</Annotation>
+<Annotation Id="13" Type="высказывания_заявления" StartNode="643" EndNode="757">
+</Annotation>
+<Annotation Id="14" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+<Annotation Id="15" Type="связи_с_другими_персонами" StartNode="0" EndNode="0">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

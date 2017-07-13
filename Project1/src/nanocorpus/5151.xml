@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes>Кандидат химических наук, ассистент факультета наук о материалах МГУ им.М.В.Ломоносова Статус: Пресс-центр 
+Научные интересы: <Node id="126"/>наноструктурированные материалы<Node id="157"/> на основе сложных манганитов для источников тока и катализа. Администраторский доступ к сайту "Нанометр". Обращаться по вопросам информационного обеспечения мероприятий Олимпиады и заключения договоров о спонсорской помощи. Тел. (495) 939-47-29, факс (495) 939-09-98, pomeran@inorg.chem.msu.ru.
+ </TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Наноматериал" StartNode="126" EndNode="157">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
